@@ -1,0 +1,36 @@
+{
+  "id": "268",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "268:p0",
+      "kind": "heading",
+      "text": "268",
+      "sourceLocation": "9/1335"
+    },
+    {
+      "id": "268:p1",
+      "kind": "body",
+      "text": "After a grueling exchange, you land a decisive blow and the man’s legs buckle. He slams to the floor, blood dripping down his apron. His eyes flicker.",
+      "sourceLocation": "9/1336"
+    },
+    {
+      "id": "268:p2",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Fighting (Brawl) skill.",
+      "sourceLocation": "9/1337"
+    },
+    {
+      "id": "268:p3",
+      "kind": "body",
+      "text": "1",
+      "sourceLocation": "9/1338"
+    },
+    {
+      "id": "268:p4",
+      "kind": "body",
+      "text": "To leave him here and investigate elsewhere, go to 120.",
+      "sourceLocation": "9/1339"
+    }
+  ]
+}

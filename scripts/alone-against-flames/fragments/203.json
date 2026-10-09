@@ -1,0 +1,24 @@
+{
+  "id": "203",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "203:p0",
+      "kind": "heading",
+      "text": "203",
+      "sourceLocation": "9/1007"
+    },
+    {
+      "id": "203:p1",
+      "kind": "body",
+      "text": "Something smashes you on the temple. You reel back. You hear Arbogast yell, and see the knife flash: one, two, three times, its shiny surface darkening with blood. Something strikes you again, and as you sink, flames leap from the ground, painting the night with infernal color. They pick out three dark figures…",
+      "sourceLocation": "9/1008"
+    },
+    {
+      "id": "203:p2",
+      "kind": "body",
+      "text": "Take 1D6 damage. Go to 45.",
+      "sourceLocation": "9/1009"
+    }
+  ]
+}

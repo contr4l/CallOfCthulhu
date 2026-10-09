@@ -1,0 +1,42 @@
+{
+  "id": "219",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "219:p0",
+      "kind": "heading",
+      "text": "219",
+      "sourceLocation": "9/1075"
+    },
+    {
+      "id": "219:p1",
+      "kind": "body",
+      "text": "You approach around the back of the buildings in Emberhead’s northwestern corner. By this time in the morning, you would expect activity in the artisans’ courtyard, but the benches and anvils sit deserted. Your footsteps echo off the surrounding walls.",
+      "sourceLocation": "9/1076"
+    },
+    {
+      "id": "219:p2",
+      "kind": "body",
+      "text": "One of the workshops is shut up and padlocked. You peek through the joints, but you can see nothing inside.",
+      "sourceLocation": "9/1077"
+    },
+    {
+      "id": "219:p3",
+      "kind": "body",
+      "text": "To try to crack the padlock, go to 225.",
+      "sourceLocation": "9/1078"
+    },
+    {
+      "id": "219:p4",
+      "kind": "body",
+      "text": "To physically break in to the locked workshop, go to 232.",
+      "sourceLocation": "9/1079"
+    },
+    {
+      "id": "219:p5",
+      "kind": "body",
+      "text": "To move on to another area, go to 120.",
+      "sourceLocation": "9/1080"
+    }
+  ]
+}

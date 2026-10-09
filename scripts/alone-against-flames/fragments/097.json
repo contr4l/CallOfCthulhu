@@ -1,0 +1,42 @@
+{
+  "id": "97",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "97:p0",
+      "kind": "heading",
+      "text": "97",
+      "sourceLocation": "9/508"
+    },
+    {
+      "id": "97:p1",
+      "kind": "body",
+      "text": "A root snags your ankle and you go down hard. You gasp as pain lances up your arm. A dead branch has pierced your forearm and made a gouge almost three inches long. Blood drips onto the grass.",
+      "sourceLocation": "9/509"
+    },
+    {
+      "id": "97:p2",
+      "kind": "body",
+      "text": "Ahead through the trees, you glimpse the road. Perhaps you should have stuck with it instead of striking off into the unknown.",
+      "sourceLocation": "9/510"
+    },
+    {
+      "id": "97:p3",
+      "kind": "body",
+      "text": "Lose 1D3 hit points. You can roll this with an ordinary six-sided dice; just divide your roll by two and round up. This is a significant wound, but fortunately it is not enough to render you unconscious.",
+      "sourceLocation": "9/511"
+    },
+    {
+      "id": "97:p4",
+      "kind": "body",
+      "text": "You may attempt a First Aid roll. If you succeed, restore 1 hit point and check-mark the small box beside the First Aid skill.",
+      "sourceLocation": "9/512"
+    },
+    {
+      "id": "97:p5",
+      "kind": "body",
+      "text": "Then go to 79.",
+      "sourceLocation": "9/513"
+    }
+  ]
+}

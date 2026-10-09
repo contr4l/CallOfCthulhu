@@ -1,0 +1,66 @@
+{
+  "id": "194",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "194:p0",
+      "kind": "heading",
+      "text": "194",
+      "sourceLocation": "9/962"
+    },
+    {
+      "id": "194:p1",
+      "kind": "body",
+      "text": "Silas opens the engine compartment open and sticks his head inside. The hot metal pops and sizzles. He pokes at various components, then withdraws and wipes his brow, smearing it with dark grease.",
+      "sourceLocation": "9/963"
+    },
+    {
+      "id": "194:p2",
+      "kind": "body",
+      "text": "“I ain’t sure what’s wrong. Might be the oil pressure. Might be something knocked off kilter when we took that spill. Can’t do much until the engine cools neither. And with the light failing… I reckon we’ll be here through the night.” He wipes his hands on a rag.",
+      "sourceLocation": "9/964"
+    },
+    {
+      "id": "194:p3",
+      "kind": "body",
+      "text": "The shadows from your surroundings are already long, and the air is chilly. You feel stiff from the journey and a night in the rickety coach sounds unappealing. Silas sees your dismay.",
+      "sourceLocation": "9/965"
+    },
+    {
+      "id": "194:p4",
+      "kind": "body",
+      "text": "“This here’s Emberhead. Miles from anyplace. I only come through twice a week. But the folks here are good people. May Ledbetter keeps a spare room. She’ll look after you. Up that alley, turn right, first house on the left.”",
+      "sourceLocation": "9/966"
+    },
+    {
+      "id": "194:p5",
+      "kind": "body",
+      "text": "He scratches his cheek, looks again into the engine compartment, and spits on the ground.",
+      "sourceLocation": "9/967"
+    },
+    {
+      "id": "194:p6",
+      "kind": "body",
+      "text": "“Meet me back here at eight in the morning and we’ll see how’s we stand.”",
+      "sourceLocation": "9/968"
+    },
+    {
+      "id": "194:p7",
+      "kind": "body",
+      "text": "To look for May Ledbetter’s house, go to 267.",
+      "sourceLocation": "9/969"
+    },
+    {
+      "id": "194:p8",
+      "kind": "body",
+      "text": "To ask Silas where he will spend the night, go to 251.",
+      "sourceLocation": "9/970"
+    },
+    {
+      "id": "194:p9",
+      "kind": "body",
+      "text": "To challenge Silas about the breakdown, go to 257.",
+      "sourceLocation": "9/971"
+    }
+  ]
+}

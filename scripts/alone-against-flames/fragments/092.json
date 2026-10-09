@@ -1,0 +1,36 @@
+{
+  "id": "92",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "92:p0",
+      "kind": "heading",
+      "text": "92",
+      "sourceLocation": "9/487"
+    },
+    {
+      "id": "92:p1",
+      "kind": "body",
+      "text": "The cliff seems to fold over you. Pain fades out as your consciousness slips away. ",
+      "sourceLocation": "9/488"
+    },
+    {
+      "id": "92:p2",
+      "kind": "body",
+      "text": "You have bled to death from your wounds after falling from the cliffs at Emberhead!",
+      "sourceLocation": "9/489"
+    },
+    {
+      "id": "92:p3",
+      "kind": "body",
+      "text": "Why not try the adventure again? Different choices may change your story.",
+      "sourceLocation": "9/490"
+    },
+    {
+      "id": "92:p4",
+      "kind": "body",
+      "text": "The End.",
+      "sourceLocation": "9/491"
+    }
+  ]
+}

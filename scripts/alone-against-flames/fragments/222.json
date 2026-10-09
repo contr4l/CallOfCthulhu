@@ -1,0 +1,24 @@
+{
+  "id": "222",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "222:p0",
+      "kind": "heading",
+      "text": "222",
+      "sourceLocation": "9/1095"
+    },
+    {
+      "id": "222:p1",
+      "kind": "body",
+      "text": "Halfway up, your hand slips on a mossy branch and you tumble to the ground. The breath rushes out of you.",
+      "sourceLocation": "9/1096"
+    },
+    {
+      "id": "222:p2",
+      "kind": "body",
+      "text": "Take 1 hit point damage. If this reduces you to zero, go to 13. Otherwise, you can make the climb with one eye on the weak branch. Go to 228. ",
+      "sourceLocation": "9/1097"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "40",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "40:p0",
+      "kind": "heading",
+      "text": "40",
+      "sourceLocation": "9/229"
+    },
+    {
+      "id": "40:p1",
+      "kind": "body",
+      "text": "The flames snake across the kindling, catching and rising. Smoke rises and it becomes difficult to see the villagers. The three bodies surrounding you catch fire, blazing with sooty red flames. You begin to cough as the smoke enters your lungs, and fight down the urge to panic.",
+      "sourceLocation": "9/230"
+    },
+    {
+      "id": "40:p2",
+      "kind": "body",
+      "text": "If you have learned a strange chant and wish to try it, this is the moment. Otherwise go to 65.",
+      "sourceLocation": "9/231"
+    }
+  ]
+}

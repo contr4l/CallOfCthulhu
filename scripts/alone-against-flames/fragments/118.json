@@ -1,0 +1,30 @@
+{
+  "id": "118",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "118:p0",
+      "kind": "heading",
+      "text": "118",
+      "sourceLocation": "9/599"
+    },
+    {
+      "id": "118:p1",
+      "kind": "body",
+      "text": "As you scan the shelves you try to move aside one of the three volumes of Walpole’s A Comprehensive Grammar of the Andean Peoples. It will not shift, and upon further inspection you find the three volumes are actually glued together and attached to the wall. Is this some kind of unobtrusive way to reinforce the shelves?",
+      "sourceLocation": "9/600"
+    },
+    {
+      "id": "118:p2",
+      "kind": "body",
+      "text": "You hear footsteps in the hall and, on instinct, move away from this curious discovery.",
+      "sourceLocation": "9/601"
+    },
+    {
+      "id": "118:p3",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Spot Hidden skill. Now go to 124.",
+      "sourceLocation": "9/602"
+    }
+  ]
+}

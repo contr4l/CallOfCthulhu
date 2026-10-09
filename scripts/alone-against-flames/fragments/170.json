@@ -1,0 +1,24 @@
+{
+  "id": "170",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "170:p0",
+      "kind": "heading",
+      "text": "170",
+      "sourceLocation": "9/848"
+    },
+    {
+      "id": "170:p1",
+      "kind": "body",
+      "text": "You turn a corner and walk straight into the formidable woman with the malevolent stare. She grabs your shoulders and bears down on you. As you struggle, the man with the club runs up with the teenager. You are quickly overcome.",
+      "sourceLocation": "9/849"
+    },
+    {
+      "id": "170:p2",
+      "kind": "body",
+      "text": "Go to 108.",
+      "sourceLocation": "9/850"
+    }
+  ]
+}

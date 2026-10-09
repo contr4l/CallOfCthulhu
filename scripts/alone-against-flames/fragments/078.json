@@ -1,0 +1,60 @@
+{
+  "id": "78",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "78:p0",
+      "kind": "heading",
+      "text": "78",
+      "sourceLocation": "9/418"
+    },
+    {
+      "id": "78:p1",
+      "kind": "body",
+      "text": "You make a quiet circuit of the village, pausing in unobtrusive places to watch the villagers. It is rather busy for this time in the morning. Yawning locals stream back and forward along the roads, carrying bundles of split logs to the site of what you’ve heard referred to as the Beacon. You see two figures already up in its superstructure, arranging the wood. The Festival bonfire will be most impressive. But do you intend to stay to see it? You suspect by now that something is amiss here.",
+      "sourceLocation": "9/419"
+    },
+    {
+      "id": "78:p2",
+      "kind": "body",
+      "text": "While the villagers are distracted, you may do some illicit investigation. Or you may simply leave town without looking back.",
+      "sourceLocation": "9/420"
+    },
+    {
+      "id": "78:p3",
+      "kind": "body",
+      "text": "You may now:",
+      "sourceLocation": "9/421"
+    },
+    {
+      "id": "78:p4",
+      "kind": "body",
+      "text": "—Search May Ledbetter’s bedroom; go to 83.",
+      "sourceLocation": "9/422"
+    },
+    {
+      "id": "78:p5",
+      "kind": "body",
+      "text": "—Go alone to the village hall: go to 126.",
+      "sourceLocation": "9/423"
+    },
+    {
+      "id": "78:p6",
+      "kind": "body",
+      "text": "—Take a closer look at the artisans’ courtyard: go to 219.",
+      "sourceLocation": "9/424"
+    },
+    {
+      "id": "78:p7",
+      "kind": "body",
+      "text": "—Spy on activity at the Beacon: go to 29.",
+      "sourceLocation": "9/425"
+    },
+    {
+      "id": "78:p8",
+      "kind": "body",
+      "text": "—Slip down to the east road and flee for good: go to 7.",
+      "sourceLocation": "9/426"
+    }
+  ]
+}

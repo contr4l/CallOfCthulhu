@@ -1,0 +1,24 @@
+{
+  "id": "8",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "8:p0",
+      "kind": "heading",
+      "text": "8",
+      "sourceLocation": "9/58"
+    },
+    {
+      "id": "8:p1",
+      "kind": "body",
+      "text": "The driver smokes and watches as you drag your cases to the back of the motor coach. The rack is set inconveniently high on the vehicle. You get a grip on the heavier case.",
+      "sourceLocation": "9/59"
+    },
+    {
+      "id": "8:p2",
+      "kind": "body",
+      "text": "If your SIZ is 40, go to 23. If your SIZ is higher than this, go to 38.",
+      "sourceLocation": "9/60"
+    }
+  ]
+}

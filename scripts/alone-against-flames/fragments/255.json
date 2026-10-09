@@ -1,0 +1,36 @@
+{
+  "id": "255",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "255:p0",
+      "kind": "heading",
+      "text": "255",
+      "sourceLocation": "9/1264"
+    },
+    {
+      "id": "255:p1",
+      "kind": "body",
+      "text": "Your word arrests the stars in their descent and holds them, scintillating, above the village. Then, one by one, they lift and rise. You hear a gasp from the villagers, a communal intake of breath, and for a moment, a deep sadness descends upon you. Then the unrelenting flames cover your body.",
+      "sourceLocation": "9/1265"
+    },
+    {
+      "id": "255:p2",
+      "kind": "body",
+      "text": "You have burned to death in the Beacon!",
+      "sourceLocation": "9/1266"
+    },
+    {
+      "id": "255:p3",
+      "kind": "body",
+      "text": "However, you did briefly reach beyond this Earth. Would you like to try again?",
+      "sourceLocation": "9/1267"
+    },
+    {
+      "id": "255:p4",
+      "kind": "body",
+      "text": "The End.",
+      "sourceLocation": "9/1268"
+    }
+  ]
+}

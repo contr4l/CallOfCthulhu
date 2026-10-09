@@ -1,0 +1,36 @@
+{
+  "id": "52",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "52:p0",
+      "kind": "heading",
+      "text": "52",
+      "sourceLocation": "9/277"
+    },
+    {
+      "id": "52:p1",
+      "kind": "body",
+      "text": "You stare out the window and watch as the sun reaches the horizon, bathing the village in sickly orange. It has been a long night and you feel stiff and irritable. You rub your eyes.",
+      "sourceLocation": "9/278"
+    },
+    {
+      "id": "52:p2",
+      "kind": "body",
+      "text": "A few minutes later, you hear May bustling in the kitchen. Then the front door opens and closes.",
+      "sourceLocation": "9/279"
+    },
+    {
+      "id": "52:p3",
+      "kind": "body",
+      "text": "Make a CON roll. If you fail, your skill rolls today suffer a penalty. Roll the “tens” percentage die twice and take the higher result. This does not apply to Luck, Sanity or damage rolls.",
+      "sourceLocation": "9/280"
+    },
+    {
+      "id": "52:p4",
+      "kind": "body",
+      "text": "Now go to 64.",
+      "sourceLocation": "9/281"
+    }
+  ]
+}

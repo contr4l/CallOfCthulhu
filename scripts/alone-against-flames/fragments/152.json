@@ -1,0 +1,36 @@
+{
+  "id": "152",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "152:p0",
+      "kind": "heading",
+      "text": "152",
+      "sourceLocation": "9/765"
+    },
+    {
+      "id": "152:p1",
+      "kind": "body",
+      "text": "The sun is low in the sky as you head east from the village, making for the safety of the woods. The Beacon breaks the horizon, imposing in silhouette. You maintain as fast a pace as you can until you reach the refuge of the tree line. Then you allow yourself to step off the road and take a breather.",
+      "sourceLocation": "9/766"
+    },
+    {
+      "id": "152:p2",
+      "kind": "body",
+      "text": "Almost two hours later, the sun sets. The darkness of the woods might be frightening, but your escape from Emberhead has given you new resolve. You strike on into the night.",
+      "sourceLocation": "9/767"
+    },
+    {
+      "id": "152:p3",
+      "kind": "body",
+      "text": "Not long afterwards, you hear hooves, approaching fast. Two sets. Your heart lifts—but they are coming from behind you.",
+      "sourceLocation": "9/768"
+    },
+    {
+      "id": "152:p4",
+      "kind": "body",
+      "text": "Make a Stealth roll. If you succeed, go to 211. If you fail, go to 216. ",
+      "sourceLocation": "9/769"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "189",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "189:p0",
+      "kind": "heading",
+      "text": "189",
+      "sourceLocation": "9/938"
+    },
+    {
+      "id": "189:p1",
+      "kind": "body",
+      "text": "You smash the pillar at its most distorted point. You hear a crack, so you draw back your weapon and smash it again. The pillar buckles and snaps. Thunder sounds above your head. You have a frozen moment of satisfaction as your pursuers look up in synchronized, wide-eyed horror.",
+      "sourceLocation": "9/939"
+    },
+    {
+      "id": "189:p2",
+      "kind": "body",
+      "text": "Then the ceiling falls in.",
+      "sourceLocation": "9/940"
+    },
+    {
+      "id": "189:p3",
+      "kind": "body",
+      "text": "Make a Luck roll. If you succeed, go to 204. If you fail, go to 196.",
+      "sourceLocation": "9/941"
+    }
+  ]
+}

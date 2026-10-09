@@ -1,0 +1,30 @@
+{
+  "id": "228",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "228:p0",
+      "kind": "heading",
+      "text": "228",
+      "sourceLocation": "9/1122"
+    },
+    {
+      "id": "228:p1",
+      "kind": "body",
+      "text": "You ease yourself onto the widest branch you can see. It is less than comfortable, but you do at least feel safer in this elevated position.",
+      "sourceLocation": "9/1123"
+    },
+    {
+      "id": "228:p2",
+      "kind": "body",
+      "text": "Night settles slowly around you. The woods come alive with small noises: scratching nearby, distant bird calls, and the gentle rustle of leaves. Although resigned to a long, tedious night of wakefulness, after a few hours you find yourself yawning. You loop your belt around the branch and your clothing, to hold yourself in place as best you can. Then you close your eyes.",
+      "sourceLocation": "9/1124"
+    },
+    {
+      "id": "228:p3",
+      "kind": "body",
+      "text": "Go to 246.",
+      "sourceLocation": "9/1125"
+    }
+  ]
+}

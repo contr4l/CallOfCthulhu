@@ -1,0 +1,36 @@
+{
+  "id": "26",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "26:p0",
+      "kind": "heading",
+      "text": "26",
+      "sourceLocation": "9/165"
+    },
+    {
+      "id": "26:p1",
+      "kind": "body",
+      "text": "You drift awake in the morning light. The sun is already high but you do not feel well rested. You find yourself preoccupied with little details of the room: the wood grain of the doorjamb, or a chipped handle on the wardrobe.",
+      "sourceLocation": "9/166"
+    },
+    {
+      "id": "26:p2",
+      "kind": "body",
+      "text": "As you swing out of bed, your stomach gives a lurch and you lean too far over, nearly tumbling to the floor. You blink for a moment. Perhaps you have an illness coming on. You get carefully to your feet. The air in the room is heavy and fragrant. You stare out of the window until you feel steady enough to leave.",
+      "sourceLocation": "9/167"
+    },
+    {
+      "id": "26:p3",
+      "kind": "body",
+      "text": "Your skill rolls today suffer a penalty. Roll the “tens” percentage die twice and take the higher result. This does not apply to Luck, Sanity or damage rolls. ",
+      "sourceLocation": "9/168"
+    },
+    {
+      "id": "26:p4",
+      "kind": "body",
+      "text": "Now go to 64.",
+      "sourceLocation": "9/169"
+    }
+  ]
+}

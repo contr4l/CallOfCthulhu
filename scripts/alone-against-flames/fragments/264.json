@@ -1,0 +1,36 @@
+{
+  "id": "264",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "264:p0",
+      "kind": "heading",
+      "text": "264",
+      "sourceLocation": "9/1315"
+    },
+    {
+      "id": "264:p1",
+      "kind": "body",
+      "text": "The eerie howls draw closer. They come from either side. One calls and is answered by a grim chorus, thick and hungry. They have a strange, desperate edge.",
+      "sourceLocation": "9/1316"
+    },
+    {
+      "id": "264:p2",
+      "kind": "body",
+      "text": "You are walking as fast as you can now. You hear your own breath, coming hard. The trees in this area are too young to support your weight. Perhaps you should just run. But how long could you run before you had to stop—",
+      "sourceLocation": "9/1317"
+    },
+    {
+      "id": "264:p3",
+      "kind": "body",
+      "text": "A clump of low, dark bodies slink from the trees, blocking the road ahead. Each silhouette has high, pointed ears. Their eyes glint in the moonlight.",
+      "sourceLocation": "9/1318"
+    },
+    {
+      "id": "264:p4",
+      "kind": "body",
+      "text": "Make a Sanity roll. If you succeed, go to 269. If you fail, go to 5.",
+      "sourceLocation": "9/1319"
+    }
+  ]
+}

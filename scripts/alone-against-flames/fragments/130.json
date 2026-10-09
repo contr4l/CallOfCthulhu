@@ -1,0 +1,30 @@
+{
+  "id": "130",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "130:p0",
+      "kind": "heading",
+      "text": "130",
+      "sourceLocation": "9/654"
+    },
+    {
+      "id": "130:p1",
+      "kind": "body",
+      "text": "The figure moves fast, with almost silent steps. You are hampered with a heavy lantern in an unfamiliar environment. You emerge from the alley into a dusty courtyard, and can detect no sign of your quarry. You scratch around for a few minutes, but the figure has gone.",
+      "sourceLocation": "9/655"
+    },
+    {
+      "id": "130:p2",
+      "kind": "body",
+      "text": "It seems unwise to continue your stroll through unknown, dark streets while this threatening presence is abroad. You head back to the Ledbetter house. May lets you in and settles back in her chair. Soon she begins to yawn. “I believe I’ll turn in. When would you like your breakfast?”",
+      "sourceLocation": "9/656"
+    },
+    {
+      "id": "130:p3",
+      "kind": "body",
+      "text": "Go to 63.",
+      "sourceLocation": "9/657"
+    }
+  ]
+}

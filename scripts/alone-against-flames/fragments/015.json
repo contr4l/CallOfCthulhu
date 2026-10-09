@@ -1,0 +1,36 @@
+{
+  "id": "15",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "15:p0",
+      "kind": "heading",
+      "text": "15",
+      "sourceLocation": "9/99"
+    },
+    {
+      "id": "15:p1",
+      "kind": "body",
+      "text": "You ask May why Ruth wants you to leave town. She gives her daughter a hard stare. Ruth looks at the ground.",
+      "sourceLocation": "9/100"
+    },
+    {
+      "id": "15:p2",
+      "kind": "body",
+      "text": "May says, “Ruth doesn’t like it when we have guests in the house. But she needs to learn that we don’t always get what we want in life. Sometimes we have to do things we might not best like. But they’re necessary, all the same.”",
+      "sourceLocation": "9/101"
+    },
+    {
+      "id": "15:p3",
+      "kind": "body",
+      "text": "May shakes her head at you and then nods back in the direction of the house. You catch a hint of emotion in those green eyes.",
+      "sourceLocation": "9/102"
+    },
+    {
+      "id": "15:p4",
+      "kind": "body",
+      "text": "Go to 22.",
+      "sourceLocation": "9/103"
+    }
+  ]
+}

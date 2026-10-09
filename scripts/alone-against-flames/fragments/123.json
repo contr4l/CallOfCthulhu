@@ -1,0 +1,36 @@
+{
+  "id": "123",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "123:p0",
+      "kind": "heading",
+      "text": "123",
+      "sourceLocation": "9/623"
+    },
+    {
+      "id": "123:p1",
+      "kind": "body",
+      "text": "They bear you back into the center of the pyre. Their eyes are flecked with fervor and terror. Even as the flames spread over them and across your clothes, even as the heat builds and sears your flesh, even as smoke chokes you and your vision blurs, they hold you down in the flames. Your screams mingle with theirs as the fire does its work.",
+      "sourceLocation": "9/624"
+    },
+    {
+      "id": "123:p2",
+      "kind": "body",
+      "text": "You have burned to death whilst grappling two teenagers.",
+      "sourceLocation": "9/625"
+    },
+    {
+      "id": "123:p3",
+      "kind": "body",
+      "text": "Why not try again? By making different choices you may be able to escape or outwit the people of Emberhead.",
+      "sourceLocation": "9/626"
+    },
+    {
+      "id": "123:p4",
+      "kind": "body",
+      "text": "The End.",
+      "sourceLocation": "9/627"
+    }
+  ]
+}

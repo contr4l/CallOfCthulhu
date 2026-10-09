@@ -1,0 +1,42 @@
+{
+  "id": "68",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "68:p0",
+      "kind": "heading",
+      "text": "68",
+      "sourceLocation": "9/361"
+    },
+    {
+      "id": "68:p1",
+      "kind": "body",
+      "text": "Winters is happy for you to spend the rest of the afternoon in study and offers you an upright but comfortable chair. You have enough time to pursue one line of research in depth.",
+      "sourceLocation": "9/362"
+    },
+    {
+      "id": "68:p2",
+      "kind": "body",
+      "text": "To read about the history of the area, go to 74.",
+      "sourceLocation": "9/363"
+    },
+    {
+      "id": "68:p3",
+      "kind": "body",
+      "text": "To read about the festival, go to 81.",
+      "sourceLocation": "9/364"
+    },
+    {
+      "id": "68:p4",
+      "kind": "body",
+      "text": "To read something from the sciences, go to 88.",
+      "sourceLocation": "9/365"
+    },
+    {
+      "id": "68:p5",
+      "kind": "body",
+      "text": "To read some of the weird fiction, go to 94.",
+      "sourceLocation": "9/366"
+    }
+  ]
+}

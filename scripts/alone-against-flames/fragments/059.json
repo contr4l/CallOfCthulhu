@@ -1,0 +1,54 @@
+{
+  "id": "59",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "59:p0",
+      "kind": "heading",
+      "text": "59",
+      "sourceLocation": "9/312"
+    },
+    {
+      "id": "59:p1",
+      "kind": "body",
+      "text": "A desperate yell awakens you. You feel yourself slide from the seat as the driver spins the wheel and the motor coach plunges off the road. Too late, you reach for the seat in front. You fall into the aisle and your ribs crash against the edge of the seat opposite. Breath rushes out of you. The coach stops with a thump.",
+      "sourceLocation": "9/313"
+    },
+    {
+      "id": "59:p2",
+      "kind": "body",
+      "text": "Your driver leaps from his seat into the road. As you sprawl, dizzy, in the aisle, you hear a string of incendiary curses.",
+      "sourceLocation": "9/314"
+    },
+    {
+      "id": "59:p3",
+      "kind": "body",
+      "text": "The driver climbs back into the cab and sees you on the floor. He looks concerned and assists you back into your seat. You see what has happened now. A Fordson tractor has stopped in the road and he had to swerve to avoid this steel obstacle.",
+      "sourceLocation": "9/315"
+    },
+    {
+      "id": "59:p4",
+      "kind": "body",
+      "text": "“Sorry,” he says. “All them fields and he has to pick the road to park. You all right?”",
+      "sourceLocation": "9/316"
+    },
+    {
+      "id": "59:p5",
+      "kind": "body",
+      "text": "You don’t think anything’s broken. But you’ll have a colorful bruise for the next few days. He backs the coach up a little and threads it around the tractor, glaring at the farmer.",
+      "sourceLocation": "9/317"
+    },
+    {
+      "id": "59:p6",
+      "kind": "body",
+      "text": "You lost 1 hit point in the accident. Mark the loss on your investigator sheet, but keep track of the original value. You will eventually heal back up to this value. If you drop to 0 hit points, you will fall unconscious and you might die.",
+      "sourceLocation": "9/318"
+    },
+    {
+      "id": "59:p7",
+      "kind": "body",
+      "text": "Now go to 71.",
+      "sourceLocation": "9/319"
+    }
+  ]
+}

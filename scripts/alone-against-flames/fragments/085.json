@@ -1,0 +1,24 @@
+{
+  "id": "85",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "85:p0",
+      "kind": "heading",
+      "text": "85",
+      "sourceLocation": "9/461"
+    },
+    {
+      "id": "85:p1",
+      "kind": "body",
+      "text": "You set off along the track and make good progress. A few mossy tree stumps mark the route and you wonder if its course was planned. However, after about ten minutes, the boughs draw closer and it becomes harder to pick out a way forward. Just as you think you can see the path open up ahead, you miss your footing.",
+      "sourceLocation": "9/462"
+    },
+    {
+      "id": "85:p2",
+      "kind": "body",
+      "text": "Make a Luck roll. If you succeed, turn to 91. If you fail, turn to 97.",
+      "sourceLocation": "9/463"
+    }
+  ]
+}

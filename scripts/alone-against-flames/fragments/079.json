@@ -1,0 +1,24 @@
+{
+  "id": "79",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "79:p0",
+      "kind": "heading",
+      "text": "79",
+      "sourceLocation": "9/427"
+    },
+    {
+      "id": "79:p1",
+      "kind": "body",
+      "text": "You return to the road and resume your walk east. At least, you hope you are still heading east. The curves of the road become disorienting when the light begins to fade. Clouds hide the stars. It seems you will not reach another settlement before dark, and you feel weariness in your legs. The air is much cooler now.",
+      "sourceLocation": "9/428"
+    },
+    {
+      "id": "79:p2",
+      "kind": "body",
+      "text": "Make a Hard Listen roll. If you succeed, go to 240. If you fail, go to 234.",
+      "sourceLocation": "9/429"
+    }
+  ]
+}

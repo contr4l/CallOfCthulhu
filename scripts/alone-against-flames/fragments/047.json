@@ -1,0 +1,30 @@
+{
+  "id": "47",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "47:p0",
+      "kind": "heading",
+      "text": "47",
+      "sourceLocation": "9/254"
+    },
+    {
+      "id": "47:p1",
+      "kind": "body",
+      "text": "A second call answers the first. You imagine yourself cornered by wolves in the forest, torn and bleeding on the ground as the leader stands over you, saliva dripping from between its glistening, pointed teeth. That merciless mouth flashes towards your neck–",
+      "sourceLocation": "9/255"
+    },
+    {
+      "id": "47:p2",
+      "kind": "body",
+      "text": "The return walk to town seems longer than the outward leg. You try not to keep looking behind you. As you ascend, the sun has dipped in the sky. You still have enough time to try the village hall.",
+      "sourceLocation": "9/256"
+    },
+    {
+      "id": "47:p3",
+      "kind": "body",
+      "text": "Go to 11.",
+      "sourceLocation": "9/257"
+    }
+  ]
+}

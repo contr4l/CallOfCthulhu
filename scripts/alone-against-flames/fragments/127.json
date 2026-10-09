@@ -1,0 +1,24 @@
+{
+  "id": "127",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "127:p0",
+      "kind": "heading",
+      "text": "127",
+      "sourceLocation": "9/640"
+    },
+    {
+      "id": "127:p1",
+      "kind": "body",
+      "text": "The man looks up at the village, scanning the clifftops. You get a brief flash of his face. There is something unsettling about it. Then he turns to walk away from the road. But as he does, he raises a hand and slowly beckons to you.",
+      "sourceLocation": "9/641"
+    },
+    {
+      "id": "127:p2",
+      "kind": "body",
+      "text": "If you follow the strange man, turn to 142. If this seems unwise, turn to 160.",
+      "sourceLocation": "9/642"
+    }
+  ]
+}

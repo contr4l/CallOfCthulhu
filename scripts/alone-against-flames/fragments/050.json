@@ -1,0 +1,30 @@
+{
+  "id": "50",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "50:p0",
+      "kind": "heading",
+      "text": "50",
+      "sourceLocation": "9/267"
+    },
+    {
+      "id": "50:p1",
+      "kind": "body",
+      "text": "The flames draw closer as you bring Arbogast’s chant to mind. It is hard to clear your head as the heat grows beneath your feet. You cough and splutter, but you sustain the words. Finally you reach the key passage, and even as your clothes catch fire, you yell for the third time: ",
+      "sourceLocation": "9/268"
+    },
+    {
+      "id": "50:p2",
+      "kind": "body",
+      "text": "Ph’nglui mglw’nafh Cthugha Fomalhaut n’gha-ghaa naf’l thagn! Iä! Cthugha!",
+      "sourceLocation": "9/269"
+    },
+    {
+      "id": "50:p3",
+      "kind": "body",
+      "text": "Go to 270.",
+      "sourceLocation": "9/270"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "27",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "27:p0",
+      "kind": "heading",
+      "text": "27",
+      "sourceLocation": "9/170"
+    },
+    {
+      "id": "27:p1",
+      "kind": "body",
+      "text": "The door scrapes, wrenching you back into the moment. Orange light spills into the house from blazing torches held at the threshold. Two large villagers step in and grab you. At least, you assume they are villagers. They wear heavy black cloaks, and their faces and hands are painted entirely black, save only for a red triangle centered on their left eye.",
+      "sourceLocation": "9/171"
+    },
+    {
+      "id": "27:p2",
+      "kind": "body",
+      "text": "You try to drag your legs, but they reach under your arms and lift you bodily from the bed. Outside, it seems that the whole village has congregated to see you. Every single one has a blackened face with the red triangle motif. Torches sputter and spill fire.",
+      "sourceLocation": "9/172"
+    },
+    {
+      "id": "27:p3",
+      "kind": "body",
+      "text": "You struggle, but you can see physical resistance is hopeless. You are marched to the central street and turned to face the Beacon.",
+      "sourceLocation": "9/173"
+    },
+    {
+      "id": "27:p4",
+      "kind": "body",
+      "text": "Go to 117.",
+      "sourceLocation": "9/174"
+    }
+  ]
+}

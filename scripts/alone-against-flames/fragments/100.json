@@ -1,0 +1,42 @@
+{
+  "id": "100",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "100:p0",
+      "kind": "heading",
+      "text": "100",
+      "sourceLocation": "9/521"
+    },
+    {
+      "id": "100:p1",
+      "kind": "body",
+      "text": "You flee back down the narrow street, the lantern swinging in your grasp. You reach the door and pound it urgently. May is surprised to see you so soon.",
+      "sourceLocation": "9/522"
+    },
+    {
+      "id": "100:p2",
+      "kind": "body",
+      "text": "“The air up here can tire you out if you’re not used to it,” she says.",
+      "sourceLocation": "9/523"
+    },
+    {
+      "id": "100:p3",
+      "kind": "body",
+      "text": "You glance back once before you close the door. The dark figure is standing against the wall at the end of the street, still staring at you. Or is it? The murk may be deceiving your eyes. You slide the heavy bolt into place.",
+      "sourceLocation": "9/524"
+    },
+    {
+      "id": "100:p4",
+      "kind": "body",
+      "text": "May has settled back into her chair, but now she blinks and yawns. “I believe I’ll turn in. When would you like your breakfast?”",
+      "sourceLocation": "9/525"
+    },
+    {
+      "id": "100:p5",
+      "kind": "body",
+      "text": "Go to 63.",
+      "sourceLocation": "9/526"
+    }
+  ]
+}

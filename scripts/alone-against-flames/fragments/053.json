@@ -1,0 +1,36 @@
+{
+  "id": "53",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "53:p0",
+      "kind": "heading",
+      "text": "53",
+      "sourceLocation": "9/282"
+    },
+    {
+      "id": "53:p1",
+      "kind": "body",
+      "text": "As tongues of fire lick towards you through the kindling, you close your eyes and heave on the chains. They give a little more, then—clack. One side of the chain drops. You wriggle in the coils, loosening the bond even as heat singes your ankles.",
+      "sourceLocation": "9/283"
+    },
+    {
+      "id": "53:p2",
+      "kind": "body",
+      "text": "The man on the dais stares at your movements. Then he picks two youths from the crowd and points directly at you.",
+      "sourceLocation": "9/284"
+    },
+    {
+      "id": "53:p3",
+      "kind": "body",
+      "text": "Just as you shrug the chain off and step free from the ironwork, the youths mount the blazing platform. Flames spread up their trousers. As their cloaks catch, they dive at you. ",
+      "sourceLocation": "9/285"
+    },
+    {
+      "id": "53:p4",
+      "kind": "body",
+      "text": "Make a Hard Dodge roll. If you succeed, go to 109. If you fail, go to 123.",
+      "sourceLocation": "9/286"
+    }
+  ]
+}

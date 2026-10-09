@@ -1,0 +1,30 @@
+{
+  "id": "119",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "119:p0",
+      "kind": "heading",
+      "text": "119",
+      "sourceLocation": "9/603"
+    },
+    {
+      "id": "119:p1",
+      "kind": "body",
+      "text": "The southern group appears less sharp than the western group. You stride up to them and explain they are needed at the Beacon. They look dubious. You offer to watch the road for them and hold out your hand for a pitchfork.",
+      "sourceLocation": "9/604"
+    },
+    {
+      "id": "119:p2",
+      "kind": "body",
+      "text": "“Nah. You come with us,” says the first one. His ape-like brow bends into a frown.",
+      "sourceLocation": "9/605"
+    },
+    {
+      "id": "119:p3",
+      "kind": "body",
+      "text": "Make an Extreme Fast Talk roll. This is a roll equal to or less than one-fifth of the skill value (the number in the lower right box). If you succeed, go to 132. If you fail, go to 139.",
+      "sourceLocation": "9/606"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "99",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "99:p0",
+      "kind": "heading",
+      "text": "99",
+      "sourceLocation": "9/518"
+    },
+    {
+      "id": "99:p1",
+      "kind": "body",
+      "text": "The afternoon wears on. You have not quite finished your reading when Winters glances out of the window and stands up. He clears his throat.",
+      "sourceLocation": "9/519"
+    },
+    {
+      "id": "99:p2",
+      "kind": "body",
+      "text": "Make a Credit Rating roll. If you succeed, go to 111. If you fail, go to 105.",
+      "sourceLocation": "9/520"
+    }
+  ]
+}

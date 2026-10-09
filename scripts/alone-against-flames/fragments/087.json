@@ -1,0 +1,24 @@
+{
+  "id": "87",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "87:p0",
+      "kind": "heading",
+      "text": "87",
+      "sourceLocation": "9/469"
+    },
+    {
+      "id": "87:p1",
+      "kind": "body",
+      "text": "You round an outcrop to find the man has disappeared. The ridge extends much further to the west, and the outer edge leads to a dangerous drop. You have lost him.",
+      "sourceLocation": "9/470"
+    },
+    {
+      "id": "87:p2",
+      "kind": "body",
+      "text": "You may make a Hard Spot Hidden roll. If you succeed, go to 181. Otherwise, give it up and go to 160.",
+      "sourceLocation": "9/471"
+    }
+  ]
+}

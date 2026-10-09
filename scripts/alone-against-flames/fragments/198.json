@@ -1,0 +1,30 @@
+{
+  "id": "198",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "198:p0",
+      "kind": "heading",
+      "text": "198",
+      "sourceLocation": "9/985"
+    },
+    {
+      "id": "198:p1",
+      "kind": "body",
+      "text": "You sense, rather than see, stars descend from the sky above you. From your flaming tether, you reach out to command the stars.",
+      "sourceLocation": "9/986"
+    },
+    {
+      "id": "198:p2",
+      "kind": "body",
+      "text": "Every magic point you committed gives you a 10% chance to succeed. So if you committed 6 magic points, you must make a 60% roll. Any roll of 96-00 is always a fail.",
+      "sourceLocation": "9/987"
+    },
+    {
+      "id": "198:p3",
+      "kind": "body",
+      "text": "If you succeed with Command Ye Celestial Flames, go to 209. If you fail, go to 65.",
+      "sourceLocation": "9/988"
+    }
+  ]
+}

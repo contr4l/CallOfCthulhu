@@ -1,0 +1,30 @@
+{
+  "id": "211",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "211:p0",
+      "kind": "heading",
+      "text": "211",
+      "sourceLocation": "9/1045"
+    },
+    {
+      "id": "211:p1",
+      "kind": "body",
+      "text": "You press yourself against the biggest trunk you can find. Two horses draw near, their riders holding up lanterns. Branches cast a maze of shifting shadows across you as they pass. You get a momentary look at the face of one rider. He looks drawn and anxious. Then they head away to the east.",
+      "sourceLocation": "9/1046"
+    },
+    {
+      "id": "211:p2",
+      "kind": "body",
+      "text": "Once you are sure they are out of earshot, you make your way through the woods. It seems wise to avoid the road.",
+      "sourceLocation": "9/1047"
+    },
+    {
+      "id": "211:p3",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Stealth skill. Go to 223.",
+      "sourceLocation": "9/1048"
+    }
+  ]
+}

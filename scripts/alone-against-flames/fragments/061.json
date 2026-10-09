@@ -1,0 +1,36 @@
+{
+  "id": "61",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "61:p0",
+      "kind": "heading",
+      "text": "61",
+      "sourceLocation": "9/324"
+    },
+    {
+      "id": "61:p1",
+      "kind": "body",
+      "text": "You lie concealed in the grass and watch the activity around the Beacon. Villagers bring in yet more bundles of tinder and stack them in neat bundles. Another shift passes the bundles up to a pair of men standing on the raised platform of the Beacon. They are constructing a triangular structure, resembling a gigantic campfire.",
+      "sourceLocation": "9/325"
+    },
+    {
+      "id": "61:p2",
+      "kind": "body",
+      "text": "As you watch, you are struck by the manner of the laborers. This is their festival. You would expect a cheerful atmosphere and some light-hearted conversation. Yet the faces of some show resignation and detachment; others, a naked dread.",
+      "sourceLocation": "9/326"
+    },
+    {
+      "id": "61:p3",
+      "kind": "body",
+      "text": "You watch for a good half hour before you slip away.",
+      "sourceLocation": "9/327"
+    },
+    {
+      "id": "61:p4",
+      "kind": "body",
+      "text": "Go to 120.",
+      "sourceLocation": "9/328"
+    }
+  ]
+}

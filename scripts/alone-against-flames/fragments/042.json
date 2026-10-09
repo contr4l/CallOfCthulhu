@@ -1,0 +1,24 @@
+{
+  "id": "42",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "42:p0",
+      "kind": "heading",
+      "text": "42",
+      "sourceLocation": "9/235"
+    },
+    {
+      "id": "42:p1",
+      "kind": "body",
+      "text": "The turf sinks beneath your feet and stones crumble from its edge. Alarmed, you grip the building and ease yourself forward. Finally you have a good spot to watch the Beacon.",
+      "sourceLocation": "9/236"
+    },
+    {
+      "id": "42:p2",
+      "kind": "body",
+      "text": "Go to 61.",
+      "sourceLocation": "9/237"
+    }
+  ]
+}

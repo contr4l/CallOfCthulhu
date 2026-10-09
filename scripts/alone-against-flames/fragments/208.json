@@ -1,0 +1,30 @@
+{
+  "id": "208",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "208:p0",
+      "kind": "heading",
+      "text": "208",
+      "sourceLocation": "9/1029"
+    },
+    {
+      "id": "208:p1",
+      "kind": "body",
+      "text": "The echoing call comes again, and this time it is answered by something closer to you. This seems a good time to get off the ground.",
+      "sourceLocation": "9/1030"
+    },
+    {
+      "id": "208:p2",
+      "kind": "body",
+      "text": "You select a tree with obvious footholds and a thick branch at about twice your height. You haul yourself up. You are not dressed for this.",
+      "sourceLocation": "9/1031"
+    },
+    {
+      "id": "208:p3",
+      "kind": "body",
+      "text": "Make a Climb roll. If you Fumble (a roll of 96 or over), go to 222. Otherwise, go to 228. ",
+      "sourceLocation": "9/1032"
+    }
+  ]
+}

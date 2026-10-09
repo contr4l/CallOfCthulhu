@@ -1,0 +1,24 @@
+{
+  "id": "73",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "73:p0",
+      "kind": "heading",
+      "text": "73",
+      "sourceLocation": "9/394"
+    },
+    {
+      "id": "73:p1",
+      "kind": "body",
+      "text": "You crash to the ground. The breath rushes from your lungs. Blood trickles from your head.",
+      "sourceLocation": "9/395"
+    },
+    {
+      "id": "73:p2",
+      "kind": "body",
+      "text": "If your hit points have reached zero, go to 92. Otherwise, go to 82.",
+      "sourceLocation": "9/396"
+    }
+  ]
+}

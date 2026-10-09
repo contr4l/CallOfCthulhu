@@ -1,0 +1,24 @@
+{
+  "id": "183",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "183:p0",
+      "kind": "heading",
+      "text": "183",
+      "sourceLocation": "9/916"
+    },
+    {
+      "id": "183:p1",
+      "kind": "body",
+      "text": "You beat the pillar with all your strength. The villagers draw back in alarm, then relax as they see you are having no effect whatsoever. They back you against the church wall. You swing your club for a few desperate seconds, but they overpower you and tear it from your fingers.",
+      "sourceLocation": "9/917"
+    },
+    {
+      "id": "183:p2",
+      "kind": "body",
+      "text": "Go to 108.",
+      "sourceLocation": "9/918"
+    }
+  ]
+}

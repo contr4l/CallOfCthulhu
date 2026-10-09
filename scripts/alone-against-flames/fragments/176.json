@@ -1,0 +1,30 @@
+{
+  "id": "176",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "176:p0",
+      "kind": "heading",
+      "text": "176",
+      "sourceLocation": "9/880"
+    },
+    {
+      "id": "176:p1",
+      "kind": "body",
+      "text": "Even as you spin around and look for a weak point, you know this plan is deranged. Less than two days ago you were taking a coach ride to a new job, and now you are trying to demolish a church whilst still inside it.",
+      "sourceLocation": "9/881"
+    },
+    {
+      "id": "176:p2",
+      "kind": "body",
+      "text": "Under one section of partially collapsed roof, you see a wooden pillar which is already bowed. You snatch up a piece of broken ironwork.",
+      "sourceLocation": "9/882"
+    },
+    {
+      "id": "176:p3",
+      "kind": "body",
+      "text": "Make a Hard STR roll. If you succeed, go to 189. If you fail, go to 183.",
+      "sourceLocation": "9/883"
+    }
+  ]
+}

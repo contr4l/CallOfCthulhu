@@ -1,0 +1,24 @@
+{
+  "id": "165",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "165:p0",
+      "kind": "heading",
+      "text": "165",
+      "sourceLocation": "9/825"
+    },
+    {
+      "id": "165:p1",
+      "kind": "body",
+      "text": "Enough light spills into the room for you to make out titles. The contents of the alcove are quite different from the wider library; the books are much older, some are handwritten, and many are in strange scripts you do not recognize. You could spend a week in here just browsing through the bizarre volumes.",
+      "sourceLocation": "9/826"
+    },
+    {
+      "id": "165:p2",
+      "kind": "body",
+      "text": "Make a Library Use roll. If you succeed, go to 177. If you fail, go to 184, but if you do fail, you may Push the roll by attempting it again. If you fail the Pushed roll, go to 190.",
+      "sourceLocation": "9/827"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "49",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "49:p0",
+      "kind": "heading",
+      "text": "49",
+      "sourceLocation": "9/261"
+    },
+    {
+      "id": "49:p1",
+      "kind": "body",
+      "text": "The pot begins to gurgle as you exchange pleasantries with Winters.",
+      "sourceLocation": "9/262"
+    },
+    {
+      "id": "49:p2",
+      "kind": "body",
+      "text": "“Living here? It’s a trade-off, like so much in life.” He looks past you at a high shelf. “I could wish for access to a proper library, of course. But I know myself well enough. I’m strictly a dabbler. And the cities ...” His face wrinkles in distaste. “Too many people. Everybody rushing and shouting. We have a special place here in Emberhead. And someone must accept responsibility for keeping it so. That was my father before me. And now the duty falls to me.” He lifts his chin and straightens up. ",
+      "sourceLocation": "9/263"
+    },
+    {
+      "id": "49:p3",
+      "kind": "body",
+      "text": "“This evening, as the sun sets, look out at the landscape around the village. We have peace up here, halfway to the stars. Are we not privileged? Is this not worth the hardships we must accept?”",
+      "sourceLocation": "9/264"
+    },
+    {
+      "id": "49:p4",
+      "kind": "body",
+      "text": "He looks at you speculatively. This seems a good time to ask about the telegraph. ",
+      "sourceLocation": "9/265"
+    },
+    {
+      "id": "49:p5",
+      "kind": "body",
+      "text": "Go to 56.",
+      "sourceLocation": "9/266"
+    }
+  ]
+}

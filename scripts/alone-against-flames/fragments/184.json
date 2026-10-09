@@ -1,0 +1,30 @@
+{
+  "id": "184",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "184:p0",
+      "kind": "heading",
+      "text": "184",
+      "sourceLocation": "9/919"
+    },
+    {
+      "id": "184:p1",
+      "kind": "body",
+      "text": "You are drawn to a small book of strange poetry bound in black, published in Boston in 1919. The cover reads Azathoth and Others, by Edward Derby. Unlike most of the other books, you can pocket the Derby book if you want.",
+      "sourceLocation": "9/920"
+    },
+    {
+      "id": "184:p2",
+      "kind": "body",
+      "text": "The Derby volume will require about a week of study to fully comprehend. If you survive this adventure, you may read 171 for more information about it.",
+      "sourceLocation": "9/921"
+    },
+    {
+      "id": "184:p3",
+      "kind": "body",
+      "text": "For now, go to 120.",
+      "sourceLocation": "9/922"
+    }
+  ]
+}

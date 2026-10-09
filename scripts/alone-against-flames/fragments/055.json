@@ -1,0 +1,24 @@
+{
+  "id": "55",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "55:p0",
+      "kind": "heading",
+      "text": "55",
+      "sourceLocation": "9/293"
+    },
+    {
+      "id": "55:p1",
+      "kind": "body",
+      "text": "You lunge for a handhold. Your fingers scrabble against the wall. In a second you are dropping, dropping hard to the stony ground—",
+      "sourceLocation": "9/294"
+    },
+    {
+      "id": "55:p2",
+      "kind": "body",
+      "text": "Take 2D6 damage as you hit the ground. If this is equal to or greater than half of your full hit points, go to 67. If not, go to 73.",
+      "sourceLocation": "9/295"
+    }
+  ]
+}

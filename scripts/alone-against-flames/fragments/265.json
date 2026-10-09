@@ -1,0 +1,42 @@
+{
+  "id": "265",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "265:p0",
+      "kind": "heading",
+      "text": "265",
+      "sourceLocation": "9/1320"
+    },
+    {
+      "id": "265:p1",
+      "kind": "body",
+      "text": "You explain you are joining the faculty at the renowned Miskatonic University. It’s only a junior position, with teaching and tutoring duties, but the institution is well regarded. Who knows where the appointment might lead? A symposium, a visiting lectureship, even one of its world-spanning expeditions.",
+      "sourceLocation": "9/1321"
+    },
+    {
+      "id": "265:p2",
+      "kind": "body",
+      "text": "“Hmmp.” Silas wrinkles his nose. “I had enough of book learning when I was a young ‘un. Still, I suppose it’s well enough for those who likes it.”",
+      "sourceLocation": "9/1322"
+    },
+    {
+      "id": "265:p3",
+      "kind": "body",
+      "text": "Your Credit Rating skill is 30%.",
+      "sourceLocation": "9/1323"
+    },
+    {
+      "id": "265:p4",
+      "kind": "body",
+      "text": "Your Occupation Skills are: Library Use, Other Language (specify one), Own Language and Psychology. You may also pick four other skills (not Cthulhu Mythos) as relevant academic or personal specialties. Allocate the following values among these Occupation Skills, writing in the large square beside each: 70%, 60%, 60%, 50%, 50%, 50%, 40%, 40%. Ignore any starting value already mentioned on the investigator sheet. ",
+      "sourceLocation": "9/1324"
+    },
+    {
+      "id": "265:p5",
+      "kind": "body",
+      "text": "Then go to 128.",
+      "sourceLocation": "9/1325"
+    }
+  ]
+}

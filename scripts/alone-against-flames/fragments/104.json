@@ -1,0 +1,30 @@
+{
+  "id": "104",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "104:p0",
+      "kind": "heading",
+      "text": "104",
+      "sourceLocation": "9/543"
+    },
+    {
+      "id": "104:p1",
+      "kind": "body",
+      "text": "You drink from the cup. It holds cool, refreshing water, which you gulp down. When it is empty, she turns to leave. You speak to her, but she steps outside and closes the door.",
+      "sourceLocation": "9/544"
+    },
+    {
+      "id": "104:p2",
+      "kind": "body",
+      "text": "Later, you try yelling. Your voice must be audible outside, but it has no effect. It seems the entire village is involved.",
+      "sourceLocation": "9/545"
+    },
+    {
+      "id": "104:p3",
+      "kind": "body",
+      "text": "Go to 205.",
+      "sourceLocation": "9/546"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "31",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "31:p0",
+      "kind": "heading",
+      "text": "31",
+      "sourceLocation": "9/186"
+    },
+    {
+      "id": "31:p1",
+      "kind": "body",
+      "text": "May talks about life in Emberhead. “In her letters my sister always asks if I’m not bored, living in such a small place. She lives in New York. Then she writes about how frightened she is to walk home at night! I ask you.”",
+      "sourceLocation": "9/187"
+    },
+    {
+      "id": "31:p2",
+      "kind": "body",
+      "text": "You mention your hopes for a new life in Arkham. May doesn’t seem to hear you.",
+      "sourceLocation": "9/188"
+    },
+    {
+      "id": "31:p3",
+      "kind": "body",
+      "text": "“It’s a small place here, yes, but that means we have real community. Everybody’s face is known. Everybody works together. Nobody is excluded. Except those who choose to exclude themselves, of course. I couldn’t live anywhere else now.”",
+      "sourceLocation": "9/189"
+    },
+    {
+      "id": "31:p4",
+      "kind": "body",
+      "text": "Make a Charm roll. If you succeed, go to 39. If you fail, go to 51.",
+      "sourceLocation": "9/190"
+    }
+  ]
+}

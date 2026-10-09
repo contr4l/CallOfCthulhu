@@ -1,0 +1,36 @@
+{
+  "id": "204",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "204:p0",
+      "kind": "heading",
+      "text": "204",
+      "sourceLocation": "9/1010"
+    },
+    {
+      "id": "204:p1",
+      "kind": "body",
+      "text": "As you hoped, the body of the roof tips towards your assailants. It crashes to the ground, hiding them from view. Dust clouds billow in the air around you. You cannot see exactly what has happened, but you can hear a wail of agony. More than one, in fact.",
+      "sourceLocation": "9/1011"
+    },
+    {
+      "id": "204:p2",
+      "kind": "body",
+      "text": "The collapse has opened a break between the stones. With delicate steps, you squeeze out of the church building.",
+      "sourceLocation": "9/1012"
+    },
+    {
+      "id": "204:p3",
+      "kind": "body",
+      "text": "Villagers run towards the church from all directions. You crawl through the gravestones, keeping low in the overgrown grass. You head for the road. The sentries have joined the crowd at the church, and you are able to slip away down the eastern road.",
+      "sourceLocation": "9/1013"
+    },
+    {
+      "id": "204:p4",
+      "kind": "body",
+      "text": "Go to 152.",
+      "sourceLocation": "9/1014"
+    }
+  ]
+}

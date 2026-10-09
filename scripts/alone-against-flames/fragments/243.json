@@ -1,0 +1,30 @@
+{
+  "id": "243",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "243:p0",
+      "kind": "heading",
+      "text": "243",
+      "sourceLocation": "9/1197"
+    },
+    {
+      "id": "243:p1",
+      "kind": "body",
+      "text": "The stars respond to your command, dropping and converging on the Beacon. You feel a moment of transcendent glory as your body is annihilated in white heat and light.",
+      "sourceLocation": "9/1198"
+    },
+    {
+      "id": "243:p2",
+      "kind": "body",
+      "text": "You have burned to death in an otherworldly inferno! Would you like to try again?",
+      "sourceLocation": "9/1199"
+    },
+    {
+      "id": "243:p3",
+      "kind": "body",
+      "text": "The End.",
+      "sourceLocation": "9/1200"
+    }
+  ]
+}

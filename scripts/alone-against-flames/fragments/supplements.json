@@ -1,0 +1,479 @@
+{
+  "documents": [
+    {
+      "document": "OEBPS/cover.xhtml",
+      "entries": [
+        {
+          "kind": "img",
+          "section": "front-matter",
+          "sourceLocation": "0/0",
+          "resources": [
+            {
+              "src": "image/1.png",
+              "archivePath": "OEBPS/image/1.png",
+              "attributes": {
+                "src": "image/1.png",
+                "alt": "1.png",
+                "style": "max-width:100%;"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+      "entries": [
+        {
+          "kind": "img",
+          "section": "front-matter",
+          "sourceLocation": "0/0/0",
+          "resources": [
+            {
+              "src": "image/CHA23145_Alone_Against_Flames_Cover_-_TPS_Printing.png",
+              "archivePath": "OEBPS/image/CHA23145_Alone_Against_Flames_Cover_-_TPS_Printing.png",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/CHA23145_Alone_Against_Flames_Cover_-_TPS_Printing.png",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "1/0",
+          "text": "Alone Against The Flames"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "1/1",
+          "text": "A Solo Adventure for the Call of Cthulhu 7th Edition Rules"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "1/2",
+          "text": "By Gavin Inglis"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "1/3",
+          "text": "Cover by Petr Stovik"
+        },
+        {
+          "kind": "img",
+          "section": "front-matter",
+          "sourceLocation": "2/0/0",
+          "resources": [
+            {
+              "src": "image/Dragon_Black_Logo.png",
+              "archivePath": "OEBPS/image/Dragon_Black_Logo.png",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/Dragon_Black_Logo.png",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/0",
+          "text": "Written By"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/1",
+          "text": "Gavin Inglis"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/2",
+          "text": "Editing"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/3",
+          "text": "Mike Mason "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/4",
+          "text": "Cover Art"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/5",
+          "text": "Petr Štovik"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/6",
+          "text": "Interior Art "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/7",
+          "text": "Gavin Inglis"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/8",
+          "text": "Cartography"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/9",
+          "text": "Gavin Inglis"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/10",
+          "text": "Layout"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/11",
+          "text": "Nicholas Nacario"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/12",
+          "text": "Book Design"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/13",
+          "text": "Michal E. Cross"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/14",
+          "text": "Character Sheet"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "3/15",
+          "text": "Dean Engelhardt"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/0",
+          "text": "Alone Against The Flames was playtested by Andrew Carey, Halsted M. Bernard and Stefan Pearson. "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/1",
+          "text": "Additional thanks to Writers’ Bloc, Mike Mason, Thomas Phinney, and the hard-working faculty at the Miskatonic University Podcast."
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/2",
+          "text": "Alone Against the Flames © 2016 by Chaosium Inc.; all rights reserved.  “Chaosium Inc.” and “Call of Cthulhu” are registered trademarks of Chaosium Inc. Similarities between characters and persons living or dead are strictly coincidental. "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/3",
+          "text": "Address questions and comments by mail to:"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/4",
+          "text": "Chaosium Inc.3450 Wooddale Ct."
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/5",
+          "text": "Ann Arbor, MI 48104"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/6",
+          "text": "Our web site www.chaosium.com always contains the latest release information and current prices."
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "4/7",
+          "text": "Chaosium publication 23145 ISBN-13: 978-1-56882-435-2 Published in August 2016.Printed in the United States."
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "5/0",
+          "text": "Credits"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "6/0",
+          "text": "Alone against the flames"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "8/0",
+          "text": "Alone Against The Flames"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "8/1",
+          "text": "by Gavin Inglis"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "9/0",
+          "text": "Introduction"
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "9/1",
+          "text": "This is a solo adventure for the Call of Cthulhu game. It is a horror story set in the 1920s where you are the main character, and your choices determine the outcome. It is also designed to lead you through the basic rules of the game in a gradual and entertaining fashion. Although most such adventures are played with your friends, this one is just for you. "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "9/2",
+          "text": "Before you begin to play, make sure you have a copy of the Call of Cthulhu Seventh Edition Quick-Start Rules, and a blank investigator sheet. You can download a printable investigator sheet, or an interactive PDF version of the sheet, as well as the Quick-Start Rules from www.chaosium.com. You’ll also need a pencil, an eraser, and some roleplaying dice. "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "9/3",
+          "text": "You don’t need to read the rules before you start playing. Just settle in a comfortable chair before a roaring ﬁre. Then read on and follow the instructions. "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "9/4",
+          "text": "…On second thoughts, don’t sit too close to the ﬁre. "
+        },
+        {
+          "kind": "p",
+          "section": "front-matter",
+          "sourceLocation": "9/5",
+          "text": "Now go to 1.",
+          "links": [
+            {
+              "href": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor000",
+              "text": "1",
+              "attributes": {
+                "href": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor000"
+              }
+            }
+          ]
+        },
+        {
+          "kind": "img",
+          "section": "back-matter",
+          "sourceLocation": "10/0/0",
+          "resources": [
+            {
+              "src": "image/ticket_copy.png",
+              "archivePath": "OEBPS/image/ticket_copy.png",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/ticket_copy.png",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "img",
+          "section": "back-matter",
+          "sourceLocation": "12/0/0",
+          "resources": [
+            {
+              "src": "image/eye.png",
+              "archivePath": "OEBPS/image/eye.png",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/eye.png",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "img",
+          "section": "back-matter",
+          "sourceLocation": "15/0/0",
+          "resources": [
+            {
+              "src": "image/emberhead_map.png",
+              "archivePath": "OEBPS/image/emberhead_map.png",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/emberhead_map.png",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "img",
+          "section": "back-matter",
+          "sourceLocation": "16/0/0",
+          "resources": [
+            {
+              "src": "image/Template_Background_-_Lines.png",
+              "archivePath": "OEBPS/image/Template_Background_-_Lines.png",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/Template_Background_-_Lines.png",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/0",
+          "text": "r"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/1",
+          "text": "d"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/2",
+          "text": "f"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/3",
+          "text": "s"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/4",
+          "text": "4"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/5",
+          "text": "h"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/6",
+          "text": "u"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/7",
+          "text": "f"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/8",
+          "text": "e"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/9",
+          "text": "r"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/10",
+          "text": "b"
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "17/11",
+          "text": "e "
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "18/0",
+          "text": "Alone against the fLAMES"
+        },
+        {
+          "kind": "img",
+          "section": "back-matter",
+          "sourceLocation": "20/0/0",
+          "resources": [
+            {
+              "src": "image/Character_Sheet_Front.jpg",
+              "archivePath": "OEBPS/image/Character_Sheet_Front.jpg",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/Character_Sheet_Front.jpg",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "img",
+          "section": "back-matter",
+          "sourceLocation": "21/0/0",
+          "resources": [
+            {
+              "src": "image/Character_Sheet_Back.jpg",
+              "archivePath": "OEBPS/image/Character_Sheet_Back.jpg",
+              "attributes": {
+                "class": "_idGenObjectAttribute-1",
+                "src": "image/Character_Sheet_Back.jpg",
+                "alt": ""
+              }
+            }
+          ]
+        },
+        {
+          "kind": "p",
+          "section": "back-matter",
+          "sourceLocation": "22/0",
+          "text": "233"
+        }
+      ]
+    }
+  ]
+}

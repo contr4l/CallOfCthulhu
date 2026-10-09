@@ -1,0 +1,206 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "format": {
+      "type": "string",
+      "const": "coc-story-graph@2"
+    },
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "entry": {
+      "type": "string",
+      "pattern": "^[1-9][0-9]*$"
+    },
+    "runtimePlayable": {
+      "type": "boolean",
+      "const": false
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "filename": {
+          "type": "string"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "size": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "filename",
+        "sha256",
+        "size"
+      ],
+      "additionalProperties": false
+    },
+    "supplements": {
+      "type": "object",
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      },
+      "required": [
+        "path",
+        "sha256"
+      ],
+      "additionalProperties": false
+    },
+    "nodes": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*$"
+          },
+          "fragment": {
+            "type": "object",
+            "properties": {
+              "path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            },
+            "required": [
+              "path",
+              "sha256"
+            ],
+            "additionalProperties": false
+          },
+          "terminal": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "id",
+          "fragment",
+          "terminal"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*$"
+          },
+          "target": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*$"
+          },
+          "paragraphId": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*:p[0-9]+$"
+          },
+          "evidence": {
+            "type": "string",
+            "enum": [
+              "printed-link-number",
+              "printed-prose-number",
+              "source-arithmetic-secret"
+            ]
+          },
+          "originalHref": {
+            "type": "string"
+          },
+          "textOffset": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "condition": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "type": "string",
+                "const": "discovered-secret-and-player-choice"
+              },
+              "discoveryNodeId": {
+                "type": "string",
+                "pattern": "^[1-9][0-9]*$"
+              }
+            },
+            "required": [
+              "type",
+              "discoveryNodeId"
+            ],
+            "additionalProperties": false
+          },
+          "ruleParagraphId": {
+            "type": "string",
+            "pattern": "^[1-9][0-9]*:p[0-9]+$"
+          },
+          "offset": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          }
+        },
+        "required": [
+          "id",
+          "source",
+          "target",
+          "paragraphId",
+          "evidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "propertyNames": {
+          "type": "string"
+        },
+        "additionalProperties": {}
+      }
+    }
+  },
+  "required": [
+    "format",
+    "id",
+    "title",
+    "language",
+    "entry",
+    "runtimePlayable",
+    "source",
+    "supplements",
+    "nodes",
+    "edges",
+    "issues"
+  ],
+  "additionalProperties": false
+}

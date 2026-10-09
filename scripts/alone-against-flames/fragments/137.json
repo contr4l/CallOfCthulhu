@@ -1,0 +1,30 @@
+{
+  "id": "137",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "137:p0",
+      "kind": "heading",
+      "text": "137",
+      "sourceLocation": "9/688"
+    },
+    {
+      "id": "137:p1",
+      "kind": "body",
+      "text": "You leap from the conflagration on the far side of the Beacon. Your heart lurches momentarily at the sight of the sheer drop beneath you, but you land a few inches short of the edge. You roll to extinguish your burning clothes. Your lungs feel singed. Everything hurts. The chant of the villagers gathers in intensity. You peer around the Beacon. They don’t seem to have noticed your absence amidst the billowing smoke. Most of them are staring into the sky.",
+      "sourceLocation": "9/689"
+    },
+    {
+      "id": "137:p2",
+      "kind": "body",
+      "text": "You crawl as rapidly as you can for the cover of the nearest building.",
+      "sourceLocation": "9/690"
+    },
+    {
+      "id": "137:p3",
+      "kind": "body",
+      "text": "Go to 156. ",
+      "sourceLocation": "9/691"
+    }
+  ]
+}

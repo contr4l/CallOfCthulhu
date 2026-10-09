@@ -1,0 +1,24 @@
+{
+  "id": "201",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "201:p0",
+      "kind": "heading",
+      "text": "201",
+      "sourceLocation": "9/999"
+    },
+    {
+      "id": "201:p1",
+      "kind": "body",
+      "text": "The bear backs off, black eyes trained on you. It makes a low grumble in its throat, then turns and shambles into the trees. ",
+      "sourceLocation": "9/1000"
+    },
+    {
+      "id": "201:p2",
+      "kind": "body",
+      "text": "You have somehow survived a fight with a bear. You may check-mark the small box beside your  Fighting(Brawl) skill. If the bear hurt you, you may also attempt a First Aid roll and, if successful, restore 1 hit point. Now go to 79.",
+      "sourceLocation": "9/1001"
+    }
+  ]
+}

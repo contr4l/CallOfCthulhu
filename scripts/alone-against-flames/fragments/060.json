@@ -1,0 +1,30 @@
+{
+  "id": "60",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "60:p0",
+      "kind": "heading",
+      "text": "60",
+      "sourceLocation": "9/320"
+    },
+    {
+      "id": "60:p1",
+      "kind": "body",
+      "text": "The gentle incline is misleading, and your forehead is damp by the time you reach the top of the hill. You pause for a moment to get your breath back, and look east. The valley ahead is thick with forest, although you catch glimpses of a narrow waterway. There is still no sign of a settlement. That might be something on the horizon—a spire, maybe? But it is surely another eight or nine hours’ walk.",
+      "sourceLocation": "9/321"
+    },
+    {
+      "id": "60:p2",
+      "kind": "body",
+      "text": "You look back at Emberhead. The hilltop village is black, a rough silhouette against the shimmering orb of sunset.",
+      "sourceLocation": "9/322"
+    },
+    {
+      "id": "60:p3",
+      "kind": "body",
+      "text": "You may make an Archaeology roll. If you succeed, go to 66. Otherwise, go to 72.",
+      "sourceLocation": "9/323"
+    }
+  ]
+}

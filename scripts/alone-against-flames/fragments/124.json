@@ -1,0 +1,30 @@
+{
+  "id": "124",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "124:p0",
+      "kind": "heading",
+      "text": "124",
+      "sourceLocation": "9/628"
+    },
+    {
+      "id": "124:p1",
+      "kind": "body",
+      "text": "The door opens and Winters re-enters the library. He wears a small, satisfied smile. His gaze shifts to you where you stand at the shelves. “Exhausted our stock already? Of course we accept donations.” He chuckles. “I’m afraid it’s closing time.”",
+      "sourceLocation": "9/629"
+    },
+    {
+      "id": "124:p2",
+      "kind": "body",
+      "text": "You leave the building with Winters and wait as he locks up. You thank him for the coffee and the access to the library. He strolls away down Silbury Street. ",
+      "sourceLocation": "9/630"
+    },
+    {
+      "id": "124:p3",
+      "kind": "body",
+      "text": "Now go to 180.",
+      "sourceLocation": "9/631"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "254",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "254:p0",
+      "kind": "heading",
+      "text": "254",
+      "sourceLocation": "9/1259"
+    },
+    {
+      "id": "254:p1",
+      "kind": "body",
+      "text": "You slide onto the bed and lie on your side, eyes closed. The hinges creak as the door opens. There is a long pause.",
+      "sourceLocation": "9/1260"
+    },
+    {
+      "id": "254:p2",
+      "kind": "body",
+      "text": "A footfall sounds inside the room, then another. The steps are careful and feminine. You give it a moment, then open one eye a crack.",
+      "sourceLocation": "9/1261"
+    },
+    {
+      "id": "254:p3",
+      "kind": "body",
+      "text": "May crouches with her back to you. She is fiddling with something in the fireplace.",
+      "sourceLocation": "9/1262"
+    },
+    {
+      "id": "254:p4",
+      "kind": "body",
+      "text": "To confront May, go to 260. To wait and see what happens, go to 266.",
+      "sourceLocation": "9/1263"
+    }
+  ]
+}

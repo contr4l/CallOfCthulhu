@@ -1,0 +1,24 @@
+{
+  "id": "65",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "65:p0",
+      "kind": "heading",
+      "text": "65",
+      "sourceLocation": "9/350"
+    },
+    {
+      "id": "65:p1",
+      "kind": "body",
+      "text": "Flames lick at your legs. Your eyes water. You are shrouded in smoke. It might be your imagination, but you think you can feel a slight give in the chains. You throw yourself against them, giving no thought to how they bite into your wrists.",
+      "sourceLocation": "9/351"
+    },
+    {
+      "id": "65:p2",
+      "kind": "body",
+      "text": "Take 1D6 hit points of damage from the fire. If this reduces you to zero, you collapse and are burned to death! The End. Otherwise, make a STR roll. If you succeed, go to 93. If you fail, go to 77.",
+      "sourceLocation": "9/352"
+    }
+  ]
+}

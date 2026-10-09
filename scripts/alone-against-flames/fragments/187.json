@@ -1,0 +1,24 @@
+{
+  "id": "187",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "187:p0",
+      "kind": "heading",
+      "text": "187",
+      "sourceLocation": "9/932"
+    },
+    {
+      "id": "187:p1",
+      "kind": "body",
+      "text": "The hidden staircase seems the obvious explanation. The man could have scaled it to reach Emberhead, above. By studying the cliff, you work out that you passed the steps perhaps forty yards back, while he was still in full view.",
+      "sourceLocation": "9/933"
+    },
+    {
+      "id": "187:p2",
+      "kind": "body",
+      "text": "You may make a Hard Spot Hidden roll. If you succeed, go to 181. Otherwise, give it up and go to 160.",
+      "sourceLocation": "9/934"
+    }
+  ]
+}

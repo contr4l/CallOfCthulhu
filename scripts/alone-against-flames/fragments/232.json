@@ -1,0 +1,24 @@
+{
+  "id": "232",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "232:p0",
+      "kind": "heading",
+      "text": "232",
+      "sourceLocation": "9/1142"
+    },
+    {
+      "id": "232:p1",
+      "kind": "body",
+      "text": "You examine the workshop. It is well constructed, but the wood has been weakened by years of sun and rain. You may be able to break it open with one fierce charge. You had better make it good, though. You can’t afford to attract attention with repeated tries.",
+      "sourceLocation": "9/1143"
+    },
+    {
+      "id": "232:p2",
+      "kind": "body",
+      "text": "Make a  STR roll. If you succeed, go to 244. If you fail, go to 238.",
+      "sourceLocation": "9/1144"
+    }
+  ]
+}

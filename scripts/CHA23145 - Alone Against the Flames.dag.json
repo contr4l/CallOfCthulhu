@@ -1,0 +1,5655 @@
+{
+  "format": "coc-story-graph@2",
+  "id": "alone-against-flames",
+  "title": "Alone Against the Flames",
+  "language": "en-US",
+  "entry": "1",
+  "runtimePlayable": false,
+  "source": {
+    "filename": "CHA23145 - Alone Against the Flames.epub",
+    "sha256": "bd23ffc319de4edb76b4aaa49145d0eb23264d647afc6d8472fe488e742e7796",
+    "size": 10374360
+  },
+  "supplements": {
+    "path": "alone-against-flames/fragments/supplements.json",
+    "sha256": "ca47cae08f3b4884a6d0f8680d333dbbccb0ea27948d37efb10afcecd9ca5973"
+  },
+  "nodes": [
+    {
+      "id": "1",
+      "fragment": {
+        "path": "alone-against-flames/fragments/001.json",
+        "sha256": "fc5281ea70d7e9d538e796e4b34d222d309aca18c8d936066ee760913fb1d8d1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "2",
+      "fragment": {
+        "path": "alone-against-flames/fragments/002.json",
+        "sha256": "3a1a0a9fd9b6682aafca221f63700eaa7bd283a365e706812cdb63369cd32aa2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "3",
+      "fragment": {
+        "path": "alone-against-flames/fragments/003.json",
+        "sha256": "53398723a9495c52a59d78df0e3e35b0158142b1f0b06e52c4ca97252e3f8076"
+      },
+      "terminal": false
+    },
+    {
+      "id": "4",
+      "fragment": {
+        "path": "alone-against-flames/fragments/004.json",
+        "sha256": "c9a5d35b133cc52c9244f3876d3926db4bb1a28ac87602f0373ed65b14fdc438"
+      },
+      "terminal": false
+    },
+    {
+      "id": "5",
+      "fragment": {
+        "path": "alone-against-flames/fragments/005.json",
+        "sha256": "9783fc6a7b786b38e38e6412c5581d6fe05e9b4ad89fc0a63129e51dace22f88"
+      },
+      "terminal": false
+    },
+    {
+      "id": "6",
+      "fragment": {
+        "path": "alone-against-flames/fragments/006.json",
+        "sha256": "314c65e80d52f2b43c0e512ce6e6567a512280c5eb2952e69937f4fc7730d8f1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "7",
+      "fragment": {
+        "path": "alone-against-flames/fragments/007.json",
+        "sha256": "31037a12671fd648171f4f3ff473d024b7d1b2e9975c5c01c308ff0406302358"
+      },
+      "terminal": false
+    },
+    {
+      "id": "8",
+      "fragment": {
+        "path": "alone-against-flames/fragments/008.json",
+        "sha256": "c162e2a5ff7a3a83635c1ec91d1872eb14a8723030267bf515133159e65d311f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "9",
+      "fragment": {
+        "path": "alone-against-flames/fragments/009.json",
+        "sha256": "a8f84c93e8075db2a091ff2ffa67c96336acb5ded7e083cc8863f126d5ff86f2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "10",
+      "fragment": {
+        "path": "alone-against-flames/fragments/010.json",
+        "sha256": "919aeb4ebad7246ef21a8eb42ed96c893d7b74ba90c0e8e46153ad5c73490a69"
+      },
+      "terminal": false
+    },
+    {
+      "id": "11",
+      "fragment": {
+        "path": "alone-against-flames/fragments/011.json",
+        "sha256": "3056e0a292cbcb14849bc7a3549faac225d02bc2f562e9aef84f740e9204249d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "12",
+      "fragment": {
+        "path": "alone-against-flames/fragments/012.json",
+        "sha256": "c11740cc3fc03f3a467b4e2bd9216cad898b86ce9c3972a5f2045903e0c2436c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "13",
+      "fragment": {
+        "path": "alone-against-flames/fragments/013.json",
+        "sha256": "5ecaa51f820cc2c029992ff4c6bd07b677478890eaab67a3109db76161a82e46"
+      },
+      "terminal": false
+    },
+    {
+      "id": "14",
+      "fragment": {
+        "path": "alone-against-flames/fragments/014.json",
+        "sha256": "9b4f874b715b8b171b0e764aace0543065f927ff9010a00d3ca14b86cb3411da"
+      },
+      "terminal": false
+    },
+    {
+      "id": "15",
+      "fragment": {
+        "path": "alone-against-flames/fragments/015.json",
+        "sha256": "815ca7709640fa363062ab3a088f936af047176ce6230103622b29ea9d6bcf5c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "16",
+      "fragment": {
+        "path": "alone-against-flames/fragments/016.json",
+        "sha256": "3f1fedb1f45b9adb53ef7e2c3f9d4142b9f7233e3c2fc6e4658d95cc4e9ce40a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "17",
+      "fragment": {
+        "path": "alone-against-flames/fragments/017.json",
+        "sha256": "682c7b24c39ec7a8e74709cad088a14ca0df41bd7f91649f2baeec180c61e096"
+      },
+      "terminal": false
+    },
+    {
+      "id": "18",
+      "fragment": {
+        "path": "alone-against-flames/fragments/018.json",
+        "sha256": "c955fe06917d067530be001b27993cd0678dcac44cd4eaaa521296908f8bc7a5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "19",
+      "fragment": {
+        "path": "alone-against-flames/fragments/019.json",
+        "sha256": "4b36b990c9973faf1616c9433f5a4a00b5304de2245acd2dd0acaab5bb8106ab"
+      },
+      "terminal": false
+    },
+    {
+      "id": "20",
+      "fragment": {
+        "path": "alone-against-flames/fragments/020.json",
+        "sha256": "d6f36faa6eb0b2ceb84439ed7fa2d3cf02fe1617bd8d3151e637b01ec0d40f91"
+      },
+      "terminal": false
+    },
+    {
+      "id": "21",
+      "fragment": {
+        "path": "alone-against-flames/fragments/021.json",
+        "sha256": "221856ea006cc525fd2fcdba56b4a2713cbc25eda64cee500a36300895f0c8d3"
+      },
+      "terminal": false
+    },
+    {
+      "id": "22",
+      "fragment": {
+        "path": "alone-against-flames/fragments/022.json",
+        "sha256": "9677975a0ac831a390d4960a3df2214808f3def510117f91d623fb37b7e3ab47"
+      },
+      "terminal": false
+    },
+    {
+      "id": "23",
+      "fragment": {
+        "path": "alone-against-flames/fragments/023.json",
+        "sha256": "d94ec134e68222a73e6b72fb0678665d4911c80bd107647987b250aa037e53c9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "24",
+      "fragment": {
+        "path": "alone-against-flames/fragments/024.json",
+        "sha256": "50afc2b3a95479f1caa0bbf8ac367f299134e06752f636dc6137e3541def2aeb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "25",
+      "fragment": {
+        "path": "alone-against-flames/fragments/025.json",
+        "sha256": "b427acf6559cf2a8e52f8fbbbd3707b897bb9f14c3e402c04cc65dc923c8ee89"
+      },
+      "terminal": false
+    },
+    {
+      "id": "26",
+      "fragment": {
+        "path": "alone-against-flames/fragments/026.json",
+        "sha256": "4c797308cb35f6ed00d8fb6077e62974ed3b673f61e6b15f75165ca55b3ec09d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "27",
+      "fragment": {
+        "path": "alone-against-flames/fragments/027.json",
+        "sha256": "2dd275b07f53eb727f2d3e2574fb6111e79833f481d7e7fc65c23a6e119812d9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "28",
+      "fragment": {
+        "path": "alone-against-flames/fragments/028.json",
+        "sha256": "538773c9f9ce315b6bad859a24cc6506eb59768f60b770b6e861dcb8fd4f8308"
+      },
+      "terminal": false
+    },
+    {
+      "id": "29",
+      "fragment": {
+        "path": "alone-against-flames/fragments/029.json",
+        "sha256": "30054bb6632b31bd6a069c2486a03fd8528cd413d03040a2cb996f45c237d7c4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "30",
+      "fragment": {
+        "path": "alone-against-flames/fragments/030.json",
+        "sha256": "4daacd6bcba8b894ef667a9391704e9efe8edae06ae16fa7dfbbaf35fa52d473"
+      },
+      "terminal": false
+    },
+    {
+      "id": "31",
+      "fragment": {
+        "path": "alone-against-flames/fragments/031.json",
+        "sha256": "a38c6f25893779252c9c97f06d4c2cc00868a2cd6101e4a9f681bfc46c5131aa"
+      },
+      "terminal": false
+    },
+    {
+      "id": "32",
+      "fragment": {
+        "path": "alone-against-flames/fragments/032.json",
+        "sha256": "f1184c90c674fcbabe765d09532d4b0beeb320dc456d9fdd33253b6bfe7437d4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "33",
+      "fragment": {
+        "path": "alone-against-flames/fragments/033.json",
+        "sha256": "ef869ce78bf063d5cafc621a74b1271cf8b95e60cffd57f0eb92bee6987911fc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "34",
+      "fragment": {
+        "path": "alone-against-flames/fragments/034.json",
+        "sha256": "3195dffbbdd25161e9d403085c6d0de176eb9ec45715b672d68655f566491a80"
+      },
+      "terminal": false
+    },
+    {
+      "id": "35",
+      "fragment": {
+        "path": "alone-against-flames/fragments/035.json",
+        "sha256": "4a35351146b35996d6a7f16f26e92855a2d6e3fc1bf054e08eed2228550b51c3"
+      },
+      "terminal": false
+    },
+    {
+      "id": "36",
+      "fragment": {
+        "path": "alone-against-flames/fragments/036.json",
+        "sha256": "981528b7680ff8103cdd39a102bbbcc8b5b061cca7102392e904335affdcb168"
+      },
+      "terminal": false
+    },
+    {
+      "id": "37",
+      "fragment": {
+        "path": "alone-against-flames/fragments/037.json",
+        "sha256": "0169bc16634224c94e4933b341ce5c706dbdd848f926f12903fff8cfc9cb55b5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "38",
+      "fragment": {
+        "path": "alone-against-flames/fragments/038.json",
+        "sha256": "18ff8c46f35949752dc486e15d7634871aae289bc521535a7309d7d846e586bd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "39",
+      "fragment": {
+        "path": "alone-against-flames/fragments/039.json",
+        "sha256": "e6375f930426da1aaf79c0c323d5b2f61cab4a87603209abc56bd6c8a6daea1d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "40",
+      "fragment": {
+        "path": "alone-against-flames/fragments/040.json",
+        "sha256": "d07f66c8c1e37574dec4a3f3a8c46e2e9d05c0880b64e505b4662809d2969ce5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "41",
+      "fragment": {
+        "path": "alone-against-flames/fragments/041.json",
+        "sha256": "22deaaa6e9401d99620891855523ff3cbf9ba7838c2b28bfdba7dd2998e163c7"
+      },
+      "terminal": false
+    },
+    {
+      "id": "42",
+      "fragment": {
+        "path": "alone-against-flames/fragments/042.json",
+        "sha256": "ed447abf53e6be00d3c3f8b190a5e33e881c1a1dea62ac30a6d1427a5afef17e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "43",
+      "fragment": {
+        "path": "alone-against-flames/fragments/043.json",
+        "sha256": "060e5fa3938eec40a4260f85ff922b315cc2296baaf2ca143932545b8da5f4d6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "44",
+      "fragment": {
+        "path": "alone-against-flames/fragments/044.json",
+        "sha256": "d4bbde9c6259c610e86c15282fa0a6d2e739afd02a1f85d38dec43feacd8be8e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "45",
+      "fragment": {
+        "path": "alone-against-flames/fragments/045.json",
+        "sha256": "b389846b599f014a1e83390a06a779b52a99d9ddeb03f2bc1edf36c477ad8221"
+      },
+      "terminal": false
+    },
+    {
+      "id": "46",
+      "fragment": {
+        "path": "alone-against-flames/fragments/046.json",
+        "sha256": "77a6f6534413507f4c657843c16cd493da8a6ba10561d8da2cb0edb5570814cc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "47",
+      "fragment": {
+        "path": "alone-against-flames/fragments/047.json",
+        "sha256": "b08058693ab018bca8bbbad7574e528df24fde079a5eb232ff2a8cdf018df39b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "48",
+      "fragment": {
+        "path": "alone-against-flames/fragments/048.json",
+        "sha256": "474e0c30c1e2c94263fdd73827fdf9d2ab3b1b59408a5b422e266be78023e70f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "49",
+      "fragment": {
+        "path": "alone-against-flames/fragments/049.json",
+        "sha256": "af702938576bb3898f9b501ef75ba76d4a9781eddbbd8094ee2099236534a8d4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "50",
+      "fragment": {
+        "path": "alone-against-flames/fragments/050.json",
+        "sha256": "69d93927ebaa1b979d9abafc0cae4fd20752ff9dec0509f8e5d38183ac205df6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "51",
+      "fragment": {
+        "path": "alone-against-flames/fragments/051.json",
+        "sha256": "08cc698f28b2bde0627c604173772371127ee175dd7d507b5b93875513abbaa9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "52",
+      "fragment": {
+        "path": "alone-against-flames/fragments/052.json",
+        "sha256": "161782dd8b53c918a7f72f5ad9932b3bddf1f6602028ed6b8300dfca134f3bea"
+      },
+      "terminal": false
+    },
+    {
+      "id": "53",
+      "fragment": {
+        "path": "alone-against-flames/fragments/053.json",
+        "sha256": "1e99908736bd2fb6c011543cc8cb8a2833d7f8083be462cb657f01963223945f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "54",
+      "fragment": {
+        "path": "alone-against-flames/fragments/054.json",
+        "sha256": "930b68257a414536504f924479564ba5295f642a8e6c5123887e3ff406bd5ce1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "55",
+      "fragment": {
+        "path": "alone-against-flames/fragments/055.json",
+        "sha256": "cfe4c7c174a485507ab7d62c6a293f15005cfaae8a8d80f5209ad72106d60526"
+      },
+      "terminal": false
+    },
+    {
+      "id": "56",
+      "fragment": {
+        "path": "alone-against-flames/fragments/056.json",
+        "sha256": "3df47a58c10a0ea2d603ec813f81fc73dfb3c05eee84293d9d001d0ebe0064fe"
+      },
+      "terminal": false
+    },
+    {
+      "id": "57",
+      "fragment": {
+        "path": "alone-against-flames/fragments/057.json",
+        "sha256": "827c4e52ef87f4c0bf9abba613f7e457dab7215cdc11d711d558d242b06cdd53"
+      },
+      "terminal": false
+    },
+    {
+      "id": "58",
+      "fragment": {
+        "path": "alone-against-flames/fragments/058.json",
+        "sha256": "f177229055a290d23522ef84f510ee6cffcc6535b7105ae73b94fc36f7b9ec3b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "59",
+      "fragment": {
+        "path": "alone-against-flames/fragments/059.json",
+        "sha256": "2674d47296f60313d5cbd6c4b8c5915b88a25e3118efe63eb1ae746a264407cc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "60",
+      "fragment": {
+        "path": "alone-against-flames/fragments/060.json",
+        "sha256": "4dcb0c6b2100c46e1e5de0c4e2ca1901de43b54e9e1f376a8f9c90a392596bba"
+      },
+      "terminal": false
+    },
+    {
+      "id": "61",
+      "fragment": {
+        "path": "alone-against-flames/fragments/061.json",
+        "sha256": "b2afdc75b0aac62b9487dbb8d292c2fa6e042cd237b5c134b6c786fb346ccc01"
+      },
+      "terminal": false
+    },
+    {
+      "id": "62",
+      "fragment": {
+        "path": "alone-against-flames/fragments/062.json",
+        "sha256": "53de3c25c67e430aeb5046a9754ae5be84d0125bd6736e6b27c8d6e853403a5a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "63",
+      "fragment": {
+        "path": "alone-against-flames/fragments/063.json",
+        "sha256": "37a86e1ecfcbfe963f492235ce1ad85224cef2a7b813326341b9c6f5cc75961b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "64",
+      "fragment": {
+        "path": "alone-against-flames/fragments/064.json",
+        "sha256": "2978a2ce9f2535bb6aaf8a4103ebe9fa964178b7c90ccd47fa318c2d6e555767"
+      },
+      "terminal": false
+    },
+    {
+      "id": "65",
+      "fragment": {
+        "path": "alone-against-flames/fragments/065.json",
+        "sha256": "413ef7cc029a46fe8510468b141763350e672c64a0cc69028222a8862934e57f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "66",
+      "fragment": {
+        "path": "alone-against-flames/fragments/066.json",
+        "sha256": "b19d1b253fb37e14e55d9b4fa370068642a031397e07ba0313a200f75f648090"
+      },
+      "terminal": false
+    },
+    {
+      "id": "67",
+      "fragment": {
+        "path": "alone-against-flames/fragments/067.json",
+        "sha256": "7ff1c7875e6d65b518ec78d421fddab7ee36954c5ab7c41aeaecb72c245484a0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "68",
+      "fragment": {
+        "path": "alone-against-flames/fragments/068.json",
+        "sha256": "fade8a696e87cc6abc3e29b6d423fd33057795424995bbfd8a8f0513b8ffe32d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "69",
+      "fragment": {
+        "path": "alone-against-flames/fragments/069.json",
+        "sha256": "5e66ca3649a1df12984e8e1daf2d01ad2dace1082976a91cf2906fc110b748fb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "70",
+      "fragment": {
+        "path": "alone-against-flames/fragments/070.json",
+        "sha256": "b2dbbeb7dacfda03e61c40df267771fe8ab3f3846bdbd4d321f84ac460ad5058"
+      },
+      "terminal": false
+    },
+    {
+      "id": "71",
+      "fragment": {
+        "path": "alone-against-flames/fragments/071.json",
+        "sha256": "34abadd5ce047acb95b4026dcc95223668f49d74ce38197e7956e9d17f98f4f6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "72",
+      "fragment": {
+        "path": "alone-against-flames/fragments/072.json",
+        "sha256": "0c24ed936bfee54542d08a321d4b416aab713bf45b5d28bcdbb92a4d3d6de36f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "73",
+      "fragment": {
+        "path": "alone-against-flames/fragments/073.json",
+        "sha256": "8931e5bf9a543b33d08a9b9e7ded4493f97140ba76631482906be9b8e2513b4c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "74",
+      "fragment": {
+        "path": "alone-against-flames/fragments/074.json",
+        "sha256": "ba8a85c4b52a93e64185b0a17f1c6be89e0a96421616a499fb1c58edd309ed8a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "75",
+      "fragment": {
+        "path": "alone-against-flames/fragments/075.json",
+        "sha256": "a68b2e25cafa22b969d97203c8bdb1dc361ec7c1d1d3082940ca493586952835"
+      },
+      "terminal": false
+    },
+    {
+      "id": "76",
+      "fragment": {
+        "path": "alone-against-flames/fragments/076.json",
+        "sha256": "6ee6adac89af92a741e7ff8969d5c0e79162ad7c2e7dd925d37b9ce23e3487c2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "77",
+      "fragment": {
+        "path": "alone-against-flames/fragments/077.json",
+        "sha256": "fac7d4aff5eb2b51eac5d069c582f4eb0d0eb098914ddb34e7cd2ff373878394"
+      },
+      "terminal": true
+    },
+    {
+      "id": "78",
+      "fragment": {
+        "path": "alone-against-flames/fragments/078.json",
+        "sha256": "49db7fcc3852512ccd83b80f106b2f7c71ae90f8c66ad183104260fb93b4b239"
+      },
+      "terminal": false
+    },
+    {
+      "id": "79",
+      "fragment": {
+        "path": "alone-against-flames/fragments/079.json",
+        "sha256": "393c2e2c86f298301802388fffe4d4c39f81f9b4a3f87ae366c4e48c40733542"
+      },
+      "terminal": false
+    },
+    {
+      "id": "80",
+      "fragment": {
+        "path": "alone-against-flames/fragments/080.json",
+        "sha256": "2619bc6b57db865582fcf46f693ff4f8141b2adf0f75b849aa4a04f445222091"
+      },
+      "terminal": true
+    },
+    {
+      "id": "81",
+      "fragment": {
+        "path": "alone-against-flames/fragments/081.json",
+        "sha256": "04a131e49fd79d12f0eeb1a8c9ca918187644c96a7dee0fb2aa15dfb7da13078"
+      },
+      "terminal": false
+    },
+    {
+      "id": "82",
+      "fragment": {
+        "path": "alone-against-flames/fragments/082.json",
+        "sha256": "9abb4cd62e23c17ac7315d07d7b8ed5314248ea0179340984f4a18b9a9bcb299"
+      },
+      "terminal": false
+    },
+    {
+      "id": "83",
+      "fragment": {
+        "path": "alone-against-flames/fragments/083.json",
+        "sha256": "779592fe770965ed903833bb053504ab8e42a1174c45af1e47727d28a3dcef45"
+      },
+      "terminal": false
+    },
+    {
+      "id": "84",
+      "fragment": {
+        "path": "alone-against-flames/fragments/084.json",
+        "sha256": "b0f41195c6a5b49ad33fccde450e83420baba123ee5b31ad6a50d68ef7774b50"
+      },
+      "terminal": false
+    },
+    {
+      "id": "85",
+      "fragment": {
+        "path": "alone-against-flames/fragments/085.json",
+        "sha256": "70b2dbef9ae32e6b3f06c5b43171d6c24dbf058b45238f432b34a084c11bcd8f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "86",
+      "fragment": {
+        "path": "alone-against-flames/fragments/086.json",
+        "sha256": "baad9f922f8f45d92a767acf25f12463d942c35c734285e4f589540dd7314b16"
+      },
+      "terminal": false
+    },
+    {
+      "id": "87",
+      "fragment": {
+        "path": "alone-against-flames/fragments/087.json",
+        "sha256": "db4cf97b021b4a9ebea461029b5121c0382695574b85459d7cb5be16cc3ea0db"
+      },
+      "terminal": false
+    },
+    {
+      "id": "88",
+      "fragment": {
+        "path": "alone-against-flames/fragments/088.json",
+        "sha256": "1ed3040cee228e0d5f3a7c27f443420737aa054d61b823dbaab9ea4e7c4cc142"
+      },
+      "terminal": false
+    },
+    {
+      "id": "89",
+      "fragment": {
+        "path": "alone-against-flames/fragments/089.json",
+        "sha256": "79e5ece66adfd2be3b0fd1ab1471c956bf58bbf0a8b3318226c8999d3d3d6d94"
+      },
+      "terminal": false
+    },
+    {
+      "id": "90",
+      "fragment": {
+        "path": "alone-against-flames/fragments/090.json",
+        "sha256": "bc7655c11d9d92957a33342ccd703a8076083fb33c2d0f6fa643953c9cf60c6e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "91",
+      "fragment": {
+        "path": "alone-against-flames/fragments/091.json",
+        "sha256": "3d5a2b7f51228e2936cc18f5b7ced40a658fbefd4ff62bf0269e03f04d7ceb34"
+      },
+      "terminal": false
+    },
+    {
+      "id": "92",
+      "fragment": {
+        "path": "alone-against-flames/fragments/092.json",
+        "sha256": "941c56b5c943cf00177d027f62cc5071ea22cab73874cad3f2c00c5300360297"
+      },
+      "terminal": true
+    },
+    {
+      "id": "93",
+      "fragment": {
+        "path": "alone-against-flames/fragments/093.json",
+        "sha256": "101b46711a5357f16f86635d01a54c0cfdb6a79e42fb02ded69ddcc12cff11d0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "94",
+      "fragment": {
+        "path": "alone-against-flames/fragments/094.json",
+        "sha256": "65aef7d540f8a6a9a681b74d136b1cc7ddac9ca895be1d0a0f6637817933950f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "95",
+      "fragment": {
+        "path": "alone-against-flames/fragments/095.json",
+        "sha256": "8ae78e6b07a994cddd626ee6c84a872c17f464a28f7a3aa2eebb3a49a1a0b858"
+      },
+      "terminal": false
+    },
+    {
+      "id": "96",
+      "fragment": {
+        "path": "alone-against-flames/fragments/096.json",
+        "sha256": "e5931dcf9cb65909eabca337e26e15d1b55107b8ec0d6fa345d973935326c556"
+      },
+      "terminal": false
+    },
+    {
+      "id": "97",
+      "fragment": {
+        "path": "alone-against-flames/fragments/097.json",
+        "sha256": "71d3f522b6d6c90de9c0a6c7e6b6ff79f9ca2ed62ddc3f522715f0aa65ab1907"
+      },
+      "terminal": false
+    },
+    {
+      "id": "98",
+      "fragment": {
+        "path": "alone-against-flames/fragments/098.json",
+        "sha256": "1d6a7ff7cf661203011a9d1827b7138a3d45953c5484d1f64c0c9dacee25b6ae"
+      },
+      "terminal": false
+    },
+    {
+      "id": "99",
+      "fragment": {
+        "path": "alone-against-flames/fragments/099.json",
+        "sha256": "13afce9641bce040a9a7f6f3d447c113960ba05c9c381b0e6223eee7fe147a41"
+      },
+      "terminal": false
+    },
+    {
+      "id": "100",
+      "fragment": {
+        "path": "alone-against-flames/fragments/100.json",
+        "sha256": "a3c9a1fb46f354ac2307d80ef980f8834fb487518c19f3b0ebb72c67239cbdae"
+      },
+      "terminal": false
+    },
+    {
+      "id": "101",
+      "fragment": {
+        "path": "alone-against-flames/fragments/101.json",
+        "sha256": "58dba139d80902e59a064b5cde0b077ce3fefdb3f5cc3f4b58359102b16c937b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "102",
+      "fragment": {
+        "path": "alone-against-flames/fragments/102.json",
+        "sha256": "4eeeeeeedfbff029a848bb56df24c619d5a43ca334c0dc53273b6379edb727b1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "103",
+      "fragment": {
+        "path": "alone-against-flames/fragments/103.json",
+        "sha256": "2d252e2bc75ca46645a6e1908af0e5730f4cff94ed5a2734caaa4fcbd36cc5ff"
+      },
+      "terminal": false
+    },
+    {
+      "id": "104",
+      "fragment": {
+        "path": "alone-against-flames/fragments/104.json",
+        "sha256": "a923484bd2562299c97798af177a733ba7e02fd35444f8e56c93caada2082983"
+      },
+      "terminal": false
+    },
+    {
+      "id": "105",
+      "fragment": {
+        "path": "alone-against-flames/fragments/105.json",
+        "sha256": "4f987c385d453172d8ce62a78a2409ada91f003d502294e46d9b8998b571383f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "106",
+      "fragment": {
+        "path": "alone-against-flames/fragments/106.json",
+        "sha256": "a1e05ad5596a4c712ac03676153513e42ae6f761ad460ec9cce5c3a192e7ed2a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "107",
+      "fragment": {
+        "path": "alone-against-flames/fragments/107.json",
+        "sha256": "e63e879fc81a49b490bb7999ef541aa6dbbe4a6b075d56ccdd5d5ec5687c024c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "108",
+      "fragment": {
+        "path": "alone-against-flames/fragments/108.json",
+        "sha256": "6c4e59308da0108b5f5bb4934c7fb13c769c1a9c80308874f37adcfe39a76800"
+      },
+      "terminal": false
+    },
+    {
+      "id": "109",
+      "fragment": {
+        "path": "alone-against-flames/fragments/109.json",
+        "sha256": "e074612c48bb5239b6dc99ddd257bd20f6e01781532d2a9f8f9240511bc1d2e3"
+      },
+      "terminal": false
+    },
+    {
+      "id": "110",
+      "fragment": {
+        "path": "alone-against-flames/fragments/110.json",
+        "sha256": "7c7fbf27e175c563b1a9a44f9ac9e989c599a75bdb148c3d9200267dbed137fc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "111",
+      "fragment": {
+        "path": "alone-against-flames/fragments/111.json",
+        "sha256": "2252a7c99e56d119ce88f5196d5bfafa86eeba34b8ed3e448959e1018a3c1194"
+      },
+      "terminal": false
+    },
+    {
+      "id": "112",
+      "fragment": {
+        "path": "alone-against-flames/fragments/112.json",
+        "sha256": "e3e48acafde4100163dd2da291f7b288f8378aa806adc6b075004660b83f886f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "113",
+      "fragment": {
+        "path": "alone-against-flames/fragments/113.json",
+        "sha256": "ac6b5ffcbec94be681711192406821778b53f847379ad24670dbe17085e945a1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "114",
+      "fragment": {
+        "path": "alone-against-flames/fragments/114.json",
+        "sha256": "686f292a2487290003807d604e3c303cb597b58b3b0ff365ddc9231926fd44ec"
+      },
+      "terminal": false
+    },
+    {
+      "id": "115",
+      "fragment": {
+        "path": "alone-against-flames/fragments/115.json",
+        "sha256": "b133fc1e60d002fd4a7900803e0d831968b80b9bd4f5cca743073a6b76abcd6f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "116",
+      "fragment": {
+        "path": "alone-against-flames/fragments/116.json",
+        "sha256": "27d73fc9ed1a04d5d57f91380bde54ff7fe68a6d53979ae9300cee72c925257f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "117",
+      "fragment": {
+        "path": "alone-against-flames/fragments/117.json",
+        "sha256": "63c0779ea4f79a897e95c8bd0af4b27b922620f0c37442319dd7869ee82ea044"
+      },
+      "terminal": false
+    },
+    {
+      "id": "118",
+      "fragment": {
+        "path": "alone-against-flames/fragments/118.json",
+        "sha256": "e2579f84670dd68d61ced46c179fc2537ee8e42b630e7f0b139a9056fe10889d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "119",
+      "fragment": {
+        "path": "alone-against-flames/fragments/119.json",
+        "sha256": "05a442a97623c260d10966705e360eccdc1524a252add943977429bd4f91ff39"
+      },
+      "terminal": false
+    },
+    {
+      "id": "120",
+      "fragment": {
+        "path": "alone-against-flames/fragments/120.json",
+        "sha256": "6a25d6b98033b03198d8cb02e039f7e3475402377ccb7b0be0327c5a676fdbbb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "121",
+      "fragment": {
+        "path": "alone-against-flames/fragments/121.json",
+        "sha256": "d1cf356fbc165b5d321f0b55c584a35df984a232be69a2690adcc400b5889e30"
+      },
+      "terminal": false
+    },
+    {
+      "id": "122",
+      "fragment": {
+        "path": "alone-against-flames/fragments/122.json",
+        "sha256": "dcfb4061b910e58d6d898e4520d9cec34b68bc2a95db22907baa6149065b2d34"
+      },
+      "terminal": false
+    },
+    {
+      "id": "123",
+      "fragment": {
+        "path": "alone-against-flames/fragments/123.json",
+        "sha256": "cf58ff9af7a4b07b74fa19e096b97365da6b238b7085bf21525fbc5b2c3c1e2b"
+      },
+      "terminal": true
+    },
+    {
+      "id": "124",
+      "fragment": {
+        "path": "alone-against-flames/fragments/124.json",
+        "sha256": "afa2772dd9c35de69170872b26a90fdfa7e42f8fcb5c9f161eb26c44370d1878"
+      },
+      "terminal": false
+    },
+    {
+      "id": "125",
+      "fragment": {
+        "path": "alone-against-flames/fragments/125.json",
+        "sha256": "be06f58cd7f412962417e02808e3cc4c68e8d432114ad8ad91cc6467143c7efa"
+      },
+      "terminal": false
+    },
+    {
+      "id": "126",
+      "fragment": {
+        "path": "alone-against-flames/fragments/126.json",
+        "sha256": "0692c2b71abfecff246802267a1b587d06f01fa21e18e08d32d487d47d698af8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "127",
+      "fragment": {
+        "path": "alone-against-flames/fragments/127.json",
+        "sha256": "f92a1c91b0cbc3a5696fad4a361f008ea8bafa9937eeed9a645ec42919d30a1e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "128",
+      "fragment": {
+        "path": "alone-against-flames/fragments/128.json",
+        "sha256": "518e05416803f437a437fc74b76d866f5f15055396ee8008a9d4d623ed09befc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "129",
+      "fragment": {
+        "path": "alone-against-flames/fragments/129.json",
+        "sha256": "f0f6e26202aded1cd611805722a7f503926fde340b9209f6216e3cd9583a49bb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "130",
+      "fragment": {
+        "path": "alone-against-flames/fragments/130.json",
+        "sha256": "cb98209ce416c055948bd493387d38fdda62e3f1634fe47d2aa95dbb64f7456a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "131",
+      "fragment": {
+        "path": "alone-against-flames/fragments/131.json",
+        "sha256": "b7ba4a1a66452d69a694c15e3bd38880eccc294050b8b125394ee9385442973d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "132",
+      "fragment": {
+        "path": "alone-against-flames/fragments/132.json",
+        "sha256": "0a12c2ba60929df3871112e99f7dd988ff5906c0d2a673ecb0fc7c5e4d90e5bb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "133",
+      "fragment": {
+        "path": "alone-against-flames/fragments/133.json",
+        "sha256": "dd7b59b96749502b4828811832a27d1e372a02a342844033749bfac315221fc7"
+      },
+      "terminal": false
+    },
+    {
+      "id": "134",
+      "fragment": {
+        "path": "alone-against-flames/fragments/134.json",
+        "sha256": "3c2fa6a8e96343f39be8e04005b769cf3402e6b5679bbf44370d4fc3849bb60c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "135",
+      "fragment": {
+        "path": "alone-against-flames/fragments/135.json",
+        "sha256": "5cf489c0b28b44fbe067395e7a918e761500288e075c79e67990ed5ddffb5f10"
+      },
+      "terminal": false
+    },
+    {
+      "id": "136",
+      "fragment": {
+        "path": "alone-against-flames/fragments/136.json",
+        "sha256": "96edf0ef844dd60553883b7a1a130da1133c9285c116e8f16a7f9abcbd9c10e6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "137",
+      "fragment": {
+        "path": "alone-against-flames/fragments/137.json",
+        "sha256": "978093fa603ce648a6d09dd0713bddaa010d1f26e6320883acfa131bc5a069d0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "138",
+      "fragment": {
+        "path": "alone-against-flames/fragments/138.json",
+        "sha256": "cc2945c0d16f80f5da86c147a3f3e24f17b6d5392759fc6d9ecc71326f502eb4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "139",
+      "fragment": {
+        "path": "alone-against-flames/fragments/139.json",
+        "sha256": "718c7046627d6000470476789612fda66399387d3252885703cffd3b8eec3228"
+      },
+      "terminal": false
+    },
+    {
+      "id": "140",
+      "fragment": {
+        "path": "alone-against-flames/fragments/140.json",
+        "sha256": "e570208c86adb09d1bab3b8e51f1c3bd06386f51d14f2578f3db9d373eca46ca"
+      },
+      "terminal": false
+    },
+    {
+      "id": "141",
+      "fragment": {
+        "path": "alone-against-flames/fragments/141.json",
+        "sha256": "2b9243548a73210dbb34430fb2bf890b1552006014fa3238e0cccb677c986998"
+      },
+      "terminal": false
+    },
+    {
+      "id": "142",
+      "fragment": {
+        "path": "alone-against-flames/fragments/142.json",
+        "sha256": "76aea05acdc3e03b453dbeb931e8114c775f2de56c26838016aee155f340bdd8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "143",
+      "fragment": {
+        "path": "alone-against-flames/fragments/143.json",
+        "sha256": "5c03b4db7918ca8c91ac76bd775722741bd1db43b4cc526618ea1986fa838360"
+      },
+      "terminal": false
+    },
+    {
+      "id": "144",
+      "fragment": {
+        "path": "alone-against-flames/fragments/144.json",
+        "sha256": "80cb77cbada9006f3128f7bb81261e53d3a12b2153c9e4928cb14ec002c22402"
+      },
+      "terminal": false
+    },
+    {
+      "id": "145",
+      "fragment": {
+        "path": "alone-against-flames/fragments/145.json",
+        "sha256": "3024f645ffd20a1a969f4eaa33419a69b95c0b43d9404febd57e198c0fe09981"
+      },
+      "terminal": false
+    },
+    {
+      "id": "146",
+      "fragment": {
+        "path": "alone-against-flames/fragments/146.json",
+        "sha256": "fa4804bb559f060e51e3f9aaa1508e78f2c201c88d63f1f05eba506b4e40dfc0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "147",
+      "fragment": {
+        "path": "alone-against-flames/fragments/147.json",
+        "sha256": "3e749940e4974bc1a80e6ff982d8dd89f83358eb37e5d8d4bbe5a37e35a86e0f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "148",
+      "fragment": {
+        "path": "alone-against-flames/fragments/148.json",
+        "sha256": "7c6f9419b858a9d493decef94922a04973651383e3c3c7bd57dd3978ead09bd2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "149",
+      "fragment": {
+        "path": "alone-against-flames/fragments/149.json",
+        "sha256": "254fb4c7d1521bf3a9dd9057a3eca219c39e5720baa618817d97253617387c6c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "150",
+      "fragment": {
+        "path": "alone-against-flames/fragments/150.json",
+        "sha256": "b2e22dc44dc368a016f47f3a5e7d12088fb9e136d7b276906cb37910f5766090"
+      },
+      "terminal": false
+    },
+    {
+      "id": "151",
+      "fragment": {
+        "path": "alone-against-flames/fragments/151.json",
+        "sha256": "f3c4c97a175bc145b8e4be3c4da47c1e0231c734d43b4302e533dcb08f98ffb6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "152",
+      "fragment": {
+        "path": "alone-against-flames/fragments/152.json",
+        "sha256": "aa7d6997c44fe644b03829d2a7c10023fc025addff9ec5ca7e433b624408cb58"
+      },
+      "terminal": false
+    },
+    {
+      "id": "153",
+      "fragment": {
+        "path": "alone-against-flames/fragments/153.json",
+        "sha256": "e5757642cfc4faf66d189d93d7056eccf786159a1e2b3c1a6301f99816805256"
+      },
+      "terminal": false
+    },
+    {
+      "id": "154",
+      "fragment": {
+        "path": "alone-against-flames/fragments/154.json",
+        "sha256": "2654b676c9a7f38be882cbbdaebaaceb31c8e6319dd8aa2e7bc8ecfa91350afd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "155",
+      "fragment": {
+        "path": "alone-against-flames/fragments/155.json",
+        "sha256": "a0f30426916eecb1a364439888658f37e6bbab013e4aa6465bd87b4738104918"
+      },
+      "terminal": false
+    },
+    {
+      "id": "156",
+      "fragment": {
+        "path": "alone-against-flames/fragments/156.json",
+        "sha256": "5bf54bf67728e1a02a15544e36e55c94666d8dc430e43c75a9f1cb5216f857c5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "157",
+      "fragment": {
+        "path": "alone-against-flames/fragments/157.json",
+        "sha256": "a7f97be971e20a08bcbb8392a0e99bad662fdfa25e852c65708e0950c725e498"
+      },
+      "terminal": false
+    },
+    {
+      "id": "158",
+      "fragment": {
+        "path": "alone-against-flames/fragments/158.json",
+        "sha256": "b184aeadadc8f021a2190a00960059c6209e2d92989f850cf1541ae7537ddf10"
+      },
+      "terminal": false
+    },
+    {
+      "id": "159",
+      "fragment": {
+        "path": "alone-against-flames/fragments/159.json",
+        "sha256": "f20dd408514e24352a8906f8531f45ca8483628cf510dcf81caeadf6f2eee205"
+      },
+      "terminal": false
+    },
+    {
+      "id": "160",
+      "fragment": {
+        "path": "alone-against-flames/fragments/160.json",
+        "sha256": "a6097a924fb7b5dddbe97255cdcda62a672bed5a85eaeccc7d8d00da68e21c78"
+      },
+      "terminal": false
+    },
+    {
+      "id": "161",
+      "fragment": {
+        "path": "alone-against-flames/fragments/161.json",
+        "sha256": "8ed1f5853c20aeb02be6ce8425f5689a9cce3862ca633c82857b8cf1d2f6604c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "162",
+      "fragment": {
+        "path": "alone-against-flames/fragments/162.json",
+        "sha256": "163be91910b5f1893f9367b8a4478ee755f149b4a9eff55e2ae3213e7b8d9d1e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "163",
+      "fragment": {
+        "path": "alone-against-flames/fragments/163.json",
+        "sha256": "d3f46b40ed66a13df820aa39660492e0a207aacf290dc05352a88ba33798b29e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "164",
+      "fragment": {
+        "path": "alone-against-flames/fragments/164.json",
+        "sha256": "d1527cb5d0347d694f0e008bcad37a3a6688e9e4f5dd856eb9519dc3d97dd2f8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "165",
+      "fragment": {
+        "path": "alone-against-flames/fragments/165.json",
+        "sha256": "00dcc32b9e444cf9f73eeef7bd737d07226d130734d3fbd8a6c2ebcec844db66"
+      },
+      "terminal": false
+    },
+    {
+      "id": "166",
+      "fragment": {
+        "path": "alone-against-flames/fragments/166.json",
+        "sha256": "232b644836cc259761cb727096b6451d494653f2ed5cd53b60ca95526ee89d0a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "167",
+      "fragment": {
+        "path": "alone-against-flames/fragments/167.json",
+        "sha256": "931cafb33bff5d9cac4c017f75ffa4b4acd30c816daf305d5a7285ed02a9c738"
+      },
+      "terminal": false
+    },
+    {
+      "id": "168",
+      "fragment": {
+        "path": "alone-against-flames/fragments/168.json",
+        "sha256": "84d09d28581ea45ecc0f8281b8c04d11b901c38a066a8dac95463c7d768c1fc4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "169",
+      "fragment": {
+        "path": "alone-against-flames/fragments/169.json",
+        "sha256": "77fa7e851f644de65d943d3c4b890cb47c0dac012c0d220a5c21c9cdf1c8f5c8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "170",
+      "fragment": {
+        "path": "alone-against-flames/fragments/170.json",
+        "sha256": "9ab1f403826a6e29acb6b6cc781499e84f823952b01dc4e4789dde6b90c83218"
+      },
+      "terminal": false
+    },
+    {
+      "id": "171",
+      "fragment": {
+        "path": "alone-against-flames/fragments/171.json",
+        "sha256": "70aaec35eaff8e107790a0de6a4d85495413dda9d4fd691f4791f7d70b18734c"
+      },
+      "terminal": true
+    },
+    {
+      "id": "172",
+      "fragment": {
+        "path": "alone-against-flames/fragments/172.json",
+        "sha256": "49374a3e853e771661521bd16861de425d4bda1c0bfe3829ab48097b51f35045"
+      },
+      "terminal": false
+    },
+    {
+      "id": "173",
+      "fragment": {
+        "path": "alone-against-flames/fragments/173.json",
+        "sha256": "cdf37917e3749a9fc523f477111d87da913ff8f4893fc86bf7adee854b441bca"
+      },
+      "terminal": false
+    },
+    {
+      "id": "174",
+      "fragment": {
+        "path": "alone-against-flames/fragments/174.json",
+        "sha256": "e562facc3fd2715690e261c26a8ad872da615075ce902dfc0c7e81e583d20d57"
+      },
+      "terminal": false
+    },
+    {
+      "id": "175",
+      "fragment": {
+        "path": "alone-against-flames/fragments/175.json",
+        "sha256": "d6e8ef78de5008df4ee318108dd57f59c6a76de73c3915f1727da18e4252655b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "176",
+      "fragment": {
+        "path": "alone-against-flames/fragments/176.json",
+        "sha256": "7114a9e29bad3db12281c20dd5673161c6df98ab646f7a2485c442f7e67839bb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "177",
+      "fragment": {
+        "path": "alone-against-flames/fragments/177.json",
+        "sha256": "e259603af13ccde2d8c42d51ee920031039ca99f10c088eb536c805eaa0153f8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "178",
+      "fragment": {
+        "path": "alone-against-flames/fragments/178.json",
+        "sha256": "02ba2395383c9ef1098cd7f6cc3cf465f09df9ebd89f29e76672419ea90bb910"
+      },
+      "terminal": false
+    },
+    {
+      "id": "179",
+      "fragment": {
+        "path": "alone-against-flames/fragments/179.json",
+        "sha256": "a99ffb7c01d353f9581f1c3caa3f51fd7d63818a12ba869b2046e449095da8d4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "180",
+      "fragment": {
+        "path": "alone-against-flames/fragments/180.json",
+        "sha256": "84208ddd2f6c776bd35d3d386e74748b0ecd621d807e416a9961b16e5bd278cb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "181",
+      "fragment": {
+        "path": "alone-against-flames/fragments/181.json",
+        "sha256": "433e21584fbb05b30bf385ca89a8a8536ccdedaf3ceef1f8e97f42440a4c6fc6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "182",
+      "fragment": {
+        "path": "alone-against-flames/fragments/182.json",
+        "sha256": "45cbb5f112d41eaccf6deda5fab80184c2366f2a2278ac16c8b89704ce20f6f2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "183",
+      "fragment": {
+        "path": "alone-against-flames/fragments/183.json",
+        "sha256": "a65e0440bae0d21566f0354cd7edccbf616c7df0d00219e70302c5dcf3a8c989"
+      },
+      "terminal": false
+    },
+    {
+      "id": "184",
+      "fragment": {
+        "path": "alone-against-flames/fragments/184.json",
+        "sha256": "f3194029cb626235edc291de18d11983cccf117c88b80acb22d6320ff32aff23"
+      },
+      "terminal": false
+    },
+    {
+      "id": "185",
+      "fragment": {
+        "path": "alone-against-flames/fragments/185.json",
+        "sha256": "b26f979e9d4bc325cbe1cd1197fc5d3bb614f35e6f5379d007f469186fbf9506"
+      },
+      "terminal": true
+    },
+    {
+      "id": "186",
+      "fragment": {
+        "path": "alone-against-flames/fragments/186.json",
+        "sha256": "521b9138018bcb95a45d00c0a3912fca57be4b601b51791b2a7f566a25e70aac"
+      },
+      "terminal": false
+    },
+    {
+      "id": "187",
+      "fragment": {
+        "path": "alone-against-flames/fragments/187.json",
+        "sha256": "c08efcc7230883c298272989970e7fdbfe20e0aacfa14044e990568a92e5cffb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "188",
+      "fragment": {
+        "path": "alone-against-flames/fragments/188.json",
+        "sha256": "cc6083a1ff6970daff299574b3d1d22c7fd5862f26008fde763229d5aba97557"
+      },
+      "terminal": false
+    },
+    {
+      "id": "189",
+      "fragment": {
+        "path": "alone-against-flames/fragments/189.json",
+        "sha256": "c4f2b9b7e76b2385bd5e608371121395095649049c2b74ad4885eb3a7e8c8a1d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "190",
+      "fragment": {
+        "path": "alone-against-flames/fragments/190.json",
+        "sha256": "407633777dcb8d546debfa66db1d3299b4bb20aecf1b18fcd9e670f209e9023d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "191",
+      "fragment": {
+        "path": "alone-against-flames/fragments/191.json",
+        "sha256": "b23c7b12e27ca0282ee825026ce07797018ccc626908c69e1f617d41963d0d6c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "192",
+      "fragment": {
+        "path": "alone-against-flames/fragments/192.json",
+        "sha256": "dce60e2272cc35b98d8da816e64caa60111efe054c1af7e77d815631d7327d3c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "193",
+      "fragment": {
+        "path": "alone-against-flames/fragments/193.json",
+        "sha256": "80f9eed84596b0b0b0328fe1bee1a3ebc4946f962ee6ab2725521a45dc15441f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "194",
+      "fragment": {
+        "path": "alone-against-flames/fragments/194.json",
+        "sha256": "239c3b9a70235ea4ba5c0a68dc957b7457d3d3621ec0ef2c0bfca7e2f4d8ab3e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "195",
+      "fragment": {
+        "path": "alone-against-flames/fragments/195.json",
+        "sha256": "2964b4cee39f6502d48514f50c0bcc17d69f1f4c8b041e8961fedf0e4d2af910"
+      },
+      "terminal": false
+    },
+    {
+      "id": "196",
+      "fragment": {
+        "path": "alone-against-flames/fragments/196.json",
+        "sha256": "16441d45d58398708b0ad72ffc5ba8edb4530c28f00dd2ec4426d614cd262761"
+      },
+      "terminal": true
+    },
+    {
+      "id": "197",
+      "fragment": {
+        "path": "alone-against-flames/fragments/197.json",
+        "sha256": "f3f508adb61e8c5eb6600c7f4daf10e5dccef098acb74894cdb80aef2672cb22"
+      },
+      "terminal": false
+    },
+    {
+      "id": "198",
+      "fragment": {
+        "path": "alone-against-flames/fragments/198.json",
+        "sha256": "7ee4ac0df7481634c28be03a43ad3763a1fae8c7825c78ac1ac18cf13f245f8d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "199",
+      "fragment": {
+        "path": "alone-against-flames/fragments/199.json",
+        "sha256": "c7ab74ac80a0396b6a9bf7e27a32dd4a7778b78b00f258ae2b18bc25f29ec7f4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "200",
+      "fragment": {
+        "path": "alone-against-flames/fragments/200.json",
+        "sha256": "d32a09c996966331560acbc998ac9b331e13992debd3c8ea5eb12c90ca483e11"
+      },
+      "terminal": false
+    },
+    {
+      "id": "201",
+      "fragment": {
+        "path": "alone-against-flames/fragments/201.json",
+        "sha256": "b85246b5a373dc5606088aa4c16b894e6c30c1698179a4475ccda17d09144618"
+      },
+      "terminal": false
+    },
+    {
+      "id": "202",
+      "fragment": {
+        "path": "alone-against-flames/fragments/202.json",
+        "sha256": "266ef7854dd8450be9efd61977ee8bfa98d10d79d50a35f5227da2baa25061fb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "203",
+      "fragment": {
+        "path": "alone-against-flames/fragments/203.json",
+        "sha256": "73fa2729efda539ec68809951f6c7cb22d801f339d8a6a0567e40537c0eb8113"
+      },
+      "terminal": false
+    },
+    {
+      "id": "204",
+      "fragment": {
+        "path": "alone-against-flames/fragments/204.json",
+        "sha256": "7221e4e90bbc44f05b508fdac7020b90e3bab9b716e66e8875e356d24ef49641"
+      },
+      "terminal": false
+    },
+    {
+      "id": "205",
+      "fragment": {
+        "path": "alone-against-flames/fragments/205.json",
+        "sha256": "d5a38a783ea11e2aa7fb808f0b243415b98f1e4d572ecd4efb372e06a6075595"
+      },
+      "terminal": false
+    },
+    {
+      "id": "206",
+      "fragment": {
+        "path": "alone-against-flames/fragments/206.json",
+        "sha256": "fd4e85586df75b1b2fba7feeae8d15bbe211e44ddb546ddc395e7fab3bb30b32"
+      },
+      "terminal": false
+    },
+    {
+      "id": "207",
+      "fragment": {
+        "path": "alone-against-flames/fragments/207.json",
+        "sha256": "d0eed4023cc24b9f89a5253686d1aa4cc2f677ef4c71c8f47645e0f8303d9880"
+      },
+      "terminal": false
+    },
+    {
+      "id": "208",
+      "fragment": {
+        "path": "alone-against-flames/fragments/208.json",
+        "sha256": "586113029f7abdce9502db579d96a64815526f089753fe844b49400ebc267b91"
+      },
+      "terminal": false
+    },
+    {
+      "id": "209",
+      "fragment": {
+        "path": "alone-against-flames/fragments/209.json",
+        "sha256": "7201d010390547995ee64134a061e814fb939f86f75346e0c82216a12a725a50"
+      },
+      "terminal": false
+    },
+    {
+      "id": "210",
+      "fragment": {
+        "path": "alone-against-flames/fragments/210.json",
+        "sha256": "cb33422e818cb994a715ef462f1c764af93730151d5dea01de792decb6e89ac0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "211",
+      "fragment": {
+        "path": "alone-against-flames/fragments/211.json",
+        "sha256": "8a2aeb25936259e2572ceec1eeecb74c23e8e8048270a4a786577ca6f09dc8ae"
+      },
+      "terminal": false
+    },
+    {
+      "id": "212",
+      "fragment": {
+        "path": "alone-against-flames/fragments/212.json",
+        "sha256": "1b0a3d20ce04df1bfa0d6f86552d2efe36c705795e6cbbc2a044eca0afa0d988"
+      },
+      "terminal": false
+    },
+    {
+      "id": "213",
+      "fragment": {
+        "path": "alone-against-flames/fragments/213.json",
+        "sha256": "81520014246835a48c0cb2c5f69e2996f5937a10444b8b7649784542002d75ab"
+      },
+      "terminal": false
+    },
+    {
+      "id": "214",
+      "fragment": {
+        "path": "alone-against-flames/fragments/214.json",
+        "sha256": "549af7dc861f87c7fae1390dc786a624a977df1b9cd2188161f830788f92cda0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "215",
+      "fragment": {
+        "path": "alone-against-flames/fragments/215.json",
+        "sha256": "4a2bf7f4a0b753209556cbeca1ea70ac3df2135e372bdf584a4612564e451d64"
+      },
+      "terminal": false
+    },
+    {
+      "id": "216",
+      "fragment": {
+        "path": "alone-against-flames/fragments/216.json",
+        "sha256": "f4c2d6b1ee5f49e4201d3bb6016107bd8c3f35f9e77d5938d07cebf7ac3f306a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "217",
+      "fragment": {
+        "path": "alone-against-flames/fragments/217.json",
+        "sha256": "724e863907bd051456f2b6f31083017ca03d7d3e85f98aa3f7b4ad0c917e096b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "218",
+      "fragment": {
+        "path": "alone-against-flames/fragments/218.json",
+        "sha256": "50cca724cdcba228e3f7f1d409aaac11badb2196ffbb4eda8d7d4467d9dd4e65"
+      },
+      "terminal": false
+    },
+    {
+      "id": "219",
+      "fragment": {
+        "path": "alone-against-flames/fragments/219.json",
+        "sha256": "c21d2adf7607bbb54dfdb5505d6cceb6193c1178cd1095ea3c5410edd49f4666"
+      },
+      "terminal": false
+    },
+    {
+      "id": "220",
+      "fragment": {
+        "path": "alone-against-flames/fragments/220.json",
+        "sha256": "904cfd302bbdc78b3c58124819d42917360acdb741ddd082ef4809968bd2cc6a"
+      },
+      "terminal": true
+    },
+    {
+      "id": "221",
+      "fragment": {
+        "path": "alone-against-flames/fragments/221.json",
+        "sha256": "4889516305cb41423de75e33b43e3939900c533d966ba7651b144813a19f1adc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "222",
+      "fragment": {
+        "path": "alone-against-flames/fragments/222.json",
+        "sha256": "362767db8c432a7646ba0ea3d46651e75ef6c61b8c67063bc844c25d77c21b68"
+      },
+      "terminal": false
+    },
+    {
+      "id": "223",
+      "fragment": {
+        "path": "alone-against-flames/fragments/223.json",
+        "sha256": "5c17ded4b6872dacf71c00381cc77f6cda49c055c16a7229f17b411e7765e45f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "224",
+      "fragment": {
+        "path": "alone-against-flames/fragments/224.json",
+        "sha256": "01c0c48706ce1e28abfa93b9165e6d2bff69e8a7dbad038e8949892c2c90221f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "225",
+      "fragment": {
+        "path": "alone-against-flames/fragments/225.json",
+        "sha256": "7208a2b94fead66af0be91ab70e3e3501cd1bad995b94a1192ad50177621533c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "226",
+      "fragment": {
+        "path": "alone-against-flames/fragments/226.json",
+        "sha256": "f306f1019a3b1c6357a9df80d76bf5b84e63626a19ddf5825eeded6cac1b458e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "227",
+      "fragment": {
+        "path": "alone-against-flames/fragments/227.json",
+        "sha256": "0a2965ca2591efd8b651268c0d02ec5ef667d0ab1de71fb0e4c50b3aa43c6af9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "228",
+      "fragment": {
+        "path": "alone-against-flames/fragments/228.json",
+        "sha256": "ef0ef07ba888c252b93713d7c79e62d03342b59e6754faf892da1086e3d099f5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "229",
+      "fragment": {
+        "path": "alone-against-flames/fragments/229.json",
+        "sha256": "aad348205679b42c3dcb1f6846d33ee4a6c9bd4dc04aa7543dbbe3da4d66ebe8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "230",
+      "fragment": {
+        "path": "alone-against-flames/fragments/230.json",
+        "sha256": "3adadc952e8cdc045a099156fc9cf80995a25f67e5fa0a593af5db33abf7f1a9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "231",
+      "fragment": {
+        "path": "alone-against-flames/fragments/231.json",
+        "sha256": "a4b1d6e38be805485651d285ba02e159e24f8ac065be9a34214dba2a9b6a8389"
+      },
+      "terminal": true
+    },
+    {
+      "id": "232",
+      "fragment": {
+        "path": "alone-against-flames/fragments/232.json",
+        "sha256": "d000a07215a8525763dadd5ce3149a17efbdf52a9fb00a0828453af441486294"
+      },
+      "terminal": false
+    },
+    {
+      "id": "233",
+      "fragment": {
+        "path": "alone-against-flames/fragments/233.json",
+        "sha256": "ccc2171dc5c4d4788463517850024978129e019c35983a768674c674facdbe06"
+      },
+      "terminal": false
+    },
+    {
+      "id": "234",
+      "fragment": {
+        "path": "alone-against-flames/fragments/234.json",
+        "sha256": "ab1ce06a79a3a37037919f2cf994b1ec239e46b5a9bee4bd6498ba878dc10483"
+      },
+      "terminal": false
+    },
+    {
+      "id": "235",
+      "fragment": {
+        "path": "alone-against-flames/fragments/235.json",
+        "sha256": "cd9713f6cb631b51bd7c2b7d88a89d08989d58fb1b3758b1c25411d8d3c0aa63"
+      },
+      "terminal": false
+    },
+    {
+      "id": "236",
+      "fragment": {
+        "path": "alone-against-flames/fragments/236.json",
+        "sha256": "5440673b4aea65f5d36589f3b9b05b6fc44ccb580aeb40c34db369d98c0aecfb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "237",
+      "fragment": {
+        "path": "alone-against-flames/fragments/237.json",
+        "sha256": "bba694c72b135c3b01965ec27c39a06e06179e60ef97d3db97ecf928ce63154d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "238",
+      "fragment": {
+        "path": "alone-against-flames/fragments/238.json",
+        "sha256": "55ac513ad41b4c8f8f420e56b660b881aab7c95703600fe57edc2bbec503cd96"
+      },
+      "terminal": false
+    },
+    {
+      "id": "239",
+      "fragment": {
+        "path": "alone-against-flames/fragments/239.json",
+        "sha256": "1e45250306ed82918117c6d9405f78a1494043c6837485f89569eb8cdb06412c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "240",
+      "fragment": {
+        "path": "alone-against-flames/fragments/240.json",
+        "sha256": "a47a141159a7991b7885ca814ac56867e041690f36c2cff73b111531945b9a2c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "241",
+      "fragment": {
+        "path": "alone-against-flames/fragments/241.json",
+        "sha256": "44dfa600f2cb12bf6f6a11cd5ff89e1ac7dca168e38f292eb61a3d19ea441e81"
+      },
+      "terminal": false
+    },
+    {
+      "id": "242",
+      "fragment": {
+        "path": "alone-against-flames/fragments/242.json",
+        "sha256": "1815b1f1c3340abe54ad0450118bbf94c3e1f90a1d55c5c75d04456b1f83bab3"
+      },
+      "terminal": false
+    },
+    {
+      "id": "243",
+      "fragment": {
+        "path": "alone-against-flames/fragments/243.json",
+        "sha256": "17c525678893868392d7b091527b33a19dbab4d3302f6d4a388f9d24be901c14"
+      },
+      "terminal": true
+    },
+    {
+      "id": "244",
+      "fragment": {
+        "path": "alone-against-flames/fragments/244.json",
+        "sha256": "4dc1dac2c509d3d0cb4b65bb38ff16ec12edef92261b84127a74e57a7be3482c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "245",
+      "fragment": {
+        "path": "alone-against-flames/fragments/245.json",
+        "sha256": "18019afa08a0dfc74617462fbee1a9151e5e4942e3225143de72c9a802c9985b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "246",
+      "fragment": {
+        "path": "alone-against-flames/fragments/246.json",
+        "sha256": "18ccc16b6d0b537ac58f412f8657c781e2515c984c907265c8a0d276bbe3d709"
+      },
+      "terminal": false
+    },
+    {
+      "id": "247",
+      "fragment": {
+        "path": "alone-against-flames/fragments/247.json",
+        "sha256": "1a679c8618357c4401c17939fc7e56f606df49fa4178869876eb917f07a64760"
+      },
+      "terminal": true
+    },
+    {
+      "id": "248",
+      "fragment": {
+        "path": "alone-against-flames/fragments/248.json",
+        "sha256": "82d499e4e86c577c843214d04c8c5b9d8a1e7b6efc4170de698669a74fef86da"
+      },
+      "terminal": false
+    },
+    {
+      "id": "249",
+      "fragment": {
+        "path": "alone-against-flames/fragments/249.json",
+        "sha256": "22faa61dd4cadb97728a36ff21d0a76520e12ab3b70e0e0707699fe0c9e38e4a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "250",
+      "fragment": {
+        "path": "alone-against-flames/fragments/250.json",
+        "sha256": "88091cd5855034ff020aa0580b03f4b45d3f9d0e5e11d20ff346aacc2936ced9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "251",
+      "fragment": {
+        "path": "alone-against-flames/fragments/251.json",
+        "sha256": "8b9d1c0f1033d8a48f6403ba1a0d44fcbd59f911f6184af034d680d3bcd8c127"
+      },
+      "terminal": false
+    },
+    {
+      "id": "252",
+      "fragment": {
+        "path": "alone-against-flames/fragments/252.json",
+        "sha256": "14233db275f18492f24d4d2d5f012658514ca88a4f7e6327400febdf4890a990"
+      },
+      "terminal": false
+    },
+    {
+      "id": "253",
+      "fragment": {
+        "path": "alone-against-flames/fragments/253.json",
+        "sha256": "8a6c32bdfe3eab60bc7095b2e264d9629c8a4fc2236a87306726df1540783bdb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "254",
+      "fragment": {
+        "path": "alone-against-flames/fragments/254.json",
+        "sha256": "45239ac88c3a15c0939fe5178c286283fdd34b3caf0f111e52fc055b6b1c8d35"
+      },
+      "terminal": false
+    },
+    {
+      "id": "255",
+      "fragment": {
+        "path": "alone-against-flames/fragments/255.json",
+        "sha256": "81c2958fd8009b624e1159cb07a8aacc9e8f501d0bd8a2e56f1e497374e00e23"
+      },
+      "terminal": true
+    },
+    {
+      "id": "256",
+      "fragment": {
+        "path": "alone-against-flames/fragments/256.json",
+        "sha256": "4100975b952338607b64db3b70e0df2626a73da77ed3a51ec7bef1862756094b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "257",
+      "fragment": {
+        "path": "alone-against-flames/fragments/257.json",
+        "sha256": "c5df0cd3d70422737ca80a990ccddc5a8dbaae7a8221169cac34bc0de27eac24"
+      },
+      "terminal": false
+    },
+    {
+      "id": "258",
+      "fragment": {
+        "path": "alone-against-flames/fragments/258.json",
+        "sha256": "856ce73b73375250651b63276841ab9f74cd476e3e22d3da6d3bddede2926cbe"
+      },
+      "terminal": false
+    },
+    {
+      "id": "259",
+      "fragment": {
+        "path": "alone-against-flames/fragments/259.json",
+        "sha256": "2ebdcc3ef9d5eb71230a3e03ce749f2172cb9bf6b55c692d2b09ec085b19e9cd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "260",
+      "fragment": {
+        "path": "alone-against-flames/fragments/260.json",
+        "sha256": "00df0518319bd66c3a22fd4711e743309b42289a27884d95589e04295858e6cc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "261",
+      "fragment": {
+        "path": "alone-against-flames/fragments/261.json",
+        "sha256": "251dcc96485d3407f9b2bec8f22ce4e1973323d80dad0cd1c472091644b91bcd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "262",
+      "fragment": {
+        "path": "alone-against-flames/fragments/262.json",
+        "sha256": "cc0b472f9ca1c9556e0755387770d8856ea4f5ef6a6bb8211a61f8068dcf6d6c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "263",
+      "fragment": {
+        "path": "alone-against-flames/fragments/263.json",
+        "sha256": "4d38024458d49f01d3b107f11b2bb61e13f77507be13f13b4d751156102d48d3"
+      },
+      "terminal": false
+    },
+    {
+      "id": "264",
+      "fragment": {
+        "path": "alone-against-flames/fragments/264.json",
+        "sha256": "d3f1c7c5bbe5a26023a8ad7805c6e54f6f67bd2bb52c8df13bd66d4d684196cb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "265",
+      "fragment": {
+        "path": "alone-against-flames/fragments/265.json",
+        "sha256": "e0f6788ae403903ffbce6ce437ab58b891e12489216b2c7a92cf5f6b8ade3cc0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "266",
+      "fragment": {
+        "path": "alone-against-flames/fragments/266.json",
+        "sha256": "aa82a8956d9d7f62b160e973e412a852cf536bde235e9fd3558ccc6a910ad173"
+      },
+      "terminal": false
+    },
+    {
+      "id": "267",
+      "fragment": {
+        "path": "alone-against-flames/fragments/267.json",
+        "sha256": "768ff64bfc2d23f0c64c4197ca60cf67336b4265c4bde1df5832c412ee7d75c6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "268",
+      "fragment": {
+        "path": "alone-against-flames/fragments/268.json",
+        "sha256": "52d277cc146eaeaeeae3b41aa12328ce212fb20caa37bebeda86774847ba70d2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "269",
+      "fragment": {
+        "path": "alone-against-flames/fragments/269.json",
+        "sha256": "703910bbd77b9b5cafa168784ce08dcdde202e7450bbfc738ae2c83afa79096b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "270",
+      "fragment": {
+        "path": "alone-against-flames/fragments/270.json",
+        "sha256": "709b6a226ac0abd20e2b2717b77ca2ee35af757ee576c72bd345789a8ad90dc2"
+      },
+      "terminal": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-1",
+      "source": "1",
+      "target": "263",
+      "evidence": "printed-link-number",
+      "paragraphId": "1:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor251"
+    },
+    {
+      "id": "e-2",
+      "source": "2",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "2:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-3",
+      "source": "3",
+      "target": "9",
+      "evidence": "printed-link-number",
+      "paragraphId": "3:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor007"
+    },
+    {
+      "id": "e-4",
+      "source": "3",
+      "target": "15",
+      "evidence": "printed-link-number",
+      "paragraphId": "3:p10",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor013"
+    },
+    {
+      "id": "e-5",
+      "source": "3",
+      "target": "22",
+      "evidence": "printed-link-number",
+      "paragraphId": "3:p11",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor020"
+    },
+    {
+      "id": "e-6",
+      "source": "4",
+      "target": "14",
+      "evidence": "printed-link-number",
+      "paragraphId": "4:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor012"
+    },
+    {
+      "id": "e-7",
+      "source": "4",
+      "target": "21",
+      "evidence": "printed-link-number",
+      "paragraphId": "4:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor019"
+    },
+    {
+      "id": "e-8",
+      "source": "5",
+      "target": "13",
+      "evidence": "printed-link-number",
+      "paragraphId": "5:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor011"
+    },
+    {
+      "id": "e-9",
+      "source": "6",
+      "target": "16",
+      "evidence": "printed-link-number",
+      "paragraphId": "6:p4",
+      "originalHref": ""
+    },
+    {
+      "id": "e-10",
+      "source": "6",
+      "target": "84",
+      "evidence": "printed-link-number",
+      "paragraphId": "6:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor078"
+    },
+    {
+      "id": "e-11",
+      "source": "6",
+      "target": "115",
+      "evidence": "printed-link-number",
+      "paragraphId": "6:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor106"
+    },
+    {
+      "id": "e-12",
+      "source": "6",
+      "target": "57",
+      "evidence": "printed-link-number",
+      "paragraphId": "6:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor054"
+    },
+    {
+      "id": "e-13",
+      "source": "6",
+      "target": "34",
+      "evidence": "printed-link-number",
+      "paragraphId": "6:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor032"
+    },
+    {
+      "id": "e-14",
+      "source": "6",
+      "target": "96",
+      "evidence": "printed-link-number",
+      "paragraphId": "6:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor088"
+    },
+    {
+      "id": "e-15",
+      "source": "7",
+      "target": "119",
+      "evidence": "printed-link-number",
+      "paragraphId": "7:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor110"
+    },
+    {
+      "id": "e-16",
+      "source": "7",
+      "target": "125",
+      "evidence": "printed-link-number",
+      "paragraphId": "7:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor116"
+    },
+    {
+      "id": "e-17",
+      "source": "8",
+      "target": "23",
+      "evidence": "printed-link-number",
+      "paragraphId": "8:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor021"
+    },
+    {
+      "id": "e-18",
+      "source": "8",
+      "target": "38",
+      "evidence": "printed-link-number",
+      "paragraphId": "8:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor036"
+    },
+    {
+      "id": "e-19",
+      "source": "9",
+      "target": "22",
+      "evidence": "printed-link-number",
+      "paragraphId": "9:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor020"
+    },
+    {
+      "id": "e-20",
+      "source": "10",
+      "target": "18",
+      "evidence": "printed-link-number",
+      "paragraphId": "10:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor016"
+    },
+    {
+      "id": "e-21",
+      "source": "11",
+      "target": "17",
+      "evidence": "printed-link-number",
+      "paragraphId": "11:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor015"
+    },
+    {
+      "id": "e-22",
+      "source": "11",
+      "target": "24",
+      "evidence": "printed-link-number",
+      "paragraphId": "11:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor022"
+    },
+    {
+      "id": "e-23",
+      "source": "12",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "12:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-24",
+      "source": "13",
+      "target": "64",
+      "evidence": "printed-link-number",
+      "paragraphId": "13:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor061"
+    },
+    {
+      "id": "e-25",
+      "source": "14",
+      "target": "31",
+      "evidence": "printed-link-number",
+      "paragraphId": "14:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor029"
+    },
+    {
+      "id": "e-26",
+      "source": "14",
+      "target": "75",
+      "evidence": "printed-link-number",
+      "paragraphId": "14:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor071"
+    },
+    {
+      "id": "e-27",
+      "source": "14",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "14:p10",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-28",
+      "source": "15",
+      "target": "22",
+      "evidence": "printed-link-number",
+      "paragraphId": "15:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor020"
+    },
+    {
+      "id": "e-29",
+      "source": "16",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "16:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-30",
+      "source": "17",
+      "target": "30",
+      "evidence": "printed-link-number",
+      "paragraphId": "17:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor028"
+    },
+    {
+      "id": "e-31",
+      "source": "17",
+      "target": "37",
+      "evidence": "printed-link-number",
+      "paragraphId": "17:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor035"
+    },
+    {
+      "id": "e-32",
+      "source": "18",
+      "target": "33",
+      "evidence": "printed-link-number",
+      "paragraphId": "18:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor031"
+    },
+    {
+      "id": "e-33",
+      "source": "19",
+      "target": "58",
+      "evidence": "printed-link-number",
+      "paragraphId": "19:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor055"
+    },
+    {
+      "id": "e-34",
+      "source": "19",
+      "target": "52",
+      "evidence": "printed-link-number",
+      "paragraphId": "19:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor049"
+    },
+    {
+      "id": "e-35",
+      "source": "20",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "20:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-36",
+      "source": "21",
+      "target": "31",
+      "evidence": "printed-link-number",
+      "paragraphId": "21:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor029"
+    },
+    {
+      "id": "e-37",
+      "source": "21",
+      "target": "75",
+      "evidence": "printed-link-number",
+      "paragraphId": "21:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor071"
+    },
+    {
+      "id": "e-38",
+      "source": "21",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "21:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-39",
+      "source": "22",
+      "target": "28",
+      "evidence": "printed-link-number",
+      "paragraphId": "22:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor026"
+    },
+    {
+      "id": "e-40",
+      "source": "22",
+      "target": "11",
+      "evidence": "printed-link-number",
+      "paragraphId": "22:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor009"
+    },
+    {
+      "id": "e-41",
+      "source": "23",
+      "target": "233",
+      "evidence": "printed-link-number",
+      "paragraphId": "23:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor221"
+    },
+    {
+      "id": "e-42",
+      "source": "24",
+      "target": "43",
+      "evidence": "printed-link-number",
+      "paragraphId": "24:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor041"
+    },
+    {
+      "id": "e-43",
+      "source": "25",
+      "target": "3",
+      "evidence": "printed-prose-number",
+      "paragraphId": "25:p2",
+      "textOffset": 161
+    },
+    {
+      "id": "e-44",
+      "source": "25",
+      "target": "16",
+      "evidence": "printed-link-number",
+      "paragraphId": "25:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor014"
+    },
+    {
+      "id": "e-45",
+      "source": "25",
+      "target": "84",
+      "evidence": "printed-link-number",
+      "paragraphId": "25:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor078"
+    },
+    {
+      "id": "e-46",
+      "source": "25",
+      "target": "115",
+      "evidence": "printed-link-number",
+      "paragraphId": "25:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor106"
+    },
+    {
+      "id": "e-47",
+      "source": "25",
+      "target": "57",
+      "evidence": "printed-link-number",
+      "paragraphId": "25:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor054"
+    },
+    {
+      "id": "e-48",
+      "source": "25",
+      "target": "34",
+      "evidence": "printed-link-number",
+      "paragraphId": "25:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor032"
+    },
+    {
+      "id": "e-49",
+      "source": "25",
+      "target": "96",
+      "evidence": "printed-link-number",
+      "paragraphId": "25:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor088"
+    },
+    {
+      "id": "e-50",
+      "source": "26",
+      "target": "64",
+      "evidence": "printed-link-number",
+      "paragraphId": "26:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor061"
+    },
+    {
+      "id": "e-51",
+      "source": "27",
+      "target": "117",
+      "evidence": "printed-link-number",
+      "paragraphId": "27:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor108"
+    },
+    {
+      "id": "e-52",
+      "source": "28",
+      "target": "35",
+      "evidence": "printed-link-number",
+      "paragraphId": "28:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor033"
+    },
+    {
+      "id": "e-53",
+      "source": "28",
+      "target": "41",
+      "evidence": "printed-link-number",
+      "paragraphId": "28:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor039"
+    },
+    {
+      "id": "e-54",
+      "source": "29",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "29:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-55",
+      "source": "29",
+      "target": "42",
+      "evidence": "printed-link-number",
+      "paragraphId": "29:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor040"
+    },
+    {
+      "id": "e-56",
+      "source": "29",
+      "target": "42",
+      "evidence": "printed-link-number",
+      "paragraphId": "29:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor040"
+    },
+    {
+      "id": "e-57",
+      "source": "29",
+      "target": "36",
+      "evidence": "printed-link-number",
+      "paragraphId": "29:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor034"
+    },
+    {
+      "id": "e-58",
+      "source": "30",
+      "target": "37",
+      "evidence": "printed-link-number",
+      "paragraphId": "30:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor035"
+    },
+    {
+      "id": "e-59",
+      "source": "31",
+      "target": "39",
+      "evidence": "printed-link-number",
+      "paragraphId": "31:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor037"
+    },
+    {
+      "id": "e-60",
+      "source": "31",
+      "target": "51",
+      "evidence": "printed-link-number",
+      "paragraphId": "31:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor048"
+    },
+    {
+      "id": "e-61",
+      "source": "32",
+      "target": "58",
+      "evidence": "printed-link-number",
+      "paragraphId": "32:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor055"
+    },
+    {
+      "id": "e-62",
+      "source": "32",
+      "target": "52",
+      "evidence": "printed-link-number",
+      "paragraphId": "32:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor049"
+    },
+    {
+      "id": "e-63",
+      "source": "33",
+      "target": "44",
+      "evidence": "printed-link-number",
+      "paragraphId": "33:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor042"
+    },
+    {
+      "id": "e-64",
+      "source": "33",
+      "target": "40",
+      "evidence": "printed-link-number",
+      "paragraphId": "33:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor038"
+    },
+    {
+      "id": "e-65",
+      "source": "34",
+      "target": "46",
+      "evidence": "printed-link-number",
+      "paragraphId": "34:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor044"
+    },
+    {
+      "id": "e-66",
+      "source": "34",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "34:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-67",
+      "source": "35",
+      "target": "54",
+      "evidence": "printed-link-number",
+      "paragraphId": "35:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor051"
+    },
+    {
+      "id": "e-68",
+      "source": "36",
+      "target": "48",
+      "evidence": "printed-link-number",
+      "paragraphId": "36:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor046"
+    },
+    {
+      "id": "e-69",
+      "source": "36",
+      "target": "55",
+      "evidence": "printed-link-number",
+      "paragraphId": "36:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor052"
+    },
+    {
+      "id": "e-70",
+      "source": "37",
+      "target": "43",
+      "evidence": "printed-link-number",
+      "paragraphId": "37:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor041"
+    },
+    {
+      "id": "e-71",
+      "source": "38",
+      "target": "233",
+      "evidence": "printed-link-number",
+      "paragraphId": "38:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor221"
+    },
+    {
+      "id": "e-72",
+      "source": "39",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "39:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-73",
+      "source": "40",
+      "target": "65",
+      "evidence": "printed-link-number",
+      "paragraphId": "40:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor062"
+    },
+    {
+      "id": "e-74",
+      "source": "41",
+      "target": "54",
+      "evidence": "printed-link-number",
+      "paragraphId": "41:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor051"
+    },
+    {
+      "id": "e-75",
+      "source": "41",
+      "target": "47",
+      "evidence": "printed-link-number",
+      "paragraphId": "41:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor045"
+    },
+    {
+      "id": "e-76",
+      "source": "42",
+      "target": "61",
+      "evidence": "printed-link-number",
+      "paragraphId": "42:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor058"
+    },
+    {
+      "id": "e-77",
+      "source": "43",
+      "target": "56",
+      "evidence": "printed-link-number",
+      "paragraphId": "43:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor053"
+    },
+    {
+      "id": "e-78",
+      "source": "43",
+      "target": "49",
+      "evidence": "printed-link-number",
+      "paragraphId": "43:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor047"
+    },
+    {
+      "id": "e-79",
+      "source": "44",
+      "target": "53",
+      "evidence": "printed-link-number",
+      "paragraphId": "44:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor050"
+    },
+    {
+      "id": "e-80",
+      "source": "44",
+      "target": "40",
+      "evidence": "printed-link-number",
+      "paragraphId": "44:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor038"
+    },
+    {
+      "id": "e-81",
+      "source": "45",
+      "target": "64",
+      "evidence": "printed-link-number",
+      "paragraphId": "45:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor061"
+    },
+    {
+      "id": "e-82",
+      "source": "46",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "46:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-83",
+      "source": "47",
+      "target": "11",
+      "evidence": "printed-link-number",
+      "paragraphId": "47:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor009"
+    },
+    {
+      "id": "e-84",
+      "source": "48",
+      "target": "61",
+      "evidence": "printed-link-number",
+      "paragraphId": "48:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor058"
+    },
+    {
+      "id": "e-85",
+      "source": "49",
+      "target": "56",
+      "evidence": "printed-link-number",
+      "paragraphId": "49:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor053"
+    },
+    {
+      "id": "e-86",
+      "source": "50",
+      "target": "270",
+      "evidence": "printed-link-number",
+      "paragraphId": "50:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor258"
+    },
+    {
+      "id": "e-87",
+      "source": "51",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "51:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-88",
+      "source": "52",
+      "target": "64",
+      "evidence": "printed-link-number",
+      "paragraphId": "52:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor061"
+    },
+    {
+      "id": "e-89",
+      "source": "53",
+      "target": "109",
+      "evidence": "printed-link-number",
+      "paragraphId": "53:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor100"
+    },
+    {
+      "id": "e-90",
+      "source": "53",
+      "target": "123",
+      "evidence": "printed-link-number",
+      "paragraphId": "53:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor114"
+    },
+    {
+      "id": "e-91",
+      "source": "54",
+      "target": "60",
+      "evidence": "printed-link-number",
+      "paragraphId": "54:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor057"
+    },
+    {
+      "id": "e-92",
+      "source": "54",
+      "target": "85",
+      "evidence": "printed-link-number",
+      "paragraphId": "54:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor079"
+    },
+    {
+      "id": "e-93",
+      "source": "54",
+      "target": "103",
+      "evidence": "printed-link-number",
+      "paragraphId": "54:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor095"
+    },
+    {
+      "id": "e-94",
+      "source": "55",
+      "target": "67",
+      "evidence": "printed-link-number",
+      "paragraphId": "55:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor063"
+    },
+    {
+      "id": "e-95",
+      "source": "55",
+      "target": "73",
+      "evidence": "printed-link-number",
+      "paragraphId": "55:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor069"
+    },
+    {
+      "id": "e-96",
+      "source": "56",
+      "target": "180",
+      "evidence": "printed-link-number",
+      "paragraphId": "56:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor171"
+    },
+    {
+      "id": "e-97",
+      "source": "56",
+      "target": "62",
+      "evidence": "printed-link-number",
+      "paragraphId": "56:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor059"
+    },
+    {
+      "id": "e-98",
+      "source": "57",
+      "target": "69",
+      "evidence": "printed-link-number",
+      "paragraphId": "57:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor065"
+    },
+    {
+      "id": "e-99",
+      "source": "57",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "57:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-100",
+      "source": "58",
+      "target": "64",
+      "evidence": "printed-link-number",
+      "paragraphId": "58:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor061"
+    },
+    {
+      "id": "e-101",
+      "source": "59",
+      "target": "71",
+      "evidence": "printed-link-number",
+      "paragraphId": "59:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor067"
+    },
+    {
+      "id": "e-102",
+      "source": "60",
+      "target": "72",
+      "evidence": "printed-link-number",
+      "paragraphId": "60:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor068"
+    },
+    {
+      "id": "e-103",
+      "source": "60",
+      "target": "66",
+      "evidence": "printed-prose-number",
+      "paragraphId": "60:p3",
+      "textOffset": 50
+    },
+    {
+      "id": "e-104",
+      "source": "61",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "61:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-105",
+      "source": "62",
+      "target": "68",
+      "evidence": "printed-link-number",
+      "paragraphId": "62:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor064"
+    },
+    {
+      "id": "e-106",
+      "source": "62",
+      "target": "180",
+      "evidence": "printed-link-number",
+      "paragraphId": "62:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor171"
+    },
+    {
+      "id": "e-107",
+      "source": "63",
+      "target": "154",
+      "evidence": "printed-link-number",
+      "paragraphId": "63:p10",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor145"
+    },
+    {
+      "id": "e-108",
+      "source": "64",
+      "target": "70",
+      "evidence": "printed-link-number",
+      "paragraphId": "64:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor066"
+    },
+    {
+      "id": "e-109",
+      "source": "64",
+      "target": "78",
+      "evidence": "printed-link-number",
+      "paragraphId": "64:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor073"
+    },
+    {
+      "id": "e-110",
+      "source": "65",
+      "target": "93",
+      "evidence": "printed-link-number",
+      "paragraphId": "65:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor085"
+    },
+    {
+      "id": "e-111",
+      "source": "65",
+      "target": "77",
+      "evidence": "printed-link-number",
+      "paragraphId": "65:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor072"
+    },
+    {
+      "id": "e-112",
+      "source": "66",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "66:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-113",
+      "source": "67",
+      "target": "82",
+      "evidence": "printed-link-number",
+      "paragraphId": "67:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor076"
+    },
+    {
+      "id": "e-114",
+      "source": "67",
+      "target": "92",
+      "evidence": "printed-link-number",
+      "paragraphId": "67:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor084"
+    },
+    {
+      "id": "e-115",
+      "source": "68",
+      "target": "74",
+      "evidence": "printed-link-number",
+      "paragraphId": "68:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor070"
+    },
+    {
+      "id": "e-116",
+      "source": "68",
+      "target": "81",
+      "evidence": "printed-link-number",
+      "paragraphId": "68:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor075"
+    },
+    {
+      "id": "e-117",
+      "source": "68",
+      "target": "88",
+      "evidence": "printed-link-number",
+      "paragraphId": "68:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor082"
+    },
+    {
+      "id": "e-118",
+      "source": "68",
+      "target": "94",
+      "evidence": "printed-link-number",
+      "paragraphId": "68:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor086"
+    },
+    {
+      "id": "e-119",
+      "source": "69",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "69:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-120",
+      "source": "70",
+      "target": "78",
+      "evidence": "printed-link-number",
+      "paragraphId": "70:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor073"
+    },
+    {
+      "id": "e-121",
+      "source": "71",
+      "target": "102",
+      "evidence": "printed-link-number",
+      "paragraphId": "71:p10",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor094"
+    },
+    {
+      "id": "e-122",
+      "source": "71",
+      "target": "226",
+      "evidence": "printed-link-number",
+      "paragraphId": "71:p11",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor214"
+    },
+    {
+      "id": "e-123",
+      "source": "71",
+      "target": "239",
+      "evidence": "printed-link-number",
+      "paragraphId": "71:p12",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor227"
+    },
+    {
+      "id": "e-124",
+      "source": "71",
+      "target": "249",
+      "evidence": "printed-link-number",
+      "paragraphId": "71:p13",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor237"
+    },
+    {
+      "id": "e-125",
+      "source": "71",
+      "target": "265",
+      "evidence": "printed-link-number",
+      "paragraphId": "71:p14",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor253"
+    },
+    {
+      "id": "e-126",
+      "source": "72",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "72:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-127",
+      "source": "73",
+      "target": "92",
+      "evidence": "printed-link-number",
+      "paragraphId": "73:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor084"
+    },
+    {
+      "id": "e-128",
+      "source": "73",
+      "target": "82",
+      "evidence": "printed-link-number",
+      "paragraphId": "73:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor076"
+    },
+    {
+      "id": "e-129",
+      "source": "74",
+      "target": "99",
+      "evidence": "printed-link-number",
+      "paragraphId": "74:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor091"
+    },
+    {
+      "id": "e-130",
+      "source": "75",
+      "target": "86",
+      "evidence": "printed-link-number",
+      "paragraphId": "75:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor080"
+    },
+    {
+      "id": "e-131",
+      "source": "76",
+      "target": "58",
+      "evidence": "printed-link-number",
+      "paragraphId": "76:p3",
+      "originalHref": ""
+    },
+    {
+      "id": "e-132",
+      "source": "76",
+      "target": "52",
+      "evidence": "printed-link-number",
+      "paragraphId": "76:p3",
+      "originalHref": ""
+    },
+    {
+      "id": "e-133",
+      "source": "78",
+      "target": "83",
+      "evidence": "printed-link-number",
+      "paragraphId": "78:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor077"
+    },
+    {
+      "id": "e-134",
+      "source": "78",
+      "target": "126",
+      "evidence": "printed-link-number",
+      "paragraphId": "78:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor117"
+    },
+    {
+      "id": "e-135",
+      "source": "78",
+      "target": "219",
+      "evidence": "printed-link-number",
+      "paragraphId": "78:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor207"
+    },
+    {
+      "id": "e-136",
+      "source": "78",
+      "target": "29",
+      "evidence": "printed-link-number",
+      "paragraphId": "78:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor027"
+    },
+    {
+      "id": "e-137",
+      "source": "78",
+      "target": "7",
+      "evidence": "printed-link-number",
+      "paragraphId": "78:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor005"
+    },
+    {
+      "id": "e-138",
+      "source": "79",
+      "target": "240",
+      "evidence": "printed-link-number",
+      "paragraphId": "79:p2",
+      "originalHref": ""
+    },
+    {
+      "id": "e-139",
+      "source": "79",
+      "target": "234",
+      "evidence": "printed-link-number",
+      "paragraphId": "79:p2",
+      "originalHref": ""
+    },
+    {
+      "id": "e-140",
+      "source": "81",
+      "target": "99",
+      "evidence": "printed-link-number",
+      "paragraphId": "81:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor091"
+    },
+    {
+      "id": "e-141",
+      "source": "82",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "82:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-142",
+      "source": "83",
+      "target": "95",
+      "evidence": "printed-link-number",
+      "paragraphId": "83:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor087"
+    },
+    {
+      "id": "e-143",
+      "source": "83",
+      "target": "89",
+      "evidence": "printed-link-number",
+      "paragraphId": "83:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor083"
+    },
+    {
+      "id": "e-144",
+      "source": "84",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "84:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-145",
+      "source": "85",
+      "target": "97",
+      "evidence": "printed-link-number",
+      "paragraphId": "85:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor089"
+    },
+    {
+      "id": "e-146",
+      "source": "85",
+      "target": "91",
+      "evidence": "printed-prose-number",
+      "paragraphId": "85:p2",
+      "textOffset": 34
+    },
+    {
+      "id": "e-147",
+      "source": "86",
+      "target": "100",
+      "evidence": "printed-link-number",
+      "paragraphId": "86:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor092"
+    },
+    {
+      "id": "e-148",
+      "source": "86",
+      "target": "121",
+      "evidence": "printed-link-number",
+      "paragraphId": "86:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor112"
+    },
+    {
+      "id": "e-149",
+      "source": "87",
+      "target": "181",
+      "evidence": "printed-link-number",
+      "paragraphId": "87:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor172"
+    },
+    {
+      "id": "e-150",
+      "source": "87",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "87:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-151",
+      "source": "88",
+      "target": "99",
+      "evidence": "printed-link-number",
+      "paragraphId": "88:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor091"
+    },
+    {
+      "id": "e-152",
+      "source": "89",
+      "target": "95",
+      "evidence": "printed-link-number",
+      "paragraphId": "89:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor087"
+    },
+    {
+      "id": "e-153",
+      "source": "89",
+      "target": "101",
+      "evidence": "printed-link-number",
+      "paragraphId": "89:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor093"
+    },
+    {
+      "id": "e-154",
+      "source": "89",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "89:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-155",
+      "source": "90",
+      "target": "198",
+      "evidence": "printed-link-number",
+      "paragraphId": "90:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor188"
+    },
+    {
+      "id": "e-156",
+      "source": "91",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "91:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-157",
+      "source": "93",
+      "target": "137",
+      "evidence": "printed-link-number",
+      "paragraphId": "93:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor128"
+    },
+    {
+      "id": "e-158",
+      "source": "94",
+      "target": "99",
+      "evidence": "printed-link-number",
+      "paragraphId": "94:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor091"
+    },
+    {
+      "id": "e-159",
+      "source": "95",
+      "target": "114",
+      "evidence": "printed-link-number",
+      "paragraphId": "95:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor105"
+    },
+    {
+      "id": "e-160",
+      "source": "95",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "95:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-161",
+      "source": "96",
+      "target": "106",
+      "evidence": "printed-link-number",
+      "paragraphId": "96:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor098"
+    },
+    {
+      "id": "e-162",
+      "source": "96",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "96:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-163",
+      "source": "97",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "97:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-164",
+      "source": "98",
+      "target": "158",
+      "evidence": "printed-link-number",
+      "paragraphId": "98:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor149"
+    },
+    {
+      "id": "e-165",
+      "source": "98",
+      "target": "164",
+      "evidence": "printed-link-number",
+      "paragraphId": "98:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor155"
+    },
+    {
+      "id": "e-166",
+      "source": "99",
+      "target": "111",
+      "evidence": "printed-link-number",
+      "paragraphId": "99:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor102"
+    },
+    {
+      "id": "e-167",
+      "source": "99",
+      "target": "105",
+      "evidence": "printed-link-number",
+      "paragraphId": "99:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor097"
+    },
+    {
+      "id": "e-168",
+      "source": "100",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "100:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-169",
+      "source": "101",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "101:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-170",
+      "source": "102",
+      "target": "128",
+      "evidence": "printed-link-number",
+      "paragraphId": "102:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor119"
+    },
+    {
+      "id": "e-171",
+      "source": "103",
+      "target": "110",
+      "evidence": "printed-link-number",
+      "paragraphId": "103:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor101"
+    },
+    {
+      "id": "e-172",
+      "source": "103",
+      "target": "116",
+      "evidence": "printed-link-number",
+      "paragraphId": "103:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor107"
+    },
+    {
+      "id": "e-173",
+      "source": "103",
+      "target": "122",
+      "evidence": "printed-link-number",
+      "paragraphId": "103:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor113"
+    },
+    {
+      "id": "e-174",
+      "source": "104",
+      "target": "205",
+      "evidence": "printed-link-number",
+      "paragraphId": "104:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor194"
+    },
+    {
+      "id": "e-175",
+      "source": "105",
+      "target": "180",
+      "evidence": "printed-link-number",
+      "paragraphId": "105:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor171"
+    },
+    {
+      "id": "e-176",
+      "source": "106",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "106:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-177",
+      "source": "107",
+      "target": "152",
+      "evidence": "printed-link-number",
+      "paragraphId": "107:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor143"
+    },
+    {
+      "id": "e-178",
+      "source": "108",
+      "target": "104",
+      "evidence": "printed-link-number",
+      "paragraphId": "108:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor096"
+    },
+    {
+      "id": "e-179",
+      "source": "108",
+      "target": "113",
+      "evidence": "printed-link-number",
+      "paragraphId": "108:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor104"
+    },
+    {
+      "id": "e-180",
+      "source": "109",
+      "target": "137",
+      "evidence": "printed-link-number",
+      "paragraphId": "109:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor128"
+    },
+    {
+      "id": "e-181",
+      "source": "110",
+      "target": "143",
+      "evidence": "printed-link-number",
+      "paragraphId": "110:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor134"
+    },
+    {
+      "id": "e-182",
+      "source": "110",
+      "target": "129",
+      "evidence": "printed-link-number",
+      "paragraphId": "110:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor120"
+    },
+    {
+      "id": "e-183",
+      "source": "110",
+      "target": "149",
+      "evidence": "printed-link-number",
+      "paragraphId": "110:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor140"
+    },
+    {
+      "id": "e-184",
+      "source": "111",
+      "target": "118",
+      "evidence": "printed-link-number",
+      "paragraphId": "111:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor109"
+    },
+    {
+      "id": "e-185",
+      "source": "111",
+      "target": "124",
+      "evidence": "printed-link-number",
+      "paragraphId": "111:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor115"
+    },
+    {
+      "id": "e-186",
+      "source": "112",
+      "target": "192",
+      "evidence": "printed-link-number",
+      "paragraphId": "112:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor182"
+    },
+    {
+      "id": "e-187",
+      "source": "113",
+      "target": "205",
+      "evidence": "printed-link-number",
+      "paragraphId": "113:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor194"
+    },
+    {
+      "id": "e-188",
+      "source": "114",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "114:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-189",
+      "source": "115",
+      "target": "127",
+      "evidence": "printed-link-number",
+      "paragraphId": "115:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor118"
+    },
+    {
+      "id": "e-190",
+      "source": "115",
+      "target": "135",
+      "evidence": "printed-link-number",
+      "paragraphId": "115:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor126"
+    },
+    {
+      "id": "e-191",
+      "source": "116",
+      "target": "136",
+      "evidence": "printed-link-number",
+      "paragraphId": "116:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor127"
+    },
+    {
+      "id": "e-192",
+      "source": "116",
+      "target": "129",
+      "evidence": "printed-link-number",
+      "paragraphId": "116:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor120"
+    },
+    {
+      "id": "e-193",
+      "source": "117",
+      "target": "10",
+      "evidence": "printed-link-number",
+      "paragraphId": "117:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor008"
+    },
+    {
+      "id": "e-194",
+      "source": "117",
+      "target": "148",
+      "evidence": "printed-link-number",
+      "paragraphId": "117:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor139"
+    },
+    {
+      "id": "e-195",
+      "source": "118",
+      "target": "124",
+      "evidence": "printed-link-number",
+      "paragraphId": "118:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor115"
+    },
+    {
+      "id": "e-196",
+      "source": "119",
+      "target": "132",
+      "evidence": "printed-link-number",
+      "paragraphId": "119:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor123"
+    },
+    {
+      "id": "e-197",
+      "source": "119",
+      "target": "139",
+      "evidence": "printed-link-number",
+      "paragraphId": "119:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor130"
+    },
+    {
+      "id": "e-198",
+      "source": "120",
+      "target": "98",
+      "evidence": "printed-link-number",
+      "paragraphId": "120:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor090"
+    },
+    {
+      "id": "e-199",
+      "source": "120",
+      "target": "83",
+      "evidence": "printed-link-number",
+      "paragraphId": "120:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor077"
+    },
+    {
+      "id": "e-200",
+      "source": "120",
+      "target": "126",
+      "evidence": "printed-link-number",
+      "paragraphId": "120:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor117"
+    },
+    {
+      "id": "e-201",
+      "source": "120",
+      "target": "219",
+      "evidence": "printed-link-number",
+      "paragraphId": "120:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor207"
+    },
+    {
+      "id": "e-202",
+      "source": "120",
+      "target": "29",
+      "evidence": "printed-link-number",
+      "paragraphId": "120:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor027"
+    },
+    {
+      "id": "e-203",
+      "source": "120",
+      "target": "7",
+      "evidence": "printed-link-number",
+      "paragraphId": "120:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor005"
+    },
+    {
+      "id": "e-204",
+      "source": "121",
+      "target": "141",
+      "evidence": "printed-link-number",
+      "paragraphId": "121:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor132"
+    },
+    {
+      "id": "e-205",
+      "source": "121",
+      "target": "130",
+      "evidence": "printed-link-number",
+      "paragraphId": "121:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor121"
+    },
+    {
+      "id": "e-206",
+      "source": "122",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "122:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-207",
+      "source": "124",
+      "target": "180",
+      "evidence": "printed-link-number",
+      "paragraphId": "124:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor171"
+    },
+    {
+      "id": "e-208",
+      "source": "125",
+      "target": "146",
+      "evidence": "printed-link-number",
+      "paragraphId": "125:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor137"
+    },
+    {
+      "id": "e-209",
+      "source": "125",
+      "target": "139",
+      "evidence": "printed-link-number",
+      "paragraphId": "125:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor130"
+    },
+    {
+      "id": "e-210",
+      "source": "126",
+      "target": "133",
+      "evidence": "printed-link-number",
+      "paragraphId": "126:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor124"
+    },
+    {
+      "id": "e-211",
+      "source": "127",
+      "target": "142",
+      "evidence": "printed-link-number",
+      "paragraphId": "127:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor133"
+    },
+    {
+      "id": "e-212",
+      "source": "127",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "127:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-213",
+      "source": "128",
+      "target": "144",
+      "evidence": "printed-link-number",
+      "paragraphId": "128:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor135"
+    },
+    {
+      "id": "e-214",
+      "source": "129",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "129:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-215",
+      "source": "130",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "130:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-216",
+      "source": "131",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "131:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-217",
+      "source": "131",
+      "target": "163",
+      "evidence": "printed-link-number",
+      "paragraphId": "131:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor154"
+    },
+    {
+      "id": "e-218",
+      "source": "132",
+      "target": "152",
+      "evidence": "printed-link-number",
+      "paragraphId": "132:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor143"
+    },
+    {
+      "id": "e-219",
+      "source": "133",
+      "target": "147",
+      "evidence": "printed-link-number",
+      "paragraphId": "133:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor138"
+    },
+    {
+      "id": "e-220",
+      "source": "133",
+      "target": "140",
+      "evidence": "printed-link-number",
+      "paragraphId": "133:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor131"
+    },
+    {
+      "id": "e-221",
+      "source": "134",
+      "target": "261",
+      "evidence": "printed-link-number",
+      "paragraphId": "134:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor249"
+    },
+    {
+      "id": "e-222",
+      "source": "134",
+      "target": "59",
+      "evidence": "printed-link-number",
+      "paragraphId": "134:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor056"
+    },
+    {
+      "id": "e-223",
+      "source": "135",
+      "target": "150",
+      "evidence": "printed-link-number",
+      "paragraphId": "135:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor141"
+    },
+    {
+      "id": "e-224",
+      "source": "135",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "135:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-225",
+      "source": "136",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "136:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-226",
+      "source": "137",
+      "target": "156",
+      "evidence": "printed-link-number",
+      "paragraphId": "137:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor147"
+    },
+    {
+      "id": "e-227",
+      "source": "138",
+      "target": "145",
+      "evidence": "printed-link-number",
+      "paragraphId": "138:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor136"
+    },
+    {
+      "id": "e-228",
+      "source": "138",
+      "target": "151",
+      "evidence": "printed-link-number",
+      "paragraphId": "138:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor142"
+    },
+    {
+      "id": "e-229",
+      "source": "139",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "139:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-230",
+      "source": "140",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "140:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-231",
+      "source": "141",
+      "target": "63",
+      "evidence": "printed-link-number",
+      "paragraphId": "141:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor060"
+    },
+    {
+      "id": "e-232",
+      "source": "142",
+      "target": "191",
+      "evidence": "printed-link-number",
+      "paragraphId": "142:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor181"
+    },
+    {
+      "id": "e-233",
+      "source": "142",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "142:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-234",
+      "source": "143",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "143:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-235",
+      "source": "144",
+      "target": "174",
+      "evidence": "printed-link-number",
+      "paragraphId": "144:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor165"
+    },
+    {
+      "id": "e-236",
+      "source": "144",
+      "target": "162",
+      "evidence": "printed-link-number",
+      "paragraphId": "144:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor153"
+    },
+    {
+      "id": "e-237",
+      "source": "144",
+      "target": "194",
+      "evidence": "printed-link-number",
+      "paragraphId": "144:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor184"
+    },
+    {
+      "id": "e-238",
+      "source": "145",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "145:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-239",
+      "source": "146",
+      "target": "152",
+      "evidence": "printed-link-number",
+      "paragraphId": "146:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor143"
+    },
+    {
+      "id": "e-240",
+      "source": "147",
+      "target": "153",
+      "evidence": "printed-link-number",
+      "paragraphId": "147:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor144"
+    },
+    {
+      "id": "e-241",
+      "source": "147",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "147:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-242",
+      "source": "148",
+      "target": "18",
+      "evidence": "printed-link-number",
+      "paragraphId": "148:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor016"
+    },
+    {
+      "id": "e-243",
+      "source": "149",
+      "target": "155",
+      "evidence": "printed-link-number",
+      "paragraphId": "149:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor146"
+    },
+    {
+      "id": "e-244",
+      "source": "149",
+      "target": "173",
+      "evidence": "printed-link-number",
+      "paragraphId": "149:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor164"
+    },
+    {
+      "id": "e-245",
+      "source": "150",
+      "target": "172",
+      "evidence": "printed-link-number",
+      "paragraphId": "150:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor163"
+    },
+    {
+      "id": "e-246",
+      "source": "150",
+      "target": "87",
+      "evidence": "printed-link-number",
+      "paragraphId": "150:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor081"
+    },
+    {
+      "id": "e-247",
+      "source": "151",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "151:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-248",
+      "source": "152",
+      "target": "211",
+      "evidence": "printed-link-number",
+      "paragraphId": "152:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor200"
+    },
+    {
+      "id": "e-249",
+      "source": "152",
+      "target": "216",
+      "evidence": "printed-link-number",
+      "paragraphId": "152:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor204"
+    },
+    {
+      "id": "e-250",
+      "source": "153",
+      "target": "165",
+      "evidence": "printed-link-number",
+      "paragraphId": "153:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor156"
+    },
+    {
+      "id": "e-251",
+      "source": "153",
+      "target": "159",
+      "evidence": "printed-link-number",
+      "paragraphId": "153:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor150"
+    },
+    {
+      "id": "e-252",
+      "source": "154",
+      "target": "166",
+      "evidence": "printed-link-number",
+      "paragraphId": "154:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor157"
+    },
+    {
+      "id": "e-253",
+      "source": "155",
+      "target": "161",
+      "evidence": "printed-link-number",
+      "paragraphId": "155:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor152"
+    },
+    {
+      "id": "e-254",
+      "source": "155",
+      "target": "167",
+      "evidence": "printed-link-number",
+      "paragraphId": "155:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor158"
+    },
+    {
+      "id": "e-255",
+      "source": "156",
+      "target": "168",
+      "evidence": "printed-link-number",
+      "paragraphId": "156:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor159"
+    },
+    {
+      "id": "e-256",
+      "source": "156",
+      "target": "185",
+      "evidence": "printed-link-number",
+      "paragraphId": "156:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor176"
+    },
+    {
+      "id": "e-257",
+      "source": "157",
+      "target": "224",
+      "evidence": "printed-link-number",
+      "paragraphId": "157:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor212"
+    },
+    {
+      "id": "e-258",
+      "source": "157",
+      "target": "230",
+      "evidence": "printed-link-number",
+      "paragraphId": "157:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor218"
+    },
+    {
+      "id": "e-259",
+      "source": "158",
+      "target": "7",
+      "evidence": "printed-link-number",
+      "paragraphId": "158:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor005"
+    },
+    {
+      "id": "e-260",
+      "source": "158",
+      "target": "170",
+      "evidence": "printed-link-number",
+      "paragraphId": "158:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor161"
+    },
+    {
+      "id": "e-261",
+      "source": "159",
+      "target": "171",
+      "evidence": "printed-link-number",
+      "paragraphId": "159:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor162"
+    },
+    {
+      "id": "e-262",
+      "source": "159",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "159:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-263",
+      "source": "160",
+      "target": "25",
+      "evidence": "printed-link-number",
+      "paragraphId": "160:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor023"
+    },
+    {
+      "id": "e-264",
+      "source": "161",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "161:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-265",
+      "source": "162",
+      "target": "194",
+      "evidence": "printed-link-number",
+      "paragraphId": "162:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor184"
+    },
+    {
+      "id": "e-266",
+      "source": "163",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "163:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-267",
+      "source": "164",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "164:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-268",
+      "source": "164",
+      "target": "176",
+      "evidence": "printed-link-number",
+      "paragraphId": "164:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor167"
+    },
+    {
+      "id": "e-269",
+      "source": "165",
+      "target": "177",
+      "evidence": "printed-link-number",
+      "paragraphId": "165:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor168"
+    },
+    {
+      "id": "e-270",
+      "source": "165",
+      "target": "184",
+      "evidence": "printed-link-number",
+      "paragraphId": "165:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor175"
+    },
+    {
+      "id": "e-271",
+      "source": "165",
+      "target": "190",
+      "evidence": "printed-link-number",
+      "paragraphId": "165:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor180"
+    },
+    {
+      "id": "e-272",
+      "source": "166",
+      "target": "178",
+      "evidence": "printed-link-number",
+      "paragraphId": "166:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor169"
+    },
+    {
+      "id": "e-273",
+      "source": "166",
+      "target": "192",
+      "evidence": "printed-link-number",
+      "paragraphId": "166:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor182"
+    },
+    {
+      "id": "e-274",
+      "source": "167",
+      "target": "179",
+      "evidence": "printed-link-number",
+      "paragraphId": "167:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor170"
+    },
+    {
+      "id": "e-275",
+      "source": "167",
+      "target": "186",
+      "evidence": "printed-link-number",
+      "paragraphId": "167:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor177"
+    },
+    {
+      "id": "e-276",
+      "source": "168",
+      "target": "185",
+      "evidence": "printed-link-number",
+      "paragraphId": "168:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor176"
+    },
+    {
+      "id": "e-277",
+      "source": "169",
+      "target": "175",
+      "evidence": "printed-link-number",
+      "paragraphId": "169:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor166"
+    },
+    {
+      "id": "e-278",
+      "source": "169",
+      "target": "182",
+      "evidence": "printed-link-number",
+      "paragraphId": "169:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor173"
+    },
+    {
+      "id": "e-279",
+      "source": "170",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "170:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-280",
+      "source": "172",
+      "target": "142",
+      "evidence": "printed-link-number",
+      "paragraphId": "172:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor133"
+    },
+    {
+      "id": "e-281",
+      "source": "173",
+      "target": "193",
+      "evidence": "printed-link-number",
+      "paragraphId": "173:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor183"
+    },
+    {
+      "id": "e-282",
+      "source": "173",
+      "target": "201",
+      "evidence": "printed-link-number",
+      "paragraphId": "173:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor190"
+    },
+    {
+      "id": "e-283",
+      "source": "174",
+      "target": "194",
+      "evidence": "printed-link-number",
+      "paragraphId": "174:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor184"
+    },
+    {
+      "id": "e-284",
+      "source": "175",
+      "target": "188",
+      "evidence": "printed-link-number",
+      "paragraphId": "175:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor178"
+    },
+    {
+      "id": "e-285",
+      "source": "176",
+      "target": "189",
+      "evidence": "printed-link-number",
+      "paragraphId": "176:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor179"
+    },
+    {
+      "id": "e-286",
+      "source": "176",
+      "target": "183",
+      "evidence": "printed-link-number",
+      "paragraphId": "176:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor174"
+    },
+    {
+      "id": "e-287",
+      "source": "177",
+      "target": "197",
+      "evidence": "printed-link-number",
+      "paragraphId": "177:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor187"
+    },
+    {
+      "id": "e-288",
+      "source": "177",
+      "target": "202",
+      "evidence": "printed-link-number",
+      "paragraphId": "177:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor191"
+    },
+    {
+      "id": "e-289",
+      "source": "177",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "177:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-290",
+      "source": "178",
+      "target": "112",
+      "evidence": "printed-link-number",
+      "paragraphId": "178:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor103"
+    },
+    {
+      "id": "e-291",
+      "source": "178",
+      "target": "192",
+      "evidence": "printed-link-number",
+      "paragraphId": "178:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor182"
+    },
+    {
+      "id": "e-292",
+      "source": "179",
+      "target": "186",
+      "evidence": "printed-link-number",
+      "paragraphId": "179:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor177"
+    },
+    {
+      "id": "e-293",
+      "source": "179",
+      "target": "193",
+      "evidence": "printed-link-number",
+      "paragraphId": "179:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor183"
+    },
+    {
+      "id": "e-294",
+      "source": "180",
+      "target": "131",
+      "evidence": "printed-link-number",
+      "paragraphId": "180:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor122"
+    },
+    {
+      "id": "e-295",
+      "source": "180",
+      "target": "138",
+      "evidence": "printed-link-number",
+      "paragraphId": "180:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor129"
+    },
+    {
+      "id": "e-296",
+      "source": "181",
+      "target": "191",
+      "evidence": "printed-link-number",
+      "paragraphId": "181:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor181"
+    },
+    {
+      "id": "e-297",
+      "source": "181",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "181:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-298",
+      "source": "182",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "182:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-299",
+      "source": "183",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "183:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-300",
+      "source": "184",
+      "target": "171",
+      "evidence": "printed-link-number",
+      "paragraphId": "184:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor162"
+    },
+    {
+      "id": "e-301",
+      "source": "184",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "184:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-302",
+      "source": "186",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "186:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-303",
+      "source": "187",
+      "target": "181",
+      "evidence": "printed-link-number",
+      "paragraphId": "187:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor172"
+    },
+    {
+      "id": "e-304",
+      "source": "187",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "187:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-305",
+      "source": "188",
+      "target": "195",
+      "evidence": "printed-link-number",
+      "paragraphId": "188:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor185"
+    },
+    {
+      "id": "e-306",
+      "source": "188",
+      "target": "203",
+      "evidence": "printed-link-number",
+      "paragraphId": "188:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor192"
+    },
+    {
+      "id": "e-307",
+      "source": "189",
+      "target": "204",
+      "evidence": "printed-link-number",
+      "paragraphId": "189:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor193"
+    },
+    {
+      "id": "e-308",
+      "source": "189",
+      "target": "196",
+      "evidence": "printed-link-number",
+      "paragraphId": "189:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor186"
+    },
+    {
+      "id": "e-309",
+      "source": "190",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "190:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-310",
+      "source": "191",
+      "target": "199",
+      "evidence": "printed-link-number",
+      "paragraphId": "191:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor189"
+    },
+    {
+      "id": "e-311",
+      "source": "192",
+      "target": "218",
+      "evidence": "printed-link-number",
+      "paragraphId": "192:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor206"
+    },
+    {
+      "id": "e-312",
+      "source": "194",
+      "target": "267",
+      "evidence": "printed-link-number",
+      "paragraphId": "194:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor255"
+    },
+    {
+      "id": "e-313",
+      "source": "194",
+      "target": "251",
+      "evidence": "printed-link-number",
+      "paragraphId": "194:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor239"
+    },
+    {
+      "id": "e-314",
+      "source": "194",
+      "target": "257",
+      "evidence": "printed-link-number",
+      "paragraphId": "194:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor245"
+    },
+    {
+      "id": "e-315",
+      "source": "195",
+      "target": "210",
+      "evidence": "printed-link-number",
+      "paragraphId": "195:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor199"
+    },
+    {
+      "id": "e-316",
+      "source": "195",
+      "target": "217",
+      "evidence": "printed-link-number",
+      "paragraphId": "195:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor205"
+    },
+    {
+      "id": "e-317",
+      "source": "197",
+      "target": "207",
+      "evidence": "printed-link-number",
+      "paragraphId": "197:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor196"
+    },
+    {
+      "id": "e-318",
+      "source": "198",
+      "target": "209",
+      "evidence": "printed-link-number",
+      "paragraphId": "198:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor198"
+    },
+    {
+      "id": "e-319",
+      "source": "198",
+      "target": "65",
+      "evidence": "printed-link-number",
+      "paragraphId": "198:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor062"
+    },
+    {
+      "id": "e-320",
+      "source": "199",
+      "target": "206",
+      "evidence": "printed-link-number",
+      "paragraphId": "199:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor195"
+    },
+    {
+      "id": "e-321",
+      "source": "199",
+      "target": "214",
+      "evidence": "printed-link-number",
+      "paragraphId": "199:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor202"
+    },
+    {
+      "id": "e-322",
+      "source": "200",
+      "target": "169",
+      "evidence": "printed-link-number",
+      "paragraphId": "200:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor160"
+    },
+    {
+      "id": "e-323",
+      "source": "201",
+      "target": "79",
+      "evidence": "printed-link-number",
+      "paragraphId": "201:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor074"
+    },
+    {
+      "id": "e-324",
+      "source": "202",
+      "target": "207",
+      "evidence": "printed-link-number",
+      "paragraphId": "202:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor196"
+    },
+    {
+      "id": "e-325",
+      "source": "203",
+      "target": "45",
+      "evidence": "printed-link-number",
+      "paragraphId": "203:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor043"
+    },
+    {
+      "id": "e-326",
+      "source": "204",
+      "target": "152",
+      "evidence": "printed-link-number",
+      "paragraphId": "204:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor143"
+    },
+    {
+      "id": "e-327",
+      "source": "205",
+      "target": "27",
+      "evidence": "printed-link-number",
+      "paragraphId": "205:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor025"
+    },
+    {
+      "id": "e-328",
+      "source": "206",
+      "target": "221",
+      "evidence": "printed-link-number",
+      "paragraphId": "206:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor209"
+    },
+    {
+      "id": "e-329",
+      "source": "207",
+      "target": "213",
+      "evidence": "printed-link-number",
+      "paragraphId": "207:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor201"
+    },
+    {
+      "id": "e-330",
+      "source": "207",
+      "target": "190",
+      "evidence": "printed-link-number",
+      "paragraphId": "207:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor180"
+    },
+    {
+      "id": "e-331",
+      "source": "208",
+      "target": "222",
+      "evidence": "printed-link-number",
+      "paragraphId": "208:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor210"
+    },
+    {
+      "id": "e-332",
+      "source": "208",
+      "target": "228",
+      "evidence": "printed-link-number",
+      "paragraphId": "208:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor216"
+    },
+    {
+      "id": "e-333",
+      "source": "209",
+      "target": "220",
+      "evidence": "printed-link-number",
+      "paragraphId": "209:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor208"
+    },
+    {
+      "id": "e-334",
+      "source": "209",
+      "target": "255",
+      "evidence": "printed-link-number",
+      "paragraphId": "209:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor243"
+    },
+    {
+      "id": "e-335",
+      "source": "209",
+      "target": "243",
+      "evidence": "printed-link-number",
+      "paragraphId": "209:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor231"
+    },
+    {
+      "id": "e-336",
+      "source": "209",
+      "target": "231",
+      "evidence": "printed-link-number",
+      "paragraphId": "209:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor219"
+    },
+    {
+      "id": "e-337",
+      "source": "210",
+      "target": "236",
+      "evidence": "printed-link-number",
+      "paragraphId": "210:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor224"
+    },
+    {
+      "id": "e-338",
+      "source": "211",
+      "target": "223",
+      "evidence": "printed-link-number",
+      "paragraphId": "211:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor211"
+    },
+    {
+      "id": "e-339",
+      "source": "212",
+      "target": "192",
+      "evidence": "printed-link-number",
+      "paragraphId": "212:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor182"
+    },
+    {
+      "id": "e-340",
+      "source": "213",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "213:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-341",
+      "source": "214",
+      "target": "221",
+      "evidence": "printed-link-number",
+      "paragraphId": "214:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor209"
+    },
+    {
+      "id": "e-342",
+      "source": "215",
+      "target": "264",
+      "evidence": "printed-link-number",
+      "paragraphId": "215:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor252"
+    },
+    {
+      "id": "e-343",
+      "source": "216",
+      "target": "229",
+      "evidence": "printed-link-number",
+      "paragraphId": "216:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor217"
+    },
+    {
+      "id": "e-344",
+      "source": "216",
+      "target": "235",
+      "evidence": "printed-link-number",
+      "paragraphId": "216:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor223"
+    },
+    {
+      "id": "e-345",
+      "source": "217",
+      "target": "45",
+      "evidence": "printed-link-number",
+      "paragraphId": "217:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor043"
+    },
+    {
+      "id": "e-346",
+      "source": "218",
+      "target": "6",
+      "evidence": "printed-link-number",
+      "paragraphId": "218:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor004"
+    },
+    {
+      "id": "e-347",
+      "source": "219",
+      "target": "225",
+      "evidence": "printed-link-number",
+      "paragraphId": "219:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor213"
+    },
+    {
+      "id": "e-348",
+      "source": "219",
+      "target": "232",
+      "evidence": "printed-link-number",
+      "paragraphId": "219:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor220"
+    },
+    {
+      "id": "e-349",
+      "source": "219",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "219:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-350",
+      "source": "221",
+      "target": "227",
+      "evidence": "printed-link-number",
+      "paragraphId": "221:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor215"
+    },
+    {
+      "id": "e-351",
+      "source": "221",
+      "target": "237",
+      "evidence": "printed-link-number",
+      "paragraphId": "221:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor225"
+    },
+    {
+      "id": "e-352",
+      "source": "221",
+      "target": "245",
+      "evidence": "printed-link-number",
+      "paragraphId": "221:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor233"
+    },
+    {
+      "id": "e-353",
+      "source": "221",
+      "target": "253",
+      "evidence": "printed-link-number",
+      "paragraphId": "221:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor241"
+    },
+    {
+      "id": "e-354",
+      "source": "222",
+      "target": "13",
+      "evidence": "printed-link-number",
+      "paragraphId": "222:p2",
+      "originalHref": ""
+    },
+    {
+      "id": "e-355",
+      "source": "222",
+      "target": "228",
+      "evidence": "printed-link-number",
+      "paragraphId": "222:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor216"
+    },
+    {
+      "id": "e-356",
+      "source": "224",
+      "target": "26",
+      "evidence": "printed-link-number",
+      "paragraphId": "224:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor024"
+    },
+    {
+      "id": "e-357",
+      "source": "225",
+      "target": "244",
+      "evidence": "printed-link-number",
+      "paragraphId": "225:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor232"
+    },
+    {
+      "id": "e-358",
+      "source": "225",
+      "target": "238",
+      "evidence": "printed-link-number",
+      "paragraphId": "225:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor226"
+    },
+    {
+      "id": "e-359",
+      "source": "226",
+      "target": "128",
+      "evidence": "printed-link-number",
+      "paragraphId": "226:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor119"
+    },
+    {
+      "id": "e-360",
+      "source": "227",
+      "target": "259",
+      "evidence": "printed-link-number",
+      "paragraphId": "227:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor247"
+    },
+    {
+      "id": "e-361",
+      "source": "228",
+      "target": "246",
+      "evidence": "printed-link-number",
+      "paragraphId": "228:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor234"
+    },
+    {
+      "id": "e-362",
+      "source": "229",
+      "target": "223",
+      "evidence": "printed-link-number",
+      "paragraphId": "229:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor211"
+    },
+    {
+      "id": "e-363",
+      "source": "230",
+      "target": "248",
+      "evidence": "printed-link-number",
+      "paragraphId": "230:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor236"
+    },
+    {
+      "id": "e-364",
+      "source": "230",
+      "target": "254",
+      "evidence": "printed-link-number",
+      "paragraphId": "230:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor242"
+    },
+    {
+      "id": "e-365",
+      "source": "232",
+      "target": "244",
+      "evidence": "printed-link-number",
+      "paragraphId": "232:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor232"
+    },
+    {
+      "id": "e-366",
+      "source": "232",
+      "target": "238",
+      "evidence": "printed-link-number",
+      "paragraphId": "232:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor226"
+    },
+    {
+      "id": "e-367",
+      "source": "233",
+      "target": "134",
+      "evidence": "printed-link-number",
+      "paragraphId": "233:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor125"
+    },
+    {
+      "id": "e-368",
+      "source": "234",
+      "target": "208",
+      "evidence": "printed-link-number",
+      "paragraphId": "234:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor197"
+    },
+    {
+      "id": "e-369",
+      "source": "234",
+      "target": "215",
+      "evidence": "printed-link-number",
+      "paragraphId": "234:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor203"
+    },
+    {
+      "id": "e-370",
+      "source": "235",
+      "target": "241",
+      "evidence": "printed-link-number",
+      "paragraphId": "235:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor229"
+    },
+    {
+      "id": "e-371",
+      "source": "235",
+      "target": "247",
+      "evidence": "printed-link-number",
+      "paragraphId": "235:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor235"
+    },
+    {
+      "id": "e-372",
+      "source": "236",
+      "target": "242",
+      "evidence": "printed-link-number",
+      "paragraphId": "236:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor230"
+    },
+    {
+      "id": "e-373",
+      "source": "236",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "236:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-374",
+      "source": "237",
+      "target": "259",
+      "evidence": "printed-link-number",
+      "paragraphId": "237:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor247"
+    },
+    {
+      "id": "e-375",
+      "source": "238",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "238:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-376",
+      "source": "239",
+      "target": "128",
+      "evidence": "printed-link-number",
+      "paragraphId": "239:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor119"
+    },
+    {
+      "id": "e-377",
+      "source": "240",
+      "target": "234",
+      "evidence": "printed-link-number",
+      "paragraphId": "240:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor222"
+    },
+    {
+      "id": "e-378",
+      "source": "241",
+      "target": "223",
+      "evidence": "printed-link-number",
+      "paragraphId": "241:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor211"
+    },
+    {
+      "id": "e-379",
+      "source": "242",
+      "target": "157",
+      "evidence": "printed-link-number",
+      "paragraphId": "242:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor148"
+    },
+    {
+      "id": "e-380",
+      "source": "244",
+      "target": "250",
+      "evidence": "printed-link-number",
+      "paragraphId": "244:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor238"
+    },
+    {
+      "id": "e-381",
+      "source": "244",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "244:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-382",
+      "source": "245",
+      "target": "259",
+      "evidence": "printed-link-number",
+      "paragraphId": "245:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor247"
+    },
+    {
+      "id": "e-383",
+      "source": "246",
+      "target": "252",
+      "evidence": "printed-link-number",
+      "paragraphId": "246:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor240"
+    },
+    {
+      "id": "e-384",
+      "source": "246",
+      "target": "258",
+      "evidence": "printed-link-number",
+      "paragraphId": "246:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor246"
+    },
+    {
+      "id": "e-385",
+      "source": "248",
+      "target": "58",
+      "evidence": "printed-link-number",
+      "paragraphId": "248:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor055"
+    },
+    {
+      "id": "e-386",
+      "source": "249",
+      "target": "128",
+      "evidence": "printed-link-number",
+      "paragraphId": "249:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor119"
+    },
+    {
+      "id": "e-387",
+      "source": "250",
+      "target": "256",
+      "evidence": "printed-link-number",
+      "paragraphId": "250:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor244"
+    },
+    {
+      "id": "e-388",
+      "source": "251",
+      "target": "267",
+      "evidence": "printed-link-number",
+      "paragraphId": "251:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor255"
+    },
+    {
+      "id": "e-389",
+      "source": "252",
+      "target": "13",
+      "evidence": "printed-link-number",
+      "paragraphId": "252:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor011"
+    },
+    {
+      "id": "e-390",
+      "source": "253",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "253:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-391",
+      "source": "254",
+      "target": "260",
+      "evidence": "printed-link-number",
+      "paragraphId": "254:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor248"
+    },
+    {
+      "id": "e-392",
+      "source": "254",
+      "target": "266",
+      "evidence": "printed-link-number",
+      "paragraphId": "254:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor254"
+    },
+    {
+      "id": "e-393",
+      "source": "256",
+      "target": "108",
+      "evidence": "printed-link-number",
+      "paragraphId": "256:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor099"
+    },
+    {
+      "id": "e-394",
+      "source": "256",
+      "target": "262",
+      "evidence": "printed-link-number",
+      "paragraphId": "256:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor250"
+    },
+    {
+      "id": "e-395",
+      "source": "257",
+      "target": "267",
+      "evidence": "printed-link-number",
+      "paragraphId": "257:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor255"
+    },
+    {
+      "id": "e-396",
+      "source": "258",
+      "target": "13",
+      "evidence": "printed-link-number",
+      "paragraphId": "258:p2",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor011"
+    },
+    {
+      "id": "e-397",
+      "source": "259",
+      "target": "160",
+      "evidence": "printed-link-number",
+      "paragraphId": "259:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor151"
+    },
+    {
+      "id": "e-398",
+      "source": "260",
+      "target": "19",
+      "evidence": "printed-link-number",
+      "paragraphId": "260:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor017"
+    },
+    {
+      "id": "e-399",
+      "source": "260",
+      "target": "32",
+      "evidence": "printed-link-number",
+      "paragraphId": "260:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor030"
+    },
+    {
+      "id": "e-400",
+      "source": "261",
+      "target": "71",
+      "evidence": "printed-link-number",
+      "paragraphId": "261:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor067"
+    },
+    {
+      "id": "e-401",
+      "source": "262",
+      "target": "268",
+      "evidence": "printed-link-number",
+      "paragraphId": "262:p7",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor256"
+    },
+    {
+      "id": "e-402",
+      "source": "262",
+      "target": "2",
+      "evidence": "printed-link-number",
+      "paragraphId": "262:p8",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor001"
+    },
+    {
+      "id": "e-403",
+      "source": "262",
+      "target": "12",
+      "evidence": "printed-link-number",
+      "paragraphId": "262:p9",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor010"
+    },
+    {
+      "id": "e-404",
+      "source": "263",
+      "target": "8",
+      "evidence": "printed-link-number",
+      "paragraphId": "263:p6",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor006"
+    },
+    {
+      "id": "e-405",
+      "source": "264",
+      "target": "269",
+      "evidence": "printed-link-number",
+      "paragraphId": "264:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor257"
+    },
+    {
+      "id": "e-406",
+      "source": "264",
+      "target": "5",
+      "evidence": "printed-link-number",
+      "paragraphId": "264:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor003"
+    },
+    {
+      "id": "e-407",
+      "source": "265",
+      "target": "128",
+      "evidence": "printed-link-number",
+      "paragraphId": "265:p5",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor119"
+    },
+    {
+      "id": "e-408",
+      "source": "266",
+      "target": "76",
+      "evidence": "printed-link-number",
+      "paragraphId": "266:p3",
+      "originalHref": ""
+    },
+    {
+      "id": "e-409",
+      "source": "266",
+      "target": "58",
+      "evidence": "printed-link-number",
+      "paragraphId": "266:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor055"
+    },
+    {
+      "id": "e-410",
+      "source": "266",
+      "target": "52",
+      "evidence": "printed-link-number",
+      "paragraphId": "266:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor049"
+    },
+    {
+      "id": "e-411",
+      "source": "266",
+      "target": "26",
+      "evidence": "printed-link-number",
+      "paragraphId": "266:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor024"
+    },
+    {
+      "id": "e-412",
+      "source": "267",
+      "target": "4",
+      "evidence": "printed-link-number",
+      "paragraphId": "267:p3",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor002"
+    },
+    {
+      "id": "e-413",
+      "source": "268",
+      "target": "120",
+      "evidence": "printed-link-number",
+      "paragraphId": "268:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor111"
+    },
+    {
+      "id": "e-414",
+      "source": "269",
+      "target": "13",
+      "evidence": "printed-link-number",
+      "paragraphId": "269:p4",
+      "originalHref": "Print_Alone_Against_the_Flames.xhtml#_idTextAnchor011"
+    },
+    {
+      "id": "e-415",
+      "source": "7",
+      "target": "107",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "7:p3",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "112"
+      },
+      "offset": 100,
+      "ruleParagraphId": "112:p3"
+    },
+    {
+      "id": "e-416",
+      "source": "87",
+      "target": "187",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "87:p1",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "112"
+      },
+      "offset": 100,
+      "ruleParagraphId": "112:p3"
+    },
+    {
+      "id": "e-417",
+      "source": "112",
+      "target": "212",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "112:p2",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "112"
+      },
+      "offset": 100,
+      "ruleParagraphId": "112:p3"
+    },
+    {
+      "id": "e-418",
+      "source": "40",
+      "target": "50",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "40:p2",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "175"
+      },
+      "offset": 10,
+      "ruleParagraphId": "175:p5"
+    },
+    {
+      "id": "e-419",
+      "source": "40",
+      "target": "80",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "40:p2",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "197"
+      },
+      "offset": 40,
+      "ruleParagraphId": "197:p3"
+    },
+    {
+      "id": "e-420",
+      "source": "40",
+      "target": "90",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "40:p2",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "202"
+      },
+      "offset": 50,
+      "ruleParagraphId": "202:p3"
+    },
+    {
+      "id": "e-421",
+      "source": "180",
+      "target": "200",
+      "evidence": "source-arithmetic-secret",
+      "paragraphId": "180:p5",
+      "condition": {
+        "type": "discovered-secret-and-player-choice",
+        "discoveryNodeId": "259"
+      },
+      "offset": 20,
+      "ruleParagraphId": "259:p4"
+    }
+  ],
+  "issues": [
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "6",
+      "originalHref": "",
+      "printedTarget": "16",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "6:p4"
+    },
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "76",
+      "originalHref": "",
+      "printedTarget": "58",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "76:p3"
+    },
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "76",
+      "originalHref": "",
+      "printedTarget": "52",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "76:p3"
+    },
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "79",
+      "originalHref": "",
+      "printedTarget": "240",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "79:p2"
+    },
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "79",
+      "originalHref": "",
+      "printedTarget": "234",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "79:p2"
+    },
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "222",
+      "originalHref": "",
+      "printedTarget": "13",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "222:p2"
+    },
+    {
+      "kind": "broken-or-mismatched-hyperlink",
+      "nodeId": "266",
+      "originalHref": "",
+      "printedTarget": "76",
+      "anchorTarget": null,
+      "resolution": "printed-number-retained-as-edge",
+      "paragraphId": "266:p3"
+    },
+    {
+      "kind": "standalone-number-in-body",
+      "nodeId": "268",
+      "resolution": "preserved-verbatim-not-invented-as-transition",
+      "paragraphId": "268:p3"
+    }
+  ]
+}

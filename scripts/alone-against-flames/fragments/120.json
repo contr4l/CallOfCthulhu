@@ -1,0 +1,60 @@
+{
+  "id": "120",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "120:p0",
+      "kind": "heading",
+      "text": "120",
+      "sourceLocation": "9/607"
+    },
+    {
+      "id": "120:p1",
+      "kind": "body",
+      "text": "You feel a deepening unease about Emberhead and this day in particular.",
+      "sourceLocation": "9/608"
+    },
+    {
+      "id": "120:p2",
+      "kind": "body",
+      "text": "Once you have attempted three of the options below, go to 98.",
+      "sourceLocation": "9/609"
+    },
+    {
+      "id": "120:p3",
+      "kind": "body",
+      "text": "Otherwise, you may:",
+      "sourceLocation": "9/610"
+    },
+    {
+      "id": "120:p4",
+      "kind": "body",
+      "text": "—Search May Ledbetter’s bedroom: go to 83.",
+      "sourceLocation": "9/611"
+    },
+    {
+      "id": "120:p5",
+      "kind": "body",
+      "text": "—Go alone to the village hall: go to 126.",
+      "sourceLocation": "9/612"
+    },
+    {
+      "id": "120:p6",
+      "kind": "body",
+      "text": "—Take a closer look at the artisans’ courtyard: go to 219.",
+      "sourceLocation": "9/613"
+    },
+    {
+      "id": "120:p7",
+      "kind": "body",
+      "text": "—Spy on activity at the Beacon: go to 29.",
+      "sourceLocation": "9/614"
+    },
+    {
+      "id": "120:p8",
+      "kind": "body",
+      "text": "—Slip down to the east road and flee for good: go to 7.",
+      "sourceLocation": "9/615"
+    }
+  ]
+}

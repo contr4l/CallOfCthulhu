@@ -1,0 +1,30 @@
+{
+  "id": "132",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "132:p0",
+      "kind": "heading",
+      "text": "132",
+      "sourceLocation": "9/663"
+    },
+    {
+      "id": "132:p1",
+      "kind": "body",
+      "text": "Your impatience is convincing and one villager hands you his pitchfork. You move to the center of the road and hold the fork in a sentinel’s pose. The villagers shuffle off towards the Beacon, looking back a couple of times.",
+      "sourceLocation": "9/664"
+    },
+    {
+      "id": "132:p2",
+      "kind": "body",
+      "text": "Once they are out of sight, you ditch the bulky fork and sprint down the eastern road.",
+      "sourceLocation": "9/665"
+    },
+    {
+      "id": "132:p3",
+      "kind": "body",
+      "text": "Go to 152.",
+      "sourceLocation": "9/666"
+    }
+  ]
+}

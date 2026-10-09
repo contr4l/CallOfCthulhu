@@ -1,0 +1,42 @@
+{
+  "id": "230",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "230:p0",
+      "kind": "heading",
+      "text": "230",
+      "sourceLocation": "9/1129"
+    },
+    {
+      "id": "230:p1",
+      "kind": "body",
+      "text": "Sleep presses down on you. You blink it back and sit up, trying to think through your situation. Everything in Emberhead seems to be working to stop you leaving. Perhaps the answer is to strike out at first light, to walk as far and as fast as you can. You can always return for your possessions, and if you lose them, you have nothing so precious that it could not be replaced.",
+      "sourceLocation": "9/1130"
+    },
+    {
+      "id": "230:p2",
+      "kind": "body",
+      "text": "A tiny creak draws your attention to the other side of the room.",
+      "sourceLocation": "9/1131"
+    },
+    {
+      "id": "230:p3",
+      "kind": "body",
+      "text": "Slowly, almost silently, the doorknob is turning.",
+      "sourceLocation": "9/1132"
+    },
+    {
+      "id": "230:p4",
+      "kind": "body",
+      "text": "To grab it and wrench the door open, go to 248.",
+      "sourceLocation": "9/1133"
+    },
+    {
+      "id": "230:p5",
+      "kind": "body",
+      "text": "To pretend to be asleep, go to 254.",
+      "sourceLocation": "9/1134"
+    }
+  ]
+}

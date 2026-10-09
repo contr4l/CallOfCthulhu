@@ -1,0 +1,24 @@
+{
+  "id": "212",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "212:p0",
+      "kind": "heading",
+      "text": "212",
+      "sourceLocation": "9/1049"
+    },
+    {
+      "id": "212:p1",
+      "kind": "body",
+      "text": "You are tempted to try the staircase now. But you remember Silas saying he only comes through Emberhead twice a week, and perhaps the second time he will be heading in the opposite direction. You can’t afford to miss the bus and become stranded here.",
+      "sourceLocation": "9/1050"
+    },
+    {
+      "id": "212:p2",
+      "kind": "body",
+      "text": "Go to 192.",
+      "sourceLocation": "9/1051"
+    }
+  ]
+}

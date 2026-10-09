@@ -1,0 +1,30 @@
+{
+  "id": "157",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "157:p0",
+      "kind": "heading",
+      "text": "157",
+      "sourceLocation": "9/789"
+    },
+    {
+      "id": "157:p1",
+      "kind": "body",
+      "text": "The familiar surroundings of your guest room are becoming constrictive. The neat bed, small wardrobe and dressing mirror have the feel of a prison cell about them. What are you still doing here in Emberhead? Your new life is elsewhere.",
+      "sourceLocation": "9/790"
+    },
+    {
+      "id": "157:p2",
+      "kind": "body",
+      "text": "You lie on the bed and stare at a small crack in the ceiling. You turn over the day’s events, thinking through the little details you spotted. You are certainly weary from the elevation and the fresh air. But do you still feel safe here? ",
+      "sourceLocation": "9/791"
+    },
+    {
+      "id": "157:p3",
+      "kind": "body",
+      "text": "If you let yourself fall asleep, go to 224. If you stay awake, go to 230.",
+      "sourceLocation": "9/792"
+    }
+  ]
+}

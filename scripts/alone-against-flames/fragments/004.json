@@ -1,0 +1,60 @@
+{
+  "id": "4",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "4:p0",
+      "kind": "heading",
+      "text": "4",
+      "sourceLocation": "9/29"
+    },
+    {
+      "id": "4:p1",
+      "kind": "body",
+      "text": "After a moment, you hear footsteps inside the house. A bolt is drawn back and the wooden door swings open. A figure with loose curls and a rough-looking housedress peers at you. Her gaze takes in your traveling suit and your cases. Her voice has a slight Irish lilt.",
+      "sourceLocation": "9/30"
+    },
+    {
+      "id": "4:p2",
+      "kind": "body",
+      "text": "“Hello. Should I take it as you’re looking for a room for the night?”",
+      "sourceLocation": "9/31"
+    },
+    {
+      "id": "4:p3",
+      "kind": "body",
+      "text": "You enquire as to her rates, suppressing a grimace. As far as you’ve seen, the village does not offer you many alternatives.",
+      "sourceLocation": "9/32"
+    },
+    {
+      "id": "4:p4",
+      "kind": "body",
+      "text": "“Oh, you’ll find them very reasonable,” she says. “You look tired. I’m May. Come inside and we’ll talk over a cup of tea.”",
+      "sourceLocation": "9/33"
+    },
+    {
+      "id": "4:p5",
+      "kind": "body",
+      "text": "The Ledbetter house feels cramped, with a low ceiling and simple fittings. But it is well kept and a cheerful fire crackles in the grate. The aroma of the tea is soothing and the cup warms your fingers.",
+      "sourceLocation": "9/34"
+    },
+    {
+      "id": "4:p6",
+      "kind": "body",
+      "text": "“Have you come to Emberhead for the festival?” asks May.",
+      "sourceLocation": "9/35"
+    },
+    {
+      "id": "4:p7",
+      "kind": "body",
+      "text": "To explain what happened with Silas and the coach, go to 14.",
+      "sourceLocation": "9/36"
+    },
+    {
+      "id": "4:p8",
+      "kind": "body",
+      "text": "To ask about the festival, go to 21.",
+      "sourceLocation": "9/37"
+    }
+  ]
+}

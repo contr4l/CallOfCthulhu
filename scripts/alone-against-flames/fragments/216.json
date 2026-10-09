@@ -1,0 +1,42 @@
+{
+  "id": "216",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "216:p0",
+      "kind": "heading",
+      "text": "216",
+      "sourceLocation": "9/1061"
+    },
+    {
+      "id": "216:p1",
+      "kind": "body",
+      "text": "You press yourself against the biggest trunk you can find. Two horses draw near, their riders holding up lanterns. Branches cast a maze of shifting shadows across you as they pass.",
+      "sourceLocation": "9/1062"
+    },
+    {
+      "id": "216:p2",
+      "kind": "body",
+      "text": "To your dismay, one rider pulls his horse up short.",
+      "sourceLocation": "9/1063"
+    },
+    {
+      "id": "216:p3",
+      "kind": "body",
+      "text": "“Look! There!” He stabs a finger towards you.",
+      "sourceLocation": "9/1064"
+    },
+    {
+      "id": "216:p4",
+      "kind": "body",
+      "text": "To flee into the woods, go to 229.",
+      "sourceLocation": "9/1065"
+    },
+    {
+      "id": "216:p5",
+      "kind": "body",
+      "text": "To fight the riders, go to 235.",
+      "sourceLocation": "9/1066"
+    }
+  ]
+}

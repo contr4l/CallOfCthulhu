@@ -1,0 +1,33 @@
+{
+  "name": "cthulhu-solo",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*"
+  ],
+  "engines": {
+    "node": ">=22.16.0"
+  },
+  "scripts": {
+    "dev": "node tools/dev.mjs",
+    "build": "npm run typecheck && npm run build -w apps/web && npm run build -w apps/api",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test --project=desktop && playwright test --project=mobile",
+    "story:validate": "tsx tools/story/validate.ts",
+    "story:import": "python3 tools/story/import.py",
+    "start": "node apps/api/dist/server.js",
+    "chars:validate": "tsx tools/chars/validate.ts",
+    "story:compile": "python3 tools/story/compile_solo.py"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "esbuild": "^0.25.0",
+    "prettier": "^3.9.9",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

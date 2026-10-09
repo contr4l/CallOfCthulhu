@@ -1,0 +1,60 @@
+{
+  "id": "25",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "25:p0",
+      "kind": "heading",
+      "text": "25",
+      "sourceLocation": "9/156"
+    },
+    {
+      "id": "25:p1",
+      "kind": "body",
+      "text": "You are beginning to get your bearings in Emberhead. Would you like to explore some more?",
+      "sourceLocation": "9/157"
+    },
+    {
+      "id": "25:p2",
+      "kind": "body",
+      "text": "You may choose another option from those below. Do not repeat a previous choice. Once you have tried four options (or before that, if you are ready to move on), go to 3.",
+      "sourceLocation": "9/158"
+    },
+    {
+      "id": "25:p3",
+      "kind": "body",
+      "text": "–Ask about transport at the local general store: go to 16.",
+      "sourceLocation": "9/159"
+    },
+    {
+      "id": "25:p4",
+      "kind": "body",
+      "text": "–Seek out the village hall: go to 84.",
+      "sourceLocation": "9/160"
+    },
+    {
+      "id": "25:p5",
+      "kind": "body",
+      "text": "–Walk down to the lower level and check out the eastern road: go to 115.",
+      "sourceLocation": "9/161"
+    },
+    {
+      "id": "25:p6",
+      "kind": "body",
+      "text": "–Examine the large metal structure: go to 57.",
+      "sourceLocation": "9/162"
+    },
+    {
+      "id": "25:p7",
+      "kind": "body",
+      "text": "–Explore the church: go to 34.",
+      "sourceLocation": "9/163"
+    },
+    {
+      "id": "25:p8",
+      "kind": "body",
+      "text": "–Look for local people with their own transport needs: go to 96.",
+      "sourceLocation": "9/164"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "154",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "154:p0",
+      "kind": "heading",
+      "text": "154",
+      "sourceLocation": "9/773"
+    },
+    {
+      "id": "154:p1",
+      "kind": "body",
+      "text": "You dream of fire in the grate; coruscating colors shimmering through the dancing tongues of flame. At first they are tiny, almost microscopic, but they grow, and grow, until a kaleidoscopic inferno spills from the fireplace, spreading across the floor, up the sheets…",
+      "sourceLocation": "9/774"
+    },
+    {
+      "id": "154:p2",
+      "kind": "body",
+      "text": "You wake with a start. Daylight glints through the curtains. You get up and examine the grate, blinking the sleep from your eyes. It is quite cold. If you have taken any damage, you may heal 1 hit point back for your night’s sleep.",
+      "sourceLocation": "9/775"
+    },
+    {
+      "id": "154:p3",
+      "kind": "body",
+      "text": "Now go to 166.",
+      "sourceLocation": "9/776"
+    }
+  ]
+}

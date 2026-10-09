@@ -1,0 +1,24 @@
+{
+  "id": "58",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "58:p0",
+      "kind": "heading",
+      "text": "58",
+      "sourceLocation": "9/309"
+    },
+    {
+      "id": "58:p1",
+      "kind": "body",
+      "text": "You awaken to the sound of feet in the street outside. Your night’s rest has brought a new determination. Today, you will meet Emberhead on your own terms.",
+      "sourceLocation": "9/310"
+    },
+    {
+      "id": "58:p2",
+      "kind": "body",
+      "text": "You may restore 1 hit point if you have been wounded. Go to 64.",
+      "sourceLocation": "9/311"
+    }
+  ]
+}

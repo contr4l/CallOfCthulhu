@@ -1,0 +1,24 @@
+{
+  "id": "69",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "69:p0",
+      "kind": "heading",
+      "text": "69",
+      "sourceLocation": "9/367"
+    },
+    {
+      "id": "69:p1",
+      "kind": "body",
+      "text": "As you walk away from the iron structure, you notice something strange about the construction of the village. All the wooden dwellings are concentrated in the west and southwest. To the east and northeast, closest to the Beacon, the buildings are formed from dark brick and clay. Does this mean the settlement began at the Beacon, and spread west?",
+      "sourceLocation": "9/368"
+    },
+    {
+      "id": "69:p2",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Spot Hidden skill. Now go to 25.",
+      "sourceLocation": "9/369"
+    }
+  ]
+}

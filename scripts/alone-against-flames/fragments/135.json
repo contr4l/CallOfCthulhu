@@ -1,0 +1,24 @@
+{
+  "id": "135",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "135:p0",
+      "kind": "heading",
+      "text": "135",
+      "sourceLocation": "9/681"
+    },
+    {
+      "id": "135:p1",
+      "kind": "body",
+      "text": "The strange man breaks into a run, fleeing from you along the ridge. His gait is lopsided, but his movements have a maniacal intensity.",
+      "sourceLocation": "9/682"
+    },
+    {
+      "id": "135:p2",
+      "kind": "body",
+      "text": "If you give chase, turn to 150. If you have better things to do, turn to 160.",
+      "sourceLocation": "9/683"
+    }
+  ]
+}

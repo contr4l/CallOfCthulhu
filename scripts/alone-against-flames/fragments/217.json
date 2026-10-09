@@ -1,0 +1,24 @@
+{
+  "id": "217",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "217:p0",
+      "kind": "heading",
+      "text": "217",
+      "sourceLocation": "9/1067"
+    },
+    {
+      "id": "217:p1",
+      "kind": "body",
+      "text": "Faces loom at you, thick with blood and lit by inferno. Someone claws at you, tears at your flesh, flames dancing in his terrified eyes. You fall back—",
+      "sourceLocation": "9/1068"
+    },
+    {
+      "id": "217:p2",
+      "kind": "body",
+      "text": "Lose 1D3 Sanity points. Lose 1D2 hit points. Go to 45.",
+      "sourceLocation": "9/1069"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "229",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "229:p0",
+      "kind": "heading",
+      "text": "229",
+      "sourceLocation": "9/1126"
+    },
+    {
+      "id": "229:p1",
+      "kind": "body",
+      "text": "Leaves slap at your face as you flee through the murk. The lanterns come after you, swinging between the trunks. But you are unencumbered and desperate, and you outdistance them with no trouble. Eventually, you watch them disappear into another section of the woods. You hear faint curses on the air, and then they are gone for good.",
+      "sourceLocation": "9/1127"
+    },
+    {
+      "id": "229:p2",
+      "kind": "body",
+      "text": "Go to 223. ",
+      "sourceLocation": "9/1128"
+    }
+  ]
+}

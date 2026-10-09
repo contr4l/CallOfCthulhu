@@ -1,0 +1,54 @@
+{
+  "id": "177",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "177:p0",
+      "kind": "heading",
+      "text": "177",
+      "sourceLocation": "9/884"
+    },
+    {
+      "id": "177:p1",
+      "kind": "body",
+      "text": "Most of the texts are too obscure for you to understand without an extended residency in a good library. You are drawn to a volume in a heavy slipcase, embossed with a dark red triangle. Its pages are in a spidery script, but the hand is neat enough that you can read it with effort.",
+      "sourceLocation": "9/885"
+    },
+    {
+      "id": "177:p2",
+      "kind": "body",
+      "text": "It seems to be one of a set of seven discussing elements: here sulfur, mercury, and salt are added to the four classical elements. This book concerns fire. Flicking through the pages, you see astronomical diagrams, alchemical symbols, references to Dante, and speculations on the nature of damnation. ",
+      "sourceLocation": "9/886"
+    },
+    {
+      "id": "177:p3",
+      "kind": "body",
+      "text": "Towards the end there is a discussion of fire ceremonies, and a transcription of two key rituals: Call Ye Celestial Flames, and Command Ye Celestial Flames. You might be able to memorize one, but it will take time. Is this all nonsense, or is it worth risking discovery for?",
+      "sourceLocation": "9/887"
+    },
+    {
+      "id": "177:p4",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Library Use skill.",
+      "sourceLocation": "9/888"
+    },
+    {
+      "id": "177:p5",
+      "kind": "body",
+      "text": "To memorize Call Ye Celestial Flames, go to 197.",
+      "sourceLocation": "9/889"
+    },
+    {
+      "id": "177:p6",
+      "kind": "body",
+      "text": "To memorize Command Ye Celestial Flames, go to 202.",
+      "sourceLocation": "9/890"
+    },
+    {
+      "id": "177:p7",
+      "kind": "body",
+      "text": "If you feel you have already pushed your luck enough, replace the volume and leave. Go to 120.",
+      "sourceLocation": "9/891"
+    }
+  ]
+}

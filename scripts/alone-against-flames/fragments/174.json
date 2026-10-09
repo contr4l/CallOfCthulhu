@@ -1,0 +1,36 @@
+{
+  "id": "174",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "174:p0",
+      "kind": "heading",
+      "text": "174",
+      "sourceLocation": "9/867"
+    },
+    {
+      "id": "174:p1",
+      "kind": "body",
+      "text": "The grinding noises you heard could of course indicate engine trouble, but they also seem consistent with bad gear selection and incorrect declutching. It seems highly unlikely that an experienced coach driver would suddenly get this wrong, even after a long day’s drive.",
+      "sourceLocation": "9/868"
+    },
+    {
+      "id": "174:p2",
+      "kind": "body",
+      "text": "If this is a ruse to make you spend your time and money in a local shop, Silas will be sadly disappointed in your purchasing power.",
+      "sourceLocation": "9/869"
+    },
+    {
+      "id": "174:p3",
+      "kind": "body",
+      "text": "On your investigator sheet, check-mark the small box to the left of the words Drive Auto. If you successfully complete this adventure, you will have the opportunity to learn from your experience with Silas.",
+      "sourceLocation": "9/870"
+    },
+    {
+      "id": "174:p4",
+      "kind": "body",
+      "text": "Go to 194.",
+      "sourceLocation": "9/871"
+    }
+  ]
+}

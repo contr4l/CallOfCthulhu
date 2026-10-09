@@ -1,0 +1,8 @@
+{
+  "storyId": "alone-against-static",
+  "title": "静躁独行",
+  "status": "official-pregenerated",
+  "description": "官方提供 Alex（销售员）与 Charlie（护士）两张预设角色卡。幸运在创建实例时掷 3D6 × 5。",
+  "sourceUrl": "https://www.chaosium.com/alone-against-the-static-pdf/",
+  "templateFiles": ["alex.json", "charlie.json"]
+}

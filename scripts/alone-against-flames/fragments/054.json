@@ -1,0 +1,42 @@
+{
+  "id": "54",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "54:p0",
+      "kind": "heading",
+      "text": "54",
+      "sourceLocation": "9/287"
+    },
+    {
+      "id": "54:p1",
+      "kind": "body",
+      "text": "A second call answers the first, but it sounds further away. You follow the road through woodland. Branches lean over the road. The foliage is quite beautiful, from gold to russet and a deep, rich red. Fallen leaves crunch beneath your feet.",
+      "sourceLocation": "9/288"
+    },
+    {
+      "id": "54:p2",
+      "kind": "body",
+      "text": "After about half an hour, you emerge from the trees. The road makes a lazy curve around foothills ahead, into another patch of woodland. A rough track seems to offer a short cut through the woods.",
+      "sourceLocation": "9/289"
+    },
+    {
+      "id": "54:p3",
+      "kind": "body",
+      "text": "If you head up the hill to try to spot another settlement, go to 60.",
+      "sourceLocation": "9/290"
+    },
+    {
+      "id": "54:p4",
+      "kind": "body",
+      "text": "If you try the track, go to 85.",
+      "sourceLocation": "9/291"
+    },
+    {
+      "id": "54:p5",
+      "kind": "body",
+      "text": "If you stick to the safety of the road, go to 103.",
+      "sourceLocation": "9/292"
+    }
+  ]
+}

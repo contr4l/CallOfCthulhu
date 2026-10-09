@@ -1,0 +1,24 @@
+{
+  "id": "238",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "238:p0",
+      "kind": "heading",
+      "text": "238",
+      "sourceLocation": "9/1174"
+    },
+    {
+      "id": "238:p1",
+      "kind": "body",
+      "text": "You step back from the door and regard it in frustration. A crunching noise distracts you, and a human shadow falls on a nearby wall. Someone is approaching. You melt away in the other direction.",
+      "sourceLocation": "9/1175"
+    },
+    {
+      "id": "238:p2",
+      "kind": "body",
+      "text": "Go to 120. ",
+      "sourceLocation": "9/1176"
+    }
+  ]
+}

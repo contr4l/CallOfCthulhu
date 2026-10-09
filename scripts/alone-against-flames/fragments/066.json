@@ -1,0 +1,36 @@
+{
+  "id": "66",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "66:p0",
+      "kind": "heading",
+      "text": "66",
+      "sourceLocation": "9/353"
+    },
+    {
+      "id": "66:p1",
+      "kind": "body",
+      "text": "The position of the sun bothers you. It reminds you of something from one of the journals; an article about stone circles in England, was it? You check your position with the mountains in the north, closing your eyes to visualize the layout of Emberhead from your explorations this morning. The metal structure is the key, positioned on the bluff as it is. Yes, it seems entirely possible.",
+      "sourceLocation": "9/354"
+    },
+    {
+      "id": "66:p2",
+      "kind": "body",
+      "text": "You can’t be sure without taking a proper bearing and consulting the tables, of course. But if your guess is correct, the central thoroughfare in Emberhead is positioned so that during the summer solstice, the rays of the rising sun will shine through the metal structure and directly down the center of the street.",
+      "sourceLocation": "9/355"
+    },
+    {
+      "id": "66:p3",
+      "kind": "body",
+      "text": "Perhaps this is just wild speculation. But something feels correct about it.",
+      "sourceLocation": "9/356"
+    },
+    {
+      "id": "66:p4",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Archaelogy skill. Now go to 79.",
+      "sourceLocation": "9/357"
+    }
+  ]
+}

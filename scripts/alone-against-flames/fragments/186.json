@@ -1,0 +1,24 @@
+{
+  "id": "186",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "186:p0",
+      "kind": "heading",
+      "text": "186",
+      "sourceLocation": "9/929"
+    },
+    {
+      "id": "186:p1",
+      "kind": "body",
+      "text": "You stagger to the roadside, breathing hard. Your legs feel weak on the solid ground. As you run, you risk a glance over your shoulder. The bear seems to have thought better of its pursuit and is moving off through the trees. You pause to catch your breath.",
+      "sourceLocation": "9/930"
+    },
+    {
+      "id": "186:p2",
+      "kind": "body",
+      "text": "If your back has been hurt, you cannot effectively administer First Aid, particularly while a hostile bear is in the area. It will have to wait. Go to 79.",
+      "sourceLocation": "9/931"
+    }
+  ]
+}

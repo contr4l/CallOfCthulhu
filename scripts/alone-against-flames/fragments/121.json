@@ -1,0 +1,30 @@
+{
+  "id": "121",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "121:p0",
+      "kind": "heading",
+      "text": "121",
+      "sourceLocation": "9/616"
+    },
+    {
+      "id": "121:p1",
+      "kind": "body",
+      "text": "As you approach, the figure takes a pace back, then another. It slips down an alley between two buildings.",
+      "sourceLocation": "9/617"
+    },
+    {
+      "id": "121:p2",
+      "kind": "body",
+      "text": "To catch your target, you must make a Track roll.",
+      "sourceLocation": "9/618"
+    },
+    {
+      "id": "121:p3",
+      "kind": "body",
+      "text": "If you succeed, go to 141. If you fail, go to 130.",
+      "sourceLocation": "9/619"
+    }
+  ]
+}

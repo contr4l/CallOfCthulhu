@@ -1,0 +1,30 @@
+{
+  "id": "166",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "166:p0",
+      "kind": "heading",
+      "text": "166",
+      "sourceLocation": "9/828"
+    },
+    {
+      "id": "166:p1",
+      "kind": "body",
+      "text": "May seems to have no running water, but has supplied some in a ceramic jug. You freshen up at the washstand and go in. She cooks a hearty breakfast and leaves you in peace to eat. At about seven-thirty, you are paid up, packed, and ready to go. You bid May goodbye and she wishes you the best for your new career in Arkham.",
+      "sourceLocation": "9/829"
+    },
+    {
+      "id": "166:p2",
+      "kind": "body",
+      "text": "If you succeeded at a skill roll last night, and wish to investigate the results further, go to 178.",
+      "sourceLocation": "9/830"
+    },
+    {
+      "id": "166:p3",
+      "kind": "body",
+      "text": "Otherwise, go to 192.",
+      "sourceLocation": "9/831"
+    }
+  ]
+}

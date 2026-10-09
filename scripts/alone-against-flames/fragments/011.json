@@ -1,0 +1,36 @@
+{
+  "id": "11",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "11:p0",
+      "kind": "heading",
+      "text": "11",
+      "sourceLocation": "9/73"
+    },
+    {
+      "id": "11:p1",
+      "kind": "body",
+      "text": "The village hall overlooks the lower north ridge of the village. You walk along Silbury Street to find it, conscious of the oppressive black metal structure framed at the end of the road. The shutters of the hall are open and some windows left ajar. There is no knocker, but a little bell over the entrance tinkles as you push the front door.",
+      "sourceLocation": "9/74"
+    },
+    {
+      "id": "11:p2",
+      "kind": "body",
+      "text": "Inside, a sturdy door to your right is marked PRIVATE. To your left, an opening leads through to a bright room. You take a few steps inside. Benches line the walls and there are two noticeboards mounted between the windows.",
+      "sourceLocation": "9/75"
+    },
+    {
+      "id": "11:p3",
+      "kind": "body",
+      "text": "To examine the noticeboards, go to 17.",
+      "sourceLocation": "9/76"
+    },
+    {
+      "id": "11:p4",
+      "kind": "body",
+      "text": "To knock on the closed door, go to 24.",
+      "sourceLocation": "9/77"
+    }
+  ]
+}

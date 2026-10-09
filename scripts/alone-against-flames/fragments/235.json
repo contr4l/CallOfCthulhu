@@ -1,0 +1,54 @@
+{
+  "id": "235",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "235:p0",
+      "kind": "heading",
+      "text": "235",
+      "sourceLocation": "9/1154"
+    },
+    {
+      "id": "235:p1",
+      "kind": "body",
+      "text": "One rider has problems dismounting. You square up to the other, an older man with desperation in his eyes.",
+      "sourceLocation": "9/1155"
+    },
+    {
+      "id": "235:p2",
+      "kind": "body",
+      "text": "Conduct close-quarters combat using pages 12-13 of the Quick-Start Rules. You may need to refer to page 7 first to look up your damage bonus.",
+      "sourceLocation": "9/1156"
+    },
+    {
+      "id": "235:p3",
+      "kind": "body",
+      "text": "The combatant with the higher DEX acts first. You and the rider will take one action each combat round. You may fight back (rolling your  (Brawl)) or dodge (using ) against each attack. Combat rolls are opposed rolls: whoever gets the best level of success wins.",
+      "sourceLocation": "9/1157"
+    },
+    {
+      "id": "235:p4",
+      "kind": "body",
+      "text": "The rider has a DEX of 32 and a Fighting (Brawl) skill of 30% (15% half / 6% one-fifth). He has 9 hit points. Roll 1D6 every round. On an odd number he will attack, and on an even number he will dodge your attacks. His Dodge skill is 15% (7% half / 3% one-fifth). He has a small club that does 1D6 damage.",
+      "sourceLocation": "9/1158"
+    },
+    {
+      "id": "235:p5",
+      "kind": "body",
+      "text": "If you have a knife or similar weapon, each successful hit you make does 1D4 plus your damage bonus. If you are unarmed, the damage is 1D3 plus your damage bonus.",
+      "sourceLocation": "9/1159"
+    },
+    {
+      "id": "235:p6",
+      "kind": "body",
+      "text": "If you reduce the man to 4 or fewer hit points, go to 241.",
+      "sourceLocation": "9/1160"
+    },
+    {
+      "id": "235:p7",
+      "kind": "body",
+      "text": "If you are reduced to 0 hit points, go to 247.",
+      "sourceLocation": "9/1161"
+    }
+  ]
+}

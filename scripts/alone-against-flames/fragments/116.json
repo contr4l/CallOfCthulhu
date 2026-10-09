@@ -1,0 +1,24 @@
+{
+  "id": "116",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "116:p0",
+      "kind": "heading",
+      "text": "116",
+      "sourceLocation": "9/592"
+    },
+    {
+      "id": "116:p1",
+      "kind": "body",
+      "text": "You keep your breath shallow and watch the creature. It pauses and looks around the clearing.",
+      "sourceLocation": "9/593"
+    },
+    {
+      "id": "116:p2",
+      "kind": "body",
+      "text": "Make a Luck roll. If you succeed, go to 136. If you fail, go to 129.",
+      "sourceLocation": "9/594"
+    }
+  ]
+}

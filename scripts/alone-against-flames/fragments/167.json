@@ -1,0 +1,30 @@
+{
+  "id": "167",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "167:p0",
+      "kind": "heading",
+      "text": "167",
+      "sourceLocation": "9/832"
+    },
+    {
+      "id": "167:p1",
+      "kind": "body",
+      "text": "You are less than ten paces from the road when the bear snarls, inches behind you, and its claws rip through your jacket.",
+      "sourceLocation": "9/833"
+    },
+    {
+      "id": "167:p2",
+      "kind": "body",
+      "text": "Each claw is a separate attack. It hits you 35% of the time, and it does 3D6 worth of damage. If either claw does half, or more, of your original hit points in damage, you have taken a major wound.",
+      "sourceLocation": "9/834"
+    },
+    {
+      "id": "167:p3",
+      "kind": "body",
+      "text": "After resolving both claw attacks, if you have taken a major wound, go to 179. Otherwise, go to 186.",
+      "sourceLocation": "9/835"
+    }
+  ]
+}

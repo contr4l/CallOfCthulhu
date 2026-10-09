@@ -1,0 +1,42 @@
+{
+  "id": "169",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "169:p0",
+      "kind": "heading",
+      "text": "169",
+      "sourceLocation": "9/842"
+    },
+    {
+      "id": "169:p1",
+      "kind": "body",
+      "text": "Arbogast leads you across the thoroughfares, slipping between houses. The metal structure looms at the end of the street. “Silent now,” he says. “But the Beacon will come alive tomorrow night.”",
+      "sourceLocation": "9/843"
+    },
+    {
+      "id": "169:p2",
+      "kind": "body",
+      "text": "He ushers you into a little alcove behind the village school. Arbogast glances behind you, then sits down. Again you feel uncomfortable in proximity to that scarred visage. One melted eyelid lifts.",
+      "sourceLocation": "9/844"
+    },
+    {
+      "id": "169:p3",
+      "kind": "body",
+      "text": "“You don’t have long. Understand this. I was the conduit, the interpreter. Before that fool Winters and his fancy words. The things which come to Emberhead care not for words. Those idiots think this is a ritual of sacrifice!” He spits on the grass. “It is a ritual of control. They know the words, but they do not comprehend the forces they call.” He sniffs and sits back. “No! You have no time for more questions. I will teach you how to end it, in the moment when all is lost. You can return this hill to the earth, to the death that came forty years ago. I have tried it myself. But...” his head sags, “I no longer have the concentration. The chant is simple; it I can teach you. But you must perform it with a clarity of mind that I have lacked for years.”",
+      "sourceLocation": "9/845"
+    },
+    {
+      "id": "169:p4",
+      "kind": "body",
+      "text": "If you will learn this strange chant, go to 175.",
+      "sourceLocation": "9/846"
+    },
+    {
+      "id": "169:p5",
+      "kind": "body",
+      "text": "If you have had enough of Arbogast, go to 182.",
+      "sourceLocation": "9/847"
+    }
+  ]
+}

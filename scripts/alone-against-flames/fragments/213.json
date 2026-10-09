@@ -1,0 +1,24 @@
+{
+  "id": "213",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "213:p0",
+      "kind": "heading",
+      "text": "213",
+      "sourceLocation": "9/1052"
+    },
+    {
+      "id": "213:p1",
+      "kind": "body",
+      "text": "With a burst of speed you dart through the hall. As you hear the door open, you throw yourself through the open window. There is no time to cover your intrusion. But you think you weren’t actually spotted.",
+      "sourceLocation": "9/1053"
+    },
+    {
+      "id": "213:p2",
+      "kind": "body",
+      "text": "Go to 120.",
+      "sourceLocation": "9/1054"
+    }
+  ]
+}

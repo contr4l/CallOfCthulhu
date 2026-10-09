@@ -1,0 +1,36 @@
+{
+  "id": "70",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "70:p0",
+      "kind": "heading",
+      "text": "70",
+      "sourceLocation": "9/370"
+    },
+    {
+      "id": "70:p1",
+      "kind": "body",
+      "text": "You feel skittish as you approach the spot where you and Arbogast were attacked. Your memory of the encounter is shaky, but you remember one or two vivid images.",
+      "sourceLocation": "9/371"
+    },
+    {
+      "id": "70:p2",
+      "kind": "body",
+      "text": "At first you think there is nothing to see: no discarded weapons or figures lying unconscious. But upon closer examination, you find sticky, congealed patches and blackened lines in the grass.",
+      "sourceLocation": "9/372"
+    },
+    {
+      "id": "70:p3",
+      "kind": "body",
+      "text": "If the village had a police station you could go there. But something tells you events have gone beyond that.",
+      "sourceLocation": "9/373"
+    },
+    {
+      "id": "70:p4",
+      "kind": "body",
+      "text": "Go to 78.",
+      "sourceLocation": "9/374"
+    }
+  ]
+}

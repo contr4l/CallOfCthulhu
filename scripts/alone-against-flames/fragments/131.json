@@ -1,0 +1,36 @@
+{
+  "id": "131",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "131:p0",
+      "kind": "heading",
+      "text": "131",
+      "sourceLocation": "9/658"
+    },
+    {
+      "id": "131:p1",
+      "kind": "body",
+      "text": "You stroll the streets of Emberhead. Already it feels like you know every corner, every doorstep. There are simply not that many of them. When you emerge into an open space, the starfield above you is arresting. The streetlights of your hometown always interfered with the view, even on a clear night. But here, in this lofty blackness, a multitude of tiny diamonds shimmer between the more familiar stars.",
+      "sourceLocation": "9/659"
+    },
+    {
+      "id": "131:p2",
+      "kind": "body",
+      "text": "The spectacle occupies you for a few minutes. Upon returning your gaze to earth, you notice a dark figure pressed behind a house. A loose stone skitters behind you. A second figure stares from an alleyway.",
+      "sourceLocation": "9/660"
+    },
+    {
+      "id": "131:p3",
+      "kind": "body",
+      "text": "To retreat to the safety of the Ledbetter house, go to 157.",
+      "sourceLocation": "9/661"
+    },
+    {
+      "id": "131:p4",
+      "kind": "body",
+      "text": "To confront the figures, go to 163.",
+      "sourceLocation": "9/662"
+    }
+  ]
+}

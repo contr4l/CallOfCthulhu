@@ -1,0 +1,24 @@
+{
+  "id": "48",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "48:p0",
+      "kind": "heading",
+      "text": "48",
+      "sourceLocation": "9/258"
+    },
+    {
+      "id": "48:p1",
+      "kind": "body",
+      "text": "You throw a hand up. Your fingers wrap around a protrusion on the building. It holds your weight long enough for you to get solid ground under your feet. You look down. The drop is about twenty feet. That was close.",
+      "sourceLocation": "9/259"
+    },
+    {
+      "id": "48:p2",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Climb skill. Then go to 61.",
+      "sourceLocation": "9/260"
+    }
+  ]
+}

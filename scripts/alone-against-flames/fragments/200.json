@@ -1,0 +1,42 @@
+{
+  "id": "200",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "200:p0",
+      "kind": "heading",
+      "text": "200",
+      "sourceLocation": "9/993"
+    },
+    {
+      "id": "200:p1",
+      "kind": "body",
+      "text": "Arbogast is not at the appointed meeting place. You give him ten minutes, but he doesn’t show. You curse the old crank and head back towards May’s house.",
+      "sourceLocation": "9/994"
+    },
+    {
+      "id": "200:p2",
+      "kind": "body",
+      "text": "“Psssst.”",
+      "sourceLocation": "9/995"
+    },
+    {
+      "id": "200:p3",
+      "kind": "body",
+      "text": "A hand snakes from a doorway and grabs your arm. You jump at the sight of that half-face, glimpsed in starlight.",
+      "sourceLocation": "9/996"
+    },
+    {
+      "id": "200:p4",
+      "kind": "body",
+      "text": "“One of them’s near,” he whispers. “Watching. Come with me.”",
+      "sourceLocation": "9/997"
+    },
+    {
+      "id": "200:p5",
+      "kind": "body",
+      "text": "Go to 169.",
+      "sourceLocation": "9/998"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "134",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "134:p0",
+      "kind": "heading",
+      "text": "134",
+      "sourceLocation": "9/671"
+    },
+    {
+      "id": "134:p1",
+      "kind": "body",
+      "text": "The coach putters through the countryside. At first, the interior is stifling and your stomach lurches with every bend in the road. However, the driver opens his window, and by switching seats you find a spot where the breeze hits your face. You soon relax into the journey, observing the quaint little hamlets that the coach serves. A heavy-set woman boards at one settlement and gives you a polite nod. She gets off at the next one.",
+      "sourceLocation": "9/672"
+    },
+    {
+      "id": "134:p2",
+      "kind": "body",
+      "text": "The road rises a little, passing cornfields and orchards. The leaves are turning and the trees are alive with glorious reds and golds. You have just begun to doze when the driver takes a tight bend at speed.",
+      "sourceLocation": "9/673"
+    },
+    {
+      "id": "134:p3",
+      "kind": "body",
+      "text": "Add SIZ and CON together, then divide the total by 10, rounding down. This is the starting value for your hit points. Mark it on your investigator sheet. Your current total may drop, but it is unlikely to exceed the starting value.",
+      "sourceLocation": "9/674"
+    },
+    {
+      "id": "134:p4",
+      "kind": "body",
+      "text": "You also have a Luck score. Roll three six-sided dice. We call this “3D6”. If you are new to roleplaying, you can read about roleplaying dice and their terminology on page 6 of the Quick-Start Rules. Multiply your 3D6 roll by 5 to get your beginning Luck score and mark it on your investigator sheet.",
+      "sourceLocation": "9/675"
+    },
+    {
+      "id": "134:p5",
+      "kind": "body",
+      "text": "Now you must make a roll against your DEX. Roll 1D100. This means rolling two ten-sided dice and using one value for the tens and one value for the units. You must choose which is which before you roll!",
+      "sourceLocation": "9/676"
+    },
+    {
+      "id": "134:p6",
+      "kind": "body",
+      "text": "If you rolled equal to your DEX, or less, you passed the roll. If you rolled greater than your DEX, you failed the roll.",
+      "sourceLocation": "9/677"
+    },
+    {
+      "id": "134:p7",
+      "kind": "body",
+      "text": "You may be tempted to skip such rolls and simply pretend you always pass. But Call of Cthulhu is a game of mystery and horror. The terrible disasters that can befall your character are part of the fun. You will not necessarily have more fun if you pass every roll than you would have if you failed.",
+      "sourceLocation": "9/678"
+    },
+    {
+      "id": "134:p8",
+      "kind": "body",
+      "text": "If you passed the DEX roll, go to 261.",
+      "sourceLocation": "9/679"
+    },
+    {
+      "id": "134:p9",
+      "kind": "body",
+      "text": "If you failed the DEX roll, go to 59.",
+      "sourceLocation": "9/680"
+    }
+  ]
+}

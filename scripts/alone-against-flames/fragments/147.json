@@ -1,0 +1,36 @@
+{
+  "id": "147",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "147:p0",
+      "kind": "heading",
+      "text": "147",
+      "sourceLocation": "9/740"
+    },
+    {
+      "id": "147:p1",
+      "kind": "body",
+      "text": "You’re looking along the spines when you notice how close the bookcase is to the window on the north wall. From outside, there is a solid three or four feet between the edge of the window and the wall. And the bookcase covers the wall with the bricked-up window. ",
+      "sourceLocation": "9/741"
+    },
+    {
+      "id": "147:p2",
+      "kind": "body",
+      "text": "Further examination reveals an ingenious arrangement of slipcases physically attached to the shelves. When you pull to the left, an entire section of the bookcase swings out.",
+      "sourceLocation": "9/742"
+    },
+    {
+      "id": "147:p3",
+      "kind": "body",
+      "text": "The clatter of activity around the Beacon seems to be building, and you flinch at every conversation that gets too close to the building’s door.",
+      "sourceLocation": "9/743"
+    },
+    {
+      "id": "147:p4",
+      "kind": "body",
+      "text": "To investigate behind the bookcase, go to 153. To close it and make your escape while you can, go to 120.",
+      "sourceLocation": "9/744"
+    }
+  ]
+}

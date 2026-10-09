@@ -1,0 +1,24 @@
+{
+  "id": "89",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "89:p0",
+      "kind": "heading",
+      "text": "89",
+      "sourceLocation": "9/476"
+    },
+    {
+      "id": "89:p1",
+      "kind": "body",
+      "text": "You go through the Ledbetters’ drawers. The only item of interest you find is a wedding photograph. May’s husband was a wiry man with a square chin. Despite the formality of the pose, you can see the affection between them. You feel a pang of guilt at your intrusion. Also, May might return at any time.",
+      "sourceLocation": "9/477"
+    },
+    {
+      "id": "89:p2",
+      "kind": "body",
+      "text": "If you wish to Push the  Spot Hidden roll, make the roll again. If you succeed, go to 95. If you fail, go to 101. If you would rather not risk it, go to 120.",
+      "sourceLocation": "9/478"
+    }
+  ]
+}

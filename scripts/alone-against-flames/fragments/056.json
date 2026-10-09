@@ -1,0 +1,48 @@
+{
+  "id": "56",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "56:p0",
+      "kind": "heading",
+      "text": "56",
+      "sourceLocation": "9/296"
+    },
+    {
+      "id": "56:p1",
+      "kind": "body",
+      "text": "“The telegraph? Mmm. Much as we value our isolation, we do need the link sometimes… you were hoping to send a message? I must apologize. The line has been down for two weeks. I reported the fault, but of course, they’re not so speedy when the problem lies in a rural area. I’m expecting a repair the day after next. I do appreciate how frustrating this must be. The coach is due, in what, three days? But I think he’s going west. Perhaps you might engage a wagon? One of the farmers might...”",
+      "sourceLocation": "9/297"
+    },
+    {
+      "id": "56:p2",
+      "kind": "body",
+      "text": "You explain that you have asked a few of the residents already, but to no avail.",
+      "sourceLocation": "9/298"
+    },
+    {
+      "id": "56:p3",
+      "kind": "body",
+      "text": "“I tell you what.” Winters pours you a steaming cup of coffee. The dark liquid smells rich and strong. “When the repair crew arrive I’ll ask them to take you back with them. How would that be? They might want a dollar or two to grease the wheels...”",
+      "sourceLocation": "9/299"
+    },
+    {
+      "id": "56:p4",
+      "kind": "body",
+      "text": "The day after tomorrow? It’s less than ideal. But it’s the first real opportunity you’ve had.",
+      "sourceLocation": "9/300"
+    },
+    {
+      "id": "56:p5",
+      "kind": "body",
+      "text": "To thank Winters and leave, go to 180.",
+      "sourceLocation": "9/301"
+    },
+    {
+      "id": "56:p6",
+      "kind": "body",
+      "text": "To ask about his library, go to 62.",
+      "sourceLocation": "9/302"
+    }
+  ]
+}

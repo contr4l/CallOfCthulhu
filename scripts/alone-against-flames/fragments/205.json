@@ -1,0 +1,30 @@
+{
+  "id": "205",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "205:p0",
+      "kind": "heading",
+      "text": "205",
+      "sourceLocation": "9/1015"
+    },
+    {
+      "id": "205:p1",
+      "kind": "body",
+      "text": "As the light fades outside, your little prison becomes dark. You can hear much activity around the building. Occasionally an orange glow passes the window. The only comfortable position in the shackles seems to be to sit against the end of the bed with your arms hanging behind you.",
+      "sourceLocation": "9/1016"
+    },
+    {
+      "id": "205:p2",
+      "kind": "body",
+      "text": "You need to concentrate and come up with a plan. There is clearly no escape from your bonds. You do not know exactly what your captors want from you, but you cannot ignore the fact that they have spent the entire day constructing a massive bonfire.",
+      "sourceLocation": "9/1017"
+    },
+    {
+      "id": "205:p3",
+      "kind": "body",
+      "text": "Go to 27.",
+      "sourceLocation": "9/1018"
+    }
+  ]
+}

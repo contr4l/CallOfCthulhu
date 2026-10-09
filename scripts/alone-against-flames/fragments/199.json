@@ -1,0 +1,30 @@
+{
+  "id": "199",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "199:p0",
+      "kind": "heading",
+      "text": "199",
+      "sourceLocation": "9/989"
+    },
+    {
+      "id": "199:p1",
+      "kind": "body",
+      "text": "Some of the man’s face remains: a strip from the side of his jaw to his right eye socket is healthy and pale, if aged. But the left side is consumed by angry scar tissue. One eye droops, hooded by melted flesh, and the nostril on that side is pulled open to leave a gaping hole. The disfigured man studies your reaction with his one good eye.",
+      "sourceLocation": "9/990"
+    },
+    {
+      "id": "199:p2",
+      "kind": "body",
+      "text": "“Name’s Arbogast. Willard Arbogast. Guess I don’t need to ask what brings you to Emberhead.”",
+      "sourceLocation": "9/991"
+    },
+    {
+      "id": "199:p3",
+      "kind": "body",
+      "text": "If you claim to have come for the festival, go to 206. If you admit that Silas has stranded you here, go to 214.",
+      "sourceLocation": "9/992"
+    }
+  ]
+}

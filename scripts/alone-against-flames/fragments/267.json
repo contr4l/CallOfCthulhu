@@ -1,0 +1,30 @@
+{
+  "id": "267",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "267:p0",
+      "kind": "heading",
+      "text": "267",
+      "sourceLocation": "9/1331"
+    },
+    {
+      "id": "267:p1",
+      "kind": "body",
+      "text": "You drag your cases between the sullen buildings. You feel surprisingly weary, considering you have spent all day sitting down. Silas’s directions lead you to a modest dwelling with a slate roof. A nameplate reads LEDBETTER, and underneath, a sign in neat copperplate reads, LODGING ROOM. The lane around you is gloomy, but a lamp flickers in the window.",
+      "sourceLocation": "9/1332"
+    },
+    {
+      "id": "267:p2",
+      "kind": "body",
+      "text": "A breeze chills your face. You’re not about to begin your new life by sleeping in the street. You rap on the weather-beaten door.",
+      "sourceLocation": "9/1333"
+    },
+    {
+      "id": "267:p3",
+      "kind": "body",
+      "text": "Go to 4.",
+      "sourceLocation": "9/1334"
+    }
+  ]
+}

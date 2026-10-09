@@ -1,0 +1,24 @@
+{
+  "id": "67",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "67:p0",
+      "kind": "heading",
+      "text": "67",
+      "sourceLocation": "9/358"
+    },
+    {
+      "id": "67:p1",
+      "kind": "body",
+      "text": "You land at an awkward angle and feel something break. You reach beneath you. Your fingertips come back wet. Black walls smear in from the edges of your vision. ",
+      "sourceLocation": "9/359"
+    },
+    {
+      "id": "67:p2",
+      "kind": "body",
+      "text": "You have received a major wound. Make a CON roll. If you succeed, go to 82. If you fail, or if your hit points have reached zero, go to 92.",
+      "sourceLocation": "9/360"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "266",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "266:p0",
+      "kind": "heading",
+      "text": "266",
+      "sourceLocation": "9/1326"
+    },
+    {
+      "id": "266:p1",
+      "kind": "body",
+      "text": "After another few moments, May glances round at you. Then you hear the soft scratch of a match being lit. She applies it to something in the grate and tiptoes from the room.",
+      "sourceLocation": "9/1327"
+    },
+    {
+      "id": "266:p2",
+      "kind": "body",
+      "text": "Once you hear her bedroom door, you creep to the grate. A small mound of black powder, no bigger than a thimble, is burning there. It gives off heady fumes.",
+      "sourceLocation": "9/1328"
+    },
+    {
+      "id": "266:p3",
+      "kind": "body",
+      "text": "You may make a Hard  Science (Botany) roll. If you succeed, go to 76.",
+      "sourceLocation": "9/1329"
+    },
+    {
+      "id": "266:p4",
+      "kind": "body",
+      "text": "Otherwise, you may extinguish the powder and sleep: go to 58; or stay awake through the night: go to 52; or you may relax and breathe the fumes out of curiosity: go to 26.",
+      "sourceLocation": "9/1330"
+    }
+  ]
+}

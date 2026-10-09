@@ -1,0 +1,42 @@
+{
+  "id": "156",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "156:p0",
+      "kind": "heading",
+      "text": "156",
+      "sourceLocation": "9/783"
+    },
+    {
+      "id": "156:p1",
+      "kind": "body",
+      "text": "With the villagers assembled at the Beacon, the streets are empty and you are able to pad away from the blaze. You must get out of town before they finish.",
+      "sourceLocation": "9/784"
+    },
+    {
+      "id": "156:p2",
+      "kind": "body",
+      "text": "The chanting seems to accelerate as you round the corner of the southern road. Here, parked against the side of the general store, you have your first piece of luck since reaching Emberhead. A bicycle! You learned to ride one of these in Providence.",
+      "sourceLocation": "9/785"
+    },
+    {
+      "id": "156:p3",
+      "kind": "body",
+      "text": "You settle into the saddle. Your burned flesh protests at the contact.",
+      "sourceLocation": "9/786"
+    },
+    {
+      "id": "156:p4",
+      "kind": "body",
+      "text": "To wait and observe goings on at the Beacon, go to 168.",
+      "sourceLocation": "9/787"
+    },
+    {
+      "id": "156:p5",
+      "kind": "body",
+      "text": "To ride out of town immediately, go to 185.",
+      "sourceLocation": "9/788"
+    }
+  ]
+}

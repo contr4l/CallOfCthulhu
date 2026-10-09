@@ -1,0 +1,30 @@
+{
+  "id": "2",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "2:p0",
+      "kind": "heading",
+      "text": "2 ",
+      "sourceLocation": "9/13"
+    },
+    {
+      "id": "2:p1",
+      "kind": "body",
+      "text": "You put up a spirited resistance, but the man’s bulk and determination wear you down. Finally he lands a crushing blow and you drop. Blackness floods in.",
+      "sourceLocation": "9/14"
+    },
+    {
+      "id": "2:p2",
+      "kind": "body",
+      "text": "Later, you are dimly aware of your legs being lifted and your back scraping against the ground as you are dragged off.",
+      "sourceLocation": "9/15"
+    },
+    {
+      "id": "2:p3",
+      "kind": "body",
+      "text": "You may restore 1 hit point. Now go to 108.",
+      "sourceLocation": "9/16"
+    }
+  ]
+}

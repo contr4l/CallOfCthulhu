@@ -1,0 +1,24 @@
+{
+  "id": "23",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "23:p0",
+      "kind": "heading",
+      "text": "23",
+      "sourceLocation": "9/148"
+    },
+    {
+      "id": "23:p1",
+      "kind": "body",
+      "text": "You struggle for a few seconds before the driver comes up beside you and lends a hand, still puffing on his cigarette. “Heavy bags for a small ‘un,” he remarks. You judge it best to respond with a simple thanks.",
+      "sourceLocation": "9/149"
+    },
+    {
+      "id": "23:p2",
+      "kind": "body",
+      "text": "Go to 233.",
+      "sourceLocation": "9/150"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "153",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "153:p0",
+      "kind": "heading",
+      "text": "153",
+      "sourceLocation": "9/770"
+    },
+    {
+      "id": "153:p1",
+      "kind": "body",
+      "text": "You squint into the darkness behind the bookcase. It is a small alcove, big enough for one person, and has a hidden shelf on either side. You cannot make out any titles in this light.",
+      "sourceLocation": "9/771"
+    },
+    {
+      "id": "153:p2",
+      "kind": "body",
+      "text": "To risk opening one of the cliffside windows a little, go to 165. To grab a few books and leave, go to 159.",
+      "sourceLocation": "9/772"
+    }
+  ]
+}

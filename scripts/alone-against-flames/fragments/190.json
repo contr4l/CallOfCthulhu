@@ -1,0 +1,30 @@
+{
+  "id": "190",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "190:p0",
+      "kind": "heading",
+      "text": "190",
+      "sourceLocation": "9/942"
+    },
+    {
+      "id": "190:p1",
+      "kind": "body",
+      "text": "The door of the hall clatters open and a group of villagers flood in. They quickly surround you. An older gentleman in suit and bow tie stands behind them.",
+      "sourceLocation": "9/943"
+    },
+    {
+      "id": "190:p2",
+      "kind": "body",
+      "text": "“So there you are,” he drawls. “We were wondering where you had gone.” He gives a light wave of his hand. The villagers seize you.",
+      "sourceLocation": "9/944"
+    },
+    {
+      "id": "190:p3",
+      "kind": "body",
+      "text": "Go to 108.",
+      "sourceLocation": "9/945"
+    }
+  ]
+}

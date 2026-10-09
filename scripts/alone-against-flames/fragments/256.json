@@ -1,0 +1,30 @@
+{
+  "id": "256",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "256:p0",
+      "kind": "heading",
+      "text": "256",
+      "sourceLocation": "9/1269"
+    },
+    {
+      "id": "256:p1",
+      "kind": "body",
+      "text": "“So! I thought you looked like a snoop. Like what you found, did you?”",
+      "sourceLocation": "9/1270"
+    },
+    {
+      "id": "256:p2",
+      "kind": "body",
+      "text": "A burly villager fills the doorway, blocking out much of the daylight. You can make out a dark apron, and a thick beard. He steps forward, fist raised.",
+      "sourceLocation": "9/1271"
+    },
+    {
+      "id": "256:p3",
+      "kind": "body",
+      "text": "To surrender without a fight, go to 108. To fight the artisan, go to 262.",
+      "sourceLocation": "9/1272"
+    }
+  ]
+}

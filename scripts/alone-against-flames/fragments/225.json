@@ -1,0 +1,24 @@
+{
+  "id": "225",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "225:p0",
+      "kind": "heading",
+      "text": "225",
+      "sourceLocation": "9/1109"
+    },
+    {
+      "id": "225:p1",
+      "kind": "body",
+      "text": "You examine the padlock. It is old and not particularly secure. There are plenty of metal shavings around that could work as improvised picks. But can you really pick a lock?",
+      "sourceLocation": "9/1110"
+    },
+    {
+      "id": "225:p2",
+      "kind": "body",
+      "text": "Make a Locksmith roll. You may double your skill for this roll only. If you succeed, mark the small box beside the skill and go to 244. If you fail, go to 238.",
+      "sourceLocation": "9/1111"
+    }
+  ]
+}

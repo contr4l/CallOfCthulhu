@@ -1,0 +1,30 @@
+{
+  "id": "105",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "105:p0",
+      "kind": "heading",
+      "text": "105",
+      "sourceLocation": "9/547"
+    },
+    {
+      "id": "105:p1",
+      "kind": "body",
+      "text": "“I’m afraid I have some errands to run before dark. So I must close the library for today. I do hope you will return tomorrow afternoon if you are so inclined?”",
+      "sourceLocation": "9/548"
+    },
+    {
+      "id": "105:p2",
+      "kind": "body",
+      "text": "You leave the building with Winters, waiting as he locks up. You thank him for the coffee and the access to the library. He disappears off down an alley. You hope to be away from the village before tomorrow afternoon, but it’s good to know that there is a place you can occupy yourself.",
+      "sourceLocation": "9/549"
+    },
+    {
+      "id": "105:p3",
+      "kind": "body",
+      "text": "Now go to 180.",
+      "sourceLocation": "9/550"
+    }
+  ]
+}

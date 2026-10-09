@@ -1,0 +1,24 @@
+{
+  "id": "64",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "64:p0",
+      "kind": "heading",
+      "text": "64",
+      "sourceLocation": "9/347"
+    },
+    {
+      "id": "64:p1",
+      "kind": "body",
+      "text": "The Ledbetter kitchen is empty, although bread and eggs have been laid out for your breakfast. There is a note from May explaining that she has taken Ruth out for a few hours.",
+      "sourceLocation": "9/348"
+    },
+    {
+      "id": "64:p2",
+      "kind": "body",
+      "text": "If you were involved in a fight in the village last night and want to investigate the aftermath, go to 70. Otherwise, go to 78.",
+      "sourceLocation": "9/349"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "102",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "102:p0",
+      "kind": "heading",
+      "text": "102",
+      "sourceLocation": "9/531"
+    },
+    {
+      "id": "102:p1",
+      "kind": "body",
+      "text": "You mention the assistant’s position you were offered at Arkham Rare Books and Maps on the strength of a recommendation by a distant friend of the family. Thinking about the treasures that must pass through that shop returns some of the excitement you felt upon receiving the letter of appointment. You feel a tingle in your palms; you cannot wait to get started.",
+      "sourceLocation": "9/532"
+    },
+    {
+      "id": "102:p2",
+      "kind": "body",
+      "text": "“Books, eh?” Silas takes the conversation no further. You get the feeling he is not much of a reader.",
+      "sourceLocation": "9/533"
+    },
+    {
+      "id": "102:p3",
+      "kind": "body",
+      "text": "Your Credit Rating skill is 20%.",
+      "sourceLocation": "9/534"
+    },
+    {
+      "id": "102:p4",
+      "kind": "body",
+      "text": "Your Occupation Skills are: Appraise, Art/Craft (specify a particular field), History, Library Use, Other Language (specify one), Spot Hidden, and one of either Charm, Fast Talk, Intimidate, or Persuade. You may also pick one other skill except Cthulhu Mythos as a personal specialty. Allocate the following values among these Occupation Skills, writing in the large square beside each: 70%, 60%, 60%, 50%, 50%, 50%, 40%, 40%. Ignore any starting value already mentioned on the investigator sheet. ",
+      "sourceLocation": "9/535"
+    },
+    {
+      "id": "102:p5",
+      "kind": "body",
+      "text": "Then go to 128.",
+      "sourceLocation": "9/536"
+    }
+  ]
+}

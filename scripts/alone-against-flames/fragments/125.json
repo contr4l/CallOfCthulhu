@@ -1,0 +1,30 @@
+{
+  "id": "125",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "125:p0",
+      "kind": "heading",
+      "text": "125 ",
+      "sourceLocation": "9/632"
+    },
+    {
+      "id": "125:p1",
+      "kind": "body",
+      "text": "On the other side of May Ledbetter’s street you see a washing line with some baggy, crumpled clothes. It’s not a lot to work with, but you use your own clothes as stuffing, improvise a hat, and change your gait to a stooped shamble.",
+      "sourceLocation": "9/633"
+    },
+    {
+      "id": "125:p2",
+      "kind": "body",
+      "text": "Nobody gives you a second look as you limp towards the southern exit from the village. The guards are still at their station, scrutinizing passers-by. But they are beginning to look bored.",
+      "sourceLocation": "9/634"
+    },
+    {
+      "id": "125:p3",
+      "kind": "body",
+      "text": "Make a Hard Disguise roll. If you succeed, go to 146. If you fail, go to 139.",
+      "sourceLocation": "9/635"
+    }
+  ]
+}

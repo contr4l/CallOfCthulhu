@@ -1,0 +1,24 @@
+{
+  "id": "12",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "12:p0",
+      "kind": "heading",
+      "text": "12",
+      "sourceLocation": "9/78"
+    },
+    {
+      "id": "12:p1",
+      "kind": "body",
+      "text": "You sidestep and slip out of the workshop. As the artisan follows, you swing the door into his face. He staggers back, a hand to his nose. You take the opportunity to flee. You can investigate further if you would like. But perhaps it would be wiser to leave town.",
+      "sourceLocation": "9/79"
+    },
+    {
+      "id": "12:p2",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Dodge skill. Go to 120.",
+      "sourceLocation": "9/80"
+    }
+  ]
+}

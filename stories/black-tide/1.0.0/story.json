@@ -1,0 +1,326 @@
+{
+  "id": "black-tide",
+  "version": "1.0.0",
+  "rulesVersion": "coc7-subset@1",
+  "title": "黑潮来信",
+  "subtitle": "THE BLACK TIDE",
+  "description": "一封没有署名的信，一座熄灭的灯塔。午夜之前，你还有一次选择。",
+  "duration": "10–15 分钟",
+  "difficulty": "入门",
+  "cover": "/art/lighthouse.svg",
+  "accent": "sea",
+  "tags": [
+    "海岸迷雾",
+    "调查",
+    "多结局"
+  ],
+  "entry": "arrival",
+  "presets": [
+    {
+      "id": "reporter",
+      "label": "记者",
+      "description": "追索被掩埋的真相。擅长侦查与说服。",
+      "occupation": "记者",
+      "skills": {
+        "spotHidden": 65,
+        "listen": 45,
+        "persuade": 60,
+        "stealth": 35
+      },
+      "hp": 12,
+      "sanity": 60
+    },
+    {
+      "id": "doctor",
+      "label": "医生",
+      "description": "冷静观察每一处异常。擅长聆听与急救。",
+      "occupation": "医生",
+      "skills": {
+        "spotHidden": 45,
+        "listen": 65,
+        "persuade": 35,
+        "stealth": 40,
+        "firstAid": 70
+      },
+      "hp": 13,
+      "sanity": 65
+    }
+  ],
+  "nodes": [
+    {
+      "id": "arrival",
+      "title": "灯塔不再亮起",
+      "text": [
+        "最后一班渡船消失在雾里。你站在黑潮岛的码头上，手中那封没有署名的信已经被雨水浸透。",
+        "「如果灯在午夜熄灭，请不要相信守塔人的声音。」",
+        "远处的灯塔一片漆黑。沿海岸向上，一条石阶通往守塔人的房屋；码头边，一位老渔夫正收起空空的渔网。"
+      ],
+      "type": "choice",
+      "chapter": "第一章 · 来信",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "choices": [
+        {
+          "id": "fisher",
+          "label": "询问老渔夫",
+          "target": "fisher",
+          "hint": "有些故事，只会在日落后讲起。"
+        },
+        {
+          "id": "stairs",
+          "label": "沿石阶前往灯塔",
+          "target": "stairs",
+          "hint": "雾中似乎有什么正在注视你。"
+        }
+      ]
+    },
+    {
+      "id": "fisher",
+      "title": "潮水记得每个人",
+      "text": [
+        "老渔夫没有抬头。「守塔人三天前就走了。昨晚我却听到他在塔里唱歌。」他递给你一枚锈蚀的铜钥匙。"
+      ],
+      "type": "narrative",
+      "chapter": "第一章 · 来信",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "stairs",
+      "memory": "老渔夫说守塔人已离岛三天，并交给你一枚铜钥匙。",
+      "enterEffects": [
+        {
+          "type": "item",
+          "key": "key",
+          "label": "锈蚀的铜钥匙"
+        },
+        {
+          "type": "flag",
+          "key": "warned",
+          "value": true
+        }
+      ]
+    },
+    {
+      "id": "stairs",
+      "title": "石阶上的脚印",
+      "text": [
+        "湿润的石阶上，两列脚印向上延伸。其中一列脚印的形状，让你想起某种海生动物。"
+      ],
+      "type": "check",
+      "chapter": "第一章 · 来信",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "check": {
+        "skill": "spotHidden",
+        "label": "侦查",
+        "difficulty": "regular",
+        "success": "trace",
+        "failure": "door"
+      }
+    },
+    {
+      "id": "trace",
+      "title": "第三列脚印",
+      "text": [
+        "你在石阶旁找到一列向下的脚印。鞋跟刻着守塔人的名字。他确实离开过，但有什么东西穿着他的鞋又回来了。"
+      ],
+      "type": "narrative",
+      "chapter": "第一章 · 来信",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "door",
+      "memory": "有东西模仿守塔人，并穿着他的鞋返回灯塔。",
+      "enterEffects": [
+        {
+          "type": "flag",
+          "key": "trace",
+          "value": true
+        }
+      ]
+    },
+    {
+      "id": "door",
+      "title": "门后的声音",
+      "text": [
+        "房门内传来亲切的问候。「你终于来了。信是我写的，快进来吧。」声音的尾音异常潮湿。侧面是一条通往灯室的狭窄铁梯。"
+      ],
+      "type": "choice",
+      "chapter": "第二章 · 守塔人",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "choices": [
+        {
+          "id": "open",
+          "label": "推开守塔人的房门",
+          "target": "room"
+        },
+        {
+          "id": "climb",
+          "label": "绕过房屋，攀登铁梯",
+          "target": "climb"
+        },
+        {
+          "id": "secret",
+          "label": "用铜钥匙打开地下室",
+          "target": "cellar",
+          "condition": {
+            "flag": "warned",
+            "equals": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "room",
+      "title": "穿着人皮的潮汐",
+      "text": [
+        "餐桌前的人转过头来。他的面孔像一张泡在水里的纸，缓慢地滑离骨骼。",
+        "你没有停下来确认第二眼，转身冲向灯室。身后响起无数双湿脚踏上石阶的声音。"
+      ],
+      "type": "narrative",
+      "chapter": "第二章 · 守塔人",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "lamp",
+      "enterEffects": [
+        {
+          "type": "sanity",
+          "amount": -5
+        },
+        {
+          "type": "hp",
+          "amount": -2
+        }
+      ],
+      "memory": "房屋内的生物借用了守塔人的外形。"
+    },
+    {
+      "id": "climb",
+      "title": "铁梯在雾中颤抖",
+      "text": [
+        "每一级铁梯都在海风中呻吟。你必须避开那扇亮着光的窗户。"
+      ],
+      "type": "check",
+      "chapter": "第二章 · 守塔人",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "check": {
+        "skill": "stealth",
+        "label": "潜行",
+        "difficulty": "regular",
+        "success": "quiet",
+        "failure": "room"
+      }
+    },
+    {
+      "id": "quiet",
+      "title": "无人察觉的访客",
+      "text": [
+        "窗后的影子没有发现你。你攀到灯室，终于能够喘一口气。"
+      ],
+      "type": "narrative",
+      "chapter": "第二章 · 守塔人",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "lamp",
+      "memory": "你避开了房屋内的生物，抵达灯室。"
+    },
+    {
+      "id": "cellar",
+      "title": "沉没的记录",
+      "text": [
+        "地下室的航海日志写满了同一句话：「光不是为了引导船只，是为了让它留在海里。」你找到一罐密封的灯油。"
+      ],
+      "type": "narrative",
+      "chapter": "第二章 · 守塔人",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "lamp",
+      "memory": "灯塔的光用来压制海中的存在；你找到了备用灯油。",
+      "enterEffects": [
+        {
+          "type": "flag",
+          "key": "oil",
+          "value": true
+        },
+        {
+          "type": "item",
+          "key": "oil",
+          "label": "备用灯油"
+        }
+      ]
+    },
+    {
+      "id": "lamp",
+      "title": "午夜前最后一分钟",
+      "text": [
+        "巨大的灯罩蒙着盐霜，灯芯早已干涸。海水开始沿墙壁向上流动。楼梯尽头，那熟悉的声音叫出了你的名字。",
+        "你必须作出最后的选择。"
+      ],
+      "type": "choice",
+      "chapter": "第三章 · 午夜",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "choices": [
+        {
+          "id": "ignite",
+          "label": "注入灯油，重新点亮灯塔",
+          "target": "light",
+          "condition": {
+            "flag": "oil",
+            "equals": true
+          }
+        },
+        {
+          "id": "flare",
+          "label": "点燃信纸，向远处发出信号",
+          "target": "signal"
+        },
+        {
+          "id": "leave",
+          "label": "放下这一切，逃回码头",
+          "target": "escape"
+        }
+      ]
+    },
+    {
+      "id": "light",
+      "title": "光穿过黑潮",
+      "text": [
+        "灯火亮起的一刻，海水从墙壁上坠落。那个声音在惨叫中远去。",
+        "天亮后，渡船带你离开。没有人问那封信是谁写的。你把它藏进档案夹，标注：黑潮岛，未结案。"
+      ],
+      "type": "ending",
+      "chapter": "终章",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "ending": "守望者",
+      "memory": "你重新点亮灯塔，让海中的存在退回黑潮。"
+    },
+    {
+      "id": "signal",
+      "title": "远方的一点回应",
+      "text": [
+        "燃烧的信纸照亮了灯室。远方的船回应了信号。",
+        "你在楼梯被海水淹没之前离开，却在船舱里再次闻到那种潮湿的气息。有人敲门，叫出了你的名字。"
+      ],
+      "type": "ending",
+      "chapter": "终章",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "ending": "未寄出的信"
+    },
+    {
+      "id": "escape",
+      "title": "你带走了什么",
+      "text": [
+        "你逃回码头，在第一缕晨光中离开了小岛。",
+        "一个月后，城市里所有的灯在午夜同时熄灭。黑暗中，那个声音依然亲切。"
+      ],
+      "type": "ending",
+      "chapter": "终章",
+      "background": "/art/lighthouse.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "ending": "漫长的午夜"
+    }
+  ]
+}

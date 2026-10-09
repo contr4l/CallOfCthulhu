@@ -1,0 +1,36 @@
+{
+  "id": "20",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "20:p0",
+      "kind": "heading",
+      "text": "20",
+      "sourceLocation": "9/128"
+    },
+    {
+      "id": "20:p1",
+      "kind": "body",
+      "text": "The artisan sniffs, trying to clear his nose of blood. He seems to slip in and out of consciousness. You loom over him, threatening further violence unless he talks about the bodies.",
+      "sourceLocation": "9/129"
+    },
+    {
+      "id": "20:p2",
+      "kind": "body",
+      "text": "“Just … villagers,” he rasps. “Died … natural. We save them for … the Festival.”",
+      "sourceLocation": "9/130"
+    },
+    {
+      "id": "20:p3",
+      "kind": "body",
+      "text": "His eyes close and his head lolls to the side. You can close him up in the workshop while you think about your next move.",
+      "sourceLocation": "9/131"
+    },
+    {
+      "id": "20:p4",
+      "kind": "body",
+      "text": "Go to 120.",
+      "sourceLocation": "9/132"
+    }
+  ]
+}

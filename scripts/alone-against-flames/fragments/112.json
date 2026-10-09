@@ -1,0 +1,36 @@
+{
+  "id": "112",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "112:p0",
+      "kind": "heading",
+      "text": "112",
+      "sourceLocation": "9/572"
+    },
+    {
+      "id": "112:p1",
+      "kind": "body",
+      "text": "Your keen eyes pick it up after a couple of minutes of scanning the cliff face. There are a series of protruding rocks, combined with what look like man-made incisions. The effect is an ingenious hidden stairway that leads down the cliff. No doubt the dark figure used this to descend safely.",
+      "sourceLocation": "9/573"
+    },
+    {
+      "id": "112:p2",
+      "kind": "body",
+      "text": "You look along the lower shelf. You see only a few drab shacks, off to your right. This might have been an interesting find, were you not about to leave Emberhead for good.",
+      "sourceLocation": "9/574"
+    },
+    {
+      "id": "112:p3",
+      "kind": "body",
+      "text": "You have discovered a secret. If you ever need to climb or descend this northeasterly cliff, the text will offer you a hint. At that point, if you want to try the staircase, add 100 to your current entry number and go to that new entry. If the new entry does not seem to fit, you should return to your original entry and carry on.",
+      "sourceLocation": "9/575"
+    },
+    {
+      "id": "112:p4",
+      "kind": "body",
+      "text": "Restore 1 Sanity point. You may check-mark the small box beside the Spot Hidden skill. Now go to 192.",
+      "sourceLocation": "9/576"
+    }
+  ]
+}

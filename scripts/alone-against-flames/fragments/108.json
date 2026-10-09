@@ -1,0 +1,24 @@
+{
+  "id": "108",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "108:p0",
+      "kind": "heading",
+      "text": "108",
+      "sourceLocation": "9/559"
+    },
+    {
+      "id": "108:p1",
+      "kind": "body",
+      "text": "The fading light from a narrow window tells you afternoon is giving way to evening. Your hands are shackled behind your back so you cannot even lie down on the rough bed. A woman you have not seen before comes in. Her face is wrinkled and her eyes dull. They do not meet yours, but she puts a cup to your lips.",
+      "sourceLocation": "9/560"
+    },
+    {
+      "id": "108:p2",
+      "kind": "body",
+      "text": "To accept the drink, go to 104. To reject it, go to 113.",
+      "sourceLocation": "9/561"
+    }
+  ]
+}

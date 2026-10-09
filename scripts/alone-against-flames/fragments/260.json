@@ -1,0 +1,42 @@
+{
+  "id": "260",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "260:p0",
+      "kind": "heading",
+      "text": "260",
+      "sourceLocation": "9/1287"
+    },
+    {
+      "id": "260:p1",
+      "kind": "body",
+      "text": "May jumps as you swing your legs off the bed and speak.",
+      "sourceLocation": "9/1288"
+    },
+    {
+      "id": "260:p2",
+      "kind": "body",
+      "text": "“I… I thought you might be cold,” she stammers. “Thought I would light the fire...”",
+      "sourceLocation": "9/1289"
+    },
+    {
+      "id": "260:p3",
+      "kind": "body",
+      "text": "She sweeps something away with the hand behind her. You stare, but can see nothing in the grate.",
+      "sourceLocation": "9/1290"
+    },
+    {
+      "id": "260:p4",
+      "kind": "body",
+      "text": "“I shouldn’t have disturbed you. I’m sorry.” She stands to leave.",
+      "sourceLocation": "9/1291"
+    },
+    {
+      "id": "260:p5",
+      "kind": "body",
+      "text": "You may make an Intimidate roll. If you succeed, go to 19. If you fail, go to 32.",
+      "sourceLocation": "9/1292"
+    }
+  ]
+}

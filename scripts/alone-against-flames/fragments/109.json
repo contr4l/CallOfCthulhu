@@ -1,0 +1,24 @@
+{
+  "id": "109",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "109:p0",
+      "kind": "heading",
+      "text": "109",
+      "sourceLocation": "9/562"
+    },
+    {
+      "id": "109:p1",
+      "kind": "body",
+      "text": "You slither from the grasp of the youths. Fire pours across their shoulders and ignites their hair. Curtains of smoke shroud you. Your legs are burning. You must get off the Beacon immediately.",
+      "sourceLocation": "9/563"
+    },
+    {
+      "id": "109:p2",
+      "kind": "body",
+      "text": "Take 1D6 hit points of damage from the fire. If this reduces you to zero, you collapse and are burned to death! The End. If not, go to 137.",
+      "sourceLocation": "9/564"
+    }
+  ]
+}

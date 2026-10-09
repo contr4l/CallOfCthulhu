@@ -1,0 +1,30 @@
+{
+  "id": "207",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "207:p0",
+      "kind": "heading",
+      "text": "207",
+      "sourceLocation": "9/1025"
+    },
+    {
+      "id": "207:p1",
+      "kind": "body",
+      "text": "Tempting as it is to remove the book, it is too large to conceal. You slip it back onto the shelf and ease the bookcase back into place.",
+      "sourceLocation": "9/1026"
+    },
+    {
+      "id": "207:p2",
+      "kind": "body",
+      "text": "Immediately, you hear the scratch of a key in the hall door. You sprint for the open window.",
+      "sourceLocation": "9/1027"
+    },
+    {
+      "id": "207:p3",
+      "kind": "body",
+      "text": "Make a DEX roll. If you succeed, go to 213. If you fail, go to 190.",
+      "sourceLocation": "9/1028"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "173",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "173:p0",
+      "kind": "heading",
+      "text": "173",
+      "sourceLocation": "9/860"
+    },
+    {
+      "id": "173:p1",
+      "kind": "body",
+      "text": "The bear is not impressed by your bravery. It rears up and swipes.",
+      "sourceLocation": "9/861"
+    },
+    {
+      "id": "173:p2",
+      "kind": "body",
+      "text": "Conduct close-quarters combat using pages 12-13 of the Quick-Start Rules. You may need to refer to page 7 first to look up your damage bonus.",
+      "sourceLocation": "9/862"
+    },
+    {
+      "id": "173:p3",
+      "kind": "body",
+      "text": "The combatant with the higher DEX acts first. You will take one action each combat round. You may fight back (rolling your  Fighting (Brawl)) or dodge (using Dodge) against each of the bear’s attacks. Combat rolls are opposed rolls: whoever gets the best level of success wins.",
+      "sourceLocation": "9/863"
+    },
+    {
+      "id": "173:p4",
+      "kind": "body",
+      "text": "The black bear has a DEX of 58, and 20 hit points. Its thick furry hide absorbs the first 3 points of damage you do in each round. On the first round, it attacks once with each claw. Its Claw skill is 35% (17% half / 7% one-fifth) and each successful hit does 2D6 damage. On the second round, it attacks with one claw and bites. Its Bite skill is 25% (12% half / 5% one-fifth) and does 1D8 damage. On the third round, it attacks with both claws again.",
+      "sourceLocation": "9/864"
+    },
+    {
+      "id": "173:p5",
+      "kind": "body",
+      "text": "If you have a knife or similar weapon, each successful hit you make does 1D4 plus your damage bonus. If you are unarmed, the damage is 1D3 plus your damage bonus.",
+      "sourceLocation": "9/865"
+    },
+    {
+      "id": "173:p6",
+      "kind": "body",
+      "text": "If you take a major wound, make a CON roll. If you fail, go to 193. If you are still standing after three combat rounds, go to 201.",
+      "sourceLocation": "9/866"
+    }
+  ]
+}

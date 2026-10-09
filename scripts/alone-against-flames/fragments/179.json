@@ -1,0 +1,24 @@
+{
+  "id": "179",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "179:p0",
+      "kind": "heading",
+      "text": "179",
+      "sourceLocation": "9/897"
+    },
+    {
+      "id": "179:p1",
+      "kind": "body",
+      "text": "Hot blood pours down your back. Your vision swims.",
+      "sourceLocation": "9/898"
+    },
+    {
+      "id": "179:p2",
+      "kind": "body",
+      "text": "Make a CON roll. If you succeed, go to 186. If you fail, go to 193.",
+      "sourceLocation": "9/899"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "126",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "126:p0",
+      "kind": "heading",
+      "text": "126",
+      "sourceLocation": "9/636"
+    },
+    {
+      "id": "126:p1",
+      "kind": "body",
+      "text": "Keeping away from the streets, you skirt the northern cliffs and approach the village hall from the rear. It is close to the Beacon and you will not be able to use the door unobserved. You check the windows. The one on the east side, facing the Beacon, is bricked up.",
+      "sourceLocation": "9/637"
+    },
+    {
+      "id": "126:p2",
+      "kind": "body",
+      "text": "A shutter is loose on the westernmost window and you are able to ease it open and slide inside, closing the shutter behind you. You drop into the village meeting room and pad through, passing through dim shafts of light and listening to the excited chatter of the locals from outside. The door opposite reads PRIVATE. Hearing nothing from the other side, you turn the handle.",
+      "sourceLocation": "9/638"
+    },
+    {
+      "id": "126:p3",
+      "kind": "body",
+      "text": "Go to 133.",
+      "sourceLocation": "9/639"
+    }
+  ]
+}

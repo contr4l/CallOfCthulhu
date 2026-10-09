@@ -1,0 +1,24 @@
+{
+  "id": "244",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "244:p0",
+      "kind": "heading",
+      "text": "244 ",
+      "sourceLocation": "9/1201"
+    },
+    {
+      "id": "244:p1",
+      "kind": "body",
+      "text": "You push aside the door and step inside the workshop. The air is cool against your face, and you see light glinting through the eaves. The center of the room features a raised slab with a slight slope. An indentation beneath it suggests something sits there. A basin perhaps? Prone shapes are racked against the far wall, covered with red cloth. They look… human…",
+      "sourceLocation": "9/1202"
+    },
+    {
+      "id": "244:p2",
+      "kind": "body",
+      "text": "To investigate further, go to 250. If you have seen enough, go to 120.",
+      "sourceLocation": "9/1203"
+    }
+  ]
+}

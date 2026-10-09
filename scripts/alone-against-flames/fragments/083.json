@@ -1,0 +1,36 @@
+{
+  "id": "83",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "83:p0",
+      "kind": "heading",
+      "text": "83",
+      "sourceLocation": "9/449"
+    },
+    {
+      "id": "83:p1",
+      "kind": "body",
+      "text": "Despite her hospitality, you do not trust May Ledbetter. You return to her house quite openly. Where else would you go?",
+      "sourceLocation": "9/450"
+    },
+    {
+      "id": "83:p2",
+      "kind": "body",
+      "text": "Inside, the dwelling is still empty. You rap on the bedroom door and wait. Silence. You ease it open.",
+      "sourceLocation": "9/451"
+    },
+    {
+      "id": "83:p3",
+      "kind": "body",
+      "text": "The Ledbetter bedroom is in marked contrast to your own, neat space. Dirty clothes are piled about the floor. On a rough quilt lie schoolbooks and cheap novels. You notice a raggedy old doll discarded down the side of the bed.",
+      "sourceLocation": "9/452"
+    },
+    {
+      "id": "83:p4",
+      "kind": "body",
+      "text": "Make a Spot Hidden roll. If you succeed, go to 95. If you fail, go to 89.",
+      "sourceLocation": "9/453"
+    }
+  ]
+}

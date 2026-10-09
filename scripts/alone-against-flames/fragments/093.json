@@ -1,0 +1,24 @@
+{
+  "id": "93",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "93:p0",
+      "kind": "heading",
+      "text": "93",
+      "sourceLocation": "9/492"
+    },
+    {
+      "id": "93:p1",
+      "kind": "body",
+      "text": "Desperation lends you strength and you yank at what you guess to be the weak point in the chain. It breaks! You throw the chain off, stumbling across one of the red-shrouded corpses, heading away from the watching villagers. You cough. Your hair and eyebrows smolder.",
+      "sourceLocation": "9/493"
+    },
+    {
+      "id": "93:p2",
+      "kind": "body",
+      "text": "Take 1D6 hit points of damage from the fire. If this reduces you to zero, you collapse and are burned to death! The End. If not, go to 137.",
+      "sourceLocation": "9/494"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "181",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "181:p0",
+      "kind": "heading",
+      "text": "181",
+      "sourceLocation": "9/906"
+    },
+    {
+      "id": "181:p1",
+      "kind": "body",
+      "text": "Almost by accident, you discover a channel between two rocks that leads into the cliff face. The daylight is just enough to pick out a recessed chamber, and the man crouched there in silence, glaring at you.",
+      "sourceLocation": "9/907"
+    },
+    {
+      "id": "181:p2",
+      "kind": "body",
+      "text": "“Damn you,” he snarls. “Haven’t I been tormented enough?” However, he seems a little calmer.",
+      "sourceLocation": "9/908"
+    },
+    {
+      "id": "181:p3",
+      "kind": "body",
+      "text": "To enter his refuge, turn to 191. If you don’t wish to risk it, turn to 160.",
+      "sourceLocation": "9/909"
+    }
+  ]
+}

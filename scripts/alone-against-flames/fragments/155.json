@@ -1,0 +1,42 @@
+{
+  "id": "155",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "155:p0",
+      "kind": "heading",
+      "text": "155",
+      "sourceLocation": "9/777"
+    },
+    {
+      "id": "155:p1",
+      "kind": "body",
+      "text": "You scramble between the trees, fighting panic as you run for the road.",
+      "sourceLocation": "9/778"
+    },
+    {
+      "id": "155:p2",
+      "kind": "body",
+      "text": "To escape from the bear, you must make an opposed roll, with your DEX versus the bear’s DEX. The bear has DEX 58. It scores a Hard success on a roll of 29 and under, and an Extreme success on a roll of 11 and under. Make the bear’s DEX roll, then make your DEX roll.",
+      "sourceLocation": "9/779"
+    },
+    {
+      "id": "155:p3",
+      "kind": "body",
+      "text": "Compare your level of success. An Extreme success beats a Hard success, which beats a Regular (normal) success, which beats a failure. If there is a draw, the higher skill value wins.",
+      "sourceLocation": "9/780"
+    },
+    {
+      "id": "155:p4",
+      "kind": "body",
+      "text": "If you win the opposed skill roll, go to 161.",
+      "sourceLocation": "9/781"
+    },
+    {
+      "id": "155:p5",
+      "kind": "body",
+      "text": "If you lose the opposed skill roll, go to 167.",
+      "sourceLocation": "9/782"
+    }
+  ]
+}

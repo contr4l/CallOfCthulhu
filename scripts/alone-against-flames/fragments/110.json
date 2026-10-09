@@ -1,0 +1,24 @@
+{
+  "id": "110",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "110:p0",
+      "kind": "heading",
+      "text": "110",
+      "sourceLocation": "9/565"
+    },
+    {
+      "id": "110:p1",
+      "kind": "body",
+      "text": "You slink towards the bear, trying to remain obscured by the trees.",
+      "sourceLocation": "9/566"
+    },
+    {
+      "id": "110:p2",
+      "kind": "body",
+      "text": "Make an Extreme Stealth roll (you need to roll one-fifth of your Stealth skill or under). If you pass, go to 143. If you fail, go to 129. If you roll 96 or over, this is a Fumble: turn to 149.",
+      "sourceLocation": "9/567"
+    }
+  ]
+}

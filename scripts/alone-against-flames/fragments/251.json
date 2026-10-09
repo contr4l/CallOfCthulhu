@@ -1,0 +1,36 @@
+{
+  "id": "251",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "251:p0",
+      "kind": "heading",
+      "text": "251",
+      "sourceLocation": "9/1244"
+    },
+    {
+      "id": "251:p1",
+      "kind": "body",
+      "text": "You ask about Silas’s plans. He gives the engine a sour glance before answering.",
+      "sourceLocation": "9/1245"
+    },
+    {
+      "id": "251:p2",
+      "kind": "body",
+      "text": "“I’ve got acquaintances here in the village. Reckon one of ‘em owes me a favor. Enough for bed and breakfast, in any case.” He stares at his grubby hands. “Probably won’t stretch to a hot bath.”",
+      "sourceLocation": "9/1246"
+    },
+    {
+      "id": "251:p3",
+      "kind": "body",
+      "text": "You don’t seem to have a lot of options. You fetch your cases from the back of the motor coach. The last thing you need is for all your worldly possessions to disappear into some stranger’s hovel overnight.",
+      "sourceLocation": "9/1247"
+    },
+    {
+      "id": "251:p4",
+      "kind": "body",
+      "text": "Go to 267.",
+      "sourceLocation": "9/1248"
+    }
+  ]
+}

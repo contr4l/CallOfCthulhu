@@ -1,0 +1,30 @@
+{
+  "id": "88",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "88:p0",
+      "kind": "heading",
+      "text": "88",
+      "sourceLocation": "9/472"
+    },
+    {
+      "id": "88:p1",
+      "kind": "body",
+      "text": "The volumes you select from the science section seem rather dry until you try one on astronomy. There is a leaflet inside issued by the Astronomical Society of the Pacific (San Francisco) speculating on the possibility of life on Mars, the fourth planet of the Solar System. It seems generally agreed that, although the planet holds no permanent bodies of water like Earth’s lakes and seas, it has polar caps which grow during the Martian winter and reduce during its summer. Furthermore, there is another seasonal change in the dark areas of the southern hemisphere, where the color shifts from green to brown, possibly an indication of vegetation. Opinion is divided, but life on Mars seems to be a possibility. Perhaps Mr. Wells’ story is not, after all, so far-fetched. ",
+      "sourceLocation": "9/473"
+    },
+    {
+      "id": "88:p2",
+      "kind": "body",
+      "text": "“An astronomer?” Winters gives an approving nod. “Emberhead is an ideal spot from which to observe the night sky. Even Fomalhaut is visible at the moment, for a few days. Follow down the right-hand side of Pegasus and you may catch it above the horizon. I wish we had a proper telescope.”",
+      "sourceLocation": "9/474"
+    },
+    {
+      "id": "88:p3",
+      "kind": "body",
+      "text": "Now go to 99.",
+      "sourceLocation": "9/475"
+    }
+  ]
+}

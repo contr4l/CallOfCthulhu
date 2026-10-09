@@ -1,0 +1,30 @@
+{
+  "id": "236",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "236:p0",
+      "kind": "heading",
+      "text": "236",
+      "sourceLocation": "9/1162"
+    },
+    {
+      "id": "236:p1",
+      "kind": "body",
+      "text": "The blood flow from the wounds in Arbogast’s neck has slowed to a trickle. His breath is shallow and fleeting. You can see his situation is hopeless. His eyes flutter, then close, as life departs. You mark a moment in respect. However, the attackers may come back. Who can you trust in this village?",
+      "sourceLocation": "9/1163"
+    },
+    {
+      "id": "236:p2",
+      "kind": "body",
+      "text": "To fetch May here, go to 242.",
+      "sourceLocation": "9/1164"
+    },
+    {
+      "id": "236:p3",
+      "kind": "body",
+      "text": "To return to the Ledbetter house and say nothing about the situation, go to 157.",
+      "sourceLocation": "9/1165"
+    }
+  ]
+}

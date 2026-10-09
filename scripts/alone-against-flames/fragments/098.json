@@ -1,0 +1,30 @@
+{
+  "id": "98",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "98:p0",
+      "kind": "heading",
+      "text": "98",
+      "sourceLocation": "9/514"
+    },
+    {
+      "id": "98:p1",
+      "kind": "body",
+      "text": "You are contemplating your next move when you see one villager, a bald man with a damaged ear, watching you intently. Some instinct makes you walk in the other direction. Then you see the others, ahead, and to your sides: a wary teenager, an evil-eyed matron, and a man hefting a club. They are not staring as obviously as the first, but they keep you under watch. And they are closing in. You cannot hope to overcome four of them at once.",
+      "sourceLocation": "9/515"
+    },
+    {
+      "id": "98:p2",
+      "kind": "body",
+      "text": "To try to lose them amongst the buildings, go to 158.",
+      "sourceLocation": "9/516"
+    },
+    {
+      "id": "98:p3",
+      "kind": "body",
+      "text": "To run for it, go to 164.",
+      "sourceLocation": "9/517"
+    }
+  ]
+}

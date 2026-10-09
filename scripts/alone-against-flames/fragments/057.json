@@ -1,0 +1,42 @@
+{
+  "id": "57",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "57:p0",
+      "kind": "heading",
+      "text": "57",
+      "sourceLocation": "9/303"
+    },
+    {
+      "id": "57:p1",
+      "kind": "body",
+      "text": "You walk up The Approach, the most central of the village’s major streets. It points directly at the odd metal structure. As you emerge from the shade of the nearby buildings, you are greeted by a magnificent panorama spread from the north to the southeast. The last colors of fall tint the hills in a sleepy gold.",
+      "sourceLocation": "9/304"
+    },
+    {
+      "id": "57:p2",
+      "kind": "body",
+      "text": "The structure, by contrast, is made from uncompromising iron, singed black. It supports an immense curved platform at the level of your head. Further struts snake up to a central point. It looks like they may have been some kind of sculpture at one time, but are now twisted and melted beyond recognition.",
+      "sourceLocation": "9/305"
+    },
+    {
+      "id": "57:p3",
+      "kind": "body",
+      "text": "An older gentleman passes, looking up at you with rheumy eyes. “Are you here for the festival?” he asks. “That’s the Beacon. When they light it, night after next, you’ll be able to see it ten miles away.” He gives a little nod of satisfaction, then moves on, leaning on his walking stick.",
+      "sourceLocation": "9/306"
+    },
+    {
+      "id": "57:p4",
+      "kind": "body",
+      "text": "Now you notice bundles of wood, tied and stacked against the buildings nearby. Perhaps this festival would be an interesting diversion. But you really must head to Arkham as soon as possible.",
+      "sourceLocation": "9/307"
+    },
+    {
+      "id": "57:p5",
+      "kind": "body",
+      "text": "Make a Spot Hidden roll. If you succeed, go to 69. Otherwise, go to 25.",
+      "sourceLocation": "9/308"
+    }
+  ]
+}

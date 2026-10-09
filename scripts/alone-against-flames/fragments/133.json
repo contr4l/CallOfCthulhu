@@ -1,0 +1,30 @@
+{
+  "id": "133",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "133:p0",
+      "kind": "heading",
+      "text": "133 ",
+      "sourceLocation": "9/667"
+    },
+    {
+      "id": "133:p1",
+      "kind": "body",
+      "text": "The room is lined with books. In the corner is a small water closet and pantry. A quick survey of the rest of the room reveals little, so you turn to the bookcase. The dim light makes it difficult to read the spines. Is there anything useful here?",
+      "sourceLocation": "9/668"
+    },
+    {
+      "id": "133:p2",
+      "kind": "body",
+      "text": "Make a Spot Hidden roll. If you have examined this bookshelf before, you may have a bonus die. See page 10 of the Quick-Start Rules for instructions if need be.",
+      "sourceLocation": "9/669"
+    },
+    {
+      "id": "133:p3",
+      "kind": "body",
+      "text": "If you succeed, go to 147. If not, go to 140.",
+      "sourceLocation": "9/670"
+    }
+  ]
+}

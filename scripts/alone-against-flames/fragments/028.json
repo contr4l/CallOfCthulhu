@@ -1,0 +1,36 @@
+{
+  "id": "28",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "28:p0",
+      "kind": "heading",
+      "text": "28",
+      "sourceLocation": "9/175"
+    },
+    {
+      "id": "28:p1",
+      "kind": "body",
+      "text": "You take money, water and some sandwiches. It seems polite to leave May Ledbetter a note explaining the situation and that you will return for your bags as soon as possible. The sky is flecked with cloud but shows no sign of imminent rain.",
+      "sourceLocation": "9/176"
+    },
+    {
+      "id": "28:p2",
+      "kind": "body",
+      "text": "A couple of villagers watch as you descend on the southern road and follow it around to the east. The black metal structure looms on the promontory above. You shiver as you pass the lower huts and head out of Emberhead.",
+      "sourceLocation": "9/177"
+    },
+    {
+      "id": "28:p3",
+      "kind": "body",
+      "text": "After the miserable, enclosed streets of Emberhead, you are refreshed by the open air and sense of progress. An hour later, however, the empty road ceases to be a novelty. You have just entered the first patch of woodland when you hear an eerie, lilting howl from the north.",
+      "sourceLocation": "9/178"
+    },
+    {
+      "id": "28:p4",
+      "kind": "body",
+      "text": "Make a  roll. If you succeed, go to 35. If you fail, go to 41.",
+      "sourceLocation": "9/179"
+    }
+  ]
+}

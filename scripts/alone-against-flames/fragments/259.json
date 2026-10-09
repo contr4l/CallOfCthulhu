@@ -1,0 +1,42 @@
+{
+  "id": "259",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "259:p0",
+      "kind": "heading",
+      "text": "259",
+      "sourceLocation": "9/1281"
+    },
+    {
+      "id": "259:p1",
+      "kind": "body",
+      "text": "Arbogast pauses in the shadows. “There’s something about you, something the previous ones never had. Perhaps you can make it through. If you want to hear more, meet me again after dark. Nine o’clock. The graveyard on the other side.” He lifts a gnarled finger. “Don’t be followed, else I won’t be there. This ain’t the time of year for a showdown.”",
+      "sourceLocation": "9/1282"
+    },
+    {
+      "id": "259:p2",
+      "kind": "body",
+      "text": "Arbogast wipes his nose on his sleeve again. “Go now. Their eyes are on me. And, stranger? Don’t try to run. You’ll never make it.”",
+      "sourceLocation": "9/1283"
+    },
+    {
+      "id": "259:p3",
+      "kind": "body",
+      "text": "You emerge into the sunlight blinking and more than a little shaken.",
+      "sourceLocation": "9/1284"
+    },
+    {
+      "id": "259:p4",
+      "kind": "body",
+      "text": "You have discovered a secret. Later tonight, the text will offer you a chance to follow up on a previous appointment. At that point, if you want to meet with Arbogast again, add 20 to your current entry number and go to that new entry.",
+      "sourceLocation": "9/1285"
+    },
+    {
+      "id": "259:p5",
+      "kind": "body",
+      "text": "For now, go to 160.",
+      "sourceLocation": "9/1286"
+    }
+  ]
+}

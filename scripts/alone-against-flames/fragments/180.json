@@ -1,0 +1,42 @@
+{
+  "id": "180",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "180:p0",
+      "kind": "heading",
+      "text": "180",
+      "sourceLocation": "9/900"
+    },
+    {
+      "id": "180:p1",
+      "kind": "body",
+      "text": "As the light fades you return to the Ledbetter house and eat a light supper. May is unusually taciturn. Ruth’s eyes flick to yours several times during the meal. There is an urgency there you cannot quite interpret. Afterwards, May ushers the girl into their room.",
+      "sourceLocation": "9/901"
+    },
+    {
+      "id": "180:p2",
+      "kind": "body",
+      "text": "You have been in Emberhead for barely one whole day and you already feel confined by it, both geographically and socially. The evening seems to offer little.",
+      "sourceLocation": "9/902"
+    },
+    {
+      "id": "180:p3",
+      "kind": "body",
+      "text": "To do some stargazing, go to 131.",
+      "sourceLocation": "9/903"
+    },
+    {
+      "id": "180:p4",
+      "kind": "body",
+      "text": "To attempt to speak to Ruth, go to 138.",
+      "sourceLocation": "9/904"
+    },
+    {
+      "id": "180:p5",
+      "kind": "body",
+      "text": "If you have a previous appointment, this is the time to follow it up.",
+      "sourceLocation": "9/905"
+    }
+  ]
+}

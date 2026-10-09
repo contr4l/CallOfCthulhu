@@ -1,0 +1,36 @@
+{
+  "id": "24",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "24:p0",
+      "kind": "heading",
+      "text": "24",
+      "sourceLocation": "9/151"
+    },
+    {
+      "id": "24:p1",
+      "kind": "body",
+      "text": "You raise your hand to knock on the door, but it opens before you can complete the movement. The middle-aged gentleman behind it takes an involuntary step back, adjusting his spectacles. You hasten to apologize and introduce yourself. He steadies himself and peers at you.",
+      "sourceLocation": "9/152"
+    },
+    {
+      "id": "24:p2",
+      "kind": "body",
+      "text": "“I see. I’m Clyde Winters. Just visiting, you say? And you’ve come to see me? Hm! Care for some coffee? I usually take a cup around this time of the afternoon.”",
+      "sourceLocation": "9/153"
+    },
+    {
+      "id": "24:p3",
+      "kind": "body",
+      "text": "His invitation seems genuine enough and a good opportunity to ask any questions that are on your mind.",
+      "sourceLocation": "9/154"
+    },
+    {
+      "id": "24:p4",
+      "kind": "body",
+      "text": "Go to 43.",
+      "sourceLocation": "9/155"
+    }
+  ]
+}

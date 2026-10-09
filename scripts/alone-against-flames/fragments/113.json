@@ -1,0 +1,36 @@
+{
+  "id": "113",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "113:p0",
+      "kind": "heading",
+      "text": "113",
+      "sourceLocation": "9/577"
+    },
+    {
+      "id": "113:p1",
+      "kind": "body",
+      "text": "You turn your face away, and when she tries again, you dash the cup from her hands using the side of your head. The clear liquid spills across the floor.",
+      "sourceLocation": "9/578"
+    },
+    {
+      "id": "113:p2",
+      "kind": "body",
+      "text": "The woman gives a half-shrug and turns to leave the room. You shout after her, but she gives no reaction.",
+      "sourceLocation": "9/579"
+    },
+    {
+      "id": "113:p3",
+      "kind": "body",
+      "text": "You soon become thirsty.",
+      "sourceLocation": "9/580"
+    },
+    {
+      "id": "113:p4",
+      "kind": "body",
+      "text": "Go to 205.",
+      "sourceLocation": "9/581"
+    }
+  ]
+}

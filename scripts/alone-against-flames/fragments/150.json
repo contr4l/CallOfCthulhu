@@ -1,0 +1,42 @@
+{
+  "id": "150",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "150:p0",
+      "kind": "heading",
+      "text": "150",
+      "sourceLocation": "9/756"
+    },
+    {
+      "id": "150:p1",
+      "kind": "body",
+      "text": "You break from the road and pursue the man, feeling wild grass snatch at your feet. He sprints around the ridge, attempting to elude you behind the very rocks that support the metal structure, high above.",
+      "sourceLocation": "9/757"
+    },
+    {
+      "id": "150:p2",
+      "kind": "body",
+      "text": "To catch the man, you must make an opposed roll, with your  versus his DEX. The man has DEX 38. He scores a Hard success on a roll of 19 and under, and an Extreme success on a roll of 7 and under. Make the man’s DEX roll, then make your DEX roll.",
+      "sourceLocation": "9/758"
+    },
+    {
+      "id": "150:p3",
+      "kind": "body",
+      "text": "Compare your level of success. An Extreme success beats a Hard success, which beats a Regular (normal) success, which beats a failure. If there is a draw, the higher skill value wins.",
+      "sourceLocation": "9/759"
+    },
+    {
+      "id": "150:p4",
+      "kind": "body",
+      "text": "If you win the opposed skill roll, go to 172.",
+      "sourceLocation": "9/760"
+    },
+    {
+      "id": "150:p5",
+      "kind": "body",
+      "text": "If you lose the opposed skill roll, go to 87.",
+      "sourceLocation": "9/761"
+    }
+  ]
+}

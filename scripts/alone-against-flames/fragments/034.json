@@ -1,0 +1,36 @@
+{
+  "id": "34",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "34:p0",
+      "kind": "heading",
+      "text": "34",
+      "sourceLocation": "9/202"
+    },
+    {
+      "id": "34:p1",
+      "kind": "body",
+      "text": "You cross the street towards the church. As you glance to your left, your gaze alights on the large metal structure. Something bothers you about its positioning. You back up and look again. Yes! Emberhead’s central thoroughfare points directly at the structure. This seems too precise to be a coincidence.",
+      "sourceLocation": "9/203"
+    },
+    {
+      "id": "34:p2",
+      "kind": "body",
+      "text": "You press on and draw into the shadow of the church. The building is in a sorry state. The top of the steeple is missing, a ragged gash of splintered boards marking its absence, and the floors beneath it have collapsed. It appears to have torn through the roof of the main building as it fell. Only the back half is still intact. The white paint, which once covered the church, has yellowed and peeled.",
+      "sourceLocation": "9/204"
+    },
+    {
+      "id": "34:p3",
+      "kind": "body",
+      "text": "It seems safe enough to explore the rear section. Old pews are stacked against the wall, choked with mildew. Most of the windows are broken. You guess this church has been disused for about twenty years. There is little more to interest you.",
+      "sourceLocation": "9/205"
+    },
+    {
+      "id": "34:p4",
+      "kind": "body",
+      "text": "Make a Ride roll. You may have a bonus die; roll the “tens” percentage die twice and take the lower result. If you succeed, go to 46. Otherwise, go to 25.",
+      "sourceLocation": "9/206"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "149",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "149:p0",
+      "kind": "heading",
+      "text": "149",
+      "sourceLocation": "9/751"
+    },
+    {
+      "id": "149:p1",
+      "kind": "body",
+      "text": "As you draw close to the animal, you lose your balance and stumble against a young tree. Its trunk snaps with a sound like a rifle shot. The bear’s head swings around and those black eyes lock on you.",
+      "sourceLocation": "9/752"
+    },
+    {
+      "id": "149:p2",
+      "kind": "body",
+      "text": "It charges you with startling speed. Its onrushing mass is quite terrifying.",
+      "sourceLocation": "9/753"
+    },
+    {
+      "id": "149:p3",
+      "kind": "body",
+      "text": "To flee from the bear, go to 155.",
+      "sourceLocation": "9/754"
+    },
+    {
+      "id": "149:p4",
+      "kind": "body",
+      "text": "To stand your ground, go to 173.",
+      "sourceLocation": "9/755"
+    }
+  ]
+}

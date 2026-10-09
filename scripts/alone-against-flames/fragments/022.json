@@ -1,0 +1,36 @@
+{
+  "id": "22",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "22:p0",
+      "kind": "heading",
+      "text": "22",
+      "sourceLocation": "9/143"
+    },
+    {
+      "id": "22:p1",
+      "kind": "body",
+      "text": "You take your leave of the Ledbetters and head towards their house. The door opens easily. In the low kitchen you make a meal from stodgy bread and leftover stew. A little window offers a view to the mountains.",
+      "sourceLocation": "9/144"
+    },
+    {
+      "id": "22:p2",
+      "kind": "body",
+      "text": "If you learned one thing this morning, it was that Emberhead’s streets hold little to occupy the visitor from out of town. But there are still about five hours of daylight remaining. You could take some provisions and the bare essentials from your luggage, and set out in the hope of reaching another settlement before dark. Or you could ask advice from this Mr. Winters.",
+      "sourceLocation": "9/145"
+    },
+    {
+      "id": "22:p3",
+      "kind": "body",
+      "text": "If you prepare and walk out of town, go to 28.",
+      "sourceLocation": "9/146"
+    },
+    {
+      "id": "22:p4",
+      "kind": "body",
+      "text": "If you head to the village hall instead, go to 11.",
+      "sourceLocation": "9/147"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "5:p0",
+      "kind": "heading",
+      "text": "5",
+      "sourceLocation": "9/38"
+    },
+    {
+      "id": "5:p1",
+      "kind": "body",
+      "text": "The beasts fan out around you and black fear rises in your chest. One darts close, snapping and hissing. You lash out with a foot. It pulls its head back with a snarl of hatred. Their thick musk fills your nostrils as they circle, waiting for the moment to strike …",
+      "sourceLocation": "9/39"
+    },
+    {
+      "id": "5:p2",
+      "kind": "body",
+      "text": "The animals ignite around you.",
+      "sourceLocation": "9/40"
+    },
+    {
+      "id": "5:p3",
+      "kind": "body",
+      "text": "You stare as they go up like candles, red and purple flames licking their fur. Those terrible eyes stare through a curtain of fire, flesh, and fat consumed by the unnatural blaze. And they howl, their hunting calls twisted into a fierce dirge of pain. ",
+      "sourceLocation": "9/41"
+    },
+    {
+      "id": "5:p4",
+      "kind": "body",
+      "text": "You turn away, gasping in the thick fumes, haunted by the shrieks of the beasts as you grope through the young trees. Your vision blurs, swims. Your legs are weak—",
+      "sourceLocation": "9/42"
+    },
+    {
+      "id": "5:p5",
+      "kind": "body",
+      "text": "Lose 1D3 Sanity points. Go to 13.",
+      "sourceLocation": "9/43"
+    }
+  ]
+}

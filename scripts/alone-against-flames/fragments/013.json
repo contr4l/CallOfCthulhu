@@ -1,0 +1,48 @@
+{
+  "id": "13",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "13:p0",
+      "kind": "heading",
+      "text": "13",
+      "sourceLocation": "9/81"
+    },
+    {
+      "id": "13:p1",
+      "kind": "body",
+      "text": "The skin of your face feels warm. There is a mattress beneath you. You blink against the sunlight. A blurred figure swims in your vision.",
+      "sourceLocation": "9/82"
+    },
+    {
+      "id": "13:p2",
+      "kind": "body",
+      "text": "“You’re awake. It’s May. May Ledbetter.”",
+      "sourceLocation": "9/83"
+    },
+    {
+      "id": "13:p3",
+      "kind": "body",
+      "text": "You shift and pain wracks your body. You feel bruised, and your head throbs. May comes into focus.",
+      "sourceLocation": "9/84"
+    },
+    {
+      "id": "13:p4",
+      "kind": "body",
+      "text": "“You’re lucky to be alive. A farmer found you in the small hours, lying by the road. Patched you up and brought you back on his cart. Said you were in the middle of the woods somewhere? Best take it easy today. I’ll look in on you later.”",
+      "sourceLocation": "9/85"
+    },
+    {
+      "id": "13:p5",
+      "kind": "body",
+      "text": "The farmer and his cart are long gone, of course. You snooze for a little longer.",
+      "sourceLocation": "9/86"
+    },
+    {
+      "id": "13:p6",
+      "kind": "body",
+      "text": "You have received First Aid while unconscious and may restore 1 hit point. Now go to 64.",
+      "sourceLocation": "9/87"
+    }
+  ]
+}

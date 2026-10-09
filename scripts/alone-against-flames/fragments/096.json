@@ -1,0 +1,36 @@
+{
+  "id": "96",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "96:p0",
+      "kind": "heading",
+      "text": "96",
+      "sourceLocation": "9/503"
+    },
+    {
+      "id": "96:p1",
+      "kind": "body",
+      "text": "Not far from the Ledbetter house, on the north side of Silbury Street, there is an open courtyard. The rhythmic tattoo of a hammer seems to announce your approach.",
+      "sourceLocation": "9/504"
+    },
+    {
+      "id": "96:p2",
+      "kind": "body",
+      "text": "The courtyard is the busiest location you have yet seen in Emberhead. It is bordered by a ring of workshops. Some are brick buildings, some only rough huts. A blacksmith ceases to hammer, thrusting something red and glowing into a bucket of cold water. A weaver looks up from his loom, blinking at you a moment before returning to his shuttle. A potter, engraver and carpenter each work in their own space, exchanging friendly banter.",
+      "sourceLocation": "9/505"
+    },
+    {
+      "id": "96:p3",
+      "kind": "body",
+      "text": "You move among the artisans, chatting about their work. Eventually you bring up the question of export. Some of them send occasional packages with Silas. Some restrict their custom entirely to villagers. You receive no suggestions about alternative transport.",
+      "sourceLocation": "9/506"
+    },
+    {
+      "id": "96:p4",
+      "kind": "body",
+      "text": "Make a Psychology roll. If you succeed, go to 106. Otherwise, go to 25.",
+      "sourceLocation": "9/507"
+    }
+  ]
+}

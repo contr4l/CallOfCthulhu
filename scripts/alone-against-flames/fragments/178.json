@@ -1,0 +1,36 @@
+{
+  "id": "178",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "178:p0",
+      "kind": "heading",
+      "text": "178",
+      "sourceLocation": "9/892"
+    },
+    {
+      "id": "178:p1",
+      "kind": "body",
+      "text": "You retrace your steps of last night. A few villagers watch with polite curiosity as you thread your way along the northern cliffs, bags in tow. In time you think you have found the spot. Heart thudding in your chest, you peer over the edge.",
+      "sourceLocation": "9/893"
+    },
+    {
+      "id": "178:p2",
+      "kind": "body",
+      "text": "Nothing.",
+      "sourceLocation": "9/894"
+    },
+    {
+      "id": "178:p3",
+      "kind": "body",
+      "text": "With the benefit of daylight, you see the cliff is not the bottomless drop you imagined; it leads to a shelf some twenty yards below. It could still be a lethal tumble. But you see no body, no blood.",
+      "sourceLocation": "9/895"
+    },
+    {
+      "id": "178:p4",
+      "kind": "body",
+      "text": "Make a Spot Hidden roll. If you succeed, go to 112. Otherwise, go to 192.",
+      "sourceLocation": "9/896"
+    }
+  ]
+}

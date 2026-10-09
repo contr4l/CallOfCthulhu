@@ -1,0 +1,30 @@
+{
+  "id": "252",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "252:p0",
+      "kind": "heading",
+      "text": "252",
+      "sourceLocation": "9/1249"
+    },
+    {
+      "id": "252:p1",
+      "kind": "body",
+      "text": "Something is not right here. Even as your fingers find the clasp of the belt and open it, some rational part of your mind recognizes that this fire does not look natural. And trees don’t move by themselves.",
+      "sourceLocation": "9/1250"
+    },
+    {
+      "id": "252:p2",
+      "kind": "body",
+      "text": "The belt releases and you drop through air. Can you see figures there? Coming out of the dark—",
+      "sourceLocation": "9/1251"
+    },
+    {
+      "id": "252:p3",
+      "kind": "body",
+      "text": "Lose 1D3 hit points. Now go to 13.",
+      "sourceLocation": "9/1252"
+    }
+  ]
+}

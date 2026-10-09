@@ -1,0 +1,24 @@
+{
+  "id": "146",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "146:p0",
+      "kind": "heading",
+      "text": "146",
+      "sourceLocation": "9/737"
+    },
+    {
+      "id": "146:p1",
+      "kind": "body",
+      "text": "One of the guards nods to you as you shuffle past. It is an effort to maintain this half-pace when your instincts tell you to run. But you keep it up until you are on the eastern road. Then you discard the disguise in a hole filled with mud.",
+      "sourceLocation": "9/738"
+    },
+    {
+      "id": "146:p2",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Disguise skill. Now go to 152.",
+      "sourceLocation": "9/739"
+    }
+  ]
+}

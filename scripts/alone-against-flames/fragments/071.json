@@ -1,0 +1,96 @@
+{
+  "id": "71",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "71:p0",
+      "kind": "heading",
+      "text": "71",
+      "sourceLocation": "9/375"
+    },
+    {
+      "id": "71:p1",
+      "kind": "body",
+      "text": "You resume your journey. The driver takes the curves with more caution than before. He glances over his shoulder at you a couple of times.",
+      "sourceLocation": "9/376"
+    },
+    {
+      "id": "71:p2",
+      "kind": "body",
+      "text": "“Sorry about before,” he says. “That fella was dumber than a hog. I’m Silas. What’s your name?”",
+      "sourceLocation": "9/377"
+    },
+    {
+      "id": "71:p3",
+      "kind": "body",
+      "text": "The accident was at least as much Silas’s fault as the farmer’s. But it doesn’t seem shrewd to antagonize the man while he is driving you through the middle of nowhere.",
+      "sourceLocation": "9/378"
+    },
+    {
+      "id": "71:p4",
+      "kind": "body",
+      "text": "Make up a name for your character and record it on your investigator sheet. You may add your age; for the purposes of this adventure your character should probably be aged between 23 and 36.",
+      "sourceLocation": "9/379"
+    },
+    {
+      "id": "71:p5",
+      "kind": "body",
+      "text": "The coach turns onto a narrower road, which weaves uphill through woodland. Silas becomes chatty.",
+      "sourceLocation": "9/380"
+    },
+    {
+      "id": "71:p6",
+      "kind": "body",
+      "text": "“Going to Arkham, eh? Can’t say I ever heard of the place. Went to Boston once. Didn’t like it. Too much hustle and bustle. You got family there? A special someone waiting?”",
+      "sourceLocation": "9/381"
+    },
+    {
+      "id": "71:p7",
+      "kind": "body",
+      "text": "The afternoon is wearing on. You see no harm in confiding in Silas about your new life.",
+      "sourceLocation": "9/382"
+    },
+    {
+      "id": "71:p8",
+      "kind": "body",
+      "text": "“A job eh? What’s your line?”",
+      "sourceLocation": "9/383"
+    },
+    {
+      "id": "71:p9",
+      "kind": "body",
+      "text": "Choose an occupation for your character from the following options:",
+      "sourceLocation": "9/384"
+    },
+    {
+      "id": "71:p10",
+      "kind": "body",
+      "text": "If you are an Antiquarian, go to 102.",
+      "sourceLocation": "9/385"
+    },
+    {
+      "id": "71:p11",
+      "kind": "body",
+      "text": "If you are a Doctor of Medicine, go to 226.",
+      "sourceLocation": "9/386"
+    },
+    {
+      "id": "71:p12",
+      "kind": "body",
+      "text": "If you are a Journalist, go to 239.",
+      "sourceLocation": "9/387"
+    },
+    {
+      "id": "71:p13",
+      "kind": "body",
+      "text": "If you are a Private Investigator, go to 249.",
+      "sourceLocation": "9/388"
+    },
+    {
+      "id": "71:p14",
+      "kind": "body",
+      "text": "If you are a Professor, go to 265.",
+      "sourceLocation": "9/389"
+    }
+  ]
+}

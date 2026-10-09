@@ -1,0 +1,30 @@
+{
+  "id": "18",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "18:p0",
+      "kind": "heading",
+      "text": "18",
+      "sourceLocation": "9/115"
+    },
+    {
+      "id": "18:p1",
+      "kind": "body",
+      "text": "As you arrive beneath the beacon, ten villagers close in on you. Working with surprising coordination, they immobilize you and lift you up the blackened iron stairs to the raised platform. You cannot help but shiver at the sight of the central framework, twisted from past blazes, and what you can now clearly see to be fastening points for chain. None of the eyes meet yours as they lash you to the metal. ",
+      "sourceLocation": "9/116"
+    },
+    {
+      "id": "18:p2",
+      "kind": "body",
+      "text": "The village sings now, something rhythmic and ancient, carved from odd syllables. A second group ascends to the Beacon, carrying the three red-draped bodies. With reverence, they arrange their burdens in a triangle around your feet. Then they withdraw, leaving you alone with the dead, shin-deep in a sea of kindling.",
+      "sourceLocation": "9/117"
+    },
+    {
+      "id": "18:p3",
+      "kind": "body",
+      "text": "Go to 33.",
+      "sourceLocation": "9/118"
+    }
+  ]
+}

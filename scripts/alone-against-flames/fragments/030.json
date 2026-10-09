@@ -1,0 +1,24 @@
+{
+  "id": "30",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "30:p0",
+      "kind": "heading",
+      "text": "30",
+      "sourceLocation": "9/183"
+    },
+    {
+      "id": "30:p1",
+      "kind": "body",
+      "text": "As the afternoon sun hits the floor you notice something curious. The boards under the windows are newer than the boards in the center of the floor. The frames also show signs of having been replaced in the recent past. Perhaps rain leaked in and rotted the wood.",
+      "sourceLocation": "9/184"
+    },
+    {
+      "id": "30:p2",
+      "kind": "body",
+      "text": "You may check-mark the small box beside the Spot Hidden skill. Now go to 37.",
+      "sourceLocation": "9/185"
+    }
+  ]
+}

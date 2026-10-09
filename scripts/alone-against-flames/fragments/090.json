@@ -1,0 +1,30 @@
+{
+  "id": "90",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "90:p0",
+      "kind": "heading",
+      "text": "90",
+      "sourceLocation": "9/479"
+    },
+    {
+      "id": "90:p1",
+      "kind": "body",
+      "text": "You clear your throat and begin the ritual you found in the strange book, pronouncing the strange syllables as best you can. You know the fire is slipping ever closer by the touch of heat on your face, yet you put your panic aside and concentrate on completing the chant.",
+      "sourceLocation": "9/480"
+    },
+    {
+      "id": "90:p2",
+      "kind": "body",
+      "text": "As you speak the weird words, you become aware that the song of the villagers has shifted and they, too, are chanting. An eerie tingling builds in your palms and temples.",
+      "sourceLocation": "9/481"
+    },
+    {
+      "id": "90:p3",
+      "kind": "body",
+      "text": "You are casting a spell. You may commit up to 10 magic points to this spell. If you have less than 10 magic points, you may spend hit points on top of the magic points—but not so many that you are reduced to 0 hit points. Decide how many points to commit, then go to 198.",
+      "sourceLocation": "9/482"
+    }
+  ]
+}

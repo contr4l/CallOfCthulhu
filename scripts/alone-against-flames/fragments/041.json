@@ -1,0 +1,24 @@
+{
+  "id": "41",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "41:p0",
+      "kind": "heading",
+      "text": "41",
+      "sourceLocation": "9/232"
+    },
+    {
+      "id": "41:p1",
+      "kind": "body",
+      "text": "You hesitate. You have grown up in the familiar landscape of the town. Wild animals are a little outside your experience. Is it unwise to head on into the unknown by yourself?",
+      "sourceLocation": "9/233"
+    },
+    {
+      "id": "41:p2",
+      "kind": "body",
+      "text": "To press on, go to 54. To return to the safety of Emberhead, go to 47.",
+      "sourceLocation": "9/234"
+    }
+  ]
+}

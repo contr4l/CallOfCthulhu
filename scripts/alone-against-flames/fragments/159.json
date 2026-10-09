@@ -1,0 +1,36 @@
+{
+  "id": "159",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "159:p0",
+      "kind": "heading",
+      "text": "159",
+      "sourceLocation": "9/796"
+    },
+    {
+      "id": "159:p1",
+      "kind": "body",
+      "text": "You slip from the building, clutching some of the more portable volumes. In the shadows behind the artisans’ courtyard, you examine them.",
+      "sourceLocation": "9/797"
+    },
+    {
+      "id": "159:p2",
+      "kind": "body",
+      "text": "To your disappointment two or three are in a script unknown to you. Another appears to be in Egyptian symbols. There is a spidery, handwritten copy of something named The Emerald Tablet. But perhaps most intriguing is a small book of strange poetry bound in black, published in Boston in 1919. The cover reads Azathoth and Others, by Edward Derby. You’ll have to hide the larger volumes, but you can pocket the Derby book.",
+      "sourceLocation": "9/798"
+    },
+    {
+      "id": "159:p3",
+      "kind": "body",
+      "text": "The Derby volume will require about a week of study to fully comprehend. If you survive this adventure, you may read 171 for more information about it.",
+      "sourceLocation": "9/799"
+    },
+    {
+      "id": "159:p4",
+      "kind": "body",
+      "text": "For now, go to 120.",
+      "sourceLocation": "9/800"
+    }
+  ]
+}

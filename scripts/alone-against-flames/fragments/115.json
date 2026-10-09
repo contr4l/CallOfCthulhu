@@ -1,0 +1,36 @@
+{
+  "id": "115",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "115:p0",
+      "kind": "heading",
+      "text": "115",
+      "sourceLocation": "9/587"
+    },
+    {
+      "id": "115:p1",
+      "kind": "body",
+      "text": "The air is fresh and the walk down to the lower ridge invigorating. You notice cultivated fields stretching through the lowlands around Emberhead, and among the crops some livestock, but no horses. Are you going to have to make your onward journey on foot?",
+      "sourceLocation": "9/588"
+    },
+    {
+      "id": "115:p2",
+      "kind": "body",
+      "text": "Further down, the road skirts the edge of the ridge and descends. There are a few scattered hovels here, with signs of habitation. They are set a substantial distance apart.",
+      "sourceLocation": "9/589"
+    },
+    {
+      "id": "115:p3",
+      "kind": "body",
+      "text": "As you examine them, a door opens, and an older man steps out. He wears a bedraggled suit, but carries a piece of cloth, which he tosses over his head like a hood. As he does this, he sees you and freezes.",
+      "sourceLocation": "9/590"
+    },
+    {
+      "id": "115:p4",
+      "kind": "body",
+      "text": "Make a Luck roll. If you succeed, turn to 127. If you fail, turn to 135.",
+      "sourceLocation": "9/591"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "168",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "168:p0",
+      "kind": "heading",
+      "text": "168",
+      "sourceLocation": "9/836"
+    },
+    {
+      "id": "168:p1",
+      "kind": "body",
+      "text": "After a quick glance around to be sure you are unobserved, you look back along the avenue.  The entire village is intent upon the Beacon. Their chanting reaches a new, fevered pitch. You cannot say exactly why, but you get the impression something is wrong. The chant begins to break and the villagers sway. Then—",
+      "sourceLocation": "9/837"
+    },
+    {
+      "id": "168:p2",
+      "kind": "body",
+      "text": "FTOOM! Something incandescent thunders into the crowd in front of the Beacon, leaving a fiery trail in your vision. You feel the ground shudder beneath the bicycle. FTOOM! Another strikes nearby, scattering sparks. Now the chant falters and gives way to screams.",
+      "sourceLocation": "9/838"
+    },
+    {
+      "id": "168:p3",
+      "kind": "body",
+      "text": "Fire skims the buildings facing the Beacon. Smoke rolls through the streets. A woman staggers towards you, wailing. Her arm is on fire. She beats it against a wall.",
+      "sourceLocation": "9/839"
+    },
+    {
+      "id": "168:p4",
+      "kind": "body",
+      "text": "FTOOM! Another strike, out of your sight, towards the village hall. It’s time to go.",
+      "sourceLocation": "9/840"
+    },
+    {
+      "id": "168:p5",
+      "kind": "body",
+      "text": "Go to 185.",
+      "sourceLocation": "9/841"
+    }
+  ]
+}

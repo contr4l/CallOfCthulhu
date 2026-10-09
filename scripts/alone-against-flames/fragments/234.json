@@ -1,0 +1,24 @@
+{
+  "id": "234",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "234:p0",
+      "kind": "heading",
+      "text": "234",
+      "sourceLocation": "9/1151"
+    },
+    {
+      "id": "234:p1",
+      "kind": "body",
+      "text": "Another cry splits the gloom. It is the same unearthly call you heard when you entered the first patch of woodland, but this time with a grating undertone that makes you shiver. It seems closer.",
+      "sourceLocation": "9/1152"
+    },
+    {
+      "id": "234:p2",
+      "kind": "body",
+      "text": "To take refuge in a tree for the night, go to 208. To keep walking, go to 215.",
+      "sourceLocation": "9/1153"
+    }
+  ]
+}

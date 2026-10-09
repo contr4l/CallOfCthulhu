@@ -1,0 +1,30 @@
+{
+  "id": "101",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "101:p0",
+      "kind": "heading",
+      "text": "101",
+      "sourceLocation": "9/527"
+    },
+    {
+      "id": "101:p1",
+      "kind": "body",
+      "text": "A shadow falls across you. “So,” May Ledbetter says. “You know.”",
+      "sourceLocation": "9/528"
+    },
+    {
+      "id": "101:p2",
+      "kind": "body",
+      "text": "You try to get to your feet. A mob of villagers spills from behind her and surrounds you. You struggle, but you cannot resist the sheer weight of their numbers. You are quickly overpowered.",
+      "sourceLocation": "9/529"
+    },
+    {
+      "id": "101:p3",
+      "kind": "body",
+      "text": "Go to 108. ",
+      "sourceLocation": "9/530"
+    }
+  ]
+}

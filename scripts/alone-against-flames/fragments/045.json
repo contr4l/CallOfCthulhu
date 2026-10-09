@@ -1,0 +1,30 @@
+{
+  "id": "45",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "45:p0",
+      "kind": "heading",
+      "text": "45 ",
+      "sourceLocation": "9/247"
+    },
+    {
+      "id": "45:p1",
+      "kind": "body",
+      "text": "You awake with a jolt, wrestling the blankets, ready for attack—",
+      "sourceLocation": "9/248"
+    },
+    {
+      "id": "45:p2",
+      "kind": "body",
+      "text": "The Ledbetter guest room is quiet, painted with morning light. There is nobody here but you. You release the blankets and wait for your heart to stop hammering.",
+      "sourceLocation": "9/249"
+    },
+    {
+      "id": "45:p3",
+      "kind": "body",
+      "text": "Go to 64.",
+      "sourceLocation": "9/250"
+    }
+  ]
+}

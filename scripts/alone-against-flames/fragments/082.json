@@ -1,0 +1,36 @@
+{
+  "id": "82",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "82:p0",
+      "kind": "heading",
+      "text": "82",
+      "sourceLocation": "9/444"
+    },
+    {
+      "id": "82:p1",
+      "kind": "body",
+      "text": "After five minutes, you are able to climb to your feet and stagger, leaning on the cliff for support. You emerge from behind a shack. Two passing villagers see you and run to your assistance. Each slings one of your arms around their shoulders and they walk you back up to the Emberhead plateau. You are too badly hurt to struggle.",
+      "sourceLocation": "9/445"
+    },
+    {
+      "id": "82:p2",
+      "kind": "body",
+      "text": "One of the local women takes you to a house and tends to your wounds. The cool touch of a  wet towel is welcome. Yet the men stand by, watching. And when she is done, they step out and lock the door.",
+      "sourceLocation": "9/446"
+    },
+    {
+      "id": "82:p3",
+      "kind": "body",
+      "text": "You succumb to a wave of fatigue.",
+      "sourceLocation": "9/447"
+    },
+    {
+      "id": "82:p4",
+      "kind": "body",
+      "text": "Go to 108.",
+      "sourceLocation": "9/448"
+    }
+  ]
+}

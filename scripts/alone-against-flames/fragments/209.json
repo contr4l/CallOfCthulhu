@@ -1,0 +1,42 @@
+{
+  "id": "209",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "209:p0",
+      "kind": "heading",
+      "text": "209",
+      "sourceLocation": "9/1033"
+    },
+    {
+      "id": "209:p1",
+      "kind": "body",
+      "text": "The stars are alive. From above they see you, the center of a conflagration. They see Emberhead spread out from the Beacon, its small plateau facing a dark sky. And they hear the villagers begin the same chant you have just completed.",
+      "sourceLocation": "9/1034"
+    },
+    {
+      "id": "209:p2",
+      "kind": "body",
+      "text": "Lose 1D3 Sanity. If this drops you to 0 Sanity, go to 220.",
+      "sourceLocation": "9/1035"
+    },
+    {
+      "id": "209:p3",
+      "kind": "body",
+      "text": "To command the stars to depart, go to 255.",
+      "sourceLocation": "9/1036"
+    },
+    {
+      "id": "209:p4",
+      "kind": "body",
+      "text": "To command the stars to free you, go to 243.",
+      "sourceLocation": "9/1037"
+    },
+    {
+      "id": "209:p5",
+      "kind": "body",
+      "text": "To command the stars to incinerate the villagers, go to 231.",
+      "sourceLocation": "9/1038"
+    }
+  ]
+}

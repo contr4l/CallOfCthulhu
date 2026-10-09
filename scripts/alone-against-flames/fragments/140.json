@@ -1,0 +1,30 @@
+{
+  "id": "140",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "140:p0",
+      "kind": "heading",
+      "text": "140",
+      "sourceLocation": "9/701"
+    },
+    {
+      "id": "140:p1",
+      "kind": "body",
+      "text": "Tucked between two books, you find a detailed map of the area around Emberhead (see page 27). It shows woodland, contours, and the two roads, east and west. Although no other settlements are marked, this may prove useful if you do decide to leave today.",
+      "sourceLocation": "9/702"
+    },
+    {
+      "id": "140:p2",
+      "kind": "body",
+      "text": "The clatter of activity around the Beacon seems to be building and you flinch at every conversation that gets too close to the building’s door. It feels the right time to retrace your steps, slipping away through the window.",
+      "sourceLocation": "9/703"
+    },
+    {
+      "id": "140:p3",
+      "kind": "body",
+      "text": "Go to 120.",
+      "sourceLocation": "9/704"
+    }
+  ]
+}

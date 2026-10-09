@@ -1,0 +1,30 @@
+{
+  "id": "163",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "163:p0",
+      "kind": "heading",
+      "text": "163",
+      "sourceLocation": "9/813"
+    },
+    {
+      "id": "163:p1",
+      "kind": "body",
+      "text": "You advance on one of the figures, calling out. It slips into the shadows. By the time you round the corner, it is nowhere to be seen. You turn to the other figure, feeling a simmering anger. As you approach, it also melts away. But behind you, in a dim yard, the first figure has reappeared.",
+      "sourceLocation": "9/814"
+    },
+    {
+      "id": "163:p2",
+      "kind": "body",
+      "text": "You could do this all night. The watchers know the village far better than you do. Perhaps it is enough to have shown them you will not be cowed. Frustrated, you head back to the Ledbetter house.",
+      "sourceLocation": "9/815"
+    },
+    {
+      "id": "163:p3",
+      "kind": "body",
+      "text": "Go to 157.",
+      "sourceLocation": "9/816"
+    }
+  ]
+}

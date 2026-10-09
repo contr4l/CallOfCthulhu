@@ -1,0 +1,54 @@
+{
+  "id": "164",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "164:p0",
+      "kind": "heading",
+      "text": "164",
+      "sourceLocation": "9/817"
+    },
+    {
+      "id": "164:p1",
+      "kind": "body",
+      "text": "These people know their village better than you. You pick the biggest gap between them and sprint into it. They give chase. You find yourself heading for the southern road. As you approach, you see four villagers stationed in the middle of the road; clearly guards. You veer off towards the half-ruined church, already breathing hard.",
+      "sourceLocation": "9/818"
+    },
+    {
+      "id": "164:p2",
+      "kind": "body",
+      "text": "You slip inside the building through a broken window and duck under the elderly boards which slash the interior, making for the door on the other side. The door is quite intact, moldy, and locked.",
+      "sourceLocation": "9/819"
+    },
+    {
+      "id": "164:p3",
+      "kind": "body",
+      "text": "Two of your pursuers climb into the church through the window. The other two enter by the main door.",
+      "sourceLocation": "9/820"
+    },
+    {
+      "id": "164:p4",
+      "kind": "body",
+      "text": "“Give it up.” One thumps his club into his palm. “It’ll go better for you if you don’t resist.” They close in.",
+      "sourceLocation": "9/821"
+    },
+    {
+      "id": "164:p5",
+      "kind": "body",
+      "text": "You are getting low on options.",
+      "sourceLocation": "9/822"
+    },
+    {
+      "id": "164:p6",
+      "kind": "body",
+      "text": "To give yourself up, go to 108.",
+      "sourceLocation": "9/823"
+    },
+    {
+      "id": "164:p7",
+      "kind": "body",
+      "text": "To try to collapse a section of roof on them, go to 176.",
+      "sourceLocation": "9/824"
+    }
+  ]
+}

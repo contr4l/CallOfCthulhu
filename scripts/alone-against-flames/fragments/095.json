@@ -1,0 +1,24 @@
+{
+  "id": "95",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "95:p0",
+      "kind": "heading",
+      "text": "95",
+      "sourceLocation": "9/500"
+    },
+    {
+      "id": "95:p1",
+      "kind": "body",
+      "text": "You notice scrapes on the floorboards corresponding to the legs of the bed. With effort, you slide the bed away. There is a rug spread beneath it, and beneath the rug, a trapdoor. You ease it open. The dark space beneath is some kind of cellar.",
+      "sourceLocation": "9/501"
+    },
+    {
+      "id": "95:p2",
+      "kind": "body",
+      "text": "To descend into the cellar, go to 114. If you would rather give this up, go to 120.",
+      "sourceLocation": "9/502"
+    }
+  ]
+}

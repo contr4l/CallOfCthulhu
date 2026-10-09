@@ -1,0 +1,210 @@
+{
+  "id": "last-train",
+  "version": "1.0.0",
+  "rulesVersion": "coc7-subset@1",
+  "title": "第零号站台",
+  "subtitle": "PLATFORM ZERO",
+  "description": "末班车驶向一个不存在的站台。窗玻璃里，你的倒影慢了半拍。",
+  "duration": "5–10 分钟",
+  "difficulty": "入门",
+  "cover": "/art/train.svg",
+  "accent": "amber",
+  "tags": [
+    "都市怪谈",
+    "悬疑",
+    "多结局"
+  ],
+  "entry": "train",
+  "presets": [
+    {
+      "id": "reporter",
+      "label": "记者",
+      "description": "追索被掩埋的真相。擅长侦查与说服。",
+      "occupation": "记者",
+      "skills": {
+        "spotHidden": 65,
+        "listen": 45,
+        "persuade": 60,
+        "stealth": 35
+      },
+      "hp": 12,
+      "sanity": 60
+    },
+    {
+      "id": "doctor",
+      "label": "医生",
+      "description": "冷静观察每一处异常。擅长聆听与急救。",
+      "occupation": "医生",
+      "skills": {
+        "spotHidden": 45,
+        "listen": 65,
+        "persuade": 35,
+        "stealth": 40,
+        "firstAid": 70
+      },
+      "hp": 13,
+      "sanity": 65
+    }
+  ],
+  "nodes": [
+    {
+      "id": "train",
+      "title": "没有终点的列车",
+      "text": [
+        "23:47。你登上了最后一班列车。窗外的车站没有名字，车厢内只有一位穿灰色外套的乘客。",
+        "他指了指你的座位：「上次你也是坐在那里。」"
+      ],
+      "type": "choice",
+      "chapter": "第一章 · 末班车",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "choices": [
+        {
+          "id": "talk",
+          "label": "与灰衣乘客交谈",
+          "target": "passenger"
+        },
+        {
+          "id": "listen",
+          "label": "聆听车厢连接处的声音",
+          "target": "listen"
+        }
+      ]
+    },
+    {
+      "id": "passenger",
+      "title": "他保留了你的车票",
+      "text": [
+        "乘客递来一张泛黄车票。上面的日期是明天，签名却是你的笔迹。「下一站，记得下车。」"
+      ],
+      "type": "narrative",
+      "chapter": "第一章 · 来信",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "station",
+      "memory": "灰衣乘客交给你一张日期为明天的旧车票。",
+      "enterEffects": [
+        {
+          "type": "flag",
+          "key": "ticket",
+          "value": true
+        },
+        {
+          "type": "item",
+          "key": "ticket",
+          "label": "明天的车票"
+        }
+      ]
+    },
+    {
+      "id": "listen",
+      "title": "车轮之间的低语",
+      "text": [
+        "铁轨的节奏里夹杂着一个声音，像是在重复某个站名。"
+      ],
+      "type": "check",
+      "chapter": "第一章 · 来信",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "check": {
+        "skill": "listen",
+        "label": "聆听",
+        "difficulty": "regular",
+        "success": "heard",
+        "failure": "station"
+      }
+    },
+    {
+      "id": "heard",
+      "title": "你的名字是一座车站",
+      "text": [
+        "你终于听清：车轮重复的是你的名字。你抄下声音之间的停顿，发现一段求救讯号。"
+      ],
+      "type": "narrative",
+      "chapter": "第一章 · 来信",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "next": "station",
+      "memory": "车轮重复你的名字；停顿之间藏着求救讯号。",
+      "enterEffects": [
+        {
+          "type": "flag",
+          "key": "heard",
+          "value": true
+        }
+      ]
+    },
+    {
+      "id": "station",
+      "title": "站台上没有影子",
+      "text": [
+        "列车停了下来。站台上站着另一个你。车门正在缓慢开启。"
+      ],
+      "type": "choice",
+      "chapter": "第二章 · 下一站",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "choices": [
+        {
+          "id": "step",
+          "label": "拿着车票走下列车",
+          "target": "home",
+          "condition": {
+            "flag": "ticket",
+            "equals": true
+          }
+        },
+        {
+          "id": "wait",
+          "label": "留在座位上，等待下一站",
+          "target": "loop"
+        },
+        {
+          "id": "help",
+          "label": "回应求救讯号",
+          "target": "rescue",
+          "condition": {
+            "flag": "heard",
+            "equals": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "title": "回程",
+      "text": [
+        "你走过那个没有影子的自己。背后，列车带着他远去。回到家后，你发现口袋里的车票上多了一行字：「已偿还」。"
+      ],
+      "type": "ending",
+      "chapter": "终章",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "ending": "归人"
+    },
+    {
+      "id": "loop",
+      "title": "23:47",
+      "text": [
+        "列车再次驶入无名车站。一位陌生人走进车厢。你指了指他的位置，不由自主地说：「上次你也是坐在那里。」"
+      ],
+      "type": "ending",
+      "chapter": "终章",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "ending": "下一位乘客"
+    },
+    {
+      "id": "rescue",
+      "title": "让车轮停下",
+      "text": [
+        "你按照讯号敲击车窗，列车骤然停住。乘客们从黑暗中醒来。天亮时，你们站在一座早已废弃的车站前，没有人记得自己上车的日期。"
+      ],
+      "type": "ending",
+      "chapter": "终章",
+      "background": "/art/train.svg",
+      "music": "/media/back-on-the-path.ogg",
+      "ending": "破晓"
+    }
+  ]
+}

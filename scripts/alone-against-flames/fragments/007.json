@@ -1,0 +1,30 @@
+{
+  "id": "7",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "7:p0",
+      "kind": "heading",
+      "text": "7",
+      "sourceLocation": "9/54"
+    },
+    {
+      "id": "7:p1",
+      "kind": "body",
+      "text": "As you approach the southern road that descends to the lower ridge, you see four villagers blocking the route, with farm tools and clubs. You veer off and head towards the west road. Your heart sinks as you see exactly the same scene at the other exit from the village. You are trapped.",
+      "sourceLocation": "9/55"
+    },
+    {
+      "id": "7:p2",
+      "kind": "body",
+      "text": "To try to talk your way past one of the guard groups, go to 119.",
+      "sourceLocation": "9/56"
+    },
+    {
+      "id": "7:p3",
+      "kind": "body",
+      "text": "To try to slip past in disguise, go to 125. Or … do you know another way to leave the village?",
+      "sourceLocation": "9/57"
+    }
+  ]
+}

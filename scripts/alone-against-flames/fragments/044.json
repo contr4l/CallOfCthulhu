@@ -1,0 +1,24 @@
+{
+  "id": "44",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "44:p0",
+      "kind": "heading",
+      "text": "44",
+      "sourceLocation": "9/244"
+    },
+    {
+      "id": "44:p1",
+      "kind": "body",
+      "text": "You’re tired, and your flesh ought to be insufficient against the dark iron of the chains. Yet you can feel them give a little. There is a weakness in one of the links.",
+      "sourceLocation": "9/245"
+    },
+    {
+      "id": "44:p2",
+      "kind": "body",
+      "text": "Make a Hard STR roll. If you succeed, go to 53. If you fail, go to 40.",
+      "sourceLocation": "9/246"
+    }
+  ]
+}

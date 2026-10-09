@@ -1,0 +1,48 @@
+{
+  "id": "144",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "144:p0",
+      "kind": "heading",
+      "text": "144",
+      "sourceLocation": "9/722"
+    },
+    {
+      "id": "144:p1",
+      "kind": "body",
+      "text": "The motor coach rattles on through the hills and Silas lapses into silence. The sky darkens behind you, pinks tinting the clouds as the sun descends. Finally a welcome sight comes into view: a settlement on the crest of a hill. This doesn’t look like the pictures you’ve seen of Ossipee. But perhaps you can persuade Silas to stop while you stretch your legs.",
+      "sourceLocation": "9/723"
+    },
+    {
+      "id": "144:p2",
+      "kind": "body",
+      "text": "Minutes later, a harsh stuttering from the engine interrupts your reverie. Silas frowns and rattles the gear stick. The motor coach falters in its ascent. Silas utters a curse you don’t recognize and grinds his teeth, struggling at the wheel. You seem to inch up the hill until you reach the first buildings, low dwellings constructed from a rough red stone. Silas wrestles the coach into a small bay off the road. He scrambles from his seat and makes for the engine compartment.",
+      "sourceLocation": "9/724"
+    },
+    {
+      "id": "144:p3",
+      "kind": "body",
+      "text": "You must now choose to make a roll against Drive Auto or Psychology. If you choose Drive Auto you need to roll equal to or less than the skill value. If you choose Psychology, you need a Hard success. This is a roll equal to or less than half of the skill value (the number in the upper right box). You may attempt only one skill roll.",
+      "sourceLocation": "9/725"
+    },
+    {
+      "id": "144:p4",
+      "kind": "body",
+      "text": "If you roll a success against Drive Auto, go to 174.",
+      "sourceLocation": "9/726"
+    },
+    {
+      "id": "144:p5",
+      "kind": "body",
+      "text": "If you roll a Hard success against Psychology, go to 162.",
+      "sourceLocation": "9/727"
+    },
+    {
+      "id": "144:p6",
+      "kind": "body",
+      "text": "If you fail your roll, go to 194.",
+      "sourceLocation": "9/728"
+    }
+  ]
+}

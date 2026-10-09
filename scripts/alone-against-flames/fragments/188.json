@@ -1,0 +1,24 @@
+{
+  "id": "188",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "188:p0",
+      "kind": "heading",
+      "text": "188",
+      "sourceLocation": "9/935"
+    },
+    {
+      "id": "188:p1",
+      "kind": "body",
+      "text": "A black shape lunges from the dark. It wraps an arm around Arbogast’s throat and drags him backwards, out of the alcove. He grabs at the arm, kicking empty air. You see the gleam of a long blade in the moonlight.",
+      "sourceLocation": "9/936"
+    },
+    {
+      "id": "188:p2",
+      "kind": "body",
+      "text": "Make a Dodge roll. If you succeed, go to 195. If you fail, go to 203.",
+      "sourceLocation": "9/937"
+    }
+  ]
+}

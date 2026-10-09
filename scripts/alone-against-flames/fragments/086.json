@@ -1,0 +1,36 @@
+{
+  "id": "86",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "86:p0",
+      "kind": "heading",
+      "text": "86",
+      "sourceLocation": "9/464"
+    },
+    {
+      "id": "86:p1",
+      "kind": "body",
+      "text": "An ink-black figure stands in the road, about twenty yards behind you. It stares at you. You form the sudden impression that it will run at you and throw you over the cliff edge. This is unsettling. ",
+      "sourceLocation": "9/465"
+    },
+    {
+      "id": "86:p2",
+      "kind": "body",
+      "text": "Seeing it has been spotted, the figure slips down an alley.",
+      "sourceLocation": "9/466"
+    },
+    {
+      "id": "86:p3",
+      "kind": "body",
+      "text": "To return to the safety of the Ledbetter house, go to 100.",
+      "sourceLocation": "9/467"
+    },
+    {
+      "id": "86:p4",
+      "kind": "body",
+      "text": "To confront the dark figure, go to 121.",
+      "sourceLocation": "9/468"
+    }
+  ]
+}

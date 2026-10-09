@@ -1,0 +1,42 @@
+{
+  "id": "182",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "182:p0",
+      "kind": "heading",
+      "text": "182",
+      "sourceLocation": "9/910"
+    },
+    {
+      "id": "182:p1",
+      "kind": "body",
+      "text": "Alarm flares in those eyes as you stand, and is quickly replaced by a fiery hatred. Arbogast leans close to your face.",
+      "sourceLocation": "9/911"
+    },
+    {
+      "id": "182:p2",
+      "kind": "body",
+      "text": "“Go then. And when the moment comes, remember I offered you the chance to touch eternity. I will not offer it again.”",
+      "sourceLocation": "9/912"
+    },
+    {
+      "id": "182:p3",
+      "kind": "body",
+      "text": "He stalks off in the direction of the east road.",
+      "sourceLocation": "9/913"
+    },
+    {
+      "id": "182:p4",
+      "kind": "body",
+      "text": "As you head back to the Ledbetter house, you think you hear a faint human cry, weak and desperate. But you cannot place its direction, and you can find nothing among the shadowed alleyways.",
+      "sourceLocation": "9/914"
+    },
+    {
+      "id": "182:p5",
+      "kind": "body",
+      "text": "Go to 157.",
+      "sourceLocation": "9/915"
+    }
+  ]
+}

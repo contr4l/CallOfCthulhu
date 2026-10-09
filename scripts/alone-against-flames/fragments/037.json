@@ -1,0 +1,42 @@
+{
+  "id": "37",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "37:p0",
+      "kind": "heading",
+      "text": "37",
+      "sourceLocation": "9/213"
+    },
+    {
+      "id": "37:p1",
+      "kind": "body",
+      "text": "The door scrapes behind you. A middle-aged, bespectacled gentleman appears in the doorway. “May I help you?”",
+      "sourceLocation": "9/214"
+    },
+    {
+      "id": "37:p2",
+      "kind": "body",
+      "text": "You explain you are visiting on May Ledbetter’s recommendation.",
+      "sourceLocation": "9/215"
+    },
+    {
+      "id": "37:p3",
+      "kind": "body",
+      "text": "“Ah. Well. I’m Clyde Winters. I’m not sure I can help you, but … would you care for some coffee? I’m partial to a cup in the afternoon.”",
+      "sourceLocation": "9/216"
+    },
+    {
+      "id": "37:p4",
+      "kind": "body",
+      "text": "He gestures to the open door behind him. This seems like a worthwhile opportunity, and you are a little thirsty.",
+      "sourceLocation": "9/217"
+    },
+    {
+      "id": "37:p5",
+      "kind": "body",
+      "text": "Go to 43.",
+      "sourceLocation": "9/218"
+    }
+  ]
+}

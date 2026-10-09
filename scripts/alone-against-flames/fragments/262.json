@@ -1,0 +1,66 @@
+{
+  "id": "262",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "262:p0",
+      "kind": "heading",
+      "text": "262",
+      "sourceLocation": "9/1298"
+    },
+    {
+      "id": "262:p1",
+      "kind": "body",
+      "text": "You struggle with the huge man. His fists come out of the darkness like hammers.",
+      "sourceLocation": "9/1299"
+    },
+    {
+      "id": "262:p2",
+      "kind": "body",
+      "text": "Conduct close-quarters combat using pages 12-13 of the Quick-Start Rules. You may need to refer to page 7 first to look up your damage bonus.",
+      "sourceLocation": "9/1300"
+    },
+    {
+      "id": "262:p3",
+      "kind": "body",
+      "text": "The combatant with the higher DEX acts first. You and the artisan will take one action each combat round. You may fight back (rolling your  Fighting (Brawl) or dodge (using Dodge) against each attack. Combat rolls are opposed rolls: whoever gets the best level of success wins.",
+      "sourceLocation": "9/1301"
+    },
+    {
+      "id": "262:p4",
+      "kind": "body",
+      "text": "The artisan has a DEX of 41 and a Fighting (Brawl) skill of 35% (17% half / 7% one-fifth). He has 12 hit points. He will attack you every combat round, and his successful hits do 1D3 + 1D4 damage. ",
+      "sourceLocation": "9/1302"
+    },
+    {
+      "id": "262:p5",
+      "kind": "body",
+      "text": "If you have a knife or similar weapon, each successful hit you make does 1D4 plus your damage bonus. If you are unarmed, the damage is 1D3 plus your damage bonus.",
+      "sourceLocation": "9/1303"
+    },
+    {
+      "id": "262:p6",
+      "kind": "body",
+      "text": "After three rounds, you may attempt to circle round behind the man and escape. This requires a Hard  roll, and if you do not achieve a success on the roll, he may land another blow.",
+      "sourceLocation": "9/1304"
+    },
+    {
+      "id": "262:p7",
+      "kind": "body",
+      "text": "If you reduce the man to 6 or fewer hit points, go to 268.",
+      "sourceLocation": "9/1305"
+    },
+    {
+      "id": "262:p8",
+      "kind": "body",
+      "text": "If you are reduced to 0 hit points, go to 2.",
+      "sourceLocation": "9/1306"
+    },
+    {
+      "id": "262:p9",
+      "kind": "body",
+      "text": "If you successfully escape, go to 12.",
+      "sourceLocation": "9/1307"
+    }
+  ]
+}

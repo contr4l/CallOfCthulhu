@@ -1,0 +1,24 @@
+{
+  "id": "129",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "129:p0",
+      "kind": "heading",
+      "text": "129",
+      "sourceLocation": "9/651"
+    },
+    {
+      "id": "129:p1",
+      "kind": "body",
+      "text": "Something seems to spook the bear. It turns and shambles into the forest, away from you, its rump swinging. You wait for five minutes, but the animal does not return. Still, it was a fascinating creature to observe for the brief moments you had.",
+      "sourceLocation": "9/652"
+    },
+    {
+      "id": "129:p2",
+      "kind": "body",
+      "text": "Go to 79.",
+      "sourceLocation": "9/653"
+    }
+  ]
+}

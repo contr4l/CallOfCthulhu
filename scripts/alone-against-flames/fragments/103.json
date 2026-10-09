@@ -1,0 +1,42 @@
+{
+  "id": "103",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "103:p0",
+      "kind": "heading",
+      "text": "103",
+      "sourceLocation": "9/537"
+    },
+    {
+      "id": "103:p1",
+      "kind": "body",
+      "text": "There is no guarantee that the track leads back to the road you are following. Better to stay on course, even if it takes longer. But you are uncomfortably aware of the sun setting behind you as you walk on.",
+      "sourceLocation": "9/538"
+    },
+    {
+      "id": "103:p2",
+      "kind": "body",
+      "text": "Fifteen minutes later, you are passing a natural clearing when you catch movement out of the corner of your eye. About thirty yards away, something large lingers at a trunk. It is about your height, and black with small, rounded ears. As you watch, it rears up on its hind legs. A bear! It seems most interested in the fruit hanging above it.",
+      "sourceLocation": "9/539"
+    },
+    {
+      "id": "103:p3",
+      "kind": "body",
+      "text": "If you want to get a closer look at the bear, go to 110.",
+      "sourceLocation": "9/540"
+    },
+    {
+      "id": "103:p4",
+      "kind": "body",
+      "text": "If you remain motionless, go to 116.",
+      "sourceLocation": "9/541"
+    },
+    {
+      "id": "103:p5",
+      "kind": "body",
+      "text": "If you make a deliberate, slow retreat, go to 122. ",
+      "sourceLocation": "9/542"
+    }
+  ]
+}

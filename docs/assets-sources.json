@@ -1,0 +1,38 @@
+{
+  "retrievedAt": "2026-10-08",
+  "reference": "https://epochweaver.com/r/bfb#/play",
+  "access": "public static assets; no authentication used",
+  "usage": "local development reference assets",
+  "assets": [
+    {
+      "file": "/media/card-back.webp",
+      "source": "https://epochweaver.com/images/ui/card_back.webp",
+      "sha256": "b58fa7f539812c2f17c905fd4b1c7050b3fec0e965b40651d654b27e59c34a0c",
+      "bytes": 304916
+    },
+    {
+      "file": "/media/roll.ogg",
+      "source": "https://epochweaver.com/audio/sfx/roll.ogg",
+      "sha256": "f5792b5cfaaeeb10146226274dc800cc4b7594b9cf4b9edda286291df5f794cf",
+      "bytes": 14314
+    },
+    {
+      "file": "/media/success.ogg",
+      "source": "https://epochweaver.com/audio/sfx/success.ogg",
+      "sha256": "d69415db7f044798a57153c172777abe58df802585cde47c11cc09a0a2609823",
+      "bytes": 7591
+    },
+    {
+      "file": "/media/fail.ogg",
+      "source": "https://epochweaver.com/audio/sfx/fail.ogg",
+      "sha256": "6119eb1bf798613cf97f9a6f068efab697cc74a5c2221728a6647a7d98882cd5",
+      "bytes": 7403
+    },
+    {
+      "file": "/media/back-on-the-path.ogg",
+      "source": "https://epochweaver.com/audio/bgm/back-on-the-path.ogg",
+      "sha256": "e70f715f4d3079a311410cbb9eb5bf190483804b7a793da1270dc13dc15116d0",
+      "bytes": 2001658
+    }
+  ]
+}

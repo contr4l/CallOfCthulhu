@@ -1,0 +1,48 @@
+{
+  "id": "62",
+  "document": "OEBPS/Print_Alone_Against_the_Flames.xhtml",
+  "paragraphs": [
+    {
+      "id": "62:p0",
+      "kind": "heading",
+      "text": "62",
+      "sourceLocation": "9/329"
+    },
+    {
+      "id": "62:p1",
+      "kind": "body",
+      "text": "You make a small but flattering remark about a couple of the volumes on his shelves. Winters blushes with pleasure.",
+      "sourceLocation": "9/330"
+    },
+    {
+      "id": "62:p2",
+      "kind": "body",
+      "text": "“Well, of course they’re not my personal collection. They belong to the village,” he says. “But I did select most of the recent items. This is the community’s library, you see. I put up the PRIVATE sign to stop people just wandering in from meetings in the other room. But this is really a public space.”",
+      "sourceLocation": "9/331"
+    },
+    {
+      "id": "62:p3",
+      "kind": "body",
+      "text": "You scan the shelves. There is a sparse but respectable collection on mathematics and the sciences, passable sections on history and arts, and a shelf of literature. He has a few lowbrow novels tucked away in a corner, with tatty copies of Bizarre Tales magazine.",
+      "sourceLocation": "9/332"
+    },
+    {
+      "id": "62:p4",
+      "kind": "body",
+      "text": "“Quality does not always equate to popularity, I’m afraid.” Winters gives you an apologetic smile.",
+      "sourceLocation": "9/333"
+    },
+    {
+      "id": "62:p5",
+      "kind": "body",
+      "text": "To take the time for some research in the library, go to 68.",
+      "sourceLocation": "9/334"
+    },
+    {
+      "id": "62:p6",
+      "kind": "body",
+      "text": "To leave while it is still light outside, go to 180.",
+      "sourceLocation": "9/335"
+    }
+  ]
+}
