@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { randomUUID } from "node:crypto";
 import { loadCharacterTemplates } from "../apps/api/src/modules/character-templates.js";
-import { buildApp } from "../apps/api/src/app.js";
+import { buildApp } from "./helpers/story-fixtures.js";
 const headers = { "x-requested-with": "cthulhu-web" };
 async function register(
   app: Awaited<ReturnType<typeof buildApp>>,
@@ -12,7 +12,11 @@ async function register(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { inviteCode: "fa6ian-test", username: name, password: "character-test-password" },
+    payload: {
+      inviteCode: "fa6ian-test",
+      username: name,
+      password: "character-test-password",
+    },
   });
   assert.equal(response.statusCode, 200, response.body);
   return response.cookies[0].value;
@@ -139,7 +143,7 @@ test("saved template character starts isolated runs without rerolling luck or al
     const actor = created.json(),
       luckDraws = draws;
     const payload = {
-      storyId: "black-tide",
+      storyId: "rules-fixture",
       characterId: actor.id,
       name: actor.character.name,
     };

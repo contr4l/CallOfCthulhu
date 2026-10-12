@@ -163,7 +163,9 @@ async function step(
   expect(r.status()).toBe(200);
   const body = (await r.json()) as CommandResponse;
   if (body.dice || body.check) {
-    await expect(page.locator(".narrative")).toHaveText(beforeText, { useInnerText: true });
+    await expect(page.locator(".narrative")).toHaveText(beforeText, {
+      useInnerText: true,
+    });
     await expect(page.locator(".choices button").first()).toBeDisabled();
     await expect(page.getByRole("button", { name: "关闭窗口" })).toHaveCount(0);
     await page.keyboard.press("Escape");
@@ -180,7 +182,9 @@ async function step(
     if (reloadDice) {
       await page.reload();
       await expect(page.getByRole("dialog")).toBeVisible();
-      await expect(page.locator(".narrative")).toHaveText(beforeText, { useInnerText: true });
+      await expect(page.locator(".narrative")).toHaveText(beforeText, {
+        useInnerText: true,
+      });
       expect(await read(page)).toEqual(body.scene);
     }
   }
@@ -198,7 +202,9 @@ async function step(
       page.getByRole("button", { name: "继续故事", exact: true }),
     ).toBeVisible();
     await expect(page.locator(".dice-scene canvas").first()).toBeVisible();
-    await expect(page.locator(".narrative")).toHaveText(beforeText, { useInnerText: true });
+    await expect(page.locator(".narrative")).toHaveText(beforeText, {
+      useInnerText: true,
+    });
     expect(await page.locator(".poly-die strong").allTextContents()).toEqual(
       body.dice.groups.flatMap((g) => g.results).map(String),
     );
@@ -217,7 +223,9 @@ async function step(
     const won = body.check.combat
       ? ["hit", "dodged"].includes(body.check.combat.result)
       : body.check.success;
-    await expect(page.locator(".narrative")).toHaveText(beforeText, { useInnerText: true });
+    await expect(page.locator(".narrative")).toHaveText(beforeText, {
+      useInnerText: true,
+    });
     await expect(page.locator(".dice-result h2")).toHaveCSS(
       "color",
       won ? "rgb(143, 211, 168)" : "rgb(240, 154, 159)",
@@ -253,6 +261,9 @@ async function step(
 test("dice reveal gates the next scene and survives reload for rule dice and checks", async ({
   page,
 }) => {
+  await page.addInitScript(() =>
+    Object.defineProperty(crypto, "randomUUID", { value: undefined }),
+  );
   let scene = await start(page),
     seenRule = false,
     seenCheck = false;

@@ -37,7 +37,10 @@ export async function createDiceScene(
       texture: "none",
       material: "plastic",
     },
-    baseScale: Math.min(88, host.clientWidth / (Math.sqrt(physicalCount) * 2.5)),
+    baseScale: Math.min(
+      88,
+      host.clientWidth / (Math.sqrt(physicalCount) * 2.5),
+    ),
     strength: 1.1,
     light_intensity: 0.95,
     // Bound both the preview simulation and the visible replay.
@@ -58,33 +61,36 @@ export async function createDiceScene(
       if (material.bumpMap) resources.add(material.bumpMap);
     }
   }
-  function render() {
-    for (const mesh of box.diceList) {
-      if (!mesh.body) continue;
-      mesh.position.copy(mesh.body.position);
-      mesh.quaternion.copy(mesh.body.quaternion);
-    }
-    box.renderer.render(box.scene, box.camera);
+  // Record the same preview the library uses to number the dice. Replay poses
+  // instead of integrating physics again, so FPS cannot change the landing.
+  type Pose = [number, number, number, number, number, number, number];
+  const trajectory: Pose[][] = [];
+  const simulate = box.simulateThrow.bind(box);
+  function capture() {
+    trajectory.push(
+      box.diceList.map((mesh) => {
+        if (!mesh.body) throw new Error("Dice body is unavailable");
+        const { position: p, quaternion: q } = mesh.body;
+        return [p.x, p.y, p.z, q.x, q.y, q.z, q.w];
+      }),
+    );
   }
-  function settle() {
-    const requested =
-      sides === 100
-        ? [
-            ...values.map(
-              (value) => Math.floor((value % 100) / 10) * 10 || 100,
-            ),
-            ...values.map((value) => value % 10 || 10),
-          ]
-        : values;
-    // Contact timing may differ between preview and replay. Reconcile the final
-    // face before revealing, using the library's own numbered-face remapping.
-    box.diceList.forEach((mesh, index) => {
-      collect(mesh);
-      mesh.storeRolledValue("landing");
-      box.swapDiceFace(mesh, requested[index]);
-      mesh.storeRolledValue("receipt");
-    });
-    render();
+  box.simulateThrow = () => {
+    trajectory.length = 0;
+    capture();
+    const step = box.world.step.bind(box.world);
+    box.world.step = (dt) => {
+      step(dt);
+      capture();
+    };
+    try {
+      simulate();
+    } finally {
+      box.world.step = step;
+    }
+  };
+  function render() {
+    box.renderer.render(box.scene, box.camera);
   }
   function dispose() {
     cancelAnimationFrame(frame);
@@ -119,38 +125,59 @@ export async function createDiceScene(
   };
   box.animateThrow = (_id, callback) => {
     if (signal.aborted) return;
+    if (!trajectory.length) throw new Error("Dice trajectory is unavailable");
+    // rollDice has already assigned the requested numbered faces before this
+    // point. Geometry and materials remain fixed throughout the visible roll.
     box.animstate = "throw";
-    if (!animate) {
-      box.simulateThrow();
-      settle();
+    const last = trajectory.length - 1;
+    const targets = box.diceList.map((mesh) => mesh.quaternion.clone());
+    function place(index: number) {
+      const before = Math.min(last, Math.floor(index));
+      const after = Math.min(last, before + 1);
+      const alpha = index - before;
+      box.diceList.forEach((mesh, i) => {
+        const a = trajectory[before][i],
+          b = trajectory[after][i];
+        mesh.position.set(
+          a[0] + (b[0] - a[0]) * alpha,
+          a[1] + (b[1] - a[1]) * alpha,
+          a[2] + (b[2] - a[2]) * alpha,
+        );
+        mesh.quaternion.set(a[3], a[4], a[5], a[6]);
+        targets[i].set(b[3], b[4], b[5], b[6]);
+        mesh.quaternion.slerp(targets[i], alpha);
+      });
+      render();
+    }
+    function finish() {
+      // The library reset the physics bodies for a replay. Restore the recorded
+      // final pose so its result reader agrees with the last visible frame.
+      box.diceList.forEach((mesh, i) => {
+        const pose = trajectory[last][i];
+        mesh.body!.position.set(pose[0], pose[1], pose[2]);
+        mesh.body!.quaternion.set(pose[3], pose[4], pose[5], pose[6]);
+        mesh.storeRolledValue("receipt");
+      });
       box.running = false;
       box.rolling = false;
       callback();
+    }
+    if (!animate) {
+      place(last);
+      finish();
       return;
     }
-    let previous = performance.now(),
-      accumulated = 0;
+    place(0);
+    const started = performance.now();
     const tick = (now: number) => {
       if (signal.aborted) return;
-      accumulated += Math.min((now - previous) / 1000, 0.05) * 1.8;
-      previous = now;
-      let finished = false;
-      while (accumulated >= box.framerate) {
-        box.world.step(box.framerate);
-        box.iteration++;
-        accumulated -= box.framerate;
-        if (box.throwFinished()) {
-          finished = true;
-          break;
-        }
-      }
-      render();
-      if (finished) {
-        settle();
-        box.running = false;
-        box.rolling = false;
-        callback();
-      } else frame = requestAnimationFrame(tick);
+      const index = Math.min(
+        last,
+        Math.max(0, (((now - started) / 1000) * 1.8) / box.framerate),
+      );
+      place(index);
+      if (index === last) finish();
+      else frame = requestAnimationFrame(tick);
     };
     frame = requestAnimationFrame(tick);
   };

@@ -20,6 +20,9 @@ test("physical dice tumble and land on saved D6 and percentile results", async (
 }, info) => {
   const errors: string[] = [];
   page.on("pageerror", (error) => errors.push(error.message));
+  await page.addInitScript(() =>
+    Object.defineProperty(crypto, "randomUUID", { value: undefined }),
+  );
   await openDice(page, info.project.name === "mobile");
   const tray = page.locator(".dice-workbench .dice-tray");
   for (const sides of [6, 100]) {
@@ -132,5 +135,131 @@ test("all standard polyhedra preserve their minimum and maximum faces", async ({
       ),
     ).toEqual([1, sides]);
     await page.unroute("**/api/dice/rolls");
+  }
+});
+
+test("numbered faces remain fixed through normal and slow-frame rolls", async ({
+  page,
+}, info) => {
+  test.setTimeout(60000);
+  let dependencyUrl = "";
+  page.on("response", (response) => {
+    if (
+      response.url().includes("/node_modules/") &&
+      response.url().includes("dice-box-threejs") &&
+      response.url().includes(".js") &&
+      response.ok()
+    )
+      dependencyUrl = response.url();
+  });
+  await openDice(page, info.project.name === "mobile");
+  const tray = page.locator(".dice-workbench .dice-tray");
+  await page.getByRole("button", { name: "掷骰子", exact: true }).click();
+  await expect(tray).toHaveAttribute("data-renderer", "ready", {
+    timeout: 15000,
+  });
+  expect(dependencyUrl).not.toBe("");
+  await page.evaluate(async (url) => {
+    const { default: Box } = await import(url);
+    type Mesh = {
+      uuid: string;
+      notation?: unknown;
+      geometry: { uuid: string; groups: { materialIndex: number }[] };
+      material: { uuid: string } | { uuid: string }[];
+    };
+    type Scene = { children: Mesh[] };
+    const audit = window as typeof window & {
+      faceChanges: string[];
+      facesObserved: number;
+    };
+    audit.faceChanges = [];
+    audit.facesObserved = 0;
+    const initialize = Box.prototype.initialize;
+    Box.prototype.initialize = async function (this: {
+      renderer: { render: (scene: Scene, camera: unknown) => void };
+    }) {
+      await initialize.call(this);
+      const signatures = new Map<string, string>();
+      const render = this.renderer.render.bind(this.renderer);
+      this.renderer.render = (scene, camera) => {
+        for (const mesh of scene.children) {
+          if (!mesh.notation) continue;
+          audit.facesObserved++;
+          const materials = Array.isArray(mesh.material)
+            ? mesh.material
+            : [mesh.material];
+          const signature = JSON.stringify([
+            mesh.geometry.uuid,
+            mesh.geometry.groups.map((group) => group.materialIndex),
+            materials.map((material) => material.uuid),
+          ]);
+          const previous = signatures.get(mesh.uuid);
+          if (previous && previous !== signature)
+            audit.faceChanges.push(mesh.uuid);
+          signatures.set(mesh.uuid, signature);
+        }
+        render(scene, camera);
+      };
+    };
+  }, dependencyUrl);
+  for (const slow of [false, true]) {
+    if (slow)
+      await page.evaluate(() => {
+        const raf = requestAnimationFrame.bind(window);
+        window.requestAnimationFrame = (callback) =>
+          raf(() => {
+            setTimeout(() => callback(performance.now()), 80);
+          });
+      });
+    for (const sides of [6, 100]) {
+      const values = sides === 6 ? [1, 6] : [100, 37];
+      await page.getByLabel("骰子面数").fill(String(sides));
+      await page.getByLabel("骰子颗数").fill("2");
+      await page.getByRole("button", { name: "设置骰子" }).click();
+      await page.route("**/api/dice/rolls", async (route) => {
+        const response = await route.fetch();
+        await route.fulfill({
+          json: {
+            ...(await response.json()),
+            results: values,
+            total: values.reduce((a, b) => a + b, 0),
+          },
+        });
+      });
+      await page.getByRole("button", { name: "掷骰子", exact: true }).click();
+      await expect(tray).toHaveAttribute("data-renderer", "ready", {
+        timeout: 15000,
+      });
+      expect(
+        await page.evaluate(
+          () =>
+            (
+              window as typeof window & {
+                faceChanges: string[];
+                facesObserved: number;
+              }
+            ).faceChanges,
+        ),
+      ).toEqual([]);
+      expect(
+        await page.evaluate(
+          () =>
+            (window as typeof window & { facesObserved: number }).facesObserved,
+        ),
+      ).toBeGreaterThan(0);
+      expect(
+        JSON.parse(
+          (await tray
+            .locator(".dice-scene")
+            .getAttribute("data-landed-faces"))!,
+        ),
+      ).toEqual(sides === 100 ? [100, 30, 10, 7] : values);
+      const finalFrame = await tray.locator("canvas").screenshot();
+      await page.waitForTimeout(200);
+      expect(finalFrame.equals(await tray.locator("canvas").screenshot())).toBe(
+        true,
+      );
+      await page.unroute("**/api/dice/rolls");
+    }
   }
 });

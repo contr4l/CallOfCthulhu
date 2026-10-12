@@ -1,3 +1,4 @@
+import { createUuid } from "../uuid";
 import { useEffect, useId, useRef, useState } from "react";
 import { Dices } from "lucide-react";
 import { api } from "../api";
@@ -163,8 +164,8 @@ export function DiceRoller({
     setError("");
     const id =
       receipt && purpose === "free"
-        ? crypto.randomUUID()
-        : pending || crypto.randomUUID();
+        ? createUuid()
+        : pending || createUuid();
     if (purpose === "free") setReceipt(null);
     sessionStorage.setItem(key, id);
     setPending(id);

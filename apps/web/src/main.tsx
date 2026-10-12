@@ -1,3 +1,4 @@
+import { createUuid } from "./uuid";
 import {
   AchievementLibrary,
   EndingAchievement,
@@ -458,7 +459,7 @@ function App() {
       body = saved
         ? JSON.parse(saved)
         : {
-            commandId: crypto.randomUUID(),
+            commandId: createUuid(),
             expectedRevision: s.revision,
             actionId,
             ...(input ? { input } : {}),

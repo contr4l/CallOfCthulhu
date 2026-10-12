@@ -332,21 +332,23 @@ export async function buildApp(
       db
         .prepare("SELECT * FROM runs WHERE user_id=? ORDER BY updated_at DESC")
         .all(owner.id) as unknown as RunRow[]
-    ).map((r) => {
-      const s = storyFor(r),
-        state = JSON.parse(r.state) as RunState;
-      return {
-        id: r.id,
-        storyId: s.id,
-        storyTitle: s.title,
-        cover: s.cover,
-        characterName: state.character.name,
-        status: state.status,
-        updatedAt: r.updated_at,
-        revision: r.revision,
-        chapter: getNode(s, state.nodeId).chapter,
-      };
-    });
+    )
+      .filter((r) => stories.has(`${r.story_id}@${r.story_version}`))
+      .map((r) => {
+        const s = storyFor(r),
+          state = JSON.parse(r.state) as RunState;
+        return {
+          id: r.id,
+          storyId: s.id,
+          storyTitle: s.title,
+          cover: s.cover,
+          characterName: state.character.name,
+          status: state.status,
+          updatedAt: r.updated_at,
+          revision: r.revision,
+          chapter: getNode(s, state.nodeId).chapter,
+        };
+      });
   });
   app.post("/api/runs", async (request, reply) => {
     const owner = user(request),

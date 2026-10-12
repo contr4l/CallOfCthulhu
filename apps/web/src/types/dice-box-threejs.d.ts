@@ -6,13 +6,31 @@ declare module "@3d-dice/dice-box-threejs" {
     map?: Disposable;
     bumpMap?: Disposable;
   }
+  interface Vector {
+    x: number;
+    y: number;
+    z: number;
+    set(x: number, y: number, z: number): void;
+  }
+  interface Quaternion {
+    x: number;
+    y: number;
+    z: number;
+    w: number;
+    set(x: number, y: number, z: number, w: number): void;
+    clone(): Quaternion;
+    slerp(target: Quaternion, alpha: number): void;
+  }
   interface Mesh {
     storeRolledValue(reason: string): void;
     geometry?: Disposable;
     material?: Material | Material[];
-    body?: { position: unknown; quaternion: unknown };
-    position: { copy(value: unknown): void };
-    quaternion: { copy(value: unknown): void };
+    body?: {
+      position: Vector;
+      quaternion: Pick<Quaternion, "x" | "y" | "z" | "w" | "set">;
+    };
+    position: Vector;
+    quaternion: Quaternion;
   }
   export default class DiceBox {
     constructor(selector: string, options: Record<string, unknown>);

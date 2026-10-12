@@ -5,7 +5,7 @@ import { mkdtempSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { DatabaseSync } from "node:sqlite";
-import { buildApp } from "../apps/api/src/app.js";
+import { buildApp } from "./helpers/story-fixtures.js";
 import type {
   SceneView,
   CommandResponse,
@@ -16,7 +16,7 @@ import {
 } from "../packages/contracts/achievements.js";
 import { readAchievements } from "../apps/api/src/modules/achievements.js";
 import { openDatabase } from "../apps/api/src/storage/database.js";
-import { loadStories } from "../apps/api/src/catalog.js";
+import { loadStories } from "./helpers/story-fixtures.js";
 
 const headers = { "x-requested-with": "cthulhu-web" };
 test("distinct endings unlock once per account, survive retries and restart, and recover old saves without spoilers", async () => {
@@ -59,8 +59,8 @@ test("distinct endings unlock once per account, survive retries and restart, and
       16,
     );
     assert.ok(initial.every((entry) => !entry.unlockedAt && !entry.runId));
-    assert.ok(!JSON.stringify(initial).includes("归人"));
-    assert.ok(!JSON.stringify(initial).includes("下一位乘客"));
+    assert.ok(!JSON.stringify(initial).includes("测试结局：home"));
+    assert.ok(!JSON.stringify(initial).includes("测试结局：loop"));
     let firstRun: string | undefined;
     for (const ending of ["step", "step", "wait"]) {
       const roll = await app.inject({
@@ -76,7 +76,7 @@ test("distinct endings unlock once per account, survive retries and restart, and
         headers,
         cookies,
         payload: {
-          storyId: "last-train",
+          storyId: "collection-fixture",
           presetId: "reporter",
           name: "成就旅人",
           luckRollId: roll.json().id,
@@ -110,14 +110,14 @@ test("distinct endings unlock once per account, survive retries and restart, and
     assert.equal(unlocked.length, 2);
     assert.deepEqual(
       unlocked.map((entry) => entry.title).sort(),
-      ["归人", "下一位乘客"].sort(),
+      ["测试结局：home", "测试结局：loop"].sort(),
     );
     const home = unlocked.find(
-      (entry) => entry.id === endingAchievementId("last-train", "home"),
+      (entry) => entry.id === endingAchievementId("collection-fixture", "home"),
     )!;
     assert.equal(home.runId, firstRun);
     assert.ok(home.unlockedAt);
-    assert.ok(!JSON.stringify(await read()).includes("破晓"));
+    assert.ok(!JSON.stringify(await read()).includes("测试结局：rescue"));
     assert.ok((await read(foreign)).every((entry) => !entry.unlockedAt));
     const beforeRestart = await read();
     await app.close();
@@ -149,11 +149,11 @@ test("distinct endings unlock once per account, survive retries and restart, and
 test("ending identity is shared across content versions and an active or foreign history cannot unlock it", () => {
   const db = openDatabase(":memory:");
   try {
-    const story = loadStories("stories").get("last-train@1.0.0")!;
+    const story = loadStories("stories").get("collection-fixture@1.0.0")!;
     const newer = { ...story, version: "1.1.0" };
     const stories = new Map([
-      ["last-train@1.0.0", story],
-      ["last-train@1.1.0", newer],
+      ["collection-fixture@1.0.0", story],
+      ["collection-fixture@1.1.0", newer],
     ]);
     db.prepare("INSERT INTO users VALUES(?,?,?)").run(
       "player",
@@ -197,7 +197,7 @@ test("ending identity is shared across content versions and an active or foreign
     assert.equal(result.filter((entry) => entry.unlockedAt).length, 1);
     assert.equal(result[0].unlockedAt, "2026-01-01T00:00:00Z");
     assert.equal(result[0].runId, "old");
-    stories.set("last-train@1.1.0", {
+    stories.set("collection-fixture@1.1.0", {
       ...newer,
       nodes: newer.nodes.filter((node) => node.id !== "loop"),
     });
@@ -226,7 +226,7 @@ test("ending identity is shared across content versions and an active or foreign
     assert.equal(preserved.length, 3);
     assert.equal(
       preserved.find((entry) => entry.endingId === "loop")!.title,
-      "下一位乘客",
+      "测试结局：loop",
     );
     assert.ok(preserved.find((entry) => entry.endingId === "loop")!.unlockedAt);
   } finally {

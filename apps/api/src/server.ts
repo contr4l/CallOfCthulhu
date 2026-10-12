@@ -4,7 +4,11 @@ import { buildApp, projectRoot } from "./app.js";
 const path =
   process.env.DATABASE_PATH ?? resolve(projectRoot, "data/game.sqlite");
 mkdirSync(dirname(path), { recursive: true });
-const app = await buildApp({ databasePath: path, serveStatic: true });
+const app = await buildApp({
+  databasePath: path,
+  storyRoot: process.env.STORY_ROOT,
+  serveStatic: true,
+});
 await app.listen({
   port: Number(process.env.PORT ?? 3001),
   host: process.env.HOST ?? "127.0.0.1",

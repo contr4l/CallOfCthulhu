@@ -5,7 +5,7 @@ import { mkdtempSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { DatabaseSync } from "node:sqlite";
-import { buildApp } from "../apps/api/src/app.js";
+import { buildApp } from "./helpers/story-fixtures.js";
 const headers = { "x-requested-with": "cthulhu-web" };
 async function account(
   app: Awaited<ReturnType<typeof buildApp>>,
@@ -15,7 +15,11 @@ async function account(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { inviteCode: "fa6ian-test", username, password: "collection-testing-password" },
+    payload: {
+      inviteCode: "fa6ian-test",
+      username,
+      password: "collection-testing-password",
+    },
   });
   assert.equal(r.statusCode, 200, r.body);
   return { session: r.cookies[0].value };
@@ -23,7 +27,7 @@ async function account(
 async function create(
   app: Awaited<ReturnType<typeof buildApp>>,
   cookies: { session: string },
-  storyId = "last-train",
+  storyId = "collection-fixture",
   presetId = "reporter",
 ) {
   const roll = await app.inject({
@@ -86,24 +90,24 @@ test("collections deduplicate across runs, hide locked text, enforce ownership a
       for (const a of ["talk", "continue", "step"])
         s = await action(app, cookies, s, a);
       latest = s;
-      assert.equal(s.ending, "归人");
+      assert.equal(s.ending, "测试结局：home");
     }
     const read = async () =>
       (await app.inject({ url: "/api/collections", cookies })).json();
     const before = await read(),
-      story = before.find((x: any) => x.storyId === "last-train");
+      story = before.find((x: any) => x.storyId === "collection-fixture");
     assert.equal(story.chapters.total, 8);
     assert.equal(story.chapters.entries.length, 4);
     assert.equal(story.endings.total, 3);
     assert.equal(story.endings.entries.length, 1);
     assert.equal(story.endings.entries[0].visits, 2);
-    assert.ok(!JSON.stringify(before).includes("下一位乘客"));
-    assert.ok(!JSON.stringify(before).includes("破晓"));
+    assert.ok(!JSON.stringify(before).includes("测试结局：loop"));
+    assert.ok(!JSON.stringify(before).includes("测试结局：rescue"));
     const q =
-      "/api/collections/entry?storyId=last-train&version=1.0.0&kind=endings&id=home";
+      "/api/collections/entry?storyId=collection-fixture&version=1.0.0&kind=endings&id=home";
     const detail = await app.inject({ url: q, cookies });
     assert.equal(detail.statusCode, 200);
-    assert.equal(detail.json().scene.ending, "归人");
+    assert.equal(detail.json().scene.ending, "测试结局：home");
     assert.equal(
       (await app.inject({ url: q, cookies: foreign })).statusCode,
       404,

@@ -4,7 +4,7 @@ import { randomUUID } from "node:crypto";
 import { mkdtempSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
-import { buildApp } from "../apps/api/src/app.js";
+import { buildApp } from "./helpers/story-fixtures.js";
 const headers = { "x-requested-with": "cthulhu-web" };
 async function register(
   app: Awaited<ReturnType<typeof buildApp>>,
@@ -14,7 +14,11 @@ async function register(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { inviteCode: "fa6ian-test", username, password: "dice-test-password" },
+    payload: {
+      inviteCode: "fa6ian-test",
+      username,
+      password: "dice-test-password",
+    },
   });
   assert.equal(r.statusCode, 200, r.body);
   return r.cookies[0].value;
@@ -129,7 +133,11 @@ test("creation requires a player luck receipt, forbids forged or foreign rolls, 
         payload,
       });
     const template = { templateId: "static-charlie", name: "玩家查理" },
-      run = { storyId: "black-tide", presetId: "reporter", name: "玩家记者" };
+      run = {
+        storyId: "rules-fixture",
+        presetId: "reporter",
+        name: "玩家记者",
+      };
     assert.equal((await post("/api/characters", template)).statusCode, 400);
     assert.equal((await post("/api/runs", run)).statusCode, 400);
     assert.equal(draws, 0);
@@ -245,7 +253,7 @@ test("version 1 migration preserves saved characters and runs while adding playe
     ).json();
     const run = (
       await post("/api/runs", {
-        storyId: "black-tide",
+        storyId: "rules-fixture",
         presetId: "reporter",
         name: "旧档案",
         luckRollId: roll.id,

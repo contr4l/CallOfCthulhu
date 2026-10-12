@@ -1,0 +1,71 @@
+name: Validate and deploy
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      deploy:
+        description: Deploy after validation
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: npm test
+      - run: npm run story:validate
+      - run: npm run chars:validate
+      - name: Deployment script syntax
+        run: bash -n tools/deploy.sh
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium --only-shell
+      - name: Desktop and mobile adventure checks
+        run: >-
+          npx playwright test
+          tests/browser/flames.full.spec.ts
+          tests/browser/dice-3d.spec.ts
+          tests/browser/invitation.spec.ts
+          --workers=1
+
+  deploy:
+    needs: validate
+    if: >-
+      github.repository == 'contr4l/CallOfCthulhu' &&
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'push' ||
+       (github.event_name == 'workflow_dispatch' && inputs.deploy))
+    runs-on: [self-hosted, Linux, ARM64, coc-deploy]
+    environment: radxa
+    timeout-minutes: 20
+    concurrency:
+      group: coc-radxa-deployment
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Deploy the validated revision
+        env:
+          SOURCE_REVISION: ${{ github.sha }}
+          DEPLOY_ROOT: ${{ vars.COC_DEPLOY_ROOT }}
+          NODE_BIN: ${{ vars.COC_NODE_BIN }}
+          SERVICE_NAME: coc-game
+          XDG_RUNTIME_DIR: /run/user/1000
+          DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+        run: bash tools/deploy.sh

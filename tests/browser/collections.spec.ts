@@ -1,3 +1,4 @@
+import { createFixtureRun } from "./helpers/fixture-run.js";
 import { test, expect, type Page } from "@playwright/test";
 async function register(page: Page) {
   await page.goto("/");
@@ -21,28 +22,25 @@ test("ending and chapter collections open saved text without revealing locked ou
   page,
 }, info) => {
   await register(page);
-  await page.getByRole("button", { name: "开始第零号站台" }).click();
-  await page.getByLabel("调查员姓名").fill("收藏旅人");
-  await page.getByRole("button", { name: "掷幸运骰", exact: true }).click();
-  await page.getByRole("button", { name: "确认角色，开始调查" }).click();
+  await createFixtureRun(page, "collection-fixture", "收藏旅人");
   await page.getByRole("button", { name: /与灰衣乘客交谈/ }).click();
   await page.getByRole("button", { name: /继续调查/ }).click();
   await page.getByRole("button", { name: /拿着车票走下列车/ }).click();
   await expect(
-    page.getByRole("heading", { name: "归人", exact: true }),
+    page.getByRole("heading", { name: "测试结局：home", exact: true }),
   ).toBeVisible();
   const id = new URL(page.url()).hash.split("/").at(-1),
     before = await (await page.request.get(`/api/runs/${id}`)).json();
   await nav(page, info.project.name === "mobile", "回忆档案");
   const story = page.locator(".collection-story").filter({
-    has: page.getByRole("heading", { name: "第零号站台", exact: true }),
+    has: page.getByRole("heading", { name: "收藏流程测试", exact: true }),
   });
   await expect(story).toContainText("1 / 3");
   await expect(story).toContainText("尚有 2 份未知结局");
-  await expect(story).not.toContainText("下一位乘客");
-  await story.getByRole("button", { name: /归人/ }).click();
+  await expect(story).not.toContainText("测试结局：loop");
+  await story.getByRole("button", { name: /测试结局：home/ }).click();
   await expect(
-    page.getByRole("dialog", { name: "归人", exact: true }),
+    page.getByRole("dialog", { name: "测试结局：home", exact: true }),
   ).toContainText(before.text[0]);
   await page.getByRole("button", { name: "关闭窗口" }).click();
   await page.getByRole("button", { name: "章节收集", exact: true }).click();
@@ -58,7 +56,7 @@ test("ending and chapter collections open saved text without revealing locked ou
     ),
   ).toBeTruthy();
   await page.screenshot({
-    path: `docs/screenshots/collections-${info.project.name}.png`,
+    path: info.outputPath("collections.png"),
     fullPage: true,
   });
 });
@@ -99,7 +97,7 @@ test("character sheet saves background, displays difficulty values and exports",
     ),
   ).toBeTruthy();
   await page.screenshot({
-    path: `docs/screenshots/character-sheet-${info.project.name}.png`,
+    path: info.outputPath("character-sheet.png"),
     fullPage: true,
   });
 });

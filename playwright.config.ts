@@ -2,6 +2,7 @@ import { defineConfig } from "@playwright/test";
 import { randomUUID } from "node:crypto";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
+import { testStoryRoot } from "./tests/helpers/story-fixtures.js";
 export default defineConfig({
   testDir: "./tests/browser",
   timeout: 30_000,
@@ -21,6 +22,7 @@ export default defineConfig({
       WEB_PORT: "15175",
       APP_ORIGINS: "http://127.0.0.1:15175",
       DATABASE_PATH: join(tmpdir(), `coc-browser-${randomUUID()}.sqlite`),
+      STORY_ROOT: testStoryRoot(),
     },
     timeout: 60_000,
   },

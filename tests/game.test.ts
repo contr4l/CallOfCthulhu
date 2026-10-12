@@ -4,8 +4,9 @@ import { randomUUID } from "node:crypto";
 import { mkdtempSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
-import { buildApp } from "../apps/api/src/app.js";
-import { loadStories, validateStory } from "../apps/api/src/catalog.js";
+import { buildApp } from "./helpers/story-fixtures.js";
+import { loadStories } from "./helpers/story-fixtures.js";
+import { validateStory } from "../apps/api/src/catalog.js";
 import { createCharacter, resolveCheck } from "../packages/rules/index.js";
 import { initialState, advance } from "../packages/engine/index.js";
 const headers = { "x-requested-with": "cthulhu-web" };
@@ -17,7 +18,11 @@ test("login rotates sessions, invalid credentials reject, logout revokes access"
       method: "POST",
       url: "/api/auth/register",
       headers,
-      payload: { inviteCode: "fa6ian-test", username: "调查员", password: "test-password-123" },
+      payload: {
+        inviteCode: "fa6ian-test",
+        username: "调查员",
+        password: "test-password-123",
+      },
     });
     assert.equal(duplicate.statusCode, 409);
     const invalid = await app.inject({
@@ -118,7 +123,11 @@ async function register(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { inviteCode: "fa6ian-test", username, password: "test-password-123" },
+    payload: {
+      inviteCode: "fa6ian-test",
+      username,
+      password: "test-password-123",
+    },
   });
   assert.equal(r.statusCode, 200, r.body);
   return r.cookies[0].value;
@@ -126,7 +135,7 @@ async function register(
 async function start(
   app: Awaited<ReturnType<typeof buildApp>>,
   token: string,
-  storyId = "black-tide",
+  storyId = "rules-fixture",
 ) {
   const rolled = await app.inject({
     method: "POST",
@@ -217,7 +226,7 @@ test("difficulty and fumble boundaries, bonus dice including 00", () => {
   );
 });
 test("state mutation is isolated and gated choices cannot be forged", () => {
-  const s = loadStories("stories").get("black-tide@1.0.0")!;
+  const s = loadStories("stories").get("rules-fixture@1.0.0")!;
   const c = createCharacter("林雾", s.presets[0], 45),
     state = initialState(s, c);
   const next = advance(s, state, "fisher", () => 0);
@@ -300,7 +309,7 @@ test("authentication, ownership, secret filtering and strict input", async () =>
           headers,
           cookies: { session: token },
           payload: {
-            storyId: "black-tide",
+            storyId: "rules-fixture",
             presetId: "reporter",
             name: "林雾",
             skills: { spotHidden: 75, listen: 75, persuade: 75, stealth: 75 },
@@ -426,7 +435,7 @@ test("failed commands leave state unchanged; ended runs reject all commands", as
   const app = await buildApp();
   try {
     const token = await register(app),
-      s = await start(app, token, "last-train");
+      s = await start(app, token, "collection-fixture");
     assert.equal((await send(app, token, s.runId, 0, "home")).statusCode, 400);
     assert.equal(
       (
@@ -458,13 +467,13 @@ test("failed commands leave state unchanged; ended runs reject all commands", as
     await app.close();
   }
 });
-test("all demo endings are reachable, each path appends history and preserves run isolation", async () => {
+test("all fixture endings are reachable, each path appends history and preserves run isolation", async () => {
   const app = await buildApp({ dice: () => 1 });
   try {
     const token = await register(app);
     const paths = [
       [
-        "black-tide",
+        "rules-fixture",
         [
           "fisher",
           "continue",
@@ -474,21 +483,25 @@ test("all demo endings are reachable, each path appends history and preserves ru
           "continue",
           "ignite",
         ],
-        "守望者",
+        "测试结局：light",
       ],
       [
-        "black-tide",
+        "rules-fixture",
         ["stairs", "roll", "continue", "open", "continue", "flare"],
-        "未寄出的信",
+        "测试结局：signal",
       ],
       [
-        "black-tide",
+        "rules-fixture",
         ["stairs", "roll", "continue", "open", "continue", "leave"],
-        "漫长的午夜",
+        "测试结局：escape",
       ],
-      ["last-train", ["talk", "continue", "step"], "归人"],
-      ["last-train", ["talk", "continue", "wait"], "下一位乘客"],
-      ["last-train", ["listen", "roll", "continue", "help"], "破晓"],
+      ["collection-fixture", ["talk", "continue", "step"], "测试结局：home"],
+      ["collection-fixture", ["talk", "continue", "wait"], "测试结局：loop"],
+      [
+        "collection-fixture",
+        ["listen", "roll", "continue", "help"],
+        "测试结局：rescue",
+      ],
     ] as const;
     for (const [story, path, ending] of paths) {
       const s = await start(app, token, story);

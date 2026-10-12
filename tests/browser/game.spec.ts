@@ -1,3 +1,4 @@
+import { createFixtureRun } from "./helpers/fixture-run.js";
 import { test, expect } from "@playwright/test";
 test("create official template character and select it for a run without rerolling", async ({
   page,
@@ -37,11 +38,9 @@ test("create official template character and select it for a run without rerolli
   if (testInfo.project.name === "mobile")
     await page.getByRole("button", { name: "打开导航" }).click();
   await page.getByRole("button", { name: "剧本馆", exact: true }).click();
-  await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
-  await page.getByRole("button", { name: "已有调查员", exact: true }).click();
-  await page.getByRole("button", { name: "确认角色，开始调查" }).click();
+  await createFixtureRun(page, "rules-fixture", "模板访客", actor.id);
   await expect(
-    page.getByRole("heading", { name: "灯塔不再亮起" }),
+    page.getByRole("heading", { name: "测试节点 · arrival" }),
   ).toBeVisible();
   const id = new URL(page.url()).hash.split("/").at(-1);
   const scene = await (await page.request.get(`/api/runs/${id}`)).json();
@@ -68,10 +67,7 @@ test("lost dice response survives reload and retries without reroll", async ({
   await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
-  await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
-  await page.getByLabel("调查员姓名").fill("失联调查员");
-  await page.getByRole("button", { name: "掷幸运骰", exact: true }).click();
-  await page.getByRole("button", { name: "确认角色，开始调查" }).click();
+  await createFixtureRun(page, "rules-fixture", "失联调查员");
   await page.getByRole("button", { name: /沿石阶前往灯塔/ }).click();
   const id = new URL(page.url()).hash.split("/").at(-1);
   await page.route("**/api/runs/*/commands", async (route) => {
@@ -118,34 +114,33 @@ test("create investigator, complete a run, refresh, read and replay without chan
   await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
-  await page.getByRole("button", { name: "开始第零号站台" }).click();
-  await page.getByLabel("调查员姓名").fill("夜行者");
-  await page.getByRole("button", { name: "掷幸运骰", exact: true }).click();
-  await page.getByRole("button", { name: "确认角色，开始调查" }).click();
+  await createFixtureRun(page, "collection-fixture", "夜行者");
   await expect(
-    page.getByRole("heading", { name: "没有终点的列车" }),
+    page.getByRole("heading", { name: "测试节点 · train" }),
   ).toBeVisible();
   await page.getByRole("button", { name: /与灰衣乘客交谈/ }).click();
   await expect(
-    page.getByRole("heading", { name: "他保留了你的车票" }),
+    page.getByRole("heading", { name: "测试节点 · passenger" }),
   ).toBeVisible();
   await page.reload();
   await expect(
-    page.getByRole("heading", { name: "他保留了你的车票" }),
+    page.getByRole("heading", { name: "测试节点 · passenger" }),
   ).toBeVisible();
   await page.getByRole("button", { name: /继续调查/ }).click();
   await page.getByRole("button", { name: /拿着车票走下列车/ }).click();
-  await expect(page.getByRole("heading", { name: "归人" })).toBeVisible();
+  await expect(
+    page.getByRole("heading", { name: "测试结局：home" }),
+  ).toBeVisible();
   const hash = new URL(page.url()).hash;
   const id = hash.split("/").at(-1);
   const before = await page.request.get(`/api/runs/${id}`);
   const current = await before.json();
   await page.getByRole("button", { name: /回忆这一局/ }).click();
-  await expect(page.getByRole("dialog")).toContainText("明天的旧车票");
+  await expect(page.getByRole("dialog")).toContainText("测试记录：passenger。");
   await page.getByRole("button", { name: "关闭窗口" }).click();
   await page.getByRole("button", { name: "剧情线回放" }).click();
   await page.getByRole("button", { name: "下一段" }).click();
-  await expect(page.getByRole("dialog")).toContainText("他保留了你的车票");
+  await expect(page.getByRole("dialog")).toContainText("测试节点 · passenger");
   await page.getByRole("button", { name: "关闭窗口" }).click();
   expect(await (await page.request.get(`/api/runs/${id}`)).json()).toEqual(
     current,
@@ -170,10 +165,7 @@ test("dice result remains saved after reload and animation skip", async ({
   await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
-  await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
-  await page.getByLabel("调查员姓名").fill("雾中人");
-  await page.getByRole("button", { name: "掷幸运骰", exact: true }).click();
-  await page.getByRole("button", { name: "确认角色，开始调查" }).click();
+  await createFixtureRun(page, "rules-fixture", "雾中人");
   await page.getByRole("button", { name: /沿石阶前往灯塔/ }).click();
   await page.getByRole("button", { name: /进行侦查检定/ }).click();
   await expect(
@@ -240,9 +232,12 @@ test("player creates luck explicitly, recovers lost result, and rolls nonstandar
     saved = await response.json();
     await route.abort("failed");
   });
-  await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
+  if (testInfo.project.name === "mobile")
+    await page.getByRole("button", { name: "打开导航" }).click();
+  await page.getByRole("button", { name: "调查员", exact: true }).click();
+  await page.getByRole("button", { name: "基于亚历克斯创建" }).click();
   await page.getByLabel("调查员姓名").fill("自己掷骰");
-  const confirm = page.getByRole("button", { name: "确认角色，开始调查" });
+  const confirm = page.getByRole("button", { name: "创建调查员", exact: true });
   await expect(confirm).toBeDisabled();
   expect(requests).toBe(0);
   await page.getByRole("button", { name: "掷幸运骰", exact: true }).click();
@@ -252,19 +247,22 @@ test("player creates luck explicitly, recovers lost result, and rolls nonstandar
   expect(requests).toBe(1);
   await page.unroute("**/api/dice/rolls");
   await page.reload();
-  await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
+  await page.getByRole("button", { name: "基于亚历克斯创建" }).click();
   await page.getByLabel("调查员姓名").fill("自己掷骰");
-  await expect(page.locator(".roll-equation")).toContainText(
-    `幸运 ${saved!.total} × 5 = ${saved!.total * 5}`,
-  );
-  expect(await page.locator(".poly-die strong").allTextContents()).toEqual(
-    saved!.results.map(String),
-  );
+  await expect(
+    page.getByRole("dialog").locator(".roll-equation"),
+  ).toContainText(`幸运 ${saved!.total} × 5 = ${saved!.total * 5}`);
+  expect(
+    await page
+      .getByRole("dialog")
+      .locator(".poly-die strong")
+      .allTextContents(),
+  ).toEqual(saved!.results.map(String));
   await expect(confirm).toBeEnabled();
   await confirm.click();
-  await expect(
-    page.getByRole("heading", { name: "灯塔不再亮起" }),
-  ).toBeVisible();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+  const actors = await (await page.request.get("/api/characters")).json();
+  await createFixtureRun(page, "rules-fixture", "自己掷骰", actors[0].id);
   const id = new URL(page.url()).hash.split("/").at(-1);
   const scene = await (await page.request.get(`/api/runs/${id}`)).json();
   expect(scene.character.luck).toBe(saved!.total * 5);
@@ -300,7 +298,7 @@ test("player creates luck explicitly, recovers lost result, and rolls nonstandar
     ),
   ).toBeTruthy();
   await page.screenshot({
-    path: `docs/screenshots/dice-${testInfo.project.name}.png`,
+    path: testInfo.outputPath("dice.png"),
     fullPage: true,
   });
 });
