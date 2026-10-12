@@ -1,11 +1,13 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import type { SceneInput } from "../../../../packages/contracts/program";
 export function SceneInputForm({
   input,
+  draftKey,
   busy,
   onSubmit,
 }: {
   input: SceneInput;
+  draftKey?: string;
   busy: boolean;
   onSubmit: (action: string, input: Record<string, number | string>) => void;
 }) {
@@ -33,11 +35,61 @@ export function SceneInputForm({
               .map((s) => s.key),
           ]
         : allowed.slice(0, 4).map((s) => s.key);
-  const [keys, setKeys] = useState(initialKeys);
+  let draft: {
+    keys?: string[];
+    values?: number[];
+    amount?: number;
+    specialties?: Record<string, string>;
+  } = {};
+  try {
+    draft = JSON.parse(sessionStorage.getItem(draftKey ?? "") ?? "{}");
+    if (!draft || typeof draft !== "object") draft = {};
+  } catch {
+    /* Ignore an invalid local draft. */
+  }
+  const validDraftKeys =
+    Array.isArray(draft.keys) &&
+    draft.keys.length === initialKeys.length &&
+    draft.keys.every((k) => allowed.some((s) => s.key === k));
+  const [keys, setKeys] = useState(validDraftKeys ? draft.keys! : initialKeys);
   const [values, setValues] = useState(
-    a?.values ?? (a?.kind === "interests" ? [20, 20, 20, 20] : []),
+    Array.isArray(draft.values) &&
+      draft.values.length === initialKeys.length &&
+      draft.values.every((v) => typeof v === "number")
+      ? draft.values
+      : (a?.values ?? (a?.kind === "interests" ? [20, 20, 20, 20] : [])),
   );
-  const [amount, setAmount] = useState(input.kind === "number" ? input.min : 0);
+  const [specialties, setSpecialties] = useState<Record<string, string>>(
+    draft.specialties && typeof draft.specialties === "object"
+      ? draft.specialties
+      : {},
+  );
+  const [amount, setAmount] = useState(
+    typeof draft.amount === "number"
+      ? draft.amount
+      : input.kind === "number"
+        ? input.min
+        : 0,
+  );
+  useEffect(() => {
+    if (draftKey)
+      sessionStorage.setItem(
+        draftKey,
+        JSON.stringify({ keys, values, amount, specialties }),
+      );
+  }, [draftKey, keys, values, amount, specialties]);
+  const remaining = (a?.values ?? []).reduce(
+    (counts, v) => {
+      counts[v] = (counts[v] ?? 0) + 1;
+      return counts;
+    },
+    {} as Record<number, number>,
+  );
+  for (const v of values) remaining[v] = (remaining[v] ?? 0) - 1;
+  const points = Object.entries(remaining)
+    .filter(([, count]) => count > 0)
+    .map(([v, count]) => `${v} × ${count}`)
+    .join("、");
   return (
     <form
       className="rule-input"
@@ -47,7 +99,17 @@ export function SceneInputForm({
           input.kind === "number" ? "confirm" : "allocate",
           input.kind === "number"
             ? { value: amount }
-            : Object.fromEntries(keys.map((k, i) => [k, values[i]])),
+            : {
+                ...Object.fromEntries(keys.map((k, i) => [k, values[i]])),
+                ...Object.fromEntries(
+                  Object.entries(a?.specializations ?? {})
+                    .filter(([k]) => keys.includes(k))
+                    .map(([k, rule]) => [
+                      "specialty." + k,
+                      rule.fixed ?? specialties[k] ?? "",
+                    ]),
+                ),
+              },
         );
       }}
     >
@@ -65,6 +127,12 @@ export function SceneInputForm({
         </label>
       ) : (
         <>
+          {a!.kind === "occupation" && (
+            <p className="setup-note">
+              职业：{a!.occupation} · 信用评级 {a!.credit}
+              。先分配必选技能，再选择社交技能与个人专长。
+            </p>
+          )}
           <p>
             {a!.kind === "attributes"
               ? "将 40、50、50、50、60、60、70、80 分配给八项属性。"
@@ -72,26 +140,72 @@ export function SceneInputForm({
                 ? "分配 70、60、60、50、50、50、40、40；每项技能只能选择一次。"
                 : "选择四项非职业技能，每项增加 20。"}
           </p>
+          <p className="allocation-progress" role="status">
+            {a!.kind === "interests"
+              ? `兴趣技能：${new Set(keys).size} / 4`
+              : points
+                ? `待分配点值：${points}`
+                : "点值已分配。"}
+          </p>
+          {a!.kind === "attributes" && (
+            <p className="setup-note">
+              普通值用于一般检定；困难值为一半，极难值为五分之一。
+            </p>
+          )}
           {keys.map((key, i) => (
             <div className="allocation-row" key={i}>
               {a!.kind === "attributes" ? (
                 <label htmlFor={`allocation-${i}`}>
                   {allowed.find((s) => s.key === key)?.label}
+                  <small>
+                    {
+                      (
+                        {
+                          str: "肌肉力量，影响近战伤害",
+                          con: "身体耐力，影响生命",
+                          siz: "体重与体型，影响生命和伤害",
+                          dex: "反应与协调，影响闪避和行动顺序",
+                          app: "外表与气质",
+                          pow: "精神意志，决定起始理智与魔法",
+                          int: "理解、推理和记忆能力",
+                          edu: "学习与知识，影响母语",
+                        } as Record<string, string>
+                      )[key]
+                    }
+                  </small>
                 </label>
               ) : (
                 <select
                   aria-label={`技能 ${i + 1}`}
                   value={key}
+                  disabled={
+                    a!.kind === "occupation" && i < (a!.required?.length ?? 0)
+                  }
                   onChange={(e) =>
                     setKeys(keys.map((k, j) => (j === i ? e.target.value : k)))
                   }
                 >
-                  {allowed.map((s) => (
-                    <option key={s.key} value={s.key}>
-                      {s.label}（当前 {s.value}）
-                    </option>
-                  ))}
+                  {allowed
+                    .filter(
+                      (s) =>
+                        a!.kind !== "occupation" ||
+                        i !== (a!.required?.length ?? 0) ||
+                        !a!.optional?.length ||
+                        a!.optional.includes(s.key),
+                    )
+                    .map((s) => (
+                      <option
+                        key={s.key}
+                        value={s.key}
+                        disabled={s.key !== key && keys.includes(s.key)}
+                      >
+                        {s.label}（当前 {s.value}）
+                      </option>
+                    ))}
                 </select>
+              )}
+              {a!.kind === "occupation" && i < (a!.required?.length ?? 0) && (
+                <small>职业必选</small>
               )}
               <select
                 id={`allocation-${i}`}
@@ -112,12 +226,60 @@ export function SceneInputForm({
                   </option>
                 ))}
               </select>
+              <small className="allocation-preview">
+                普通{" "}
+                {a!.kind === "interests"
+                  ? (allowed.find((s) => s.key === key)?.value ?? 0) + 20
+                  : values[i]}{" "}
+                / 困难{" "}
+                {Math.floor(
+                  (a!.kind === "interests"
+                    ? (allowed.find((s) => s.key === key)?.value ?? 0) + 20
+                    : values[i]) / 2,
+                )}{" "}
+                / 极难{" "}
+                {Math.floor(
+                  (a!.kind === "interests"
+                    ? (allowed.find((s) => s.key === key)?.value ?? 0) + 20
+                    : values[i]) / 5,
+                )}
+              </small>
             </div>
           ))}
+          {a!.kind === "occupation" &&
+            Object.entries(a!.specializations ?? {})
+              .filter(([k]) => keys.includes(k))
+              .map(([k, rule]) => (
+                <label className="specialty-input" key={k}>
+                  {rule.label}
+                  <input
+                    maxLength={40}
+                    required
+                    value={rule.fixed ?? specialties[k] ?? ""}
+                    readOnly={!!rule.fixed}
+                    placeholder={
+                      k === "artCraft"
+                        ? "例如：摄影、绘画、木工"
+                        : "例如：法语、德语"
+                    }
+                    onChange={(e) =>
+                      setSpecialties({ ...specialties, [k]: e.target.value })
+                    }
+                  />
+                  {rule.fixed && <small>此职业的专长已确定。</small>}
+                </label>
+              ))}
         </>
       )}
+      {input.kind === "number" && input.resources && (
+        <p className="allocation-progress" role="status">
+          可用魔法 {input.resources.mp} · 当前生命 {input.resources.hp}
+          。本次消耗：魔法 {Math.min(amount, input.resources.mp)}，生命{" "}
+          {Math.max(0, amount - input.resources.mp)}。
+        </p>
+      )}
       <button className="primary-button" disabled={busy}>
-        确认分配
+        {input.kind === "number" ? "确认投入" : "确认分配"}
       </button>
     </form>
   );

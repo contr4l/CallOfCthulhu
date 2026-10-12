@@ -9,8 +9,11 @@ test("create official template character and select it for a run without rerolli
     .getByLabel("用户名")
     .fill(`chars_${Date.now()}_${Math.random().toString(16).slice(2, 6)}`);
   await page.getByLabel("密码").fill("character-testing-password");
+  await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
+  if (await page.locator(".is-reading").count())
+    await page.getByRole("button", { name: "返回档案", exact: true }).click();
   if (testInfo.project.name === "mobile")
     await page.getByRole("button", { name: "打开导航" }).click();
   await page.getByRole("button", { name: "调查员", exact: true }).click();
@@ -29,6 +32,8 @@ test("create official template character and select it for a run without rerolli
   expect(actor.character.skills.spotHidden).toBe(35);
   await expect(page.getByRole("heading", { name: "模板访客" })).toBeVisible();
   await expect(page.locator(".character-card")).toContainText("查看全部");
+  if (await page.locator(".is-reading").count())
+    await page.getByRole("button", { name: "返回档案", exact: true }).click();
   if (testInfo.project.name === "mobile")
     await page.getByRole("button", { name: "打开导航" }).click();
   await page.getByRole("button", { name: "剧本馆", exact: true }).click();
@@ -60,6 +65,7 @@ test("lost dice response survives reload and retries without reroll", async ({
     .getByLabel("用户名")
     .fill(`lost_${Date.now()}_${Math.random().toString(16).slice(2, 6)}`);
   await page.getByLabel("密码").fill("password-testing-123");
+  await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
@@ -109,6 +115,7 @@ test("create investigator, complete a run, refresh, read and replay without chan
     .getByLabel("用户名")
     .fill(`test_${Date.now()}_${Math.random().toString(16).slice(2, 6)}`);
   await page.getByLabel("密码").fill("password-testing-123");
+  await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByRole("button", { name: "开始第零号站台" }).click();
@@ -160,6 +167,7 @@ test("dice result remains saved after reload and animation skip", async ({
     .getByLabel("用户名")
     .fill(`dice_${Date.now()}_${Math.random().toString(16).slice(2, 6)}`);
   await page.getByLabel("密码").fill("password-testing-123");
+  await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByRole("button", { name: "开始黑潮来信", exact: true }).click();
@@ -171,10 +179,40 @@ test("dice result remains saved after reload and animation skip", async ({
   await expect(
     page.getByRole("dialog", { name: "命运已经落定" }),
   ).toBeVisible();
-  await page.getByRole("button", { name: "继续故事" }).click();
   const id = new URL(page.url()).hash.split("/").at(-1);
+  const rolled = await (await page.request.get(`/api/runs/${id}`)).json();
+  await expect(
+    page.getByRole("button", { name: "掷骰", exact: true }),
+  ).toBeEnabled();
+  await expect(page.getByRole("button", { name: "继续故事" })).toHaveCount(0);
+  await expect(page.locator(".dice-scene canvas")).toHaveCount(0);
+  await page.waitForTimeout(300);
+  await expect(
+    page.getByRole("button", { name: "掷骰", exact: true }),
+  ).toBeEnabled();
+  await page.getByRole("button", { name: "掷骰", exact: true }).click();
+  await expect(page.locator(".dice-scene canvas")).toBeVisible();
+  await expect(page.locator(".dice-tray.is-rolling")).toBeVisible();
+  await expect(page.getByRole("button", { name: "正在掷骰…" })).toBeDisabled();
+  await page.reload();
+  await expect(
+    page.getByRole("dialog", { name: "命运已经落定" }),
+  ).toBeVisible();
+  await page.getByRole("button", { name: "掷骰", exact: true }).click();
+  await expect(page.getByRole("button", { name: "继续故事" })).toBeVisible();
+  await expect(page.locator(".dice-result")).toContainText(/D100 · 目标 \d+/);
+  await expect(page.locator(".dice-tray")).toHaveAttribute(
+    "data-renderer",
+    "ready",
+  );
+  await expect(page.locator(".dice-scene canvas")).toBeVisible();
+  expect(await (await page.request.get(`/api/runs/${id}`)).json()).toEqual(
+    rolled,
+  );
+  await page.getByRole("button", { name: "继续故事" }).click();
   const before = await (await page.request.get(`/api/runs/${id}`)).json();
   await page.reload();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
   await expect(page.getByRole("heading", { name: before.title })).toBeVisible();
   expect(await (await page.request.get(`/api/runs/${id}`)).json()).toEqual(
     before,
@@ -191,6 +229,7 @@ test("player creates luck explicitly, recovers lost result, and rolls nonstandar
     .getByLabel("用户名")
     .fill(`roll_${Date.now()}_${Math.random().toString(16).slice(2, 6)}`);
   await page.getByLabel("密码").fill("player-dice-testing-password");
+  await page.getByLabel("邀请码").fill("fa6ian-test");
   await page.getByRole("button", { name: "创建账号", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   let requests = 0,
@@ -229,6 +268,8 @@ test("player creates luck explicitly, recovers lost result, and rolls nonstandar
   const id = new URL(page.url()).hash.split("/").at(-1);
   const scene = await (await page.request.get(`/api/runs/${id}`)).json();
   expect(scene.character.luck).toBe(saved!.total * 5);
+  if (await page.locator(".is-reading").count())
+    await page.getByRole("button", { name: "返回档案", exact: true }).click();
   if (testInfo.project.name === "mobile")
     await page.getByRole("button", { name: "打开导航" }).click();
   await page.getByRole("button", { name: "调查员", exact: true }).click();

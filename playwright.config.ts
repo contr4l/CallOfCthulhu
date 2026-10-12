@@ -17,6 +17,7 @@ export default defineConfig({
     reuseExistingServer: false,
     env: {
       PORT: "13001",
+      REGISTRATION_INVITE_CODE: "fa6ian-test",
       WEB_PORT: "15175",
       APP_ORIGINS: "http://127.0.0.1:15175",
       DATABASE_PATH: join(tmpdir(), `coc-browser-${randomUUID()}.sqlite`),

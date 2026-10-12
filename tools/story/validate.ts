@@ -7,6 +7,7 @@ for (const story of loadStories(resolve("stories")).values()) {
     ...story.nodes.flatMap((n) => [
       n.background,
       ...(n.music ? [n.music] : []),
+      ...(n.illustration ? [n.illustration.src] : []),
     ]),
   ]);
   for (const resource of resources)

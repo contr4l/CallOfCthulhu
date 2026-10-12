@@ -12,7 +12,7 @@ async function register(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { username: name, password: "character-test-password" },
+    payload: { inviteCode: "fa6ian-test", username: name, password: "character-test-password" },
   });
   assert.equal(response.statusCode, 200, response.body);
   return response.cookies[0].value;

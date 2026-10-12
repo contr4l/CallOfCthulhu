@@ -33,6 +33,13 @@
       "source": "https://epochweaver.com/audio/bgm/back-on-the-path.ogg",
       "sha256": "e70f715f4d3079a311410cbb9eb5bf190483804b7a793da1270dc13dc15116d0",
       "bytes": 2001658
+    },
+    {
+      "file": "/media/alone-against-flames/emberhead-map.png",
+      "source": "scripts/CHA23145 - Alone Against the Flames.epub!/OEBPS/image/emberhead_map.png",
+      "sha256": "1190218e7347ff047d8a5d1d81235b9a4fe2edf6947603c7eb6cdb49b56f39d7",
+      "bytes": 942382,
+      "usage": "原书地图，局内发现后展示；未修改图片。"
     }
   ]
 }

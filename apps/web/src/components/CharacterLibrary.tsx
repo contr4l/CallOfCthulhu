@@ -1,9 +1,11 @@
+import { CharacterProfileForm } from "./CharacterProfileForm";
 import React, { useState } from "react";
 import { ArrowRight, UserRound, BookOpen } from "lucide-react";
 import type {
   CharacterTemplate,
   CharacterTemplateCatalog,
   SavedCharacter,
+  CharacterProfile,
 } from "../../../../packages/contracts/index";
 import {
   attributeLabels,
@@ -16,6 +18,7 @@ export function CharacterLibrary({
   catalog,
   characters,
   onCreate,
+  onEdit,
   busy,
   error,
   owner,
@@ -23,12 +26,18 @@ export function CharacterLibrary({
 }: {
   catalog: CharacterTemplateCatalog;
   characters: SavedCharacter[];
+  onEdit: (
+    id: string,
+    name: string,
+    profile: CharacterProfile,
+  ) => Promise<void>;
   onCreate: (id: string, name: string, luckRollId: string) => Promise<void>;
   busy: boolean;
   error: string;
   owner: string;
   reduced: boolean;
 }) {
+  const [editing, setEditing] = useState<SavedCharacter | null>(null);
   const [selected, setSelected] = useState<CharacterTemplate | null>(null);
   const [luckRollId, setLuckRollId] = useState("");
   async function submit(event: React.FormEvent<HTMLFormElement>) {
@@ -127,7 +136,15 @@ export function CharacterLibrary({
         {characters.length ? (
           <div className="character-grid">
             {characters.map((t) => (
-              <CharacterCard key={t.id} character={t.character} />
+              <div key={t.id} className="saved-character-entry">
+                <CharacterCard character={t.character} />
+                <button
+                  className="secondary-button"
+                  onClick={() => setEditing(t)}
+                >
+                  填写角色卡
+                </button>
+              </div>
             ))}
           </div>
         ) : (
@@ -137,6 +154,13 @@ export function CharacterLibrary({
         )}
       </section>
       <DiceWorkbench owner={owner} reduced={reduced} />
+      {editing && (
+        <CharacterProfileForm
+          saved={editing}
+          onSave={onEdit}
+          onClose={() => setEditing(null)}
+        />
+      )}
       {selected && (
         <Modal
           title={`基于${selected.label}创建调查员`}

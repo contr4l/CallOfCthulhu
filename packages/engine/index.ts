@@ -1,4 +1,9 @@
-import { initialProgram, projectProgram, advanceProgram } from "./program.js";
+import {
+  initialProgram,
+  projectProgram,
+  advanceProgram,
+  narrativeText,
+} from "./program.js";
 import { randomUUID } from "node:crypto";
 import type {
   Character,
@@ -85,6 +90,10 @@ export function project(
               )
               .map(({ id, label, hint }) => ({ id, label, hint }));
   return {
+    collection: {
+      chapterId: node.sourceId ?? node.id,
+      ...(state.status === "ended" ? { endingId: node.id } : {}),
+    },
     runId,
     storyId: story.id,
     storyTitle: story.title,
@@ -94,11 +103,34 @@ export function project(
     title: node.title,
     chapter: node.chapter,
     text: node.text,
+    ...(node.reading
+      ? {
+          reading: Object.fromEntries(
+            Object.entries(node.reading).map(([locale, value]) => [
+              locale,
+              { ...value, text: narrativeText(value!.text) },
+            ]),
+          ),
+        }
+      : {}),
+    // Older story packages include interface explanations among rule hints.
+    help: node.help?.filter((hint) => !/网页|刷新/.test(hint)),
+    illustration: node.illustration,
     background: node.background,
     music: node.music,
     actions,
     character: structuredClone(state.character),
-    inventory: structuredClone(state.inventory),
+    inventory: state.inventory.map((item) => ({
+      ...item,
+      ...(story.nodes.find((n) => n.illustration?.key === item.key)
+        ?.illustration
+        ? {
+            illustration: story.nodes.find(
+              (n) => n.illustration?.key === item.key,
+            )!.illustration,
+          }
+        : {}),
+    })),
     ending: node.ending,
     ...(state.program ? projectProgram(story, state) : {}),
     ...(node.check
@@ -148,5 +180,31 @@ export function advance(
     for (const e of choice.effects ?? []) effect(state, e);
   }
   enter(story, state, target);
-  return { state, action, check, memory: getNode(story, target).memory };
+  return {
+    state,
+    action,
+    check,
+    dice: undefined,
+    memory: getNode(story, target).memory,
+  };
+}
+
+/** Add current presentation text to legacy history without changing its saved state. */
+export function withSceneReading(story: Story, scene: SceneView): SceneView {
+  if (scene.reading) return scene;
+  const node =
+    story.nodes.find((n) => n.id === scene.collection?.endingId) ??
+    story.nodes.find(
+      (n) => n.title === scene.title && n.chapter === scene.chapter,
+    );
+  if (!node?.reading) return scene;
+  return {
+    ...scene,
+    reading: Object.fromEntries(
+      Object.entries(node.reading).map(([locale, value]) => [
+        locale,
+        { ...value, text: narrativeText(value!.text) },
+      ]),
+    ),
+  };
 }

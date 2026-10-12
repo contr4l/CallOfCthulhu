@@ -31,6 +31,14 @@ export const predicate: z.ZodType<Predicate> = z.lazy(() =>
 );
 export const mutation = z.union([
   z
+    .object({
+      op: z.literal("register"),
+      kind: z.enum(["skill", "state"]),
+      key: z.string().min(1),
+      label: z.string().min(1).optional(),
+    })
+    .strict(),
+  z
     .object({ op: z.literal("flag"), key: z.string(), value: z.boolean() })
     .strict(),
   z
@@ -101,6 +109,12 @@ const choice = z
 const allocation = z
   .object({
     kind: z.enum(["attributes", "occupation", "interests"]),
+    specializations: z
+      .record(
+        z.string(),
+        z.object({ label: z.string(), fixed: z.string().optional() }).strict(),
+      )
+      .optional(),
     values: z.array(z.number().int()).optional(),
     required: z.array(z.string()).optional(),
     optional: z.array(z.string()).optional(),

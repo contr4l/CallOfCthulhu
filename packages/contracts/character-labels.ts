@@ -50,6 +50,8 @@ export const skillLabels: Record<string, string> = {
   ride: "骑术",
   science: "科学",
   scienceBiology: "科学（生物学）",
+  scienceBotany: "科学（植物学）",
+  sciencePharmacy: "科学（药学）",
   scienceChemistry: "科学（化学）",
   sleightOfHand: "妙手",
   spotHidden: "侦查",

@@ -1,0 +1,76 @@
+{
+  "language": "zh-CN",
+  "method": "translated-from-user-provided-English-EPUB",
+  "translatedChapters": [
+    {
+      "chapter": 2,
+      "englishFragment": "scripts/alone-against-flames/fragments/002.json",
+      "englishSha256": "3a1a0a9fd9b6682aafca221f63700eaa7bd283a365e706812cdb63369cd32aa2",
+      "translationPath": "chapters/2.json",
+      "translationSha256": "3711773395eebbd52b684ddac67c6169e7d77014cb9884aaf4124a1a88c3cdd1"
+    },
+    {
+      "chapter": 12,
+      "englishFragment": "scripts/alone-against-flames/fragments/012.json",
+      "englishSha256": "c11740cc3fc03f3a467b4e2bd9216cad898b86ce9c3972a5f2045903e0c2436c",
+      "translationPath": "chapters/12.json",
+      "translationSha256": "8536d5cdad4a8e9ffc6b77b0b6212129ff5c44e542ccc0ad9015dd5dfadf44be"
+    },
+    {
+      "chapter": 20,
+      "englishFragment": "scripts/alone-against-flames/fragments/020.json",
+      "englishSha256": "d6f36faa6eb0b2ceb84439ed7fa2d3cf02fe1617bd8d3151e637b01ec0d40f91",
+      "translationPath": "chapters/20.json",
+      "translationSha256": "3d4d411459d6f052aab2aa073daccd2182f9e6ace80bef4b5e2e6fbf6abff801"
+    },
+    {
+      "chapter": 187,
+      "englishFragment": "scripts/alone-against-flames/fragments/187.json",
+      "englishSha256": "c08efcc7230883c298272989970e7fdbfe20e0aacfa14044e990568a92e5cffb",
+      "translationPath": "chapters/187.json",
+      "translationSha256": "2297f4c18128ad3e3a6ef6118f68f1a8df147e490e0ee50028239e91899d187f"
+    },
+    {
+      "chapter": 235,
+      "englishFragment": "scripts/alone-against-flames/fragments/235.json",
+      "englishSha256": "cd9713f6cb631b51bd7c2b7d88a89d08989d58fb1b3758b1c25411d8d3c0aa63",
+      "translationPath": "chapters/235.json",
+      "translationSha256": "45e10df0480d763ca5c4383329eba4353761bc94667cf168f59c88739921d30b"
+    },
+    {
+      "chapter": 241,
+      "englishFragment": "scripts/alone-against-flames/fragments/241.json",
+      "englishSha256": "44dfa600f2cb12bf6f6a11cd5ff89e1ac7dca168e38f292eb61a3d19ea441e81",
+      "translationPath": "chapters/241.json",
+      "translationSha256": "efacf046384b76b23175d342ea3b2dcbf600e8690dc7fee34134b4ad3a511b4b"
+    },
+    {
+      "chapter": 247,
+      "englishFragment": "scripts/alone-against-flames/fragments/247.json",
+      "englishSha256": "1a679c8618357c4401c17939fc7e56f606df49fa4178869876eb917f07a64760",
+      "translationPath": "chapters/247.json",
+      "translationSha256": "3af176749a59fc609be7bb078a4dc61b2f1f60e1d34c4a70aade5e742cd27fc1"
+    },
+    {
+      "chapter": 262,
+      "englishFragment": "scripts/alone-against-flames/fragments/262.json",
+      "englishSha256": "cc0b472f9ca1c9556e0755387770d8856ea4f5ef6a6bb8211a61f8068dcf6d6c",
+      "translationPath": "chapters/262.json",
+      "translationSha256": "eada65c5d00a87cbc27252287e904473f3ef4727a18bd0d5f7d87034c9ba5419"
+    },
+    {
+      "chapter": 268,
+      "englishFragment": "scripts/alone-against-flames/fragments/268.json",
+      "englishSha256": "52d277cc146eaeaeeae3b41aa12328ce212fb20caa37bebeda86774847ba70d2",
+      "translationPath": "chapters/268.json",
+      "translationSha256": "8847aa4a626c6896fdc27a28c62730dc8bdf22fb8aec6edfab64a81e51d74b7c"
+    }
+  ],
+  "notes": [
+    "原始下载文件及 source-manifest.json 保持不变；chapters 与 chapter-map.js 为补全版。",
+    "235 的英文格斗说明缺少部分技能名称；结合同行的 (Brawl)、对手技能和 Dodge 说明译为格斗：斗殴与闪避。",
+    "262 的逃跑规则在英文 EPUB 中缺少困难检定的技能名；译文保留为困难检定，未擅自指定技能。",
+    "268 的原文孤立数字 1 原样保留；未捏造通往20的选项。",
+    "235、262 保留战斗规则文字和原书结果选项，未新增自动战斗机制；第2段可恢复1点耐久及技能打勾指令保留为原文规则。"
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>余烬档案</title>
+  <rect width="64" height="64" rx="14" fill="#100b0e"/>
+  <path d="M32 6 55 20v24L32 58 9 44V20Z" fill="none" stroke="#84515b" stroke-width="2"/>
+  <path d="M32 13c3 10 14 15 14 27a14 14 0 0 1-28 0c0-7 4-13 8-17-1 7 0 10 3 12 5-6 5-14 3-22Z" fill="#d2999d"/>
+  <path d="M32 34c0 5-6 8-6 13a6 6 0 0 0 12 0c0-5-4-9-6-13Z" fill="#100b0e"/>
+</svg>

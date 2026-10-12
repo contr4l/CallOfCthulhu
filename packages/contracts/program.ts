@@ -8,6 +8,7 @@ export type Predicate =
   | { not: Predicate }
   | { field: string; op: "eq" | "lt" | "lte" | "gt" | "gte"; value: Value };
 export type Mutation =
+  | { op: "register"; kind: "skill" | "state"; key: string; label?: string }
   | { op: "flag"; key: string; value: boolean }
   | { op: "add" | "set"; field: string; value: Value | string }
   | { op: "item"; key: string; label: string; remove?: boolean }
@@ -40,6 +41,7 @@ export type ProgramCheck = {
   push?: { success: string; failure: string };
 };
 export type Allocation = {
+  specializations?: Record<string, { label: string; fixed?: string }>;
   kind: "attributes" | "occupation" | "interests";
   values?: number[];
   required?: string[];
@@ -105,6 +107,7 @@ export type ProgramState = {
   sanityLost: number;
   occupationSkills: string[];
   skillMarks: string[];
+  registrationLabels?: Record<string, string>;
   log: string[];
   lastSkill?: string;
   randomChoices?: string[];
@@ -127,4 +130,10 @@ export type SceneInput =
       allocation: Allocation;
       skills: { key: string; label: string; value: number }[];
     }
-  | { kind: "number"; label: string; min: number; max: number };
+  | {
+      kind: "number";
+      label: string;
+      min: number;
+      max: number;
+      resources?: { mp: number; hp: number };
+    };

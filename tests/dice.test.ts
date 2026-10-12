@@ -14,7 +14,7 @@ async function register(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { username, password: "dice-test-password" },
+    payload: { inviteCode: "fa6ian-test", username, password: "dice-test-password" },
   });
   assert.equal(r.statusCode, 200, r.body);
   return r.cookies[0].value;

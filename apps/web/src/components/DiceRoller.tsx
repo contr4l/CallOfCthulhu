@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 import { Dices } from "lucide-react";
 import { api } from "../api";
 import type { DiceRoll } from "../../../../packages/contracts/index";
@@ -7,52 +7,99 @@ export function DiceAnimation({
   sides,
   results,
   rolling,
+  reduced = false,
+  onComplete,
 }: {
   sides: number;
   results: number[];
   rolling: boolean;
+  reduced?: boolean;
+  onComplete?: () => void;
 }) {
-  const vertices =
-    sides === 4
-      ? 3
-      : sides === 6
-        ? 4
-        : sides === 8
-          ? 4
-          : sides === 2
-            ? 24
-            : sides <= 12
-              ? 5
-              : 6;
-  const points = Array.from({ length: vertices }, (_, i) => {
-    const angle = (i * 2 * Math.PI) / vertices - Math.PI / 2;
-    return `${50 + 43 * Math.cos(angle)},${50 + 43 * Math.sin(angle)}`;
-  }).join(" ");
+  const host = useRef<HTMLDivElement>(null);
+  const id = `dice-${useId().replace(/[^a-zA-Z0-9_-]/g, "")}`;
+  const ready = useRef(onComplete);
+  ready.current = onComplete;
+  const [state, setState] = useState<"loading" | "ready" | "fallback">(
+    "loading",
+  );
+  const supported =
+    [4, 6, 8, 10, 12, 20, 100].includes(sides) &&
+    results.length * (sides === 100 ? 2 : 1) <= 20;
+  const signature = results.join(",");
+  useEffect(() => {
+    const controller = new AbortController();
+    const media = matchMedia("(prefers-reduced-motion: reduce)");
+    const animate = rolling && !reduced && !media.matches;
+    let timer: ReturnType<typeof setTimeout> | undefined;
+    const complete = () => {
+      if (!controller.signal.aborted && rolling) ready.current?.();
+    };
+    setState("loading");
+    if (!results.every((value) => value > 0)) return;
+    if (!supported) {
+      setState("fallback");
+      timer = setTimeout(complete, animate ? 1200 : 0);
+    } else {
+      void import("./DiceScene")
+        .then(({ createDiceScene }) => {
+          if (controller.signal.aborted || !host.current) return;
+          return createDiceScene(
+            host.current,
+            sides,
+            results,
+            animate,
+            () => {
+              setState("ready");
+              complete();
+            },
+            controller.signal,
+          );
+        })
+        .catch(() => {
+          if (!controller.signal.aborted) {
+            setState("fallback");
+            complete();
+          }
+        });
+    }
+    return () => {
+      controller.abort();
+      clearTimeout(timer);
+    };
+    // A roll's scene stays mounted when its parent reveals the result.
+    // New receipts (including the pending zero values) start a new scene.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [sides, signature, reduced, supported]);
   return (
     <div
       className={`dice-tray ${rolling ? "is-rolling" : ""}`}
       aria-label={`${results.length} 颗 D${sides}`}
+      data-renderer={state}
     >
-      {results.map((value, i) => (
-        <div
-          className="poly-die"
-          key={i}
-          style={{ animationDelay: `${i * -0.09}s` }}
-        >
-          <svg viewBox="0 0 100 100" aria-hidden="true">
-            <polygon points={points} />
-            <polygon
-              className="die-inset"
-              points={points}
-              transform="translate(15 15) scale(.7)"
-            />
-          </svg>
-          <strong style={{ fontSize: value > 99999 ? 12 : undefined }}>
-            {rolling ? "…" : value}
-          </strong>
-          <small>D{sides}</small>
-        </div>
-      ))}
+      {supported && (
+        <div className="dice-scene" ref={host} id={id} aria-hidden="true" />
+      )}
+      {state === "loading" && (
+        <span className="dice-scene-note">
+          {rolling ? "骰子正在落入骰盘…" : "正在摆放骰子…"}
+        </span>
+      )}
+      <div className="dice-values">
+        {results.map((value, i) => (
+          <div className="poly-die" key={i}>
+            <strong style={{ fontSize: value > 99999 ? 12 : undefined }}>
+              {rolling ? "…" : value}
+            </strong>
+            <small>D{sides}</small>
+          </div>
+        ))}
+      </div>
+      {sides === 100 && supported && (
+        <small className="dice-percentile-note">
+          十位骰 + 个位骰 · 00 与 0 合计为 100
+        </small>
+      )}
     </div>
   );
 }
@@ -122,20 +169,22 @@ export function DiceRoller({
     sessionStorage.setItem(key, id);
     setPending(id);
     try {
-      const [result] = await Promise.all([
-        api<DiceRoll>("/dice/rolls", { id, purpose, sides, count }),
-        new Promise((resolve) => setTimeout(resolve, reduced ? 0 : 1000)),
-      ]);
+      const result = await api<DiceRoll>("/dice/rolls", {
+        id,
+        purpose,
+        sides,
+        count,
+      });
       if (alive.current) {
         setReceipt(result);
-        ready.current?.(result);
       }
     } catch (e) {
-      if (alive.current)
+      if (alive.current) {
         setError(e instanceof Error ? e.message : "掷骰未完成，请重试。");
+        setRolling(false);
+      }
     } finally {
       locked.current = false;
-      if (alive.current) setRolling(false);
     }
   }
   const shown = receipt ?? {
@@ -159,6 +208,11 @@ export function DiceRoller({
           sides={shown.sides}
           results={shown.results}
           rolling={rolling}
+          reduced={reduced}
+          onComplete={() => {
+            setRolling(false);
+            if (receipt) ready.current?.(receipt);
+          }}
         />
       )}
       <div role="status" aria-live="polite" className="roll-equation">

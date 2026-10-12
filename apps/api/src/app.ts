@@ -1,3 +1,5 @@
+import { readAchievements } from "./modules/achievements.js";
+import { readCollections } from "./modules/collections.js";
 import Fastify from "fastify";
 import cookie from "@fastify/cookie";
 import staticFiles from "@fastify/static";
@@ -23,6 +25,7 @@ import {
   getNode,
   initialState,
   project,
+  withSceneReading,
 } from "../../../packages/engine/index.js";
 import {
   createCharacter,
@@ -58,6 +61,7 @@ const creation = z
     storyId: z.string(),
     presetId: z.string().optional(),
     name: z.string().trim().min(1).max(24),
+    age: z.number().int().min(23).max(36).optional(),
     characterId: z.string().uuid().optional(),
     luckRollId: z.string().uuid().optional(),
     skills: z
@@ -211,6 +215,80 @@ export async function buildApp(
       .all(owner.id)
       .map((r) => ({ id: r.id, character: JSON.parse(r.character as string) }));
   });
+  app.get("/api/achievements", async (request) => readAchievements(db, user(request).id, stories));
+  app.get(
+    "/api/collections",
+    async (request) =>
+      readCollections(db, user(request).id, stories).collections,
+  );
+  app.get<{
+    Querystring: {
+      storyId: string;
+      version: string;
+      kind: "chapters" | "endings";
+      id: string;
+    };
+  }>("/api/collections/entry", async (request) => {
+    const q = z
+      .object({
+        storyId: z.string().max(100),
+        version: z.string().max(40),
+        kind: z.enum(["chapters", "endings"]),
+        id: z.string().max(100),
+      })
+      .strict()
+      .parse(request.query);
+    return readCollections(db, user(request).id, stories).entry(
+      q.storyId,
+      q.version,
+      q.kind,
+      q.id,
+    );
+  });
+  app.patch<{ Params: { id: string } }>(
+    "/api/characters/:id",
+    async (request) => {
+      const owner = user(request);
+      const text = z.string().trim().max(400);
+      const data = z
+        .object({
+          name: z.string().trim().min(1).max(24),
+          profile: z
+            .object({
+              age: z.number().int().min(1).max(120).optional(),
+              pronouns: text.optional(),
+              birthplace: text.optional(),
+              residence: text.optional(),
+              appearance: text.optional(),
+              ideology: text.optional(),
+              importantPeople: text.optional(),
+              meaningfulPlaces: text.optional(),
+              treasuredPossessions: text.optional(),
+              notes: z.string().trim().max(2000).optional(),
+            })
+            .strict(),
+        })
+        .strict()
+        .parse(request.body);
+      return transaction(db, () => {
+        const row = db
+          .prepare(
+            "SELECT character FROM character_templates WHERE id=? AND user_id=?",
+          )
+          .get(request.params.id, owner.id);
+        if (!row) throw new GameError(404, "找不到这位调查员。");
+        const character = {
+          ...JSON.parse(row.character as string),
+          name: data.name,
+          profile: data.profile,
+        };
+        db.prepare(
+          "UPDATE character_templates SET character=? WHERE id=? AND user_id=?",
+        ).run(JSON.stringify(character), request.params.id, owner.id);
+        return { id: request.params.id, character };
+      });
+    },
+  );
   app.get("/api/character-templates", async () => characterCatalog);
   app.post("/api/characters", async (request, reply) => {
     const owner = user(request);
@@ -337,8 +415,15 @@ export async function buildApp(
           },
           roll?.luck ?? 0,
         );
+      if (data.age !== undefined) {
+        if (story.creationPolicy !== "guided")
+          throw new GameError(400, "本剧本使用模板的角色资料。");
+        character.profile = { ...character.profile, age: data.age };
+      }
+      const savedCharacterId = data.characterId ?? randomUUID();
       const state = initialState(story, character, options.dice),
         view = project(story, state, id, 0);
+      if (!data.characterId) state.createdCharacterId = savedCharacterId;
       db.prepare("INSERT INTO runs VALUES(?,?,?,?,?,?,?,?,?,?)").run(
         id,
         owner.id,
@@ -353,7 +438,7 @@ export async function buildApp(
       );
       if (!data.characterId)
         db.prepare("INSERT INTO character_templates VALUES(?,?,?,?)").run(
-          randomUUID(),
+          savedCharacterId,
           owner.id,
           JSON.stringify(character),
           now,
@@ -432,7 +517,33 @@ export async function buildApp(
             scene,
             action: result.action,
             ...(result.check ? { check: result.check } : {}),
+            ...(result.dice ? { dice: result.dice } : {}),
           };
+        if (
+          story.creationPolicy === "guided" &&
+          data.actionId === "allocate" &&
+          result.state.createdCharacterId
+        ) {
+          const card = db
+            .prepare(
+              "SELECT character FROM character_templates WHERE id=? AND user_id=?",
+            )
+            .get(result.state.createdCharacterId, owner.id);
+          if (card) {
+            const prior = JSON.parse(card.character as string);
+            db.prepare(
+              "UPDATE character_templates SET character=? WHERE id=? AND user_id=?",
+            ).run(
+              JSON.stringify({
+                ...result.state.character,
+                name: prior.name,
+                profile: prior.profile,
+              }),
+              result.state.createdCharacterId,
+              owner.id,
+            );
+          }
+        }
         const changed = db
           .prepare(
             "UPDATE runs SET revision=?,state=?,updated_at=? WHERE id=? AND revision=?",
@@ -446,6 +557,7 @@ export async function buildApp(
           scene,
           action: result.action,
           check: result.check,
+          dice: result.dice,
           memory: result.memory,
         };
         db.prepare("INSERT INTO run_history VALUES(?,?,?)").run(
@@ -489,7 +601,13 @@ export async function buildApp(
             "SELECT frame FROM run_history WHERE run_id=? AND sequence>? ORDER BY sequence LIMIT 51",
           )
           .all(r.id, after)
-          .map((row) => JSON.parse(row.frame as string) as HistoryFrame);
+          .map((row) => {
+            const frame = JSON.parse(row.frame as string) as HistoryFrame;
+            return {
+              ...frame,
+              scene: withSceneReading(storyFor(r), frame.scene),
+            };
+          });
         const page = frames.slice(0, 50);
         return {
           frames: endpoint === "memories" ? page.filter((f) => f.memory) : page,

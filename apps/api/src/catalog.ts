@@ -1,5 +1,5 @@
 import { instruction, targets } from "./program-schema.js";
-import { readdirSync, readFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { z } from "zod";
 import type { Story, StorySummary } from "../../../packages/contracts/index.js";
@@ -16,6 +16,12 @@ const effect = z.discriminatedUnion("type", [
     .strict(),
 ]);
 const asset = z.string().regex(/^\/(art|media)\/[a-zA-Z0-9._/-]+$/);
+const readingLocale = z
+  .object({ title: z.string(), text: z.array(z.string()) })
+  .strict();
+const readingFields = z
+  .object({ en: readingLocale.optional(), "zh-CN": readingLocale.optional() })
+  .strict();
 export const storySchema = z
   .object({
     id: z.string().regex(/^[a-z0-9-]+$/),
@@ -69,6 +75,17 @@ export const storySchema = z
             title: z.string(),
             chapter: z.string(),
             text: z.array(z.string()).min(1),
+            reading: readingFields.optional(),
+            help: z.array(z.string()).optional(),
+            illustration: z
+              .object({
+                key: z.string(),
+                src: asset,
+                alt: z.string(),
+                caption: z.string().optional(),
+              })
+              .strict()
+              .optional(),
             type: z.enum(["narrative", "choice", "check", "ending", "program"]),
             program: z.array(instruction).min(1).optional(),
             sourceId: z.string().optional(),
@@ -143,6 +160,25 @@ export function validateStory(input: unknown): Story {
       throw new Error(`${n.id} 程序配置错误`);
     if (n.program) {
       for (const [i, step] of n.program.entries()) {
+        const registrations =
+          step.kind === "effects" || step.kind === "rollEffects"
+            ? step.effects
+            : step.kind === "choices"
+              ? step.choices.flatMap((c) => c.effects ?? [])
+              : step.kind === "check"
+                ? [
+                    ...(step.check.successEffects ?? []),
+                    ...(step.check.failureEffects ?? []),
+                  ]
+                : [];
+        for (const mutation of registrations)
+          if (
+            mutation.op === "register" &&
+            mutation.kind === "skill" &&
+            mutation.key !== "$last" &&
+            s.presets.some((p) => !(mutation.key in p.skills))
+          )
+            throw new Error(`${n.id} 未知登记技能 ${mutation.key}`);
         if (
           step.kind === "check" &&
           !step.check.target &&
@@ -227,6 +263,14 @@ export function validateStory(input: unknown): Story {
   if (visited.size !== ids.size) throw new Error("存在不可达节点");
   return s;
 }
+const readingSidecar = z
+  .object({
+    storyId: z.string(),
+    version: z.string(),
+    sourceSha256: z.string().regex(/^[a-f0-9]{64}$/),
+    nodes: z.record(z.string(), readingFields),
+  })
+  .strict();
 export function loadStories(root: string) {
   const stories = new Map<string, Story>();
   for (const id of readdirSync(root))
@@ -236,6 +280,20 @@ export function loadStories(root: string) {
       );
       if (story.id !== id || story.version !== version)
         throw new Error("剧本目录与版本不匹配");
+      const readingPath = join(root, id, version, "reading.json");
+      if (existsSync(readingPath)) {
+        const reading = readingSidecar.parse(
+          JSON.parse(readFileSync(readingPath, "utf8")),
+        );
+        if (
+          reading.storyId !== id ||
+          reading.version !== version ||
+          Object.keys(reading.nodes).length !== story.nodes.length ||
+          story.nodes.some((n) => !reading.nodes[n.id])
+        )
+          throw new Error("正文语言包与剧本节点不匹配");
+        for (const node of story.nodes) node.reading = reading.nodes[node.id];
+      }
       stories.set(`${story.id}@${story.version}`, story);
     }
   return stories;

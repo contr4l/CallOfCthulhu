@@ -1,0 +1,1640 @@
+{
+  "survival": [
+    {
+      "node": "1",
+      "action": "next"
+    },
+    {
+      "node": "263",
+      "action": "allocate",
+      "input": {
+        "str": 70,
+        "con": 60,
+        "pow": 60,
+        "dex": 80,
+        "app": 50,
+        "siz": 50,
+        "int": 50,
+        "edu": 40
+      }
+    },
+    {
+      "node": "263",
+      "action": "next"
+    },
+    {
+      "node": "8",
+      "action": "next"
+    },
+    {
+      "node": "38",
+      "action": "next"
+    },
+    {
+      "node": "233",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "261",
+      "action": "next"
+    },
+    {
+      "node": "71",
+      "action": "to-239"
+    },
+    {
+      "node": "239",
+      "action": "allocate",
+      "input": {
+        "artCraft": 70,
+        "history": 60,
+        "libraryUse": 60,
+        "languageOwn": 50,
+        "psychology": 50,
+        "persuade": 50,
+        "spotHidden": 40,
+        "firstAid": 40
+      }
+    },
+    {
+      "node": "239",
+      "action": "next"
+    },
+    {
+      "node": "128",
+      "action": "allocate",
+      "input": {
+        "listen": 20,
+        "stealth": 20,
+        "dodge": 20,
+        "disguise": 20
+      }
+    },
+    {
+      "node": "128",
+      "action": "next"
+    },
+    {
+      "node": "144",
+      "action": "to-144-drive"
+    },
+    {
+      "node": "144-drive",
+      "action": "next"
+    },
+    {
+      "node": "174",
+      "action": "next"
+    },
+    {
+      "node": "194",
+      "action": "to-267"
+    },
+    {
+      "node": "267",
+      "action": "next"
+    },
+    {
+      "node": "4",
+      "action": "to-21"
+    },
+    {
+      "node": "21",
+      "action": "to-63"
+    },
+    {
+      "node": "63",
+      "action": "next"
+    },
+    {
+      "node": "154",
+      "action": "next"
+    },
+    {
+      "node": "166",
+      "action": "next"
+    },
+    {
+      "node": "192",
+      "action": "next"
+    },
+    {
+      "node": "218",
+      "action": "next"
+    },
+    {
+      "node": "6",
+      "action": "to-57"
+    },
+    {
+      "node": "57",
+      "action": "next"
+    },
+    {
+      "node": "69",
+      "action": "next"
+    },
+    {
+      "node": "25",
+      "action": "to-96"
+    },
+    {
+      "node": "96",
+      "action": "next"
+    },
+    {
+      "node": "106",
+      "action": "next"
+    },
+    {
+      "node": "25",
+      "action": "to-84"
+    },
+    {
+      "node": "84",
+      "action": "next"
+    },
+    {
+      "node": "25",
+      "action": "to-115"
+    },
+    {
+      "node": "115",
+      "action": "next"
+    },
+    {
+      "node": "127",
+      "action": "to-160"
+    },
+    {
+      "node": "160",
+      "action": "next"
+    },
+    {
+      "node": "3",
+      "action": "to-9"
+    },
+    {
+      "node": "9",
+      "action": "next"
+    },
+    {
+      "node": "22",
+      "action": "to-11"
+    },
+    {
+      "node": "11",
+      "action": "to-24"
+    },
+    {
+      "node": "24",
+      "action": "next"
+    },
+    {
+      "node": "43",
+      "action": "to-49"
+    },
+    {
+      "node": "49",
+      "action": "next"
+    },
+    {
+      "node": "56",
+      "action": "to-62"
+    },
+    {
+      "node": "62",
+      "action": "to-180"
+    },
+    {
+      "node": "180",
+      "action": "to-131"
+    },
+    {
+      "node": "131",
+      "action": "to-157"
+    },
+    {
+      "node": "157",
+      "action": "to-224"
+    },
+    {
+      "node": "224",
+      "action": "next"
+    },
+    {
+      "node": "26",
+      "action": "next"
+    },
+    {
+      "node": "64",
+      "action": "next"
+    },
+    {
+      "node": "78",
+      "action": "to-29"
+    },
+    {
+      "node": "29",
+      "action": "to-29-test"
+    },
+    {
+      "node": "42",
+      "action": "next"
+    },
+    {
+      "node": "61",
+      "action": "next"
+    },
+    {
+      "node": "120",
+      "action": "to-7"
+    },
+    {
+      "node": "7",
+      "action": "to-125"
+    },
+    {
+      "node": "125",
+      "action": "next"
+    },
+    {
+      "node": "146",
+      "action": "next"
+    },
+    {
+      "node": "152",
+      "action": "next"
+    },
+    {
+      "node": "211",
+      "action": "next"
+    },
+    {
+      "node": "223",
+      "action": "next"
+    }
+  ],
+  "magic": [
+    {
+      "node": "1",
+      "action": "next"
+    },
+    {
+      "node": "263",
+      "action": "allocate",
+      "input": {
+        "str": 70,
+        "con": 60,
+        "pow": 60,
+        "dex": 80,
+        "app": 50,
+        "siz": 50,
+        "int": 50,
+        "edu": 40
+      }
+    },
+    {
+      "node": "263",
+      "action": "next"
+    },
+    {
+      "node": "8",
+      "action": "next"
+    },
+    {
+      "node": "38",
+      "action": "next"
+    },
+    {
+      "node": "233",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "261",
+      "action": "next"
+    },
+    {
+      "node": "71",
+      "action": "to-239"
+    },
+    {
+      "node": "239",
+      "action": "allocate",
+      "input": {
+        "artCraft": 70,
+        "history": 60,
+        "libraryUse": 60,
+        "languageOwn": 50,
+        "psychology": 50,
+        "persuade": 50,
+        "spotHidden": 40,
+        "firstAid": 40
+      }
+    },
+    {
+      "node": "239",
+      "action": "next"
+    },
+    {
+      "node": "128",
+      "action": "allocate",
+      "input": {
+        "listen": 20,
+        "stealth": 20,
+        "dodge": 20,
+        "disguise": 20
+      }
+    },
+    {
+      "node": "128",
+      "action": "next"
+    },
+    {
+      "node": "144",
+      "action": "to-144-drive"
+    },
+    {
+      "node": "144-drive",
+      "action": "next"
+    },
+    {
+      "node": "174",
+      "action": "next"
+    },
+    {
+      "node": "194",
+      "action": "to-251"
+    },
+    {
+      "node": "251",
+      "action": "next"
+    },
+    {
+      "node": "267",
+      "action": "next"
+    },
+    {
+      "node": "4",
+      "action": "to-14"
+    },
+    {
+      "node": "14",
+      "action": "to-31"
+    },
+    {
+      "node": "31",
+      "action": "next"
+    },
+    {
+      "node": "39",
+      "action": "next"
+    },
+    {
+      "node": "63",
+      "action": "next"
+    },
+    {
+      "node": "154",
+      "action": "next"
+    },
+    {
+      "node": "166",
+      "action": "next"
+    },
+    {
+      "node": "192",
+      "action": "next"
+    },
+    {
+      "node": "218",
+      "action": "next"
+    },
+    {
+      "node": "6",
+      "action": "to-3"
+    },
+    {
+      "node": "3",
+      "action": "to-9"
+    },
+    {
+      "node": "9",
+      "action": "next"
+    },
+    {
+      "node": "22",
+      "action": "to-11"
+    },
+    {
+      "node": "11",
+      "action": "to-24"
+    },
+    {
+      "node": "24",
+      "action": "next"
+    },
+    {
+      "node": "43",
+      "action": "to-49"
+    },
+    {
+      "node": "49",
+      "action": "next"
+    },
+    {
+      "node": "56",
+      "action": "to-62"
+    },
+    {
+      "node": "62",
+      "action": "to-180"
+    },
+    {
+      "node": "180",
+      "action": "to-138"
+    },
+    {
+      "node": "138",
+      "action": "to-138-fastTalk"
+    },
+    {
+      "node": "138-fastTalk",
+      "action": "next"
+    },
+    {
+      "node": "151",
+      "action": "next"
+    },
+    {
+      "node": "157",
+      "action": "to-224"
+    },
+    {
+      "node": "224",
+      "action": "next"
+    },
+    {
+      "node": "26",
+      "action": "next"
+    },
+    {
+      "node": "64",
+      "action": "next"
+    },
+    {
+      "node": "78",
+      "action": "to-219"
+    },
+    {
+      "node": "219",
+      "action": "to-120"
+    },
+    {
+      "node": "120",
+      "action": "to-126"
+    },
+    {
+      "node": "126",
+      "action": "next"
+    },
+    {
+      "node": "133",
+      "action": "next"
+    },
+    {
+      "node": "147",
+      "action": "to-153"
+    },
+    {
+      "node": "153",
+      "action": "to-165"
+    },
+    {
+      "node": "165",
+      "action": "next"
+    },
+    {
+      "node": "177",
+      "action": "to-202"
+    },
+    {
+      "node": "202",
+      "action": "next"
+    },
+    {
+      "node": "207",
+      "action": "next"
+    },
+    {
+      "node": "213",
+      "action": "next"
+    },
+    {
+      "node": "120",
+      "action": "to-83"
+    },
+    {
+      "node": "83",
+      "action": "next"
+    },
+    {
+      "node": "95",
+      "action": "to-120"
+    },
+    {
+      "node": "98",
+      "action": "to-158"
+    },
+    {
+      "node": "158",
+      "action": "next"
+    },
+    {
+      "node": "7",
+      "action": "to-119"
+    },
+    {
+      "node": "119",
+      "action": "next"
+    },
+    {
+      "node": "139",
+      "action": "next"
+    },
+    {
+      "node": "108",
+      "action": "to-104"
+    },
+    {
+      "node": "104",
+      "action": "next"
+    },
+    {
+      "node": "205",
+      "action": "next"
+    },
+    {
+      "node": "27",
+      "action": "next"
+    },
+    {
+      "node": "117",
+      "action": "next"
+    },
+    {
+      "node": "10",
+      "action": "next"
+    },
+    {
+      "node": "18",
+      "action": "next"
+    },
+    {
+      "node": "33",
+      "action": "to-40"
+    },
+    {
+      "node": "40",
+      "action": "chant-command"
+    },
+    {
+      "node": "90",
+      "action": "confirm",
+      "input": {
+        "value": 10
+      }
+    },
+    {
+      "node": "90",
+      "action": "next"
+    },
+    {
+      "node": "198",
+      "action": "next"
+    },
+    {
+      "node": "209",
+      "action": "to-255"
+    }
+  ],
+  "death": [
+    {
+      "node": "1",
+      "action": "next"
+    },
+    {
+      "node": "263",
+      "action": "allocate",
+      "input": {
+        "str": 70,
+        "con": 60,
+        "pow": 60,
+        "dex": 80,
+        "app": 50,
+        "siz": 50,
+        "int": 50,
+        "edu": 40
+      }
+    },
+    {
+      "node": "263",
+      "action": "next"
+    },
+    {
+      "node": "8",
+      "action": "next"
+    },
+    {
+      "node": "38",
+      "action": "next"
+    },
+    {
+      "node": "233",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "261",
+      "action": "next"
+    },
+    {
+      "node": "71",
+      "action": "to-239"
+    },
+    {
+      "node": "239",
+      "action": "allocate",
+      "input": {
+        "artCraft": 70,
+        "history": 60,
+        "libraryUse": 60,
+        "languageOwn": 50,
+        "psychology": 50,
+        "persuade": 50,
+        "spotHidden": 40,
+        "firstAid": 40
+      }
+    },
+    {
+      "node": "239",
+      "action": "next"
+    },
+    {
+      "node": "128",
+      "action": "allocate",
+      "input": {
+        "listen": 20,
+        "stealth": 20,
+        "dodge": 20,
+        "disguise": 20
+      }
+    },
+    {
+      "node": "128",
+      "action": "next"
+    },
+    {
+      "node": "144",
+      "action": "to-144-drive"
+    },
+    {
+      "node": "144-drive",
+      "action": "next"
+    },
+    {
+      "node": "174",
+      "action": "next"
+    },
+    {
+      "node": "194",
+      "action": "to-251"
+    },
+    {
+      "node": "251",
+      "action": "next"
+    },
+    {
+      "node": "267",
+      "action": "next"
+    },
+    {
+      "node": "4",
+      "action": "to-14"
+    },
+    {
+      "node": "14",
+      "action": "to-31"
+    },
+    {
+      "node": "31",
+      "action": "next"
+    },
+    {
+      "node": "39",
+      "action": "next"
+    },
+    {
+      "node": "63",
+      "action": "next"
+    },
+    {
+      "node": "154",
+      "action": "next"
+    },
+    {
+      "node": "166",
+      "action": "next"
+    },
+    {
+      "node": "192",
+      "action": "next"
+    },
+    {
+      "node": "218",
+      "action": "next"
+    },
+    {
+      "node": "6",
+      "action": "to-3"
+    },
+    {
+      "node": "3",
+      "action": "to-9"
+    },
+    {
+      "node": "9",
+      "action": "next"
+    },
+    {
+      "node": "22",
+      "action": "to-11"
+    },
+    {
+      "node": "11",
+      "action": "to-24"
+    },
+    {
+      "node": "24",
+      "action": "next"
+    },
+    {
+      "node": "43",
+      "action": "to-49"
+    },
+    {
+      "node": "49",
+      "action": "next"
+    },
+    {
+      "node": "56",
+      "action": "to-62"
+    },
+    {
+      "node": "62",
+      "action": "to-180"
+    },
+    {
+      "node": "180",
+      "action": "to-138"
+    },
+    {
+      "node": "138",
+      "action": "to-138-fastTalk"
+    },
+    {
+      "node": "138-fastTalk",
+      "action": "next"
+    },
+    {
+      "node": "151",
+      "action": "next"
+    },
+    {
+      "node": "157",
+      "action": "to-224"
+    },
+    {
+      "node": "224",
+      "action": "next"
+    },
+    {
+      "node": "26",
+      "action": "next"
+    },
+    {
+      "node": "64",
+      "action": "next"
+    },
+    {
+      "node": "78",
+      "action": "to-219"
+    },
+    {
+      "node": "219",
+      "action": "to-120"
+    },
+    {
+      "node": "120",
+      "action": "to-126"
+    },
+    {
+      "node": "126",
+      "action": "next"
+    },
+    {
+      "node": "133",
+      "action": "next"
+    },
+    {
+      "node": "147",
+      "action": "to-153"
+    },
+    {
+      "node": "153",
+      "action": "to-165"
+    },
+    {
+      "node": "165",
+      "action": "next"
+    },
+    {
+      "node": "177",
+      "action": "to-202"
+    },
+    {
+      "node": "202",
+      "action": "next"
+    },
+    {
+      "node": "207",
+      "action": "next"
+    },
+    {
+      "node": "213",
+      "action": "next"
+    },
+    {
+      "node": "120",
+      "action": "to-83"
+    },
+    {
+      "node": "83",
+      "action": "next"
+    },
+    {
+      "node": "95",
+      "action": "to-120"
+    },
+    {
+      "node": "98",
+      "action": "to-158"
+    },
+    {
+      "node": "158",
+      "action": "next"
+    },
+    {
+      "node": "7",
+      "action": "to-119"
+    },
+    {
+      "node": "119",
+      "action": "next"
+    },
+    {
+      "node": "139",
+      "action": "next"
+    },
+    {
+      "node": "108",
+      "action": "to-104"
+    },
+    {
+      "node": "104",
+      "action": "next"
+    },
+    {
+      "node": "205",
+      "action": "next"
+    },
+    {
+      "node": "27",
+      "action": "next"
+    },
+    {
+      "node": "117",
+      "action": "next"
+    },
+    {
+      "node": "10",
+      "action": "next"
+    },
+    {
+      "node": "18",
+      "action": "next"
+    },
+    {
+      "node": "33",
+      "action": "to-40"
+    },
+    {
+      "node": "40",
+      "action": "chant-command"
+    },
+    {
+      "node": "90",
+      "action": "confirm",
+      "input": {
+        "value": 0
+      }
+    },
+    {
+      "node": "90",
+      "action": "next"
+    },
+    {
+      "node": "198",
+      "action": "next"
+    },
+    {
+      "node": "65",
+      "action": "next"
+    }
+  ],
+  "map": [
+    {
+      "node": "1",
+      "action": "next"
+    },
+    {
+      "node": "263",
+      "action": "allocate",
+      "input": {
+        "str": 70,
+        "con": 60,
+        "pow": 60,
+        "dex": 80,
+        "app": 50,
+        "siz": 50,
+        "int": 50,
+        "edu": 40
+      }
+    },
+    {
+      "node": "263",
+      "action": "next"
+    },
+    {
+      "node": "8",
+      "action": "next"
+    },
+    {
+      "node": "38",
+      "action": "next"
+    },
+    {
+      "node": "233",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "261",
+      "action": "next"
+    },
+    {
+      "node": "71",
+      "action": "to-239"
+    },
+    {
+      "node": "239",
+      "action": "allocate",
+      "input": {
+        "artCraft": 70,
+        "history": 60,
+        "libraryUse": 60,
+        "languageOwn": 50,
+        "psychology": 50,
+        "persuade": 50,
+        "spotHidden": 40,
+        "firstAid": 40
+      }
+    },
+    {
+      "node": "239",
+      "action": "next"
+    },
+    {
+      "node": "128",
+      "action": "allocate",
+      "input": {
+        "listen": 20,
+        "stealth": 20,
+        "dodge": 20,
+        "disguise": 20
+      }
+    },
+    {
+      "node": "128",
+      "action": "next"
+    },
+    {
+      "node": "144",
+      "action": "to-144-drive"
+    },
+    {
+      "node": "144-drive",
+      "action": "next"
+    },
+    {
+      "node": "174",
+      "action": "next"
+    },
+    {
+      "node": "194",
+      "action": "to-267"
+    },
+    {
+      "node": "267",
+      "action": "next"
+    },
+    {
+      "node": "4",
+      "action": "to-14"
+    },
+    {
+      "node": "14",
+      "action": "to-63"
+    },
+    {
+      "node": "63",
+      "action": "next"
+    },
+    {
+      "node": "154",
+      "action": "next"
+    },
+    {
+      "node": "166",
+      "action": "next"
+    },
+    {
+      "node": "192",
+      "action": "next"
+    },
+    {
+      "node": "218",
+      "action": "next"
+    },
+    {
+      "node": "6",
+      "action": "to-96"
+    },
+    {
+      "node": "96",
+      "action": "next"
+    },
+    {
+      "node": "106",
+      "action": "next"
+    },
+    {
+      "node": "25",
+      "action": "to-84"
+    },
+    {
+      "node": "84",
+      "action": "next"
+    },
+    {
+      "node": "25",
+      "action": "to-115"
+    },
+    {
+      "node": "115",
+      "action": "next"
+    },
+    {
+      "node": "127",
+      "action": "to-160"
+    },
+    {
+      "node": "160",
+      "action": "next"
+    },
+    {
+      "node": "25",
+      "action": "to-34"
+    },
+    {
+      "node": "34",
+      "action": "next"
+    },
+    {
+      "node": "3",
+      "action": "to-15"
+    },
+    {
+      "node": "15",
+      "action": "next"
+    },
+    {
+      "node": "22",
+      "action": "to-28"
+    },
+    {
+      "node": "28",
+      "action": "next"
+    },
+    {
+      "node": "41",
+      "action": "to-47"
+    },
+    {
+      "node": "47",
+      "action": "next"
+    },
+    {
+      "node": "11",
+      "action": "to-24"
+    },
+    {
+      "node": "24",
+      "action": "next"
+    },
+    {
+      "node": "43",
+      "action": "to-56"
+    },
+    {
+      "node": "56",
+      "action": "to-180"
+    },
+    {
+      "node": "180",
+      "action": "to-138"
+    },
+    {
+      "node": "138",
+      "action": "to-138-charm"
+    },
+    {
+      "node": "138-charm",
+      "action": "next"
+    },
+    {
+      "node": "145",
+      "action": "next"
+    },
+    {
+      "node": "157",
+      "action": "to-230"
+    },
+    {
+      "node": "230",
+      "action": "to-254"
+    },
+    {
+      "node": "254",
+      "action": "to-260"
+    },
+    {
+      "node": "260",
+      "action": "next"
+    },
+    {
+      "node": "19",
+      "action": "to-58"
+    },
+    {
+      "node": "58",
+      "action": "next"
+    },
+    {
+      "node": "64",
+      "action": "next"
+    },
+    {
+      "node": "78",
+      "action": "to-219"
+    },
+    {
+      "node": "219",
+      "action": "to-120"
+    },
+    {
+      "node": "120",
+      "action": "to-83"
+    },
+    {
+      "node": "83",
+      "action": "next"
+    },
+    {
+      "node": "95",
+      "action": "to-114"
+    },
+    {
+      "node": "114",
+      "action": "next"
+    },
+    {
+      "node": "120",
+      "action": "to-126"
+    },
+    {
+      "node": "126",
+      "action": "next"
+    },
+    {
+      "node": "133",
+      "action": "next"
+    },
+    {
+      "node": "140",
+      "action": "next"
+    },
+    {
+      "node": "98",
+      "action": "to-158"
+    },
+    {
+      "node": "158",
+      "action": "next"
+    },
+    {
+      "node": "7",
+      "action": "to-125"
+    },
+    {
+      "node": "125",
+      "action": "next"
+    },
+    {
+      "node": "146",
+      "action": "next"
+    },
+    {
+      "node": "152",
+      "action": "next"
+    },
+    {
+      "node": "211",
+      "action": "next"
+    },
+    {
+      "node": "223",
+      "action": "next"
+    }
+  ],
+  "combat": [
+    {
+      "node": "1",
+      "action": "next"
+    },
+    {
+      "node": "263",
+      "action": "allocate",
+      "input": {
+        "str": 70,
+        "con": 60,
+        "pow": 60,
+        "dex": 80,
+        "app": 50,
+        "siz": 50,
+        "int": 50,
+        "edu": 40
+      }
+    },
+    {
+      "node": "263",
+      "action": "next"
+    },
+    {
+      "node": "8",
+      "action": "next"
+    },
+    {
+      "node": "38",
+      "action": "next"
+    },
+    {
+      "node": "233",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "134",
+      "action": "next"
+    },
+    {
+      "node": "261",
+      "action": "next"
+    },
+    {
+      "node": "71",
+      "action": "to-239"
+    },
+    {
+      "node": "239",
+      "action": "allocate",
+      "input": {
+        "artCraft": 70,
+        "history": 60,
+        "libraryUse": 60,
+        "languageOwn": 50,
+        "psychology": 50,
+        "persuade": 50,
+        "spotHidden": 40,
+        "firstAid": 40
+      }
+    },
+    {
+      "node": "239",
+      "action": "next"
+    },
+    {
+      "node": "128",
+      "action": "allocate",
+      "input": {
+        "listen": 20,
+        "stealth": 20,
+        "dodge": 20,
+        "disguise": 20
+      }
+    },
+    {
+      "node": "128",
+      "action": "next"
+    },
+    {
+      "node": "144",
+      "action": "to-144-psychology"
+    },
+    {
+      "node": "144-psychology",
+      "action": "next"
+    },
+    {
+      "node": "162",
+      "action": "next"
+    },
+    {
+      "node": "194",
+      "action": "to-257"
+    },
+    {
+      "node": "257",
+      "action": "next"
+    },
+    {
+      "node": "267",
+      "action": "next"
+    },
+    {
+      "node": "4",
+      "action": "to-21"
+    },
+    {
+      "node": "21",
+      "action": "to-31"
+    },
+    {
+      "node": "31",
+      "action": "next"
+    },
+    {
+      "node": "39",
+      "action": "next"
+    },
+    {
+      "node": "63",
+      "action": "next"
+    },
+    {
+      "node": "154",
+      "action": "next"
+    },
+    {
+      "node": "166",
+      "action": "next"
+    },
+    {
+      "node": "192",
+      "action": "next"
+    },
+    {
+      "node": "218",
+      "action": "next"
+    },
+    {
+      "node": "6",
+      "action": "to-3"
+    },
+    {
+      "node": "3",
+      "action": "to-22"
+    },
+    {
+      "node": "22",
+      "action": "to-28"
+    },
+    {
+      "node": "28",
+      "action": "next"
+    },
+    {
+      "node": "41",
+      "action": "to-54"
+    },
+    {
+      "node": "54",
+      "action": "to-103"
+    },
+    {
+      "node": "103",
+      "action": "to-110"
+    },
+    {
+      "node": "110",
+      "action": "next"
+    },
+    {
+      "node": "149",
+      "action": "to-173"
+    },
+    {
+      "node": "173",
+      "action": "attack"
+    },
+    {
+      "node": "173",
+      "action": "dodge"
+    },
+    {
+      "node": "173",
+      "action": "dodge"
+    },
+    {
+      "node": "173",
+      "action": "attack"
+    },
+    {
+      "node": "173",
+      "action": "dodge"
+    },
+    {
+      "node": "173",
+      "action": "dodge"
+    },
+    {
+      "node": "173",
+      "action": "attack"
+    },
+    {
+      "node": "173",
+      "action": "dodge"
+    },
+    {
+      "node": "173",
+      "action": "dodge"
+    },
+    {
+      "node": "201",
+      "action": "next"
+    },
+    {
+      "node": "201",
+      "action": "next"
+    },
+    {
+      "node": "79",
+      "action": "next"
+    },
+    {
+      "node": "240",
+      "action": "next"
+    },
+    {
+      "node": "234",
+      "action": "to-208"
+    },
+    {
+      "node": "208",
+      "action": "next"
+    },
+    {
+      "node": "228",
+      "action": "next"
+    },
+    {
+      "node": "246",
+      "action": "next"
+    },
+    {
+      "node": "252",
+      "action": "next"
+    },
+    {
+      "node": "13",
+      "action": "next"
+    },
+    {
+      "node": "64",
+      "action": "next"
+    },
+    {
+      "node": "78",
+      "action": "to-83"
+    },
+    {
+      "node": "83",
+      "action": "next"
+    },
+    {
+      "node": "95",
+      "action": "to-120"
+    },
+    {
+      "node": "120",
+      "action": "to-219"
+    },
+    {
+      "node": "219",
+      "action": "to-120"
+    },
+    {
+      "node": "120",
+      "action": "to-29"
+    },
+    {
+      "node": "29",
+      "action": "to-120"
+    },
+    {
+      "node": "98",
+      "action": "to-164"
+    },
+    {
+      "node": "164",
+      "action": "to-176"
+    },
+    {
+      "node": "176",
+      "action": "next"
+    },
+    {
+      "node": "189",
+      "action": "next"
+    },
+    {
+      "node": "204",
+      "action": "next"
+    },
+    {
+      "node": "152",
+      "action": "next"
+    },
+    {
+      "node": "211",
+      "action": "next"
+    },
+    {
+      "node": "223",
+      "action": "next"
+    }
+  ]
+}

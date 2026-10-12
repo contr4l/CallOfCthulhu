@@ -26,7 +26,16 @@ const credentials = z
   })
   .strict();
 
-export function registerAuth(app: FastifyInstance, db: DatabaseSync) {
+const registration = credentials.extend({
+  inviteCode: z.string().trim().max(128).optional(),
+});
+
+export function registerAuth(
+  app: FastifyInstance,
+  db: DatabaseSync,
+  inviteCode = process.env.REGISTRATION_INVITE_CODE?.trim() || "fa6ian-test",
+) {
+  const inviteDigest = createHash("sha256").update(inviteCode.trim()).digest();
   function user(request: {
     cookies: Record<string, string | undefined>;
   }): User {
@@ -67,7 +76,12 @@ export function registerAuth(app: FastifyInstance, db: DatabaseSync) {
     "/api/auth/register",
     { config: { rateLimit: { max: 10, timeWindow: "1 minute" } } },
     async (request, reply) => {
-      const data = credentials.parse(request.body);
+      const data = registration.parse(request.body);
+      const suppliedInvite = createHash("sha256")
+        .update(data.inviteCode ?? "")
+        .digest();
+      if (!timingSafeEqual(suppliedInvite, inviteDigest))
+        throw new GameError(403, "邀请码无效，请检查后重试。");
       const salt = randomBytes(16).toString("hex");
       const key = (await derive(data.password, salt, 64)) as Buffer;
       const id = randomUUID();

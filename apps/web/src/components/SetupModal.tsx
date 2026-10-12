@@ -62,6 +62,19 @@ export function SetupModal({
             maxLength={24}
           />
         </label>
+        {story.creationPolicy === "guided" && (
+          <label>
+            年龄（可选）
+            <input
+              name="age"
+              type="number"
+              min={23}
+              max={36}
+              placeholder="23–36"
+            />
+            <small>本冒险建议 23–36 岁，属性与职业将在剧情里确定。</small>
+          </label>
+        )}
         <div className="mode-tabs">
           <button
             type="button"

@@ -17,7 +17,7 @@ test("login rotates sessions, invalid credentials reject, logout revokes access"
       method: "POST",
       url: "/api/auth/register",
       headers,
-      payload: { username: "调查员", password: "test-password-123" },
+      payload: { inviteCode: "fa6ian-test", username: "调查员", password: "test-password-123" },
     });
     assert.equal(duplicate.statusCode, 409);
     const invalid = await app.inject({
@@ -118,7 +118,7 @@ async function register(
     method: "POST",
     url: "/api/auth/register",
     headers,
-    payload: { username, password: "test-password-123" },
+    payload: { inviteCode: "fa6ian-test", username, password: "test-password-123" },
   });
   assert.equal(r.statusCode, 200, r.body);
   return r.cookies[0].value;

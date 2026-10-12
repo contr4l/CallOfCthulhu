@@ -8,7 +8,10 @@ from html.parser import HTMLParser
 ROOT=Path(__file__).resolve().parents[2]
 LABELS={'心理学':'psychology','体质':'con','敏捷':'dex','力量':'str','意志':'pow','智力':'int','侦查':'spotHidden','聆听':'listen','博物学':'naturalWorld','机械维修':'mechanicalRepair','神秘学':'occult','理智':'sanity','幸运':'luck','急救':'firstAid','闪避':'dodge','恐吓':'intimidate','说服':'persuade','潜行':'stealth','导航':'navigate','格斗（斗殴）':'fightingBrawl'}
 EN={'Disguise':'disguise','Persuade':'persuade','Archaeology':'archaeology','Fast Talk':'fastTalk','Spot Hidden':'spotHidden','Natural World':'naturalWorld','Charm':'charm','Climb':'climb','CON':'con','STR':'str','DEX':'dex','APP':'app','POW':'pow','INT':'int','Luck':'luck','Sanity':'sanity','Dodge':'dodge','Psychology':'psychology','Credit Rating':'creditRating','Stealth':'stealth','Listen':'listen','Library Use':'libraryUse','Track':'track','First Aid':'firstAid','Locksmith':'locksmith','Intimidate':'intimidate','Ride':'ride','Fighting (Brawl)':'fightingBrawl','Fighting(Brawl)':'fightingBrawl','Science (Botany)':'scienceBotany','Drive Auto':'driveAuto'}
-def flag(k,v=True):return {'op':'flag','key':k,'value':v}
+def flag(k,v=True):
+ if v and k.startswith('skillMark.'):return {'op':'register','kind':'skill','key':k[len('skillMark.'):]}
+ if v and re.search(r'[\u3400-\u9fff]',k):return {'op':'register','kind':'state','key':k}
+ return {'op':'flag','key':k,'value':v}
 def add(k,v):return {'op':'add','field':k,'value':v}
 def setv(k,v):return {'op':'set','field':k,'value':v}
 def pred(k,v=True):return {'flag':k,'equals':v}
@@ -291,7 +294,75 @@ def flames_module():
  from_defaults=json.loads((ROOT/'chars/alone-against-static/alex.json').read_text())['skills']
  from_defaults.update({'accounting':5,'creditRating':0,'dodge':0,'driveAuto':20,'firstAid':30,'fightingBrawl':25,'languageOwn':0,'listen':20,'naturalWorld':10,'navigate':10,'persuade':10,'psychology':10,'spotHidden':25,'stealth':20,'intimidate':15,'scienceBotany':1,'sciencePharmacy':1,'scienceBiology':1})
  preset={'id':'guided','label':'剧情引导建卡','description':'按原书分配属性、职业技能与个人兴趣；无预设人物。','occupation':'尚未选择','skills':from_defaults,'hp':1,'sanity':0,'attributes':{k:0 for k in ['str','con','siz','dex','app','pow','int','edu']},'mp':0,'damageBonus':'0'}
- return make_story('alone-against-flames','Alone Against the Flames',path,raw,programs,[preset],'guided',None,notes)
+ return localize_flames(make_story('alone-against-flames','Alone Against the Flames',path,raw,programs,[preset],'guided',None,notes))
+
+
+class ChineseNarrative(HTMLParser):
+ def __init__(self):super().__init__();self.lines=[];self.parts=[]
+ def flush(self):
+  text=''.join(self.parts).strip();self.parts=[]
+  if text and not re.search(r'【剧终】|^(?:转到|请阅读|请参阅)',text):self.lines.append(text)
+ def handle_starttag(self,tag,attrs):
+  if tag in ['p','div','h2','br']:self.flush()
+ def handle_endtag(self,tag):
+  if tag in ['p','div','h2']:self.flush()
+ def handle_data(self,text):self.parts.append(text)
+
+def chinese_text(chapter):
+ # Guide blocks are paper instructions; the reviewed engine already executes them.
+ parts=re.split(r'(\[guide-start\]|\[guide-end\])',''.join(chapter['texts']));guide=False;html=[]
+ for part in parts:
+  if part=='[guide-start]':guide=True
+  elif part=='[guide-end]':guide=False
+  elif not guide:html.append(part)
+ parser=ChineseNarrative();parser.feed(''.join(html));parser.flush()
+ return parser.lines or ['本段规则由网页自动处理，请按下方提示继续。']
+
+def localize_flames(story):
+ root=ROOT/'scripts/alone-against-flames/zh-CN';chapters={str(k):json.loads((root/'chapters'/f'{k}.json').read_text()) for k in range(1,271)}
+ mapping_text=(root/'chapter-map.js').read_text();mapping=json.loads(mapping_text[mapping_text.index('{'):mapping_text.rindex('}')+1])
+ skill_text=(ROOT/'packages/contracts/character-labels.ts').read_text();labels=dict(re.findall(r'\b(\w+):\s*"([^"]+)"',skill_text));labels.update({'sanity':'理智','luck':'幸运','spell':'施法','claw':'爪击'})
+ node_by_id={n['id']:n for n in story['nodes']}
+ for node in story['nodes']:
+  source=node['sourceId'];source=source if source in chapters else '40'
+  node['title']='向火独行 · '+source;node['text']=chinese_text(chapters[source]);node['chapter']='原书条目 '+source
+  for step in node['program']:
+   if step['kind']=='check':step['check']['label']=labels.get(step['check']['skill'],step['check']['label'])
+   if step['kind']=='choices':
+    for c in step['choices']:
+     if re.search('[A-Za-z]{3}',c['label']):
+      translated=[opt['text'] for opt in chapters[source].get('options',[]) if str(mapping.get(source,{}).get(str(opt['key'])))==c.get('target')]
+      if not translated:raise ValueError(('missing choice translation',node['id'],c))
+      c['label']=translated[0]
+     for token,label in [('chant-arbogast','吟诵阿博加斯特的仪式'),('chant-call','召唤天界之焰'),('chant-command','命令天界之焰')]:
+      if c['id']==token:c['label']=label
+  if node['id']=='fire-death':node['text']=['火焰吞没了你。你未能逃离烬头村，这次调查在烈火中终结。']
+ # Distinct survival endings retain their own narrative and collection identities.
+ story['nodes']=[n for n in story['nodes'] if n['id']!='survived']
+ for key,label in [('185','骑向黎明'),('223','走出烬头村'),('247','劫后余生')]:
+  for step in node_by_id[key]['program']:
+   if step['kind']=='choices':
+    for c in step['choices']:
+     if c['target']=='survived':c['target']=key+'-end';c['label']='结束冒险，保存结局'
+  end_node={**node_by_id[key],'id':key+'-end','title':'向火独行 · '+label,'program':[end(label)]}
+  story['nodes'].append(end_node)
+ for node in story['nodes']:
+  for step in node['program']:
+   if step['kind']=='allocation' and step['allocation']['kind']=='occupation':
+    a=step['allocation'];a['specializations']={'artCraft':{'label':'艺术与手艺专长',**({'fixed':'摄影'} if node['sourceId'] in ['239','249'] else {})},'languageOther':{'label':'外语',**({'fixed':'拉丁语'} if node['sourceId']=='226' else {})}}
+   if step['kind']=='end' and step['label'].startswith('结局 · '):step['label']={'77':'未能挣脱烈火','80':'召唤之祸','92':'坠入深渊','123':'重返火刑柱','193':'葬身荒野','196':'地底终结','220':'归于群星','231':'焚尽村庄','243':'星火吞噬','255':'驱散星火','270':'时间之外'}.get(node['sourceId'],'终章 · '+node['sourceId'])
+  node['help']={
+   '71':['请选择职业。姓名已在开局时确定，个人背景可在调查员档案中补充。'],
+   '90':['每投入 1 点提高 10% 成功率；96–100 始终失败。魔法点不足时才扣除生命，并为你保留至少 1 点生命。'],
+  }.get(node['id'],[])
+ map_art={'key':'emberhead-map','src':'/media/alone-against-flames/emberhead-map.png','alt':'烬头村原书地图，标有灯塔、村公所、杂货店、东路和西路','caption':'原书地图。The Beacon：灯塔；Village Hall：村公所；General Store：杂货店；Ledbetter’s House：莱德贝特家；East Road / West Road：东路 / 西路。'}
+ node_by_id['140']['illustration']=map_art
+ node_by_id['140']['program'].insert(0,effects({'op':'item','key':'emberhead-map','label':'烬头村地图'}))
+ story['title']='向火独行';story['version']='1.1.0';story['description']='中文单人冒险：在网页内建卡、探索、战斗与施法，自动记录经历与结局。';story['subtitle']='中文完整版 · 剧情引导建卡'
+ story['source']['notes'].append('中文正文来自仓库 zh-CN 完整章节集；保留原书编号，去除纸面指导块，规则继续由已审校的英文指令编译执行。')
+ story['source']['notes'].append('三个生还结局分别保存为185-end、223-end、247-end；地图从同一原始 EPUB 提取，未修改图片。')
+ story['source']['notes'].append('中文章节校验和：'+hashlib.sha256(''.join((root/'chapters'/f'{k}.json').read_text() for k in range(1,271)).encode()).hexdigest())
+ return story
 
 def make_story(id,title,path,raw,programs,presets,creation,health,notes):
  nodes=[{'id':k,'sourceId':k.split('-')[0] if k.split('-')[0].isdigit() else 'adaptation','type':'program','title':title+' · '+k.split('-')[0],'chapter':'原书条目 '+k.split('-')[0],'text':normal_text(raw[k]),'background':'/art/lighthouse.svg','program':v} for k,v in programs.items()]
@@ -299,5 +370,8 @@ def make_story(id,title,path,raw,programs,presets,creation,health,notes):
 
 def main():
  for fn in [static_module,flames_module]:
-  story=fn();path=ROOT/'stories'/story['id']/story['version'];path.mkdir(parents=True,exist_ok=True);(path/'story.json').write_text(json.dumps(story,ensure_ascii=False,indent=2)+'\n');print(story['id'],len(story['nodes']))
+  story=fn();path=ROOT/'stories'/story['id']/story['version']
+  if fn is static_module and (path/'story.json').exists():
+   print(story['id'],'保留已有发布包；规则修订须另发版本');continue
+  path.mkdir(parents=True,exist_ok=True);(path/'story.json').write_text(json.dumps(story,ensure_ascii=False,indent=2)+'\n');print(story['id'],len(story['nodes']))
 if __name__=='__main__':main()

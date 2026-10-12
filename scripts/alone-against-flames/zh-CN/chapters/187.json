@@ -1,0 +1,51 @@
+{
+    "key": 187,
+    "texts": [
+        "<p>那道隐藏的阶梯似乎是最合理的解释。这个男人可能沿着阶梯爬到了上面的烬头村。你仔细观察悬崖，推断自己大约在四十码之前就已经走过了阶梯的位置；当时，他还完全在你的视野里。</p>",
+        "[guide-start]",
+        "<p>你可以进行一次困难「侦查」检定。如果成功，转到181。否则，放弃追踪，转到160。</p>",
+        "[guide-end]"
+    ],
+    "options": [
+        {
+            "key": 0,
+            "text": "继续",
+            "show": "flag_check_passed"
+        },
+        {
+            "key": 1,
+            "text": "放弃追踪",
+            "show": "flag_check_failed"
+        }
+    ],
+    "interactions": [
+        {
+            "text": "侦查检定-困难",
+            "action": "action_check",
+            "param": {
+                "key": "spot",
+                "isSkill": true,
+                "level": "half"
+            },
+            "show": "flag_check_unfinished"
+        }
+    ],
+    "onload": [
+        {
+            "action": "action_set_highlight",
+            "param": {
+                "key": "spot",
+                "level": "half"
+            }
+        }
+    ],
+    "onleave": [
+        {
+            "action": "action_set_highlight",
+            "param": {
+                "key": "spot",
+                "level": "none"
+            }
+        }
+    ]
+}

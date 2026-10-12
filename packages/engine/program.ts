@@ -2,7 +2,9 @@ import { randomUUID } from "node:crypto";
 import type {
   Character,
   CheckResult,
+  RuleDiceResult,
   RunState,
+  Registration,
   SceneView,
   Story,
 } from "../contracts/index.js";
@@ -165,16 +167,20 @@ function mutations(s: RunState, ops: Mutation[], dice: DiceSource) {
       p(s).sanityLost = 0;
       continue;
     }
+    if (e.op === "register") {
+      const skill = e.key === "$last" ? p(s).lastSkill : e.key;
+      if (e.kind === "skill" && (!skill || !(skill in s.character.skills)))
+        invalid("登记引用了未知技能或尚未完成的技能检定");
+      const key = e.kind === "skill" ? `skillMark.${skill}` : e.key;
+      if (e.label || e.kind === "state")
+        (p(s).registrationLabels ??= {})[key] = e.label ?? e.key;
+      registerFlag(s, key, true);
+      continue;
+    }
     if (e.op === "flag") {
       const key =
         e.key === "skillMark.$last" ? `skillMark.${p(s).lastSkill}` : e.key;
-      s.flags[key] = e.value;
-      if (
-        key.startsWith("skillMark.") &&
-        e.value &&
-        !p(s).skillMarks.includes(key.slice(10))
-      )
-        p(s).skillMarks.push(key.slice(10));
+      registerFlag(s, key, e.value);
       continue;
     }
     if (e.op === "derive") {
@@ -381,13 +387,18 @@ function resolve(s: RunState, c: ProgramCheck, dice: DiceSource): CheckResult {
   );
   result.skill = c.skill;
   if (other) {
+    result.opponent = {
+      roll: other.roll,
+      target: other.target,
+      grade: other.grade,
+    };
     const base =
       s.character.skills[c.skill] ?? s.character.attributes?.[c.skill] ?? 0;
     result.success =
       ranks[result.grade] > ranks[other.grade] ||
       (ranks[result.grade] === ranks[other.grade] && base > c.opposed!);
     p(s).log.push(
-      `对抗检定：对方 ${other.roll}/${other.target} ${other.grade}`,
+      `对抗检定：对方 ${other.roll}/${other.target} ${gradeNames[other.grade]}`,
     );
   }
   if (c.fumbleAt && result.roll >= c.fumbleAt) {
@@ -423,7 +434,7 @@ function checkDone(
   const effects = result.success ? c.successEffects : c.failureEffects;
   apply(story, s, effects ?? [], dice, target);
 }
-function records(s: RunState) {
+function registrations(s: RunState): Registration[] {
   const labels: Record<string, string> = {
     majorWound: "重伤",
     indefinite: "不定性疯狂",
@@ -436,17 +447,70 @@ function records(s: RunState) {
   };
   return Object.entries(s.flags)
     .filter(([, v]) => v)
-    .flatMap(([k]) =>
+    .flatMap<Registration>(([k]) =>
       k.startsWith("skillMark.")
-        ? [`成长标记：${skillLabels[k.slice(10)] ?? k.slice(10)}`]
-        : labels[k]
-          ? [labels[k]]
-          : /[\u3400-\u9fff]/.test(k)
-            ? [k]
-            : [],
+        ? [
+            {
+              key: k,
+              kind: "skill" as const,
+              label:
+                p(s).registrationLabels?.[k] ??
+                `成长标记：${skillLabels[k.slice(10)] ?? k.slice(10)}`,
+            },
+          ]
+        : (p(s).registrationLabels?.[k] ??
+            labels[k] ??
+            (/[\u3400-\u9fff]/.test(k) ? k : undefined))
+          ? [
+              {
+                key: k,
+                kind: "state" as const,
+                label: p(s).registrationLabels?.[k] ?? labels[k] ?? k,
+              },
+            ]
+          : [],
     );
 }
-export function projectProgram(story: Story, s: RunState): Partial<SceneView> {
+function registerFlag(s: RunState, key: string, enabled: boolean) {
+  const changed = (s.flags[key] ?? false) !== enabled;
+  s.flags[key] = enabled;
+  if (key.startsWith("skillMark.")) {
+    const skill = key.slice(10);
+    if (enabled && !p(s).skillMarks.includes(skill))
+      p(s).skillMarks.push(skill);
+    if (!enabled) p(s).skillMarks = p(s).skillMarks.filter((k) => k !== skill);
+  }
+  const record = registrations(s).find((r) => r.key === key);
+  if (changed && enabled && record)
+    p(s).log.push(`已自动登记：${record.label}`);
+}
+
+/** Original text stays in source files. Player views omit paper bookkeeping and numbered routing. */
+export function narrativeText(lines: string[]): string[] {
+  const paper =
+    /(?:记录表|方框|表格).*(?:勾选|打勾|划勾|画勾|划.{0,4}勾)|(?:勾选|打勾|划勾|画勾).*(?:记录表|方框|表格)|\bcheck[- ]mark(?:ed)?\b|\bsmall box\b/i;
+  const routing = /(?:转到|回到|跳转到)\s*\d+|\b(?:go|turn)\s+to\s+\d+\b/i;
+  return lines
+    .map((line) =>
+      line
+        .split(/(?<=[。！？])|(?<=[.!?])(?=\s)/u)
+        .filter(
+          (sentence) =>
+            !paper.test(sentence) && !routing.test(sentence) && sentence.trim(),
+        )
+        .join("")
+        .trim(),
+    )
+    .filter(
+      (line) =>
+        line.length > 0 &&
+        ![
+          "按当前规则操作继续。",
+          "本段规则由网页自动处理，请按下方提示继续。",
+        ].includes(line),
+    );
+}
+function projectProgramRaw(story: Story, s: RunState): Partial<SceneView> {
   const step = instruction(story, s);
   let actions: SceneView["actions"] = [],
     check: SceneView["check"],
@@ -521,6 +585,9 @@ export function projectProgram(story: Story, s: RunState): Partial<SceneView> {
       label: step.label,
       min: step.min,
       max: value(s, step.max),
+      ...(step.cost === "mp"
+        ? { resources: { mp: s.character.mp ?? 0, hp: s.character.hp } }
+        : {}),
     };
   } else if (step.kind === "random")
     actions = [{ id: "roll", label: `掷 D${step.sides}` }];
@@ -543,8 +610,24 @@ export function projectProgram(story: Story, s: RunState): Partial<SceneView> {
     return {
       actions,
       notices: p(s).log,
-      combat: { name: step.combat.name, hp: c.hp, round: c.round },
-      records: records(s),
+      combat: {
+        name: step.combat.name,
+        hp: c.hp,
+        round: c.round,
+        turn: c.wounded
+          ? "你受到重伤，先检定能否保持清醒"
+          : c.playerTurn
+            ? c.stance === "dodge"
+              ? "轮到你行动，对手准备闪避"
+              : "轮到你行动，请选择攻击"
+            : "对手正在攻击，请选择反击或闪避",
+        armor: c.armor,
+        weapon: s.inventory.some((i) => i.key === "knife")
+          ? `猎刀：1D4 + ${s.character.damageBonus ?? "0"}`
+          : `徒手：1D3 + ${s.character.damageBonus ?? "0"}`,
+      },
+      records: registrations(s).map((r) => r.label),
+      registrations: registrations(s),
     };
   }
   return {
@@ -553,14 +636,65 @@ export function projectProgram(story: Story, s: RunState): Partial<SceneView> {
     input,
     ...(step.kind === "end" ? { ending: step.label } : {}),
     notices: p(s).log,
-    records: records(s),
+    records: registrations(s).map((r) => r.label),
+    registrations: registrations(s),
   };
+}
+export function projectProgram(story: Story, s: RunState): Partial<SceneView> {
+  const view = projectProgramRaw(story, s);
+  const step = instruction(story, s);
+  if (
+    !p(s).pending &&
+    ["choices", "check", "rollEffects", "random"].includes(step.kind) &&
+    view.actions?.length === 1
+  ) {
+    view.actions = [
+      {
+        id: "next",
+        label: ["check", "rollEffects", "random"].includes(step.kind)
+          ? view.actions[0].label
+          : "下一节",
+      },
+    ];
+  }
+  return { ...view, text: narrativeText(node(story, s.nodeId).text) };
 }
 function allocation(
   s: RunState,
   a: Extract<Instruction, { kind: "allocation" }>["allocation"],
   input: Record<string, number | string>,
 ) {
+  const specialtyInput = Object.fromEntries(
+    Object.entries(input)
+      .filter(([k]) => k.startsWith("specialty."))
+      .map(([k, v]) => [k.slice(10), v]),
+  );
+  input = Object.fromEntries(
+    Object.entries(input).filter(([k]) => !k.startsWith("specialty.")),
+  );
+  if (
+    Object.keys(specialtyInput).some(
+      (k) => !a.specializations?.[k] || !(k in input),
+    )
+  )
+    invalid("不能填写此专长");
+  const specialtyValues: Record<string, string> = {};
+  for (const [k, rule] of Object.entries(a.specializations ?? {}))
+    if (k in input) {
+      const supplied = specialtyInput[k];
+      if (
+        supplied !== undefined &&
+        (typeof supplied !== "string" ||
+          !supplied.trim() ||
+          supplied.trim().length > 40)
+      )
+        invalid("请填写不超过40字的专长");
+      if (rule.fixed && supplied !== undefined && supplied !== rule.fixed)
+        invalid("此职业专长已固定");
+      const val = rule.fixed ?? (supplied as string | undefined)?.trim();
+      if (!val) invalid(`请填写${rule.label}`);
+      specialtyValues[k] = val;
+    }
   const keys = Object.keys(input),
     vals = Object.values(input);
   if (vals.some((x) => typeof x !== "number" || !Number.isInteger(x)))
@@ -606,9 +740,22 @@ function allocation(
     invalid("职业技能与指定点值不符");
   for (const k of keys) s.character.skills[k] = input[k] as number;
   p(s).occupationSkills = keys;
+  if (Object.keys(specialtyValues).length)
+    s.character.specializations = {
+      ...s.character.specializations,
+      ...specialtyValues,
+    };
   s.character.occupation = a.occupation!;
   s.character.skills.creditRating = a.credit!;
 }
+const gradeNames = {
+  critical: "大成功",
+  extreme: "极难成功",
+  hard: "困难成功",
+  regular: "普通成功",
+  failure: "失败",
+  fumble: "大失败",
+};
 const ranks = {
   fumble: 0,
   failure: 0,
@@ -720,7 +867,14 @@ function combat(
       : attack.skill,
     dice,
   );
-  p(s).log.push(`${spec.name}：${enemy.roll}/${enemy.target} ${enemy.grade}`);
+  player.opponent = {
+    roll: enemy.roll,
+    target: enemy.target,
+    grade: enemy.grade,
+  };
+  p(s).log.push(
+    `${spec.name}：${enemy.roll}/${enemy.target} ${gradeNames[enemy.grade]}`,
+  );
   const pr = ranks[player.grade],
     er = ranks[enemy.grade];
   const playerWins =
@@ -733,6 +887,21 @@ function combat(
         ? pr >= er
         : pr > er);
   const enemyWins = er > 0 && !playerWins;
+  player.combat = {
+    enemyName: spec.name,
+    round: c.round,
+    action:
+      action === "attack" ? "攻击" : action === "fightBack" ? "反击" : "闪避",
+    result: playerWins
+      ? action === "dodge"
+        ? "dodged"
+        : "hit"
+      : enemyWins && (!offense || c.stance === "fight")
+        ? "hurt"
+        : "miss",
+    damage: 0,
+    recipient: "none",
+  };
   let damage = 0;
   const damageRoll = (
     expr: string,
@@ -764,11 +933,15 @@ function combat(
     damage = Math.max(0, rolled - c.armor);
     c.armor = Math.max(0, c.armor - rolled);
     c.hp = Math.max(0, c.hp - damage);
+    player.combat.damage = damage;
+    player.combat.recipient = "enemy";
     p(s).log.push(`${spec.name} 受到 ${damage} 点伤害`);
   }
   if (enemyWins && (!offense || c.stance === "fight")) {
     damage = damageRoll(attack.damage, spec.damageBonus, enemy.grade, !offense);
     s.character.hp = Math.max(0, s.character.hp - damage);
+    player.combat.damage = damage;
+    player.combat.recipient = "player";
     p(s).log.push(`受到 ${damage} 点伤害`);
     if (damage > 0 && (s.flags.majorWound || damage >= s.character.maxHp / 2)) {
       s.flags.majorWound = true;
@@ -798,7 +971,19 @@ export function advanceProgram(
   const s = structuredClone(current);
   p(s).log = [];
   const step = instruction(story, s);
+  if (actionId === "next") {
+    const visible = projectProgram(story, s).actions;
+    const available = projectProgramRaw(story, s).actions;
+    if (
+      visible?.length !== 1 ||
+      visible[0].id !== "next" ||
+      available?.length !== 1
+    )
+      invalid("当前剧情需要作出选择，不能自动推进");
+    actionId = available![0].id;
+  }
   let result: CheckResult | undefined;
+  let ruleDice: RuleDiceResult | undefined;
   let action = actionId;
   if (p(s).randomChoices) {
     const target = actionId.replace("random-", "");
@@ -816,7 +1001,39 @@ export function advanceProgram(
     } else checkDone(story, s, pending.check, pending.result, dice);
   } else if (step.kind === "rollEffects" && actionId === "roll") {
     p(s).cursor++;
-    apply(story, s, step.effects, dice);
+    const groups = new Map<number, number[]>();
+    apply(story, s, step.effects, (min, max) => {
+      const drawn = dice(min, max);
+      if (min === 1) {
+        const sides = max - 1;
+        const results = groups.get(sides) ?? [];
+        results.push(drawn);
+        groups.set(sides, results);
+      }
+      return drawn;
+    });
+    if (groups.size) {
+      const total = [...groups.values()].flat().reduce((a, b) => a + b, 0);
+      const scaled = step.effects.find(
+        (e) =>
+          (e.op === "set" || e.op === "add") &&
+          typeof e.value === "object" &&
+          e.value.factor !== undefined,
+      );
+      const multiplier =
+        scaled &&
+        (scaled.op === "set" || scaled.op === "add") &&
+        typeof scaled.value === "object"
+          ? (scaled.value.factor ?? 1)
+          : 1;
+      ruleDice = {
+        label: step.label,
+        groups: [...groups].map(([sides, results]) => ({ sides, results })),
+        total,
+        multiplier,
+        value: Math.floor(total * multiplier),
+      };
+    }
   } else if (step.kind === "check" && actionId === "roll") {
     result = resolve(s, step.check, dice);
     action = `进行${step.check.label}检定`;
@@ -874,7 +1091,15 @@ export function advanceProgram(
       dice,
     );
   } else if (step.kind === "random" && actionId === "roll") {
-    let target = step.targets[dice(1, step.sides + 1) - 1];
+    const rolled = dice(1, step.sides + 1);
+    ruleDice = {
+      label: `随机事件 · D${step.sides}`,
+      groups: [{ sides: step.sides, results: [rolled] }],
+      total: rolled,
+      multiplier: 1,
+      value: rolled,
+    };
+    let target = step.targets[rolled - 1];
     if (step.unvisited && (p(s).visits[target] ?? 0) > 0) {
       const available = step.targets.filter((t) => !p(s).visits[t]);
       if (!available.length) go(story, s, step.exhausted!);
@@ -888,6 +1113,7 @@ export function advanceProgram(
     state: s,
     action,
     check: result,
+    dice: ruleDice,
     memory: node(story, s.nodeId).memory,
   };
 }

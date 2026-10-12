@@ -1,5 +1,19 @@
 import type { Instruction, ProgramState, SceneInput } from "./program.js";
+export type CharacterProfile = {
+  age?: number;
+  pronouns?: string;
+  birthplace?: string;
+  residence?: string;
+  appearance?: string;
+  ideology?: string;
+  importantPeople?: string;
+  meaningfulPlaces?: string;
+  treasuredPossessions?: string;
+  notes?: string;
+};
 export type Character = {
+  specializations?: Record<string, string>;
+  profile?: CharacterProfile;
   name: string;
   occupation: string;
   hp: number;
@@ -32,7 +46,19 @@ export type Effect =
   | { type: "hp" | "sanity"; amount: number }
   | { type: "item"; key: string; label: string };
 export type Condition = { flag: string; equals: boolean };
+export type SceneIllustration = {
+  key: string;
+  src: string;
+  alt: string;
+  caption?: string;
+};
+export type SceneReading = Partial<
+  Record<"en" | "zh-CN", { title: string; text: string[] }>
+>;
 export type StoryNode = {
+  reading?: SceneReading;
+  help?: string[];
+  illustration?: SceneIllustration;
   id: string;
   title: string;
   chapter: string;
@@ -123,6 +149,7 @@ export type Story = {
 };
 export type StorySummary = Omit<Story, "nodes" | "entry">;
 export type RunState = {
+  createdCharacterId?: string;
   program?: ProgramState;
   nodeId: string;
   visitId: string;
@@ -131,7 +158,24 @@ export type RunState = {
   inventory: { key: string; label: string }[];
   status: "active" | "ended";
 };
+export type RuleDiceResult = {
+  label: string;
+  groups: { sides: number; results: number[] }[];
+  total: number;
+  multiplier: number;
+  value: number;
+};
+export type CombatOutcome = {
+  enemyName: string;
+  round: number;
+  action: string;
+  result: "hit" | "hurt" | "dodged" | "miss";
+  damage: number;
+  recipient: "player" | "enemy" | "none";
+};
 export type CheckResult = {
+  opponent?: { roll: number; target: number; grade: CheckResult["grade"] };
+  combat?: CombatOutcome;
   label: string;
   skill: string;
   target: number;
@@ -141,11 +185,29 @@ export type CheckResult = {
   grade: "critical" | "extreme" | "hard" | "regular" | "failure" | "fumble";
 };
 export type ActionView = { id: string; label: string; hint?: string };
+export type Registration = {
+  key: string;
+  kind: "skill" | "state";
+  label: string;
+};
 export type SceneView = {
+  help?: string[];
+  nextHint?: string;
+  illustration?: SceneIllustration;
+  collection?: { chapterId: string; endingId?: string };
+  registrations?: Registration[];
   input?: SceneInput;
   notices?: string[];
   records?: string[];
-  combat?: { name: string; hp: number; round: number };
+  combat?: {
+    name: string;
+    hp: number;
+    round: number;
+    turn?: string;
+    armor?: number;
+    weapon?: string;
+  };
+  reading?: SceneReading;
   runId: string;
   storyId: string;
   storyTitle: string;
@@ -160,10 +222,11 @@ export type SceneView = {
   actions: ActionView[];
   check?: { label: string; target: number; difficulty: string };
   character: Character;
-  inventory: { key: string; label: string }[];
+  inventory: { key: string; label: string; illustration?: SceneIllustration }[];
   ending?: string;
 };
 export type HistoryFrame = {
+  dice?: RuleDiceResult;
   sequence: number;
   createdAt: string;
   scene: SceneView;
@@ -189,6 +252,7 @@ export type Command = {
   actionId: string;
 };
 export type CommandResponse = {
+  dice?: RuleDiceResult;
   scene: SceneView;
   check?: CheckResult;
   action: string;

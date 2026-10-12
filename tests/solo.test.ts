@@ -85,7 +85,7 @@ test("fixed characters cannot change role; CON and SAN run before choices and up
   let s = start(staticStory);
   assert.deepEqual(
     scene(staticStory, s).actions.map((a) => a.id),
-    ["alex"],
+    ["next"],
   );
   assert.throws(() => move(staticStory, s, "charlie"));
   s = move(staticStory, s, "alex");
@@ -97,6 +97,7 @@ test("fixed characters cannot change role; CON and SAN run before choices and up
   s = move(staticStory, s, "roll", high);
   assert.equal(s.flags["着凉"], true);
   assert.ok(scene(staticStory, s).actions.some((a) => a.id === "to-6"));
+  assert.equal(scene(staticStory, s).actions.length, 2);
   s = at(staticStory, "22");
   s = move(staticStory, s, "roll", high);
   assert.equal(s.character.sanity, 49);
@@ -285,6 +286,7 @@ test("Flames exploration cap, secrets, magic costs, damage and opposed checks", 
     label: "投入魔法点（不足时以生命补足，最多 10，保留至少 1 HP）",
     min: 0,
     max: 10,
+    resources: { mp: 3, hp: 8 },
   });
   spell = move(spellStory, spell, "confirm", low, { value: 8 });
   assert.equal(spell.character.mp, 0);
@@ -451,7 +453,7 @@ test("guided API commands persist inputs and dice; duplicate allocation is repla
       method: "POST",
       url: "/api/auth/register",
       headers,
-      payload: { username: "单人规则测试", password: "testing-password-123" },
+      payload: { inviteCode: "fa6ian-test", username: "单人规则测试", password: "testing-password-123" },
     });
     const cookies = { session: registered.cookies[0].value };
     const created = await app.inject({
