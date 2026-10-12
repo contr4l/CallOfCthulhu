@@ -1,0 +1,54 @@
+{
+  "id": "322",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "322:p0",
+      "kind": "heading",
+      "text": "$t1 == '322'?\r\n`",
+      "sourceLocation": "txt:chars:73579:73595"
+    },
+    {
+      "id": "322:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:73595:73597"
+    },
+    {
+      "id": "322:p2",
+      "kind": "body",
+      "text": "你乱跑着，一会儿朝这个方向，一会儿又换一个方向，绝望地想找到一处地标，让你能辨别方位。但你什么也没发现。恐慌淹没了你，让你更疯狂地四处寻找。\r\n",
+      "sourceLocation": "txt:chars:73597:73669"
+    },
+    {
+      "id": "322:p3",
+      "kind": "body",
+      "text": "漫无目的的跑动耗干了你的体力。你也开始觉得越来越冷。你不得不靠着一棵树喘着气。\r\n",
+      "sourceLocation": "txt:chars:73669:73710"
+    },
+    {
+      "id": "322:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:73710:73735"
+    },
+    {
+      "id": "322:p5",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:73735:73748"
+    },
+    {
+      "id": "322:p6",
+      "kind": "body",
+      "text": "如果记录表上的 睡好 已被勾选，你之前的休息让你恢复了一些气力，必须转到 300。\r\n",
+      "sourceLocation": "txt:chars:73748:73791"
+    },
+    {
+      "id": "322:p7",
+      "kind": "body",
+      "text": "转到 301。\r\n",
+      "sourceLocation": "txt:chars:73791:73800"
+    }
+  ]
+}

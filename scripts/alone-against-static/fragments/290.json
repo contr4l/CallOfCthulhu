@@ -1,0 +1,36 @@
+{
+  "id": "290",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "290:p0",
+      "kind": "heading",
+      "text": "$t1 == '290'?\r\n`",
+      "sourceLocation": "txt:chars:66107:66123"
+    },
+    {
+      "id": "290:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:66123:66125"
+    },
+    {
+      "id": "290:p2",
+      "kind": "body",
+      "text": "你走进黑暗中。你脑中一个小小的声音尖叫着让你留在安全的小屋里。你做不到。不管外面哪里都比小屋好。你就像是被胶带捆着扔在四面墙里。\r\n",
+      "sourceLocation": "txt:chars:66125:66191"
+    },
+    {
+      "id": "290:p3",
+      "kind": "body",
+      "text": "你朝前跑去，逃进夜色中。不久，你就在树林中迷失了。\r\n",
+      "sourceLocation": "txt:chars:66191:66218"
+    },
+    {
+      "id": "290:p4",
+      "kind": "body",
+      "text": "转到 298。\r\n",
+      "sourceLocation": "txt:chars:66218:66227"
+    }
+  ]
+}

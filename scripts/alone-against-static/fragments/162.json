@@ -1,0 +1,60 @@
+{
+  "id": "162",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "162:p0",
+      "kind": "heading",
+      "text": "$t1 == '162'?\r\n`",
+      "sourceLocation": "txt:chars:38311:38327"
+    },
+    {
+      "id": "162:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:38327:38329"
+    },
+    {
+      "id": "162:p2",
+      "kind": "body",
+      "text": "周围的一切看起来都一个样。你走了一个小时，也许更久。你搞不清究竟过了多久，但是感觉像是过了一个世纪。寒意刺骨。你蹒跚地走着，身体和牙齿都不受控制地打着寒颤。\r\n",
+      "sourceLocation": "txt:chars:38329:38409"
+    },
+    {
+      "id": "162:p3",
+      "kind": "body",
+      "text": "恐慌。\r\n",
+      "sourceLocation": "txt:chars:38409:38414"
+    },
+    {
+      "id": "162:p4",
+      "kind": "body",
+      "text": "周遭的树林像漆一样黑。为了看清树木的轮廓，你的眼睛瞪得发疼。头顶茂密的枝叶像天幕一样遮住了月光，眼前的地面上落不下一丝光亮。\r\n",
+      "sourceLocation": "txt:chars:38414:38478"
+    },
+    {
+      "id": "162:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:38478:38503"
+    },
+    {
+      "id": "162:p6",
+      "kind": "body",
+      "text": "进行一次体质检定。如果记录表上的 着凉 已被勾选，为这次检定添加一枚惩罚骰；如果 实用派已被勾选，添加一枚奖励骰；如果上述两条都被勾选，不带调整地进行检定。如果检定失败，\r\n",
+      "sourceLocation": "txt:chars:38503:38590"
+    },
+    {
+      "id": "162:p7",
+      "kind": "body",
+      "text": "受到 1D6 点伤害。\r\n",
+      "sourceLocation": "txt:chars:38590:38603"
+    },
+    {
+      "id": "162:p8",
+      "kind": "body",
+      "text": "转到 161。\r\n",
+      "sourceLocation": "txt:chars:38603:38612"
+    }
+  ]
+}

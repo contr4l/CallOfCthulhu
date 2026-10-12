@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "233"
+  ],
+  "text": [
+    "“嘿！”你叫喊着，“站住！”",
+    "他没有停下。",
+    "“停下！”你更大声地喊着。",
+    "他已经快到门口了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 233",
+      "textRef": "default"
+    }
+  }
+}

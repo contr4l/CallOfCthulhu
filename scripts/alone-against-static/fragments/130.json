@@ -1,0 +1,72 @@
+{
+  "id": "130",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "130:p0",
+      "kind": "heading",
+      "text": "$t1 == '130'?\r\n`",
+      "sourceLocation": "txt:chars:30803:30819"
+    },
+    {
+      "id": "130:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:30819:30821"
+    },
+    {
+      "id": "130:p2",
+      "kind": "body",
+      "text": "你想让自己听上去威严一些，但声音止不住地颤抖。\r\n",
+      "sourceLocation": "txt:chars:30821:30846"
+    },
+    {
+      "id": "130:p3",
+      "kind": "body",
+      "text": "“要不然我就给——”你不小心咳嗽了一下，支吾着，喉咙里像是有一只青蛙。“我会给警察打电话。看看他们对这些事怎么说。”\r\n",
+      "sourceLocation": "txt:chars:30846:30906"
+    },
+    {
+      "id": "130:p4",
+      "kind": "body",
+      "text": "他盯着你，嘴唇弯了弯，眼神冰冷而毫无情感。你受不住他的注视，移开了视线。你的心脏剧烈地跳动着。\r\n",
+      "sourceLocation": "txt:chars:30906:30955"
+    },
+    {
+      "id": "130:p5",
+      "kind": "body",
+      "text": "“好吧，”他突然开口了。没有再多说一句，他原地转了个身，走掉了。\r\n",
+      "sourceLocation": "txt:chars:30955:30989"
+    },
+    {
+      "id": "130:p6",
+      "kind": "body",
+      "text": "在他消失许久之后，你的心脏仍然砰砰直跳。他并没有沿着车道走到公路上，而是从小路走进了森林。就是你去健走的那条路。\r\n",
+      "sourceLocation": "txt:chars:30989:31047"
+    },
+    {
+      "id": "130:p7",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:31047:31072"
+    },
+    {
+      "id": "130:p8",
+      "kind": "body",
+      "text": "进行一次理智检定：如果检定失败，失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:31072:31099"
+    },
+    {
+      "id": "130:p9",
+      "kind": "body",
+      "text": "要跟踪陌生人，转到 138。\r\n",
+      "sourceLocation": "txt:chars:31099:31115"
+    },
+    {
+      "id": "130:p10",
+      "kind": "body",
+      "text": "要把门关好锁好，转到 120。\r\n",
+      "sourceLocation": "txt:chars:31115:31132"
+    }
+  ]
+}

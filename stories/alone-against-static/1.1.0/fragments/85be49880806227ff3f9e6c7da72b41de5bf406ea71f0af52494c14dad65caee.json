@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "122"
+  ],
+  "text": [
+    "“茱莉不在。我们只是在这里借住。”",
+    "“你确定？”",
+    "“非常确定，”你说道，“要帮你传话吗？”",
+    "“那马克呢？”他问道，“马克在吗？我也可以和马克谈。你见过马克吗？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 122",
+      "textRef": "default"
+    }
+  }
+}

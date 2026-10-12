@@ -1,0 +1,42 @@
+{
+  "id": "317",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "317:p0",
+      "kind": "heading",
+      "text": "$t1 == '317'?\r\n`",
+      "sourceLocation": "txt:chars:72127:72143"
+    },
+    {
+      "id": "317:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:72143:72145"
+    },
+    {
+      "id": "317:p2",
+      "kind": "body",
+      "text": "你想要抽手，要拒绝声音的邀请。但有一个存在将它压进了你的头脑，像钳子一样将它固定在那里。同时，你手腕上的触手猛地一拽，将你往前拖去。\r\n",
+      "sourceLocation": "txt:chars:72145:72213"
+    },
+    {
+      "id": "317:p3",
+      "kind": "body",
+      "text": "进行一次意志检定。\r\n",
+      "sourceLocation": "txt:chars:72213:72224"
+    },
+    {
+      "id": "317:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 319。\r\n",
+      "sourceLocation": "txt:chars:72224:72240"
+    },
+    {
+      "id": "317:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 318。\r\n",
+      "sourceLocation": "txt:chars:72240:72256"
+    }
+  ]
+}

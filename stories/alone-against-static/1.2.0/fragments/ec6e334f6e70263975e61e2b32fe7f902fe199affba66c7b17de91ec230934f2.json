@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "161"
+  ],
+  "text": [
+    "你在冻死人的严寒中找了很久，终于才找到林间的小路。你顺着小路回到了小屋。",
+    "你回到小屋时天已完全黑了。你急不可耐地进了屋。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 161",
+      "textRef": "default"
+    }
+  }
+}

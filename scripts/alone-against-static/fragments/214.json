@@ -1,0 +1,42 @@
+{
+  "id": "214",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "214:p0",
+      "kind": "heading",
+      "text": "$t1 == '214'?\r\n`",
+      "sourceLocation": "txt:chars:50322:50338"
+    },
+    {
+      "id": "214:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:50338:50340"
+    },
+    {
+      "id": "214:p2",
+      "kind": "body",
+      "text": "你用手指堵住耳朵，用手肘顶了一下停止键。\r\n",
+      "sourceLocation": "txt:chars:50340:50362"
+    },
+    {
+      "id": "214:p3",
+      "kind": "body",
+      "text": "小屋又安静下来。电视静静地坐在那里发着光。\r\n",
+      "sourceLocation": "txt:chars:50362:50385"
+    },
+    {
+      "id": "214:p4",
+      "kind": "body",
+      "text": "你把手了拿下来，心脏还在胸腔里狂跳。他的话。他是怎么知道这些名字的？他是怎么知道你的？\r\n",
+      "sourceLocation": "txt:chars:50385:50430"
+    },
+    {
+      "id": "214:p5",
+      "kind": "body",
+      "text": "回到 186。\r\n",
+      "sourceLocation": "txt:chars:50430:50439"
+    }
+  ]
+}

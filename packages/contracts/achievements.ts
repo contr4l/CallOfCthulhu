@@ -3,8 +3,11 @@ export type Achievement = {
   storyId: string;
   storyTitle: string;
   endingId: string;
+  endingNumber: number;
   title: string;
   description: string;
+  rewardPoints?: number;
+  claimedAt?: string;
   unlockedAt?: string;
   runId?: string;
 };

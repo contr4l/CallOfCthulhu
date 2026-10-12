@@ -1,0 +1,54 @@
+{
+  "id": "59",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "59:p0",
+      "kind": "heading",
+      "text": "$t1 == '59'?\r\n`",
+      "sourceLocation": "txt:chars:16985:17000"
+    },
+    {
+      "id": "59:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:17000:17002"
+    },
+    {
+      "id": "59:p2",
+      "kind": "body",
+      "text": "你注意到在其中一排磁带里有一个空位。你伸出手去拿出空位旁边的磁带。这一盘磁带损坏得没有那么严重。或许它还能播放。用马克笔写着的标题是《傍晚时的寂静》。\r\n",
+      "sourceLocation": "txt:chars:17002:17079"
+    },
+    {
+      "id": "59:p3",
+      "kind": "body",
+      "text": "你把磁带拿走收好。\r\n",
+      "sourceLocation": "txt:chars:17079:17090"
+    },
+    {
+      "id": "59:p4",
+      "kind": "body",
+      "text": "这些影片的名字都很奇怪。你注意到以下这些：《树林中的日光》、《希望它能爆发》、《她在夜晚移动》、《孩子们的哭喊》。\r\n",
+      "sourceLocation": "txt:chars:17090:17149"
+    },
+    {
+      "id": "59:p5",
+      "kind": "body",
+      "text": "你眯起眼睛，焦虑在你心中升起，轻轻地关上柜门。\r\n",
+      "sourceLocation": "txt:chars:17149:17174"
+    },
+    {
+      "id": "59:p6",
+      "kind": "body",
+      "text": "在记录表上勾选 傍晚时的寂静。\r\n",
+      "sourceLocation": "txt:chars:17174:17191"
+    },
+    {
+      "id": "59:p7",
+      "kind": "body",
+      "text": "回到 57。\r\n",
+      "sourceLocation": "txt:chars:17191:17199"
+    }
+  ]
+}

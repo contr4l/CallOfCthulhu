@@ -1,0 +1,54 @@
+{
+  "id": "101",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "101:p0",
+      "kind": "heading",
+      "text": "$t1 == '101'?\r\n`",
+      "sourceLocation": "txt:chars:24827:24843"
+    },
+    {
+      "id": "101:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:24843:24845"
+    },
+    {
+      "id": "101:p2",
+      "kind": "body",
+      "text": "锯齿伤口好痛。你皱着眉头、咬着嘴唇，从床下把身体扯了出来。“妈的！”你咒骂着站了起来，用手压着伤口。\r\n",
+      "sourceLocation": "txt:chars:24845:24897"
+    },
+    {
+      "id": "101:p3",
+      "kind": "body",
+      "text": "你到浴室去冲掉了血迹。在用温水洗过、敷上杀菌药膏、然后用药柜里的绷带包上之后，至少伤口看起来好多了。\r\n",
+      "sourceLocation": "txt:chars:24897:24949"
+    },
+    {
+      "id": "101:p4",
+      "kind": "body",
+      "text": "虽然还是很痛，但是你还算好。你回到小屋里。\r\n",
+      "sourceLocation": "txt:chars:24949:24972"
+    },
+    {
+      "id": "101:p5",
+      "kind": "body",
+      "text": "进行一次急救检定，如果检定成功，恢复 1 点生命。\r\n",
+      "sourceLocation": "txt:chars:24972:24999"
+    },
+    {
+      "id": "101:p6",
+      "kind": "body",
+      "text": "如果记录表上的 吃饱 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:24999:25032"
+    },
+    {
+      "id": "101:p7",
+      "kind": "body",
+      "text": "要做点饭吃，转到 94。\r\n",
+      "sourceLocation": "txt:chars:25032:25046"
+    }
+  ]
+}

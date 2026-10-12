@@ -1,0 +1,90 @@
+{
+  "id": "20",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "20:p0",
+      "kind": "heading",
+      "text": "$t1 == '20'?\r\n`",
+      "sourceLocation": "txt:chars:6147:6162"
+    },
+    {
+      "id": "20:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:6162:6164"
+    },
+    {
+      "id": "20:p2",
+      "kind": "body",
+      "text": "你把这些磁带取出，一个一个查看，对着每一盘的封面翻着白眼，然后夸张地装作呕吐。\r\n",
+      "sourceLocation": "txt:chars:6164:6205"
+    },
+    {
+      "id": "20:p3",
+      "kind": "body",
+      "text": "查理走过来和你一起看。“也许我们来的路上应该找一家百视达停下租录像。”\r\n",
+      "sourceLocation": "txt:chars:6205:6242"
+    },
+    {
+      "id": "20:p4",
+      "kind": "body",
+      "text": "“太对了。这些封面看着都很便宜。你觉得这些是盗版吗？”\r\n",
+      "sourceLocation": "txt:chars:6242:6271"
+    },
+    {
+      "id": "20:p5",
+      "kind": "body",
+      "text": "“有可能。”查理耸了耸肩。“我发誓他说这里不只有恐怖片的。他说上次来的时候看过一部片子，好像是爱情片。”\r\n",
+      "sourceLocation": "txt:chars:6271:6325"
+    },
+    {
+      "id": "20:p6",
+      "kind": "body",
+      "text": "“也许磁带还在播放器里？”\r\n",
+      "sourceLocation": "txt:chars:6325:6340"
+    },
+    {
+      "id": "20:p7",
+      "kind": "body",
+      "text": "查理贴过来按了退带按钮。随着机器里的一阵机械声，一盘磁带吐了出来。\r\n",
+      "sourceLocation": "txt:chars:6340:6375"
+    },
+    {
+      "id": "20:p8",
+      "kind": "body",
+      "text": "“啊哈！”查理说道。\r\n",
+      "sourceLocation": "txt:chars:6375:6387"
+    },
+    {
+      "id": "20:p9",
+      "kind": "body",
+      "text": "“磁带上是空白的吗？”你问。\r\n",
+      "sourceLocation": "txt:chars:6387:6403"
+    },
+    {
+      "id": "20:p10",
+      "kind": "body",
+      "text": "“上面什么也没写。不过这是盗版片，不是吗？”\r\n",
+      "sourceLocation": "txt:chars:6403:6427"
+    },
+    {
+      "id": "20:p11",
+      "kind": "body",
+      "text": "你耸了耸肩。“怎样都好吧。倒带吧，然后我们可以赌一赌。总不可能比这些片子还坏。”\r\n",
+      "sourceLocation": "txt:chars:6427:6469"
+    },
+    {
+      "id": "20:p12",
+      "kind": "body",
+      "text": "要就这样开始看电影，转到 28。\r\n",
+      "sourceLocation": "txt:chars:6469:6487"
+    },
+    {
+      "id": "20:p13",
+      "kind": "body",
+      "text": "要先做好睡觉的准备，转到 21。\r\n",
+      "sourceLocation": "txt:chars:6487:6505"
+    }
+  ]
+}

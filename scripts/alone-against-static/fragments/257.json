@@ -1,0 +1,48 @@
+{
+  "id": "257",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "257:p0",
+      "kind": "heading",
+      "text": "$t1 == '257'?\r\n`",
+      "sourceLocation": "txt:chars:58808:58824"
+    },
+    {
+      "id": "257:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:58824:58826"
+    },
+    {
+      "id": "257:p2",
+      "kind": "body",
+      "text": "“是谁？”你喊道。\r\n",
+      "sourceLocation": "txt:chars:58826:58837"
+    },
+    {
+      "id": "257:p3",
+      "kind": "body",
+      "text": "屋外的男人无言地尖啸着。他更暴戾地撞着门。铰链开始扭曲，门锁开始变形。他随时都会闯进来。\r\n",
+      "sourceLocation": "txt:chars:58837:58883"
+    },
+    {
+      "id": "257:p4",
+      "kind": "body",
+      "text": "要躲起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:58883:58897"
+    },
+    {
+      "id": "257:p5",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:58897:58915"
+    },
+    {
+      "id": "257:p6",
+      "kind": "body",
+      "text": "要顶住屋门，转到 237。\r\n",
+      "sourceLocation": "txt:chars:58915:58930"
+    }
+  ]
+}

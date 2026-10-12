@@ -1,0 +1,54 @@
+{
+  "id": "155",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "155:p0",
+      "kind": "heading",
+      "text": "$t1 == '155'?\r\n`",
+      "sourceLocation": "txt:chars:36731:36747"
+    },
+    {
+      "id": "155:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:36747:36749"
+    },
+    {
+      "id": "155:p2",
+      "kind": "body",
+      "text": "夜色越来越深。\r\n",
+      "sourceLocation": "txt:chars:36749:36758"
+    },
+    {
+      "id": "155:p3",
+      "kind": "body",
+      "text": "你在松树的阴影中跟着陌生人。森林的地面在你脚下噼啪作响。但他还没有注意到你。\r\n",
+      "sourceLocation": "txt:chars:36758:36798"
+    },
+    {
+      "id": "155:p4",
+      "kind": "body",
+      "text": "他带着你从黑山峰的一侧下去，进到一条狭窄的山谷。山谷中地面平坦，四周山脊环绕，都生着茂密的松树。\r\n",
+      "sourceLocation": "txt:chars:36798:36848"
+    },
+    {
+      "id": "155:p5",
+      "kind": "body",
+      "text": "太阳开始没入地平线。阴影开始拉长。\r\n",
+      "sourceLocation": "txt:chars:36848:36867"
+    },
+    {
+      "id": "155:p6",
+      "kind": "body",
+      "text": "要继续跟踪，转到 164。\r\n",
+      "sourceLocation": "txt:chars:36867:36882"
+    },
+    {
+      "id": "155:p7",
+      "kind": "body",
+      "text": "要返回小屋，转到 156。\r\n",
+      "sourceLocation": "txt:chars:36882:36897"
+    }
+  ]
+}

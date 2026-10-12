@@ -1,0 +1,42 @@
+{
+  "id": "349",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "349:p0",
+      "kind": "heading",
+      "text": "$t1 == '349'?\r\n`",
+      "sourceLocation": "txt:chars:79680:79696"
+    },
+    {
+      "id": "349:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:79696:79698"
+    },
+    {
+      "id": "349:p2",
+      "kind": "body",
+      "text": "“这一定值得，”你恳求着，“求你，求你了，查理！这必须值得。”查理的脸仍然古井无波。然后，他摇了摇头。\r\n",
+      "sourceLocation": "txt:chars:79698:79751"
+    },
+    {
+      "id": "349:p3",
+      "kind": "body",
+      "text": "“我不相信你，亚历克斯，”她说，“但别担心，你也不用现在就相信我。最终你会相信的。让我展示给你。”\r\n",
+      "sourceLocation": "txt:chars:79751:79802"
+    },
+    {
+      "id": "349:p4",
+      "kind": "body",
+      "text": "如果记录表上的 到来 已被勾选，一幅恐怖的画面闪过你的脑海，必须转到 347。\r\n",
+      "sourceLocation": "txt:chars:79802:79843"
+    },
+    {
+      "id": "349:p5",
+      "kind": "body",
+      "text": "转到 348。\r\n",
+      "sourceLocation": "txt:chars:79843:79852"
+    }
+  ]
+}

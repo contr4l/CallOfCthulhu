@@ -1,0 +1,60 @@
+{
+  "id": "156",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "156:p0",
+      "kind": "heading",
+      "text": "$t1 == '156'?\r\n`",
+      "sourceLocation": "txt:chars:36903:36919"
+    },
+    {
+      "id": "156:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:36919:36921"
+    },
+    {
+      "id": "156:p2",
+      "kind": "body",
+      "text": "跟着这样一个怪人深入森林太危险了。你转身试着找到回去的路。\r\n",
+      "sourceLocation": "txt:chars:36921:36952"
+    },
+    {
+      "id": "156:p3",
+      "kind": "body",
+      "text": "进行一次导航检定。\r\n",
+      "sourceLocation": "txt:chars:36952:36963"
+    },
+    {
+      "id": "156:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 157。\r\n",
+      "sourceLocation": "txt:chars:36963:36979"
+    },
+    {
+      "id": "156:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 159。\r\n",
+      "sourceLocation": "txt:chars:36979:36995"
+    },
+    {
+      "id": "156:p6",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是在寒夜中迷路更长时间：\r\n",
+      "sourceLocation": "txt:chars:36995:37038"
+    },
+    {
+      "id": "156:p7",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 157。\r\n",
+      "sourceLocation": "txt:chars:37038:37056"
+    },
+    {
+      "id": "156:p8",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 162。\r\n",
+      "sourceLocation": "txt:chars:37056:37074"
+    }
+  ]
+}

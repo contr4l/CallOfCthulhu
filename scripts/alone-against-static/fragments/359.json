@@ -1,0 +1,42 @@
+{
+  "id": "359",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "359:p0",
+      "kind": "heading",
+      "text": "$t1 == '359'?\r\n`",
+      "sourceLocation": "txt:chars:82408:82424"
+    },
+    {
+      "id": "359:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:82424:82426"
+    },
+    {
+      "id": "359:p2",
+      "kind": "body",
+      "text": "你没能跑出空地。就在冲进树林的前一刻，你听到脚步声在你身边响起。你看到一条触手朝你挥来，想要朝旁边闪避，却摔倒在地。没等你站起，一股毁天灭地的巨力击中你的后背，一瞬间便打碎了你的脊椎，把你压倒在地。两条强壮的触手缠着你的躯干，将你掀到空中。\r\n",
+      "sourceLocation": "txt:chars:82426:82548"
+    },
+    {
+      "id": "359:p3",
+      "kind": "body",
+      "text": "触手以痛苦的缓慢速度将你转了过来。你看到你的伴侣，除了一张脸，已经完全是怪物了。在你视野完全变黑前，你看到它的脸。\r\n",
+      "sourceLocation": "txt:chars:82548:82607"
+    },
+    {
+      "id": "359:p4",
+      "kind": "body",
+      "text": "它看上去好失望。\r\n",
+      "sourceLocation": "txt:chars:82607:82617"
+    },
+    {
+      "id": "359:p5",
+      "kind": "body",
+      "text": "结局。\r\n",
+      "sourceLocation": "txt:chars:82617:82622"
+    }
+  ]
+}

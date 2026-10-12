@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "196"
+  ],
+  "text": [
+    "你拿出之前在卡死的摄像机里找到的磁带。在磁带的一侧写着标题：《小屋中的伴侣》。",
+    "你坐在电视前，把磁带放进放映机。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 196",
+      "textRef": "default"
+    }
+  }
+}

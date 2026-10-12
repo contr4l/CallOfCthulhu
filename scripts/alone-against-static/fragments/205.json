@@ -1,0 +1,66 @@
+{
+  "id": "205",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "205:p0",
+      "kind": "heading",
+      "text": "$t1 == '205'?\r\n`",
+      "sourceLocation": "txt:chars:48141:48157"
+    },
+    {
+      "id": "205:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:48157:48159"
+    },
+    {
+      "id": "205:p2",
+      "kind": "body",
+      "text": "“真的要吵死了，”你说道。你听到自己的声音颤抖着。亚历克斯显然也听到了。\r\n",
+      "sourceLocation": "txt:chars:48159:48197"
+    },
+    {
+      "id": "205:p3",
+      "kind": "body",
+      "text": "“是啊。别太担心了，没事的。”\r\n",
+      "sourceLocation": "txt:chars:48197:48214"
+    },
+    {
+      "id": "205:p4",
+      "kind": "body",
+      "text": "你听到脚步声靠近，床架随着亚历克斯爬上来嘎吱作响。在电视发疯之后的静寂中，最小的声音也在无声中回响。亚历克斯依偎在你身边。\r\n",
+      "sourceLocation": "txt:chars:48214:48277"
+    },
+    {
+      "id": "205:p5",
+      "kind": "body",
+      "text": "“我很抱歉。”亚历克斯说。\r\n",
+      "sourceLocation": "txt:chars:48277:48292"
+    },
+    {
+      "id": "205:p6",
+      "kind": "body",
+      "text": "“别，这不是你的错。”\r\n",
+      "sourceLocation": "txt:chars:48292:48305"
+    },
+    {
+      "id": "205:p7",
+      "kind": "body",
+      "text": "“不用担心那台电视。我们明天把它修好。修不好我们就直接去远足。”\r\n",
+      "sourceLocation": "txt:chars:48305:48339"
+    },
+    {
+      "id": "205:p8",
+      "kind": "body",
+      "text": "你嘟囔着表示同意。亚历克斯一只手环住你。你感觉她的呼吸吹在脖子上。很快，亚历克斯的呼吸声放慢，然后消失在睡着的轻呼中。你也渐渐睡去。只有松树轻轻的吱嘎响声，在黑山峰间轻柔地回响。\r\n",
+      "sourceLocation": "txt:chars:48339:48430"
+    },
+    {
+      "id": "205:p9",
+      "kind": "body",
+      "text": "转到 34。\r\n",
+      "sourceLocation": "txt:chars:48430:48438"
+    }
+  ]
+}

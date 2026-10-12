@@ -1,0 +1,21 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "176"
+  ],
+  "text": [
+    "你把三明治放在一边，把嘴里的一口咽下，用手电筒照着走到门边。",
+    "“你好，外面是谁？”你问着。",
+    "你打开了门。",
+    "漆黑。",
+    "手电筒在黑暗中射出一道暗淡的光锥。风吹着寒意卷过你的全身。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 176",
+      "textRef": "default"
+    }
+  }
+}

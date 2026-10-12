@@ -1,0 +1,60 @@
+{
+  "id": "283",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "283:p0",
+      "kind": "heading",
+      "text": "$t1 == '283'?\r\n`",
+      "sourceLocation": "txt:chars:64252:64268"
+    },
+    {
+      "id": "283:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:64268:64270"
+    },
+    {
+      "id": "283:p2",
+      "kind": "body",
+      "text": "你扭动着身子，捶打着陌生人。你费了九牛二虎之力，终于把自己靠住陌生人，然后一下从他的钳制中挣脱。你磕磕绊绊地挪到他够不着的地方。他失望地咆哮着。“幼子会拥有你！”他嚎叫着，“你要为幼子服务！”\r\n",
+      "sourceLocation": "txt:chars:64270:64368"
+    },
+    {
+      "id": "283:p3",
+      "kind": "body",
+      "text": "你稳住身子，抬头看着陌生人又挥着拳头朝你走来。你又注意到，经过刚才的纠缠，你和他已经换了位置。现在，你是在他和屋门之间。\r\n",
+      "sourceLocation": "txt:chars:64368:64430"
+    },
+    {
+      "id": "283:p4",
+      "kind": "body",
+      "text": "决不能再呆在这了……\r\n",
+      "sourceLocation": "txt:chars:64430:64442"
+    },
+    {
+      "id": "283:p5",
+      "kind": "body",
+      "text": "你转过身朝屋外冲去，逃进森林，逃进夜色，把他愤怒的吼叫声甩在身后。\r\n",
+      "sourceLocation": "txt:chars:64442:64477"
+    },
+    {
+      "id": "283:p6",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:64477:64502"
+    },
+    {
+      "id": "283:p7",
+      "kind": "body",
+      "text": "受到 1D4 点伤害。\r\n",
+      "sourceLocation": "txt:chars:64502:64515"
+    },
+    {
+      "id": "283:p8",
+      "kind": "body",
+      "text": "转到 298。\r\n",
+      "sourceLocation": "txt:chars:64515:64524"
+    }
+  ]
+}

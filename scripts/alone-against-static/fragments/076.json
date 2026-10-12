@@ -1,0 +1,66 @@
+{
+  "id": "76",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "76:p0",
+      "kind": "heading",
+      "text": "$t1 == '76'?\r\n`",
+      "sourceLocation": "txt:chars:19967:19982"
+    },
+    {
+      "id": "76:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:19982:19984"
+    },
+    {
+      "id": "76:p2",
+      "kind": "body",
+      "text": "等等……这里并没有什么谜团。这工具大概是给录像机用的。\r\n",
+      "sourceLocation": "txt:chars:19984:20013"
+    },
+    {
+      "id": "76:p3",
+      "kind": "body",
+      "text": "你回去纸箱那里拿来了录像机。你准备好工具，试着拆开外壳取出磁带。\r\n",
+      "sourceLocation": "txt:chars:20013:20047"
+    },
+    {
+      "id": "76:p4",
+      "kind": "body",
+      "text": "进行一次机械维修检定。\r\n",
+      "sourceLocation": "txt:chars:20047:20060"
+    },
+    {
+      "id": "76:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 73。\r\n",
+      "sourceLocation": "txt:chars:20060:20075"
+    },
+    {
+      "id": "76:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 74。\r\n",
+      "sourceLocation": "txt:chars:20075:20090"
+    },
+    {
+      "id": "76:p7",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是伤到你自己和磁带：\r\n",
+      "sourceLocation": "txt:chars:20090:20131"
+    },
+    {
+      "id": "76:p8",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 73。\r\n",
+      "sourceLocation": "txt:chars:20131:20148"
+    },
+    {
+      "id": "76:p9",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 75。\r\n",
+      "sourceLocation": "txt:chars:20148:20165"
+    }
+  ]
+}

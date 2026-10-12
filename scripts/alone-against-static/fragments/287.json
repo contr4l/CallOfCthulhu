@@ -1,0 +1,42 @@
+{
+  "id": "287",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "287:p0",
+      "kind": "heading",
+      "text": "$t1 == '287'?\r\n`",
+      "sourceLocation": "txt:chars:65494:65510"
+    },
+    {
+      "id": "287:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:65510:65512"
+    },
+    {
+      "id": "287:p2",
+      "kind": "body",
+      "text": "趁着男人钻窗户到一半，你冲向他。\r\n",
+      "sourceLocation": "txt:chars:65512:65530"
+    },
+    {
+      "id": "287:p3",
+      "kind": "body",
+      "text": "进行一次格斗（斗殴）检定。\r\n",
+      "sourceLocation": "txt:chars:65530:65545"
+    },
+    {
+      "id": "287:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 288。\r\n",
+      "sourceLocation": "txt:chars:65545:65561"
+    },
+    {
+      "id": "287:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 291。\r\n",
+      "sourceLocation": "txt:chars:65561:65577"
+    }
+  ]
+}

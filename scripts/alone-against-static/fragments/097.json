@@ -1,0 +1,60 @@
+{
+  "id": "97",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "97:p0",
+      "kind": "heading",
+      "text": "$t1 == '97'?\r\n`",
+      "sourceLocation": "txt:chars:23761:23776"
+    },
+    {
+      "id": "97:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:23776:23778"
+    },
+    {
+      "id": "97:p2",
+      "kind": "body",
+      "text": "在水槽下的柜子里，你找到一个塑料小盒子，里面放着一支迷你手电筒。你点亮手电。光线弱弱地从手电中射出。电池可能已经快用完了。\r\n",
+      "sourceLocation": "txt:chars:23778:23841"
+    },
+    {
+      "id": "97:p3",
+      "kind": "body",
+      "text": "你在食品柜、浴室和床头柜里翻找着备用电池，最后，你的目光落在电视柜上。\r\n",
+      "sourceLocation": "txt:chars:23841:23878"
+    },
+    {
+      "id": "97:p4",
+      "kind": "body",
+      "text": "穿过小屋，你在电视柜前跪在地上。你打开柜子，在录像带中翻找。你把一些录像带挪到一边，往柜子深处看去。在柜子里面的黑暗中，你找到一包电池。这些电池一定是放在这里给遥控器用的，但是它们也能装进手电筒里。中奖了。\r\n",
+      "sourceLocation": "txt:chars:23878:23983"
+    },
+    {
+      "id": "97:p5",
+      "kind": "body",
+      "text": "你给手电筒换了电池，光束强多了。\r\n",
+      "sourceLocation": "txt:chars:23983:24001"
+    },
+    {
+      "id": "97:p6",
+      "kind": "body",
+      "text": "在记录表上勾选 能量充沛。\r\n",
+      "sourceLocation": "txt:chars:24001:24016"
+    },
+    {
+      "id": "97:p7",
+      "kind": "body",
+      "text": "如果记录表上的 吃饱 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:24016:24049"
+    },
+    {
+      "id": "97:p8",
+      "kind": "body",
+      "text": "要做点饭吃，转到 94。\r\n",
+      "sourceLocation": "txt:chars:24049:24063"
+    }
+  ]
+}

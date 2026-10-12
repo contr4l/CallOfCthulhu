@@ -1,0 +1,42 @@
+{
+  "id": "10",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "10:p0",
+      "kind": "heading",
+      "text": "$t1 == '10'?\r\n`",
+      "sourceLocation": "txt:chars:3577:3592"
+    },
+    {
+      "id": "10:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:3592:3594"
+    },
+    {
+      "id": "10:p2",
+      "kind": "body",
+      "text": "不。不！你冲向空地的边缘。如果你速度够快，一定能够赶到。身后，伴侣被扭曲的声音还在叫着你，但你没有回头看。然后，你听到了沉重的脚步声快速接近。你忍不住回头看了一眼，只看到伴侣扭曲变形的躯体。他/她皮肤迸开，可怖的黑色枝条从血肉中爆出。令人作呕的长长卷须驱动着他/她朝你直冲过来。你回身继续朝着树林猛冲。如果你能跑到树林里甩掉追兵，你还可以把这一切都抛在脑后！\r\n",
+      "sourceLocation": "txt:chars:3594:3775"
+    },
+    {
+      "id": "10:p3",
+      "kind": "body",
+      "text": "进行一次敏捷检定：\r\n",
+      "sourceLocation": "txt:chars:3775:3786"
+    },
+    {
+      "id": "10:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 360。\r\n",
+      "sourceLocation": "txt:chars:3786:3802"
+    },
+    {
+      "id": "10:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 359。\r\n",
+      "sourceLocation": "txt:chars:3802:3818"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "348",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "348:p0",
+      "kind": "heading",
+      "text": "$t1 == '348'?\r\n`",
+      "sourceLocation": "txt:chars:79356:79372"
+    },
+    {
+      "id": "348:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:79372:79374"
+    },
+    {
+      "id": "348:p2",
+      "kind": "body",
+      "text": "你无法回答。你的嘴像缺水的鱼一样一张一合。查理就这样看着你，过了许久，他低下头。你心里一沉。\r\n",
+      "sourceLocation": "txt:chars:79374:79422"
+    },
+    {
+      "id": "348:p3",
+      "kind": "body",
+      "text": "“我需要你，亚历克斯，”查理的声音说道，但这次声音是从你身后传来。你转过身，看到爬出帐篷的男人现在居然长着查理的面孔，而身体还是原来的。现在有两个查理，分别在你两边。\r\n",
+      "sourceLocation": "txt:chars:79422:79507"
+    },
+    {
+      "id": "348:p4",
+      "kind": "body",
+      "text": "“我需要你，就像我需要查理，”他们说道。当他们出声时，声音融合、交叠，雪花噪音从中渗透而出。“你现在就在这里。我们在一起。我们三个。我们四个。我们全部。请你，跟我来吧。”\r\n",
+      "sourceLocation": "txt:chars:79507:79594"
+    },
+    {
+      "id": "348:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:79594:79619"
+    },
+    {
+      "id": "348:p6",
+      "kind": "body",
+      "text": "进行一次理智检定：如果检定失败，失去 1D6 点理智。\r\n",
+      "sourceLocation": "txt:chars:79619:79648"
+    },
+    {
+      "id": "348:p7",
+      "kind": "body",
+      "text": "要同意，转到 353。\r\n",
+      "sourceLocation": "txt:chars:79648:79661"
+    },
+    {
+      "id": "348:p8",
+      "kind": "body",
+      "text": "要拒绝，转到 357。\r\n",
+      "sourceLocation": "txt:chars:79661:79674"
+    }
+  ]
+}

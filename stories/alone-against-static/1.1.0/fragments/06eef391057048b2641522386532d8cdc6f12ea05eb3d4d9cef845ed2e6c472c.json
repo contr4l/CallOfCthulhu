@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "139"
+  ],
+  "text": [
+    "你在沙发上躺了许久，一阵一阵地打着瞌睡。你试着多读一点，但是这本书实在无聊。",
+    "最后，你惊醒过来，眨了眨眼驱散睡意。太阳落山了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 139",
+      "textRef": "default"
+    }
+  }
+}

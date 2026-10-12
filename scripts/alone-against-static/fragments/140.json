@@ -1,0 +1,42 @@
+{
+  "id": "140",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "140:p0",
+      "kind": "heading",
+      "text": "$t1 == '140'?\r\n`",
+      "sourceLocation": "txt:chars:33277:33293"
+    },
+    {
+      "id": "140:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:33293:33295"
+    },
+    {
+      "id": "140:p2",
+      "kind": "body",
+      "text": "你等了一会儿，听到他从门口走开。\r\n",
+      "sourceLocation": "txt:chars:33295:33313"
+    },
+    {
+      "id": "140:p3",
+      "kind": "body",
+      "text": "你凑到窗边趴着看。你看到他离开了，但是并没有沿着车道走到公路上，而是从小路走进了森林。就是你去健走的那条路。\r\n",
+      "sourceLocation": "txt:chars:33313:33369"
+    },
+    {
+      "id": "140:p4",
+      "kind": "body",
+      "text": "要跟踪陌生人，转到 138。\r\n",
+      "sourceLocation": "txt:chars:33369:33385"
+    },
+    {
+      "id": "140:p5",
+      "kind": "body",
+      "text": "要把门关好锁好，转到 120。\r\n",
+      "sourceLocation": "txt:chars:33385:33402"
+    }
+  ]
+}

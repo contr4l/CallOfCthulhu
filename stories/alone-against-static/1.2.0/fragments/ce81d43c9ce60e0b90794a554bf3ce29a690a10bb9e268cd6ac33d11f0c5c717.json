@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "237"
+  ],
+  "text": [
+    "你冲到厨房搬起一把椅子，把它拖到门边，顶在门把手下。陌生人继续砸着门，而这把椅子好像能把门撑住。你感觉墙壁在一下一下颤动着。你退后一步，祈祷着门不会被砸坏。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 237",
+      "textRef": "default"
+    }
+  }
+}

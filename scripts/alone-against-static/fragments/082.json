@@ -1,0 +1,42 @@
+{
+  "id": "82",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "82:p0",
+      "kind": "heading",
+      "text": "$t1 == '82'?\r\n`",
+      "sourceLocation": "txt:chars:20862:20877"
+    },
+    {
+      "id": "82:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:20877:20879"
+    },
+    {
+      "id": "82:p2",
+      "kind": "body",
+      "text": "你定了定神，坚决地盯着这个不祥的棚屋。那又怎样？里面确实很黑，但是外面可是大白天。\r\n",
+      "sourceLocation": "txt:chars:20879:20922"
+    },
+    {
+      "id": "82:p3",
+      "kind": "body",
+      "text": "棚子这么小，你离门口永远也不会超过两步远。\r\n",
+      "sourceLocation": "txt:chars:20922:20945"
+    },
+    {
+      "id": "82:p4",
+      "kind": "body",
+      "text": "要进入棚屋，转到 57。\r\n",
+      "sourceLocation": "txt:chars:20945:20959"
+    },
+    {
+      "id": "82:p5",
+      "kind": "body",
+      "text": "要回去健走，转到 79。\r\n",
+      "sourceLocation": "txt:chars:20959:20973"
+    }
+  ]
+}

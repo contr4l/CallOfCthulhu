@@ -1,0 +1,42 @@
+{
+  "id": "12",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "12:p0",
+      "kind": "heading",
+      "text": "$t1 == '12'?\r\n`",
+      "sourceLocation": "txt:chars:4159:4174"
+    },
+    {
+      "id": "12:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:4174:4176"
+    },
+    {
+      "id": "12:p2",
+      "kind": "body",
+      "text": "“还不太饿，”你说道。\r\n",
+      "sourceLocation": "txt:chars:4176:4189"
+    },
+    {
+      "id": "12:p3",
+      "kind": "body",
+      "text": "“好吧，不过还是赶紧开饭吧。我要饿死了。”\r\n",
+      "sourceLocation": "txt:chars:4189:4212"
+    },
+    {
+      "id": "12:p4",
+      "kind": "body",
+      "text": "你从后备箱抱出一个杂货店的棕色牛皮纸袋，提起自己的行李箱，走向小屋的前门。查理开门走了进去。你也跟了进去，然后带上了门，将刺骨的寒气关在门外。\r\n",
+      "sourceLocation": "txt:chars:4212:4285"
+    },
+    {
+      "id": "12:p5",
+      "kind": "body",
+      "text": "转到 11。\r\n",
+      "sourceLocation": "txt:chars:4285:4293"
+    }
+  ]
+}

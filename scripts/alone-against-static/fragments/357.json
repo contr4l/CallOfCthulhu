@@ -1,0 +1,72 @@
+{
+  "id": "357",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "357:p0",
+      "kind": "heading",
+      "text": "$t1 == '357'?\r\n`",
+      "sourceLocation": "txt:chars:81845:81861"
+    },
+    {
+      "id": "357:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:81861:81863"
+    },
+    {
+      "id": "357:p2",
+      "kind": "body",
+      "text": "“不，”你说，“我不想这样。”\r\n",
+      "sourceLocation": "txt:chars:81863:81880"
+    },
+    {
+      "id": "357:p3",
+      "kind": "body",
+      "text": "“什么？”\r\n",
+      "sourceLocation": "txt:chars:81880:81887"
+    },
+    {
+      "id": "357:p4",
+      "kind": "body",
+      "text": "“我才不管你或者什么人说的幼子。我想回家。我想离开！”伴侣的脸冷了下来。\r\n",
+      "sourceLocation": "txt:chars:81887:81925"
+    },
+    {
+      "id": "357:p5",
+      "kind": "body",
+      "text": "“抱歉，宝贝。抱歉这一切不能毫无痛苦了。”\r\n",
+      "sourceLocation": "txt:chars:81925:81948"
+    },
+    {
+      "id": "357:p6",
+      "kind": "body",
+      "text": "在你面前，伴侣的脸扭曲着。松针从脸颊刺出，全都覆盖着鲜血。嘴胀开，一条粗重的触手伸展开，满是青色的血管，蒙着唾液。\r\n",
+      "sourceLocation": "txt:chars:81948:82007"
+    },
+    {
+      "id": "357:p7",
+      "kind": "body",
+      "text": "你听到伴侣的声音尖叫着：“幼子已获躯体！从祂的血肉中现出本真面貌！”其他几十个声音加入了噪音和合唱。它们嬉笑着、尖叫着、号哭着。它们在念诵着什么，是一个名字？它们一遍又一遍地重复着：“乌什提卡！乌什提卡！”\r\n",
+      "sourceLocation": "txt:chars:82007:82112"
+    },
+    {
+      "id": "357:p8",
+      "kind": "body",
+      "text": "它走近一步，胸口张开，衣物撕裂滑落，露出一个肌肉环绕的胃袋。雪花的风暴从中回响而出。\r\n",
+      "sourceLocation": "txt:chars:82112:82156"
+    },
+    {
+      "id": "357:p9",
+      "kind": "body",
+      "text": "要逃跑，转到 358。\r\n",
+      "sourceLocation": "txt:chars:82156:82169"
+    },
+    {
+      "id": "357:p10",
+      "kind": "body",
+      "text": "要搏斗，转到 355。\r\n",
+      "sourceLocation": "txt:chars:82169:82182"
+    }
+  ]
+}

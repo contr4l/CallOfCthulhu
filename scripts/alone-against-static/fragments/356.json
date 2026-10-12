@@ -1,0 +1,48 @@
+{
+  "id": "356",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "356:p0",
+      "kind": "heading",
+      "text": "$t1 == '356'?\r\n`",
+      "sourceLocation": "txt:chars:81614:81630"
+    },
+    {
+      "id": "356:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:81630:81632"
+    },
+    {
+      "id": "356:p2",
+      "kind": "body",
+      "text": "挥舞的触手探出，缠住了你的手腕。就在你挣扎时，第三条触手升到你的面前。在它下面，伴侣的身体已经完全解体，只剩下一张脸和许多粘稠的、生着树皮的肉块缠绕融合，形成了难以言说的形态。你朝着怪物尖叫，这就是你最后的反抗。\r\n",
+      "sourceLocation": "txt:chars:81632:81740"
+    },
+    {
+      "id": "356:p3",
+      "kind": "body",
+      "text": "第三条触手朝你胸口直刺而入。空气从你的肺中被挤出。鲜血从伤口中喷涌而出。你的视野失去了色彩。你仍试着挣脱，但四肢已经使不上力气。\r\n",
+      "sourceLocation": "txt:chars:81740:81806"
+    },
+    {
+      "id": "356:p4",
+      "kind": "body",
+      "text": "最后一刻，你只看到伴侣的脸。\r\n",
+      "sourceLocation": "txt:chars:81806:81822"
+    },
+    {
+      "id": "356:p5",
+      "kind": "body",
+      "text": "他/她看起来好失望。\r\n",
+      "sourceLocation": "txt:chars:81822:81834"
+    },
+    {
+      "id": "356:p6",
+      "kind": "body",
+      "text": "结局。\r\n",
+      "sourceLocation": "txt:chars:81834:81839"
+    }
+  ]
+}

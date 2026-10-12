@@ -1,0 +1,54 @@
+{
+  "id": "199",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "199:p0",
+      "kind": "heading",
+      "text": "$t1 == '199'?\r\n`",
+      "sourceLocation": "txt:chars:46828:46844"
+    },
+    {
+      "id": "199:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:46844:46846"
+    },
+    {
+      "id": "199:p2",
+      "kind": "body",
+      "text": "谁他妈的在找你？这磁带是多久之前的？这完全说不通。它是从马克的摄像机里拿出来的，那森林里的小屋也是他的？为什么他从来没说过这事？\r\n",
+      "sourceLocation": "txt:chars:46846:46912"
+    },
+    {
+      "id": "199:p3",
+      "kind": "body",
+      "text": "这一定是巧合，对吗？一定是……奇怪的……不。这不是。有什么恐怖的事情正在发生，它想让你的思维绕着它转，搞坏你的脑子。\r\n",
+      "sourceLocation": "txt:chars:46912:46972"
+    },
+    {
+      "id": "199:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:46972:46997"
+    },
+    {
+      "id": "199:p5",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:46997:47010"
+    },
+    {
+      "id": "199:p6",
+      "kind": "body",
+      "text": "要重看一遍，寻找更多线索，转到 200。\r\n",
+      "sourceLocation": "txt:chars:47010:47032"
+    },
+    {
+      "id": "199:p7",
+      "kind": "body",
+      "text": "要退带，回到 186。\r\n",
+      "sourceLocation": "txt:chars:47032:47045"
+    }
+  ]
+}

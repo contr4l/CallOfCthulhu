@@ -1,0 +1,42 @@
+{
+  "id": "128",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "128:p0",
+      "kind": "heading",
+      "text": "$t1 == '128'?\r\n`",
+      "sourceLocation": "txt:chars:30458:30474"
+    },
+    {
+      "id": "128:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:30474:30476"
+    },
+    {
+      "id": "128:p2",
+      "kind": "body",
+      "text": "“好——吧，”你拖着长声说着，眯上了眼睛，“多谢。”\r\n",
+      "sourceLocation": "txt:chars:30476:30504"
+    },
+    {
+      "id": "128:p3",
+      "kind": "body",
+      "text": "你当着他的面关上了门，而他只是一动不动地盯着。你担心他可能会把脚插进来，但他也并没这样做。你锁上了门。\r\n",
+      "sourceLocation": "txt:chars:30504:30557"
+    },
+    {
+      "id": "128:p4",
+      "kind": "body",
+      "text": "要回去看书，转到 139。\r\n",
+      "sourceLocation": "txt:chars:30557:30572"
+    },
+    {
+      "id": "128:p5",
+      "kind": "body",
+      "text": "要在门边呆一会儿，看看他是否离开，转到 140。\r\n",
+      "sourceLocation": "txt:chars:30572:30598"
+    }
+  ]
+}

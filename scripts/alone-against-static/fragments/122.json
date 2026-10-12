@@ -1,0 +1,60 @@
+{
+  "id": "122",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "122:p0",
+      "kind": "heading",
+      "text": "$t1 == '122'?\r\n`",
+      "sourceLocation": "txt:chars:28782:28798"
+    },
+    {
+      "id": "122:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:28798:28800"
+    },
+    {
+      "id": "122:p2",
+      "kind": "body",
+      "text": "“茱莉不在。我们只是在这里借住。”\r\n",
+      "sourceLocation": "txt:chars:28800:28819"
+    },
+    {
+      "id": "122:p3",
+      "kind": "body",
+      "text": "“你确定？”\r\n",
+      "sourceLocation": "txt:chars:28819:28827"
+    },
+    {
+      "id": "122:p4",
+      "kind": "body",
+      "text": "“非常确定，”你说道，“要帮你传话吗？”\r\n",
+      "sourceLocation": "txt:chars:28827:28849"
+    },
+    {
+      "id": "122:p5",
+      "kind": "body",
+      "text": "“那马克呢？”他问道，“马克在吗？我也可以和马克谈。你见过马克吗？”\r\n",
+      "sourceLocation": "txt:chars:28849:28885"
+    },
+    {
+      "id": "122:p6",
+      "kind": "body",
+      "text": "要询问陌生人是谁，转到 116。\r\n",
+      "sourceLocation": "txt:chars:28885:28903"
+    },
+    {
+      "id": "122:p7",
+      "kind": "body",
+      "text": "要告诉他马克也不在，转到 123。\r\n",
+      "sourceLocation": "txt:chars:28903:28922"
+    },
+    {
+      "id": "122:p8",
+      "kind": "body",
+      "text": "要让他离开，转到 117。\r\n",
+      "sourceLocation": "txt:chars:28922:28937"
+    }
+  ]
+}

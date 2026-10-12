@@ -1,0 +1,48 @@
+{
+  "id": "361",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "361:p0",
+      "kind": "heading",
+      "text": "$t1 == '361'?\r\n`",
+      "sourceLocation": "txt:chars:83397:83413"
+    },
+    {
+      "id": "361:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:83413:83415"
+    },
+    {
+      "id": "361:p2",
+      "kind": "body",
+      "text": "你在手里把玩着匕首——你扭曲变形的倒影从刀刃上对你眨着眼。变形让你看上去老了很多。\r\n",
+      "sourceLocation": "txt:chars:83415:83458"
+    },
+    {
+      "id": "361:p3",
+      "kind": "body",
+      "text": "你转过匕首，倒影也移动了。现在，你的倒影比你又年轻不少。\r\n",
+      "sourceLocation": "txt:chars:83458:83488"
+    },
+    {
+      "id": "361:p4",
+      "kind": "body",
+      "text": "你忽然头脑发晕，不禁打了个冷颤、眨了眨眼，让自己清醒过来。你把匕首收起，不再看它。\r\n",
+      "sourceLocation": "txt:chars:83488:83531"
+    },
+    {
+      "id": "361:p5",
+      "kind": "body",
+      "text": "在记录表上勾选 时间之铁。\r\n",
+      "sourceLocation": "txt:chars:83531:83546"
+    },
+    {
+      "id": "361:p6",
+      "kind": "body",
+      "text": "回到 66。\r\n",
+      "sourceLocation": "txt:chars:83546:83554"
+    }
+  ]
+}

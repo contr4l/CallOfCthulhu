@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "203"
+  ],
+  "text": [
+    "你重新看了一遍录像带。毫无收获。你倒带又看了一遍。还是毫无收获。你继续看着，习惯了倒带的嗖嗖声，你看了第五遍、第六遍、第七遍、第八遍……",
+    "那里什么都没有。除了问题、困惑和说不通的细节。你用手抱着头。太多了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 203",
+      "textRef": "default"
+    }
+  }
+}

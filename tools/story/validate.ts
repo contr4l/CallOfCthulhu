@@ -1,7 +1,9 @@
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
-import { loadStories } from "../../apps/api/src/catalog.js";
-for (const story of loadStories(resolve("stories")).values()) {
+import { loadStories, validateStory } from "../../apps/api/src/catalog.js";
+for (const story of loadStories(resolve(process.argv[2] ?? "stories")).values()) {
+  // Ordinary loading is lazy; publishing validation must inspect every body.
+  validateStory(story);
   const resources = new Set([
     story.cover,
     ...story.nodes.flatMap((n) => [

@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "317"
+  ],
+  "text": [
+    "你想要抽手，要拒绝声音的邀请。但有一个存在将它压进了你的头脑，像钳子一样将它固定在那里。同时，你手腕上的触手猛地一拽，将你往前拖去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 317",
+      "textRef": "default"
+    }
+  }
+}

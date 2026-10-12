@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "294"
+  ],
+  "text": [
+    "你走出浴缸，轻轻打开浴室门。",
+    "小屋里看着空空如也。你偷偷走向屋门。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 294",
+      "textRef": "default"
+    }
+  }
+}

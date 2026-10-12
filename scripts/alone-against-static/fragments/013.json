@@ -1,0 +1,66 @@
+{
+  "id": "13",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "13:p0",
+      "kind": "heading",
+      "text": "$t1 == '13'?\r\n`",
+      "sourceLocation": "txt:chars:4299:4314"
+    },
+    {
+      "id": "13:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:4314:4316"
+    },
+    {
+      "id": "13:p2",
+      "kind": "body",
+      "text": "你取出做汉堡的材料，又在抽屉里找到了火柴。你划着一根火柴，放在灶眼边，然后转动灶台的旋钮。什么也没发生。\r\n",
+      "sourceLocation": "txt:chars:4316:4370"
+    },
+    {
+      "id": "13:p3",
+      "kind": "body",
+      "text": "“破烂东西。”你放弃了左边的灶眼，试了试右边的。这个灶眼一下子就点起来了。\r\n",
+      "sourceLocation": "txt:chars:4370:4409"
+    },
+    {
+      "id": "13:p4",
+      "kind": "body",
+      "text": "你听到马桶冲水的时候，已经把肉饼放进煎锅里，正在切西红柿。查理从浴室出来，满足地呼了口气。\r\n",
+      "sourceLocation": "txt:chars:4409:4456"
+    },
+    {
+      "id": "13:p5",
+      "kind": "body",
+      "text": "“呼……久等了。自打从皮尔出来我就一直憋着了。”\r\n",
+      "sourceLocation": "txt:chars:4456:4482"
+    },
+    {
+      "id": "13:p6",
+      "kind": "body",
+      "text": "“真有意思，”你小声念叨了一句。\r\n",
+      "sourceLocation": "txt:chars:4482:4500"
+    },
+    {
+      "id": "13:p7",
+      "kind": "body",
+      "text": "查理走到你身后，双手环抱着你的腰。他的呼吸吹在你脖子上，然后在你脸上亲了一下。“我爱你，”查理低声说。\r\n",
+      "sourceLocation": "txt:chars:4500:4553"
+    },
+    {
+      "id": "13:p8",
+      "kind": "body",
+      "text": "要亲昵地回应，转到 14。\r\n",
+      "sourceLocation": "txt:chars:4553:4568"
+    },
+    {
+      "id": "13:p9",
+      "kind": "body",
+      "text": "要转移话题，转到 17。\r\n",
+      "sourceLocation": "txt:chars:4568:4582"
+    }
+  ]
+}

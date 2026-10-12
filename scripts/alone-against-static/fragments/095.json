@@ -1,0 +1,60 @@
+{
+  "id": "95",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "95:p0",
+      "kind": "heading",
+      "text": "$t1 == '95'?\r\n`",
+      "sourceLocation": "txt:chars:23223:23238"
+    },
+    {
+      "id": "95:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:23238:23240"
+    },
+    {
+      "id": "95:p2",
+      "kind": "body",
+      "text": "你知道车里有一支强光手电，但是车已经开走了。你在小屋里有些什么呢？如果天黑了，你就会陷于黑暗。\r\n",
+      "sourceLocation": "txt:chars:23240:23289"
+    },
+    {
+      "id": "95:p3",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:23289:23300"
+    },
+    {
+      "id": "95:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 97。\r\n",
+      "sourceLocation": "txt:chars:23300:23315"
+    },
+    {
+      "id": "95:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 98。\r\n",
+      "sourceLocation": "txt:chars:23315:23330"
+    },
+    {
+      "id": "95:p6",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是发生不幸的事件：\r\n",
+      "sourceLocation": "txt:chars:23330:23370"
+    },
+    {
+      "id": "95:p7",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 97。\r\n",
+      "sourceLocation": "txt:chars:23370:23387"
+    },
+    {
+      "id": "95:p8",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 99。\r\n",
+      "sourceLocation": "txt:chars:23387:23404"
+    }
+  ]
+}

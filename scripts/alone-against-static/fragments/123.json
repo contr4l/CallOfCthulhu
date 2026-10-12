@@ -1,0 +1,66 @@
+{
+  "id": "123",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "123:p0",
+      "kind": "heading",
+      "text": "$t1 == '123'?\r\n`",
+      "sourceLocation": "txt:chars:28943:28959"
+    },
+    {
+      "id": "123:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:28959:28961"
+    },
+    {
+      "id": "123:p2",
+      "kind": "body",
+      "text": "“不，马克也不在。”\r\n",
+      "sourceLocation": "txt:chars:28961:28973"
+    },
+    {
+      "id": "123:p3",
+      "kind": "body",
+      "text": "“哦……”他低头看了看，然后抬头盯着你，就这样过了几秒。\r\n",
+      "sourceLocation": "txt:chars:28973:29003"
+    },
+    {
+      "id": "123:p4",
+      "kind": "body",
+      "text": "“我还能为你做什么吗？”\r\n",
+      "sourceLocation": "txt:chars:29003:29017"
+    },
+    {
+      "id": "123:p5",
+      "kind": "body",
+      "text": "“他们在哪？”他问。\r\n",
+      "sourceLocation": "txt:chars:29017:29029"
+    },
+    {
+      "id": "123:p6",
+      "kind": "body",
+      "text": "“你叫什么？我可以转告他们你来过。”\r\n",
+      "sourceLocation": "txt:chars:29029:29049"
+    },
+    {
+      "id": "123:p7",
+      "kind": "body",
+      "text": "他就只盯着你。\r\n",
+      "sourceLocation": "txt:chars:29049:29058"
+    },
+    {
+      "id": "123:p8",
+      "kind": "body",
+      "text": "要让陌生人离开，转到 117。\r\n",
+      "sourceLocation": "txt:chars:29058:29075"
+    },
+    {
+      "id": "123:p9",
+      "kind": "body",
+      "text": "*要把门摔在他脸上，转到 128。\r\n",
+      "sourceLocation": "txt:chars:29075:29094"
+    }
+  ]
+}

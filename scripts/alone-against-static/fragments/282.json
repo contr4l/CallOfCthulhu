@@ -1,0 +1,42 @@
+{
+  "id": "282",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "282:p0",
+      "kind": "heading",
+      "text": "$t1 == '282'?\r\n`",
+      "sourceLocation": "txt:chars:64132:64148"
+    },
+    {
+      "id": "282:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:64148:64150"
+    },
+    {
+      "id": "282:p2",
+      "kind": "body",
+      "text": "你挣扎着拜托陌生人的钳制。你决不能直接放弃。你又拉又拽、又踢又踹、又喊又叫，尽己所能想要脱身。\r\n",
+      "sourceLocation": "txt:chars:64150:64199"
+    },
+    {
+      "id": "282:p3",
+      "kind": "body",
+      "text": "进行一次格斗（斗殴）检定。\r\n",
+      "sourceLocation": "txt:chars:64199:64214"
+    },
+    {
+      "id": "282:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 283。\r\n",
+      "sourceLocation": "txt:chars:64214:64230"
+    },
+    {
+      "id": "282:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 284。\r\n",
+      "sourceLocation": "txt:chars:64230:64246"
+    }
+  ]
+}

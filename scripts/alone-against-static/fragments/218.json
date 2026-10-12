@@ -1,0 +1,48 @@
+{
+  "id": "218",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "218:p0",
+      "kind": "heading",
+      "text": "$t1 == '218'?\r\n`",
+      "sourceLocation": "txt:chars:51570:51586"
+    },
+    {
+      "id": "218:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:51586:51588"
+    },
+    {
+      "id": "218:p2",
+      "kind": "body",
+      "text": "它看起来和你昨天在森林里鹿身上看到的症状很像。同样的疮，同样的……奇怪而让人不适的症状。\r\n",
+      "sourceLocation": "txt:chars:51588:51634"
+    },
+    {
+      "id": "218:p3",
+      "kind": "body",
+      "text": "但你之前觉得这种病只会感染动物，而不是人。\r\n",
+      "sourceLocation": "txt:chars:51634:51657"
+    },
+    {
+      "id": "218:p4",
+      "kind": "body",
+      "text": "你心中一沉。\r\n",
+      "sourceLocation": "txt:chars:51657:51665"
+    },
+    {
+      "id": "218:p5",
+      "kind": "body",
+      "text": "要继续静音播放录像，转到 219。\r\n",
+      "sourceLocation": "txt:chars:51665:51684"
+    },
+    {
+      "id": "218:p6",
+      "kind": "body",
+      "text": "要调高音量听男人说的话，转到 215。\r\n",
+      "sourceLocation": "txt:chars:51684:51705"
+    }
+  ]
+}

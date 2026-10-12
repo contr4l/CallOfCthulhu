@@ -1,0 +1,48 @@
+{
+  "id": "40",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "40:p0",
+      "kind": "heading",
+      "text": "$t1 == '40'?\r\n`",
+      "sourceLocation": "txt:chars:12998:13013"
+    },
+    {
+      "id": "40:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:13013:13015"
+    },
+    {
+      "id": "40:p2",
+      "kind": "body",
+      "text": "走着走着，你感觉胸口因为不安而颤抖。你想不明白昨天的事。想不通长途驾车、想不通你们的关系，更想不通电视的啸叫噪音。\r\n",
+      "sourceLocation": "txt:chars:13015:13074"
+    },
+    {
+      "id": "40:p3",
+      "kind": "body",
+      "text": "你抱起手臂继续走着。那幅画面在你脑中挥之不去。你盯着眼前的小路，强迫自己专注于当下。是的，这是你听过的最好建议了：专注当下。\r\n",
+      "sourceLocation": "txt:chars:13074:13138"
+    },
+    {
+      "id": "40:p4",
+      "kind": "body",
+      "text": "在你左边，你听到有流水的声音。\r\n",
+      "sourceLocation": "txt:chars:13138:13155"
+    },
+    {
+      "id": "40:p5",
+      "kind": "body",
+      "text": "要调查声音的源头，转到 44。\r\n",
+      "sourceLocation": "txt:chars:13155:13172"
+    },
+    {
+      "id": "40:p6",
+      "kind": "body",
+      "text": "要留在小路上，转到 49。\r\n",
+      "sourceLocation": "txt:chars:13172:13187"
+    }
+  ]
+}

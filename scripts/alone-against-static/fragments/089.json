@@ -1,0 +1,54 @@
+{
+  "id": "89",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "89:p0",
+      "kind": "heading",
+      "text": "$t1 == '89'?\r\n`",
+      "sourceLocation": "txt:chars:22335:22350"
+    },
+    {
+      "id": "89:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:22350:22352"
+    },
+    {
+      "id": "89:p2",
+      "kind": "body",
+      "text": "有人在那吗？窗户是关着的。你要发疯了吗？你确信自己刚才关上了门，你记得很清楚。你看着那台电视。它安静乖巧地呆在那里，就像昨晚根本没有震破你的耳膜一样。\r\n",
+      "sourceLocation": "txt:chars:22352:22429"
+    },
+    {
+      "id": "89:p3",
+      "kind": "body",
+      "text": "这地方糟透了。门可能是自己打开的。小屋里的一切都烂了。一定是这样的，你如此希望着。\r\n",
+      "sourceLocation": "txt:chars:22429:22472"
+    },
+    {
+      "id": "89:p4",
+      "kind": "body",
+      "text": "该穿衣服了。\r\n",
+      "sourceLocation": "txt:chars:22472:22480"
+    },
+    {
+      "id": "89:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:22480:22505"
+    },
+    {
+      "id": "89:p6",
+      "kind": "body",
+      "text": "失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:22505:22516"
+    },
+    {
+      "id": "89:p7",
+      "kind": "body",
+      "text": "转到 91。\r\n",
+      "sourceLocation": "txt:chars:22516:22524"
+    }
+  ]
+}

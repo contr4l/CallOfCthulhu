@@ -1,0 +1,48 @@
+{
+  "id": "84",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "84:p0",
+      "kind": "heading",
+      "text": "$t1 == '84'?\r\n`",
+      "sourceLocation": "txt:chars:21246:21261"
+    },
+    {
+      "id": "84:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:21261:21263"
+    },
+    {
+      "id": "84:p2",
+      "kind": "body",
+      "text": "你沿着上坡路走回小屋。太阳高高挂在天上。时间已经到中午了。\r\n",
+      "sourceLocation": "txt:chars:21263:21294"
+    },
+    {
+      "id": "84:p3",
+      "kind": "body",
+      "text": "你叹了口气。还是没有汽车的影子，你现在依然没有电用，也没有你的伴侣陪着你。\r\n",
+      "sourceLocation": "txt:chars:21294:21333"
+    },
+    {
+      "id": "84:p4",
+      "kind": "body",
+      "text": "进到小屋里，里面被午前的阳光照得发亮。你把健走的衣服换下扔在床上，去浴室冲澡。\r\n",
+      "sourceLocation": "txt:chars:21333:21374"
+    },
+    {
+      "id": "84:p5",
+      "kind": "body",
+      "text": "如果记录表上的 有人 已被勾选，你回想起一个小细节。你必须转到 86。\r\n",
+      "sourceLocation": "txt:chars:21374:21411"
+    },
+    {
+      "id": "84:p6",
+      "kind": "body",
+      "text": "转到 87。\r\n",
+      "sourceLocation": "txt:chars:21411:21419"
+    }
+  ]
+}

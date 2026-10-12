@@ -1,0 +1,96 @@
+{
+  "id": "285",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "285:p0",
+      "kind": "heading",
+      "text": "$t1 == '285'?\r\n`",
+      "sourceLocation": "txt:chars:64887:64903"
+    },
+    {
+      "id": "285:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:64903:64905"
+    },
+    {
+      "id": "285:p2",
+      "kind": "body",
+      "text": "“查理，”他说道。\r\n",
+      "sourceLocation": "txt:chars:64905:64916"
+    },
+    {
+      "id": "285:p3",
+      "kind": "body",
+      "text": "你凝固了。“你他妈怎么知道我的名字的？”\r\n",
+      "sourceLocation": "txt:chars:64916:64938"
+    },
+    {
+      "id": "285:p4",
+      "kind": "body",
+      "text": "“幼子告知我。祂想要一个家庭，查理。我们可以给祂一个家。我们所有人一起。”\r\n",
+      "sourceLocation": "txt:chars:64938:64977"
+    },
+    {
+      "id": "285:p5",
+      "kind": "body",
+      "text": "“雪花噪音里的声音？”你问，“它想要一个家？”\r\n",
+      "sourceLocation": "txt:chars:64977:65002"
+    },
+    {
+      "id": "285:p6",
+      "kind": "body",
+      "text": "“幼子。是的。”\r\n",
+      "sourceLocation": "txt:chars:65002:65012"
+    },
+    {
+      "id": "285:p7",
+      "kind": "body",
+      "text": "你可能会多次回到这一条目。请选择你尚未选择过的选项。\r\n",
+      "sourceLocation": "txt:chars:65012:65040"
+    },
+    {
+      "id": "285:p8",
+      "kind": "body",
+      "text": "要问幼子是什么，转到 337。\r\n",
+      "sourceLocation": "txt:chars:65040:65057"
+    },
+    {
+      "id": "285:p9",
+      "kind": "body",
+      "text": "要追问幼子想要什么，转到 338。\r\n",
+      "sourceLocation": "txt:chars:65057:65076"
+    },
+    {
+      "id": "285:p10",
+      "kind": "body",
+      "text": "要问陌生人是如何得知这一切的，转到 339。\r\n",
+      "sourceLocation": "txt:chars:65076:65100"
+    },
+    {
+      "id": "285:p11",
+      "kind": "body",
+      "text": "要询问他是否就是你在附近见过的男子，转到 340。\r\n",
+      "sourceLocation": "txt:chars:65100:65127"
+    },
+    {
+      "id": "285:p12",
+      "kind": "body",
+      "text": "当你要结束谈话时，选择以下的选项：\r\n",
+      "sourceLocation": "txt:chars:65127:65146"
+    },
+    {
+      "id": "285:p13",
+      "kind": "body",
+      "text": "要对男人说他这是无稽之谈，转到 341。\r\n",
+      "sourceLocation": "txt:chars:65146:65168"
+    },
+    {
+      "id": "285:p14",
+      "kind": "body",
+      "text": "要问他你如何才能安全离开，转到 350。\r\n",
+      "sourceLocation": "txt:chars:65168:65190"
+    }
+  ]
+}

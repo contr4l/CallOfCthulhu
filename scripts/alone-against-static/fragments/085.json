@@ -1,0 +1,72 @@
+{
+  "id": "85",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "85:p0",
+      "kind": "heading",
+      "text": "$t1 == '85'?\r\n`",
+      "sourceLocation": "txt:chars:21425:21440"
+    },
+    {
+      "id": "85:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:21440:21442"
+    },
+    {
+      "id": "85:p2",
+      "kind": "body",
+      "text": "当你跑回小屋时已经上气不接下气。太阳当空，已经是中午了。你喘着粗气，双腿颤抖，因为跑步而浑身发热。\r\n",
+      "sourceLocation": "txt:chars:21442:21493"
+    },
+    {
+      "id": "85:p3",
+      "kind": "body",
+      "text": "在你跑回来的一路上，汽车的声音一直回响在你耳中。现在，你只能听到自己的喘息声。\r\n",
+      "sourceLocation": "txt:chars:21493:21534"
+    },
+    {
+      "id": "85:p4",
+      "kind": "body",
+      "text": "你弯腰扶着膝盖休息着。时间一秒一秒过去，你却再也听不到汽车的声音了。这都是你的幻想吗？没有任何变化，你还是孤身一人，也没有电。失望带着一丝恐惧笼罩着你。\r\n",
+      "sourceLocation": "txt:chars:21534:21612"
+    },
+    {
+      "id": "85:p5",
+      "kind": "body",
+      "text": "过了几分钟，你摇了摇头，往屋里走去。\r\n",
+      "sourceLocation": "txt:chars:21612:21632"
+    },
+    {
+      "id": "85:p6",
+      "kind": "body",
+      "text": "小屋里的一切被午前的阳光照得发亮。你把健走的衣服换下扔在床上，去浴室冲澡。\r\n",
+      "sourceLocation": "txt:chars:21632:21671"
+    },
+    {
+      "id": "85:p7",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:21671:21696"
+    },
+    {
+      "id": "85:p8",
+      "kind": "body",
+      "text": "如果记录表上的 有人 已被勾选，你回想起一个小细节。你必须转到 86。\r\n",
+      "sourceLocation": "txt:chars:21696:21733"
+    },
+    {
+      "id": "85:p9",
+      "kind": "body",
+      "text": "失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:21733:21744"
+    },
+    {
+      "id": "85:p10",
+      "kind": "body",
+      "text": "转到 87。\r\n",
+      "sourceLocation": "txt:chars:21744:21752"
+    }
+  ]
+}

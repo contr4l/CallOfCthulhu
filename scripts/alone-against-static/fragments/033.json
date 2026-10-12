@@ -1,0 +1,102 @@
+{
+  "id": "33",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "33:p0",
+      "kind": "heading",
+      "text": "$t1 == '33'?\r\n`",
+      "sourceLocation": "txt:chars:11314:11329"
+    },
+    {
+      "id": "33:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:11329:11331"
+    },
+    {
+      "id": "33:p2",
+      "kind": "body",
+      "text": "这小屋糟透了。你在疙疙瘩瘩的床上扭来扭去，试着找一个舒服的地方。不久，查理爬到床上，压得床架嘎吱作响。\r\n",
+      "sourceLocation": "txt:chars:11331:11384"
+    },
+    {
+      "id": "33:p3",
+      "kind": "body",
+      "text": "“宝贝……？”\r\n",
+      "sourceLocation": "txt:chars:11384:11393"
+    },
+    {
+      "id": "33:p4",
+      "kind": "body",
+      "text": "“怎么？”\r\n",
+      "sourceLocation": "txt:chars:11393:11400"
+    },
+    {
+      "id": "33:p5",
+      "kind": "body",
+      "text": "“你这就睡觉了吗？”\r\n",
+      "sourceLocation": "txt:chars:11400:11412"
+    },
+    {
+      "id": "33:p6",
+      "kind": "body",
+      "text": "“要不然我还能干什么？停电了，我们这是在树林正中间。”\r\n",
+      "sourceLocation": "txt:chars:11412:11441"
+    },
+    {
+      "id": "33:p7",
+      "kind": "body",
+      "text": "“好吧，抱歉。”查理背过身去。至少你感觉他是这样做了，在黑暗中很难说得清。过了一小会，查理又开了口。\r\n",
+      "sourceLocation": "txt:chars:11441:11493"
+    },
+    {
+      "id": "33:p8",
+      "kind": "body",
+      "text": "“这肯定是一台老破电视了。我猜马克是 80 年代买的。”\r\n",
+      "sourceLocation": "txt:chars:11493:11523"
+    },
+    {
+      "id": "33:p9",
+      "kind": "body",
+      "text": "“我不在乎。明天能把电源恢复吗？”\r\n",
+      "sourceLocation": "txt:chars:11523:11542"
+    },
+    {
+      "id": "33:p10",
+      "kind": "body",
+      "text": "“嗯，我会尽量的。”\r\n",
+      "sourceLocation": "txt:chars:11542:11554"
+    },
+    {
+      "id": "33:p11",
+      "kind": "body",
+      "text": "“好。晚安吧，”你说道。\r\n",
+      "sourceLocation": "txt:chars:11554:11568"
+    },
+    {
+      "id": "33:p12",
+      "kind": "body",
+      "text": "“晚安。”\r\n",
+      "sourceLocation": "txt:chars:11568:11575"
+    },
+    {
+      "id": "33:p13",
+      "kind": "body",
+      "text": "查理很快睡着了。你听着他的呼吸声放缓，慢慢变成熟睡的呼声。而你却久久不能入眠。松树的吱嘎声、寒风的呼啸声和其他无法分辨的奇异声音在黑山峰回响，萦绕在你身边。你在黑暗中沉默地躺着，焦虑让你心头像是有一把火。当困意终于战胜了你，真是一件幸事。\r\n",
+      "sourceLocation": "txt:chars:11575:11696"
+    },
+    {
+      "id": "33:p14",
+      "kind": "body",
+      "text": "在记录表上勾选 恐黑症。\r\n",
+      "sourceLocation": "txt:chars:11696:11710"
+    },
+    {
+      "id": "33:p15",
+      "kind": "body",
+      "text": "转到 34。\r\n",
+      "sourceLocation": "txt:chars:11710:11718"
+    }
+  ]
+}

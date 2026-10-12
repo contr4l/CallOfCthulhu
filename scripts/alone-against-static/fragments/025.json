@@ -1,0 +1,78 @@
+{
+  "id": "25",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "25:p0",
+      "kind": "heading",
+      "text": "$t1 == '25'?\r\n`",
+      "sourceLocation": "txt:chars:8276:8291"
+    },
+    {
+      "id": "25:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:8291:8293"
+    },
+    {
+      "id": "25:p2",
+      "kind": "body",
+      "text": "“喔，开了五个小时车，就是为了像在家一样看电视，我可太喜欢了。”\r\n",
+      "sourceLocation": "txt:chars:8293:8327"
+    },
+    {
+      "id": "25:p3",
+      "kind": "body",
+      "text": "“哦，来嘛。跑长途很累了，我们就放松一下。来吧，让我来。”查理拿了盘子去洗，“茱莉和马克经常来。他说小屋里有不少电影。你按自己喜欢的挑。肯定有你爱看的。”\r\n",
+      "sourceLocation": "txt:chars:8327:8406"
+    },
+    {
+      "id": "25:p4",
+      "kind": "body",
+      "text": "“有吗？”你挑剔地问道。\r\n",
+      "sourceLocation": "txt:chars:8406:8420"
+    },
+    {
+      "id": "25:p5",
+      "kind": "body",
+      "text": "“保证有。”查理朝着电视点了点头，“去吧。”\r\n",
+      "sourceLocation": "txt:chars:8420:8444"
+    },
+    {
+      "id": "25:p6",
+      "kind": "body",
+      "text": "你从桌边站起来，走到电视前坐在地上。这是一台 80 年代的便宜型号电视，下面压着一台全是灰尘的录像磁带播放器。你把两台机器都打开，又打开下面的一个橱柜，开始找电影。\r\n",
+      "sourceLocation": "txt:chars:8444:8528"
+    },
+    {
+      "id": "25:p7",
+      "kind": "body",
+      "text": "“除了恐怖片什么都没有，”你看着磁带的标题说道。这里有上过去十年基本上所有的主流恐怖电影。“哪个看起来都不好，除非你带我来这是想弄死我。”\r\n",
+      "sourceLocation": "txt:chars:8528:8599"
+    },
+    {
+      "id": "25:p8",
+      "kind": "body",
+      "text": "“不会的，肯定有一部喜剧片。”查理在厨房说道。\r\n",
+      "sourceLocation": "txt:chars:8599:8624"
+    },
+    {
+      "id": "25:p9",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:8624:8635"
+    },
+    {
+      "id": "25:p10",
+      "kind": "body",
+      "text": "如果检定成功，转到 26。\r\n",
+      "sourceLocation": "txt:chars:8635:8650"
+    },
+    {
+      "id": "25:p11",
+      "kind": "body",
+      "text": "如果检定失败，转到 20。\r\n",
+      "sourceLocation": "txt:chars:8650:8665"
+    }
+  ]
+}

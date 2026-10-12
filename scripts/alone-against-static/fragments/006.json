@@ -1,0 +1,42 @@
+{
+  "id": "6",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "6:p0",
+      "kind": "heading",
+      "text": "$t1 == '6'?\r\n`",
+      "sourceLocation": "txt:chars:2652:2666"
+    },
+    {
+      "id": "6:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:2666:2668"
+    },
+    {
+      "id": "6:p2",
+      "kind": "body",
+      "text": "你点了点头。“是啊。吃汉堡？”\r\n",
+      "sourceLocation": "txt:chars:2668:2685"
+    },
+    {
+      "id": "6:p3",
+      "kind": "body",
+      "text": "“就吃汉堡。”\r\n",
+      "sourceLocation": "txt:chars:2685:2694"
+    },
+    {
+      "id": "6:p4",
+      "kind": "body",
+      "text": "你从后备箱抱出一个杂货店的棕色牛皮纸袋，提起自己的行李箱，走向小屋的前门。查理开门走了进去。你也跟了进去，然后带上了门，将刺骨的寒气关在门外。\r\n",
+      "sourceLocation": "txt:chars:2694:2767"
+    },
+    {
+      "id": "6:p5",
+      "kind": "body",
+      "text": "转到 11。\r\n",
+      "sourceLocation": "txt:chars:2767:2775"
+    }
+  ]
+}

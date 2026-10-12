@@ -1,0 +1,78 @@
+{
+  "id": "329",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "329:p0",
+      "kind": "heading",
+      "text": "$t1 == '329'?\r\n`",
+      "sourceLocation": "txt:chars:75072:75088"
+    },
+    {
+      "id": "329:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:75088:75090"
+    },
+    {
+      "id": "329:p2",
+      "kind": "body",
+      "text": "你遭遇的太多了。你的大脑短路了。你眨着眼，想理解刚才看见的一切。你无助地希望自己不要理解……\r\n",
+      "sourceLocation": "txt:chars:75090:75138"
+    },
+    {
+      "id": "329:p3",
+      "kind": "body",
+      "text": "你遭遇疯狂发作。进行一次 智力 检定。\r\n",
+      "sourceLocation": "txt:chars:75138:75159"
+    },
+    {
+      "id": "329:p4",
+      "kind": "body",
+      "text": "如果检定失败，回到你之前的条目。\r\n",
+      "sourceLocation": "txt:chars:75159:75177"
+    },
+    {
+      "id": "329:p5",
+      "kind": "body",
+      "text": "如果检定成功，掷 1D4，根据出目转到下列条目：\r\n",
+      "sourceLocation": "txt:chars:75177:75203"
+    },
+    {
+      "id": "329:p6",
+      "kind": "body",
+      "text": "如果掷出 1，转到 330。\r\n",
+      "sourceLocation": "txt:chars:75203:75219"
+    },
+    {
+      "id": "329:p7",
+      "kind": "body",
+      "text": "如果掷出 2，转到 331。\r\n",
+      "sourceLocation": "txt:chars:75219:75235"
+    },
+    {
+      "id": "329:p8",
+      "kind": "body",
+      "text": "如果掷出 3，转到 332。\r\n",
+      "sourceLocation": "txt:chars:75235:75251"
+    },
+    {
+      "id": "329:p9",
+      "kind": "body",
+      "text": "如果掷出 4，转到 333。\r\n",
+      "sourceLocation": "txt:chars:75251:75267"
+    },
+    {
+      "id": "329:p10",
+      "kind": "body",
+      "text": "——如果你掷出的条目已经被访问过，忽略骰子的结果，从没有访问过的条目中选择一个。如果所有 4 个条目都被访问过，转到 334。\r\n",
+      "sourceLocation": "txt:chars:75267:75332"
+    },
+    {
+      "id": "329:p11",
+      "kind": "body",
+      "text": "（疯狂发作）\r\n",
+      "sourceLocation": "txt:chars:75332:75340"
+    }
+  ]
+}

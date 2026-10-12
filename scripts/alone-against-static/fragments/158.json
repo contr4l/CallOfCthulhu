@@ -1,0 +1,84 @@
+{
+  "id": "158",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "158:p0",
+      "kind": "heading",
+      "text": "$t1 == '158'?\r\n`",
+      "sourceLocation": "txt:chars:37187:37203"
+    },
+    {
+      "id": "158:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:37203:37205"
+    },
+    {
+      "id": "158:p2",
+      "kind": "body",
+      "text": "你从床上一跃而起，因为震耳欲聋的噪音而表情扭曲，冲过去转动旋钮关掉了电视。\r\n",
+      "sourceLocation": "txt:chars:37205:37244"
+    },
+    {
+      "id": "158:p3",
+      "kind": "body",
+      "text": "亚历克斯坐在床上，双手捂着耳朵，像个傻瓜一样。“抱歉，这个遥控器只能操纵磁带机。不能控制音量。”\r\n",
+      "sourceLocation": "txt:chars:37244:37294"
+    },
+    {
+      "id": "158:p4",
+      "kind": "body",
+      "text": "“这他妈是什么东西？”你倒回床上，生气地问道。\r\n",
+      "sourceLocation": "txt:chars:37294:37319"
+    },
+    {
+      "id": "158:p5",
+      "kind": "body",
+      "text": "亚历克斯耸着肩。“不知道。”\r\n",
+      "sourceLocation": "txt:chars:37319:37335"
+    },
+    {
+      "id": "158:p6",
+      "kind": "body",
+      "text": "“马克和茱莉和别人一起来过这里？”\r\n",
+      "sourceLocation": "txt:chars:37335:37354"
+    },
+    {
+      "id": "158:p7",
+      "kind": "body",
+      "text": "亚历克斯笑了。“我实在不愿意想象你哥哥和嫂子来这里的时候都干了什么。”\r\n",
+      "sourceLocation": "txt:chars:37354:37391"
+    },
+    {
+      "id": "158:p8",
+      "kind": "body",
+      "text": "你翻了翻白眼。“太吓人了。就像是偷窥狂一样。”\r\n",
+      "sourceLocation": "txt:chars:37391:37416"
+    },
+    {
+      "id": "158:p9",
+      "kind": "body",
+      "text": "“好吧，我们都知道肯定不是。”亚历克斯朝电视柜做了个手势。“为什么马克和茱莉会有这盘录像？”\r\n",
+      "sourceLocation": "txt:chars:37416:37464"
+    },
+    {
+      "id": "158:p10",
+      "kind": "body",
+      "text": "如果记录表上的 心碎 已被勾选，你无法保持冷静。必须转到 160。\r\n",
+      "sourceLocation": "txt:chars:37464:37499"
+    },
+    {
+      "id": "158:p11",
+      "kind": "body",
+      "text": "要对亚历克斯心灰意冷，转到 160。\r\n",
+      "sourceLocation": "txt:chars:37499:37519"
+    },
+    {
+      "id": "158:p12",
+      "kind": "body",
+      "text": "要保持冷静，转到 174。\r\n",
+      "sourceLocation": "txt:chars:37519:37534"
+    }
+  ]
+}

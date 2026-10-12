@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "343"
+  ],
+  "text": [
+    "你冲过空地抱住查理。“哦天哪！我好担心！”你紧紧抱住他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 343",
+      "textRef": "default"
+    }
+  }
+}

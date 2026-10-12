@@ -1,0 +1,54 @@
+{
+  "id": "11",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "11:p0",
+      "kind": "heading",
+      "text": "$t1 == '11'?\r\n`",
+      "sourceLocation": "txt:chars:3824:3839"
+    },
+    {
+      "id": "11:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:3839:3841"
+    },
+    {
+      "id": "11:p2",
+      "kind": "body",
+      "text": "小屋并不大；只是一个大开间，有一张双人床和一只抽屉式的衣柜，房间的一角安排成了厨房。小屋里没有微波炉，烤箱和灶台都是烧燃气的。另外还有两扇门：一扇通往小屋后面，另一扇通往一间小浴室。不想也知道，那里面一定要冻死人了。\r\n",
+      "sourceLocation": "txt:chars:3841:3951"
+    },
+    {
+      "id": "11:p3",
+      "kind": "body",
+      "text": "在床对面的墙边有一排橱柜，上面放着一台电视和一套磁带录像机。整个小屋只有一个暗淡的黄色灯泡照明。说不上暗，但也不亮堂。\r\n",
+      "sourceLocation": "txt:chars:3951:4012"
+    },
+    {
+      "id": "11:p4",
+      "kind": "body",
+      "text": "“我去解个手，”查理说着走进了小浴室，然后关上了门。现在只有你一个人了。\r\n",
+      "sourceLocation": "txt:chars:4012:4050"
+    },
+    {
+      "id": "11:p5",
+      "kind": "body",
+      "text": "你把行李箱放在床上，拿了几件必需品出来，然后到厨房收拾杂货。小屋里还有一台燃气冰箱，从它发出的稳定而尖锐的嗡鸣来看，应该是 70 年代产的。\r\n",
+      "sourceLocation": "txt:chars:4050:4122"
+    },
+    {
+      "id": "11:p6",
+      "kind": "body",
+      "text": "要开始准备晚餐，转到 13。\r\n",
+      "sourceLocation": "txt:chars:4122:4138"
+    },
+    {
+      "id": "11:p7",
+      "kind": "body",
+      "text": "要等查理出来，转到 16。\r\n",
+      "sourceLocation": "txt:chars:4138:4153"
+    }
+  ]
+}

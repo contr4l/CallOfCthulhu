@@ -1,0 +1,42 @@
+{
+  "id": "134",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "134:p0",
+      "kind": "heading",
+      "text": "$t1 == '134'?\r\n`",
+      "sourceLocation": "txt:chars:32002:32018"
+    },
+    {
+      "id": "134:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:32018:32020"
+    },
+    {
+      "id": "134:p2",
+      "kind": "body",
+      "text": "“不！”你最后一次朝着那生物挥去。这一次你并未得手。两条挥舞的触手探出抓住了你的手腕。你扭动着试图挣脱时，第三条触手升到你的面前。这条触手的尖端就像锥子一样尖锐。在它后面，怪物的真实形态隐约可见。许多粘稠的、生着树皮的肉块缠绕融合，形成了难以言说的形态。你朝着怪物尖叫，这就是你最后的反抗。\r\n",
+      "sourceLocation": "txt:chars:32020:32167"
+    },
+    {
+      "id": "134:p3",
+      "kind": "body",
+      "text": "第三条触手朝你胸口直刺而入。空气从你的肺中被挤出。鲜血从伤口中喷涌而出。你的视野失去了色彩。你仍试着挣脱，但四肢已经使不上力气。\r\n",
+      "sourceLocation": "txt:chars:32167:32233"
+    },
+    {
+      "id": "134:p4",
+      "kind": "body",
+      "text": "你眼前的一起逐渐变暗，最后消失在一片雪花中。一片虚无。\r\n",
+      "sourceLocation": "txt:chars:32233:32262"
+    },
+    {
+      "id": "134:p5",
+      "kind": "body",
+      "text": "结局。\r\n",
+      "sourceLocation": "txt:chars:32262:32267"
+    }
+  ]
+}

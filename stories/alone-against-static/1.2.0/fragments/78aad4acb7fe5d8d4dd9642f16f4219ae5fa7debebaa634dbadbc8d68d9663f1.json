@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "218"
+  ],
+  "text": [
+    "它看起来和你昨天在森林里鹿身上看到的症状很像。同样的疮，同样的……奇怪而让人不适的症状。",
+    "但你之前觉得这种病只会感染动物，而不是人。",
+    "你心中一沉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 218",
+      "textRef": "default"
+    }
+  }
+}

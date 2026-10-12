@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "186"
+  ],
+  "text": [
+    "小屋里寂静无声，只有磁带机轻轻嗡鸣着。电视发着暗淡的光。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 186",
+      "textRef": "default"
+    }
+  }
+}

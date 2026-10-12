@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "51"
+  ],
+  "text": [
+    "你深吸一口气，不禁笑了起来。这里真是让人心旷神怡。空气凉爽、阳光温暖。独处的感觉让你感到振奋。",
+    "附近的树林中忽然有什么动静。你猛地转头去看，却没来得及。刚才在这里的东西已经不见了。只有它经过时碰到的树枝还在微微颤动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 51",
+      "textRef": "default"
+    }
+  }
+}

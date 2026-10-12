@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "337"
+  ],
+  "text": [
+    "“你总是说幼子，”你说，“它到底是什么？”",
+    "男人微笑着，“一种古老的存在。是的，对于一个古老存在来说名字有些怪。我相信祂是地球母亲所生。祂在世界上各种荒野中孑孑独立，孤独而痛苦。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 337",
+      "textRef": "default"
+    }
+  }
+}

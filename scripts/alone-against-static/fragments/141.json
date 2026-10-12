@@ -1,0 +1,72 @@
+{
+  "id": "141",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "141:p0",
+      "kind": "heading",
+      "text": "$t1 == '141'?\r\n`",
+      "sourceLocation": "txt:chars:33408:33424"
+    },
+    {
+      "id": "141:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:33424:33426"
+    },
+    {
+      "id": "141:p2",
+      "kind": "body",
+      "text": "你快步跟在陌生人身后。你跟着他穿过树林。你距离他并不远，但是他似乎没有注意到你。\r\n",
+      "sourceLocation": "txt:chars:33426:33468"
+    },
+    {
+      "id": "141:p3",
+      "kind": "body",
+      "text": "你可以偷偷跟着陌生人，或者不加掩饰地跟着他。\r\n",
+      "sourceLocation": "txt:chars:33468:33492"
+    },
+    {
+      "id": "141:p4",
+      "kind": "body",
+      "text": "要偷偷跟着陌生人，进行一次潜行检定；如果记录表上的 舒适派 已被勾选，为这次检定添加一枚奖励骰。\r\n",
+      "sourceLocation": "txt:chars:33492:33542"
+    },
+    {
+      "id": "141:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 144。\r\n",
+      "sourceLocation": "txt:chars:33542:33558"
+    },
+    {
+      "id": "141:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 146。\r\n",
+      "sourceLocation": "txt:chars:33558:33574"
+    },
+    {
+      "id": "141:p7",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是你被发现时已经无路可逃：\r\n",
+      "sourceLocation": "txt:chars:33574:33618"
+    },
+    {
+      "id": "141:p8",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 144。\r\n",
+      "sourceLocation": "txt:chars:33618:33636"
+    },
+    {
+      "id": "141:p9",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 147。\r\n",
+      "sourceLocation": "txt:chars:33636:33654"
+    },
+    {
+      "id": "141:p10",
+      "kind": "body",
+      "text": "要不加掩饰地跟着陌生人，转到 143。\r\n",
+      "sourceLocation": "txt:chars:33654:33675"
+    }
+  ]
+}

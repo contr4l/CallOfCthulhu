@@ -1,0 +1,48 @@
+{
+  "id": "324",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "324:p0",
+      "kind": "heading",
+      "text": "$t1 == '324'?\r\n`",
+      "sourceLocation": "txt:chars:74115:74131"
+    },
+    {
+      "id": "324:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:74131:74133"
+    },
+    {
+      "id": "324:p2",
+      "kind": "body",
+      "text": "一种奇异的刺痛感从你全身传来。一瞬间，你感觉自己自由了，飘飘欲仙。然后，你的意识消散，身体僵直。你孤身一人瘫在密林中，毫无还手之力。周围只有寂静。\r\n",
+      "sourceLocation": "txt:chars:74133:74208"
+    },
+    {
+      "id": "324:p3",
+      "kind": "body",
+      "text": "祂很快就会找到你。祂不会留手。也许会痛……\r\n",
+      "sourceLocation": "txt:chars:74208:74231"
+    },
+    {
+      "id": "324:p4",
+      "kind": "body",
+      "text": "然后，你就会死去，再也没有任何感觉了。\r\n",
+      "sourceLocation": "txt:chars:74231:74252"
+    },
+    {
+      "id": "324:p5",
+      "kind": "body",
+      "text": "结局。\r\n",
+      "sourceLocation": "txt:chars:74252:74257"
+    },
+    {
+      "id": "324:p6",
+      "kind": "body",
+      "text": "（生命值归零）\r\n",
+      "sourceLocation": "txt:chars:74257:74266"
+    }
+  ]
+}

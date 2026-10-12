@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "140"
+  ],
+  "text": [
+    "你等了一会儿，听到他从门口走开。",
+    "你凑到窗边趴着看。你看到他离开了，但是并没有沿着车道走到公路上，而是从小路走进了森林。就是你去健走的那条路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 140",
+      "textRef": "default"
+    }
+  }
+}

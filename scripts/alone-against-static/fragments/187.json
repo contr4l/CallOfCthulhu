@@ -1,0 +1,42 @@
+{
+  "id": "187",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "187:p0",
+      "kind": "heading",
+      "text": "$t1 == '187'?\r\n`",
+      "sourceLocation": "txt:chars:43456:43472"
+    },
+    {
+      "id": "187:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:43472:43474"
+    },
+    {
+      "id": "187:p2",
+      "kind": "body",
+      "text": "你拿出在废弃棚屋中找到的磁带。标签上用黑色马克笔写着标题：《傍晚时的寂静》。\r\n",
+      "sourceLocation": "txt:chars:43474:43514"
+    },
+    {
+      "id": "187:p3",
+      "kind": "body",
+      "text": "你拿着磁带到电视机前面坐在地上，探身操作着磁带机。\r\n",
+      "sourceLocation": "txt:chars:43514:43541"
+    },
+    {
+      "id": "187:p4",
+      "kind": "body",
+      "text": "要播放录像带，转到 188。\r\n",
+      "sourceLocation": "txt:chars:43541:43557"
+    },
+    {
+      "id": "187:p5",
+      "kind": "body",
+      "text": "要改变主意，把录像带收起来，回到 186。\r\n",
+      "sourceLocation": "txt:chars:43557:43580"
+    }
+  ]
+}

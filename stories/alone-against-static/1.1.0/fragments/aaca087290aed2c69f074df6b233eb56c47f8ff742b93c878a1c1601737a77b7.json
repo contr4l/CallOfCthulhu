@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "80"
+  ],
+  "text": [
+    "里面漆黑一片。伸手不见五指的黑。如果伴侣在这，你知道他/她一定会取笑你怕黑。那又怎么样？怕黑有什么问题？你确实有时候会被黑暗吓到……嗯，这个小棚子确实很……黑。所以你不想进去。这有什么不好的？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 80",
+      "textRef": "default"
+    }
+  }
+}

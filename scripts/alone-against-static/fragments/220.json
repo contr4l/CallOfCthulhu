@@ -1,0 +1,54 @@
+{
+  "id": "220",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "220:p0",
+      "kind": "heading",
+      "text": "$t1 == '220'?\r\n`",
+      "sourceLocation": "txt:chars:52035:52051"
+    },
+    {
+      "id": "220:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:52051:52053"
+    },
+    {
+      "id": "220:p2",
+      "kind": "body",
+      "text": "你慢慢从电视机前退开。这不对劲。这太不对劲了。\r\n",
+      "sourceLocation": "txt:chars:52053:52078"
+    },
+    {
+      "id": "220:p3",
+      "kind": "body",
+      "text": "不说别的，音量是关掉了。你很确定。那么……他是怎么……你的名字？你伴侣的名字？\r\n",
+      "sourceLocation": "txt:chars:52078:52119"
+    },
+    {
+      "id": "220:p4",
+      "kind": "body",
+      "text": "没有一处对劲。\r\n",
+      "sourceLocation": "txt:chars:52119:52128"
+    },
+    {
+      "id": "220:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:52128:52153"
+    },
+    {
+      "id": "220:p6",
+      "kind": "body",
+      "text": "失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:52153:52164"
+    },
+    {
+      "id": "220:p7",
+      "kind": "body",
+      "text": "回到 186。\r\n",
+      "sourceLocation": "txt:chars:52164:52173"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "160",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "160:p0",
+      "kind": "heading",
+      "text": "$t1 == '160'?\r\n`",
+      "sourceLocation": "txt:chars:37829:37845"
+    },
+    {
+      "id": "160:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:37845:37847"
+    },
+    {
+      "id": "160:p2",
+      "kind": "body",
+      "text": "你叹了口气。“怎么都好了。你总是什么都懂，不是吗？”\r\n",
+      "sourceLocation": "txt:chars:37847:37875"
+    },
+    {
+      "id": "160:p3",
+      "kind": "body",
+      "text": "亚历克斯皱起眉。“这话是什么意思？”\r\n",
+      "sourceLocation": "txt:chars:37875:37895"
+    },
+    {
+      "id": "160:p4",
+      "kind": "body",
+      "text": "你回忆着这一路上的种种：亚历克斯把所有事情都丢给你、自己只会盯着窗外做白日梦。“没事，别管了，”你说道，然后在床上翻了个身，“你能去关灯吗？”\r\n",
+      "sourceLocation": "txt:chars:37895:37968"
+    },
+    {
+      "id": "160:p5",
+      "kind": "body",
+      "text": "“你不想看电影了？”\r\n",
+      "sourceLocation": "txt:chars:37968:37980"
+    },
+    {
+      "id": "160:p6",
+      "kind": "body",
+      "text": "“不看了，”你背朝着她，说，“我现在只想睡觉。”\r\n",
+      "sourceLocation": "txt:chars:37980:38006"
+    },
+    {
+      "id": "160:p7",
+      "kind": "body",
+      "text": "亚历克斯叹着气，说：“好吧。”你感觉她从床上爬起来。“我只是想——”\r\n",
+      "sourceLocation": "txt:chars:38006:38042"
+    },
+    {
+      "id": "160:p8",
+      "kind": "body",
+      "text": "电视又吱哇乱叫着活了过来。雪花噪音响彻小屋。雷鸣般的刮擦声和咳嗽声在墙之间回响。你猛地拍在自己耳朵上，把它牢牢捂住。亚历克斯咒骂着，但是你几乎听不到他说了什么。噪音达到了疯狂的峰值，让人难以忍受。然后，就像一切开始时一样快，所有噪音都消失了，电视安静下来。小屋里所有灯光都灭了。\r\n",
+      "sourceLocation": "txt:chars:38042:38183"
+    },
+    {
+      "id": "160:p9",
+      "kind": "body",
+      "text": "在记录表上勾选 推卸责任。\r\n",
+      "sourceLocation": "txt:chars:38183:38198"
+    },
+    {
+      "id": "160:p10",
+      "kind": "body",
+      "text": "转到 193。\r\n",
+      "sourceLocation": "txt:chars:38198:38207"
+    }
+  ]
+}

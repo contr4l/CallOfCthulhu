@@ -1,0 +1,48 @@
+{
+  "id": "277",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "277:p0",
+      "kind": "heading",
+      "text": "$t1 == '277'?\r\n`",
+      "sourceLocation": "txt:chars:63200:63216"
+    },
+    {
+      "id": "277:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:63216:63218"
+    },
+    {
+      "id": "277:p2",
+      "kind": "body",
+      "text": "你不能让亚历克斯把一切抛到脑后。你试着恳求她。\r\n",
+      "sourceLocation": "txt:chars:63218:63243"
+    },
+    {
+      "id": "277:p3",
+      "kind": "body",
+      "text": "“值得。我们还有彼此。求你了，亚历克斯！”泪水从你脸上滑落。\r\n",
+      "sourceLocation": "txt:chars:63243:63275"
+    },
+    {
+      "id": "277:p4",
+      "kind": "body",
+      "text": "进行一次困难难度的说服检定。\r\n",
+      "sourceLocation": "txt:chars:63275:63291"
+    },
+    {
+      "id": "277:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 276。\r\n",
+      "sourceLocation": "txt:chars:63291:63307"
+    },
+    {
+      "id": "277:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 229。\r\n",
+      "sourceLocation": "txt:chars:63307:63323"
+    }
+  ]
+}

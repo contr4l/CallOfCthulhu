@@ -1,0 +1,36 @@
+{
+  "id": "212",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "212:p0",
+      "kind": "heading",
+      "text": "$t1 == '212'?\r\n`",
+      "sourceLocation": "txt:chars:49965:49981"
+    },
+    {
+      "id": "212:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:49981:49983"
+    },
+    {
+      "id": "212:p2",
+      "kind": "body",
+      "text": "它看起来和你昨天在森林里鹿身上看到的症状很像。同样的疮，同样的……奇怪而让人不适的症状。但你之前觉得这种病只会感染动物，而不是人。\r\n",
+      "sourceLocation": "txt:chars:49983:50050"
+    },
+    {
+      "id": "212:p3",
+      "kind": "body",
+      "text": "当男人把脓疱的全貌展示在镜头前时，你心中一沉。\r\n",
+      "sourceLocation": "txt:chars:50050:50075"
+    },
+    {
+      "id": "212:p4",
+      "kind": "body",
+      "text": "转到 215。\r\n",
+      "sourceLocation": "txt:chars:50075:50084"
+    }
+  ]
+}

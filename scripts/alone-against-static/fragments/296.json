@@ -1,0 +1,42 @@
+{
+  "id": "296",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "296:p0",
+      "kind": "heading",
+      "text": "$t1 == '296'?\r\n`",
+      "sourceLocation": "txt:chars:67006:67022"
+    },
+    {
+      "id": "296:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:67022:67024"
+    },
+    {
+      "id": "296:p2",
+      "kind": "body",
+      "text": "你关掉手电筒，紧紧握在手里。你小心地走进小屋房间，试探着每一块地板，只踩在那些不会嘎吱响的牢靠地方。\r\n",
+      "sourceLocation": "txt:chars:67024:67076"
+    },
+    {
+      "id": "296:p3",
+      "kind": "body",
+      "text": "你慢慢摸到门边，往外窥探着。你看不到陌生人的影子，只能看到周围黑漆漆的树林。森林里说不上安全，但是比你现在这个地方安全多了。\r\n",
+      "sourceLocation": "txt:chars:67076:67140"
+    },
+    {
+      "id": "296:p4",
+      "kind": "body",
+      "text": "你在门边等待着，直到你听到小屋后面传来一声怒吼。你抓住机会，朝着树林猛冲过去。你做到了，而且没有引起他的注意。不久，陌生人的吼声就弱得听不到了。你消失在树林深处。\r\n",
+      "sourceLocation": "txt:chars:67140:67223"
+    },
+    {
+      "id": "296:p5",
+      "kind": "body",
+      "text": "转到 298。\r\n",
+      "sourceLocation": "txt:chars:67223:67232"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "183",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "183:p0",
+      "kind": "heading",
+      "text": "$t1 == '183'?\r\n`",
+      "sourceLocation": "txt:chars:42864:42880"
+    },
+    {
+      "id": "183:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:42880:42882"
+    },
+    {
+      "id": "183:p2",
+      "kind": "body",
+      "text": "你吃完三明治，把空盘子放进水槽。再没有敲门声了。你大概是对的，这可能只是风把什么东西吹到了门上。\r\n",
+      "sourceLocation": "txt:chars:42882:42932"
+    },
+    {
+      "id": "183:p3",
+      "kind": "body",
+      "text": "夜色越来越深，气温越来越冷。你用手电筒照着走到床边，钻进被子里。\r\n",
+      "sourceLocation": "txt:chars:42932:42966"
+    },
+    {
+      "id": "183:p4",
+      "kind": "body",
+      "text": "在床脚对面的电视柜上，电视亮了起来。供电恢复了！\r\n",
+      "sourceLocation": "txt:chars:42966:42992"
+    },
+    {
+      "id": "183:p5",
+      "kind": "body",
+      "text": "要去开灯，转到 184。\r\n",
+      "sourceLocation": "txt:chars:42992:43006"
+    },
+    {
+      "id": "183:p6",
+      "kind": "body",
+      "text": "要把那台倒霉的电视关掉，转到 185。\r\n",
+      "sourceLocation": "txt:chars:43006:43027"
+    }
+  ]
+}

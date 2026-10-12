@@ -1,0 +1,36 @@
+{
+  "id": "351",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "351:p0",
+      "kind": "heading",
+      "text": "$t1 == '351'?\r\n`",
+      "sourceLocation": "txt:chars:80110:80126"
+    },
+    {
+      "id": "351:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:80126:80128"
+    },
+    {
+      "id": "351:p2",
+      "kind": "body",
+      "text": "在你意识深处警铃大作。但另一个同样响亮的声音让你跑过去拥抱你的爱人。\r\n",
+      "sourceLocation": "txt:chars:80128:80164"
+    },
+    {
+      "id": "351:p3",
+      "kind": "body",
+      "text": "如果记录表上的 心碎 已被勾选，让你留下的声音不够响，你可以逃离空地，转到 10。\r\n",
+      "sourceLocation": "txt:chars:80164:80207"
+    },
+    {
+      "id": "351:p4",
+      "kind": "body",
+      "text": "要跑向查理，转到 343。\r\n",
+      "sourceLocation": "txt:chars:80207:80222"
+    }
+  ]
+}

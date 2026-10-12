@@ -1,0 +1,54 @@
+{
+  "id": "5",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "5:p0",
+      "kind": "heading",
+      "text": "$t1 == '5'?\r\n`",
+      "sourceLocation": "txt:chars:2386:2400"
+    },
+    {
+      "id": "5:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:2400:2402"
+    },
+    {
+      "id": "5:p2",
+      "kind": "body",
+      "text": "过了几分钟，又转了几个弯，开过几公里的路程，太阳落山了。车灯割破黑暗，却只能照亮你们车前几米的道路。终于，灯光扫过一间小屋的外墙，在前门两侧的玻璃窗上反射回来，就像两只眼睛不祥地盯着你。\r\n",
+      "sourceLocation": "txt:chars:2402:2497"
+    },
+    {
+      "id": "5:p3",
+      "kind": "body",
+      "text": "汽车停下，车灯关闭。“终于到了，”你叹着气下了车，站到碎石车道上。你绕着汽车走到后备箱帮忙搬行李。夜里的寒气像钳子一样将你抓在中间。\r\n",
+      "sourceLocation": "txt:chars:2497:2565"
+    },
+    {
+      "id": "5:p4",
+      "kind": "body",
+      "text": "“你饿了吧？”在你忍着不想发抖时，查理问道。\r\n",
+      "sourceLocation": "txt:chars:2565:2589"
+    },
+    {
+      "id": "5:p5",
+      "kind": "body",
+      "text": "进行一次体质检定；如果你失败了，在记录表上勾选 着凉。\r\n",
+      "sourceLocation": "txt:chars:2589:2618"
+    },
+    {
+      "id": "5:p6",
+      "kind": "body",
+      "text": "要说你饿了，转到 6。\r\n",
+      "sourceLocation": "txt:chars:2618:2631"
+    },
+    {
+      "id": "5:p7",
+      "kind": "body",
+      "text": "要说你还不饿，转到 12。\r\n",
+      "sourceLocation": "txt:chars:2631:2646"
+    }
+  ]
+}

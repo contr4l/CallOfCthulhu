@@ -1,0 +1,66 @@
+{
+  "id": "132",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "132:p0",
+      "kind": "heading",
+      "text": "$t1 == '132'?\r\n`",
+      "sourceLocation": "txt:chars:31528:31544"
+    },
+    {
+      "id": "132:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:31544:31546"
+    },
+    {
+      "id": "132:p2",
+      "kind": "body",
+      "text": "“你怎么知道马克和茱莉的？”\r\n",
+      "sourceLocation": "txt:chars:31546:31562"
+    },
+    {
+      "id": "132:p3",
+      "kind": "body",
+      "text": "“我见过他们。”\r\n",
+      "sourceLocation": "txt:chars:31562:31572"
+    },
+    {
+      "id": "132:p4",
+      "kind": "body",
+      "text": "“什么？”\r\n",
+      "sourceLocation": "txt:chars:31572:31579"
+    },
+    {
+      "id": "132:p5",
+      "kind": "body",
+      "text": "“有时候，我在这里见过他们。”\r\n",
+      "sourceLocation": "txt:chars:31579:31596"
+    },
+    {
+      "id": "132:p6",
+      "kind": "body",
+      "text": "“你是他们的朋友吗？”你问道。他只是空洞地盯着你。“先生？”\r\n",
+      "sourceLocation": "txt:chars:31596:31628"
+    },
+    {
+      "id": "132:p7",
+      "kind": "body",
+      "text": "“他们在这里吗？”\r\n",
+      "sourceLocation": "txt:chars:31628:31639"
+    },
+    {
+      "id": "132:p8",
+      "kind": "body",
+      "text": "要让陌生人离开，转到 117。\r\n",
+      "sourceLocation": "txt:chars:31639:31656"
+    },
+    {
+      "id": "132:p9",
+      "kind": "body",
+      "text": "要把门摔在他脸上，转到 128。\r\n",
+      "sourceLocation": "txt:chars:31656:31674"
+    }
+  ]
+}

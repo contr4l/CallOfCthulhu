@@ -1,0 +1,42 @@
+{
+  "id": "167",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "167:p0",
+      "kind": "heading",
+      "text": "$t1 == '167'?\r\n`",
+      "sourceLocation": "txt:chars:39323:39339"
+    },
+    {
+      "id": "167:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:39339:39341"
+    },
+    {
+      "id": "167:p2",
+      "kind": "body",
+      "text": "不。不要！你抱着头，跌跌撞撞地跑向树林。一阵强烈的刺痛从你脑中爆开，让你的视野模糊。你跑进树林，盲目地朝深处跑去。\r\n",
+      "sourceLocation": "txt:chars:39341:39400"
+    },
+    {
+      "id": "167:p3",
+      "kind": "body",
+      "text": "进行一次导航检定。\r\n",
+      "sourceLocation": "txt:chars:39400:39411"
+    },
+    {
+      "id": "167:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 168。\r\n",
+      "sourceLocation": "txt:chars:39411:39427"
+    },
+    {
+      "id": "167:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 169。\r\n",
+      "sourceLocation": "txt:chars:39427:39443"
+    }
+  ]
+}

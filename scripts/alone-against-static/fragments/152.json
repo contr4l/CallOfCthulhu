@@ -1,0 +1,36 @@
+{
+  "id": "152",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "152:p0",
+      "kind": "heading",
+      "text": "$t1 == '152'?\r\n`",
+      "sourceLocation": "txt:chars:35945:35961"
+    },
+    {
+      "id": "152:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:35961:35963"
+    },
+    {
+      "id": "152:p2",
+      "kind": "body",
+      "text": "你们两人站在那里，像周围的树林一样一动不动。陌生人平淡空洞的眼睛没有漏出一点情感。\r\n",
+      "sourceLocation": "txt:chars:35963:36006"
+    },
+    {
+      "id": "152:p3",
+      "kind": "body",
+      "text": "要转头跑回小屋，转到 163。\r\n",
+      "sourceLocation": "txt:chars:36006:36023"
+    },
+    {
+      "id": "152:p4",
+      "kind": "body",
+      "text": "要坚持对峙，转到 153。\r\n",
+      "sourceLocation": "txt:chars:36023:36038"
+    }
+  ]
+}

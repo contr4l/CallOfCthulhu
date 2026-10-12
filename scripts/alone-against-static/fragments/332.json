@@ -1,0 +1,36 @@
+{
+  "id": "332",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "332:p0",
+      "kind": "heading",
+      "text": "$t1 == '332'?\r\n`",
+      "sourceLocation": "txt:chars:75667:75683"
+    },
+    {
+      "id": "332:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:75683:75685"
+    },
+    {
+      "id": "332:p2",
+      "kind": "body",
+      "text": "你见到不存在的面孔。在树木纹理中，在天空中，在跳动的阴影中。有些你好像认得，有些只是眼熟，有些则很陌生。但你一个也不相信。山岭间的每一张面孔都显得邪恶非常。你很确信，来自被遗忘的时代的扭曲的树妖正潜伏在这些面孔之下。\r\n",
+      "sourceLocation": "txt:chars:75685:75795"
+    },
+    {
+      "id": "332:p3",
+      "kind": "body",
+      "text": "你的人性正在磨损。从现在开始，你进行的说服和恐吓检定都外加一个惩罚骰。\r\n",
+      "sourceLocation": "txt:chars:75795:75832"
+    },
+    {
+      "id": "332:p4",
+      "kind": "body",
+      "text": "回到你失去理智的条目。\r\n",
+      "sourceLocation": "txt:chars:75832:75845"
+    }
+  ]
+}

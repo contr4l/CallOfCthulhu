@@ -1,0 +1,42 @@
+{
+  "id": "280",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "280:p0",
+      "kind": "heading",
+      "text": "$t1 == '280'?\r\n`",
+      "sourceLocation": "txt:chars:63724:63740"
+    },
+    {
+      "id": "280:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:63740:63742"
+    },
+    {
+      "id": "280:p2",
+      "kind": "body",
+      "text": "你转过身，在空地边缘的树木前站着亚历克斯。她的衣服上飞溅着泥土，头发里缠着断枝。但她在这里，她活得好好的，她在冲着你笑。\r\n",
+      "sourceLocation": "txt:chars:63742:63804"
+    },
+    {
+      "id": "280:p3",
+      "kind": "body",
+      "text": "“宝贝，”她说，“没事了。”\r\n",
+      "sourceLocation": "txt:chars:63804:63820"
+    },
+    {
+      "id": "280:p4",
+      "kind": "body",
+      "text": "要张开双臂跑向亚历克斯，转到 279。\r\n",
+      "sourceLocation": "txt:chars:63820:63841"
+    },
+    {
+      "id": "280:p5",
+      "kind": "body",
+      "text": "要迟疑，转到 10。\r\n",
+      "sourceLocation": "txt:chars:63841:63853"
+    }
+  ]
+}

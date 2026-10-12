@@ -1,0 +1,54 @@
+{
+  "id": "102",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "102:p0",
+      "kind": "heading",
+      "text": "$t1 == '102'?\r\n`",
+      "sourceLocation": "txt:chars:25052:25068"
+    },
+    {
+      "id": "102:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:25068:25070"
+    },
+    {
+      "id": "102:p2",
+      "kind": "body",
+      "text": "几分钟后，你的肚子翻腾起来。有东西像是在你的内脏里冒着泡。\r\n",
+      "sourceLocation": "txt:chars:25070:25101"
+    },
+    {
+      "id": "102:p3",
+      "kind": "body",
+      "text": "你回想起在森林里吃的浆果，诅咒着自己过于富有冒险精神的胃口。你站起身冲向浴室。\r\n",
+      "sourceLocation": "txt:chars:25101:25142"
+    },
+    {
+      "id": "102:p4",
+      "kind": "body",
+      "text": "接下来的一个小时，你主要就是在清空自己的肠胃。\r\n",
+      "sourceLocation": "txt:chars:25142:25167"
+    },
+    {
+      "id": "102:p5",
+      "kind": "body",
+      "text": "在你终于完事之后，你回到小屋里。\r\n",
+      "sourceLocation": "txt:chars:25167:25185"
+    },
+    {
+      "id": "102:p6",
+      "kind": "body",
+      "text": "如果记录表上的 能量充沛 或 勉强支撑 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:25185:25227"
+    },
+    {
+      "id": "102:p7",
+      "kind": "body",
+      "text": "要寻找手电筒和电池，转到 95。\r\n",
+      "sourceLocation": "txt:chars:25227:25245"
+    }
+  ]
+}

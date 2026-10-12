@@ -1,0 +1,66 @@
+{
+  "id": "200",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "200:p0",
+      "kind": "heading",
+      "text": "$t1 == '200'?\r\n`",
+      "sourceLocation": "txt:chars:47051:47067"
+    },
+    {
+      "id": "200:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:47067:47069"
+    },
+    {
+      "id": "200:p2",
+      "kind": "body",
+      "text": "你倒了带，努力对抗着，不让自己被恐慌淹没。你按下播放键，马克和茱莉又把那夸张的剧本演了一次。你盯着屏幕，视线扫过各个角落，焦急地寻找着任何线索。\r\n",
+      "sourceLocation": "txt:chars:47069:47143"
+    },
+    {
+      "id": "200:p3",
+      "kind": "body",
+      "text": "当镜头转向屋门时，你按下了暂停。\r\n",
+      "sourceLocation": "txt:chars:47143:47161"
+    },
+    {
+      "id": "200:p4",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:47161:47172"
+    },
+    {
+      "id": "200:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 202。\r\n",
+      "sourceLocation": "txt:chars:47172:47188"
+    },
+    {
+      "id": "200:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 201。\r\n",
+      "sourceLocation": "txt:chars:47188:47204"
+    },
+    {
+      "id": "200:p7",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是变得偏执：\r\n",
+      "sourceLocation": "txt:chars:47204:47241"
+    },
+    {
+      "id": "200:p8",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 202。\r\n",
+      "sourceLocation": "txt:chars:47241:47259"
+    },
+    {
+      "id": "200:p9",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 203。\r\n",
+      "sourceLocation": "txt:chars:47259:47277"
+    }
+  ]
+}

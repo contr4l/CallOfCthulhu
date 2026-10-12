@@ -1,3 +1,5 @@
+import { ShopLibrary } from "./components/ShopLibrary";
+import type { ShopState, CheckWindow } from "../../../packages/contracts/shop";
 import { createUuid } from "./uuid";
 import {
   AchievementLibrary,
@@ -33,6 +35,7 @@ import {
   ChevronRight,
   X,
   Dices,
+  ShoppingBag,
   Flame,
   Search,
   Check,
@@ -70,9 +73,19 @@ import { Modal } from "./components/Modal";
 import { DiceAnimation, diceStorageKey } from "./components/DiceRoller";
 import { SetupModal } from "./components/SetupModal";
 import { CharacterLibrary } from "./components/CharacterLibrary";
-const AVAILABLE_STORY_ID = "alone-against-flames";
+const FEATURED_STORY_ID = "alone-against-flames";
+const AVAILABLE_STORY_IDS = new Set([
+  FEATURED_STORY_ID,
+  "alone-against-static",
+]);
 type Page =
-  "library" | "runs" | "archive" | "characters" | "achievements" | "play";
+  | "library"
+  | "runs"
+  | "archive"
+  | "characters"
+  | "achievements"
+  | "shop"
+  | "play";
 const skillLabels: Record<string, string> = {
   spotHidden: "侦查",
   listen: "聆听",
@@ -160,6 +173,10 @@ function App() {
     [frameIndex, setFrameIndex] = useState(0),
     [replaying, setReplaying] = useState(false),
     [mobileMenu, setMobileMenu] = useState(false);
+  const [shop, setShop] = useState<ShopState | null>(null);
+  const [selectedAssistance, setSelectedAssistance] = useState(false);
+  const [canReroll, setCanReroll] = useState(false);
+  const [resumeCheckRun, setResumeCheckRun] = useState<string | null>(null);
   const rolling = dicePhase === "rolling";
   const diceStarted = useRef(false);
   // The server saves the result immediately; reveal its scene only after the player sees the dice.
@@ -205,22 +222,30 @@ function App() {
       setAuth(true);
     }
   }
-  async function refresh() {
-    const [r, c] = await Promise.all([
+  async function refresh(includeShop = true) {
+    const [r, c, wallet] = await Promise.all([
       api<RunSummary[]>("/runs"),
       api<{ id: string; character: Character }[]>("/characters"),
+      includeShop ? api<ShopState>("/shop") : Promise.resolve(null),
     ]);
     setRuns(r);
     setTemplates(c);
+    if (wallet) setShop(wallet);
   }
   function go(next: Page) {
     setMobileMenu(false);
     setPage(next);
+    if (next === "library" && user)
+      void api<ShopState>("/shop")
+        .then(setShop)
+        .catch(() => {});
     setScene(null);
     setRuleDice(null);
     setMapView(null);
     setResult(null);
     pendingDiceScene.current = null;
+    setCanReroll(false);
+    setSelectedAssistance(false);
     setHistory(null);
     setReplaying(false);
     location.hash = `/${next}`;
@@ -240,6 +265,21 @@ function App() {
       let displayScene = s;
       pendingDiceScene.current = null;
       const receiptKey = `rule-dice:${s.runId}`;
+      const checkWindow = await api<CheckWindow | null>(
+        `/runs/${s.runId}/check-window`,
+      );
+      setCanReroll(!!checkWindow);
+      if (checkWindow) {
+        sessionStorage.setItem(
+          receiptKey,
+          JSON.stringify({
+            revision: s.revision,
+            check: checkWindow.check,
+            before: checkWindow.before,
+          }),
+        );
+        sessionStorage.removeItem(`pending:${s.runId}`);
+      }
       const receipt = sessionStorage.getItem(receiptKey);
       setRuleDice(null);
       if (receipt) {
@@ -316,9 +356,14 @@ function App() {
       } else {
         const p = path.slice(1);
         if (
-          ["library", "runs", "archive", "characters", "achievements"].includes(
-            p,
-          )
+          [
+            "library",
+            "runs",
+            "archive",
+            "characters",
+            "achievements",
+            "shop",
+          ].includes(p)
         )
           setPage(p as Page);
       }
@@ -441,8 +486,14 @@ function App() {
     actionId: string,
     input?: Record<string, number | string>,
   ) {
-    const s = sceneRef.current;
-    if (!s || lock.current || pendingDiceScene.current || ruleDice || result)
+    const retry = actionId === "shop-reroll";
+    const s = retry ? pendingDiceScene.current : sceneRef.current;
+    const beforeView = sceneRef.current;
+    if (
+      !s ||
+      lock.current ||
+      (!retry && (pendingDiceScene.current || ruleDice || result))
+    )
       return;
     readingPosition.current = {
       y: window.scrollY,
@@ -462,6 +513,9 @@ function App() {
             commandId: createUuid(),
             expectedRevision: s.revision,
             actionId,
+            ...(!retry && selectedAssistance
+              ? { shopItem: "target-plus-10" as const }
+              : {}),
             ...(input ? { input } : {}),
           };
       sessionStorage.setItem(key, JSON.stringify(body));
@@ -470,6 +524,8 @@ function App() {
         body,
       );
       sessionStorage.removeItem(key);
+      setSelectedAssistance(false);
+      setCanReroll(!!response.canReroll);
       // A delayed idempotent response must not replace a newer authoritative view.
       const current = sceneRef.current;
       if (
@@ -490,7 +546,7 @@ function App() {
             revision: response.scene.revision,
             dice: response.dice,
             check: response.check,
-            before: s,
+            before: beforeView,
           }),
         );
         setRuleDice(response.dice ?? null);
@@ -500,7 +556,7 @@ function App() {
         diceGroupsRemaining.current = 0;
         setDicePhase("ready");
       }
-      await refresh();
+      await refresh(!!body.shopItem || retry);
     } catch (e) {
       if (e instanceof ApiError && e.status < 500) {
         sessionStorage.removeItem(key);
@@ -546,20 +602,35 @@ function App() {
     setDicePhase("revealed");
     if (result) audio.sfx(resultSuccess(result) ? "success" : "fail");
   }
-  function closeStoryDice() {
-    if (dicePhase !== "revealed") return;
-    const next = pendingDiceScene.current;
-    if (next) {
-      pendingDiceScene.current = null;
-      setScene(next);
-      audio.music(next.music);
+  async function closeStoryDice() {
+    if (dicePhase !== "revealed" || lock.current) return;
+    lock.current = true;
+    setBusy(true);
+    try {
+      const authoritative = pendingDiceScene.current ?? scene;
+      if (authoritative && canReroll)
+        await api(`/runs/${authoritative.runId}/check-window/close`, {
+          expectedRevision: authoritative.revision,
+        });
+      setCanReroll(false);
+      const next = pendingDiceScene.current;
+      if (next) {
+        pendingDiceScene.current = null;
+        setScene(next);
+        audio.music(next.music);
+      }
+      if (scene) sessionStorage.removeItem(`rule-dice:${scene.runId}`);
+      setRuleDice(null);
+      setResult(null);
+      setDicePhase("ready");
+      diceStarted.current = false;
+      clearTimeout(rollTimer.current);
+    } catch (e) {
+      fail(e);
+    } finally {
+      lock.current = false;
+      setBusy(false);
     }
-    if (scene) sessionStorage.removeItem(`rule-dice:${scene.runId}`);
-    setRuleDice(null);
-    setResult(null);
-    setDicePhase("ready");
-    diceStarted.current = false;
-    clearTimeout(rollTimer.current);
   }
   async function openHistory(id: string, mode: "read" | "replay") {
     try {
@@ -606,12 +677,13 @@ function App() {
     { page: "library" as Page, label: "剧本馆", icon: Compass },
     { page: "runs" as Page, label: "我的调查", icon: Layers },
     { page: "achievements" as Page, label: "成就", icon: Trophy },
+    { page: "shop" as Page, label: "商店", icon: ShoppingBag },
     { page: "archive" as Page, label: "回忆档案", icon: History },
     { page: "characters" as Page, label: "调查员", icon: UserRound },
   ];
   const active = runs.filter((r) => r.status === "active"),
     ended = runs.filter((r) => r.status === "ended");
-  const featured = stories.find((story) => story.id === AVAILABLE_STORY_ID);
+  const featured = stories.find((story) => story.id === FEATURED_STORY_ID);
   const filtered = stories.filter((s) =>
     `${s.title}${s.description}${s.tags.join("")}`.includes(search),
   );
@@ -621,6 +693,7 @@ function App() {
     archive: "回忆档案",
     characters: "调查员",
     achievements: "成就",
+    shop: "商店",
     play: scene?.storyTitle ?? "调查进行中",
   };
   useEffect(() => {
@@ -877,7 +950,7 @@ function App() {
               <div className="story-grid">
                 {filtered.map((s, i) => (
                   <article
-                    className={`story-card ${s.accent}${s.id === AVAILABLE_STORY_ID ? "" : " is-locked"}`}
+                    className={`story-card ${s.accent}${AVAILABLE_STORY_IDS.has(s.id) && (s.id !== "alone-against-static" || shop?.storyUnlock?.unlocked) ? "" : " is-locked"}`}
                     key={s.id}
                   >
                     <div className="card-image">
@@ -886,31 +959,50 @@ function App() {
                         CASE {String(i + 1).padStart(3, "0")}
                       </span>
                       <span className="card-type">
-                        {s.id === AVAILABLE_STORY_ID ? "可游玩" : "已锁定"}
+                        {AVAILABLE_STORY_IDS.has(s.id) &&
+                        (s.id !== "alone-against-static" ||
+                          shop?.storyUnlock?.unlocked)
+                          ? "可游玩"
+                          : "已锁定"}
                       </span>
                       <button
                         className="card-open"
                         aria-label={
-                          s.id === AVAILABLE_STORY_ID
-                            ? `开始${s.title}`
+                          AVAILABLE_STORY_IDS.has(s.id)
+                            ? s.id === "alone-against-static" &&
+                              !shop?.storyUnlock?.unlocked
+                              ? `解锁${s.title}`
+                              : `开始${s.title}`
                             : `已锁定：${s.title}`
                         }
-                        disabled={s.id !== AVAILABLE_STORY_ID}
+                        disabled={!AVAILABLE_STORY_IDS.has(s.id)}
                         title={
-                          s.id === AVAILABLE_STORY_ID
-                            ? `开始${s.title}`
+                          AVAILABLE_STORY_IDS.has(s.id)
+                            ? s.id === "alone-against-static" &&
+                              !shop?.storyUnlock?.unlocked
+                              ? `解锁${s.title}`
+                              : `开始${s.title}`
                             : "此剧本暂未开放"
                         }
                         onClick={() => {
-                          if (s.id !== AVAILABLE_STORY_ID) return;
+                          if (!AVAILABLE_STORY_IDS.has(s.id)) return;
                           if (!user) {
                             setAuth(true);
+                            return;
+                          }
+                          if (
+                            s.id === "alone-against-static" &&
+                            !shop?.storyUnlock?.unlocked
+                          ) {
+                            go("shop");
                             return;
                           }
                           setSetup(s);
                         }}
                       >
-                        {s.id === AVAILABLE_STORY_ID ? (
+                        {AVAILABLE_STORY_IDS.has(s.id) &&
+                        (s.id !== "alone-against-static" ||
+                          shop?.storyUnlock?.unlocked) ? (
                           <ArrowUpRight size={21} />
                         ) : (
                           <LockKeyhole size={18} />
@@ -921,6 +1013,13 @@ function App() {
                       <span className="card-subtitle">{s.subtitle}</span>
                       <h3>{s.title}</h3>
                       <p>{s.description}</p>
+                      {s.id === "alone-against-static" &&
+                        !shop?.storyUnlock?.unlocked && (
+                          <p>
+                            完成向火独行三个不同结局后，使用 3 点解锁（
+                            {shop?.storyUnlock?.completedEndings ?? 0}/3）。
+                          </p>
+                        )}
                       <div className="card-tags">
                         {s.tags.map((t) => (
                           <span key={t}>{t}</span>
@@ -1022,6 +1121,28 @@ function App() {
                         </span>
                         <span>D100</span>
                       </div>
+                    )}
+                    {scene.check && !scene.combat && (
+                      <label className="check-assistance">
+                        <input
+                          type="checkbox"
+                          checked={selectedAssistance}
+                          disabled={
+                            busy ||
+                            !!result ||
+                            !!ruleDice ||
+                            !shop?.inventory["target-plus-10"] ||
+                            scene.check.target >= 99
+                          }
+                          onChange={(event) =>
+                            setSelectedAssistance(event.target.checked)
+                          }
+                        />
+                        <span>
+                          使用命运助力 · 本次目标＋10（持有{" "}
+                          {shop?.inventory["target-plus-10"] ?? 0}）
+                        </span>
+                      </label>
                     )}
                     {scene.ending && (
                       <div className="ending">
@@ -1157,9 +1278,11 @@ function App() {
                   ? "尚未结束的旅程，与你曾经抵达的结局。"
                   : page === "achievements"
                     ? "每一个不同的结局，都会成为你独有的成就。首次抵达后永久解锁。"
-                    : page === "archive"
-                      ? "你经历过的故事，不会因为离开而消失。"
-                      : "每一位调查员，都有自己的观察世界的方式。"}
+                    : page === "shop"
+                      ? "购买检定道具，准备下一次调查。"
+                      : page === "archive"
+                        ? "你经历过的故事，不会因为离开而消失。"
+                        : "每一位调查员，都有自己的观察世界的方式。"}
               </p>
               {!user ? (
                 <div className="empty-state">
@@ -1177,7 +1300,18 @@ function App() {
                 <AchievementLibrary
                   key={user.id}
                   owner={user.id}
+                  balance={shop?.balance ?? 0}
+                  onShopChange={setShop}
+                  onOpenShop={() => go("shop")}
                   onViewEnding={(id) => void loadRun(id)}
+                />
+              ) : page === "shop" ? (
+                <ShopLibrary
+                  key={user.id}
+                  owner={user.id}
+                  onChange={setShop}
+                  resumeRun={resumeCheckRun}
+                  onResume={(id) => void loadRun(id)}
                 />
               ) : page === "characters" ? (
                 <CharacterLibrary
@@ -1434,7 +1568,7 @@ function App() {
               </div>
               <button
                 className="primary-button full"
-                disabled={rolling}
+                disabled={rolling || busy}
                 onClick={
                   dicePhase === "revealed" ? closeStoryDice : rollStoryDice
                 }
@@ -1482,6 +1616,32 @@ function App() {
                       {checkLabel(result)}
                     </h2>
                     <CheckExplanation result={result} />
+                    {canReroll && (
+                      <div className="check-shop-actions">
+                        <button
+                          className="secondary-button"
+                          disabled={busy || !shop?.inventory.reroll}
+                          onClick={() => void command("shop-reroll")}
+                        >
+                          使用重掷券（持有 {shop?.inventory.reroll ?? 0}）
+                        </button>
+                        <button
+                          className="text-button"
+                          disabled={busy}
+                          onClick={() => {
+                            setResumeCheckRun(scene!.runId);
+                            go("shop");
+                          }}
+                        >
+                          前往商店
+                        </button>
+                      </div>
+                    )}
+                    {error && (
+                      <p className="form-error" role="alert">
+                        {error}
+                      </p>
+                    )}
                     {result.combat && (
                       <p className="combat-resolution">
                         第 {result.combat.round} 回合 · {result.combat.action}：
@@ -1498,7 +1658,7 @@ function App() {
               </div>
               <button
                 className="primary-button full"
-                disabled={rolling}
+                disabled={rolling || busy}
                 onClick={
                   dicePhase === "revealed" ? closeStoryDice : rollStoryDice
                 }
@@ -1609,6 +1769,11 @@ function App() {
                         })}
                       />
                     </h2>
+                    {history[frameIndex].discarded && (
+                      <p className="check-note">
+                        此检定结果已由重掷替代，不计入结局奖励。
+                      </p>
+                    )}
                     {history[frameIndex].check && (
                       <p className="memory-note">
                         {history[frameIndex].check!.label}：

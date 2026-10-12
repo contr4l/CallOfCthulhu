@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "41"
+  ],
+  "text": [
+    "你在小屋前徘徊踱步。你看着表，几分钟过去了，还是没有伴侣的影子。只有太阳越来越高，万物在阳光下逐渐暖和起来。",
+    "你在一堆劈好的木柴旁边的一把塑料椅子上坐了一会儿。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 41",
+      "textRef": "default"
+    }
+  }
+}

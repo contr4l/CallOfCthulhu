@@ -1,0 +1,42 @@
+{
+  "id": "109",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "109:p0",
+      "kind": "heading",
+      "text": "$t1 == '109'?\r\n`",
+      "sourceLocation": "txt:chars:26566:26582"
+    },
+    {
+      "id": "109:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:26582:26584"
+    },
+    {
+      "id": "109:p2",
+      "kind": "body",
+      "text": "你往旁边一滚。破碎的木板刺进你身边的地板，深深扎进木材里。如果它刺中了你，一定会很惨。借着涌动的肾上腺素，你喘着粗气从床底下滑了出来。\r\n",
+      "sourceLocation": "txt:chars:26584:26653"
+    },
+    {
+      "id": "109:p3",
+      "kind": "body",
+      "text": "最好还是不要瞎找了。你站起来看着小屋里。\r\n",
+      "sourceLocation": "txt:chars:26653:26675"
+    },
+    {
+      "id": "109:p4",
+      "kind": "body",
+      "text": "如果记录表上的 吃饱 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:26675:26708"
+    },
+    {
+      "id": "109:p5",
+      "kind": "body",
+      "text": "要做点饭吃，转到 94。\r\n",
+      "sourceLocation": "txt:chars:26708:26722"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "42",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "42:p0",
+      "kind": "heading",
+      "text": "$t1 == '42'?\r\n`",
+      "sourceLocation": "txt:chars:13340:13355"
+    },
+    {
+      "id": "42:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:13355:13357"
+    },
+    {
+      "id": "42:p2",
+      "kind": "body",
+      "text": "一个不常见的形状抓住了你的视线。你仔细一看，是一把大斧头掉在了柴火堆和小屋之间。\r\n",
+      "sourceLocation": "txt:chars:13357:13399"
+    },
+    {
+      "id": "42:p3",
+      "kind": "body",
+      "text": "你站起身、弯下腰，小心地把斧头从缝隙里拣了出来。斧头上面已经满都是蜘蛛网。你把斧头靠在门边的墙上，拍了拍手上的灰。\r\n",
+      "sourceLocation": "txt:chars:13399:13458"
+    },
+    {
+      "id": "42:p4",
+      "kind": "body",
+      "text": "你又看了看车道，那边还是什么都没有。再等下去也没有意义。你决定一个人开始健走。\r\n",
+      "sourceLocation": "txt:chars:13458:13499"
+    },
+    {
+      "id": "42:p5",
+      "kind": "body",
+      "text": "你离开小屋，深深地吸了一口森林的空气，朝着附近一条步道走去。步道的地面已经被无数来游玩的家庭磨光了。\r\n",
+      "sourceLocation": "txt:chars:13499:13551"
+    },
+    {
+      "id": "42:p6",
+      "kind": "body",
+      "text": "越往里走树林就越密。小动物在你视线所不及的灌木里穿梭。鸟儿鸣叫着在头顶的枝条间掠过，让松针沙沙作响。\r\n",
+      "sourceLocation": "txt:chars:13551:13603"
+    },
+    {
+      "id": "42:p7",
+      "kind": "body",
+      "text": "你在小路旁遇到一丛蓝莓。\r\n",
+      "sourceLocation": "txt:chars:13603:13617"
+    },
+    {
+      "id": "42:p8",
+      "kind": "body",
+      "text": "在记录表上勾选 伐木工。\r\n",
+      "sourceLocation": "txt:chars:13617:13631"
+    },
+    {
+      "id": "42:p9",
+      "kind": "body",
+      "text": "要停下来收集一些果子，转到 38。\r\n",
+      "sourceLocation": "txt:chars:13631:13650"
+    },
+    {
+      "id": "42:p10",
+      "kind": "body",
+      "text": "要继续往前走，转到 39。\r\n",
+      "sourceLocation": "txt:chars:13650:13665"
+    }
+  ]
+}

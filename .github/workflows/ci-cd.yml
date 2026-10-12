@@ -39,6 +39,8 @@ jobs:
         run: >-
           npx playwright test
           tests/browser/flames.full.spec.ts
+          tests/browser/static.full.spec.ts
+          tests/browser/shop.spec.ts
           tests/browser/dice-3d.spec.ts
           tests/browser/invitation.spec.ts
           --workers=1

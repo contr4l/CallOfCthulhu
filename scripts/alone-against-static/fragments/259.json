@@ -1,0 +1,42 @@
+{
+  "id": "259",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "259:p0",
+      "kind": "heading",
+      "text": "$t1 == '259'?\r\n`",
+      "sourceLocation": "txt:chars:59147:59163"
+    },
+    {
+      "id": "259:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:59163:59165"
+    },
+    {
+      "id": "259:p2",
+      "kind": "body",
+      "text": "陌生人比你更高更大。他疯癫、狂野、暴力。\r\n",
+      "sourceLocation": "txt:chars:59165:59187"
+    },
+    {
+      "id": "259:p3",
+      "kind": "body",
+      "text": "他用双手在空中挥舞着，大步跨过房间，接近着你。\r\n",
+      "sourceLocation": "txt:chars:59187:59212"
+    },
+    {
+      "id": "259:p4",
+      "kind": "body",
+      "text": "要闪到一边，转到 262。\r\n",
+      "sourceLocation": "txt:chars:59212:59227"
+    },
+    {
+      "id": "259:p5",
+      "kind": "body",
+      "text": "要在他接近时攻击，转到 260。\r\n",
+      "sourceLocation": "txt:chars:59227:59245"
+    }
+  ]
+}

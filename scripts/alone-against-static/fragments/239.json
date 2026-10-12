@@ -1,0 +1,42 @@
+{
+  "id": "239",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "239:p0",
+      "kind": "heading",
+      "text": "$t1 == '239'?\r\n`",
+      "sourceLocation": "txt:chars:55510:55526"
+    },
+    {
+      "id": "239:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:55526:55528"
+    },
+    {
+      "id": "239:p2",
+      "kind": "body",
+      "text": "你跑过小屋，跑过床边，跑进浴室。\r\n",
+      "sourceLocation": "txt:chars:55528:55546"
+    },
+    {
+      "id": "239:p3",
+      "kind": "body",
+      "text": "你把浴室门锁好，走进浴缸，蜷缩成一团，捂住自己的嘴。\r\n",
+      "sourceLocation": "txt:chars:55546:55574"
+    },
+    {
+      "id": "239:p4",
+      "kind": "body",
+      "text": "如果记录表上的 封锁 已被勾选，必须转到 240。\r\n",
+      "sourceLocation": "txt:chars:55574:55601"
+    },
+    {
+      "id": "239:p5",
+      "kind": "body",
+      "text": "转到 254。\r\n",
+      "sourceLocation": "txt:chars:55601:55610"
+    }
+  ]
+}

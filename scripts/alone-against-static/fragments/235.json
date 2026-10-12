@@ -1,0 +1,54 @@
+{
+  "id": "235",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "235:p0",
+      "kind": "heading",
+      "text": "$t1 == '235'?\r\n`",
+      "sourceLocation": "txt:chars:54892:54908"
+    },
+    {
+      "id": "235:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:54908:54910"
+    },
+    {
+      "id": "235:p2",
+      "kind": "body",
+      "text": "你把门打开一点。手臂暴力地挥舞着，手肘挤进了门缝。你看准时机用门猛夹他的手肘。猛地咔嚓一响，你听到男人因疼痛而嚎叫着。\r\n",
+      "sourceLocation": "txt:chars:54910:54971"
+    },
+    {
+      "id": "235:p3",
+      "kind": "body",
+      "text": "他抽回手臂，你趁机关上门，又慌忙锁好。\r\n",
+      "sourceLocation": "txt:chars:54971:54992"
+    },
+    {
+      "id": "235:p4",
+      "kind": "body",
+      "text": "没过一秒钟，你就听到男人全身撞在门上。撞击声震耳欲聋。他开始用拳头砸门，门板摇摇欲坠。你听到门框裂纹的声音。\r\n",
+      "sourceLocation": "txt:chars:54992:55048"
+    },
+    {
+      "id": "235:p5",
+      "kind": "body",
+      "text": "要顶住屋门，转到 237。\r\n",
+      "sourceLocation": "txt:chars:55048:55063"
+    },
+    {
+      "id": "235:p6",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:55063:55081"
+    },
+    {
+      "id": "235:p7",
+      "kind": "body",
+      "text": "要藏起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:55081:55095"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "119",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "119:p0",
+      "kind": "heading",
+      "text": "$t1 == '119'?\r\n`",
+      "sourceLocation": "txt:chars:28288:28304"
+    },
+    {
+      "id": "119:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:28304:28306"
+    },
+    {
+      "id": "119:p2",
+      "kind": "body",
+      "text": "你感觉肠子里好像有沙砾。你摆好架势面对着他。\r\n",
+      "sourceLocation": "txt:chars:28306:28330"
+    },
+    {
+      "id": "119:p3",
+      "kind": "body",
+      "text": "“听着，”你咆哮着，“如果你不马上滚蛋，我会给他妈的警察打电话，把你踹出这个地方。听懂了吗？”\r\n",
+      "sourceLocation": "txt:chars:28330:28379"
+    },
+    {
+      "id": "119:p4",
+      "kind": "body",
+      "text": "他眨了眨眼，低了低头。过了一会，他转身走开，手还插在兜里。\r\n",
+      "sourceLocation": "txt:chars:28379:28410"
+    },
+    {
+      "id": "119:p5",
+      "kind": "body",
+      "text": "你看着他离开。他并没有沿着车道走到公路上，而是从小路走进了森林，就是你去健走的那条路。\r\n",
+      "sourceLocation": "txt:chars:28410:28455"
+    },
+    {
+      "id": "119:p6",
+      "kind": "body",
+      "text": "要跟踪陌生人，转到 138。\r\n",
+      "sourceLocation": "txt:chars:28455:28471"
+    },
+    {
+      "id": "119:p7",
+      "kind": "body",
+      "text": "要把门关好锁好，转到 120。\r\n",
+      "sourceLocation": "txt:chars:28471:28488"
+    }
+  ]
+}

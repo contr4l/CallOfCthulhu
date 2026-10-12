@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "72"
+  ],
+  "text": [
+    "原来那套螺丝刀是用在这里的！你回工作台取来了螺丝刀，把录像机翻到背面。你尝试拆解录像机取出磁带。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 72",
+      "textRef": "default"
+    }
+  }
+}

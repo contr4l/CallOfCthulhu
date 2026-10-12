@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "239"
+  ],
+  "text": [
+    "你跑过小屋，跑过床边，跑进浴室。",
+    "你把浴室门锁好，走进浴缸，蜷缩成一团，捂住自己的嘴。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 239",
+      "textRef": "default"
+    }
+  }
+}

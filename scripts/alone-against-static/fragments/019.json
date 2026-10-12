@@ -1,0 +1,66 @@
+{
+  "id": "19",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "19:p0",
+      "kind": "heading",
+      "text": "$t1 == '19'?\r\n`",
+      "sourceLocation": "txt:chars:5867:5882"
+    },
+    {
+      "id": "19:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:5882:5884"
+    },
+    {
+      "id": "19:p2",
+      "kind": "body",
+      "text": "“当然好。”你说。\r\n",
+      "sourceLocation": "txt:chars:5884:5895"
+    },
+    {
+      "id": "19:p3",
+      "kind": "body",
+      "text": "查理微笑了一下，把盘子拿去水槽洗。你走到电视面前。\r\n",
+      "sourceLocation": "txt:chars:5895:5922"
+    },
+    {
+      "id": "19:p4",
+      "kind": "body",
+      "text": "这是一台 80 年代的便宜型号电视，下面压着一台全是灰尘的录像磁带播放器。你把两台机器都打开，又打开下面的一个橱柜。你说不好查理的哥哥和大嫂会在这留下什么电影。\r\n",
+      "sourceLocation": "txt:chars:5922:6004"
+    },
+    {
+      "id": "19:p5",
+      "kind": "body",
+      "text": "“他肯定特别喜欢恐怖片吧，”你看着磁带标题说道。柜子里有十五盘磁带，显然是涵盖了过去十年几乎所有的主流恐怖电影。“天哪，这些看起来都不太妙。”\r\n",
+      "sourceLocation": "txt:chars:6004:6077"
+    },
+    {
+      "id": "19:p6",
+      "kind": "body",
+      "text": "“连一部喜剧片都没有吗？”查理从厨房问到。\r\n",
+      "sourceLocation": "txt:chars:6077:6100"
+    },
+    {
+      "id": "19:p7",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:6100:6111"
+    },
+    {
+      "id": "19:p8",
+      "kind": "body",
+      "text": "如果检定成功，转到 26。\r\n",
+      "sourceLocation": "txt:chars:6111:6126"
+    },
+    {
+      "id": "19:p9",
+      "kind": "body",
+      "text": "如果检定失败，转到 20。\r\n",
+      "sourceLocation": "txt:chars:6126:6141"
+    }
+  ]
+}

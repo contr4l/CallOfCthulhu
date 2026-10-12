@@ -1,0 +1,42 @@
+{
+  "id": "238",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "238:p0",
+      "kind": "heading",
+      "text": "$t1 == '238'?\r\n`",
+      "sourceLocation": "txt:chars:55361:55377"
+    },
+    {
+      "id": "238:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:55377:55379"
+    },
+    {
+      "id": "238:p2",
+      "kind": "body",
+      "text": "椅子仍然顶在门下。随着每一下捶击，木材都扭曲着。你并没能阻止袭击者，但是你至少让他慢下来了。你环视小屋，焦急地分析着你的选择。\r\n",
+      "sourceLocation": "txt:chars:55379:55444"
+    },
+    {
+      "id": "238:p3",
+      "kind": "body",
+      "text": "你为自己争取了额外的时间，下一次检定获得一枚奖励骰。\r\n",
+      "sourceLocation": "txt:chars:55444:55472"
+    },
+    {
+      "id": "238:p4",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:55472:55490"
+    },
+    {
+      "id": "238:p5",
+      "kind": "body",
+      "text": "要藏起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:55490:55504"
+    }
+  ]
+}

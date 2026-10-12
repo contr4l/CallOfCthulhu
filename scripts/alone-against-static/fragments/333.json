@@ -1,0 +1,36 @@
+{
+  "id": "333",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "333:p0",
+      "kind": "heading",
+      "text": "$t1 == '333'?\r\n`",
+      "sourceLocation": "txt:chars:75851:75867"
+    },
+    {
+      "id": "333:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:75867:75869"
+    },
+    {
+      "id": "333:p2",
+      "kind": "body",
+      "text": "有什么东西在对你讲话。这个声音在你听觉的边缘徘徊。你无法让它停下。它的字句都伴着雪花噪音。它让你困惑，挑弄着你的每一种恐惧。每当你想要理解它的话语，它就一瞬间消失不见，但消失不了多久。你知道，它会回来纠缠着你。\r\n",
+      "sourceLocation": "txt:chars:75869:75976"
+    },
+    {
+      "id": "333:p3",
+      "kind": "body",
+      "text": "谎言遮掩了你的感官。从现在开始，你进行的聆听检定都外加一个惩罚骰。\r\n",
+      "sourceLocation": "txt:chars:75976:76011"
+    },
+    {
+      "id": "333:p4",
+      "kind": "body",
+      "text": "回到你失去理智的条目。\r\n",
+      "sourceLocation": "txt:chars:76011:76024"
+    }
+  ]
+}

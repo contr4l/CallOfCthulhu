@@ -1,0 +1,42 @@
+{
+  "id": "236",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "236:p0",
+      "kind": "heading",
+      "text": "$t1 == '236'?\r\n`",
+      "sourceLocation": "txt:chars:55101:55117"
+    },
+    {
+      "id": "236:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:55117:55119"
+    },
+    {
+      "id": "236:p2",
+      "kind": "body",
+      "text": "你推了一把门，踉跄着退回小屋中。你知道，过不了几秒，你就会听到打开的门撞在屋里墙上的声音。\r\n",
+      "sourceLocation": "txt:chars:55119:55166"
+    },
+    {
+      "id": "236:p3",
+      "kind": "body",
+      "text": "你没有多少时间。\r\n",
+      "sourceLocation": "txt:chars:55166:55176"
+    },
+    {
+      "id": "236:p4",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:55176:55194"
+    },
+    {
+      "id": "236:p5",
+      "kind": "body",
+      "text": "要藏起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:55194:55208"
+    }
+  ]
+}

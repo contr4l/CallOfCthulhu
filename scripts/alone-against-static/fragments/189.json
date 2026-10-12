@@ -1,0 +1,78 @@
+{
+  "id": "189",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "189:p0",
+      "kind": "heading",
+      "text": "$t1 == '189'?\r\n`",
+      "sourceLocation": "txt:chars:44130:44146"
+    },
+    {
+      "id": "189:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:44146:44148"
+    },
+    {
+      "id": "189:p2",
+      "kind": "body",
+      "text": "你将磁带倒回，看着画面以倒序闪过屏幕。你在男人把摄像机转向森林那里停下，把音量调到最大。\r\n",
+      "sourceLocation": "txt:chars:44148:44194"
+    },
+    {
+      "id": "189:p3",
+      "kind": "body",
+      "text": "“——好？”男人问。\r\n",
+      "sourceLocation": "txt:chars:44194:44206"
+    },
+    {
+      "id": "189:p4",
+      "kind": "body",
+      "text": "你听到一个很轻的声音在黑暗中呼喊着。\r\n",
+      "sourceLocation": "txt:chars:44206:44226"
+    },
+    {
+      "id": "189:p5",
+      "kind": "body",
+      "text": "“你好？”他站起身，朝森林走了几步，“有人在那边吗？”\r\n",
+      "sourceLocation": "txt:chars:44226:44255"
+    },
+    {
+      "id": "189:p6",
+      "kind": "body",
+      "text": "进行一次聆听检定。\r\n",
+      "sourceLocation": "txt:chars:44255:44266"
+    },
+    {
+      "id": "189:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 190。\r\n",
+      "sourceLocation": "txt:chars:44266:44282"
+    },
+    {
+      "id": "189:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 192。\r\n",
+      "sourceLocation": "txt:chars:44282:44298"
+    },
+    {
+      "id": "189:p9",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是听到一些你宁可没听到的东西：\r\n",
+      "sourceLocation": "txt:chars:44298:44344"
+    },
+    {
+      "id": "189:p10",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 190。\r\n",
+      "sourceLocation": "txt:chars:44344:44362"
+    },
+    {
+      "id": "189:p11",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 195。\r\n",
+      "sourceLocation": "txt:chars:44362:44380"
+    }
+  ]
+}

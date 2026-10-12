@@ -1,0 +1,54 @@
+{
+  "id": "61",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "61:p0",
+      "kind": "heading",
+      "text": "$t1 == '61'?\r\n`",
+      "sourceLocation": "txt:chars:17352:17367"
+    },
+    {
+      "id": "61:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:17367:17369"
+    },
+    {
+      "id": "61:p2",
+      "kind": "body",
+      "text": "你在打开的橱柜前站了几分钟，盯着里面的磁带。\r\n",
+      "sourceLocation": "txt:chars:17369:17393"
+    },
+    {
+      "id": "61:p3",
+      "kind": "body",
+      "text": "这些磁带的标题都很奇怪，是由同一种潦草的字迹手写的。你注意到以下这些：《树林中的日光》、《希望它能爆发》、《她在夜晚移动》、《孩子们的哭喊》。\r\n",
+      "sourceLocation": "txt:chars:17393:17466"
+    },
+    {
+      "id": "61:p4",
+      "kind": "body",
+      "text": "你正歪着脑袋思考这些标题的意义，突然听到外面的一个声响。毫无疑问，这是汽车引擎的声音。这声音在山谷中回响，在森林中游荡。\r\n",
+      "sourceLocation": "txt:chars:17466:17528"
+    },
+    {
+      "id": "61:p5",
+      "kind": "body",
+      "text": "你的伴侣终于要回来了。电力也一定能恢复了。\r\n",
+      "sourceLocation": "txt:chars:17528:17551"
+    },
+    {
+      "id": "61:p6",
+      "kind": "body",
+      "text": "你抛下自己的调查，冲出棚屋，沿着林间小道跑回去。\r\n",
+      "sourceLocation": "txt:chars:17551:17577"
+    },
+    {
+      "id": "61:p7",
+      "kind": "body",
+      "text": "转到 85。\r\n",
+      "sourceLocation": "txt:chars:17577:17585"
+    }
+  ]
+}

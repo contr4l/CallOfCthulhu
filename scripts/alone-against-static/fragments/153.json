@@ -1,0 +1,66 @@
+{
+  "id": "153",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "153:p0",
+      "kind": "heading",
+      "text": "$t1 == '153'?\r\n`",
+      "sourceLocation": "txt:chars:36044:36060"
+    },
+    {
+      "id": "153:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:36060:36062"
+    },
+    {
+      "id": "153:p2",
+      "kind": "body",
+      "text": "你把双臂抱在胸前，也盯着他。你不愿让这家伙看到你示弱。\r\n",
+      "sourceLocation": "txt:chars:36062:36091"
+    },
+    {
+      "id": "153:p3",
+      "kind": "body",
+      "text": "突然，他朝你跑来。\r\n",
+      "sourceLocation": "txt:chars:36091:36102"
+    },
+    {
+      "id": "153:p4",
+      "kind": "body",
+      "text": "他跑得拼了命，眼睛一眨不眨，双掌随着脚步摆动着划破空气。\r\n",
+      "sourceLocation": "txt:chars:36102:36132"
+    },
+    {
+      "id": "153:p5",
+      "kind": "body",
+      "text": "他朝着你直冲而来。\r\n",
+      "sourceLocation": "txt:chars:36132:36143"
+    },
+    {
+      "id": "153:p6",
+      "kind": "body",
+      "text": "你蹒跚着往旁边躲了一步，尝试逃离。\r\n",
+      "sourceLocation": "txt:chars:36143:36162"
+    },
+    {
+      "id": "153:p7",
+      "kind": "body",
+      "text": "进行一次困难难度的敏捷检定。\r\n",
+      "sourceLocation": "txt:chars:36162:36178"
+    },
+    {
+      "id": "153:p8",
+      "kind": "body",
+      "text": "如果检定成功，转到 148。\r\n",
+      "sourceLocation": "txt:chars:36178:36194"
+    },
+    {
+      "id": "153:p9",
+      "kind": "body",
+      "text": "如果检定失败，转到 149。\r\n",
+      "sourceLocation": "txt:chars:36194:36210"
+    }
+  ]
+}

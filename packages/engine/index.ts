@@ -150,9 +150,10 @@ export function advance(
   actionId: string,
   dice?: DiceSource,
   input?: Record<string, number | string>,
+  targetBonus = 0,
 ) {
   if (current.program)
-    return advanceProgram(story, current, actionId, dice, input);
+    return advanceProgram(story, current, actionId, dice, input, targetBonus);
   if (current.status === "ended")
     throw new GameError(409, "本局已经结束，请开启新的调查。");
   const state = structuredClone(current),
@@ -161,7 +162,7 @@ export function advance(
   let action: string;
   let check;
   if (node.type === "check" && actionId === "roll") {
-    check = resolveCheck(state.character, node.check!, dice);
+    check = resolveCheck(state.character, node.check!, dice, targetBonus);
     target = check.success ? node.check!.success : node.check!.failure;
     action = `进行${node.check!.label}检定`;
   } else if (node.type === "narrative" && actionId === "continue") {

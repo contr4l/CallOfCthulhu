@@ -1,0 +1,42 @@
+{
+  "id": "191",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "191:p0",
+      "kind": "heading",
+      "text": "$t1 == '191'?\r\n`",
+      "sourceLocation": "txt:chars:44627:44643"
+    },
+    {
+      "id": "191:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:44643:44645"
+    },
+    {
+      "id": "191:p2",
+      "kind": "body",
+      "text": "你感觉胃里扭成一个冰冷的结。你吞了口口水，退出磁带。你勉强控制住自己的情绪。\r\n",
+      "sourceLocation": "txt:chars:44645:44685"
+    },
+    {
+      "id": "191:p3",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:44685:44710"
+    },
+    {
+      "id": "191:p4",
+      "kind": "body",
+      "text": "失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:44710:44721"
+    },
+    {
+      "id": "191:p5",
+      "kind": "body",
+      "text": "转到 186。\r\n",
+      "sourceLocation": "txt:chars:44721:44730"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "105",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "105:p0",
+      "kind": "heading",
+      "text": "$t1 == '105'?\r\n`",
+      "sourceLocation": "txt:chars:25842:25858"
+    },
+    {
+      "id": "105:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:25858:25860"
+    },
+    {
+      "id": "105:p2",
+      "kind": "body",
+      "text": "“饿坏了。做汉堡好吗？”\r\n",
+      "sourceLocation": "txt:chars:25860:25874"
+    },
+    {
+      "id": "105:p3",
+      "kind": "body",
+      "text": "亚历克斯微笑着说，“当然。”\r\n",
+      "sourceLocation": "txt:chars:25874:25890"
+    },
+    {
+      "id": "105:p4",
+      "kind": "body",
+      "text": "你拖着包走向小屋开了门，伸进一只手摸着电灯开关，然后开了灯。\r\n",
+      "sourceLocation": "txt:chars:25890:25922"
+    },
+    {
+      "id": "105:p5",
+      "kind": "body",
+      "text": "亚历克斯朝里看了看，赞许地点了点头。“喔，看着挺舒服嘛。”\r\n",
+      "sourceLocation": "txt:chars:25922:25953"
+    },
+    {
+      "id": "105:p6",
+      "kind": "body",
+      "text": "转到 327。\r\n",
+      "sourceLocation": "txt:chars:25953:25962"
+    }
+  ]
+}

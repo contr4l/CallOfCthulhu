@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "362"
+  ],
+  "text": [
+    "刀刃上映出了你变形的倒影，让你想起小时候去的海边旅游小镇的哈哈镜。",
+    "你一直不喜欢那里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 362",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "86",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "86:p0",
+      "kind": "heading",
+      "text": "$t1 == '86'?\r\n`",
+      "sourceLocation": "txt:chars:21758:21773"
+    },
+    {
+      "id": "86:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:21773:21775"
+    },
+    {
+      "id": "86:p2",
+      "kind": "body",
+      "text": "你关上浴室门，打开花洒。水流喷出，流到下面的浴缸里。房间里满是水流的哗哗声，几乎让你想起那白噪音。水泵没有供电，水压很不好，但是重力还能让它流出来。谢天谢地热水器是烧燃气的。\r\n",
+      "sourceLocation": "txt:chars:21775:21864"
+    },
+    {
+      "id": "86:p3",
+      "kind": "body",
+      "text": "你想到浴室门自己关不紧。于是你用力把门推进门框，闩上门闩。\r\n",
+      "sourceLocation": "txt:chars:21864:21895"
+    },
+    {
+      "id": "86:p4",
+      "kind": "body",
+      "text": "你走进水流里，洗去早晨健走的疲劳。\r\n",
+      "sourceLocation": "txt:chars:21895:21914"
+    },
+    {
+      "id": "86:p5",
+      "kind": "body",
+      "text": "要好好享受一下热水，转到 90。\r\n",
+      "sourceLocation": "txt:chars:21914:21932"
+    },
+    {
+      "id": "86:p6",
+      "kind": "body",
+      "text": "要简单冲一下就好，转到 92。\r\n",
+      "sourceLocation": "txt:chars:21932:21949"
+    }
+  ]
+}

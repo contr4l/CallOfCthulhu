@@ -1,0 +1,78 @@
+{
+  "id": "172",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "172:p0",
+      "kind": "heading",
+      "text": "$t1 == '172'?\r\n`",
+      "sourceLocation": "txt:chars:40575:40591"
+    },
+    {
+      "id": "172:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:40591:40593"
+    },
+    {
+      "id": "172:p2",
+      "kind": "body",
+      "text": "“你说的是什么呀？”你问道。你左右转着头，看着周围的环境。“这里是什么地方？”\r\n",
+      "sourceLocation": "txt:chars:40593:40634"
+    },
+    {
+      "id": "172:p3",
+      "kind": "body",
+      "text": "陌生人无言地盯着你。\r\n",
+      "sourceLocation": "txt:chars:40634:40646"
+    },
+    {
+      "id": "172:p4",
+      "kind": "body",
+      "text": "“好吧，”你看着他身后新翻的土堆，“那是什么？”\r\n",
+      "sourceLocation": "txt:chars:40646:40672"
+    },
+    {
+      "id": "172:p5",
+      "kind": "body",
+      "text": "他只盯着你。\r\n",
+      "sourceLocation": "txt:chars:40672:40680"
+    },
+    {
+      "id": "172:p6",
+      "kind": "body",
+      "text": "你盯了回去。\r\n",
+      "sourceLocation": "txt:chars:40680:40688"
+    },
+    {
+      "id": "172:p7",
+      "kind": "body",
+      "text": "他张开嘴，张得大大的。他嘴里的牙都是乌黑的。他的舌头伸出来，舌头又宽又平。\r\n",
+      "sourceLocation": "txt:chars:40688:40727"
+    },
+    {
+      "id": "172:p8",
+      "kind": "body",
+      "text": "他尖叫起来，然后变成咆哮。这声音让你痛苦万分。它不是常人的尖叫，而是人类咆哮声与狂吼的雪花噪音的合唱。这声音大得超出想象，吵得你脑子发疼。\r\n",
+      "sourceLocation": "txt:chars:40727:40798"
+    },
+    {
+      "id": "172:p9",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:40798:40809"
+    },
+    {
+      "id": "172:p10",
+      "kind": "body",
+      "text": "如果检定成功，转到 173。\r\n",
+      "sourceLocation": "txt:chars:40809:40825"
+    },
+    {
+      "id": "172:p11",
+      "kind": "body",
+      "text": "如果检定失败，转到 166。\r\n",
+      "sourceLocation": "txt:chars:40825:40841"
+    }
+  ]
+}

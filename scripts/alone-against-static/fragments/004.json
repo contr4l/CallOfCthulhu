@@ -1,0 +1,54 @@
+{
+  "id": "4",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "4:p0",
+      "kind": "heading",
+      "text": "$t1 == '4'?\r\n`",
+      "sourceLocation": "txt:chars:2189:2203"
+    },
+    {
+      "id": "4:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:2203:2205"
+    },
+    {
+      "id": "4:p2",
+      "kind": "body",
+      "text": "查理看起来焦躁不安。你们已经在车里呆了三个小时，这也难怪。你探身过去，把手放在他的腿上按摩着。你看到查理笑了一下。\r\n",
+      "sourceLocation": "txt:chars:2205:2264"
+    },
+    {
+      "id": "4:p3",
+      "kind": "body",
+      "text": "“不远了，”查理说道。\r\n",
+      "sourceLocation": "txt:chars:2264:2277"
+    },
+    {
+      "id": "4:p4",
+      "kind": "body",
+      "text": "“太好了。我等不及要伸伸腿了。”\r\n",
+      "sourceLocation": "txt:chars:2277:2295"
+    },
+    {
+      "id": "4:p5",
+      "kind": "body",
+      "text": "你们继续往森林深处驶去。这条小路弯弯曲曲、毫无规律，在山坡之间左闪右躲、上上下下。\r\n",
+      "sourceLocation": "txt:chars:2295:2338"
+    },
+    {
+      "id": "4:p6",
+      "kind": "body",
+      "text": "天空被松树密布的枝条遮住。随着傍晚的影子拉长，寒意从车外渗透进来。\r\n",
+      "sourceLocation": "txt:chars:2338:2373"
+    },
+    {
+      "id": "4:p7",
+      "kind": "body",
+      "text": "转到 5。\r\n",
+      "sourceLocation": "txt:chars:2373:2380"
+    }
+  ]
+}

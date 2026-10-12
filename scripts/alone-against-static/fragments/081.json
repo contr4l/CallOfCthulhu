@@ -1,0 +1,60 @@
+{
+  "id": "81",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "81:p0",
+      "kind": "heading",
+      "text": "$t1 == '81'?\r\n`",
+      "sourceLocation": "txt:chars:20668:20683"
+    },
+    {
+      "id": "81:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:20683:20685"
+    },
+    {
+      "id": "81:p2",
+      "kind": "body",
+      "text": "你想了一下进入棚屋。一想到可能会被困在这个又小又黑的棚子里，你就止不住地发抖。\r\n",
+      "sourceLocation": "txt:chars:20685:20726"
+    },
+    {
+      "id": "81:p3",
+      "kind": "body",
+      "text": "“天杀的，”你低声说着。要是你伴侣已经修好了那倒霉的供电就好了。\r\n",
+      "sourceLocation": "txt:chars:20726:20760"
+    },
+    {
+      "id": "81:p4",
+      "kind": "body",
+      "text": "你做不到，做不到逼着自己进去。你转身离开，往小路走回去。\r\n",
+      "sourceLocation": "txt:chars:20760:20790"
+    },
+    {
+      "id": "81:p5",
+      "kind": "body",
+      "text": "你继续走了半小时左右，然后便往小屋回去。\r\n",
+      "sourceLocation": "txt:chars:20790:20812"
+    },
+    {
+      "id": "81:p6",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:20812:20837"
+    },
+    {
+      "id": "81:p7",
+      "kind": "body",
+      "text": "失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:20837:20848"
+    },
+    {
+      "id": "81:p8",
+      "kind": "body",
+      "text": "转到 84。\r\n",
+      "sourceLocation": "txt:chars:20848:20856"
+    }
+  ]
+}

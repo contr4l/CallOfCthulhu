@@ -1,0 +1,66 @@
+{
+  "id": "216",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "216:p0",
+      "kind": "heading",
+      "text": "$t1 == '216'?\r\n`",
+      "sourceLocation": "txt:chars:50993:51009"
+    },
+    {
+      "id": "216:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:51009:51011"
+    },
+    {
+      "id": "216:p2",
+      "kind": "body",
+      "text": "雪花！雪花！可怖的雪花噪音！\r\n",
+      "sourceLocation": "txt:chars:51011:51027"
+    },
+    {
+      "id": "216:p3",
+      "kind": "body",
+      "text": "你逃无可逃！你能感觉到它，就像冰凉的卷须从你的腹中生发、滑过你的咽喉、埋入你的头脑、玩弄着你的每个想法、扭曲着你的感受、吞食着你的记忆。\r\n",
+      "sourceLocation": "txt:chars:51027:51097"
+    },
+    {
+      "id": "216:p4",
+      "kind": "body",
+      "text": "你朝磁带机伸出手，砸了一下、两下、三下，终于砸中了退带按钮。机器吐出磁带，小屋重归寂静。电视机还在那里安静地发着光。\r\n",
+      "sourceLocation": "txt:chars:51097:51157"
+    },
+    {
+      "id": "216:p5",
+      "kind": "body",
+      "text": "录像里的那个男人……他是怎么知道这些名字的？\r\n",
+      "sourceLocation": "txt:chars:51157:51181"
+    },
+    {
+      "id": "216:p6",
+      "kind": "body",
+      "text": "他是怎么知道你的？\r\n",
+      "sourceLocation": "txt:chars:51181:51192"
+    },
+    {
+      "id": "216:p7",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:51192:51217"
+    },
+    {
+      "id": "216:p8",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:51217:51230"
+    },
+    {
+      "id": "216:p9",
+      "kind": "body",
+      "text": "回到 186。\r\n",
+      "sourceLocation": "txt:chars:51230:51239"
+    }
+  ]
+}

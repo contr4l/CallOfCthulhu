@@ -1,0 +1,54 @@
+{
+  "id": "69",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "69:p0",
+      "kind": "heading",
+      "text": "$t1 == '69'?\r\n`",
+      "sourceLocation": "txt:chars:18764:18779"
+    },
+    {
+      "id": "69:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:18779:18781"
+    },
+    {
+      "id": "69:p2",
+      "kind": "body",
+      "text": "匕首比第一眼看上去还更大一些。刀刃就有你小臂那么长。你从皮革刀鞘中抽出匕首，刀刃闪着寒光。你的倒影在昏暗的光线中凝视着你。\r\n",
+      "sourceLocation": "txt:chars:18781:18844"
+    },
+    {
+      "id": "69:p3",
+      "kind": "body",
+      "text": "匕首的重量让你感觉很舒服。你感到一种冲动，想把它带走。\r\n",
+      "sourceLocation": "txt:chars:18844:18873"
+    },
+    {
+      "id": "69:p4",
+      "kind": "body",
+      "text": "要带走匕首，在记录表上勾选 削铁如泥，然后进行一次神秘学检定。\r\n",
+      "sourceLocation": "txt:chars:18873:18906"
+    },
+    {
+      "id": "69:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 361。\r\n",
+      "sourceLocation": "txt:chars:18906:18922"
+    },
+    {
+      "id": "69:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 362。\r\n",
+      "sourceLocation": "txt:chars:18922:18938"
+    },
+    {
+      "id": "69:p7",
+      "kind": "body",
+      "text": "或者，回到 66。\r\n",
+      "sourceLocation": "txt:chars:18938:18949"
+    }
+  ]
+}

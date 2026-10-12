@@ -1,0 +1,48 @@
+{
+  "id": "294",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "294:p0",
+      "kind": "heading",
+      "text": "$t1 == '294'?\r\n`",
+      "sourceLocation": "txt:chars:66781:66797"
+    },
+    {
+      "id": "294:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:66797:66799"
+    },
+    {
+      "id": "294:p2",
+      "kind": "body",
+      "text": "你走出浴缸，轻轻打开浴室门。\r\n",
+      "sourceLocation": "txt:chars:66799:66815"
+    },
+    {
+      "id": "294:p3",
+      "kind": "body",
+      "text": "小屋里看着空空如也。你偷偷走向屋门。\r\n",
+      "sourceLocation": "txt:chars:66815:66835"
+    },
+    {
+      "id": "294:p4",
+      "kind": "body",
+      "text": "进行一次潜行检定。\r\n",
+      "sourceLocation": "txt:chars:66835:66846"
+    },
+    {
+      "id": "294:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 296。\r\n",
+      "sourceLocation": "txt:chars:66846:66862"
+    },
+    {
+      "id": "294:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 295。\r\n",
+      "sourceLocation": "txt:chars:66862:66878"
+    }
+  ]
+}

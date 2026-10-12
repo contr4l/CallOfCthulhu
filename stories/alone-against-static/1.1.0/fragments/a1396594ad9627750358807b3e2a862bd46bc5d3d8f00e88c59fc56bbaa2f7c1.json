@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "299"
+  ],
+  "text": [
+    "你选了一条路走了下去。你跑了好久好久，也不知道这条路究竟对不对。你只能靠手电筒照着才能看清周围。你唯一能确定的是，这里的森林更安静。",
+    "渐渐地，你累了。你也觉得越来越冷。你靠着一棵树喘着粗气。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 299",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "114",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "114:p0",
+      "kind": "heading",
+      "text": "$t1 == '114'?\r\n`",
+      "sourceLocation": "txt:chars:27427:27443"
+    },
+    {
+      "id": "114:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:27443:27445"
+    },
+    {
+      "id": "114:p2",
+      "kind": "body",
+      "text": "“抱歉，你是哪位？”你问道。但他不为所动。\r\n",
+      "sourceLocation": "txt:chars:27445:27468"
+    },
+    {
+      "id": "114:p3",
+      "kind": "body",
+      "text": "“茱莉，她在家吗？”\r\n",
+      "sourceLocation": "txt:chars:27468:27480"
+    },
+    {
+      "id": "114:p4",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:27480:27491"
+    },
+    {
+      "id": "114:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 115。\r\n",
+      "sourceLocation": "txt:chars:27491:27507"
+    },
+    {
+      "id": "114:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 118。\r\n",
+      "sourceLocation": "txt:chars:27507:27523"
+    }
+  ]
+}

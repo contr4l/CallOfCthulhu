@@ -1,0 +1,42 @@
+{
+  "id": "39",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "39:p0",
+      "kind": "heading",
+      "text": "$t1 == '39'?\r\n`",
+      "sourceLocation": "txt:chars:12825:12840"
+    },
+    {
+      "id": "39:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:12840:12842"
+    },
+    {
+      "id": "39:p2",
+      "kind": "body",
+      "text": "大自然带走了你身上的重负。你感觉自己真心笑起来，这是几周以来的第一次。这并没有花费你什么力气，真好。你抬头冲着天空，闭上眼享受阳光和新鲜空气抚过皮肤。真是太好了。\r\n",
+      "sourceLocation": "txt:chars:12842:12925"
+    },
+    {
+      "id": "39:p3",
+      "kind": "body",
+      "text": "你听到左边有流水的声音。你睁开眼看过去。声音是从小路不远处传来的。\r\n",
+      "sourceLocation": "txt:chars:12925:12960"
+    },
+    {
+      "id": "39:p4",
+      "kind": "body",
+      "text": "要调查声音的源头，转到 44。\r\n",
+      "sourceLocation": "txt:chars:12960:12977"
+    },
+    {
+      "id": "39:p5",
+      "kind": "body",
+      "text": "要留在小路上，转到 49。\r\n",
+      "sourceLocation": "txt:chars:12977:12992"
+    }
+  ]
+}

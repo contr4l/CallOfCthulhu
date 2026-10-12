@@ -1,0 +1,675 @@
+[
+  {
+    "name": "alex",
+    "role": 0,
+    "failNodes": [],
+    "steps": [
+      {
+        "chapter": "0",
+        "action": "next"
+      },
+      {
+        "chapter": "1",
+        "action": "to-7"
+      },
+      {
+        "chapter": "7",
+        "action": "next"
+      },
+      {
+        "chapter": "4",
+        "action": "next"
+      },
+      {
+        "chapter": "5",
+        "action": "next"
+      },
+      {
+        "chapter": "5",
+        "action": "to-6"
+      },
+      {
+        "chapter": "6",
+        "action": "next"
+      },
+      {
+        "chapter": "11",
+        "action": "to-16"
+      },
+      {
+        "chapter": "16",
+        "action": "to-17"
+      },
+      {
+        "chapter": "17",
+        "action": "to-18"
+      },
+      {
+        "chapter": "18",
+        "action": "to-19"
+      },
+      {
+        "chapter": "19",
+        "action": "next"
+      },
+      {
+        "chapter": "26",
+        "action": "to-21"
+      },
+      {
+        "chapter": "21",
+        "action": "next"
+      },
+      {
+        "chapter": "22",
+        "action": "next"
+      },
+      {
+        "chapter": "22",
+        "action": "to-29"
+      },
+      {
+        "chapter": "24",
+        "action": "next"
+      },
+      {
+        "chapter": "33",
+        "action": "next"
+      },
+      {
+        "chapter": "34",
+        "action": "to-37"
+      },
+      {
+        "chapter": "37",
+        "action": "to-38"
+      },
+      {
+        "chapter": "38",
+        "action": "next"
+      },
+      {
+        "chapter": "77",
+        "action": "to-49"
+      },
+      {
+        "chapter": "49",
+        "action": "to-79"
+      },
+      {
+        "chapter": "79",
+        "action": "next"
+      },
+      {
+        "chapter": "86",
+        "action": "to-92"
+      },
+      {
+        "chapter": "92",
+        "action": "comfortable"
+      },
+      {
+        "chapter": "93",
+        "action": "to-95"
+      },
+      {
+        "chapter": "95",
+        "action": "next"
+      },
+      {
+        "chapter": "97",
+        "action": "next"
+      },
+      {
+        "chapter": "94",
+        "action": "to-107"
+      },
+      {
+        "chapter": "107",
+        "action": "next"
+      },
+      {
+        "chapter": "108",
+        "action": "next"
+      },
+      {
+        "chapter": "110",
+        "action": "to-140"
+      },
+      {
+        "chapter": "140",
+        "action": "to-120"
+      },
+      {
+        "chapter": "120",
+        "action": "next"
+      },
+      {
+        "chapter": "142",
+        "action": "to-183"
+      },
+      {
+        "chapter": "183",
+        "action": "to-184"
+      },
+      {
+        "chapter": "184",
+        "action": "next"
+      },
+      {
+        "chapter": "186",
+        "action": "to-223"
+      },
+      {
+        "chapter": "223",
+        "action": "to-255"
+      },
+      {
+        "chapter": "256",
+        "action": "to-237"
+      },
+      {
+        "chapter": "237",
+        "action": "next"
+      },
+      {
+        "chapter": "238",
+        "action": "to-239"
+      },
+      {
+        "chapter": "240",
+        "action": "to-297"
+      },
+      {
+        "chapter": "297",
+        "action": "to-287"
+      },
+      {
+        "chapter": "287",
+        "action": "next"
+      },
+      {
+        "chapter": "288",
+        "action": "next"
+      },
+      {
+        "chapter": "298",
+        "action": "next"
+      },
+      {
+        "chapter": "299",
+        "action": "next"
+      },
+      {
+        "chapter": "301",
+        "action": "next"
+      },
+      {
+        "chapter": "302",
+        "action": "to-308"
+      },
+      {
+        "chapter": "323",
+        "action": "optional-366"
+      },
+      {
+        "chapter": "366",
+        "action": "next"
+      }
+    ],
+    "endingId": "367",
+    "ending": "独自生还"
+  },
+  {
+    "name": "charlie",
+    "role": 1,
+    "failNodes": [],
+    "steps": [
+      {
+        "chapter": "0",
+        "action": "next"
+      },
+      {
+        "chapter": "2",
+        "action": "to-83"
+      },
+      {
+        "chapter": "83",
+        "action": "next"
+      },
+      {
+        "chapter": "103",
+        "action": "next"
+      },
+      {
+        "chapter": "103",
+        "action": "to-105"
+      },
+      {
+        "chapter": "105",
+        "action": "next"
+      },
+      {
+        "chapter": "327",
+        "action": "to-124"
+      },
+      {
+        "chapter": "124",
+        "action": "next"
+      },
+      {
+        "chapter": "127",
+        "action": "next"
+      },
+      {
+        "chapter": "234",
+        "action": "next"
+      },
+      {
+        "chapter": "131",
+        "action": "to-137"
+      },
+      {
+        "chapter": "137",
+        "action": "next"
+      },
+      {
+        "chapter": "145",
+        "action": "next"
+      },
+      {
+        "chapter": "145",
+        "action": "to-158"
+      },
+      {
+        "chapter": "160",
+        "action": "next"
+      },
+      {
+        "chapter": "207",
+        "action": "next"
+      },
+      {
+        "chapter": "34",
+        "action": "to-37"
+      },
+      {
+        "chapter": "37",
+        "action": "to-38"
+      },
+      {
+        "chapter": "38",
+        "action": "next"
+      },
+      {
+        "chapter": "77",
+        "action": "to-49"
+      },
+      {
+        "chapter": "49",
+        "action": "to-79"
+      },
+      {
+        "chapter": "79",
+        "action": "next"
+      },
+      {
+        "chapter": "84",
+        "action": "next"
+      },
+      {
+        "chapter": "87",
+        "action": "next"
+      },
+      {
+        "chapter": "88",
+        "action": "next"
+      },
+      {
+        "chapter": "91",
+        "action": "practical"
+      },
+      {
+        "chapter": "93",
+        "action": "to-95"
+      },
+      {
+        "chapter": "95",
+        "action": "next"
+      },
+      {
+        "chapter": "97",
+        "action": "next"
+      },
+      {
+        "chapter": "94",
+        "action": "to-107"
+      },
+      {
+        "chapter": "107",
+        "action": "next"
+      },
+      {
+        "chapter": "108",
+        "action": "next"
+      },
+      {
+        "chapter": "110",
+        "action": "to-140"
+      },
+      {
+        "chapter": "140",
+        "action": "to-120"
+      },
+      {
+        "chapter": "120",
+        "action": "next"
+      },
+      {
+        "chapter": "142",
+        "action": "to-183"
+      },
+      {
+        "chapter": "183",
+        "action": "to-185"
+      },
+      {
+        "chapter": "185",
+        "action": "next"
+      },
+      {
+        "chapter": "186",
+        "action": "to-223"
+      },
+      {
+        "chapter": "223",
+        "action": "to-255"
+      },
+      {
+        "chapter": "256",
+        "action": "to-239"
+      },
+      {
+        "chapter": "240",
+        "action": "to-297"
+      },
+      {
+        "chapter": "297",
+        "action": "to-293"
+      },
+      {
+        "chapter": "293",
+        "action": "to-245"
+      },
+      {
+        "chapter": "245",
+        "action": "next"
+      },
+      {
+        "chapter": "247",
+        "action": "next"
+      },
+      {
+        "chapter": "259",
+        "action": "to-262"
+      },
+      {
+        "chapter": "262",
+        "action": "next"
+      },
+      {
+        "chapter": "263",
+        "action": "to-298"
+      },
+      {
+        "chapter": "298",
+        "action": "next"
+      },
+      {
+        "chapter": "299",
+        "action": "next"
+      },
+      {
+        "chapter": "301",
+        "action": "next"
+      },
+      {
+        "chapter": "302",
+        "action": "to-308"
+      },
+      {
+        "chapter": "323",
+        "action": "optional-366"
+      },
+      {
+        "chapter": "366",
+        "action": "next"
+      }
+    ],
+    "endingId": "367",
+    "ending": "独自生还"
+  },
+  {
+    "name": "cold",
+    "role": 0,
+    "failNodes": [
+      "5"
+    ],
+    "steps": [
+      {
+        "chapter": "0",
+        "action": "next"
+      },
+      {
+        "chapter": "1",
+        "action": "to-7"
+      },
+      {
+        "chapter": "7",
+        "action": "next"
+      },
+      {
+        "chapter": "4",
+        "action": "next"
+      },
+      {
+        "chapter": "5",
+        "action": "next"
+      },
+      {
+        "chapter": "5",
+        "action": "to-6"
+      },
+      {
+        "chapter": "6",
+        "action": "next"
+      },
+      {
+        "chapter": "11",
+        "action": "to-16"
+      },
+      {
+        "chapter": "16",
+        "action": "to-17"
+      },
+      {
+        "chapter": "17",
+        "action": "to-18"
+      },
+      {
+        "chapter": "18",
+        "action": "to-19"
+      },
+      {
+        "chapter": "19",
+        "action": "next"
+      },
+      {
+        "chapter": "26",
+        "action": "to-21"
+      },
+      {
+        "chapter": "21",
+        "action": "next"
+      },
+      {
+        "chapter": "22",
+        "action": "next"
+      },
+      {
+        "chapter": "22",
+        "action": "to-29"
+      },
+      {
+        "chapter": "24",
+        "action": "next"
+      },
+      {
+        "chapter": "33",
+        "action": "next"
+      },
+      {
+        "chapter": "34",
+        "action": "to-37"
+      },
+      {
+        "chapter": "37",
+        "action": "to-38"
+      },
+      {
+        "chapter": "38",
+        "action": "next"
+      },
+      {
+        "chapter": "77",
+        "action": "to-49"
+      },
+      {
+        "chapter": "49",
+        "action": "to-79"
+      },
+      {
+        "chapter": "79",
+        "action": "next"
+      },
+      {
+        "chapter": "86",
+        "action": "to-92"
+      },
+      {
+        "chapter": "92",
+        "action": "comfortable"
+      },
+      {
+        "chapter": "93",
+        "action": "to-95"
+      },
+      {
+        "chapter": "95",
+        "action": "next"
+      },
+      {
+        "chapter": "97",
+        "action": "next"
+      },
+      {
+        "chapter": "94",
+        "action": "to-107"
+      },
+      {
+        "chapter": "107",
+        "action": "next"
+      },
+      {
+        "chapter": "108",
+        "action": "next"
+      },
+      {
+        "chapter": "110",
+        "action": "to-140"
+      },
+      {
+        "chapter": "140",
+        "action": "to-120"
+      },
+      {
+        "chapter": "120",
+        "action": "next"
+      },
+      {
+        "chapter": "142",
+        "action": "to-183"
+      },
+      {
+        "chapter": "183",
+        "action": "to-184"
+      },
+      {
+        "chapter": "184",
+        "action": "next"
+      },
+      {
+        "chapter": "186",
+        "action": "to-223"
+      },
+      {
+        "chapter": "223",
+        "action": "to-255"
+      },
+      {
+        "chapter": "256",
+        "action": "to-237"
+      },
+      {
+        "chapter": "237",
+        "action": "next"
+      },
+      {
+        "chapter": "238",
+        "action": "to-239"
+      },
+      {
+        "chapter": "240",
+        "action": "to-297"
+      },
+      {
+        "chapter": "297",
+        "action": "to-287"
+      },
+      {
+        "chapter": "287",
+        "action": "next"
+      },
+      {
+        "chapter": "288",
+        "action": "next"
+      },
+      {
+        "chapter": "298",
+        "action": "next"
+      },
+      {
+        "chapter": "299",
+        "action": "next"
+      },
+      {
+        "chapter": "301",
+        "action": "next"
+      },
+      {
+        "chapter": "302",
+        "action": "to-308"
+      },
+      {
+        "chapter": "323",
+        "action": "optional-366"
+      },
+      {
+        "chapter": "366",
+        "action": "next"
+      }
+    ],
+    "endingId": "367",
+    "ending": "独自生还"
+  }
+]

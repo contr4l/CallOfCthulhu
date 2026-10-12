@@ -1,0 +1,54 @@
+{
+  "id": "194",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "194:p0",
+      "kind": "heading",
+      "text": "$t1 == '194'?\r\n`",
+      "sourceLocation": "txt:chars:45288:45304"
+    },
+    {
+      "id": "194:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:45304:45306"
+    },
+    {
+      "id": "194:p2",
+      "kind": "body",
+      "text": "吃。有什么东西在吃他。什么东西在吃他？那东西就在外面吗？它会来找你吗？老天爷，你当初怎么会想要拿走这盘录像带的？你到底在想什么？\r\n",
+      "sourceLocation": "txt:chars:45306:45372"
+    },
+    {
+      "id": "194:p3",
+      "kind": "body",
+      "text": "在吃。它在吃。它就要来吃你了。它会从你的脚开始，一口一口一口一口，细嚼满咽。\r\n",
+      "sourceLocation": "txt:chars:45372:45412"
+    },
+    {
+      "id": "194:p4",
+      "kind": "body",
+      "text": "你不知道那是什么，但是你知道你要被吃掉了。\r\n",
+      "sourceLocation": "txt:chars:45412:45435"
+    },
+    {
+      "id": "194:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:45435:45460"
+    },
+    {
+      "id": "194:p6",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:45460:45473"
+    },
+    {
+      "id": "194:p7",
+      "kind": "body",
+      "text": "转到 186。\r\n",
+      "sourceLocation": "txt:chars:45473:45482"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "323",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "323:p0",
+      "kind": "heading",
+      "text": "$t1 == '323'?\r\n`",
+      "sourceLocation": "txt:chars:73806:73822"
+    },
+    {
+      "id": "323:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:73822:73824"
+    },
+    {
+      "id": "323:p2",
+      "kind": "body",
+      "text": "如果没有照明，你肯定会在崎岖不平的路上摔断脖子。你默默地感谢之前的自己给手电筒换了新的电池。你在障碍物之间穿梭，将雪花噪音甩在身后。在狂奔了一分钟后，你便只能听到松\r\n",
+      "sourceLocation": "txt:chars:73824:73908"
+    },
+    {
+      "id": "323:p3",
+      "kind": "body",
+      "text": "针的沙沙声了。你打算停下来喘喘气，却突然跑出了树林，出现在一片月光照耀的空地上。\r\n",
+      "sourceLocation": "txt:chars:73908:73950"
+    },
+    {
+      "id": "323:p4",
+      "kind": "body",
+      "text": "没有松树遮挡月光，你看得就清楚多了。你闯进的空地不大，但还是有人在这里露营。你看到一顶小帐篷，旁边有一个熄灭的烧火坑。或许你找到帮手了。\r\n",
+      "sourceLocation": "txt:chars:73950:74020"
+    },
+    {
+      "id": "323:p5",
+      "kind": "body",
+      "text": "如果记录表上的 熟面孔 或 转错弯 已被勾选，你认出了这处营地，必须转到 266。\r\n",
+      "sourceLocation": "txt:chars:74020:74063"
+    },
+    {
+      "id": "323:p6",
+      "kind": "body",
+      "text": "如果记录表上的 心碎 已被勾选，你可以丢下伴侣独自逃生，转到 366。\r\n",
+      "sourceLocation": "txt:chars:74063:74100"
+    },
+    {
+      "id": "323:p7",
+      "kind": "body",
+      "text": "转到 275。\r\n",
+      "sourceLocation": "txt:chars:74100:74109"
+    }
+  ]
+}

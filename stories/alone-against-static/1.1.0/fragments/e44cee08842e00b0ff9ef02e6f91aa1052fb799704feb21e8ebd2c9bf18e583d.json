@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "175"
+  ],
+  "text": [
+    "你把手从耳朵上拿下一瞬间。就在这时，雪花音增长了十倍百倍。这声音直刺你的头脑，就像冰冷的手指在你的脑子里乱抠，又在颅骨里面剐着。",
+    "眼泪从你脸上流下。你尖叫着，却听不到自己的声音。你的尖叫声也混入雪花音的号哭。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 175",
+      "textRef": "default"
+    }
+  }
+}

@@ -31,9 +31,14 @@ export function SetupModal({
   diceScope: string;
   reduced: boolean;
 }) {
+  const eligibleCharacters = characters.filter(
+    (c) =>
+      story.creationPolicy !== "fixed" ||
+      story.presets.some((p) => p.templateId === c.character.templateId),
+  );
   const [mode, setMode] = useState("preset"),
     [preset, setPreset] = useState(story.presets[0].id),
-    [characterId, setCharacterId] = useState(characters[0]?.id ?? ""),
+    [characterId, setCharacterId] = useState(eligibleCharacters[0]?.id ?? ""),
     [name, setName] = useState(""),
     [values, setValues] = useState<Record<string, number>>({
       spotHidden: 50,
@@ -48,7 +53,9 @@ export function SetupModal({
       <p className="modal-intro">
         {story.creationPolicy === "guided"
           ? "本模组会在剧情中引导你分配属性和技能；先确定姓名。"
-          : "先为这段故事，选择一位调查员。"}
+          : story.creationPolicy === "fixed"
+            ? "选择亚历克斯或查理，两人的视角与故事分支不同。属性和技能使用原书角色卡，幸运由你掷骰确定。"
+            : "先为这段故事，选择一位调查员。"}
       </p>
       <form onSubmit={(e) => void onSubmit(e)}>
         <label>
@@ -92,55 +99,50 @@ export function SetupModal({
               自定义技能
             </button>
           )}
-          {characters.length > 0 && story.creationPolicy !== "guided" && (
-            <button
-              type="button"
-              className={mode === "saved" ? "selected" : ""}
-              onClick={() => {
-                setMode("saved");
-                const c = characters.find((c) => c.id === characterId);
-                if (c) setName(c.character.name);
-              }}
-            >
-              已有调查员
-            </button>
-          )}
+          {eligibleCharacters.length > 0 &&
+            story.creationPolicy !== "guided" && (
+              <button
+                type="button"
+                className={mode === "saved" ? "selected" : ""}
+                onClick={() => {
+                  setMode("saved");
+                  const c = eligibleCharacters.find(
+                    (c) => c.id === characterId,
+                  );
+                  if (c) setName(c.character.name);
+                }}
+              >
+                已有调查员
+              </button>
+            )}
         </div>
         <input type="hidden" name="mode" value={mode} />
         <input type="hidden" name="preset" value={preset} />
         <input type="hidden" name="characterId" value={characterId} />
         {mode === "saved" ? (
           <div className="preset-options">
-            {characters
-              .filter(
-                (c) =>
-                  story.creationPolicy !== "fixed" ||
-                  story.presets.some(
-                    (p) => p.templateId === c.character.templateId,
-                  ),
-              )
-              .map((c) => (
-                <button
-                  type="button"
-                  key={c.id}
-                  className={characterId === c.id ? "selected" : ""}
-                  onClick={() => {
-                    setCharacterId(c.id);
-                    setName(c.character.name);
-                  }}
-                >
-                  <span>
-                    <strong>
-                      {c.character.name} · {c.character.occupation}
-                    </strong>
-                    <small>
-                      {c.character.sourceStoryTitle ?? "示例角色"} · 幸运{" "}
-                      {c.character.luck} · 生命 {c.character.hp}
-                    </small>
-                  </span>
-                  {characterId === c.id && <Check size={17} />}
-                </button>
-              ))}
+            {eligibleCharacters.map((c) => (
+              <button
+                type="button"
+                key={c.id}
+                className={characterId === c.id ? "selected" : ""}
+                onClick={() => {
+                  setCharacterId(c.id);
+                  setName(c.character.name);
+                }}
+              >
+                <span>
+                  <strong>
+                    {c.character.name} · {c.character.occupation}
+                  </strong>
+                  <small>
+                    {c.character.sourceStoryTitle ?? "示例角色"} · 幸运{" "}
+                    {c.character.luck} · 生命 {c.character.hp}
+                  </small>
+                </span>
+                {characterId === c.id && <Check size={17} />}
+              </button>
+            ))}
           </div>
         ) : (
           <div className="preset-options">
@@ -209,6 +211,8 @@ export function SetupModal({
           className="primary-button full"
           disabled={
             busy ||
+            (mode === "saved" &&
+              !eligibleCharacters.some((c) => c.id === characterId)) ||
             (mode !== "saved" &&
               story.creationPolicy !== "guided" &&
               !luckRollId) ||

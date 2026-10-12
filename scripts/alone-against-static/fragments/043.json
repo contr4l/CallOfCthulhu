@@ -1,0 +1,54 @@
+{
+  "id": "43",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "43:p0",
+      "kind": "heading",
+      "text": "$t1 == '43'?\r\n`",
+      "sourceLocation": "txt:chars:13671:13686"
+    },
+    {
+      "id": "43:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:13686:13688"
+    },
+    {
+      "id": "43:p2",
+      "kind": "body",
+      "text": "你心绪不宁，无法集中精神。你不停地朝车道那边看去，却总是什么都看不到。终于，你感觉无聊透顶，决定一个人开始健走。\r\n",
+      "sourceLocation": "txt:chars:13688:13746"
+    },
+    {
+      "id": "43:p3",
+      "kind": "body",
+      "text": "你离开小屋，深深地吸了一口森林的空气，朝着附近一条步道走去。步道的地面已经被无数来游玩的家庭磨光了。\r\n",
+      "sourceLocation": "txt:chars:13746:13798"
+    },
+    {
+      "id": "43:p4",
+      "kind": "body",
+      "text": "越往里走树林就越密。小动物在你视线所不及的灌木里穿梭。鸟儿鸣叫着在头顶的枝条间掠过，让松针沙沙作响。\r\n",
+      "sourceLocation": "txt:chars:13798:13850"
+    },
+    {
+      "id": "43:p5",
+      "kind": "body",
+      "text": "你听到流水声从你左边传来。\r\n",
+      "sourceLocation": "txt:chars:13850:13865"
+    },
+    {
+      "id": "43:p6",
+      "kind": "body",
+      "text": "要调查声音的源头，转到 44。\r\n",
+      "sourceLocation": "txt:chars:13865:13882"
+    },
+    {
+      "id": "43:p7",
+      "kind": "body",
+      "text": "要留在小路上，转到 49。\r\n",
+      "sourceLocation": "txt:chars:13882:13897"
+    }
+  ]
+}

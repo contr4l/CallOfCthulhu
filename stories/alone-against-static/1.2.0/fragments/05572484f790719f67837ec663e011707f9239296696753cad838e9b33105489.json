@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "277"
+  ],
+  "text": [
+    "你不能让亚历克斯把一切抛到脑后。你试着恳求她。",
+    "“值得。我们还有彼此。求你了，亚历克斯！”泪水从你脸上滑落。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 277",
+      "textRef": "default"
+    }
+  }
+}

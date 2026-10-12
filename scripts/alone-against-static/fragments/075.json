@@ -1,0 +1,72 @@
+{
+  "id": "75",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "75:p0",
+      "kind": "heading",
+      "text": "$t1 == '75'?\r\n`",
+      "sourceLocation": "txt:chars:19723:19738"
+    },
+    {
+      "id": "75:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:19738:19740"
+    },
+    {
+      "id": "75:p2",
+      "kind": "body",
+      "text": "你用螺丝刀对着录像机摆弄了一会，但是毫无进展。你拿不稳螺丝刀，不停地打滑。最后，你灰心丧气地把螺丝刀全力往卡住的按钮戳了下去。\r\n",
+      "sourceLocation": "txt:chars:19740:19805"
+    },
+    {
+      "id": "75:p3",
+      "kind": "body",
+      "text": "录像机的塑料外壳裂开了。\r\n",
+      "sourceLocation": "txt:chars:19805:19819"
+    },
+    {
+      "id": "75:p4",
+      "kind": "body",
+      "text": "螺丝刀穿透了磁带的廉价塑料外壳，一路穿过录像机的底面，刺进你手掌中间。\r\n",
+      "sourceLocation": "txt:chars:19819:19856"
+    },
+    {
+      "id": "75:p5",
+      "kind": "body",
+      "text": "你大叫着丢下录像机，抓着自己的手掌。\r\n",
+      "sourceLocation": "txt:chars:19856:19876"
+    },
+    {
+      "id": "75:p6",
+      "kind": "body",
+      "text": "录像机毁掉了，录像带也烂了。你的手掌在不停流血。\r\n",
+      "sourceLocation": "txt:chars:19876:19902"
+    },
+    {
+      "id": "75:p7",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:19902:19927"
+    },
+    {
+      "id": "75:p8",
+      "kind": "body",
+      "text": "受到 1 点伤害。\r\n",
+      "sourceLocation": "txt:chars:19927:19938"
+    },
+    {
+      "id": "75:p9",
+      "kind": "body",
+      "text": "在记录表上勾选 双手染红。\r\n",
+      "sourceLocation": "txt:chars:19938:19953"
+    },
+    {
+      "id": "75:p10",
+      "kind": "body",
+      "text": "回到 66。\r\n",
+      "sourceLocation": "txt:chars:19953:19961"
+    }
+  ]
+}

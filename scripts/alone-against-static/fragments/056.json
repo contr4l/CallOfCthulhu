@@ -1,0 +1,54 @@
+{
+  "id": "56",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "56:p0",
+      "kind": "heading",
+      "text": "$t1 == '56'?\r\n`",
+      "sourceLocation": "txt:chars:16224:16239"
+    },
+    {
+      "id": "56:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:16239:16241"
+    },
+    {
+      "id": "56:p2",
+      "kind": "body",
+      "text": "棚屋背靠一面岩石崎岖、长满青苔的岩壁。你走过棚屋前的空地，来到它前面。\r\n",
+      "sourceLocation": "txt:chars:16241:16278"
+    },
+    {
+      "id": "56:p3",
+      "kind": "body",
+      "text": "棚屋不大，可能只有马克和茱莉的小屋的一半大。它整个是木制的，一块烂了一半的松木板将将挂在门框里。看起来这地方已经几年没有人来过了。\r\n",
+      "sourceLocation": "txt:chars:16278:16345"
+    },
+    {
+      "id": "56:p4",
+      "kind": "body",
+      "text": "你走到棚屋门前，慢慢地推动门板。它毫不费力的被你推动，缓慢的朝里转开。棚屋里一片黑暗。你看到家具在黑暗中的淡淡阴影。\r\n",
+      "sourceLocation": "txt:chars:16345:16405"
+    },
+    {
+      "id": "56:p5",
+      "kind": "body",
+      "text": "如果记录表上的 恐黑症 被勾选，黑暗让你不安，你必须转到 80。\r\n",
+      "sourceLocation": "txt:chars:16405:16439"
+    },
+    {
+      "id": "56:p6",
+      "kind": "body",
+      "text": "要扔下棚屋不管，转到 79。\r\n",
+      "sourceLocation": "txt:chars:16439:16455"
+    },
+    {
+      "id": "56:p7",
+      "kind": "body",
+      "text": "要走进去，转到 57。\r\n",
+      "sourceLocation": "txt:chars:16455:16468"
+    }
+  ]
+}

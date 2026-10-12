@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "28"
+  ],
+  "text": [
+    "你倒在床上，伸展着僵硬的腿脚。查理给录像倒了带，拿了磁带机的遥控器，在你身边躺下。",
+    "“舒服了？”",
+    "“嗯。”你说。",
+    "“好，不管是什么电影，开始啦。”查理笑着按下了播放键。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 28",
+      "textRef": "default"
+    }
+  }
+}

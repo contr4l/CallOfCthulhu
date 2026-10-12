@@ -1,0 +1,90 @@
+{
+  "id": "367",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "367:p0",
+      "kind": "heading",
+      "text": "$t1 == '367'?\r\n`",
+      "sourceLocation": "txt:chars:85221:85237"
+    },
+    {
+      "id": "367:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:85237:85239"
+    },
+    {
+      "id": "367:p2",
+      "kind": "body",
+      "text": "一个小时后，你已经坐在一辆长途卡车的副驾驶座上，旁边是司机兰斯。从他接上你开始，尽管你发现他一直在看你，你也一句话都没有说。\r\n",
+      "sourceLocation": "txt:chars:85239:85303"
+    },
+    {
+      "id": "367:p3",
+      "kind": "body",
+      "text": "“你确定不要吃点东西？”\r\n",
+      "sourceLocation": "txt:chars:85303:85317"
+    },
+    {
+      "id": "367:p4",
+      "kind": "body",
+      "text": "你点了点头。\r\n",
+      "sourceLocation": "txt:chars:85317:85325"
+    },
+    {
+      "id": "367:p5",
+      "kind": "body",
+      "text": "“你在外面呆了多久？”\r\n",
+      "sourceLocation": "txt:chars:85325:85338"
+    },
+    {
+      "id": "367:p6",
+      "kind": "body",
+      "text": "你耸了耸肩。\r\n",
+      "sourceLocation": "txt:chars:85338:85346"
+    },
+    {
+      "id": "367:p7",
+      "kind": "body",
+      "text": "“没人在找你吗？”\r\n",
+      "sourceLocation": "txt:chars:85346:85357"
+    },
+    {
+      "id": "367:p8",
+      "kind": "body",
+      "text": "“没有，”你说到，眼睛一眨不眨。“没人在找我。”\r\n",
+      "sourceLocation": "txt:chars:85357:85383"
+    },
+    {
+      "id": "367:p9",
+      "kind": "body",
+      "text": "“你真的就是一个人？”\r\n",
+      "sourceLocation": "txt:chars:85383:85396"
+    },
+    {
+      "id": "367:p10",
+      "kind": "body",
+      "text": "你的视线聚在眼前的高速路上，看着它左右摇摆，蜿蜒着穿过黑山峰，一路下坡。路两边都是高耸的松树，挡住了每个弯道的视线，让你无从预知——哪怕是几秒钟后的——未来。\r\n",
+      "sourceLocation": "txt:chars:85396:85477"
+    },
+    {
+      "id": "367:p11",
+      "kind": "body",
+      "text": "“是的，”你告诉他，“我只有一个人。”\r\n",
+      "sourceLocation": "txt:chars:85477:85498"
+    },
+    {
+      "id": "367:p12",
+      "kind": "body",
+      "text": "尽管在经历过黑山峰的一切后你已不再是之前的你，你还是从这一切中活了下来，完成了整个故事。\r\n",
+      "sourceLocation": "txt:chars:85498:85544"
+    },
+    {
+      "id": "367:p13",
+      "kind": "body",
+      "text": "结局。\r\n",
+      "sourceLocation": "txt:chars:85544:85549"
+    }
+  ]
+}

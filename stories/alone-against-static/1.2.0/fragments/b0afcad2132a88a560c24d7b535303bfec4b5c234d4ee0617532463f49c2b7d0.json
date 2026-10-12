@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "74"
+  ],
+  "text": [
+    "录像机固执地拒绝被你打开。或许你应该在上学时在木工或电工课上多花些时间。",
+    "最后，你放弃了。你失望地把录像机扔到一边。真是浪费时间。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 74",
+      "textRef": "default"
+    }
+  }
+}

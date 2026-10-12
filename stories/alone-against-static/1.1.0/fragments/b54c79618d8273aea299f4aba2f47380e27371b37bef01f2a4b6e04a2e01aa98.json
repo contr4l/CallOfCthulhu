@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "227"
+  ],
+  "text": [
+    "你撞进小屋，猛地把门甩上，慌张地插上门锁。",
+    "一秒钟不到，你就听见陌生人全力撞在门上。撞击声如雷霆震耳。他用拳头砸着门，门板颤抖着开始摇晃。他要闯进来了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 227",
+      "textRef": "default"
+    }
+  }
+}

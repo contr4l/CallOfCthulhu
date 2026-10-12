@@ -1,0 +1,66 @@
+{
+  "id": "32",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "32:p0",
+      "kind": "heading",
+      "text": "$t1 == '32'?\r\n`",
+      "sourceLocation": "txt:chars:11059:11074"
+    },
+    {
+      "id": "32:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:11074:11076"
+    },
+    {
+      "id": "32:p2",
+      "kind": "body",
+      "text": "“查理，能到床上来吗？”\r\n",
+      "sourceLocation": "txt:chars:11076:11090"
+    },
+    {
+      "id": "32:p3",
+      "kind": "body",
+      "text": "“当然。”\r\n",
+      "sourceLocation": "txt:chars:11090:11097"
+    },
+    {
+      "id": "32:p4",
+      "kind": "body",
+      "text": "查理爬上来时，床架发出嘎吱的声音。在电视发疯之后的静寂中，最小的声音也在无声中回响。查理依偎在你身边。\r\n",
+      "sourceLocation": "txt:chars:11097:11150"
+    },
+    {
+      "id": "32:p5",
+      "kind": "body",
+      "text": "“我很抱歉。”查理说。\r\n",
+      "sourceLocation": "txt:chars:11150:11163"
+    },
+    {
+      "id": "32:p6",
+      "kind": "body",
+      "text": "“别，这不是你的错。”\r\n",
+      "sourceLocation": "txt:chars:11163:11176"
+    },
+    {
+      "id": "32:p7",
+      "kind": "body",
+      "text": "“肯定是破烂的老型号。我猜马克是 80 年代买的。我们明天把它修好。”\r\n",
+      "sourceLocation": "txt:chars:11176:11213"
+    },
+    {
+      "id": "32:p8",
+      "kind": "body",
+      "text": "你嘟囔着表示同意。查理一只手环住你。你感觉他的呼吸吹在脖子上。很快，查理的呼吸声放慢，然后消失在睡着的轻呼中。你也渐渐睡去。只有松树轻轻的吱嘎响声，在黑山峰间轻柔地回响。\r\n",
+      "sourceLocation": "txt:chars:11213:11300"
+    },
+    {
+      "id": "32:p9",
+      "kind": "body",
+      "text": "转到 34。\r\n",
+      "sourceLocation": "txt:chars:11300:11308"
+    }
+  ]
+}

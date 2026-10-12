@@ -1,0 +1,42 @@
+{
+  "id": "106",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "106:p0",
+      "kind": "heading",
+      "text": "$t1 == '106'?\r\n`",
+      "sourceLocation": "txt:chars:25968:25984"
+    },
+    {
+      "id": "106:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:25984:25986"
+    },
+    {
+      "id": "106:p2",
+      "kind": "body",
+      "text": "真好吃。真的。你能算得上是米其林级别的大厨了。\r\n",
+      "sourceLocation": "txt:chars:25986:26011"
+    },
+    {
+      "id": "106:p3",
+      "kind": "body",
+      "text": "无论如何……\r\n",
+      "sourceLocation": "txt:chars:26011:26019"
+    },
+    {
+      "id": "106:p4",
+      "kind": "body",
+      "text": "如果记录表上的 能量充沛 或 勉强支撑 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:26019:26061"
+    },
+    {
+      "id": "106:p5",
+      "kind": "body",
+      "text": "要寻找手电筒和电池，转到 95。\r\n",
+      "sourceLocation": "txt:chars:26061:26079"
+    }
+  ]
+}

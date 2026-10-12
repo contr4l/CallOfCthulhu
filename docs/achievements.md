@@ -12,3 +12,5 @@
 实现：`GET /api/achievements`、`packages/contracts/achievements.ts`、`apps/api/src/modules/achievements.ts`、`apps/web/src/components/AchievementLibrary.tsx`。
 
 验证覆盖实际完成多个不同结局、同结局重复完成、请求重试、账号隔离、旧存档补认、跨版本合并，以及桌面/手机完整走到《向火独行》的生存和死亡结局。
+
+结局编号是应用内的固定展示编号，不是原书段落号。`apps/api/src/modules/ending-numbers.ts` 按剧本和结局 ID 保存编号；新版新增结局只能追加号码，已移除的结局仍保留原号，不重排或复用。成就页排序和解锁时间不会影响编号，结局页也展示同一号码。

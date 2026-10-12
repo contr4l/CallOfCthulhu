@@ -1,0 +1,30 @@
+{
+  "id": "251",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "251:p0",
+      "kind": "heading",
+      "text": "$t1 == '251'?\r\n`",
+      "sourceLocation": "txt:chars:57758:57774"
+    },
+    {
+      "id": "251:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:57774:57776"
+    },
+    {
+      "id": "251:p2",
+      "kind": "body",
+      "text": "小屋里怎么会没有一件东西能用？你前后摸索着，但是没摸到任何堪用的武器。\r\n",
+      "sourceLocation": "txt:chars:57776:57813"
+    },
+    {
+      "id": "251:p3",
+      "kind": "body",
+      "text": "转到 252。\r\n",
+      "sourceLocation": "txt:chars:57813:57822"
+    }
+  ]
+}

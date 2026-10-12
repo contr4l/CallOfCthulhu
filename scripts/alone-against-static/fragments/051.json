@@ -1,0 +1,42 @@
+{
+  "id": "51",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "51:p0",
+      "kind": "heading",
+      "text": "$t1 == '51'?\r\n`",
+      "sourceLocation": "txt:chars:15276:15291"
+    },
+    {
+      "id": "51:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:15291:15293"
+    },
+    {
+      "id": "51:p2",
+      "kind": "body",
+      "text": "你深吸一口气，不禁笑了起来。这里真是让人心旷神怡。空气凉爽、阳光温暖。独处的感觉让你感到振奋。\r\n",
+      "sourceLocation": "txt:chars:15293:15342"
+    },
+    {
+      "id": "51:p3",
+      "kind": "body",
+      "text": "附近的树林中忽然有什么动静。你猛地转头去看，却没来得及。刚才在这里的东西已经不见了。只有它经过时碰到的树枝还在微微颤动。\r\n",
+      "sourceLocation": "txt:chars:15342:15404"
+    },
+    {
+      "id": "51:p4",
+      "kind": "body",
+      "text": "要呼喊，转到 52。\r\n",
+      "sourceLocation": "txt:chars:15404:15416"
+    },
+    {
+      "id": "51:p5",
+      "kind": "body",
+      "text": "要离开这条平静的小溪，转到 49。\r\n",
+      "sourceLocation": "txt:chars:15416:15435"
+    }
+  ]
+}

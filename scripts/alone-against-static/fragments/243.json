@@ -1,0 +1,36 @@
+{
+  "id": "243",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "243:p0",
+      "kind": "heading",
+      "text": "$t1 == '243'?\r\n`",
+      "sourceLocation": "txt:chars:56484:56500"
+    },
+    {
+      "id": "243:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:56500:56502"
+    },
+    {
+      "id": "243:p2",
+      "kind": "body",
+      "text": "你有武器！你跑到上午健步时穿的衣服边摸索着，抽出从棚屋中找到的那把漂亮的长匕首。\r\n",
+      "sourceLocation": "txt:chars:56502:56544"
+    },
+    {
+      "id": "243:p3",
+      "kind": "body",
+      "text": "要使用这把匕首，转到 253。\r\n",
+      "sourceLocation": "txt:chars:56544:56561"
+    },
+    {
+      "id": "243:p4",
+      "kind": "body",
+      "text": "要改变主意，回到 241。\r\n",
+      "sourceLocation": "txt:chars:56561:56576"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "184",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "184:p0",
+      "kind": "heading",
+      "text": "$t1 == '184'?\r\n`",
+      "sourceLocation": "txt:chars:43033:43049"
+    },
+    {
+      "id": "184:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:43049:43051"
+    },
+    {
+      "id": "184:p2",
+      "kind": "body",
+      "text": "你探身去开床头灯。毫无反应。\r\n",
+      "sourceLocation": "txt:chars:43051:43067"
+    },
+    {
+      "id": "184:p3",
+      "kind": "body",
+      "text": "你下了床，用手电筒照着找到电灯开关。还是毫无反应。\r\n",
+      "sourceLocation": "txt:chars:43067:43094"
+    },
+    {
+      "id": "184:p4",
+      "kind": "body",
+      "text": "你走进浴室，又按了按开关。依然毫无反应。\r\n",
+      "sourceLocation": "txt:chars:43094:43116"
+    },
+    {
+      "id": "184:p5",
+      "kind": "body",
+      "text": "毫无反应。\r\n",
+      "sourceLocation": "txt:chars:43116:43123"
+    },
+    {
+      "id": "184:p6",
+      "kind": "body",
+      "text": "只有那台电视调到了磁带机的输入，没有画面的屏幕发散着暗淡的光。\r\n",
+      "sourceLocation": "txt:chars:43123:43156"
+    },
+    {
+      "id": "184:p7",
+      "kind": "body",
+      "text": "要检查电视，转到 186。\r\n",
+      "sourceLocation": "txt:chars:43156:43171"
+    }
+  ]
+}

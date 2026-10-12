@@ -1,0 +1,72 @@
+{
+  "id": "281",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "281:p0",
+      "kind": "heading",
+      "text": "$t1 == '281'?\r\n`",
+      "sourceLocation": "txt:chars:63859:63875"
+    },
+    {
+      "id": "281:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:63875:63877"
+    },
+    {
+      "id": "281:p2",
+      "kind": "body",
+      "text": "“真的吗？”亚历克斯问道。\r\n",
+      "sourceLocation": "txt:chars:63877:63892"
+    },
+    {
+      "id": "281:p3",
+      "kind": "body",
+      "text": "你抬起头，泪水在你眼眶里聚集。“什么？”\r\n",
+      "sourceLocation": "txt:chars:63892:63914"
+    },
+    {
+      "id": "281:p4",
+      "kind": "body",
+      "text": "“我想你并没有担心。我想你也不在乎。”亚历克斯的声音平淡空洞，嘴唇弯成一个浅浅的冷笑。她的表情很不自然。\r\n",
+      "sourceLocation": "txt:chars:63914:63968"
+    },
+    {
+      "id": "281:p5",
+      "kind": "body",
+      "text": "“亚历克斯，你在说什么呀？”\r\n",
+      "sourceLocation": "txt:chars:63968:63984"
+    },
+    {
+      "id": "281:p6",
+      "kind": "body",
+      "text": "“你自己都不觉得来到这里能有任何作用。你已经放弃了。”\r\n",
+      "sourceLocation": "txt:chars:63984:64013"
+    },
+    {
+      "id": "281:p7",
+      "kind": "body",
+      "text": "“不是这样！”你哭喊着。在你内心深处，你知道，就是这样。亚历克斯没有回答你，而是一只手指着周围的空地。\r\n",
+      "sourceLocation": "txt:chars:64013:64066"
+    },
+    {
+      "id": "281:p8",
+      "kind": "body",
+      "text": "“你觉得我们之间还剩什么呢，查理？这一切真的值得吗？”\r\n",
+      "sourceLocation": "txt:chars:64066:64095"
+    },
+    {
+      "id": "281:p9",
+      "kind": "body",
+      "text": "要迟疑，转到 248。\r\n",
+      "sourceLocation": "txt:chars:64095:64108"
+    },
+    {
+      "id": "281:p10",
+      "kind": "body",
+      "text": "要恳求一切都值得，转到 277。\r\n",
+      "sourceLocation": "txt:chars:64108:64126"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "350",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "350:p0",
+      "kind": "heading",
+      "text": "$t1 == '350'?\r\n`",
+      "sourceLocation": "txt:chars:79858:79874"
+    },
+    {
+      "id": "350:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:79874:79876"
+    },
+    {
+      "id": "350:p2",
+      "kind": "body",
+      "text": "“我怎么离开这里？”\r\n",
+      "sourceLocation": "txt:chars:79876:79888"
+    },
+    {
+      "id": "350:p3",
+      "kind": "body",
+      "text": "男人皱起眉头。“你是说离开？”\r\n",
+      "sourceLocation": "txt:chars:79888:79905"
+    },
+    {
+      "id": "350:p4",
+      "kind": "body",
+      "text": "“是的，”你说，“我要离开这里回家。我再也不会来了。永远不会。”\r\n",
+      "sourceLocation": "txt:chars:79905:79939"
+    },
+    {
+      "id": "350:p5",
+      "kind": "body",
+      "text": "男人摇了摇头。“恐怕已经太迟了。幼子已选择了你。祂已经为你等待了太久。”\r\n",
+      "sourceLocation": "txt:chars:79939:79977"
+    },
+    {
+      "id": "350:p6",
+      "kind": "body",
+      "text": "你摇着头，“我才不在乎！我才不会留在这！”你转过身，正想跑走，却听到一个熟悉的声音响起。\r\n",
+      "sourceLocation": "txt:chars:79977:80023"
+    },
+    {
+      "id": "350:p7",
+      "kind": "body",
+      "text": "“等等！”\r\n",
+      "sourceLocation": "txt:chars:80023:80030"
+    },
+    {
+      "id": "350:p8",
+      "kind": "body",
+      "text": "如果记录表上的 亚历克斯 已被勾选，你认出了查理的声音，转到 342。\r\n",
+      "sourceLocation": "txt:chars:80030:80067"
+    },
+    {
+      "id": "350:p9",
+      "kind": "body",
+      "text": "如果记录表上的 查理 已被勾选，你认出了亚历克斯的声音，转到 280。\r\n",
+      "sourceLocation": "txt:chars:80067:80104"
+    }
+  ]
+}

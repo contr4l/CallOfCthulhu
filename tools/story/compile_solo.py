@@ -374,4 +374,6 @@ def main():
   if fn is static_module and (path/'story.json').exists():
    print(story['id'],'保留已有发布包；规则修订须另发版本');continue
   path.mkdir(parents=True,exist_ok=True);(path/'story.json').write_text(json.dumps(story,ensure_ascii=False,indent=2)+'\n');print(story['id'],len(story['nodes']))
+ from build_static import main as build_static
+ build_static()
 if __name__=='__main__':main()

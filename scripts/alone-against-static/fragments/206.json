@@ -1,0 +1,60 @@
+{
+  "id": "206",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "206:p0",
+      "kind": "heading",
+      "text": "$t1 == '206'?\r\n`",
+      "sourceLocation": "txt:chars:48444:48460"
+    },
+    {
+      "id": "206:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:48460:48462"
+    },
+    {
+      "id": "206:p2",
+      "kind": "body",
+      "text": "天啊，那是什么东西？\r\n",
+      "sourceLocation": "txt:chars:48462:48474"
+    },
+    {
+      "id": "206:p3",
+      "kind": "body",
+      "text": "你站起身走到窗户边，朝窗外的黑暗中看去。你什么都看不见。你把窗帘牢牢拉上，又把床头的窗帘也拉紧。\r\n",
+      "sourceLocation": "txt:chars:48474:48524"
+    },
+    {
+      "id": "206:p4",
+      "kind": "body",
+      "text": "你强压了压心头的火，看着电视机。那个邪祟而难以辨别的生物就像是在窥视，穿过窗户——\r\n",
+      "sourceLocation": "txt:chars:48524:48567"
+    },
+    {
+      "id": "206:p5",
+      "kind": "body",
+      "text": "穿过电视屏幕——直直地盯着你。\r\n",
+      "sourceLocation": "txt:chars:48567:48584"
+    },
+    {
+      "id": "206:p6",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:48584:48609"
+    },
+    {
+      "id": "206:p7",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:48609:48622"
+    },
+    {
+      "id": "206:p8",
+      "kind": "body",
+      "text": "回到 186。\r\n",
+      "sourceLocation": "txt:chars:48622:48631"
+    }
+  ]
+}

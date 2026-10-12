@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "265"
+  ],
+  "text": [
+    "你冲上前去，使出全身力量拼命打出一击。冲击感从你手臂上传来。你打中了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 265",
+      "textRef": "default"
+    }
+  }
+}

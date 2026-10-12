@@ -1,0 +1,72 @@
+{
+  "id": "190",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "190:p0",
+      "kind": "heading",
+      "text": "$t1 == '190'?\r\n`",
+      "sourceLocation": "txt:chars:44386:44402"
+    },
+    {
+      "id": "190:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:44402:44404"
+    },
+    {
+      "id": "190:p2",
+      "kind": "body",
+      "text": "你竖起耳朵仔细听。一个枯槁的声音有气无力地回答道：“它在吃我！”\r\n",
+      "sourceLocation": "txt:chars:44404:44438"
+    },
+    {
+      "id": "190:p3",
+      "kind": "body",
+      "text": "“你说什么？”拍摄者喊道。\r\n",
+      "sourceLocation": "txt:chars:44438:44453"
+    },
+    {
+      "id": "190:p4",
+      "kind": "body",
+      "text": "那个枯槁、恐怖的声音尖叫着回答：“它在吃我！”\r\n",
+      "sourceLocation": "txt:chars:44453:44478"
+    },
+    {
+      "id": "190:p5",
+      "kind": "body",
+      "text": "拍摄者又站在那里朝着黑暗盯了一会儿。然后，摄影机转向地面，朝着他穿着靴子的脚。他急匆匆地大步回到营地，爬进帐篷里。你听到远处的声音最后喊道：\r\n",
+      "sourceLocation": "txt:chars:44478:44550"
+    },
+    {
+      "id": "190:p6",
+      "kind": "body",
+      "text": "“救救我！它们到处都是！我听不——”\r\n",
+      "sourceLocation": "txt:chars:44550:44570"
+    },
+    {
+      "id": "190:p7",
+      "kind": "body",
+      "text": "影片结束了。\r\n",
+      "sourceLocation": "txt:chars:44570:44578"
+    },
+    {
+      "id": "190:p8",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:44578:44589"
+    },
+    {
+      "id": "190:p9",
+      "kind": "body",
+      "text": "如果检定成功，转到 191。\r\n",
+      "sourceLocation": "txt:chars:44589:44605"
+    },
+    {
+      "id": "190:p10",
+      "kind": "body",
+      "text": "如果检定失败，转到 194。\r\n",
+      "sourceLocation": "txt:chars:44605:44621"
+    }
+  ]
+}

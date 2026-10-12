@@ -1,0 +1,42 @@
+{
+  "id": "50",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "50:p0",
+      "kind": "heading",
+      "text": "$t1 == '50'?\r\n`",
+      "sourceLocation": "txt:chars:15111:15126"
+    },
+    {
+      "id": "50:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:15126:15128"
+    },
+    {
+      "id": "50:p2",
+      "kind": "body",
+      "text": "你小心地走到岸边。落叶和松针被溪水冲向下游，就像是在激流中漂流。你扶着一棵树稳住身子，慢慢坐在岸边的地上，然后躺了下去。你闭着眼睛享受微风抚过脸颊和头发，享受阳光照在脸上，在你眼皮上映出红黄的色块。\r\n",
+      "sourceLocation": "txt:chars:15128:15229"
+    },
+    {
+      "id": "50:p3",
+      "kind": "body",
+      "text": "进行一次聆听检定。\r\n",
+      "sourceLocation": "txt:chars:15229:15240"
+    },
+    {
+      "id": "50:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 46。\r\n",
+      "sourceLocation": "txt:chars:15240:15255"
+    },
+    {
+      "id": "50:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 51。\r\n",
+      "sourceLocation": "txt:chars:15255:15270"
+    }
+  ]
+}

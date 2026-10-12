@@ -1,0 +1,60 @@
+{
+  "id": "226",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "226:p0",
+      "kind": "heading",
+      "text": "$t1 == '226'?\r\n`",
+      "sourceLocation": "txt:chars:53156:53172"
+    },
+    {
+      "id": "226:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:53172:53174"
+    },
+    {
+      "id": "226:p2",
+      "kind": "body",
+      "text": "你冲回屋里，在门廊的木地板上打了个滑。冲刺的身影就在你身后。来得及吗？\r\n",
+      "sourceLocation": "txt:chars:53174:53211"
+    },
+    {
+      "id": "226:p3",
+      "kind": "body",
+      "text": "进行一次敏捷检定。\r\n",
+      "sourceLocation": "txt:chars:53211:53222"
+    },
+    {
+      "id": "226:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 227。\r\n",
+      "sourceLocation": "txt:chars:53222:53238"
+    },
+    {
+      "id": "226:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 230。\r\n",
+      "sourceLocation": "txt:chars:53238:53254"
+    },
+    {
+      "id": "226:p6",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是摔倒在地：\r\n",
+      "sourceLocation": "txt:chars:53254:53291"
+    },
+    {
+      "id": "226:p7",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 227。\r\n",
+      "sourceLocation": "txt:chars:53291:53309"
+    },
+    {
+      "id": "226:p8",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 231。\r\n",
+      "sourceLocation": "txt:chars:53309:53327"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "177"
+  ],
+  "text": [
+    "你在敞开的门边站了一会儿，探身往小屋外面看着。你看到旁边的柴火堆，也看到你之前找到的斧头正靠着门口的墙。",
+    "怀疑、偏执或是两者兼而有之驱动着你采取行动。你把斧头拿到屋里，靠在门口。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 177",
+      "textRef": "default"
+    }
+  }
+}

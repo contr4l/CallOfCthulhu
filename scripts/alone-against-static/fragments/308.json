@@ -1,0 +1,42 @@
+{
+  "id": "308",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "308:p0",
+      "kind": "heading",
+      "text": "$t1 == '308'?\r\n`",
+      "sourceLocation": "txt:chars:69696:69712"
+    },
+    {
+      "id": "308:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:69712:69714"
+    },
+    {
+      "id": "308:p2",
+      "kind": "body",
+      "text": "不。不！\r\n",
+      "sourceLocation": "txt:chars:69714:69720"
+    },
+    {
+      "id": "308:p3",
+      "kind": "body",
+      "text": "你没有停下来思考。你拔腿就跑，冲进森林。你克制着大喊大叫求人帮忙的冲动，因为你知道没人会来帮你。在你面前，月光勉强照出一条扭曲的小路，两边都是锋利的岩石和险恶的树根。你尽量躲避着障碍。\r\n",
+      "sourceLocation": "txt:chars:69720:69814"
+    },
+    {
+      "id": "308:p4",
+      "kind": "body",
+      "text": "如果记录表上的 勉强支撑 已被勾选，你的手电筒开始闪烁，必须转到 309。\r\n",
+      "sourceLocation": "txt:chars:69814:69853"
+    },
+    {
+      "id": "308:p5",
+      "kind": "body",
+      "text": "如果记录表上的 能量充沛 已被勾选，你的手电筒亮得很好，必须转到 323。\r\n",
+      "sourceLocation": "txt:chars:69853:69892"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "208",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "208:p0",
+      "kind": "heading",
+      "text": "$t1 == '208'?\r\n`",
+      "sourceLocation": "txt:chars:48996:49012"
+    },
+    {
+      "id": "208:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:49012:49014"
+    },
+    {
+      "id": "208:p2",
+      "kind": "body",
+      "text": "昨晚的录像带还放在电视柜里。也许是出于病态的好奇心，或者是搞懂情况的渴望，你拿起磁带，把它插进放映机里。\r\n",
+      "sourceLocation": "txt:chars:49014:49068"
+    },
+    {
+      "id": "208:p3",
+      "kind": "body",
+      "text": "你把音量调到最小——你一点也不想再来一遍昨晚那种炸裂的雪花音了。\r\n",
+      "sourceLocation": "txt:chars:49068:49102"
+    },
+    {
+      "id": "208:p4",
+      "kind": "body",
+      "text": "你按下播放键。\r\n",
+      "sourceLocation": "txt:chars:49102:49111"
+    },
+    {
+      "id": "208:p5",
+      "kind": "body",
+      "text": "磁带从昨晚中断的地方继续：雪花噪音。巨大的白噪声随着你拨动音量旋钮而消失。\r\n",
+      "sourceLocation": "txt:chars:49111:49150"
+    },
+    {
+      "id": "208:p6",
+      "kind": "body",
+      "text": "然后，磁带的轨道开始错乱——带着锯齿的白色、银灰色横线横贯屏幕。看起来在你们昨晚停下来的地方后面，磁带里还有更多内容。\r\n",
+      "sourceLocation": "txt:chars:49150:49211"
+    },
+    {
+      "id": "208:p7",
+      "kind": "body",
+      "text": "在记录表上勾选 熟面孔。\r\n",
+      "sourceLocation": "txt:chars:49211:49225"
+    },
+    {
+      "id": "208:p8",
+      "kind": "body",
+      "text": "要调整磁带放映机上的磁轨，转到 222。\r\n",
+      "sourceLocation": "txt:chars:49225:49247"
+    },
+    {
+      "id": "208:p9",
+      "kind": "body",
+      "text": "要就这样往下播放，转到 209。\r\n",
+      "sourceLocation": "txt:chars:49247:49265"
+    }
+  ]
+}

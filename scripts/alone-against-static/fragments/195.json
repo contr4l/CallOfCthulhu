@@ -1,0 +1,54 @@
+{
+  "id": "195",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "195:p0",
+      "kind": "heading",
+      "text": "$t1 == '195'?\r\n`",
+      "sourceLocation": "txt:chars:45488:45504"
+    },
+    {
+      "id": "195:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:45504:45506"
+    },
+    {
+      "id": "195:p2",
+      "kind": "body",
+      "text": "你把录像带倒回那一处，把耳朵贴在扬声器上，按下了播放键。\r\n",
+      "sourceLocation": "txt:chars:45506:45536"
+    },
+    {
+      "id": "195:p3",
+      "kind": "body",
+      "text": "你听到拍摄者站了起来。\r\n",
+      "sourceLocation": "txt:chars:45536:45549"
+    },
+    {
+      "id": "195:p4",
+      "kind": "body",
+      "text": "“你——好好好好好”\r\n",
+      "sourceLocation": "txt:chars:45549:45561"
+    },
+    {
+      "id": "195:p5",
+      "kind": "body",
+      "text": "你尖叫着从扬声器上退开。就在拍摄者开始说话时，电视的音量突然变大了。你用一只手把音量调到最小，另一只手捂着脑袋。实在是太响了。蜂鸣声在你耳中鸣响着。\r\n",
+      "sourceLocation": "txt:chars:45561:45637"
+    },
+    {
+      "id": "195:p6",
+      "kind": "body",
+      "text": "在记录表上勾选 耳鸣。\r\n",
+      "sourceLocation": "txt:chars:45637:45650"
+    },
+    {
+      "id": "195:p7",
+      "kind": "body",
+      "text": "转到 186。\r\n",
+      "sourceLocation": "txt:chars:45650:45659"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "144",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "144:p0",
+      "kind": "heading",
+      "text": "$t1 == '144'?\r\n`",
+      "sourceLocation": "txt:chars:34026:34042"
+    },
+    {
+      "id": "144:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:34042:34044"
+    },
+    {
+      "id": "144:p2",
+      "kind": "body",
+      "text": "你放低身子，小心地迈步，躲着树枝和木棍，避免在跟踪时发出声音。男人离你更远了些，但是还在视线范围里。\r\n",
+      "sourceLocation": "txt:chars:34044:34096"
+    },
+    {
+      "id": "144:p3",
+      "kind": "body",
+      "text": "过了几分钟，他犹豫了一下。你蹲得更低。陌生人转过头看了看，从林间小路上转进了树林当中。\r\n",
+      "sourceLocation": "txt:chars:34096:34141"
+    },
+    {
+      "id": "144:p4",
+      "kind": "body",
+      "text": "要继续跟踪，转到 155。\r\n",
+      "sourceLocation": "txt:chars:34141:34156"
+    },
+    {
+      "id": "144:p5",
+      "kind": "body",
+      "text": "要掉头回去，转到 163。\r\n",
+      "sourceLocation": "txt:chars:34156:34171"
+    }
+  ]
+}

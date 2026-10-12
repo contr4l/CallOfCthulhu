@@ -174,6 +174,11 @@ export type CombatOutcome = {
   recipient: "player" | "enemy" | "none";
 };
 export type CheckResult = {
+  assistance?: {
+    targetBonus: number;
+    previousRoll?: number;
+    rulesVersion?: string;
+  };
   opponent?: { roll: number; target: number; grade: CheckResult["grade"] };
   combat?: CombatOutcome;
   label: string;
@@ -226,6 +231,7 @@ export type SceneView = {
   ending?: string;
 };
 export type HistoryFrame = {
+  discarded?: boolean;
   dice?: RuleDiceResult;
   sequence: number;
   createdAt: string;
@@ -246,12 +252,14 @@ export type RunSummary = {
   chapter: string;
 };
 export type Command = {
+  shopItem?: "target-plus-10";
   input?: Record<string, number | string>;
   commandId: string;
   expectedRevision: number;
   actionId: string;
 };
 export type CommandResponse = {
+  canReroll?: boolean;
   dice?: RuleDiceResult;
   scene: SceneView;
   check?: CheckResult;

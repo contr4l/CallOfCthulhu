@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "187"
+  ],
+  "text": [
+    "你拿出在废弃棚屋中找到的磁带。标签上用黑色马克笔写着标题：《傍晚时的寂静》。",
+    "你拿着磁带到电视机前面坐在地上，探身操作着磁带机。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 187",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "121",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "121:p0",
+      "kind": "heading",
+      "text": "$t1 == '121'?\r\n`",
+      "sourceLocation": "txt:chars:28631:28647"
+    },
+    {
+      "id": "121:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:28647:28649"
+    },
+    {
+      "id": "121:p2",
+      "kind": "body",
+      "text": "你走到门边，打开门闩，拉开门。“你好？”\r\n",
+      "sourceLocation": "txt:chars:28649:28671"
+    },
+    {
+      "id": "121:p3",
+      "kind": "body",
+      "text": "陌生人上下打量着你。他的脸上毫无表情。\r\n",
+      "sourceLocation": "txt:chars:28671:28692"
+    },
+    {
+      "id": "121:p4",
+      "kind": "body",
+      "text": "“你好，”他面无表情地说着。他从你肩膀上往屋里看去。“茱莉在家吗？”\r\n",
+      "sourceLocation": "txt:chars:28692:28728"
+    },
+    {
+      "id": "121:p5",
+      "kind": "body",
+      "text": "茱莉，是马克的妻子。\r\n",
+      "sourceLocation": "txt:chars:28728:28740"
+    },
+    {
+      "id": "121:p6",
+      "kind": "body",
+      "text": "要询问陌生人是谁，转到 114。\r\n",
+      "sourceLocation": "txt:chars:28740:28758"
+    },
+    {
+      "id": "121:p7",
+      "kind": "body",
+      "text": "要告诉他茱莉不在，转到 122。\r\n",
+      "sourceLocation": "txt:chars:28758:28776"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "306",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "306:p0",
+      "kind": "heading",
+      "text": "$t1 == '306'?\r\n`",
+      "sourceLocation": "txt:chars:69089:69105"
+    },
+    {
+      "id": "306:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:69105:69107"
+    },
+    {
+      "id": "306:p2",
+      "kind": "body",
+      "text": "你幸运地没有绊倒把脑袋在石头上磕开花。你跌跌撞撞地穿过树林，用手扶着两边的树干保持平衡。在疯狂地跑了一两分钟后，嘶嘶的雪花噪音和那个声音淡去了。你打算停下来喘喘气，却突然跑出了树林，出现在一片月光照耀的空地上。\r\n",
+      "sourceLocation": "txt:chars:69107:69214"
+    },
+    {
+      "id": "306:p3",
+      "kind": "body",
+      "text": "没有松树遮挡月光，你看得就清楚多了。你闯进的空地不大，但还是有人在这里露营。你看到一顶小帐篷，旁边有一个熄灭的烧火坑。你找到帮手了。\r\n",
+      "sourceLocation": "txt:chars:69214:69282"
+    },
+    {
+      "id": "306:p4",
+      "kind": "body",
+      "text": "如果记录表上的 熟面孔 或 转错弯 已被勾选，你认出了这处营地，必须转到 266。\r\n",
+      "sourceLocation": "txt:chars:69282:69325"
+    },
+    {
+      "id": "306:p5",
+      "kind": "body",
+      "text": "转到 275。\r\n",
+      "sourceLocation": "txt:chars:69325:69334"
+    }
+  ]
+}

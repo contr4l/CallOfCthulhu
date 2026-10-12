@@ -1,0 +1,114 @@
+{
+  "id": "136",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "136:p0",
+      "kind": "heading",
+      "text": "$t1 == '136'?\r\n`",
+      "sourceLocation": "txt:chars:32431:32447"
+    },
+    {
+      "id": "136:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:32447:32449"
+    },
+    {
+      "id": "136:p2",
+      "kind": "body",
+      "text": "“如果你能现在就离开这里，那就……太好了，”你说，“认真的。”\r\n",
+      "sourceLocation": "txt:chars:32449:32482"
+    },
+    {
+      "id": "136:p3",
+      "kind": "body",
+      "text": "他眨了眨眼。\r\n",
+      "sourceLocation": "txt:chars:32482:32490"
+    },
+    {
+      "id": "136:p4",
+      "kind": "body",
+      "text": "“请你离开吧？”\r\n",
+      "sourceLocation": "txt:chars:32490:32500"
+    },
+    {
+      "id": "136:p5",
+      "kind": "body",
+      "text": "“你什么时候睡觉？”他问。\r\n",
+      "sourceLocation": "txt:chars:32500:32515"
+    },
+    {
+      "id": "136:p6",
+      "kind": "body",
+      "text": "“什么？”\r\n",
+      "sourceLocation": "txt:chars:32515:32522"
+    },
+    {
+      "id": "136:p7",
+      "kind": "body",
+      "text": "“我可以那时再回来。”他说。\r\n",
+      "sourceLocation": "txt:chars:32522:32538"
+    },
+    {
+      "id": "136:p8",
+      "kind": "body",
+      "text": "“我……我……呃，”你一时语塞。\r\n",
+      "sourceLocation": "txt:chars:32538:32556"
+    },
+    {
+      "id": "136:p9",
+      "kind": "body",
+      "text": "“怎样？”他问道。\r\n",
+      "sourceLocation": "txt:chars:32556:32567"
+    },
+    {
+      "id": "136:p10",
+      "kind": "body",
+      "text": "你感觉心里一凉。他空洞的眼睛仍然盯着你。\r\n",
+      "sourceLocation": "txt:chars:32567:32589"
+    },
+    {
+      "id": "136:p11",
+      "kind": "body",
+      "text": "突然，他转身走开，没有再多说一句。\r\n",
+      "sourceLocation": "txt:chars:32589:32608"
+    },
+    {
+      "id": "136:p12",
+      "kind": "body",
+      "text": "你看着他离开。他并没有沿着车道走到公路上，而是从小路走进了森林。就是你去健走的那条路。\r\n",
+      "sourceLocation": "txt:chars:32608:32653"
+    },
+    {
+      "id": "136:p13",
+      "kind": "body",
+      "text": "你的心脏剧烈地跳动着。肾上腺素让你双手发抖。\r\n",
+      "sourceLocation": "txt:chars:32653:32677"
+    },
+    {
+      "id": "136:p14",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:32677:32702"
+    },
+    {
+      "id": "136:p15",
+      "kind": "body",
+      "text": "进行一次理智检定：如果检定失败，失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:32702:32729"
+    },
+    {
+      "id": "136:p16",
+      "kind": "body",
+      "text": "要跟踪陌生人，转到 138。\r\n",
+      "sourceLocation": "txt:chars:32729:32745"
+    },
+    {
+      "id": "136:p17",
+      "kind": "body",
+      "text": "要把门关好锁好，转到 120。\r\n",
+      "sourceLocation": "txt:chars:32745:32762"
+    }
+  ]
+}

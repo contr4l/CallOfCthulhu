@@ -1,0 +1,48 @@
+{
+  "id": "253",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "253:p0",
+      "kind": "heading",
+      "text": "$t1 == '253'?\r\n`",
+      "sourceLocation": "txt:chars:58010:58026"
+    },
+    {
+      "id": "253:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:58026:58028"
+    },
+    {
+      "id": "253:p2",
+      "kind": "body",
+      "text": "你握住华丽匕首的刀柄。它威力无穷。你感觉自己威力无穷。\r\n",
+      "sourceLocation": "txt:chars:58028:58057"
+    },
+    {
+      "id": "253:p3",
+      "kind": "body",
+      "text": "你在门边站好，握着匕首，你准备好了。\r\n",
+      "sourceLocation": "txt:chars:58057:58077"
+    },
+    {
+      "id": "253:p4",
+      "kind": "body",
+      "text": "只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。\r\n",
+      "sourceLocation": "txt:chars:58077:58108"
+    },
+    {
+      "id": "253:p5",
+      "kind": "body",
+      "text": "在记录表上勾选 临阵磨刀。\r\n",
+      "sourceLocation": "txt:chars:58108:58123"
+    },
+    {
+      "id": "253:p6",
+      "kind": "body",
+      "text": "转到 259。\r\n",
+      "sourceLocation": "txt:chars:58123:58132"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "3",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "3:p0",
+      "kind": "heading",
+      "text": "$t1 == '3'?\r\n`",
+      "sourceLocation": "txt:chars:1885:1899"
+    },
+    {
+      "id": "3:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:1899:1901"
+    },
+    {
+      "id": "3:p2",
+      "kind": "body",
+      "text": "你往前探身，转着调台旋钮。随着你寻找广播信号，扬声器吐出一阵阵雪花杂音。\r\n",
+      "sourceLocation": "txt:chars:1901:1939"
+    },
+    {
+      "id": "3:p3",
+      "kind": "body",
+      "text": "“拜托，”查理叫喊着关掉了收音机，“这些噪音吵得我脑子都转不动了。”\r\n",
+      "sourceLocation": "txt:chars:1939:1975"
+    },
+    {
+      "id": "3:p4",
+      "kind": "body",
+      "text": "你举起手表示自己并非故意。“抱歉，”你这样说着，但查理没有理你。你盯着他看了几秒钟，然后叹了口气，转头去盯着窗外。你盯着路过树木那泥泞的绿色虚影看了几分钟。\r\n",
+      "sourceLocation": "txt:chars:1975:2055"
+    },
+    {
+      "id": "3:p5",
+      "kind": "body",
+      "text": "“终于，”查理说道。他用一根手指戳着缠成一团的地图，“下个路口左转。”\r\n",
+      "sourceLocation": "txt:chars:2055:2092"
+    },
+    {
+      "id": "3:p6",
+      "kind": "body",
+      "text": "你凝视前方，看到一条未铺装的小路深入森林。查理驾车转上这条路，你们安静地驶过树林。\r\n",
+      "sourceLocation": "txt:chars:2092:2135"
+    },
+    {
+      "id": "3:p7",
+      "kind": "body",
+      "text": "进行一次心理学检定来衡量查理的感受：\r\n",
+      "sourceLocation": "txt:chars:2135:2155"
+    },
+    {
+      "id": "3:p8",
+      "kind": "body",
+      "text": "如果检定成功，转到 4。\r\n",
+      "sourceLocation": "txt:chars:2155:2169"
+    },
+    {
+      "id": "3:p9",
+      "kind": "body",
+      "text": "如果检定失败，转到 8。\r\n",
+      "sourceLocation": "txt:chars:2169:2183"
+    }
+  ]
+}

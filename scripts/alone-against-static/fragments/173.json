@@ -1,0 +1,54 @@
+{
+  "id": "173",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "173:p0",
+      "kind": "heading",
+      "text": "$t1 == '173'?\r\n`",
+      "sourceLocation": "txt:chars:40847:40863"
+    },
+    {
+      "id": "173:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:40863:40865"
+    },
+    {
+      "id": "173:p2",
+      "kind": "body",
+      "text": "你用手捂住耳朵，面部肌肉变了形。你感觉雪花音在你头内炸响。血从你耳朵里面滴出，积在你的手掌里。\r\n",
+      "sourceLocation": "txt:chars:40865:40914"
+    },
+    {
+      "id": "173:p3",
+      "kind": "body",
+      "text": "不管这是什么，都令你恐怖、不解，但又有些诱惑。在雪花中似乎隐藏着一个声音。你无法听清这声音。\r\n",
+      "sourceLocation": "txt:chars:40914:40962"
+    },
+    {
+      "id": "173:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:40962:40987"
+    },
+    {
+      "id": "173:p5",
+      "kind": "body",
+      "text": "受到 1 点伤害。\r\n",
+      "sourceLocation": "txt:chars:40987:40998"
+    },
+    {
+      "id": "173:p6",
+      "kind": "body",
+      "text": "要尝试逃跑，转到 167。\r\n",
+      "sourceLocation": "txt:chars:40998:41013"
+    },
+    {
+      "id": "173:p7",
+      "kind": "body",
+      "text": "要把手拿开一下，听那个声音在说什么，转到 175。\r\n",
+      "sourceLocation": "txt:chars:41013:41040"
+    }
+  ]
+}

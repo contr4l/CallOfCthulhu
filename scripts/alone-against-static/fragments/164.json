@@ -1,0 +1,60 @@
+{
+  "id": "164",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "164:p0",
+      "kind": "heading",
+      "text": "$t1 == '164'?\r\n`",
+      "sourceLocation": "txt:chars:38704:38720"
+    },
+    {
+      "id": "164:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:38720:38722"
+    },
+    {
+      "id": "164:p2",
+      "kind": "body",
+      "text": "你继续跟踪。太阳正在落山，天色越来越暗。最后，陌生人走进一片空地。在空地中央有一堆刚翻过的新土。\r\n",
+      "sourceLocation": "txt:chars:38722:38772"
+    },
+    {
+      "id": "164:p3",
+      "kind": "body",
+      "text": "你站在空地边缘的树林中看着。他站在空地中央，双手下垂，被长长的阴影笼罩着。\r\n",
+      "sourceLocation": "txt:chars:38772:38811"
+    },
+    {
+      "id": "164:p4",
+      "kind": "body",
+      "text": "“你不应来此。”他说道。你一下僵住了。\r\n",
+      "sourceLocation": "txt:chars:38811:38832"
+    },
+    {
+      "id": "164:p5",
+      "kind": "body",
+      "text": "男人慢慢地转身看着你。\r\n",
+      "sourceLocation": "txt:chars:38832:38845"
+    },
+    {
+      "id": "164:p6",
+      "kind": "body",
+      "text": "“你不应在此。”\r\n",
+      "sourceLocation": "txt:chars:38845:38855"
+    },
+    {
+      "id": "164:p7",
+      "kind": "body",
+      "text": "要询问他是什么意思，转到 172。\r\n",
+      "sourceLocation": "txt:chars:38855:38874"
+    },
+    {
+      "id": "164:p8",
+      "kind": "body",
+      "text": "要道歉并说自己马上就走，转到 165。\r\n",
+      "sourceLocation": "txt:chars:38874:38895"
+    }
+  ]
+}

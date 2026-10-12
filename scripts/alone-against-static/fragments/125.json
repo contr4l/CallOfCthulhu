@@ -1,0 +1,54 @@
+{
+  "id": "125",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "125:p0",
+      "kind": "heading",
+      "text": "$t1 == '125'?\r\n`",
+      "sourceLocation": "txt:chars:29423:29439"
+    },
+    {
+      "id": "125:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:29439:29441"
+    },
+    {
+      "id": "125:p2",
+      "kind": "body",
+      "text": "“先生，”你微笑着说，“我无意咄咄逼人。但是我今天已经走了很长一段路，实在累得不行。\r\n",
+      "sourceLocation": "txt:chars:29441:29485"
+    },
+    {
+      "id": "125:p3",
+      "kind": "body",
+      "text": "您是打扰了我的睡眠。如果我没有什么能帮上您的了，您能不能让我回去睡觉呢？下次见到马克和茱莉的时候，我会告诉他们您来问过的。”\r\n",
+      "sourceLocation": "txt:chars:29485:29549"
+    },
+    {
+      "id": "125:p4",
+      "kind": "body",
+      "text": "男人眨了眨眼。他嘟囔着四下看了看，然后点了点头。他转过身去，手还插在兜里，走开了。\r\n",
+      "sourceLocation": "txt:chars:29549:29592"
+    },
+    {
+      "id": "125:p5",
+      "kind": "body",
+      "text": "你看着他走开。他并没有沿着车道走到公路上，而是从小路走进了森林。就是你去健走的那条路。\r\n",
+      "sourceLocation": "txt:chars:29592:29637"
+    },
+    {
+      "id": "125:p6",
+      "kind": "body",
+      "text": "要跟踪陌生人，转到 138。\r\n",
+      "sourceLocation": "txt:chars:29637:29653"
+    },
+    {
+      "id": "125:p7",
+      "kind": "body",
+      "text": "要把门关好锁好，转到 120。\r\n",
+      "sourceLocation": "txt:chars:29653:29670"
+    }
+  ]
+}

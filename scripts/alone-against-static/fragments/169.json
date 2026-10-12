@@ -1,0 +1,60 @@
+{
+  "id": "169",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "169:p0",
+      "kind": "heading",
+      "text": "$t1 == '169'?\r\n`",
+      "sourceLocation": "txt:chars:39619:39635"
+    },
+    {
+      "id": "169:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:39635:39637"
+    },
+    {
+      "id": "169:p2",
+      "kind": "body",
+      "text": "你仍然紧紧抱着头，拼命朝着安全的地方跑去。你能感到血液从耳道中流出，积在你的手掌里。\r\n",
+      "sourceLocation": "txt:chars:39637:39681"
+    },
+    {
+      "id": "169:p3",
+      "kind": "body",
+      "text": "你跑到空地边缘，撞进树林。没跑出多远，你就迷路了。\r\n",
+      "sourceLocation": "txt:chars:39681:39708"
+    },
+    {
+      "id": "169:p4",
+      "kind": "body",
+      "text": "你一直跑到筋疲力尽，瘫在一棵倒下的树上。身后响起的雪花噪音又让你爬起来，继续拼命逃着。你就这样跑着、停下、跑着、停下，过了很长时间。恐慌和寒冷消耗着你的体力。你挣扎着不停往前跑。经过你感觉有几个小时的时间，你撞进一条熟悉的小路。你终于顺着小路回到了小屋。它安静地立在黑暗中。车道上还是没有车。\r\n",
+      "sourceLocation": "txt:chars:39708:39856"
+    },
+    {
+      "id": "169:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:39856:39881"
+    },
+    {
+      "id": "169:p6",
+      "kind": "body",
+      "text": "进行一次体质检定。如果记录表上的 着凉 已被勾选，为这次检定添加一枚惩罚骰；如果 实用派 已被勾选，添加一枚奖励骰；如果上述两条都被勾选，不带调整地进行检定。如果检定失败，\r\n",
+      "sourceLocation": "txt:chars:39881:39969"
+    },
+    {
+      "id": "169:p7",
+      "kind": "body",
+      "text": "受到 1D6 点伤害。\r\n",
+      "sourceLocation": "txt:chars:39969:39982"
+    },
+    {
+      "id": "169:p8",
+      "kind": "body",
+      "text": "转到 170。\r\n",
+      "sourceLocation": "txt:chars:39982:39991"
+    }
+  ]
+}

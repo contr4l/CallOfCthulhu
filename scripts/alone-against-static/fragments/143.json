@@ -1,0 +1,36 @@
+{
+  "id": "143",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "143:p0",
+      "kind": "heading",
+      "text": "$t1 == '143'?\r\n`",
+      "sourceLocation": "txt:chars:33897:33913"
+    },
+    {
+      "id": "143:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:33913:33915"
+    },
+    {
+      "id": "143:p2",
+      "kind": "body",
+      "text": "你不加掩饰地跟着陌生人。你知道他一定听到你了，但他没有停下来看你。这家伙一开始就走在前面，而且走得很快。你快步走着才跟得上。\r\n",
+      "sourceLocation": "txt:chars:33915:33979"
+    },
+    {
+      "id": "143:p3",
+      "kind": "body",
+      "text": "突然，陌生人毫无预兆地转过身，眼神锁在你身上。一切寂静无声。\r\n",
+      "sourceLocation": "txt:chars:33979:34011"
+    },
+    {
+      "id": "143:p4",
+      "kind": "body",
+      "text": "转到 152。\r\n",
+      "sourceLocation": "txt:chars:34011:34020"
+    }
+  ]
+}

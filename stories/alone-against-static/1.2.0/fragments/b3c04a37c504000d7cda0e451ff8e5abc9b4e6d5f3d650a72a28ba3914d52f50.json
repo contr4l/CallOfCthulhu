@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "62"
+  ],
+  "text": [
+    "工作台上放着各种工具，都是很多年没有人碰过了，被一层油腻的灰尘覆盖着。你看到一把暗灰色的锤子。也许它会有用？工具台上还有一套专用的微型螺丝刀。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 62",
+      "textRef": "default"
+    }
+  }
+}

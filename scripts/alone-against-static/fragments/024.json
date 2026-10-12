@@ -1,0 +1,78 @@
+{
+  "id": "24",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "24:p0",
+      "kind": "heading",
+      "text": "$t1 == '24'?\r\n`",
+      "sourceLocation": "txt:chars:7893:7908"
+    },
+    {
+      "id": "24:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:7908:7910"
+    },
+    {
+      "id": "24:p2",
+      "kind": "body",
+      "text": "你叹了口气。“怎么都好了。你总是什么都懂，不是吗？”\r\n",
+      "sourceLocation": "txt:chars:7910:7938"
+    },
+    {
+      "id": "24:p3",
+      "kind": "body",
+      "text": "查理皱起眉。“这话是什么意思？”\r\n",
+      "sourceLocation": "txt:chars:7938:7956"
+    },
+    {
+      "id": "24:p4",
+      "kind": "body",
+      "text": "你回忆着这一路上的种种：查理一边开车一边看地图、拒绝你的帮助、不停地迷路。“没事，别管了，”你说道，然后在床上翻了个身，“你能去关灯吗？”\r\n",
+      "sourceLocation": "txt:chars:7956:8027"
+    },
+    {
+      "id": "24:p5",
+      "kind": "body",
+      "text": "“你不想看电影了？”\r\n",
+      "sourceLocation": "txt:chars:8027:8039"
+    },
+    {
+      "id": "24:p6",
+      "kind": "body",
+      "text": "“不看了，”你把被子裹在身上，说，“我现在只想睡觉。”\r\n",
+      "sourceLocation": "txt:chars:8039:8068"
+    },
+    {
+      "id": "24:p7",
+      "kind": "body",
+      "text": "查理叹着气，说：“好吧。”你感觉他从床上爬起来。“我只是想——”\r\n",
+      "sourceLocation": "txt:chars:8068:8102"
+    },
+    {
+      "id": "24:p8",
+      "kind": "body",
+      "text": "电视又吱哇乱叫着活了过来。雪花噪音响彻小屋。雷鸣般的刮擦声和咳嗽声在墙之间回响。你猛地拍在自己耳朵上，把它牢牢捂住。查理咒骂着，但是你几乎听不到他说了什么。噪音达到了疯狂的峰值，让人难以忍受。然后，就像一切开始时一样快，所有噪音都消失了，电视安静下来。小屋里所有灯光都灭了。\r\n",
+      "sourceLocation": "txt:chars:8102:8241"
+    },
+    {
+      "id": "24:p9",
+      "kind": "body",
+      "text": "停电了。\r\n",
+      "sourceLocation": "txt:chars:8241:8247"
+    },
+    {
+      "id": "24:p10",
+      "kind": "body",
+      "text": "在记录表上勾选 推卸责任。\r\n",
+      "sourceLocation": "txt:chars:8247:8262"
+    },
+    {
+      "id": "24:p11",
+      "kind": "body",
+      "text": "转到 31。\r\n",
+      "sourceLocation": "txt:chars:8262:8270"
+    }
+  ]
+}

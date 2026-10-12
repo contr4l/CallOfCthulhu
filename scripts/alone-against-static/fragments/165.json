@@ -1,0 +1,84 @@
+{
+  "id": "165",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "165:p0",
+      "kind": "heading",
+      "text": "$t1 == '165'?\r\n`",
+      "sourceLocation": "txt:chars:38901:38917"
+    },
+    {
+      "id": "165:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:38917:38919"
+    },
+    {
+      "id": "165:p2",
+      "kind": "body",
+      "text": "“抱歉，”你从树木中走出，说道，“我很抱歉，我马上就离开，好吗？我现在就走。”\r\n",
+      "sourceLocation": "txt:chars:38919:38960"
+    },
+    {
+      "id": "165:p3",
+      "kind": "body",
+      "text": "他摇了摇头。“太迟了。”\r\n",
+      "sourceLocation": "txt:chars:38960:38974"
+    },
+    {
+      "id": "165:p4",
+      "kind": "body",
+      "text": "“不，还不迟，”你说，“我现在就走。我直接回小屋去，忘掉这一切。”\r\n",
+      "sourceLocation": "txt:chars:38974:39009"
+    },
+    {
+      "id": "165:p5",
+      "kind": "body",
+      "text": "他盯着你。\r\n",
+      "sourceLocation": "txt:chars:39009:39016"
+    },
+    {
+      "id": "165:p6",
+      "kind": "body",
+      "text": "“这样可以吗？”\r\n",
+      "sourceLocation": "txt:chars:39016:39026"
+    },
+    {
+      "id": "165:p7",
+      "kind": "body",
+      "text": "他张开嘴，张得大大的。他嘴里的牙都是乌黑的。他的舌头伸出来，舌头又宽又平。\r\n",
+      "sourceLocation": "txt:chars:39026:39065"
+    },
+    {
+      "id": "165:p8",
+      "kind": "body",
+      "text": "他尖叫起来，然后变成咆哮。这声音让你痛苦万分。它不是常人的尖叫，而是人类咆哮声与狂吼的雪花噪音的合唱。这声音大得超出想象，吵得你脑子发疼。\r\n",
+      "sourceLocation": "txt:chars:39065:39136"
+    },
+    {
+      "id": "165:p9",
+      "kind": "body",
+      "text": "在记录表上勾选 转错弯。\r\n",
+      "sourceLocation": "txt:chars:39136:39150"
+    },
+    {
+      "id": "165:p10",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:39150:39161"
+    },
+    {
+      "id": "165:p11",
+      "kind": "body",
+      "text": "如果检定成功，转到 173。\r\n",
+      "sourceLocation": "txt:chars:39161:39177"
+    },
+    {
+      "id": "165:p12",
+      "kind": "body",
+      "text": "如果检定失败，转到 166。\r\n",
+      "sourceLocation": "txt:chars:39177:39193"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "288",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "288:p0",
+      "kind": "heading",
+      "text": "$t1 == '288'?\r\n`",
+      "sourceLocation": "txt:chars:65583:65599"
+    },
+    {
+      "id": "288:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:65599:65601"
+    },
+    {
+      "id": "288:p2",
+      "kind": "body",
+      "text": "你朝窗户冲去，用全身力气撞在陌生人身上。他被你撞出窗外，掉进夜色中的碎石路上。你听到他的呻吟声。\r\n",
+      "sourceLocation": "txt:chars:65601:65651"
+    },
+    {
+      "id": "288:p3",
+      "kind": "body",
+      "text": "你立即逃走了。决不能浪费这个机会。当陌生人还在外面的地面上挣扎时，你冲出小屋，冲进森林，消失在黑暗中。你听到他在你身后怒吼，但你越跑越远，很快就听不见了。面前漆黑的树林让你恐惧，但总比留在小屋里和那个疯子缠斗安全多了。\r\n",
+      "sourceLocation": "txt:chars:65651:65762"
+    },
+    {
+      "id": "288:p4",
+      "kind": "body",
+      "text": "转到 298。\r\n",
+      "sourceLocation": "txt:chars:65762:65771"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "191"
+  ],
+  "text": [
+    "你感觉胃里扭成一个冰冷的结。你吞了口口水，退出磁带。你勉强控制住自己的情绪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 191",
+      "textRef": "default"
+    }
+  }
+}

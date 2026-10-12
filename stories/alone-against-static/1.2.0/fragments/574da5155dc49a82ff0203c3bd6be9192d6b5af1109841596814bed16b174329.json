@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "98"
+  ],
+  "text": [
+    "在水槽下的柜子里，你找到一个塑料小盒子，里面放着一支迷你手电筒。你点亮手电。光线弱弱地从手电中射出。电池可能已经快用完了。",
+    "你在食品柜、浴室和床头柜里翻找着备用电池，却在哪里都没有找到。最终，你不得不放弃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 98",
+      "textRef": "default"
+    }
+  }
+}

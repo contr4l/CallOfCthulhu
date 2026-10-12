@@ -1,0 +1,42 @@
+{
+  "id": "185",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "185:p0",
+      "kind": "heading",
+      "text": "$t1 == '185'?\r\n`",
+      "sourceLocation": "txt:chars:43177:43193"
+    },
+    {
+      "id": "185:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:43193:43195"
+    },
+    {
+      "id": "185:p2",
+      "kind": "body",
+      "text": "你快步走到电视前，锤了一下电源按钮。\r\n",
+      "sourceLocation": "txt:chars:43195:43215"
+    },
+    {
+      "id": "185:p3",
+      "kind": "body",
+      "text": "毫无反应。\r\n",
+      "sourceLocation": "txt:chars:43215:43222"
+    },
+    {
+      "id": "185:p4",
+      "kind": "body",
+      "text": "电视调到了磁带机的输入，没有画面的屏幕发散着暗淡的光。\r\n",
+      "sourceLocation": "txt:chars:43222:43251"
+    },
+    {
+      "id": "185:p5",
+      "kind": "body",
+      "text": "转到 186。\r\n",
+      "sourceLocation": "txt:chars:43251:43260"
+    }
+  ]
+}

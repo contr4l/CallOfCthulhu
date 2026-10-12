@@ -1,0 +1,42 @@
+{
+  "id": "328",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "328:p0",
+      "kind": "heading",
+      "text": "$t1 == '328'?\r\n`",
+      "sourceLocation": "txt:chars:74928:74944"
+    },
+    {
+      "id": "328:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:74944:74946"
+    },
+    {
+      "id": "328:p2",
+      "kind": "body",
+      "text": "这世界上的一切对你脆弱平凡的心灵来说太难以承受了。深刻、扭曲、超出人类理解范围的现实撕碎了你的意识，就像打碎一块玻璃。\r\n",
+      "sourceLocation": "txt:chars:74946:75007"
+    },
+    {
+      "id": "328:p3",
+      "kind": "body",
+      "text": "你陷入不定性疯狂。从现在开始，如果你再失去任何理智，必须立即转到 329。\r\n",
+      "sourceLocation": "txt:chars:75007:75046"
+    },
+    {
+      "id": "328:p4",
+      "kind": "body",
+      "text": "回到你之前的条目。\r\n",
+      "sourceLocation": "txt:chars:75046:75057"
+    },
+    {
+      "id": "328:p5",
+      "kind": "body",
+      "text": "（不定性疯狂）\r\n",
+      "sourceLocation": "txt:chars:75057:75066"
+    }
+  ]
+}

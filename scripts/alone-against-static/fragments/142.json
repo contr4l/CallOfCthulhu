@@ -1,0 +1,54 @@
+{
+  "id": "142",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "142:p0",
+      "kind": "heading",
+      "text": "$t1 == '142'?\r\n`",
+      "sourceLocation": "txt:chars:33681:33697"
+    },
+    {
+      "id": "142:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:33697:33699"
+    },
+    {
+      "id": "142:p2",
+      "kind": "body",
+      "text": "一片漆黑。云彩遮住了天空，月亮不见踪影。\r\n",
+      "sourceLocation": "txt:chars:33699:33721"
+    },
+    {
+      "id": "142:p3",
+      "kind": "body",
+      "text": "你在床上躺了一会儿，听着风吹动周围的松枝。每隔几分钟，你就感觉听到了伴侣回来的声音。但是每次你都是错的。\r\n",
+      "sourceLocation": "txt:chars:33721:33775"
+    },
+    {
+      "id": "142:p4",
+      "kind": "body",
+      "text": "当你在小屋里走动时，你只好用手电筒照亮前面的路。过了几个小时，你给自己做了个三明治，然后摸黑吃掉。\r\n",
+      "sourceLocation": "txt:chars:33775:33826"
+    },
+    {
+      "id": "142:p5",
+      "kind": "body",
+      "text": "当你嚼着三明治时，门被人敲了一下。只敲了一下，随后是令人窒息的寂静。\r\n",
+      "sourceLocation": "txt:chars:33826:33862"
+    },
+    {
+      "id": "142:p6",
+      "kind": "body",
+      "text": "要无视敲门声，转到 183。\r\n",
+      "sourceLocation": "txt:chars:33862:33878"
+    },
+    {
+      "id": "142:p7",
+      "kind": "body",
+      "text": "要应门，转到 176。\r\n",
+      "sourceLocation": "txt:chars:33878:33891"
+    }
+  ]
+}

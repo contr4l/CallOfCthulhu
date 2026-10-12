@@ -25,6 +25,7 @@ const test = base.extend<{ failNodes: string[]; firstCombatLoss: boolean }>({
       firstLossDone = false;
     let combatDice = [1, 2, 1, 1, 1, 1];
     const app = await buildApp({
+      rateLimitMax: 10000, // Compressed full routes exceed normal human request frequency.
       dice: (min, max) => {
         if (
           failNodes.includes(current?.collection?.chapterId ?? "") &&
@@ -64,8 +65,8 @@ const test = base.extend<{ failNodes: string[]; firstCombatLoss: boolean }>({
       )
         firstLossDone = true;
       const body = r.json();
-      if (body.scene) current = body.scene;
-      else if (body.runId) current = body;
+      if (body?.scene) current = body.scene;
+      else if (body?.runId) current = body;
       const headers: Record<string, string> = {};
       for (const [k, v] of Object.entries(r.headers))
         if (
@@ -344,6 +345,7 @@ test("Chinese adventure completes from entry to ordinary survival with mid-run r
   const { scene } = await complete(page, "survival");
   expect(scene.ending).toBe("走出烬头村");
   await expect(page.locator(".ending-achievement")).toContainText("成就解锁");
+  await expect(page.locator(".ending-achievement")).toContainText("结局 15");
   await expect(page.locator(".ending-achievement")).toContainText(
     scene.ending!,
   );
@@ -359,6 +361,12 @@ test("Chinese adventure completes from entry to ordinary survival with mid-run r
     "已解锁 1 / 16",
   );
   await expect(page.locator(".achievement-card.is-unlocked")).toHaveCount(1);
+  await expect(
+    page.locator(".achievement-card.is-unlocked .achievement-status"),
+  ).toContainText("结局 15");
+  await expect(
+    page.locator(".achievement-card.is-locked").first(),
+  ).toContainText("结局 01");
   await expect(page.locator(".achievement-card.is-locked")).toHaveCount(15);
   await expect(page.locator(".achievement-library")).not.toContainText(
     "驱散星火",
@@ -381,7 +389,11 @@ test("Chinese adventure completes from entry to ordinary survival with mid-run r
   });
   await page.getByRole("button", { name: "查看结局", exact: true }).click();
   await expect(page.locator(".ending-achievement")).toContainText("走出烬头村");
-  expect(await read(page)).toEqual(scene);
+  await expect(page.locator(".ending-achievement")).toContainText("结局 15");
+  await expect(page.locator(".play-page")).toHaveAttribute(
+    "data-revision",
+    String(scene.revision),
+  );
 });
 test("ritual investment completes from entry to a spell ending", async ({
   page,

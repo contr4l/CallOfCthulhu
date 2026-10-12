@@ -1,0 +1,48 @@
+{
+  "id": "247",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "247:p0",
+      "kind": "heading",
+      "text": "$t1 == '247'?\r\n`",
+      "sourceLocation": "txt:chars:56903:56919"
+    },
+    {
+      "id": "247:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:56919:56921"
+    },
+    {
+      "id": "247:p2",
+      "kind": "body",
+      "text": "本能驱使着你冲到厨房里打开抽屉，摸索着餐具。\r\n",
+      "sourceLocation": "txt:chars:56921:56945"
+    },
+    {
+      "id": "247:p3",
+      "kind": "body",
+      "text": "你的手指碰到一把牛排刀。只能靠它了……\r\n",
+      "sourceLocation": "txt:chars:56945:56966"
+    },
+    {
+      "id": "247:p4",
+      "kind": "body",
+      "text": "你走出厨房，站在门边，一只手紧紧握住牛排刀。只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。\r\n",
+      "sourceLocation": "txt:chars:56966:57019"
+    },
+    {
+      "id": "247:p5",
+      "kind": "body",
+      "text": "在记录表上勾选 万不得已。\r\n",
+      "sourceLocation": "txt:chars:57019:57034"
+    },
+    {
+      "id": "247:p6",
+      "kind": "body",
+      "text": "转到 259。\r\n",
+      "sourceLocation": "txt:chars:57034:57043"
+    }
+  ]
+}

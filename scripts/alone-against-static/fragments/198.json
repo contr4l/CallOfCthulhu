@@ -1,0 +1,60 @@
+{
+  "id": "198",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "198:p0",
+      "kind": "heading",
+      "text": "$t1 == '198'?\r\n`",
+      "sourceLocation": "txt:chars:46606:46622"
+    },
+    {
+      "id": "198:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:46622:46624"
+    },
+    {
+      "id": "198:p2",
+      "kind": "body",
+      "text": "天晓得这盘磁带有……多老。茱莉和马克买下这座小屋已经很多年了。如果这盘磁带是他们最早来的时候录的，那天杀的怎么会有人知道还来问你们两个人？\r\n",
+      "sourceLocation": "txt:chars:46624:46695"
+    },
+    {
+      "id": "198:p3",
+      "kind": "body",
+      "text": "不过，知道那台录像机是马克的还是让你得到一丝安慰。那个破棚屋一定也是他的了。\r\n",
+      "sourceLocation": "txt:chars:46695:46735"
+    },
+    {
+      "id": "198:p4",
+      "kind": "body",
+      "text": "但是来问你的到底是他妈的谁？\r\n",
+      "sourceLocation": "txt:chars:46735:46751"
+    },
+    {
+      "id": "198:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:46751:46776"
+    },
+    {
+      "id": "198:p6",
+      "kind": "body",
+      "text": "失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:46776:46787"
+    },
+    {
+      "id": "198:p7",
+      "kind": "body",
+      "text": "要重看一遍，寻找更多线索，转到 200。\r\n",
+      "sourceLocation": "txt:chars:46787:46809"
+    },
+    {
+      "id": "198:p8",
+      "kind": "body",
+      "text": "要退带，回到 186。\r\n",
+      "sourceLocation": "txt:chars:46809:46822"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "368",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "368:p0",
+      "kind": "heading",
+      "text": "$t1 == '368'?\r\n`",
+      "sourceLocation": "txt:chars:85555:85571"
+    },
+    {
+      "id": "368:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:85571:85573"
+    },
+    {
+      "id": "368:p2",
+      "kind": "body",
+      "text": "你穿上鞋走出小屋，费力地穿过挤在小屋墙壁上的枝叶，寻找发电机。\r\n",
+      "sourceLocation": "txt:chars:85573:85606"
+    },
+    {
+      "id": "368:p3",
+      "kind": "body",
+      "text": "你在屋后找到了：一个大号金属箱子，曾经被漆成浅褐色，但油漆已经褪色碎裂。它看起来就像橱柜，在膝盖的高度有一对门。\r\n",
+      "sourceLocation": "txt:chars:85606:85664"
+    },
+    {
+      "id": "368:p4",
+      "kind": "body",
+      "text": "你蹲下身，打开柜门。很有意思，你还以为它不会这么容易打开呢。\r\n",
+      "sourceLocation": "txt:chars:85664:85696"
+    },
+    {
+      "id": "368:p5",
+      "kind": "body",
+      "text": "在柜子里有两个又高又细的汽车用电池，用电线连到一个方盒子，上面有一根指针。指针指着零。\r\n",
+      "sourceLocation": "txt:chars:85696:85741"
+    },
+    {
+      "id": "368:p6",
+      "kind": "body",
+      "text": "进行一次困难难度的机械维修检定。\r\n",
+      "sourceLocation": "txt:chars:85741:85759"
+    },
+    {
+      "id": "368:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 369。\r\n",
+      "sourceLocation": "txt:chars:85759:85775"
+    },
+    {
+      "id": "368:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 371。\r\n",
+      "sourceLocation": "txt:chars:85775:85791"
+    }
+  ]
+}

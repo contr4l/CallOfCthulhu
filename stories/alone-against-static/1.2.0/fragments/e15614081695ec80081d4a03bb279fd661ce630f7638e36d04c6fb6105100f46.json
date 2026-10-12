@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "12"
+  ],
+  "text": [
+    "“还不太饿，”你说道。",
+    "“好吧，不过还是赶紧开饭吧。我要饿死了。”",
+    "你从后备箱抱出一个杂货店的棕色牛皮纸袋，提起自己的行李箱，走向小屋的前门。查理开门走了进去。你也跟了进去，然后带上了门，将刺骨的寒气关在门外。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 12",
+      "textRef": "default"
+    }
+  }
+}

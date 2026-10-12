@@ -1,0 +1,42 @@
+{
+  "id": "48",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "48:p0",
+      "kind": "heading",
+      "text": "$t1 == '48'?\r\n`",
+      "sourceLocation": "txt:chars:14736:14751"
+    },
+    {
+      "id": "48:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:14751:14753"
+    },
+    {
+      "id": "48:p2",
+      "kind": "body",
+      "text": "你打了个冷颤。你想起昨晚电视发疯前播放的影片，黑色记号笔写的标题犹在眼前：溪水中的落花。你看着这条溪流，看着岸边的花，看着被水流冲刷而下的落叶，记忆中刺耳的雪花噪音又在耳边想起。\r\n",
+      "sourceLocation": "txt:chars:14753:14844"
+    },
+    {
+      "id": "48:p3",
+      "kind": "body",
+      "text": "你抬起头环视四周。一切如常。只有你身后的小路和水边的两排松树。\r\n",
+      "sourceLocation": "txt:chars:14844:14877"
+    },
+    {
+      "id": "48:p4",
+      "kind": "body",
+      "text": "除了你，一个人也没有。\r\n",
+      "sourceLocation": "txt:chars:14877:14890"
+    },
+    {
+      "id": "48:p5",
+      "kind": "body",
+      "text": "转到 49。\r\n",
+      "sourceLocation": "txt:chars:14890:14898"
+    }
+  ]
+}

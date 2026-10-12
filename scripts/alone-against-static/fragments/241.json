@@ -1,0 +1,48 @@
+{
+  "id": "241",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "241:p0",
+      "kind": "heading",
+      "text": "$t1 == '241'?\r\n`",
+      "sourceLocation": "txt:chars:55982:55998"
+    },
+    {
+      "id": "241:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:55998:56000"
+    },
+    {
+      "id": "241:p2",
+      "kind": "body",
+      "text": "你在周边搜寻着，寻找一切可以防身的东西。\r\n",
+      "sourceLocation": "txt:chars:56000:56022"
+    },
+    {
+      "id": "241:p3",
+      "kind": "body",
+      "text": "如果记录表上的 以备不时 已被勾选，你想起之前找到的一件钝器，可以转到 244。\r\n",
+      "sourceLocation": "txt:chars:56022:56064"
+    },
+    {
+      "id": "241:p4",
+      "kind": "body",
+      "text": "如果记录表上的 削铁如泥 已被勾选，你想起之前找到的一件锐器，可以转到 243。\r\n",
+      "sourceLocation": "txt:chars:56064:56106"
+    },
+    {
+      "id": "241:p5",
+      "kind": "body",
+      "text": "如果记录表上的 就在手边 已被勾选，你看向之前拿进屋里的斧头，可以转到 269。\r\n",
+      "sourceLocation": "txt:chars:56106:56148"
+    },
+    {
+      "id": "241:p6",
+      "kind": "body",
+      "text": "要随便抓手边什么东西应急，转到 245。\r\n",
+      "sourceLocation": "txt:chars:56148:56170"
+    }
+  ]
+}

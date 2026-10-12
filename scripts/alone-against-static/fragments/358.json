@@ -1,0 +1,48 @@
+{
+  "id": "358",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "358:p0",
+      "kind": "heading",
+      "text": "$t1 == '358'?\r\n`",
+      "sourceLocation": "txt:chars:82188:82204"
+    },
+    {
+      "id": "358:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:82204:82206"
+    },
+    {
+      "id": "358:p2",
+      "kind": "body",
+      "text": "你最后看了一眼伴侣的身体。它在你眼前解体，转变成一种邪祟的存在。你没法为他/她再做什么了。无关于你的感情、你的愿望，更伟大的存在替你做了决定。你现在能做的只有：跑。\r\n",
+      "sourceLocation": "txt:chars:82206:82290"
+    },
+    {
+      "id": "358:p3",
+      "kind": "body",
+      "text": "你冲向空地的边缘。如果你速度够快，一定能够赶到。身后，伴侣被扭曲的声音还在叫着你，但你没有回头看。然后，你听到了沉重的脚步声快速接近。\r\n",
+      "sourceLocation": "txt:chars:82290:82359"
+    },
+    {
+      "id": "358:p4",
+      "kind": "body",
+      "text": "进行一次敏捷检定：\r\n",
+      "sourceLocation": "txt:chars:82359:82370"
+    },
+    {
+      "id": "358:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 360。\r\n",
+      "sourceLocation": "txt:chars:82370:82386"
+    },
+    {
+      "id": "358:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 359。\r\n",
+      "sourceLocation": "txt:chars:82386:82402"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "131",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "131:p0",
+      "kind": "heading",
+      "text": "$t1 == '131'?\r\n`",
+      "sourceLocation": "txt:chars:31138:31154"
+    },
+    {
+      "id": "131:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:31154:31156"
+    },
+    {
+      "id": "131:p2",
+      "kind": "body",
+      "text": "当你在磁带中翻找时，你注意到柜子后面有个东西。你伸手进去把它拿了出来。这是一个空的家用录像磁带盒，已经老化发脆了。有人用黑色记号笔在盒子上潦草地写了一个标题：《溪水中的落花》\r\n",
+      "sourceLocation": "txt:chars:31156:31245"
+    },
+    {
+      "id": "131:p3",
+      "kind": "body",
+      "text": "你难以置信地大声读出了标题。\r\n",
+      "sourceLocation": "txt:chars:31245:31261"
+    },
+    {
+      "id": "131:p4",
+      "kind": "body",
+      "text": "“这是什么？”亚历克斯正从浴室出来，问道。\r\n",
+      "sourceLocation": "txt:chars:31261:31284"
+    },
+    {
+      "id": "131:p5",
+      "kind": "body",
+      "text": "“一个空盒子。我们应该在音像店停一下的。我想这些都是盗版片。”\r\n",
+      "sourceLocation": "txt:chars:31284:31317"
+    },
+    {
+      "id": "131:p6",
+      "kind": "body",
+      "text": "亚历克斯朝你走了过来。她在笑。也许她在浴室也反省了一些。\r\n",
+      "sourceLocation": "txt:chars:31317:31347"
+    },
+    {
+      "id": "131:p7",
+      "kind": "body",
+      "text": "“磁带还在磁带机里吗？”她问道。\r\n",
+      "sourceLocation": "txt:chars:31347:31365"
+    },
+    {
+      "id": "131:p8",
+      "kind": "body",
+      "text": "你探身按下了退带按钮。随着机器里的一阵机械声，一盘磁带吐了出来。\r\n",
+      "sourceLocation": "txt:chars:31365:31399"
+    },
+    {
+      "id": "131:p9",
+      "kind": "body",
+      "text": "“啊哈！”亚历克斯说道。她走过来抱住了你。“谢谢你，查理，”她说，把头靠在你的肩膀上。\r\n",
+      "sourceLocation": "txt:chars:31399:31444"
+    },
+    {
+      "id": "131:p10",
+      "kind": "body",
+      "text": "你站在那里，手里拿着磁带，轻轻叹了口气，说：“我爱你。”\r\n",
+      "sourceLocation": "txt:chars:31444:31474"
+    },
+    {
+      "id": "131:p11",
+      "kind": "body",
+      "text": "在记录表上勾选 溪水中的落花。\r\n",
+      "sourceLocation": "txt:chars:31474:31491"
+    },
+    {
+      "id": "131:p12",
+      "kind": "body",
+      "text": "要亲昵地回应，转到 135。\r\n",
+      "sourceLocation": "txt:chars:31491:31507"
+    },
+    {
+      "id": "131:p13",
+      "kind": "body",
+      "text": "要转移话题，转到 137。\r\n",
+      "sourceLocation": "txt:chars:31507:31522"
+    }
+  ]
+}

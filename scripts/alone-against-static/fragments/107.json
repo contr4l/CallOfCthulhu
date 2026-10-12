@@ -1,0 +1,48 @@
+{
+  "id": "107",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "107:p0",
+      "kind": "heading",
+      "text": "$t1 == '107'?\r\n`",
+      "sourceLocation": "txt:chars:26085:26101"
+    },
+    {
+      "id": "107:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:26101:26103"
+    },
+    {
+      "id": "107:p2",
+      "kind": "body",
+      "text": "森林深邃、阴暗而孤独。你孤身一人处在一座没有供电的小屋里，安慰着自己一切都会好起来。现在太阳还在空中，你尚可以骗骗自己。但是，你很清楚，太阳每分每秒都在朝着地平线落下，将要把你留在黑暗中。\r\n",
+      "sourceLocation": "txt:chars:26103:26199"
+    },
+    {
+      "id": "107:p3",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:26199:26224"
+    },
+    {
+      "id": "107:p4",
+      "kind": "body",
+      "text": "进行一次理智检定：如果检定失败，失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:26224:26251"
+    },
+    {
+      "id": "107:p5",
+      "kind": "body",
+      "text": "如果记录表上的 能量充沛 或 勉强支撑 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:26251:26293"
+    },
+    {
+      "id": "107:p6",
+      "kind": "body",
+      "text": "要寻找手电筒和电池，转到 95。\r\n",
+      "sourceLocation": "txt:chars:26293:26311"
+    }
+  ]
+}

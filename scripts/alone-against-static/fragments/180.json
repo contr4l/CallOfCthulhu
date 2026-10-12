@@ -1,0 +1,42 @@
+{
+  "id": "180",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "180:p0",
+      "kind": "heading",
+      "text": "$t1 == '180'?\r\n`",
+      "sourceLocation": "txt:chars:42400:42416"
+    },
+    {
+      "id": "180:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:42416:42418"
+    },
+    {
+      "id": "180:p2",
+      "kind": "body",
+      "text": "不悦。寒冷。除此以外什么也没有。\r\n",
+      "sourceLocation": "txt:chars:42418:42436"
+    },
+    {
+      "id": "180:p3",
+      "kind": "body",
+      "text": "至少你没有看到什么值得花心思去想的东西。\r\n",
+      "sourceLocation": "txt:chars:42436:42458"
+    },
+    {
+      "id": "180:p4",
+      "kind": "body",
+      "text": "你回到屋里。\r\n",
+      "sourceLocation": "txt:chars:42458:42466"
+    },
+    {
+      "id": "180:p5",
+      "kind": "body",
+      "text": "转到 181。\r\n",
+      "sourceLocation": "txt:chars:42466:42475"
+    }
+  ]
+}

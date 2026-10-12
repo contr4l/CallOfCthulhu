@@ -1,0 +1,42 @@
+{
+  "id": "264",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "264:p0",
+      "kind": "heading",
+      "text": "$t1 == '264'?\r\n`",
+      "sourceLocation": "txt:chars:59772:59788"
+    },
+    {
+      "id": "264:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:59788:59790"
+    },
+    {
+      "id": "264:p2",
+      "kind": "body",
+      "text": "陌生人身形不稳，你的位置更占上风。你冲上前去。\r\n",
+      "sourceLocation": "txt:chars:59790:59815"
+    },
+    {
+      "id": "264:p3",
+      "kind": "body",
+      "text": "进行一次格斗（斗殴）检定，增加一枚奖励骰；如果记录表上的 双手染红 已被勾选，增加一枚惩罚骰，抵消奖励骰。\r\n",
+      "sourceLocation": "txt:chars:59815:59870"
+    },
+    {
+      "id": "264:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 265。\r\n",
+      "sourceLocation": "txt:chars:59870:59886"
+    },
+    {
+      "id": "264:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 274。\r\n",
+      "sourceLocation": "txt:chars:59886:59902"
+    }
+  ]
+}

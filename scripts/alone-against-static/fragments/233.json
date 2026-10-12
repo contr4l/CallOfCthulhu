@@ -1,0 +1,78 @@
+{
+  "id": "233",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "233:p0",
+      "kind": "heading",
+      "text": "$t1 == '233'?\r\n`",
+      "sourceLocation": "txt:chars:54357:54373"
+    },
+    {
+      "id": "233:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:54373:54375"
+    },
+    {
+      "id": "233:p2",
+      "kind": "body",
+      "text": "“嘿！”你叫喊着，“站住！”\r\n",
+      "sourceLocation": "txt:chars:54375:54391"
+    },
+    {
+      "id": "233:p3",
+      "kind": "body",
+      "text": "他没有停下。\r\n",
+      "sourceLocation": "txt:chars:54391:54399"
+    },
+    {
+      "id": "233:p4",
+      "kind": "body",
+      "text": "“停下！”你更大声地喊着。\r\n",
+      "sourceLocation": "txt:chars:54399:54414"
+    },
+    {
+      "id": "233:p5",
+      "kind": "body",
+      "text": "他已经快到门口了。\r\n",
+      "sourceLocation": "txt:chars:54414:54425"
+    },
+    {
+      "id": "233:p6",
+      "kind": "body",
+      "text": "进行一次带有一个惩罚骰的敏捷检定。\r\n",
+      "sourceLocation": "txt:chars:54425:54444"
+    },
+    {
+      "id": "233:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 227。\r\n",
+      "sourceLocation": "txt:chars:54444:54460"
+    },
+    {
+      "id": "233:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 230。\r\n",
+      "sourceLocation": "txt:chars:54460:54476"
+    },
+    {
+      "id": "233:p9",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是摔倒在地：\r\n",
+      "sourceLocation": "txt:chars:54476:54513"
+    },
+    {
+      "id": "233:p10",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 227。\r\n",
+      "sourceLocation": "txt:chars:54513:54531"
+    },
+    {
+      "id": "233:p11",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 231。\r\n",
+      "sourceLocation": "txt:chars:54531:54549"
+    }
+  ]
+}

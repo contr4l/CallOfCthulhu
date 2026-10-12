@@ -1,0 +1,42 @@
+{
+  "id": "330",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "330:p0",
+      "kind": "heading",
+      "text": "$t1 == '330'?\r\n`",
+      "sourceLocation": "txt:chars:75346:75362"
+    },
+    {
+      "id": "330:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:75362:75364"
+    },
+    {
+      "id": "330:p2",
+      "kind": "body",
+      "text": "颤抖、蠕动、爬行。荒野环绕着你。肮脏的微生物在土壤中蠕动，可怕的怪物在阴影中潜伏。\r\n",
+      "sourceLocation": "txt:chars:75364:75407"
+    },
+    {
+      "id": "330:p3",
+      "kind": "body",
+      "text": "这里是寄生虫四通八达的巢穴。一群无懈可击的可怖虫族，渴望着钻进你的皮肤。你感觉皮肤下面已经有它们的存在……\r\n",
+      "sourceLocation": "txt:chars:75407:75462"
+    },
+    {
+      "id": "330:p4",
+      "kind": "body",
+      "text": "你不再信任自己的躯体。从现在开始，你进行的格斗（斗殴）检定都外加一个惩罚骰。\r\n",
+      "sourceLocation": "txt:chars:75462:75502"
+    },
+    {
+      "id": "330:p5",
+      "kind": "body",
+      "text": "回到你失去理智的条目。\r\n",
+      "sourceLocation": "txt:chars:75502:75515"
+    }
+  ]
+}

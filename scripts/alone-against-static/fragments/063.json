@@ -1,0 +1,42 @@
+{
+  "id": "63",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "63:p0",
+      "kind": "heading",
+      "text": "$t1 == '63'?\r\n`",
+      "sourceLocation": "txt:chars:17729:17744"
+    },
+    {
+      "id": "63:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:17744:17746"
+    },
+    {
+      "id": "63:p2",
+      "kind": "body",
+      "text": "锤子锈迹斑斑，皮革握把也摇摇欲坠。不过这也是一把沉甸甸的锤子，这就是关键了，不是吗？\r\n",
+      "sourceLocation": "txt:chars:17746:17790"
+    },
+    {
+      "id": "63:p3",
+      "kind": "body",
+      "text": "你把锤子拿走收好。\r\n",
+      "sourceLocation": "txt:chars:17790:17801"
+    },
+    {
+      "id": "63:p4",
+      "kind": "body",
+      "text": "在记录表上勾选 以备不时。\r\n",
+      "sourceLocation": "txt:chars:17801:17816"
+    },
+    {
+      "id": "63:p5",
+      "kind": "body",
+      "text": "回到 57。\r\n",
+      "sourceLocation": "txt:chars:17816:17824"
+    }
+  ]
+}

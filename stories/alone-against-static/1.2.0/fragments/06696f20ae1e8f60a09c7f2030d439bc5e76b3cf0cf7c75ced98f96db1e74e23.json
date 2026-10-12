@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "93"
+  ],
+  "text": [
+    "换了一身新衣服让你感觉神清气爽。",
+    "现在这个下午，除了继续等伴侣回来，你还能做些什么？希望他/她已经知道怎么修供电了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 93",
+      "textRef": "default"
+    }
+  }
+}

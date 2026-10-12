@@ -32,6 +32,7 @@ export function resolveCheck(
   character: Character,
   check: Check,
   dice: DiceSource = secureDice,
+  targetBonus = 0,
 ): CheckResult {
   const base =
     check.skill === "sanity"
@@ -41,7 +42,12 @@ export function resolveCheck(
         : (character.skills[check.skill] ??
           character.attributes?.[check.skill]);
   const adjustedBase = base * (check.multiplier ?? 1);
-  const target = targetFor(character, check);
+  const target = targetBonus
+    ? Math.min(99, targetFor(character, check) + targetBonus)
+    : targetFor(character, check);
+  const effectiveBase =
+    adjustedBase +
+    targetBonus * { regular: 1, hard: 2, extreme: 5 }[check.difficulty];
   const modifier = (check.bonusDice ?? 0) - (check.penaltyDice ?? 0);
   const unit = dice(0, 10);
   const candidates = Array.from({ length: Math.abs(modifier) + 1 }, () => {
@@ -55,11 +61,11 @@ export function resolveCheck(
       ? "critical"
       : roll === 100 || (adjustedBase < 50 && roll >= 96)
         ? "fumble"
-        : roll <= Math.floor(adjustedBase / 5)
+        : roll <= Math.floor(effectiveBase / 5)
           ? "extreme"
-          : roll <= Math.floor(adjustedBase / 2)
+          : roll <= Math.floor(effectiveBase / 2)
             ? "hard"
-            : roll <= adjustedBase
+            : roll <= effectiveBase
               ? "regular"
               : "failure";
   return {

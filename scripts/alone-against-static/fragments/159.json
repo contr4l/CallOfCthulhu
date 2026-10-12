@@ -1,0 +1,60 @@
+{
+  "id": "159",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "159:p0",
+      "kind": "heading",
+      "text": "$t1 == '159'?\r\n`",
+      "sourceLocation": "txt:chars:37540:37556"
+    },
+    {
+      "id": "159:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:37556:37558"
+    },
+    {
+      "id": "159:p2",
+      "kind": "body",
+      "text": "天色越来越暗。你只能看到周围全是山岩、石块和树木。气温也越来越低。你浑身打着冷颤，牙齿止不住地发抖。你不知道的肌肉收缩又舒张，尽力让你保持温暖。\r\n",
+      "sourceLocation": "txt:chars:37558:37632"
+    },
+    {
+      "id": "159:p3",
+      "kind": "body",
+      "text": "你在寒冷中寻找了许久，终于找到了林间的小路，顺着小路回到了小屋。\r\n",
+      "sourceLocation": "txt:chars:37632:37666"
+    },
+    {
+      "id": "159:p4",
+      "kind": "body",
+      "text": "回到小屋时天已黑透了。你急不可耐地进了屋。\r\n",
+      "sourceLocation": "txt:chars:37666:37689"
+    },
+    {
+      "id": "159:p5",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:37689:37714"
+    },
+    {
+      "id": "159:p6",
+      "kind": "body",
+      "text": "进行一次体质检定。如果记录表上的 着凉 已被勾选，为这次检定添加一枚惩罚骰；如果 实用派已被勾选，添加一枚奖励骰；如果上述两条都被勾选，不带调整地进行检定。如果检定失败，\r\n",
+      "sourceLocation": "txt:chars:37714:37801"
+    },
+    {
+      "id": "159:p7",
+      "kind": "body",
+      "text": "受到 1D4 点伤害。\r\n",
+      "sourceLocation": "txt:chars:37801:37814"
+    },
+    {
+      "id": "159:p8",
+      "kind": "body",
+      "text": "转到 170。\r\n",
+      "sourceLocation": "txt:chars:37814:37823"
+    }
+  ]
+}

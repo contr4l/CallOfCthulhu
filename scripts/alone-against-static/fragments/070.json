@@ -1,0 +1,42 @@
+{
+  "id": "70",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "70:p0",
+      "kind": "heading",
+      "text": "$t1 == '70'?\r\n`",
+      "sourceLocation": "txt:chars:18955:18970"
+    },
+    {
+      "id": "70:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:18970:18972"
+    },
+    {
+      "id": "70:p2",
+      "kind": "body",
+      "text": "笨重的手持录像机让你不寒而栗。你昨晚看的视频就是它拍摄的吗？\r\n",
+      "sourceLocation": "txt:chars:18972:19004"
+    },
+    {
+      "id": "70:p3",
+      "kind": "body",
+      "text": "这台录像机可能有四五年，但是老化很严重。它一定是从全新的时候就被丢在这里腐烂了。\r\n",
+      "sourceLocation": "txt:chars:19004:19046"
+    },
+    {
+      "id": "70:p4",
+      "kind": "body",
+      "text": "要按一按按钮，检查录像机是否还能工作，转到 71。\r\n",
+      "sourceLocation": "txt:chars:19046:19073"
+    },
+    {
+      "id": "70:p5",
+      "kind": "body",
+      "text": "要把录像机放到一边，回到 66。\r\n",
+      "sourceLocation": "txt:chars:19073:19091"
+    }
+  ]
+}

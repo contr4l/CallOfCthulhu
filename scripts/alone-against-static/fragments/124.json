@@ -1,0 +1,60 @@
+{
+  "id": "124",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "124:p0",
+      "kind": "heading",
+      "text": "$t1 == '124'?\r\n`",
+      "sourceLocation": "txt:chars:29100:29116"
+    },
+    {
+      "id": "124:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:29116:29118"
+    },
+    {
+      "id": "124:p2",
+      "kind": "body",
+      "text": "胡思乱想是没有意义的。你会来这里是有原因的。你爱亚历克斯，你希望这趟旅行有所收获。\r\n",
+      "sourceLocation": "txt:chars:29118:29161"
+    },
+    {
+      "id": "124:p3",
+      "kind": "body",
+      "text": "你可以一天到头猜测事情会怎样发展，但是瞎猜什么也改变不了。你能做的是尽量友善一点，表现出你的爱来。至于这样有没有用就不是你能左右的了。\r\n",
+      "sourceLocation": "txt:chars:29161:29230"
+    },
+    {
+      "id": "124:p4",
+      "kind": "body",
+      "text": "你走出浴室，试着微笑着开个玩笑。“呼……久等了。自打从皮尔出来我就一直憋着了。”\r\n",
+      "sourceLocation": "txt:chars:29230:29272"
+    },
+    {
+      "id": "124:p5",
+      "kind": "body",
+      "text": "亚历克斯哼了一声，但是你从她的脸上看出一丝笑意。她正在厨房里切着菜。你走过去尽量帮着干点活。过了一会儿，你们就一起坐在小桌边，一起吃着晚饭。亚历克斯的话很少。你不好说她在想什么。\r\n",
+      "sourceLocation": "txt:chars:29272:29363"
+    },
+    {
+      "id": "124:p6",
+      "kind": "body",
+      "text": "进行一次心理学检定来衡量亚历克斯的感受。\r\n",
+      "sourceLocation": "txt:chars:29363:29385"
+    },
+    {
+      "id": "124:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 127。\r\n",
+      "sourceLocation": "txt:chars:29385:29401"
+    },
+    {
+      "id": "124:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 129。\r\n",
+      "sourceLocation": "txt:chars:29401:29417"
+    }
+  ]
+}

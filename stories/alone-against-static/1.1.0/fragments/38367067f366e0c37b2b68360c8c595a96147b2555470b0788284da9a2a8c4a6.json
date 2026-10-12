@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "331"
+  ],
+  "text": [
+    "模糊的形状在你视野边缘蠕动。纤细、可怖的形状像幽灵一样飘移。它们是森林的生物，潜伏着，欢笑着，召唤着你。",
+    "你紧紧闭上眼睛。这不是真的。忽略它们。",
+    "你的眼睛在欺骗你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 331",
+      "textRef": "default"
+    }
+  }
+}

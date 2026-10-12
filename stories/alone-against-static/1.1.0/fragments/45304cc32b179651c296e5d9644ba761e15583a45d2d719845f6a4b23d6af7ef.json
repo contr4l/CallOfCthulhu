@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "290"
+  ],
+  "text": [
+    "你走进黑暗中。你脑中一个小小的声音尖叫着让你留在安全的小屋里。你做不到。不管外面哪里都比小屋好。你就像是被胶带捆着扔在四面墙里。",
+    "你朝前跑去，逃进夜色中。不久，你就在树林中迷失了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 290",
+      "textRef": "default"
+    }
+  }
+}

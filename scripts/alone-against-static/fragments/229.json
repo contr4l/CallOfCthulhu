@@ -1,0 +1,48 @@
+{
+  "id": "229",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "229:p0",
+      "kind": "heading",
+      "text": "$t1 == '229'?\r\n`",
+      "sourceLocation": "txt:chars:53713:53729"
+    },
+    {
+      "id": "229:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:53729:53731"
+    },
+    {
+      "id": "229:p2",
+      "kind": "body",
+      "text": "“这一定值得，”你恳求着，“求你，求你了，亚历克斯！这必须值得。”亚历克斯的脸仍然古井无波。然后，她摇了摇头。\r\n",
+      "sourceLocation": "txt:chars:53731:53788"
+    },
+    {
+      "id": "229:p3",
+      "kind": "body",
+      "text": "“我不相信你，查理，”她说，“但别担心，你也不用现在就相信我。最终你会相信的。让我展示给你。”\r\n",
+      "sourceLocation": "txt:chars:53788:53837"
+    },
+    {
+      "id": "229:p4",
+      "kind": "body",
+      "text": "她朝你靠上来。\r\n",
+      "sourceLocation": "txt:chars:53837:53846"
+    },
+    {
+      "id": "229:p5",
+      "kind": "body",
+      "text": "如果记录表上的 到来 已被勾选，一幅恐怖的画面闪过你的脑海，必须转到 250。\r\n",
+      "sourceLocation": "txt:chars:53846:53887"
+    },
+    {
+      "id": "229:p6",
+      "kind": "body",
+      "text": "转到 248。\r\n",
+      "sourceLocation": "txt:chars:53887:53896"
+    }
+  ]
+}

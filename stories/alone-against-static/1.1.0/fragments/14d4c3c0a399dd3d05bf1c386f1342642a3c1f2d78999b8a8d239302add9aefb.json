@@ -1,0 +1,22 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "132"
+  ],
+  "text": [
+    "“你怎么知道马克和茱莉的？”",
+    "“我见过他们。”",
+    "“什么？”",
+    "“有时候，我在这里见过他们。”",
+    "“你是他们的朋友吗？”你问道。他只是空洞地盯着你。“先生？”",
+    "“他们在这里吗？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 132",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "68",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "68:p0",
+      "kind": "heading",
+      "text": "$t1 == '68'?\r\n`",
+      "sourceLocation": "txt:chars:18683:18698"
+    },
+    {
+      "id": "68:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:18698:18700"
+    },
+    {
+      "id": "68:p2",
+      "kind": "body",
+      "text": "你拿起其中一个罐子。每个罐子里都装着粘稠的黑色物质，散发着强烈的尿骚味。\r\n",
+      "sourceLocation": "txt:chars:18700:18738"
+    },
+    {
+      "id": "68:p3",
+      "kind": "body",
+      "text": "你放下罐子，真恶心。\r\n",
+      "sourceLocation": "txt:chars:18738:18750"
+    },
+    {
+      "id": "68:p4",
+      "kind": "body",
+      "text": "回到 66。\r\n",
+      "sourceLocation": "txt:chars:18750:18758"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "223"
+  ],
+  "text": [
+    "你从电视前转身离开，走到床边坐下，眼神躲闪着电视机。你能听到它在轻声嗡鸣着。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 223",
+      "textRef": "default"
+    }
+  }
+}

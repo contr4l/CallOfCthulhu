@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "144"
+  ],
+  "text": [
+    "你放低身子，小心地迈步，躲着树枝和木棍，避免在跟踪时发出声音。男人离你更远了些，但是还在视线范围里。",
+    "过了几分钟，他犹豫了一下。你蹲得更低。陌生人转过头看了看，从林间小路上转进了树林当中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 144",
+      "textRef": "default"
+    }
+  }
+}

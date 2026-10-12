@@ -1,0 +1,54 @@
+{
+  "id": "55",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "55:p0",
+      "kind": "heading",
+      "text": "$t1 == '55'?\r\n`",
+      "sourceLocation": "txt:chars:16026:16041"
+    },
+    {
+      "id": "55:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:16041:16043"
+    },
+    {
+      "id": "55:p2",
+      "kind": "body",
+      "text": "你回到小路上，继续往前走，深入黑山峰的密林深处。\r\n",
+      "sourceLocation": "txt:chars:16043:16069"
+    },
+    {
+      "id": "55:p3",
+      "kind": "body",
+      "text": "这段健走让人心旷神怡。阳光从松枝间漏出，在晨间的清爽空气中投下斑驳的光影。\r\n",
+      "sourceLocation": "txt:chars:16069:16108"
+    },
+    {
+      "id": "55:p4",
+      "kind": "body",
+      "text": "过了大约半个小时，你感觉人有三急，便走到一棵树后面去方便。\r\n",
+      "sourceLocation": "txt:chars:16108:16139"
+    },
+    {
+      "id": "55:p5",
+      "kind": "body",
+      "text": "完事之后，你正整理衣服，突然抬头看见了什么。在你面前，小路边上的一个狭谷中，有一座破旧的木头棚屋。\r\n",
+      "sourceLocation": "txt:chars:16139:16190"
+    },
+    {
+      "id": "55:p6",
+      "kind": "body",
+      "text": "要调查棚屋，转到 56。\r\n",
+      "sourceLocation": "txt:chars:16190:16204"
+    },
+    {
+      "id": "55:p7",
+      "kind": "body",
+      "text": "要无视棚屋，转到 79。\r\n",
+      "sourceLocation": "txt:chars:16204:16218"
+    }
+  ]
+}

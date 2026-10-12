@@ -1,0 +1,42 @@
+{
+  "id": "135",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "135:p0",
+      "kind": "heading",
+      "text": "$t1 == '135'?\r\n`",
+      "sourceLocation": "txt:chars:32273:32289"
+    },
+    {
+      "id": "135:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:32289:32291"
+    },
+    {
+      "id": "135:p2",
+      "kind": "body",
+      "text": "你也朝着亚历克斯笑了，说：“我也爱你。”你们安静地停了一会儿，享受着甜蜜的氛围。然后，你到磁带机那里准备放片。不久，你们就在床上躺好看着电视机。影片暂停在开头，已经准备好播放了。\r\n",
+      "sourceLocation": "txt:chars:32291:32382"
+    },
+    {
+      "id": "135:p3",
+      "kind": "body",
+      "text": "“开始吗？”你问亚历克斯。她点了点头。\r\n",
+      "sourceLocation": "txt:chars:32382:32403"
+    },
+    {
+      "id": "135:p4",
+      "kind": "body",
+      "text": "“灯光、录像、开拍！”\r\n",
+      "sourceLocation": "txt:chars:32403:32416"
+    },
+    {
+      "id": "135:p5",
+      "kind": "body",
+      "text": "转到 145。\r\n",
+      "sourceLocation": "txt:chars:32416:32425"
+    }
+  ]
+}

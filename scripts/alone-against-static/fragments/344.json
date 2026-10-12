@@ -1,0 +1,72 @@
+{
+  "id": "344",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "344:p0",
+      "kind": "heading",
+      "text": "$t1 == '344'?\r\n`",
+      "sourceLocation": "txt:chars:78371:78387"
+    },
+    {
+      "id": "344:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:78387:78389"
+    },
+    {
+      "id": "344:p2",
+      "kind": "body",
+      "text": "“真的吗？”查理问道。\r\n",
+      "sourceLocation": "txt:chars:78389:78402"
+    },
+    {
+      "id": "344:p3",
+      "kind": "body",
+      "text": "你抬起头，泪水在你眼眶里聚集。“什么？”\r\n",
+      "sourceLocation": "txt:chars:78402:78424"
+    },
+    {
+      "id": "344:p4",
+      "kind": "body",
+      "text": "“我想你并没有担心。我想你也不在乎。”查理的声音平淡空洞，嘴唇弯成一个浅浅的冷笑。他的表情很不自然。\r\n",
+      "sourceLocation": "txt:chars:78424:78476"
+    },
+    {
+      "id": "344:p5",
+      "kind": "body",
+      "text": "“查理，你在说什么呀？”\r\n",
+      "sourceLocation": "txt:chars:78476:78490"
+    },
+    {
+      "id": "344:p6",
+      "kind": "body",
+      "text": "“你自己都不觉得来到这里能有任何作用。你已经放弃了。”\r\n",
+      "sourceLocation": "txt:chars:78490:78519"
+    },
+    {
+      "id": "344:p7",
+      "kind": "body",
+      "text": "“不是这样！”你哭喊着。在你内心深处，你知道，就是这样。查理没有回答你，而是一只手指着周围的空地。\r\n",
+      "sourceLocation": "txt:chars:78519:78570"
+    },
+    {
+      "id": "344:p8",
+      "kind": "body",
+      "text": "“你觉得我们之间还剩什么呢，亚历克斯？这一切真的值得吗？”\r\n",
+      "sourceLocation": "txt:chars:78570:78601"
+    },
+    {
+      "id": "344:p9",
+      "kind": "body",
+      "text": "要迟疑，转到 348。\r\n",
+      "sourceLocation": "txt:chars:78601:78614"
+    },
+    {
+      "id": "344:p10",
+      "kind": "body",
+      "text": "要恳求一切都值得，转到 345。\r\n",
+      "sourceLocation": "txt:chars:78614:78632"
+    }
+  ]
+}

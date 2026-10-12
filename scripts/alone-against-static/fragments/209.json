@@ -1,0 +1,54 @@
+{
+  "id": "209",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "209:p0",
+      "kind": "heading",
+      "text": "$t1 == '209'?\r\n`",
+      "sourceLocation": "txt:chars:49271:49287"
+    },
+    {
+      "id": "209:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:49287:49289"
+    },
+    {
+      "id": "209:p2",
+      "kind": "body",
+      "text": "你觉得这样放着就会好的，便无视了错乱的轨道。\r\n",
+      "sourceLocation": "txt:chars:49289:49313"
+    },
+    {
+      "id": "209:p3",
+      "kind": "body",
+      "text": "雪花从屏幕上褪去，显示出森林里的一片空地。有人正在调整摄像机，大概是在把它装在三脚架上。\r\n",
+      "sourceLocation": "txt:chars:49313:49359"
+    },
+    {
+      "id": "209:p4",
+      "kind": "body",
+      "text": "人影终于进入画面。这是一个看起来很普通的男人，穿着荧光色的狩猎夹克，带着毛线帽。\r\n",
+      "sourceLocation": "txt:chars:49359:49401"
+    },
+    {
+      "id": "209:p5",
+      "kind": "body",
+      "text": "他后退几步看着摄像机，笑了一下，转身对着空地。他已经生起一簇篝火，支起一顶双人帐篷。他满意地点了点头，在火堆旁蹲下，一边看着相机，一边把木棍掰断扔进火里。他的嘴唇在动。\r\n",
+      "sourceLocation": "txt:chars:49401:49487"
+    },
+    {
+      "id": "209:p6",
+      "kind": "body",
+      "text": "要调高音量，听这人在说什么，转到 210。\r\n",
+      "sourceLocation": "txt:chars:49487:49510"
+    },
+    {
+      "id": "209:p7",
+      "kind": "body",
+      "text": "要就这样静音播放，转到 217。\r\n",
+      "sourceLocation": "txt:chars:49510:49528"
+    }
+  ]
+}

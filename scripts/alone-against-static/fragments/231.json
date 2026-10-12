@@ -1,0 +1,54 @@
+{
+  "id": "231",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "231:p0",
+      "kind": "heading",
+      "text": "$t1 == '231'?\r\n`",
+      "sourceLocation": "txt:chars:54028:54044"
+    },
+    {
+      "id": "231:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:54044:54046"
+    },
+    {
+      "id": "231:p2",
+      "kind": "body",
+      "text": "你想要进屋去关上门，但是你晚了一步。\r\n",
+      "sourceLocation": "txt:chars:54046:54066"
+    },
+    {
+      "id": "231:p3",
+      "kind": "body",
+      "text": "男人撞在门上，冲击力直接把你掀翻在地。你撞在地上，天旋地转。\r\n",
+      "sourceLocation": "txt:chars:54066:54098"
+    },
+    {
+      "id": "231:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:54098:54123"
+    },
+    {
+      "id": "231:p5",
+      "kind": "body",
+      "text": "受到 1 点伤害，进行一次幸运检定。\r\n",
+      "sourceLocation": "txt:chars:54123:54143"
+    },
+    {
+      "id": "231:p6",
+      "kind": "body",
+      "text": "如果检定成功，转到 326。\r\n",
+      "sourceLocation": "txt:chars:54143:54159"
+    },
+    {
+      "id": "231:p7",
+      "kind": "body",
+      "text": "如果检定失败，转到 232。\r\n",
+      "sourceLocation": "txt:chars:54159:54175"
+    }
+  ]
+}

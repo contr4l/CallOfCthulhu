@@ -1,0 +1,48 @@
+{
+  "id": "41",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "41:p0",
+      "kind": "heading",
+      "text": "$t1 == '41'?\r\n`",
+      "sourceLocation": "txt:chars:13193:13208"
+    },
+    {
+      "id": "41:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:13208:13210"
+    },
+    {
+      "id": "41:p2",
+      "kind": "body",
+      "text": "你在小屋前徘徊踱步。你看着表，几分钟过去了，还是没有伴侣的影子。只有太阳越来越高，万物在阳光下逐渐暖和起来。\r\n",
+      "sourceLocation": "txt:chars:13210:13266"
+    },
+    {
+      "id": "41:p3",
+      "kind": "body",
+      "text": "你在一堆劈好的木柴旁边的一把塑料椅子上坐了一会儿。\r\n",
+      "sourceLocation": "txt:chars:13266:13293"
+    },
+    {
+      "id": "41:p4",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:13293:13304"
+    },
+    {
+      "id": "41:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 42。\r\n",
+      "sourceLocation": "txt:chars:13304:13319"
+    },
+    {
+      "id": "41:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 43。\r\n",
+      "sourceLocation": "txt:chars:13319:13334"
+    }
+  ]
+}

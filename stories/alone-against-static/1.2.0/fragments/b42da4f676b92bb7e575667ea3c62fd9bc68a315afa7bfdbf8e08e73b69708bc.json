@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "180"
+  ],
+  "text": [
+    "不悦。寒冷。除此以外什么也没有。",
+    "至少你没有看到什么值得花心思去想的东西。",
+    "你回到屋里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 180",
+      "textRef": "default"
+    }
+  }
+}

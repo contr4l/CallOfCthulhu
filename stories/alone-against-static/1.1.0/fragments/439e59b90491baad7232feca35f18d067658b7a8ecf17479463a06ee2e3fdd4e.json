@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "260"
+  ],
+  "text": [
+    "你朝着陌生人出手。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 260",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "219",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "219:p0",
+      "kind": "heading",
+      "text": "$t1 == '219'?\r\n`",
+      "sourceLocation": "txt:chars:51711:51727"
+    },
+    {
+      "id": "219:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:51727:51729"
+    },
+    {
+      "id": "219:p2",
+      "kind": "body",
+      "text": "男人笑着举起从帐篷里拿出的那个文件夹。他把文件夹放在腿上你看不到的地方，向下看着。\r\n",
+      "sourceLocation": "txt:chars:51729:51772"
+    },
+    {
+      "id": "219:p3",
+      "kind": "body",
+      "text": "他说着什么。\r\n",
+      "sourceLocation": "txt:chars:51772:51780"
+    },
+    {
+      "id": "219:p4",
+      "kind": "body",
+      "text": "他朝镜头自豪地笑着，朝身后的空地打着手势。他显得欣喜若狂，低头看着纸张，大声读着。\r\n",
+      "sourceLocation": "txt:chars:51780:51823"
+    },
+    {
+      "id": "219:p5",
+      "kind": "body",
+      "text": "过了半分钟，他停下来兴奋地指着文件上的一行。然后继续读着。\r\n",
+      "sourceLocation": "txt:chars:51823:51854"
+    },
+    {
+      "id": "219:p6",
+      "kind": "body",
+      "text": "他又停了下来，往镜头里看着。\r\n",
+      "sourceLocation": "txt:chars:51854:51870"
+    },
+    {
+      "id": "219:p7",
+      "kind": "body",
+      "text": "他靠近镜头，画面里只有他的眼睛和周围的脓疱。\r\n",
+      "sourceLocation": "txt:chars:51870:51894"
+    },
+    {
+      "id": "219:p8",
+      "kind": "body",
+      "text": "声音从扬声器传出，像是洪水冲破堤坝。男人的声音低沉而沙哑，伴着雪花声。“查理？亚历克斯？你们要回家了吗？”\r\n",
+      "sourceLocation": "txt:chars:51894:51949"
+    },
+    {
+      "id": "219:p9",
+      "kind": "body",
+      "text": "画面破碎，变成纷飞但无声的雪花。一秒钟后，屏幕变黑，磁带自己弹了出来。\r\n",
+      "sourceLocation": "txt:chars:51949:51986"
+    },
+    {
+      "id": "219:p10",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:51986:51997"
+    },
+    {
+      "id": "219:p11",
+      "kind": "body",
+      "text": "如果检定成功，转到 220。\r\n",
+      "sourceLocation": "txt:chars:51997:52013"
+    },
+    {
+      "id": "219:p12",
+      "kind": "body",
+      "text": "如果检定失败，转到 221。\r\n",
+      "sourceLocation": "txt:chars:52013:52029"
+    }
+  ]
+}

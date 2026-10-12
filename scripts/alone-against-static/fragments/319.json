@@ -1,0 +1,54 @@
+{
+  "id": "319",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "319:p0",
+      "kind": "heading",
+      "text": "$t1 == '319'?\r\n`",
+      "sourceLocation": "txt:chars:72800:72816"
+    },
+    {
+      "id": "319:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:72816:72818"
+    },
+    {
+      "id": "319:p2",
+      "kind": "body",
+      "text": "一个甜腻的声音在你耳中低语。它告诉你放松下来，抵抗是没有意义的。不再有意义了。为了来到这里，你拼了老命反抗。现在，该放弃了。你赢得了自己的安息。\r\n",
+      "sourceLocation": "txt:chars:72818:72892"
+    },
+    {
+      "id": "319:p3",
+      "kind": "body",
+      "text": "这个声音多么温柔，你不由得想相信它。但你理智尚存，知道它在说谎，在操弄你的想法。它所说的不是你的想法，也不是你的愿望。这声音来自别处，来自黑暗中，来自雪花噪点中。你必须抵抗它。\r\n",
+      "sourceLocation": "txt:chars:72892:72982"
+    },
+    {
+      "id": "319:p4",
+      "kind": "body",
+      "text": "你奋力一挣，甩开了缠住你手臂的触手，转身逃去。你没时间停下来细想，只是拼了命往森林深处跑。你克制着大喊大叫求人帮忙的冲动，因为你知道没人会来帮你。在你面前，月光勉强照出一条扭曲的小路，两边都是锋利的岩石和险恶的树根。你尽量躲避着障碍。\r\n",
+      "sourceLocation": "txt:chars:72982:73101"
+    },
+    {
+      "id": "319:p5",
+      "kind": "body",
+      "text": "进行一次敏捷检定。\r\n",
+      "sourceLocation": "txt:chars:73101:73112"
+    },
+    {
+      "id": "319:p6",
+      "kind": "body",
+      "text": "如果检定成功，转到 313。\r\n",
+      "sourceLocation": "txt:chars:73112:73128"
+    },
+    {
+      "id": "319:p7",
+      "kind": "body",
+      "text": "如果检定失败，转到 312。\r\n",
+      "sourceLocation": "txt:chars:73128:73144"
+    }
+  ]
+}

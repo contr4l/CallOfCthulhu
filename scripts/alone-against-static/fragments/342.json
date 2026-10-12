@@ -1,0 +1,42 @@
+{
+  "id": "342",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "342:p0",
+      "kind": "heading",
+      "text": "$t1 == '342'?\r\n`",
+      "sourceLocation": "txt:chars:78140:78156"
+    },
+    {
+      "id": "342:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:78156:78158"
+    },
+    {
+      "id": "342:p2",
+      "kind": "body",
+      "text": "你转过身，在空地边缘的树木前站着查理。他的衣服上飞溅着泥土，头发里缠着断枝。但他在这里，他活得好好的，他在冲着你笑。\r\n",
+      "sourceLocation": "txt:chars:78158:78218"
+    },
+    {
+      "id": "342:p3",
+      "kind": "body",
+      "text": "“宝贝，”他说，“没事了。”\r\n",
+      "sourceLocation": "txt:chars:78218:78234"
+    },
+    {
+      "id": "342:p4",
+      "kind": "body",
+      "text": "要张开双臂跑向查理，转到 343。\r\n",
+      "sourceLocation": "txt:chars:78234:78253"
+    },
+    {
+      "id": "342:p5",
+      "kind": "body",
+      "text": "要迟疑，转到 351。\r\n",
+      "sourceLocation": "txt:chars:78253:78266"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "110"
+  ],
+  "text": [
+    "你听到脚步踩在碎石车道的声音从屋外传来，但并没有听到汽车接近的声音。你坐起身，然后紧张的站起，溜到窗边。",
+    "一个秃头的中年男人站在前门外。他穿着一件很厚的冬大衣，双手插在兜里。你不认识他。",
+    "他举起手，敲了敲门。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 110",
+      "textRef": "default"
+    }
+  }
+}

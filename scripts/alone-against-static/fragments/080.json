@@ -1,0 +1,42 @@
+{
+  "id": "80",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "80:p0",
+      "kind": "heading",
+      "text": "$t1 == '80'?\r\n`",
+      "sourceLocation": "txt:chars:20506:20521"
+    },
+    {
+      "id": "80:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:20521:20523"
+    },
+    {
+      "id": "80:p2",
+      "kind": "body",
+      "text": "里面漆黑一片。伸手不见五指的黑。如果伴侣在这，你知道他/她一定会取笑你怕黑。那又怎么样？怕黑有什么问题？你确实有时候会被黑暗吓到……嗯，这个小棚子确实很……黑。所以你不想进去。这有什么不好的？\r\n",
+      "sourceLocation": "txt:chars:20523:20621"
+    },
+    {
+      "id": "80:p3",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:20621:20632"
+    },
+    {
+      "id": "80:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 82。\r\n",
+      "sourceLocation": "txt:chars:20632:20647"
+    },
+    {
+      "id": "80:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 81。\r\n",
+      "sourceLocation": "txt:chars:20647:20662"
+    }
+  ]
+}

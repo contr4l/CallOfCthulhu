@@ -1,0 +1,42 @@
+{
+  "id": "331",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "331:p0",
+      "kind": "heading",
+      "text": "$t1 == '331'?\r\n`",
+      "sourceLocation": "txt:chars:75521:75537"
+    },
+    {
+      "id": "331:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:75537:75539"
+    },
+    {
+      "id": "331:p2",
+      "kind": "body",
+      "text": "模糊的形状在你视野边缘蠕动。纤细、可怖的形状像幽灵一样飘移。它们是森林的生物，潜伏着，欢笑着，召唤着你。\r\n",
+      "sourceLocation": "txt:chars:75539:75593"
+    },
+    {
+      "id": "331:p3",
+      "kind": "body",
+      "text": "你紧紧闭上眼睛。这不是真的。忽略它们。\r\n",
+      "sourceLocation": "txt:chars:75593:75614"
+    },
+    {
+      "id": "331:p4",
+      "kind": "body",
+      "text": "你的眼睛在欺骗你。从现在开始，你进行的侦查检定都外加一个惩罚骰。\r\n",
+      "sourceLocation": "txt:chars:75614:75648"
+    },
+    {
+      "id": "331:p5",
+      "kind": "body",
+      "text": "回到你失去理智的条目。\r\n",
+      "sourceLocation": "txt:chars:75648:75661"
+    }
+  ]
+}

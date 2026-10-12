@@ -1,0 +1,60 @@
+{
+  "id": "258",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "258:p0",
+      "kind": "heading",
+      "text": "$t1 == '258'?\r\n`",
+      "sourceLocation": "txt:chars:58936:58952"
+    },
+    {
+      "id": "258:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:58952:58954"
+    },
+    {
+      "id": "258:p2",
+      "kind": "body",
+      "text": "你惊醒了。\r\n",
+      "sourceLocation": "txt:chars:58954:58961"
+    },
+    {
+      "id": "258:p3",
+      "kind": "body",
+      "text": "你不知道睡了多久，但是周围寒冷刺骨。\r\n",
+      "sourceLocation": "txt:chars:58961:58981"
+    },
+    {
+      "id": "258:p4",
+      "kind": "body",
+      "text": "你坐起身。即使是在黑暗中，你也看到屋门大开着。你一定是没有上锁。你从床头拿起手电筒。抬腿下床。你用手电筒照着到门口的路。\r\n",
+      "sourceLocation": "txt:chars:58981:59043"
+    },
+    {
+      "id": "258:p5",
+      "kind": "body",
+      "text": "灯光照在厨房里的一个男人身上。他形容枯槁，粗重地呼吸着，双眼圆睁。你大吃一惊，差点掉落了手电筒。\r\n",
+      "sourceLocation": "txt:chars:59043:59093"
+    },
+    {
+      "id": "258:p6",
+      "kind": "body",
+      "text": "“什么？”你倒吸一口气，又惧又怒。\r\n",
+      "sourceLocation": "txt:chars:59093:59112"
+    },
+    {
+      "id": "258:p7",
+      "kind": "body",
+      "text": "男人没有回答。他全力尖叫着向你扑来。\r\n",
+      "sourceLocation": "txt:chars:59112:59132"
+    },
+    {
+      "id": "258:p8",
+      "kind": "body",
+      "text": "转到 259。\r\n",
+      "sourceLocation": "txt:chars:59132:59141"
+    }
+  ]
+}

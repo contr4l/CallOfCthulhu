@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "345"
+  ],
+  "text": [
+    "你不能让查理把一切抛到脑后。你试着恳求他。",
+    "“值得。我们还有彼此。求你了，查理！”泪水从你脸上滑落。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 345",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "242",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "242:p0",
+      "kind": "heading",
+      "text": "$t1 == '242'?\r\n`",
+      "sourceLocation": "txt:chars:56176:56192"
+    },
+    {
+      "id": "242:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:56192:56194"
+    },
+    {
+      "id": "242:p2",
+      "kind": "body",
+      "text": "亚历克斯也抱上你。“我知道的。不用怕，现在一切都会好了。我们在一起了。”她的手抚摸着你的后脑勺。你轻轻推开她，现在没时间做这个。\r\n",
+      "sourceLocation": "txt:chars:56194:56260"
+    },
+    {
+      "id": "242:p3",
+      "kind": "body",
+      "text": "“亚历克斯，车在哪？我们得离开这，现在就走！”亚历克斯悲伤地看着你，摇了摇头。\r\n",
+      "sourceLocation": "txt:chars:56260:56301"
+    },
+    {
+      "id": "242:p4",
+      "kind": "body",
+      "text": "“不，宝贝，我们不能走。我们必须留在这。”亚历克斯说话的方式不对。离得这样近，你注意到眼前人的许多细节与你知道的人不同。这不是亚历克斯。\r\n",
+      "sourceLocation": "txt:chars:56301:56371"
+    },
+    {
+      "id": "242:p5",
+      "kind": "body",
+      "text": "“我知道你很不安，”亚历克斯说，“我会解释这一切的，但是我想这也没什么意义。”她张开双臂，“我会直接展示给你看。”\r\n",
+      "sourceLocation": "txt:chars:56371:56430"
+    },
+    {
+      "id": "242:p6",
+      "kind": "body",
+      "text": "如果记录表上的 到来 已被勾选，一幅恐怖的画面闪过你的脑海，转到 250。\r\n",
+      "sourceLocation": "txt:chars:56430:56469"
+    },
+    {
+      "id": "242:p7",
+      "kind": "body",
+      "text": "转到 248。\r\n",
+      "sourceLocation": "txt:chars:56469:56478"
+    }
+  ]
+}

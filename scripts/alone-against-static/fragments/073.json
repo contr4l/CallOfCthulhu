@@ -1,0 +1,48 @@
+{
+  "id": "73",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "73:p0",
+      "kind": "heading",
+      "text": "$t1 == '73'?\r\n`",
+      "sourceLocation": "txt:chars:19448:19463"
+    },
+    {
+      "id": "73:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:19463:19465"
+    },
+    {
+      "id": "73:p2",
+      "kind": "body",
+      "text": "你用微型螺丝刀折腾了一会儿。在做了些无用功后，你听到咔哒一声。好哇！退带按钮弹回原位。你把它按下。随着一阵机械动作，录像机吐出了这盘磁带。\r\n",
+      "sourceLocation": "txt:chars:19465:19536"
+    },
+    {
+      "id": "73:p3",
+      "kind": "body",
+      "text": "你取出磁带。在磁带侧面用黑色记号笔写着《小屋中的伴侣》。\r\n",
+      "sourceLocation": "txt:chars:19536:19566"
+    },
+    {
+      "id": "73:p4",
+      "kind": "body",
+      "text": "你感到一阵恶心，但是好奇心占了上风。你取走了磁带。\r\n",
+      "sourceLocation": "txt:chars:19566:19593"
+    },
+    {
+      "id": "73:p5",
+      "kind": "body",
+      "text": "在记录表上勾选 小屋中的伴侣。\r\n",
+      "sourceLocation": "txt:chars:19593:19610"
+    },
+    {
+      "id": "73:p6",
+      "kind": "body",
+      "text": "回到 66。\r\n",
+      "sourceLocation": "txt:chars:19610:19618"
+    }
+  ]
+}

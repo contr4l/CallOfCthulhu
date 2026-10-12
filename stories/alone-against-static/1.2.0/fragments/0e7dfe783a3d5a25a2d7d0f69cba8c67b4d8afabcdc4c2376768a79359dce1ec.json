@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "355"
+  ],
+  "text": [
+    "不管那是什么，一定不是你的伴侣。你猜想它已经杀害了你的伴侣。即使你无法活下来，你也不愿让着怪物安然无恙地离开。趁着恐怖的变异还在进行，你冲上前去，疯狂地用全力打去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 355",
+      "textRef": "default"
+    }
+  }
+}

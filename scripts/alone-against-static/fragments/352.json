@@ -1,0 +1,54 @@
+{
+  "id": "352",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "352:p0",
+      "kind": "heading",
+      "text": "$t1 == '352'?\r\n`",
+      "sourceLocation": "txt:chars:80228:80244"
+    },
+    {
+      "id": "352:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:80244:80246"
+    },
+    {
+      "id": "352:p2",
+      "kind": "body",
+      "text": "查理也抱上你。“我知道的。不用怕，现在一切都会好了。我们在一起了。”他的手抚摸着你的后脑勺。你轻轻推开他，现在没时间做这个。\r\n",
+      "sourceLocation": "txt:chars:80246:80310"
+    },
+    {
+      "id": "352:p3",
+      "kind": "body",
+      "text": "“查理，车在哪？我们得离开这，现在就走！”查理悲伤地看着你，摇了摇头。\r\n",
+      "sourceLocation": "txt:chars:80310:80347"
+    },
+    {
+      "id": "352:p4",
+      "kind": "body",
+      "text": "“不，宝贝，我们不能走。我们必须留在这。”查理说话的方式不对。离得这样近，你注意到眼前人的许多细节与你知道的人不同。这不是查理。\r\n",
+      "sourceLocation": "txt:chars:80347:80413"
+    },
+    {
+      "id": "352:p5",
+      "kind": "body",
+      "text": "“我知道你很不安，”查理说，“我会解释这一切的，但是我想这也没什么意义。”他张开双臂，“我会直接展示给你看。”\r\n",
+      "sourceLocation": "txt:chars:80413:80470"
+    },
+    {
+      "id": "352:p6",
+      "kind": "body",
+      "text": "如果记录表上的 到来 已被勾选，一幅恐怖的画面闪过你的脑海，转到 347。\r\n",
+      "sourceLocation": "txt:chars:80470:80509"
+    },
+    {
+      "id": "352:p7",
+      "kind": "body",
+      "text": "转到 348。\r\n",
+      "sourceLocation": "txt:chars:80509:80518"
+    }
+  ]
+}

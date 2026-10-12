@@ -1,0 +1,48 @@
+{
+  "id": "203",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "203:p0",
+      "kind": "heading",
+      "text": "$t1 == '203'?\r\n`",
+      "sourceLocation": "txt:chars:47755:47771"
+    },
+    {
+      "id": "203:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:47771:47773"
+    },
+    {
+      "id": "203:p2",
+      "kind": "body",
+      "text": "你重新看了一遍录像带。毫无收获。你倒带又看了一遍。还是毫无收获。你继续看着，习惯了倒带的嗖嗖声，你看了第五遍、第六遍、第七遍、第八遍……\r\n",
+      "sourceLocation": "txt:chars:47773:47843"
+    },
+    {
+      "id": "203:p3",
+      "kind": "body",
+      "text": "那里什么都没有。除了问题、困惑和说不通的细节。你用手抱着头。太多了。\r\n",
+      "sourceLocation": "txt:chars:47843:47879"
+    },
+    {
+      "id": "203:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:47879:47904"
+    },
+    {
+      "id": "203:p5",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:47904:47917"
+    },
+    {
+      "id": "203:p6",
+      "kind": "body",
+      "text": "转到 289。\r\n",
+      "sourceLocation": "txt:chars:47917:47926"
+    }
+  ]
+}

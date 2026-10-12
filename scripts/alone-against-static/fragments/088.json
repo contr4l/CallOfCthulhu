@@ -1,0 +1,36 @@
+{
+  "id": "88",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "88:p0",
+      "kind": "heading",
+      "text": "$t1 == '88'?\r\n`",
+      "sourceLocation": "txt:chars:22236:22251"
+    },
+    {
+      "id": "88:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:22251:22253"
+    },
+    {
+      "id": "88:p2",
+      "kind": "body",
+      "text": "尽你仍然因为冲澡微微发热，你还是不由得打了个冷颤。你把焦虑压到一边。这门可能只是自己开了，小屋里的一切都有点不好用。\r\n",
+      "sourceLocation": "txt:chars:22253:22313"
+    },
+    {
+      "id": "88:p3",
+      "kind": "body",
+      "text": "该穿衣服了。\r\n",
+      "sourceLocation": "txt:chars:22313:22321"
+    },
+    {
+      "id": "88:p4",
+      "kind": "body",
+      "text": "转到 91。\r\n",
+      "sourceLocation": "txt:chars:22321:22329"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "98",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "98:p0",
+      "kind": "heading",
+      "text": "$t1 == '98'?\r\n`",
+      "sourceLocation": "txt:chars:24069:24084"
+    },
+    {
+      "id": "98:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:24084:24086"
+    },
+    {
+      "id": "98:p2",
+      "kind": "body",
+      "text": "在水槽下的柜子里，你找到一个塑料小盒子，里面放着一支迷你手电筒。你点亮手电。光线弱弱地从手电中射出。电池可能已经快用完了。\r\n",
+      "sourceLocation": "txt:chars:24086:24149"
+    },
+    {
+      "id": "98:p3",
+      "kind": "body",
+      "text": "你在食品柜、浴室和床头柜里翻找着备用电池，却在哪里都没有找到。最终，你不得不放弃。\r\n",
+      "sourceLocation": "txt:chars:24149:24192"
+    },
+    {
+      "id": "98:p4",
+      "kind": "body",
+      "text": "在记录表上勾选 勉强支撑。\r\n",
+      "sourceLocation": "txt:chars:24192:24207"
+    },
+    {
+      "id": "98:p5",
+      "kind": "body",
+      "text": "如果记录表上的 吃饱 已被勾选，你感到无聊，必须转到 108。\r\n",
+      "sourceLocation": "txt:chars:24207:24240"
+    },
+    {
+      "id": "98:p6",
+      "kind": "body",
+      "text": "要做点饭吃，转到 94。\r\n",
+      "sourceLocation": "txt:chars:24240:24254"
+    }
+  ]
+}

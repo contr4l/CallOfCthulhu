@@ -1,0 +1,36 @@
+{
+  "id": "279",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "279:p0",
+      "kind": "heading",
+      "text": "$t1 == '279'?\r\n`",
+      "sourceLocation": "txt:chars:63616:63632"
+    },
+    {
+      "id": "279:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:63632:63634"
+    },
+    {
+      "id": "279:p2",
+      "kind": "body",
+      "text": "你冲过空地，把自己挂在亚历克斯身上。“天哪！我担心死了！”你紧紧地抱住她。\r\n",
+      "sourceLocation": "txt:chars:63634:63673"
+    },
+    {
+      "id": "279:p3",
+      "kind": "body",
+      "text": "如果记录表上的 心碎 已被勾选，你的话语空洞无物，必须转到 281。\r\n",
+      "sourceLocation": "txt:chars:63673:63709"
+    },
+    {
+      "id": "279:p4",
+      "kind": "body",
+      "text": "转到 242。\r\n",
+      "sourceLocation": "txt:chars:63709:63718"
+    }
+  ]
+}

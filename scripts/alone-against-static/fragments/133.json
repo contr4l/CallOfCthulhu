@@ -1,0 +1,78 @@
+{
+  "id": "133",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "133:p0",
+      "kind": "heading",
+      "text": "$t1 == '133'?\r\n`",
+      "sourceLocation": "txt:chars:31680:31696"
+    },
+    {
+      "id": "133:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:31696:31698"
+    },
+    {
+      "id": "133:p2",
+      "kind": "body",
+      "text": "你把这些磁带取出，一个一个查看，对着每一盘的封面翻着白眼，然后夸张地装作呕吐。\r\n",
+      "sourceLocation": "txt:chars:31698:31739"
+    },
+    {
+      "id": "133:p3",
+      "kind": "body",
+      "text": "亚历克斯从浴室出来，问道：“有什么好的吗？”\r\n",
+      "sourceLocation": "txt:chars:31739:31763"
+    },
+    {
+      "id": "133:p4",
+      "kind": "body",
+      "text": "“说不上。我发誓马克说过这里有一部爱情片还是什么的。他说去年夏天他来这里的时候看过。”\r\n",
+      "sourceLocation": "txt:chars:31763:31808"
+    },
+    {
+      "id": "133:p5",
+      "kind": "body",
+      "text": "亚历克斯走了过来。你注意到她在笑。也许她也对着浴室的镜子反思了一番。\r\n",
+      "sourceLocation": "txt:chars:31808:31844"
+    },
+    {
+      "id": "133:p6",
+      "kind": "body",
+      "text": "“也许那部片子的磁带还在机器里？”她说道。\r\n",
+      "sourceLocation": "txt:chars:31844:31867"
+    },
+    {
+      "id": "133:p7",
+      "kind": "body",
+      "text": "你探身按下了退带按钮。随着机器里的一阵机械声，一盘磁带吐了出来。\r\n",
+      "sourceLocation": "txt:chars:31867:31901"
+    },
+    {
+      "id": "133:p8",
+      "kind": "body",
+      "text": "“啊哈！”你像是举奖杯一样举起磁带。亚历克斯装模做样地鼓着掌，然后咯咯笑了起来。她歪着头看着你。\r\n",
+      "sourceLocation": "txt:chars:31901:31951"
+    },
+    {
+      "id": "133:p9",
+      "kind": "body",
+      "text": "“我爱你，”亚历克斯说。\r\n",
+      "sourceLocation": "txt:chars:31951:31965"
+    },
+    {
+      "id": "133:p10",
+      "kind": "body",
+      "text": "要亲昵地回应，转到 135。\r\n",
+      "sourceLocation": "txt:chars:31965:31981"
+    },
+    {
+      "id": "133:p11",
+      "kind": "body",
+      "text": "要转移话题，转到 137。\r\n",
+      "sourceLocation": "txt:chars:31981:31996"
+    }
+  ]
+}

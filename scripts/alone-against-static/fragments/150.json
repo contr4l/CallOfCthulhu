@@ -1,0 +1,42 @@
+{
+  "id": "150",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "150:p0",
+      "kind": "heading",
+      "text": "$t1 == '150'?\r\n`",
+      "sourceLocation": "txt:chars:35646:35662"
+    },
+    {
+      "id": "150:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:35662:35664"
+    },
+    {
+      "id": "150:p2",
+      "kind": "body",
+      "text": "你奋力挣扎、挣扎，但是徒劳无功。\r\n",
+      "sourceLocation": "txt:chars:35664:35682"
+    },
+    {
+      "id": "150:p3",
+      "kind": "body",
+      "text": "你感觉那湿冷的东西钻进你的耳朵。它扭曲着爬过你的耳道，在你脑内胀开。你尖叫着。你感到眼睛被压迫，视野逐渐变暗。周围的声音被唰唰的雪花噪音淹没。很快，世界上便只有它的怀抱。只有那声音。只有……\r\n",
+      "sourceLocation": "txt:chars:35682:35779"
+    },
+    {
+      "id": "150:p4",
+      "kind": "body",
+      "text": "别无他物。\r\n",
+      "sourceLocation": "txt:chars:35779:35786"
+    },
+    {
+      "id": "150:p5",
+      "kind": "body",
+      "text": "结局。\r\n",
+      "sourceLocation": "txt:chars:35786:35791"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "83",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "83:p0",
+      "kind": "heading",
+      "text": "$t1 == '83'?\r\n`",
+      "sourceLocation": "txt:chars:20979:20994"
+    },
+    {
+      "id": "83:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:20994:20996"
+    },
+    {
+      "id": "83:p2",
+      "kind": "body",
+      "text": "“求你了，”你伸手过去关掉了收音机，“这东西这么吵，我没法思考了。”\r\n",
+      "sourceLocation": "txt:chars:20996:21032"
+    },
+    {
+      "id": "83:p3",
+      "kind": "body",
+      "text": "亚历克斯举起手以示她不是故意的。“抱歉，”她轻声说着，转回去看着窗外。你把视线放回路上，却用余光看见亚历克斯愤恨地看了你一眼。看来，这趟车开得越久，车里的气氛就会越僵。\r\n",
+      "sourceLocation": "txt:chars:21032:21118"
+    },
+    {
+      "id": "83:p4",
+      "kind": "body",
+      "text": "“下个路口左转就是了，”你微笑着说，希望能让她安心。亚历克斯并没有回答。\r\n",
+      "sourceLocation": "txt:chars:21118:21156"
+    },
+    {
+      "id": "83:p5",
+      "kind": "body",
+      "text": "你继续开着车深入森林。这条小路弯弯曲曲、毫无规律，在山坡之间左闪右躲、上上下下。天空被松树密布的枝条遮住。随着傍晚的影子拉长，寒意从车外渗透进来。\r\n",
+      "sourceLocation": "txt:chars:21156:21231"
+    },
+    {
+      "id": "83:p6",
+      "kind": "body",
+      "text": "转到 103。\r\n",
+      "sourceLocation": "txt:chars:21231:21240"
+    }
+  ]
+}

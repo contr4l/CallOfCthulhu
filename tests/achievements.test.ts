@@ -1,3 +1,8 @@
+import {
+  buildEndingNumbers,
+  endingNumbers,
+} from "../apps/api/src/modules/ending-numbers.js";
+import { loadStories as productionStories } from "../apps/api/src/catalog.js";
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { randomUUID } from "node:crypto";
@@ -61,6 +66,15 @@ test("distinct endings unlock once per account, survive retries and restart, and
     assert.ok(initial.every((entry) => !entry.unlockedAt && !entry.runId));
     assert.ok(!JSON.stringify(initial).includes("测试结局：home"));
     assert.ok(!JSON.stringify(initial).includes("测试结局：loop"));
+    const initialNumbers = new Map(
+      initial.map((entry) => [entry.id, entry.endingNumber]),
+    );
+    assert.ok(
+      initial.every(
+        (entry) =>
+          Number.isInteger(entry.endingNumber) && entry.endingNumber > 0,
+      ),
+    );
     let firstRun: string | undefined;
     for (const ending of ["step", "step", "wait"]) {
       const roll = await app.inject({
@@ -106,6 +120,11 @@ test("distinct endings unlock once per account, survive retries and restart, and
         if (scene.status !== "ended") assert.deepEqual(await read(), before);
       }
     }
+    assert.ok(
+      (await read()).every(
+        (entry) => entry.endingNumber === initialNumbers.get(entry.id),
+      ),
+    );
     const unlocked = (await read()).filter((entry) => entry.unlockedAt);
     assert.equal(unlocked.length, 2);
     assert.deepEqual(
@@ -197,11 +216,31 @@ test("ending identity is shared across content versions and an active or foreign
     assert.equal(result.filter((entry) => entry.unlockedAt).length, 1);
     assert.equal(result[0].unlockedAt, "2026-01-01T00:00:00Z");
     assert.equal(result[0].runId, "old");
+    const assigned = new Map(
+      result.map((entry) => [entry.id, entry.endingNumber]),
+    );
     stories.set("collection-fixture@1.1.0", {
       ...newer,
       nodes: newer.nodes.filter((node) => node.id !== "loop"),
     });
-    assert.equal(readAchievements(db, "player", stories).length, 2);
+    const current = readAchievements(db, "player", stories);
+    assert.equal(current.length, 2);
+    assert.ok(
+      current.every((entry) => entry.endingNumber === assigned.get(entry.id)),
+    );
+    stories.set("collection-fixture@1.1.0", {
+      ...newer,
+      nodes: [...newer.nodes].reverse(),
+    });
+    assert.ok(
+      readAchievements(db, "player", stories).every(
+        (entry) => entry.endingNumber === assigned.get(entry.id),
+      ),
+    );
+    stories.set("collection-fixture@1.1.0", {
+      ...newer,
+      nodes: newer.nodes.filter((node) => node.id !== "loop"),
+    });
     db.prepare("INSERT INTO runs VALUES(?,?,?,?,?,?,?,?,?,?)").run(
       "retired",
       "player",
@@ -229,7 +268,56 @@ test("ending identity is shared across content versions and an active or foreign
       "测试结局：loop",
     );
     assert.ok(preserved.find((entry) => entry.endingId === "loop")!.unlockedAt);
+    assert.ok(
+      preserved.every((entry) => entry.endingNumber === assigned.get(entry.id)),
+    );
   } finally {
     db.close();
   }
+});
+
+test("new endings append numbers without changing old endings or depending on node order", () => {
+  const story = loadStories("stories").get("collection-fixture@1.0.0")!;
+  const initial = buildEndingNumbers([story]);
+  const reordered = {
+    ...story,
+    version: "1.1.0",
+    nodes: [...story.nodes].reverse(),
+  };
+  const ending = story.nodes.find((node) => node.ending)!;
+  const next = {
+    ...reordered,
+    version: "1.2.0",
+    nodes: [{ ...ending, id: "000-new-ending" }, ...reordered.nodes],
+  };
+  const numbered = buildEndingNumbers([next, reordered, story]);
+  for (const node of story.nodes.filter((node) => node.ending)) {
+    const id = endingAchievementId(story.id, node.id);
+    assert.equal(numbered.get(id), initial.get(id));
+  }
+  assert.equal(
+    numbered.get(endingAchievementId(story.id, "000-new-ending")),
+    4,
+  );
+});
+
+test("all published endings have unique reserved display numbers", () => {
+  for (const [storyId, registry] of Object.entries(endingNumbers)) {
+    const numbers = Object.values(registry);
+    assert.equal(new Set(numbers).size, numbers.length, storyId);
+    assert.ok(
+      numbers.every((number) => Number.isInteger(number) && number > 0),
+    );
+  }
+  for (const story of productionStories("stories").values()) {
+    for (const node of story.nodes) {
+      if (!node.ending && !node.program?.some((step) => step.kind === "end"))
+        continue;
+      assert.ok(
+        endingNumbers[story.id]?.[node.id],
+        `${story.id}@${story.version}:${node.id} needs a reserved number`,
+      );
+    }
+  }
+  assert.equal(endingNumbers["alone-against-flames"]["223-end"], 15);
 });

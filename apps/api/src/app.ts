@@ -1,3 +1,11 @@
+import { SHOP_RULES_VERSION } from "../../../packages/contracts/shop.js";
+import {
+  consumeItem,
+  readShop,
+  purchase,
+  hasStaticAccess,
+  unlockStatic,
+} from "./modules/shop.js";
 import { readAchievements } from "./modules/achievements.js";
 import { readCollections } from "./modules/collections.js";
 import Fastify from "fastify";
@@ -48,6 +56,7 @@ const commandSchema = z
     commandId: z.string().uuid(),
     expectedRevision: z.number().int().nonnegative(),
     actionId: z.string().min(1).max(80),
+    shopItem: z.literal("target-plus-10").optional(),
     input: z
       .record(
         z.string().max(80),
@@ -99,6 +108,7 @@ export async function buildApp(
     charsRoot?: string;
     dice?: DiceSource;
     serveStatic?: boolean;
+    rateLimitMax?: number;
   } = {},
 ) {
   const app = Fastify({ logger: false, bodyLimit: 32_768 });
@@ -120,7 +130,11 @@ export async function buildApp(
       latest.set(s.id, s);
   await app.register(cookie);
   await app.register(rateLimit, {
-    max: 300,
+    max: z
+      .number()
+      .int()
+      .positive()
+      .parse(options.rateLimitMax ?? 300),
     timeWindow: "1 minute",
     allowList: (request) => !request.url.startsWith("/api/"),
     errorResponseBuilder: (_request, context) => ({
@@ -215,7 +229,112 @@ export async function buildApp(
       .all(owner.id)
       .map((r) => ({ id: r.id, character: JSON.parse(r.character as string) }));
   });
-  app.get("/api/achievements", async (request) => readAchievements(db, user(request).id, stories));
+  app.get("/api/achievements", async (request) =>
+    readAchievements(db, user(request).id, stories),
+  );
+  app.get("/api/shop", async (request) =>
+    readShop(db, user(request).id, stories),
+  );
+  app.post("/api/shop/unlocks", async (request) => {
+    const owner = user(request);
+    const data = z
+      .object({
+        requestId: z.string().uuid(),
+        storyId: z.literal("alone-against-static"),
+      })
+      .strict()
+      .parse(request.body);
+    return transaction(db, () =>
+      unlockStatic(db, owner.id, data.requestId, stories),
+    );
+  });
+  app.post("/api/shop/purchases", async (request) => {
+    const owner = user(request);
+    const data = z
+      .object({
+        requestId: z.string().uuid(),
+        itemId: z.enum(["reroll", "target-plus-10"]),
+      })
+      .strict()
+      .parse(request.body);
+    return transaction(db, () =>
+      purchase(db, owner.id, data.requestId, data.itemId, stories),
+    );
+  });
+  app.post<{ Params: { id: string } }>(
+    "/api/achievements/:id/claim",
+    async (request) => {
+      const owner = user(request);
+      z.object({}).strict().parse(request.body);
+      return transaction(db, () => {
+        const entry = readAchievements(db, owner.id, stories).find(
+          (entry) => entry.id === request.params.id,
+        );
+        if (!entry?.unlockedAt || !entry.rewardPoints)
+          throw new GameError(409, "尚未解锁或尚未确认这个结局。");
+        const claim = db
+          .prepare("INSERT OR IGNORE INTO achievement_claims VALUES(?,?,?,?)")
+          .run(
+            owner.id,
+            entry.id,
+            entry.rewardPoints,
+            new Date().toISOString(),
+          );
+        if (claim.changes === 1)
+          db.prepare(
+            "INSERT INTO shop_wallets VALUES(?,?) ON CONFLICT(user_id) DO UPDATE SET balance=balance+excluded.balance",
+          ).run(owner.id, entry.rewardPoints);
+        return readShop(db, owner.id, stories);
+      });
+    },
+  );
+  app.get<{ Params: { id: string } }>(
+    "/api/runs/:id/check-window",
+    async (request) => {
+      const r = getRun(request.params.id, user(request).id);
+      const window = db
+        .prepare(
+          "SELECT * FROM shop_check_windows WHERE run_id=? AND revision=?",
+        )
+        .get(r.id, r.revision);
+      if (!window) return null;
+      const frame = JSON.parse(
+        db
+          .prepare(
+            "SELECT frame FROM run_history WHERE run_id=? AND sequence=?",
+          )
+          .get(r.id, r.revision)!.frame as string,
+      ) as HistoryFrame;
+      return {
+        before: project(
+          storyFor(r),
+          JSON.parse(window.before_state as string),
+          r.id,
+          Number(window.before_revision),
+        ),
+        scene: project(storyFor(r), JSON.parse(r.state), r.id, r.revision),
+        check: frame.check,
+        action: frame.action,
+      };
+    },
+  );
+  app.post<{ Params: { id: string } }>(
+    "/api/runs/:id/check-window/close",
+    async (request) => {
+      const owner = user(request);
+      const data = z
+        .object({ expectedRevision: z.number().int().nonnegative() })
+        .strict()
+        .parse(request.body);
+      return transaction(db, () => {
+        const r = getRun(request.params.id, owner.id);
+        if (r.revision !== data.expectedRevision)
+          throw new GameError(409, "检定结果已更新，请重新读取。");
+        db.prepare("DELETE FROM shop_check_windows WHERE run_id=?").run(r.id);
+        return { ok: true };
+      });
+    },
+  );
   app.get(
     "/api/collections",
     async (request) =>
@@ -355,6 +474,11 @@ export async function buildApp(
       data = creation.parse(request.body),
       story = latest.get(data.storyId);
     if (!story) throw new GameError(404, "剧本不存在。");
+    if (story.id === "alone-against-static" && !hasStaticAccess(db, owner.id))
+      throw new GameError(
+        403,
+        "请先完成《向火独行》的三个不同结局，并在商店解锁《静躁独行》。",
+      );
     if (
       story.creationPolicy !== "guided" &&
       (data.characterId ? !!data.luckRollId : !data.luckRollId)
@@ -481,6 +605,7 @@ export async function buildApp(
             JSON.stringify({
               expectedRevision: data.expectedRevision,
               actionId: data.actionId,
+              ...(data.shopItem ? { shopItem: data.shopItem } : {}),
               ...(data.input
                 ? {
                     input: Object.fromEntries(
@@ -504,20 +629,84 @@ export async function buildApp(
         }
         if (r.revision !== data.expectedRevision)
           throw new GameError(409, "进度已经更新，已为你恢复最新剧情。");
-        const story = storyFor(r),
-          result = advance(
-            story,
-            JSON.parse(r.state),
-            data.actionId,
-            options.dice,
-            data.input,
-          ),
-          revision = r.revision + 1,
+        const story = storyFor(r);
+        let before = JSON.parse(r.state) as RunState;
+        let beforeRevision = r.revision;
+        let actionId = data.actionId;
+        let input = data.input;
+        let targetBonus = 0;
+        let previousRoll: number | undefined;
+        const retry = actionId === "shop-reroll";
+        if (retry) {
+          if (data.shopItem || data.input)
+            throw new GameError(400, "重掷请求不能指定检定参数。");
+          const window = db
+            .prepare(
+              "SELECT * FROM shop_check_windows WHERE run_id=? AND revision=?",
+            )
+            .get(r.id, r.revision);
+          if (!window)
+            throw new GameError(409, "这次检定已经确认或不支持重掷。");
+          consumeItem(db, owner.id, "reroll");
+          before = JSON.parse(window.before_state as string);
+          beforeRevision = Number(window.before_revision);
+          actionId = window.action_id as string;
+          input = window.input ? JSON.parse(window.input as string) : undefined;
+          targetBonus = Number(window.target_bonus);
+          const prior = JSON.parse(
+            db
+              .prepare(
+                "SELECT frame FROM run_history WHERE run_id=? AND sequence=?",
+              )
+              .get(r.id, r.revision)!.frame as string,
+          ) as HistoryFrame;
+          previousRoll = prior.check!.roll;
+          db.prepare("INSERT INTO shop_discarded_checks VALUES(?,?)").run(
+            r.id,
+            r.revision,
+          );
+        }
+        const beforeView = project(story, before, r.id, beforeRevision);
+        const normalCheck =
+          !!beforeView.check &&
+          !beforeView.combat &&
+          ["roll", "next"].includes(actionId);
+        if (data.shopItem) {
+          if (!normalCheck)
+            throw new GameError(400, "这个道具只能在普通 D100 检定前使用。");
+          if (beforeView.check!.target >= 99)
+            throw new GameError(400, "目标值已达到 99，无需使用命运助力。");
+          consumeItem(db, owner.id, "target-plus-10");
+          targetBonus = 10;
+        }
+        const result = advance(
+          story,
+          before,
+          actionId,
+          options.dice,
+          input,
+          targetBonus,
+        );
+        const canReroll =
+          normalCheck &&
+          !!result.check &&
+          !result.check.combat &&
+          !result.check.opponent;
+        if (targetBonus && !result.check)
+          throw new GameError(400, "这个行动没有进行检定。");
+        if (result.check && (targetBonus || retry))
+          result.check.assistance = {
+            rulesVersion: SHOP_RULES_VERSION,
+            targetBonus,
+            ...(retry ? { previousRoll } : {}),
+          };
+        const revision = r.revision + 1,
           now = new Date().toISOString(),
           scene = project(story, result.state, r.id, revision),
           response: CommandResponse = {
             scene,
-            action: result.action,
+            action: retry ? `使用重掷券：${result.action}` : result.action,
+            ...(canReroll ? { canReroll: true } : {}),
             ...(result.check ? { check: result.check } : {}),
             ...(result.dice ? { dice: result.dice } : {}),
           };
@@ -553,11 +742,24 @@ export async function buildApp(
           .run(revision, JSON.stringify(result.state), now, r.id, r.revision);
         if (changed.changes !== 1)
           throw new GameError(409, "进度冲突，请刷新。");
+        db.prepare("DELETE FROM shop_check_windows WHERE run_id=?").run(r.id);
+        if (canReroll)
+          db.prepare(
+            "INSERT INTO shop_check_windows VALUES(?,?,?,?,?,?,?)",
+          ).run(
+            r.id,
+            revision,
+            beforeRevision,
+            JSON.stringify(before),
+            actionId,
+            input ? JSON.stringify(input) : null,
+            targetBonus,
+          );
         const frame: HistoryFrame = {
           sequence: revision,
           createdAt: now,
           scene,
-          action: result.action,
+          action: response.action,
           check: result.check,
           dice: result.dice,
           memory: result.memory,
@@ -600,13 +802,14 @@ export async function buildApp(
           .parse(request.query.after ?? -1);
         const frames = db
           .prepare(
-            "SELECT frame FROM run_history WHERE run_id=? AND sequence>? ORDER BY sequence LIMIT 51",
+            "SELECT h.frame,EXISTS(SELECT 1 FROM shop_discarded_checks d WHERE d.run_id=h.run_id AND d.sequence=h.sequence) AS discarded FROM run_history h WHERE h.run_id=? AND h.sequence>? ORDER BY h.sequence LIMIT 51",
           )
           .all(r.id, after)
           .map((row) => {
             const frame = JSON.parse(row.frame as string) as HistoryFrame;
             return {
               ...frame,
+              ...(row.discarded ? { discarded: true } : {}),
               scene: withSceneReading(storyFor(r), frame.scene),
             };
           });

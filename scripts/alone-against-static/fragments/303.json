@@ -1,0 +1,42 @@
+{
+  "id": "303",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "303:p0",
+      "kind": "heading",
+      "text": "$t1 == '303'?\r\n`",
+      "sourceLocation": "txt:chars:68535:68551"
+    },
+    {
+      "id": "303:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:68551:68553"
+    },
+    {
+      "id": "303:p2",
+      "kind": "body",
+      "text": "你转过身朝着声音的方向。你没再听到那声音。“有人吗？”你朝着黑暗询问着。没有回复。\r\n",
+      "sourceLocation": "txt:chars:68553:68596"
+    },
+    {
+      "id": "303:p3",
+      "kind": "body",
+      "text": "你把手电筒指向前方，照出树干、石头和倒下的枯木。没什么不寻常的。\r\n",
+      "sourceLocation": "txt:chars:68596:68630"
+    },
+    {
+      "id": "303:p4",
+      "kind": "body",
+      "text": "如果记录表上的 勉强支撑 已被勾选，你的手电筒开始闪烁，必须转到 304。\r\n",
+      "sourceLocation": "txt:chars:68630:68669"
+    },
+    {
+      "id": "303:p5",
+      "kind": "body",
+      "text": "转到 307。\r\n",
+      "sourceLocation": "txt:chars:68669:68678"
+    }
+  ]
+}

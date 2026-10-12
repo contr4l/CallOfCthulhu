@@ -1,0 +1,42 @@
+{
+  "id": "151",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "151:p0",
+      "kind": "heading",
+      "text": "$t1 == '151'?\r\n`",
+      "sourceLocation": "txt:chars:35797:35813"
+    },
+    {
+      "id": "151:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:35813:35815"
+    },
+    {
+      "id": "151:p2",
+      "kind": "body",
+      "text": "你挣脱陌生人的擒抱，一跃而起，拼命逃开。你朝着安全的地方猛跑。你一口一口吸着气，肺像被火烧一样疼。你只觉得耳朵里血管搏动，别的声音都听不到了。\r\n",
+      "sourceLocation": "txt:chars:35815:35888"
+    },
+    {
+      "id": "151:p3",
+      "kind": "body",
+      "text": "你终于跑到小屋附近，壮着胆子回头看了一眼。空无一人的树林回望着你。\r\n",
+      "sourceLocation": "txt:chars:35888:35923"
+    },
+    {
+      "id": "151:p4",
+      "kind": "body",
+      "text": "他不见了。\r\n",
+      "sourceLocation": "txt:chars:35923:35930"
+    },
+    {
+      "id": "151:p5",
+      "kind": "body",
+      "text": "转到 170。\r\n",
+      "sourceLocation": "txt:chars:35930:35939"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "170",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "170:p0",
+      "kind": "heading",
+      "text": "$t1 == '170'?\r\n`",
+      "sourceLocation": "txt:chars:39997:40013"
+    },
+    {
+      "id": "170:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:40013:40015"
+    },
+    {
+      "id": "170:p2",
+      "kind": "body",
+      "text": "你走进小屋，用力把门关上锁紧。你靠着墙滑坐在地上，双手抱着头轻轻摇晃着。你在发抖。\r\n",
+      "sourceLocation": "txt:chars:40015:40058"
+    },
+    {
+      "id": "170:p3",
+      "kind": "body",
+      "text": "这一切太可怕了。无可言说的可怕。天杀的，你到底应该怎么做？\r\n",
+      "sourceLocation": "txt:chars:40058:40089"
+    },
+    {
+      "id": "170:p4",
+      "kind": "body",
+      "text": "时间一秒一秒过去、一分钟一分钟过去、一小时一小时过去。你就在小屋里躲着。你时不时爬过地板往外窥探着，但你既看不到你的伴侣，也看不到来袭的危险。你想过要闯出去到森林里，但是你知道那陌生人可能就在外面监视着，等待你无谋的尝试。你无所适从……\r\n",
+      "sourceLocation": "txt:chars:40089:40209"
+    },
+    {
+      "id": "170:p5",
+      "kind": "body",
+      "text": "突然，电视亮了起来。\r\n",
+      "sourceLocation": "txt:chars:40209:40221"
+    },
+    {
+      "id": "170:p6",
+      "kind": "body",
+      "text": "供电恢复了吗？\r\n",
+      "sourceLocation": "txt:chars:40221:40230"
+    },
+    {
+      "id": "170:p7",
+      "kind": "body",
+      "text": "要去开灯，转到 184。\r\n",
+      "sourceLocation": "txt:chars:40230:40244"
+    },
+    {
+      "id": "170:p8",
+      "kind": "body",
+      "text": "要查看电视，转到 185。\r\n",
+      "sourceLocation": "txt:chars:40244:40259"
+    }
+  ]
+}

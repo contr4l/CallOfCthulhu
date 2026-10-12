@@ -1,0 +1,54 @@
+{
+  "id": "181",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "181:p0",
+      "kind": "heading",
+      "text": "$t1 == '181'?\r\n`",
+      "sourceLocation": "txt:chars:42481:42497"
+    },
+    {
+      "id": "181:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:42497:42499"
+    },
+    {
+      "id": "181:p2",
+      "kind": "body",
+      "text": "你关上门。小屋里的一丝丝暖意传来，让你意识到刚才外面有多冷。\r\n",
+      "sourceLocation": "txt:chars:42499:42531"
+    },
+    {
+      "id": "181:p3",
+      "kind": "body",
+      "text": "你回到厨房，沮丧地坐在没吃完的三明治旁边。\r\n",
+      "sourceLocation": "txt:chars:42531:42554"
+    },
+    {
+      "id": "181:p4",
+      "kind": "body",
+      "text": "坐了一会儿，你用手电筒照着走到床边，钻进被子里，搓着胳膊和腿让自己更暖和一点。\r\n",
+      "sourceLocation": "txt:chars:42554:42595"
+    },
+    {
+      "id": "181:p5",
+      "kind": "body",
+      "text": "在床脚对面的电视柜上，电视亮了起来。供电恢复了！\r\n",
+      "sourceLocation": "txt:chars:42595:42621"
+    },
+    {
+      "id": "181:p6",
+      "kind": "body",
+      "text": "要去开灯，转到 184。\r\n",
+      "sourceLocation": "txt:chars:42621:42635"
+    },
+    {
+      "id": "181:p7",
+      "kind": "body",
+      "text": "要检查电视，转到 185。\r\n",
+      "sourceLocation": "txt:chars:42635:42650"
+    }
+  ]
+}

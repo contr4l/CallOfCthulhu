@@ -1,0 +1,54 @@
+{
+  "id": "341",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "341:p0",
+      "kind": "heading",
+      "text": "$t1 == '341'?\r\n`",
+      "sourceLocation": "txt:chars:77934:77950"
+    },
+    {
+      "id": "341:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:77950:77952"
+    },
+    {
+      "id": "341:p2",
+      "kind": "body",
+      "text": "你摇了摇头。“这些……这些都是无稽之谈。”\r\n",
+      "sourceLocation": "txt:chars:77952:77975"
+    },
+    {
+      "id": "341:p3",
+      "kind": "body",
+      "text": "“相信我！”他恳求道，“我一开始也怀疑这一切，但幼子开示，我能拥有太多。”他朝你迈出一步。你倒退着躲开。\r\n",
+      "sourceLocation": "txt:chars:77975:78029"
+    },
+    {
+      "id": "341:p4",
+      "kind": "body",
+      "text": "“我要离开了，”你说。\r\n",
+      "sourceLocation": "txt:chars:78029:78042"
+    },
+    {
+      "id": "341:p5",
+      "kind": "body",
+      "text": "“等等！”一个声音在你身后喊道。\r\n",
+      "sourceLocation": "txt:chars:78042:78060"
+    },
+    {
+      "id": "341:p6",
+      "kind": "body",
+      "text": "如果记录表上的 亚历克斯 已被勾选，你认出了查理的声音，转到 342。\r\n",
+      "sourceLocation": "txt:chars:78060:78097"
+    },
+    {
+      "id": "341:p7",
+      "kind": "body",
+      "text": "如果记录表上的 查理 已被勾选，你认出了亚历克斯的声音，转到 280。\r\n",
+      "sourceLocation": "txt:chars:78097:78134"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
     },
     "entry": {
       "type": "string",
-      "pattern": "^[1-9][0-9]*$"
+      "pattern": "^(0|[1-9][0-9]*)$"
     },
     "runtimePlayable": {
       "type": "boolean",
@@ -72,7 +72,7 @@
         "properties": {
           "id": {
             "type": "string",
-            "pattern": "^[1-9][0-9]*$"
+            "pattern": "^(0|[1-9][0-9]*)$"
           },
           "fragment": {
             "type": "object",
@@ -114,15 +114,15 @@
           },
           "source": {
             "type": "string",
-            "pattern": "^[1-9][0-9]*$"
+            "pattern": "^(0|[1-9][0-9]*)$"
           },
           "target": {
             "type": "string",
-            "pattern": "^[1-9][0-9]*$"
+            "pattern": "^(0|[1-9][0-9]*)$"
           },
           "paragraphId": {
             "type": "string",
-            "pattern": "^[1-9][0-9]*:p[0-9]+$"
+            "pattern": "^(0|[1-9][0-9]*):p[0-9]+$"
           },
           "evidence": {
             "type": "string",
@@ -149,7 +149,7 @@
               },
               "discoveryNodeId": {
                 "type": "string",
-                "pattern": "^[1-9][0-9]*$"
+                "pattern": "^(0|[1-9][0-9]*)$"
               }
             },
             "required": [
@@ -160,7 +160,7 @@
           },
           "ruleParagraphId": {
             "type": "string",
-            "pattern": "^[1-9][0-9]*:p[0-9]+$"
+            "pattern": "^(0|[1-9][0-9]*):p[0-9]+$"
           },
           "offset": {
             "type": "integer",

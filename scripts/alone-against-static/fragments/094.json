@@ -1,0 +1,54 @@
+{
+  "id": "94",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "94:p0",
+      "kind": "heading",
+      "text": "$t1 == '94'?\r\n`",
+      "sourceLocation": "txt:chars:23064:23079"
+    },
+    {
+      "id": "94:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:23079:23081"
+    },
+    {
+      "id": "94:p2",
+      "kind": "body",
+      "text": "你走到小厨房。幸好冰箱和炉子都是烧燃气的。\r\n",
+      "sourceLocation": "txt:chars:23081:23104"
+    },
+    {
+      "id": "94:p3",
+      "kind": "body",
+      "text": "你给自己做了一顿饭，在小餐桌上开始享用。\r\n",
+      "sourceLocation": "txt:chars:23104:23126"
+    },
+    {
+      "id": "94:p4",
+      "kind": "body",
+      "text": "在记录表上勾选 吃饱。\r\n",
+      "sourceLocation": "txt:chars:23126:23139"
+    },
+    {
+      "id": "94:p5",
+      "kind": "body",
+      "text": "如果记录表上的 求生专家 已被勾选，你的肚子开始翻腾，必须转到 102。\r\n",
+      "sourceLocation": "txt:chars:23139:23177"
+    },
+    {
+      "id": "94:p6",
+      "kind": "body",
+      "text": "要好好品尝食物，转到 106。\r\n",
+      "sourceLocation": "txt:chars:23177:23194"
+    },
+    {
+      "id": "94:p7",
+      "kind": "body",
+      "text": "要戳着食物为自己的状况担心，转到 107。\r\n",
+      "sourceLocation": "txt:chars:23194:23217"
+    }
+  ]
+}

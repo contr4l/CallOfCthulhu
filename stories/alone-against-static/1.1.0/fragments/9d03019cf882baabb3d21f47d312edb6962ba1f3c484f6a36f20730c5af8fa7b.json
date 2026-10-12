@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "77"
+  ],
+  "text": [
+    "你皱着眉头用手指搓着浆果的残渣。也许还是等你伴侣开着车回来再测试你的觅食技巧比较好。",
+    "你抱着胳膊继续走，目不斜视地看着小路，强迫自己专注于当下。",
+    "在你左边，你听到有流水的声音。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 77",
+      "textRef": "default"
+    }
+  }
+}

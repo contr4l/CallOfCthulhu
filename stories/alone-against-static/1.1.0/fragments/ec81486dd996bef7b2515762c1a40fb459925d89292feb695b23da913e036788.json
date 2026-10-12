@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "69",
+    "69-occult"
+  ],
+  "text": [
+    "匕首比第一眼看上去还更大一些。刀刃就有你小臂那么长。你从皮革刀鞘中抽出匕首，刀刃闪着寒光。你的倒影在昏暗的光线中凝视着你。",
+    "匕首的重量让你感觉很舒服。你感到一种冲动，想把它带走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 69",
+      "textRef": "default"
+    }
+  }
+}

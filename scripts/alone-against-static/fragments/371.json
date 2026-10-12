@@ -1,0 +1,48 @@
+{
+  "id": "371",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "371:p0",
+      "kind": "heading",
+      "text": "$t1 == '371'?\r\n`",
+      "sourceLocation": "txt:chars:86139:86155"
+    },
+    {
+      "id": "371:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:86155:86157"
+    },
+    {
+      "id": "371:p2",
+      "kind": "body",
+      "text": "你探进身去，检查着大个电池和小配电盒之间的连线。一根线在你的拉拽下松脱了。你不知道它是之前就松了，还是刚刚被你拽松的。\r\n",
+      "sourceLocation": "txt:chars:86157:86218"
+    },
+    {
+      "id": "371:p3",
+      "kind": "body",
+      "text": "你抓过配电盒，颠来倒去地找着按钮或开关。但你什么都没找到，只有接线和蜘蛛网。你把盒子塞回去，在衬衫上擦了擦手。\r\n",
+      "sourceLocation": "txt:chars:86218:86275"
+    },
+    {
+      "id": "371:p4",
+      "kind": "body",
+      "text": "你又试了试另一根线。手指上传来一阵刺痛，你连忙抽回手。这是电击吗？不。电线上有橡胶皮。你只是太紧张了。\r\n",
+      "sourceLocation": "txt:chars:86275:86328"
+    },
+    {
+      "id": "371:p5",
+      "kind": "body",
+      "text": "“呃，忘了它吧。”你呻吟着关上了柜门。\r\n",
+      "sourceLocation": "txt:chars:86328:86349"
+    },
+    {
+      "id": "371:p6",
+      "kind": "body",
+      "text": "转到 370。\r\n",
+      "sourceLocation": "txt:chars:86349:86358"
+    }
+  ]
+}

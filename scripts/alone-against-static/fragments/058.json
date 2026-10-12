@@ -1,0 +1,78 @@
+{
+  "id": "58",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "58:p0",
+      "kind": "heading",
+      "text": "$t1 == '58'?\r\n`",
+      "sourceLocation": "txt:chars:16707:16722"
+    },
+    {
+      "id": "58:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:16722:16724"
+    },
+    {
+      "id": "58:p2",
+      "kind": "body",
+      "text": "橱柜摇摇欲坠地挂在破旧的墙上。它被重力牵引着朝前倾斜着，压在几个满是铁锈的钉子上。\r\n",
+      "sourceLocation": "txt:chars:16724:16767"
+    },
+    {
+      "id": "58:p3",
+      "kind": "body",
+      "text": "你小心地打开了柜门。\r\n",
+      "sourceLocation": "txt:chars:16767:16779"
+    },
+    {
+      "id": "58:p4",
+      "kind": "body",
+      "text": "在柜子里有两层架子，都摆放着录像磁带。这些都是家用磁带，就像马克小屋里的那种一样。\r\n",
+      "sourceLocation": "txt:chars:16779:16822"
+    },
+    {
+      "id": "58:p5",
+      "kind": "body",
+      "text": "在磁带盒正面贴着白色标签，用黑色记号笔写着字。这些磁带被苔藓和蜘蛛网覆盖着。\r\n",
+      "sourceLocation": "txt:chars:16822:16862"
+    },
+    {
+      "id": "58:p6",
+      "kind": "body",
+      "text": "进行一次侦查检定。\r\n",
+      "sourceLocation": "txt:chars:16862:16873"
+    },
+    {
+      "id": "58:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 59。\r\n",
+      "sourceLocation": "txt:chars:16873:16888"
+    },
+    {
+      "id": "58:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 60。\r\n",
+      "sourceLocation": "txt:chars:16888:16903"
+    },
+    {
+      "id": "58:p9",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是你的搜索时间被打断：\r\n",
+      "sourceLocation": "txt:chars:16903:16945"
+    },
+    {
+      "id": "58:p10",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 59。\r\n",
+      "sourceLocation": "txt:chars:16945:16962"
+    },
+    {
+      "id": "58:p11",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 61。\r\n",
+      "sourceLocation": "txt:chars:16962:16979"
+    }
+  ]
+}

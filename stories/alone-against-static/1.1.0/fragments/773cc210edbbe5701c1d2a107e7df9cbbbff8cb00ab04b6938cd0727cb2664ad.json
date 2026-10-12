@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "328"
+  ],
+  "text": [
+    "这世界上的一切对你脆弱平凡的心灵来说太难以承受了。深刻、扭曲、超出人类理解范围的现实撕碎了你的意识，就像打碎一块玻璃。",
+    "（不定性疯狂）"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 328",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "249",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "249:p0",
+      "kind": "heading",
+      "text": "$t1 == '249'?\r\n`",
+      "sourceLocation": "txt:chars:57331:57347"
+    },
+    {
+      "id": "249:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:57347:57349"
+    },
+    {
+      "id": "249:p2",
+      "kind": "body",
+      "text": "锤子分量不轻，正好趁手。你用手掌拍上手柄抓紧，走上前去，站在门边。只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。\r\n",
+      "sourceLocation": "txt:chars:57349:57413"
+    },
+    {
+      "id": "249:p3",
+      "kind": "body",
+      "text": "在记录表上勾选 暴力创伤。\r\n",
+      "sourceLocation": "txt:chars:57413:57428"
+    },
+    {
+      "id": "249:p4",
+      "kind": "body",
+      "text": "转到 259。\r\n",
+      "sourceLocation": "txt:chars:57428:57437"
+    }
+  ]
+}

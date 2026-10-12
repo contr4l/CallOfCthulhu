@@ -1,0 +1,54 @@
+{
+  "id": "261",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "261:p0",
+      "kind": "heading",
+      "text": "$t1 == '261'?\r\n`",
+      "sourceLocation": "txt:chars:59368:59384"
+    },
+    {
+      "id": "261:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:59384:59386"
+    },
+    {
+      "id": "261:p2",
+      "kind": "body",
+      "text": "陌生人疯癫又危险，但你强壮、熟练、幸运，或者三者皆有。你一击得手。\r\n",
+      "sourceLocation": "txt:chars:59386:59421"
+    },
+    {
+      "id": "261:p3",
+      "kind": "body",
+      "text": "如果记录表上的 万不得已 已被勾选，必须转到 267。\r\n",
+      "sourceLocation": "txt:chars:59421:59450"
+    },
+    {
+      "id": "261:p4",
+      "kind": "body",
+      "text": "或者，如果记录表上的 暴力创伤 已被勾选，必须转到 268。\r\n",
+      "sourceLocation": "txt:chars:59450:59482"
+    },
+    {
+      "id": "261:p5",
+      "kind": "body",
+      "text": "或者，如果记录表上的 临阵磨刀 已被勾选，必须转到 271。\r\n",
+      "sourceLocation": "txt:chars:59482:59514"
+    },
+    {
+      "id": "261:p6",
+      "kind": "body",
+      "text": "或者，如果记录表上的 大开杀戒 已被勾选，必须转到 273。\r\n",
+      "sourceLocation": "txt:chars:59514:59546"
+    },
+    {
+      "id": "261:p7",
+      "kind": "body",
+      "text": "要用拳头狠揍陌生人的脸，转到 270。\r\n",
+      "sourceLocation": "txt:chars:59546:59567"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "8",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "8:p0",
+      "kind": "heading",
+      "text": "$t1 == '8'?\r\n`",
+      "sourceLocation": "txt:chars:3029:3043"
+    },
+    {
+      "id": "8:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:3043:3045"
+    },
+    {
+      "id": "8:p2",
+      "kind": "body",
+      "text": "查理在生闷气。这次假期和你预想的一模一样。查理总是坚持要开车，然后就会迷路，而且还\r\n",
+      "sourceLocation": "txt:chars:3045:3088"
+    },
+    {
+      "id": "8:p3",
+      "kind": "body",
+      "text": "不肯要你帮忙。这个周末就要成为一场噩梦了。\r\n",
+      "sourceLocation": "txt:chars:3088:3111"
+    },
+    {
+      "id": "8:p4",
+      "kind": "body",
+      "text": "“不管怎么说，”查理说，“离得不远了。”\r\n",
+      "sourceLocation": "txt:chars:3111:3133"
+    },
+    {
+      "id": "8:p5",
+      "kind": "body",
+      "text": "查理开车继续深入森林。这条小路弯弯曲曲、毫无规律，在山坡之间左闪右躲、上上下下。在\r\n",
+      "sourceLocation": "txt:chars:3133:3176"
+    },
+    {
+      "id": "8:p6",
+      "kind": "body",
+      "text": "你头顶，乌云遮住了阳光。然后，整个天空都被松树密布的枝条遮住。寒意从车外渗透进来。\r\n",
+      "sourceLocation": "txt:chars:3176:3219"
+    },
+    {
+      "id": "8:p7",
+      "kind": "body",
+      "text": "转到 5。\r\n",
+      "sourceLocation": "txt:chars:3219:3226"
+    }
+  ]
+}

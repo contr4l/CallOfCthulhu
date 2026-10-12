@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "249"
+  ],
+  "text": [
+    "锤子分量不轻，正好趁手。你用手掌拍上手柄抓紧，走上前去，站在门边。只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 249",
+      "textRef": "default"
+    }
+  }
+}

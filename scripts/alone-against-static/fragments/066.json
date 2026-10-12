@@ -1,0 +1,66 @@
+{
+  "id": "66",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "66:p0",
+      "kind": "heading",
+      "text": "$t1 == '66'?\r\n`",
+      "sourceLocation": "txt:chars:18237:18252"
+    },
+    {
+      "id": "66:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:18252:18254"
+    },
+    {
+      "id": "66:p2",
+      "kind": "body",
+      "text": "你把最顶上的箱子搬到一旁，打开了下面的第二个箱子。这个箱子并没有受到那么严重的损伤。\r\n",
+      "sourceLocation": "txt:chars:18254:18298"
+    },
+    {
+      "id": "66:p3",
+      "kind": "body",
+      "text": "在箱子里有一些脏兮兮的玻璃罐、一把装在皮革刀鞘里的长匕首和一台手持录像机。\r\n",
+      "sourceLocation": "txt:chars:18298:18337"
+    },
+    {
+      "id": "66:p4",
+      "kind": "body",
+      "text": "根据你的选择，你可能会多次回到这一条目。请选择你尚未选择过的选项。\r\n",
+      "sourceLocation": "txt:chars:18337:18372"
+    },
+    {
+      "id": "66:p5",
+      "kind": "body",
+      "text": "如果你是首次读到这一条目，并且记录表上的 不安 已被勾选，你必须转到 67。\r\n",
+      "sourceLocation": "txt:chars:18372:18412"
+    },
+    {
+      "id": "66:p6",
+      "kind": "body",
+      "text": "要看看罐子，转到 68。\r\n",
+      "sourceLocation": "txt:chars:18412:18426"
+    },
+    {
+      "id": "66:p7",
+      "kind": "body",
+      "text": "要拿起匕首，转到 69。\r\n",
+      "sourceLocation": "txt:chars:18426:18440"
+    },
+    {
+      "id": "66:p8",
+      "kind": "body",
+      "text": "要检查录像机，转到 70。\r\n",
+      "sourceLocation": "txt:chars:18440:18455"
+    },
+    {
+      "id": "66:p9",
+      "kind": "body",
+      "text": "要离开这些箱子，回到 57。\r\n",
+      "sourceLocation": "txt:chars:18455:18471"
+    }
+  ]
+}

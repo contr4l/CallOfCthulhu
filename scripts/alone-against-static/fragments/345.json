@@ -1,0 +1,48 @@
+{
+  "id": "345",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "345:p0",
+      "kind": "heading",
+      "text": "$t1 == '345'?\r\n`",
+      "sourceLocation": "txt:chars:78638:78654"
+    },
+    {
+      "id": "345:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:78654:78656"
+    },
+    {
+      "id": "345:p2",
+      "kind": "body",
+      "text": "你不能让查理把一切抛到脑后。你试着恳求他。\r\n",
+      "sourceLocation": "txt:chars:78656:78679"
+    },
+    {
+      "id": "345:p3",
+      "kind": "body",
+      "text": "“值得。我们还有彼此。求你了，查理！”泪水从你脸上滑落。\r\n",
+      "sourceLocation": "txt:chars:78679:78709"
+    },
+    {
+      "id": "345:p4",
+      "kind": "body",
+      "text": "进行一次困难难度的说服检定。\r\n",
+      "sourceLocation": "txt:chars:78709:78725"
+    },
+    {
+      "id": "345:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 346。\r\n",
+      "sourceLocation": "txt:chars:78725:78741"
+    },
+    {
+      "id": "345:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 349。\r\n",
+      "sourceLocation": "txt:chars:78741:78757"
+    }
+  ]
+}

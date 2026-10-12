@@ -1,0 +1,78 @@
+{
+  "id": "176",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "176:p0",
+      "kind": "heading",
+      "text": "$t1 == '176'?\r\n`",
+      "sourceLocation": "txt:chars:41715:41731"
+    },
+    {
+      "id": "176:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:41731:41733"
+    },
+    {
+      "id": "176:p2",
+      "kind": "body",
+      "text": "你把三明治放在一边，把嘴里的一口咽下，用手电筒照着走到门边。\r\n",
+      "sourceLocation": "txt:chars:41733:41765"
+    },
+    {
+      "id": "176:p3",
+      "kind": "body",
+      "text": "“你好，外面是谁？”你问着。\r\n",
+      "sourceLocation": "txt:chars:41765:41781"
+    },
+    {
+      "id": "176:p4",
+      "kind": "body",
+      "text": "你打开了门。\r\n",
+      "sourceLocation": "txt:chars:41781:41789"
+    },
+    {
+      "id": "176:p5",
+      "kind": "body",
+      "text": "漆黑。\r\n",
+      "sourceLocation": "txt:chars:41789:41794"
+    },
+    {
+      "id": "176:p6",
+      "kind": "body",
+      "text": "手电筒在黑暗中射出一道暗淡的光锥。风吹着寒意卷过你的全身。\r\n",
+      "sourceLocation": "txt:chars:41794:41825"
+    },
+    {
+      "id": "176:p7",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:41825:41850"
+    },
+    {
+      "id": "176:p8",
+      "kind": "body",
+      "text": "进行一次理智检定：如果检定失败，失去 1 点理智。\r\n",
+      "sourceLocation": "txt:chars:41850:41877"
+    },
+    {
+      "id": "176:p9",
+      "kind": "body",
+      "text": "如果记录表上的 伐木工 已被勾选，你注意到了之前找到的一个物件，必须转到 177。\r\n",
+      "sourceLocation": "txt:chars:41877:41920"
+    },
+    {
+      "id": "176:p10",
+      "kind": "body",
+      "text": "要把敲门声当作风造成的意外，转到 181。\r\n",
+      "sourceLocation": "txt:chars:41920:41943"
+    },
+    {
+      "id": "176:p11",
+      "kind": "body",
+      "text": "要再等一会儿，转到 178。\r\n",
+      "sourceLocation": "txt:chars:41943:41959"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "6"
+  ],
+  "text": [
+    "你点了点头。“是啊。吃汉堡？”",
+    "“就吃汉堡。”",
+    "你从后备箱抱出一个杂货店的棕色牛皮纸袋，提起自己的行李箱，走向小屋的前门。查理开门走了进去。你也跟了进去，然后带上了门，将刺骨的寒气关在门外。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 6",
+      "textRef": "default"
+    }
+  }
+}

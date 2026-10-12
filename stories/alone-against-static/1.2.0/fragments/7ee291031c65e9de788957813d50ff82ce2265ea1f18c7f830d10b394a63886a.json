@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "38"
+  ],
+  "text": [
+    "你蹲下来从灌木上摘了些浆果。果子又软又嫩，汁水迸出，把你的手指染成紫色。你想要把手指舔干净，却犹豫了一下。蓝莓是可以吃的，对吧？第一次出小屋就把自己搞中毒了可不好看。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 38",
+      "textRef": "default"
+    }
+  }
+}

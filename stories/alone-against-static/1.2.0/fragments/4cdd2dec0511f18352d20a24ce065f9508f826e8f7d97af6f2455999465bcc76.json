@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "326"
+  ],
+  "text": [
+    "男人打开了屋门。在黑暗中，他的脚步声朝你冲来。",
+    "你想爬起来，但被一双沉重的大手擒住。你听到他嘟囔着，像唱歌一样呻吟着，就像大象或马匹。",
+    "他正试着把你拖出小屋。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 326",
+      "textRef": "default"
+    }
+  }
+}

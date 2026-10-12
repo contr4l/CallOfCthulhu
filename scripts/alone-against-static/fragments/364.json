@@ -1,0 +1,72 @@
+{
+  "id": "364",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "364:p0",
+      "kind": "heading",
+      "text": "$t1 == '364'?\r\n`",
+      "sourceLocation": "txt:chars:84020:84036"
+    },
+    {
+      "id": "364:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:84036:84038"
+    },
+    {
+      "id": "364:p2",
+      "kind": "body",
+      "text": "你紧紧把刀柄握在手里，高高举起。随着划破黑夜的一击，你把刀刃直插进可怖怪物的胸口。\r\n",
+      "sourceLocation": "txt:chars:84038:84081"
+    },
+    {
+      "id": "364:p3",
+      "kind": "body",
+      "text": "变形停止了。你面前的存在滚动着，触手缩了回去。有那么一瞬间，你伴侣的面孔重新形成，它盯着你，嘴唇和眼皮颤抖着。\r\n",
+      "sourceLocation": "txt:chars:84081:84138"
+    },
+    {
+      "id": "364:p4",
+      "kind": "body",
+      "text": "当它开口时，声音带着嘎吱嘎吱的杂音。“独自，”漆黑稀薄的液体和语言一起从它的唇齿间流出，“永远……独自一人。”\r\n",
+      "sourceLocation": "txt:chars:84138:84195"
+    },
+    {
+      "id": "364:p5",
+      "kind": "body",
+      "text": "它倒在地上，树根从血肉中生出，刺穿衣服，扎进土地里。它的头朝后仰去，树枝从口中萌发，嫩皮上还有黑水滴落。\r\n",
+      "sourceLocation": "txt:chars:84195:84249"
+    },
+    {
+      "id": "364:p6",
+      "kind": "body",
+      "text": "你转过身，准备对付那个男人。但他已经消失不见了。\r\n",
+      "sourceLocation": "txt:chars:84249:84275"
+    },
+    {
+      "id": "364:p7",
+      "kind": "body",
+      "text": "你独自站在空地中，风抚慰着你的皮肤。\r\n",
+      "sourceLocation": "txt:chars:84275:84295"
+    },
+    {
+      "id": "364:p8",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:84295:84320"
+    },
+    {
+      "id": "364:p9",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:84320:84333"
+    },
+    {
+      "id": "364:p10",
+      "kind": "body",
+      "text": "转到 365。\r\n",
+      "sourceLocation": "txt:chars:84333:84342"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "94"
+  ],
+  "text": [
+    "你走到小厨房。幸好冰箱和炉子都是烧燃气的。",
+    "你给自己做了一顿饭，在小餐桌上开始享用。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 94",
+      "textRef": "default"
+    }
+  }
+}

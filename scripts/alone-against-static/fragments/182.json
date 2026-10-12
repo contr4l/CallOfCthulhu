@@ -1,0 +1,60 @@
+{
+  "id": "182",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "182:p0",
+      "kind": "heading",
+      "text": "$t1 == '182'?\r\n`",
+      "sourceLocation": "txt:chars:42656:42672"
+    },
+    {
+      "id": "182:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:42672:42674"
+    },
+    {
+      "id": "182:p2",
+      "kind": "body",
+      "text": "你关上门，紧紧锁好。你又使劲推了推门，门纹丝不动。稍微感觉安全些了，你走到房间中间，等待着。时间一点点过去，夜深了，小屋里越来越冷。\r\n",
+      "sourceLocation": "txt:chars:42674:42742"
+    },
+    {
+      "id": "182:p3",
+      "kind": "body",
+      "text": "最终，你用手电筒照着走到床边，钻进被子里，搓着胳膊和腿让自己更暖和一点。\r\n",
+      "sourceLocation": "txt:chars:42742:42780"
+    },
+    {
+      "id": "182:p4",
+      "kind": "body",
+      "text": "在床脚对面的电视柜上，电视亮了起来。\r\n",
+      "sourceLocation": "txt:chars:42780:42800"
+    },
+    {
+      "id": "182:p5",
+      "kind": "body",
+      "text": "也许供电恢复了？\r\n",
+      "sourceLocation": "txt:chars:42800:42810"
+    },
+    {
+      "id": "182:p6",
+      "kind": "body",
+      "text": "在记录表上勾选 封锁。\r\n",
+      "sourceLocation": "txt:chars:42810:42823"
+    },
+    {
+      "id": "182:p7",
+      "kind": "body",
+      "text": "要去开灯，转到 184。\r\n",
+      "sourceLocation": "txt:chars:42823:42837"
+    },
+    {
+      "id": "182:p8",
+      "kind": "body",
+      "text": "要把那台倒霉的电视关掉，转到 185。\r\n",
+      "sourceLocation": "txt:chars:42837:42858"
+    }
+  ]
+}

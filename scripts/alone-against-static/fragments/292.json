@@ -1,0 +1,60 @@
+{
+  "id": "292",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "292:p0",
+      "kind": "heading",
+      "text": "$t1 == '292'?\r\n`",
+      "sourceLocation": "txt:chars:66443:66459"
+    },
+    {
+      "id": "292:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:66459:66461"
+    },
+    {
+      "id": "292:p2",
+      "kind": "body",
+      "text": "你推开门，准备跑路。寒冷的空气洗过你的全身，让你停住。你慢慢呼吸着，让心跳慢下来。\r\n",
+      "sourceLocation": "txt:chars:66461:66504"
+    },
+    {
+      "id": "292:p3",
+      "kind": "body",
+      "text": "外面这么黑，跑出去无异于自杀。你终于放松下来，决定留下。暂时还是呆在小屋里比较好。\r\n",
+      "sourceLocation": "txt:chars:66504:66547"
+    },
+    {
+      "id": "292:p4",
+      "kind": "body",
+      "text": "你伴侣还是有可能现在回来。\r\n",
+      "sourceLocation": "txt:chars:66547:66562"
+    },
+    {
+      "id": "292:p5",
+      "kind": "body",
+      "text": "外面又黑又冷。风从门前的空地吹过，沿着车道吹进森林的深处。\r\n",
+      "sourceLocation": "txt:chars:66562:66593"
+    },
+    {
+      "id": "292:p6",
+      "kind": "body",
+      "text": "进行一次聆听检定。\r\n",
+      "sourceLocation": "txt:chars:66593:66604"
+    },
+    {
+      "id": "292:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 225。\r\n",
+      "sourceLocation": "txt:chars:66604:66620"
+    },
+    {
+      "id": "292:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 228。\r\n",
+      "sourceLocation": "txt:chars:66620:66636"
+    }
+  ]
+}

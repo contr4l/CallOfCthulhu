@@ -1,0 +1,36 @@
+{
+  "id": "263",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "263:p0",
+      "kind": "heading",
+      "text": "$t1 == '263'?\r\n`",
+      "sourceLocation": "txt:chars:59659:59675"
+    },
+    {
+      "id": "263:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:59675:59677"
+    },
+    {
+      "id": "263:p2",
+      "kind": "body",
+      "text": "你一蹲身躲过陌生人的拳头。他收不住力，磕磕绊绊地冲过你身边，差点被床绊倒。你现在在他身后，就在敞开的屋门旁边。\r\n",
+      "sourceLocation": "txt:chars:59677:59734"
+    },
+    {
+      "id": "263:p3",
+      "kind": "body",
+      "text": "要跑出门外，转到 298。\r\n",
+      "sourceLocation": "txt:chars:59734:59749"
+    },
+    {
+      "id": "263:p4",
+      "kind": "body",
+      "text": "要从身后攻击他，转到 264。\r\n",
+      "sourceLocation": "txt:chars:59749:59766"
+    }
+  ]
+}

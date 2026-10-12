@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "71"
+  ],
+  "text": [
+    "你把录像机上的所有按钮按了一个遍，但是什么都没有发生。电池肯定已经没电了。你感觉到录像机里有东西在晃动，可能是另一盘磁带。但是退带按钮也卡住了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 71",
+      "textRef": "default"
+    }
+  }
+}

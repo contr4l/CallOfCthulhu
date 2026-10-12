@@ -1,0 +1,48 @@
+{
+  "id": "49",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "49:p0",
+      "kind": "heading",
+      "text": "$t1 == '49'?\r\n`",
+      "sourceLocation": "txt:chars:14904:14919"
+    },
+    {
+      "id": "49:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:14919:14921"
+    },
+    {
+      "id": "49:p2",
+      "kind": "body",
+      "text": "是时候往下走了。你把清空杂念，一心一意沿着小路往黑山峰的密林深处走去。这段健走让人心旷神怡。阳光从松枝间漏出，在晨间的清爽空气中投下斑驳的光影。\r\n",
+      "sourceLocation": "txt:chars:14921:14995"
+    },
+    {
+      "id": "49:p3",
+      "kind": "body",
+      "text": "过了大约半个小时，你感觉人有三急，便走到一棵树后面去方便。\r\n",
+      "sourceLocation": "txt:chars:14995:15026"
+    },
+    {
+      "id": "49:p4",
+      "kind": "body",
+      "text": "完事之后，你正整理衣服，突然抬头看见了什么。在你面前，小路边上的一个狭谷中，有一座破旧的木头棚屋。\r\n",
+      "sourceLocation": "txt:chars:15026:15077"
+    },
+    {
+      "id": "49:p5",
+      "kind": "body",
+      "text": "要调查棚屋，转到 56。\r\n",
+      "sourceLocation": "txt:chars:15077:15091"
+    },
+    {
+      "id": "49:p6",
+      "kind": "body",
+      "text": "要无视棚屋，转到 79。\r\n",
+      "sourceLocation": "txt:chars:15091:15105"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "38",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "38:p0",
+      "kind": "heading",
+      "text": "$t1 == '38'?\r\n`",
+      "sourceLocation": "txt:chars:12674:12689"
+    },
+    {
+      "id": "38:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:12689:12691"
+    },
+    {
+      "id": "38:p2",
+      "kind": "body",
+      "text": "你蹲下来从灌木上摘了些浆果。果子又软又嫩，汁水迸出，把你的手指染成紫色。你想要把手指舔干净，却犹豫了一下。蓝莓是可以吃的，对吧？第一次出小屋就把自己搞中毒了可不好看。\r\n",
+      "sourceLocation": "txt:chars:12691:12776"
+    },
+    {
+      "id": "38:p3",
+      "kind": "body",
+      "text": "进行一次博物学检定。\r\n",
+      "sourceLocation": "txt:chars:12776:12788"
+    },
+    {
+      "id": "38:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 77。\r\n",
+      "sourceLocation": "txt:chars:12788:12803"
+    },
+    {
+      "id": "38:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 104。\r\n",
+      "sourceLocation": "txt:chars:12803:12819"
+    }
+  ]
+}

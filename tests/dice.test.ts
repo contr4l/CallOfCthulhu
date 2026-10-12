@@ -265,7 +265,9 @@ test("version 1 migration preserves saved characters and runs while adding playe
     await app.close();
     const { DatabaseSync } = await import("node:sqlite");
     const legacy = new DatabaseSync(databasePath);
-    legacy.exec("DROP TABLE dice_rolls; PRAGMA user_version=1;");
+    legacy.exec(
+      "DROP TABLE dice_rolls; DROP TABLE shop_discarded_checks; DROP TABLE shop_check_windows; DROP TABLE shop_purchases; DROP TABLE achievement_claims; DROP TABLE shop_inventory; DROP TABLE shop_wallets; PRAGMA user_version=1;",
+    );
     legacy.close();
     app = await buildApp({ databasePath, dice: () => 6 });
     assert.deepEqual(

@@ -1,0 +1,36 @@
+{
+  "id": "230",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "230:p0",
+      "kind": "heading",
+      "text": "$t1 == '230'?\r\n`",
+      "sourceLocation": "txt:chars:53902:53918"
+    },
+    {
+      "id": "230:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:53918:53920"
+    },
+    {
+      "id": "230:p2",
+      "kind": "body",
+      "text": "你撞进小屋，想要把门甩上。门只关了一半男人就撞了上来。他的手臂插进门缝里，撑着不让你关门。被夹住的肢体朝着你狂野地挥舞着。\r\n",
+      "sourceLocation": "txt:chars:53920:53983"
+    },
+    {
+      "id": "230:p3",
+      "kind": "body",
+      "text": "要用门夹他的手臂，转到 235。\r\n",
+      "sourceLocation": "txt:chars:53983:54001"
+    },
+    {
+      "id": "230:p4",
+      "kind": "body",
+      "text": "要放开门，去找别的东西，转到 236。\r\n",
+      "sourceLocation": "txt:chars:54001:54022"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "270",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "270:p0",
+      "kind": "heading",
+      "text": "$t1 == '270'?\r\n`",
+      "sourceLocation": "txt:chars:61093:61109"
+    },
+    {
+      "id": "270:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:61109:61111"
+    },
+    {
+      "id": "270:p2",
+      "kind": "body",
+      "text": "你一拳在他腮边，但他不为所动。你骂了一句。他的下巴好硬。你的指关节肯定淤血了。\r\n",
+      "sourceLocation": "txt:chars:61111:61152"
+    },
+    {
+      "id": "270:p3",
+      "kind": "body",
+      "text": "男人咆哮着：“你胆敢袭击幼子？你一定会遭惩罚！”\r\n",
+      "sourceLocation": "txt:chars:61152:61178"
+    },
+    {
+      "id": "270:p4",
+      "kind": "body",
+      "text": "他冲上来，巨大的体重把你撞翻在地。\r\n",
+      "sourceLocation": "txt:chars:61178:61197"
+    },
+    {
+      "id": "270:p5",
+      "kind": "body",
+      "text": "手电筒从你手中脱落，顺着地板滚进厨房。没了手电筒，你几乎什么都看不清。\r\n",
+      "sourceLocation": "txt:chars:61197:61234"
+    },
+    {
+      "id": "270:p6",
+      "kind": "body",
+      "text": "你胡乱摸索着手电筒，但只感觉他的大手抓住了你。你听到他嘟囔着，像唱歌一样呻吟着，就像受惊的大象或马匹。\r\n",
+      "sourceLocation": "txt:chars:61234:61287"
+    },
+    {
+      "id": "270:p7",
+      "kind": "body",
+      "text": "他正试着把你拖出小屋。\r\n",
+      "sourceLocation": "txt:chars:61287:61300"
+    },
+    {
+      "id": "270:p8",
+      "kind": "body",
+      "text": "要反抗，转到 282。\r\n",
+      "sourceLocation": "txt:chars:61300:61313"
+    },
+    {
+      "id": "270:p9",
+      "kind": "body",
+      "text": "要屈服，转到 278。\r\n",
+      "sourceLocation": "txt:chars:61313:61326"
+    }
+  ]
+}

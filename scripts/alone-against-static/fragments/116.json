@@ -1,0 +1,60 @@
+{
+  "id": "116",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "116:p0",
+      "kind": "heading",
+      "text": "$t1 == '116'?\r\n`",
+      "sourceLocation": "txt:chars:27606:27622"
+    },
+    {
+      "id": "116:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:27622:27624"
+    },
+    {
+      "id": "116:p2",
+      "kind": "body",
+      "text": "“你住在附近吗？”你问道。他摇了摇头。“你车抛锚了或者遇到别的困难吗？”他又摇了摇头。\r\n",
+      "sourceLocation": "txt:chars:27624:27669"
+    },
+    {
+      "id": "116:p3",
+      "kind": "body",
+      "text": "你开始心慌。这家伙实在是太奇怪了。“那我恐怕帮不到你。”\r\n",
+      "sourceLocation": "txt:chars:27669:27699"
+    },
+    {
+      "id": "116:p4",
+      "kind": "body",
+      "text": "“你可以的。”他说。\r\n",
+      "sourceLocation": "txt:chars:27699:27711"
+    },
+    {
+      "id": "116:p5",
+      "kind": "body",
+      "text": "“怎么帮到你？”\r\n",
+      "sourceLocation": "txt:chars:27711:27721"
+    },
+    {
+      "id": "116:p6",
+      "kind": "body",
+      "text": "“你可以告诉我茱莉在哪。”\r\n",
+      "sourceLocation": "txt:chars:27721:27736"
+    },
+    {
+      "id": "116:p7",
+      "kind": "body",
+      "text": "要询问他是怎么认得马克和茱莉的，转到 132。\r\n",
+      "sourceLocation": "txt:chars:27736:27761"
+    },
+    {
+      "id": "116:p8",
+      "kind": "body",
+      "text": "要让他离开，转到 117。\r\n",
+      "sourceLocation": "txt:chars:27761:27776"
+    }
+  ]
+}

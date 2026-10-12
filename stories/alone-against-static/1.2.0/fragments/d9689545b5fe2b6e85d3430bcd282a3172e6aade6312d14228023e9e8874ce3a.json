@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "70"
+  ],
+  "text": [
+    "笨重的手持录像机让你不寒而栗。你昨晚看的视频就是它拍摄的吗？",
+    "这台录像机可能有四五年，但是老化很严重。它一定是从全新的时候就被丢在这里腐烂了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 70",
+      "textRef": "default"
+    }
+  }
+}

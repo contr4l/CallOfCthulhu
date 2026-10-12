@@ -1,0 +1,54 @@
+{
+  "id": "9",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "9:p0",
+      "kind": "heading",
+      "text": "$t1 == '9'?\r\n`",
+      "sourceLocation": "txt:chars:3232:3246"
+    },
+    {
+      "id": "9:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:3246:3248"
+    },
+    {
+      "id": "9:p2",
+      "kind": "body",
+      "text": "你一下结结实实地打在怪物脸上，打在这张从你伴侣身上偷来的脸上。这一击撕裂了怪物的肉体，它撕裂成了虚无。这生物的本体没有受到一点伤害。你怎么可能伤得到它？这是一头正在爆发式变异的怪兽。但是，就在你打中它的这一块，你夺回了些许主动。你从它身上撕去了你伴侣的脸。这个简单的举动让你心中涌动着正义的胜利。它不能夺走你的一切。\r\n",
+      "sourceLocation": "txt:chars:3248:3408"
+    },
+    {
+      "id": "9:p3",
+      "kind": "body",
+      "text": "你没能挡住这怪物多久。它用一条呼呼挥舞的触手抓住了你。就在这些触手在你面前翻腾扭曲时，一个异样的声音在你身边的森林中回响。\r\n",
+      "sourceLocation": "txt:chars:3408:3471"
+    },
+    {
+      "id": "9:p4",
+      "kind": "body",
+      "text": "“这是你最后的机会。接纳森林之子，可得重生；拒绝森林之子，将遭折磨。”\r\n",
+      "sourceLocation": "txt:chars:3471:3508"
+    },
+    {
+      "id": "9:p5",
+      "kind": "body",
+      "text": "要接受，转到 27。\r\n",
+      "sourceLocation": "txt:chars:3508:3520"
+    },
+    {
+      "id": "9:p6",
+      "kind": "body",
+      "text": "要拒绝，转到 134。\r\n",
+      "sourceLocation": "txt:chars:3520:3533"
+    },
+    {
+      "id": "9:p7",
+      "kind": "body",
+      "text": "如果记录表上的 时间之铁 被勾选，且 临阵磨刀 未被勾选，转到 363。\r\n",
+      "sourceLocation": "txt:chars:3533:3571"
+    }
+  ]
+}

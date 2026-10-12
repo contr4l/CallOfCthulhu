@@ -1,0 +1,54 @@
+{
+  "id": "252",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "252:p0",
+      "kind": "heading",
+      "text": "$t1 == '252'?\r\n`",
+      "sourceLocation": "txt:chars:57828:57844"
+    },
+    {
+      "id": "252:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:57844:57846"
+    },
+    {
+      "id": "252:p2",
+      "kind": "body",
+      "text": "没时间了。\r\n",
+      "sourceLocation": "txt:chars:57846:57853"
+    },
+    {
+      "id": "252:p3",
+      "kind": "body",
+      "text": "屋门爆开。壮硕的身影钻过门框，朝你冲来。\r\n",
+      "sourceLocation": "txt:chars:57853:57875"
+    },
+    {
+      "id": "252:p4",
+      "kind": "body",
+      "text": "在慌乱中，手电筒滑落在地，滚过小屋的地板。你蹲下身想要接住，但太慢了。在黑暗中，陌生人的手抓住了你。他的臂膀像铁一样硬。你听到他嘟囔着，像唱歌一样呻吟着，就像受惊的大象或马匹。\r\n",
+      "sourceLocation": "txt:chars:57875:57965"
+    },
+    {
+      "id": "252:p5",
+      "kind": "body",
+      "text": "他正试着把你拖出小屋。\r\n",
+      "sourceLocation": "txt:chars:57965:57978"
+    },
+    {
+      "id": "252:p6",
+      "kind": "body",
+      "text": "要反抗，转到 282。\r\n",
+      "sourceLocation": "txt:chars:57978:57991"
+    },
+    {
+      "id": "252:p7",
+      "kind": "body",
+      "text": "要屈服，转到 278。\r\n",
+      "sourceLocation": "txt:chars:57991:58004"
+    }
+  ]
+}

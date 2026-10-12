@@ -1,0 +1,72 @@
+{
+  "id": "54",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "54:p0",
+      "kind": "heading",
+      "text": "$t1 == '54'?\r\n`",
+      "sourceLocation": "txt:chars:15717:15732"
+    },
+    {
+      "id": "54:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:15732:15734"
+    },
+    {
+      "id": "54:p2",
+      "kind": "body",
+      "text": "你深一脚浅一脚地朝鹿走去，想要更仔细地看看它的眼睛。\r\n",
+      "sourceLocation": "txt:chars:15734:15762"
+    },
+    {
+      "id": "54:p3",
+      "kind": "body",
+      "text": "你刚一动，这头鹿就呻吟着转身跑进了森林。\r\n",
+      "sourceLocation": "txt:chars:15762:15784"
+    },
+    {
+      "id": "54:p4",
+      "kind": "body",
+      "text": "“等等！”你呼喊着往前追去，却踩在河床一块生着苔藓的石头上。你脚下打滑，往侧面倒下，头重重地摔在地上。一时间天旋地转。\r\n",
+      "sourceLocation": "txt:chars:15784:15845"
+    },
+    {
+      "id": "54:p5",
+      "kind": "body",
+      "text": "你迷迷糊糊地躺了好一会儿才恢复行动能力。当眩晕感终于退去，你摇摇晃晃地坐起身，摸着后脑勺。摸起来很痛，你不禁皱起眉头。你能摸到一块湿漉漉的血迹。\r\n",
+      "sourceLocation": "txt:chars:15845:15919"
+    },
+    {
+      "id": "54:p6",
+      "kind": "body",
+      "text": "你撑着站起来，咒骂着这头鹿。然后，你返回小路上继续健走，因为疼痛而咬着牙。太棒了。\r\n",
+      "sourceLocation": "txt:chars:15919:15962"
+    },
+    {
+      "id": "54:p7",
+      "kind": "body",
+      "text": "多么美妙的早晨啊……\r\n",
+      "sourceLocation": "txt:chars:15962:15974"
+    },
+    {
+      "id": "54:p8",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:15974:15999"
+    },
+    {
+      "id": "54:p9",
+      "kind": "body",
+      "text": "受到 1D4 点伤害。\r\n",
+      "sourceLocation": "txt:chars:15999:16012"
+    },
+    {
+      "id": "54:p10",
+      "kind": "body",
+      "text": "转到 55。\r\n",
+      "sourceLocation": "txt:chars:16012:16020"
+    }
+  ]
+}

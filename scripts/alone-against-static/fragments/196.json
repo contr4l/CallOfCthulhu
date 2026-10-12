@@ -1,0 +1,42 @@
+{
+  "id": "196",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "196:p0",
+      "kind": "heading",
+      "text": "$t1 == '196'?\r\n`",
+      "sourceLocation": "txt:chars:45665:45681"
+    },
+    {
+      "id": "196:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:45681:45683"
+    },
+    {
+      "id": "196:p2",
+      "kind": "body",
+      "text": "你拿出之前在卡死的摄像机里找到的磁带。在磁带的一侧写着标题：《小屋中的伴侣》。\r\n",
+      "sourceLocation": "txt:chars:45683:45724"
+    },
+    {
+      "id": "196:p3",
+      "kind": "body",
+      "text": "你坐在电视前，把磁带放进放映机。\r\n",
+      "sourceLocation": "txt:chars:45724:45742"
+    },
+    {
+      "id": "196:p4",
+      "kind": "body",
+      "text": "要按播放键，转到 197。\r\n",
+      "sourceLocation": "txt:chars:45742:45757"
+    },
+    {
+      "id": "196:p5",
+      "kind": "body",
+      "text": "要把磁带收起来，回到 186。\r\n",
+      "sourceLocation": "txt:chars:45757:45774"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "34",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "34:p0",
+      "kind": "heading",
+      "text": "$t1 == '34'?\r\n`",
+      "sourceLocation": "txt:chars:11724:11739"
+    },
+    {
+      "id": "34:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:11739:11741"
+    },
+    {
+      "id": "34:p2",
+      "kind": "body",
+      "text": "当你醒来时，你发现身旁空无一人。\r\n",
+      "sourceLocation": "txt:chars:11741:11759"
+    },
+    {
+      "id": "34:p3",
+      "kind": "body",
+      "text": "你一个激灵从床上坐起来。“宝贝？”\r\n",
+      "sourceLocation": "txt:chars:11759:11778"
+    },
+    {
+      "id": "34:p4",
+      "kind": "body",
+      "text": "没有人回答你，只有窗外的风送来早晨轻柔的鸟鸣。你站起来走到厨房，看到笨重的冰箱上贴着一张便条。便条上用熟悉的笔迹写着：\r\n",
+      "sourceLocation": "txt:chars:11778:11839"
+    },
+    {
+      "id": "34:p5",
+      "kind": "body",
+      "text": "“要再对你说抱歉。只是想要这个周末特殊一点。去镇里找人修电源了，尽快回来。爱你。”\r\n",
+      "sourceLocation": "txt:chars:11839:11882"
+    },
+    {
+      "id": "34:p6",
+      "kind": "body",
+      "text": "你放下便条。看起来，你要独处几个小时了。\r\n",
+      "sourceLocation": "txt:chars:11882:11904"
+    },
+    {
+      "id": "34:p7",
+      "kind": "body",
+      "text": "要吃早餐，转到 35。\r\n",
+      "sourceLocation": "txt:chars:11904:11917"
+    },
+    {
+      "id": "34:p8",
+      "kind": "body",
+      "text": "要去健走，转到 37。\r\n",
+      "sourceLocation": "txt:chars:11917:11930"
+    }
+  ]
+}

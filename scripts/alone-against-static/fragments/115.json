@@ -1,0 +1,30 @@
+{
+  "id": "115",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "115:p0",
+      "kind": "heading",
+      "text": "$t1 == '115'?\r\n`",
+      "sourceLocation": "txt:chars:27529:27545"
+    },
+    {
+      "id": "115:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:27545:27547"
+    },
+    {
+      "id": "115:p2",
+      "kind": "body",
+      "text": "你从这陌生人身边看去，在他身后你们停车的地方还是一片空地。这个人一定是走着来小屋的。\r\n",
+      "sourceLocation": "txt:chars:27547:27591"
+    },
+    {
+      "id": "115:p3",
+      "kind": "body",
+      "text": "转到 118。\r\n",
+      "sourceLocation": "txt:chars:27591:27600"
+    }
+  ]
+}

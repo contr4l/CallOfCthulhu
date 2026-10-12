@@ -1,0 +1,42 @@
+{
+  "id": "129",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "129:p0",
+      "kind": "heading",
+      "text": "$t1 == '129'?\r\n`",
+      "sourceLocation": "txt:chars:30604:30620"
+    },
+    {
+      "id": "129:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:30620:30622"
+    },
+    {
+      "id": "129:p2",
+      "kind": "body",
+      "text": "亚历克斯不断躲闪着你的视线。如果她不愿讲话，甚至不愿和和你对上视线，那你根本无法判断她的感受。她只是心不在焉地戳着食物，什么也没说。也许直白一些才好。“你感觉怎么样？”你问道。\r\n",
+      "sourceLocation": "txt:chars:30622:30712"
+    },
+    {
+      "id": "129:p3",
+      "kind": "body",
+      "text": "“挺好的，”你刚问完，亚历克斯立刻就回答了。然后，沉默又在你们之间降临。\r\n",
+      "sourceLocation": "txt:chars:30712:30750"
+    },
+    {
+      "id": "129:p4",
+      "kind": "body",
+      "text": "真好。好吧，如果亚历克斯现在不想讲话，那就这样吧。你最好也找点别的事做。\r\n",
+      "sourceLocation": "txt:chars:30750:30788"
+    },
+    {
+      "id": "129:p5",
+      "kind": "body",
+      "text": "转到 234。\r\n",
+      "sourceLocation": "txt:chars:30788:30797"
+    }
+  ]
+}

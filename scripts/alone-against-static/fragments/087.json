@@ -1,0 +1,78 @@
+{
+  "id": "87",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "87:p0",
+      "kind": "heading",
+      "text": "$t1 == '87'?\r\n`",
+      "sourceLocation": "txt:chars:21955:21970"
+    },
+    {
+      "id": "87:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:21970:21972"
+    },
+    {
+      "id": "87:p2",
+      "kind": "body",
+      "text": "水流喷出，流到下面的浴缸里。房间里满是水流的哗哗声，几乎让你想起那白噪音。水泵没有供电，水压很不好，但是重力还能让它流出来。谢天谢地热水器是烧燃气的。\r\n",
+      "sourceLocation": "txt:chars:21972:22049"
+    },
+    {
+      "id": "87:p3",
+      "kind": "body",
+      "text": "你洗了脸，把鼻子的毛孔搓洗干净，然后转过身去擦着后背。\r\n",
+      "sourceLocation": "txt:chars:22049:22078"
+    },
+    {
+      "id": "87:p4",
+      "kind": "body",
+      "text": "忽然，你停下了。\r\n",
+      "sourceLocation": "txt:chars:22078:22088"
+    },
+    {
+      "id": "87:p5",
+      "kind": "body",
+      "text": "就在面前，浴室的门大开着。你确信自己刚刚把它关上了。\r\n",
+      "sourceLocation": "txt:chars:22088:22116"
+    },
+    {
+      "id": "87:p6",
+      "kind": "body",
+      "text": "你关掉花洒，走出浴缸，抓了一条浴巾裹在身上。\r\n",
+      "sourceLocation": "txt:chars:22116:22140"
+    },
+    {
+      "id": "87:p7",
+      "kind": "body",
+      "text": "“甜心？是你吗？”你喊道。没有人回答你。\r\n",
+      "sourceLocation": "txt:chars:22140:22162"
+    },
+    {
+      "id": "87:p8",
+      "kind": "body",
+      "text": "你站在空荡荡的小屋里。什么都没有，你还是孤身一人。\r\n",
+      "sourceLocation": "txt:chars:22162:22189"
+    },
+    {
+      "id": "87:p9",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:22189:22200"
+    },
+    {
+      "id": "87:p10",
+      "kind": "body",
+      "text": "如果检定成功，转到 88。\r\n",
+      "sourceLocation": "txt:chars:22200:22215"
+    },
+    {
+      "id": "87:p11",
+      "kind": "body",
+      "text": "如果检定失败，转到 89。\r\n",
+      "sourceLocation": "txt:chars:22215:22230"
+    }
+  ]
+}

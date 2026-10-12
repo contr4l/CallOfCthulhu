@@ -1,0 +1,42 @@
+{
+  "id": "163",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "163:p0",
+      "kind": "heading",
+      "text": "$t1 == '163'?\r\n`",
+      "sourceLocation": "txt:chars:38618:38634"
+    },
+    {
+      "id": "163:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:38634:38636"
+    },
+    {
+      "id": "163:p2",
+      "kind": "body",
+      "text": "你决定趁着还有机会，及早脱身。\r\n",
+      "sourceLocation": "txt:chars:38636:38653"
+    },
+    {
+      "id": "163:p3",
+      "kind": "body",
+      "text": "你赶回小屋，所幸没有听到追赶的声音。\r\n",
+      "sourceLocation": "txt:chars:38653:38673"
+    },
+    {
+      "id": "163:p4",
+      "kind": "body",
+      "text": "不久，你就回到了安全的室内。\r\n",
+      "sourceLocation": "txt:chars:38673:38689"
+    },
+    {
+      "id": "163:p5",
+      "kind": "body",
+      "text": "转到 142。\r\n",
+      "sourceLocation": "txt:chars:38689:38698"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "128"
+  ],
+  "text": [
+    "“好——吧，”你拖着长声说着，眯上了眼睛，“多谢。”",
+    "你当着他的面关上了门，而他只是一动不动地盯着。你担心他可能会把脚插进来，但他也并没这样做。你锁上了门。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 128",
+      "textRef": "default"
+    }
+  }
+}

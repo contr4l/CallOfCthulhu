@@ -1,0 +1,54 @@
+{
+  "id": "47",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "47:p0",
+      "kind": "heading",
+      "text": "$t1 == '47'?\r\n`",
+      "sourceLocation": "txt:chars:14540:14555"
+    },
+    {
+      "id": "47:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:14555:14557"
+    },
+    {
+      "id": "47:p2",
+      "kind": "body",
+      "text": "你看过不少自然纪录片，知道感染了这头鹿眼睛的东西并不常见。它的症状与你在电视上见过的任何一种吓人的疾病、毒素或寄生虫都不一样。\r\n",
+      "sourceLocation": "txt:chars:14557:14622"
+    },
+    {
+      "id": "47:p3",
+      "kind": "body",
+      "text": "你举起手掌尝试让自己显得无害，朝着鹿走了一步。\r\n",
+      "sourceLocation": "txt:chars:14622:14647"
+    },
+    {
+      "id": "47:p4",
+      "kind": "body",
+      "text": "你刚一动弹，鹿就转身逃走了。几秒钟内，它的身影就消失在树林之间。你被一个人留在溪水旁。\r\n",
+      "sourceLocation": "txt:chars:14647:14692"
+    },
+    {
+      "id": "47:p5",
+      "kind": "body",
+      "text": "真吓人！你还是回到小路上好了。\r\n",
+      "sourceLocation": "txt:chars:14692:14709"
+    },
+    {
+      "id": "47:p6",
+      "kind": "body",
+      "text": "在记录表上勾选 兽医。\r\n",
+      "sourceLocation": "txt:chars:14709:14722"
+    },
+    {
+      "id": "47:p7",
+      "kind": "body",
+      "text": "转到 55。\r\n",
+      "sourceLocation": "txt:chars:14722:14730"
+    }
+  ]
+}

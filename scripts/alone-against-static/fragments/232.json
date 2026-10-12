@@ -1,0 +1,54 @@
+{
+  "id": "232",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "232:p0",
+      "kind": "heading",
+      "text": "$t1 == '232'?\r\n`",
+      "sourceLocation": "txt:chars:54181:54197"
+    },
+    {
+      "id": "232:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:54197:54199"
+    },
+    {
+      "id": "232:p2",
+      "kind": "body",
+      "text": "你的手电筒从手中滑落，顺着地板滚到了厨房。\r\n",
+      "sourceLocation": "txt:chars:54199:54222"
+    },
+    {
+      "id": "232:p3",
+      "kind": "body",
+      "text": "男人打开屋门。在黑暗中，你听到他的脚步声朝你跑来。\r\n",
+      "sourceLocation": "txt:chars:54222:54249"
+    },
+    {
+      "id": "232:p4",
+      "kind": "body",
+      "text": "你挣扎着去够手电筒，却感到陌生人的手环抱住你。他的臂膀像铁一样硬。你听到他嘟囔着，像唱歌一样呻吟着，就像受惊的大象或马匹。\r\n",
+      "sourceLocation": "txt:chars:54249:54312"
+    },
+    {
+      "id": "232:p5",
+      "kind": "body",
+      "text": "他正试着把你拖出小屋。\r\n",
+      "sourceLocation": "txt:chars:54312:54325"
+    },
+    {
+      "id": "232:p6",
+      "kind": "body",
+      "text": "要反抗，转到 282。\r\n",
+      "sourceLocation": "txt:chars:54325:54338"
+    },
+    {
+      "id": "232:p7",
+      "kind": "body",
+      "text": "要屈服，转到 278。\r\n",
+      "sourceLocation": "txt:chars:54338:54351"
+    }
+  ]
+}

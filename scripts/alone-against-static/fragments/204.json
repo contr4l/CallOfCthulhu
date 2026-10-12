@@ -1,0 +1,48 @@
+{
+  "id": "204",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "204:p0",
+      "kind": "heading",
+      "text": "$t1 == '204'?\r\n`",
+      "sourceLocation": "txt:chars:47932:47948"
+    },
+    {
+      "id": "204:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:47948:47950"
+    },
+    {
+      "id": "204:p2",
+      "kind": "body",
+      "text": "没事的。别让你自己被情绪控制。一切都会好的。一切都很好。不管什么都很好。确实，那东西让人不安。但是那可能是任何东西。你看马克自己的倒影都扭曲得像个怪物了。\r\n",
+      "sourceLocation": "txt:chars:47950:48029"
+    },
+    {
+      "id": "204:p3",
+      "kind": "body",
+      "text": "另外，你知道马克马上就会去开门——如果那里真的有什么奇怪的长着角的怪物，马克一定会看见然后吓一跳的。没什么可担心的。\r\n",
+      "sourceLocation": "txt:chars:48029:48089"
+    },
+    {
+      "id": "204:p4",
+      "kind": "body",
+      "text": "只是影片里模糊得有点吓人。\r\n",
+      "sourceLocation": "txt:chars:48089:48104"
+    },
+    {
+      "id": "204:p5",
+      "kind": "body",
+      "text": "你又盯着画面看了半分钟，然后退出了磁带。\r\n",
+      "sourceLocation": "txt:chars:48104:48126"
+    },
+    {
+      "id": "204:p6",
+      "kind": "body",
+      "text": "回到 186。\r\n",
+      "sourceLocation": "txt:chars:48126:48135"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "337",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "337:p0",
+      "kind": "heading",
+      "text": "$t1 == '337'?\r\n`",
+      "sourceLocation": "txt:chars:76996:77012"
+    },
+    {
+      "id": "337:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:77012:77014"
+    },
+    {
+      "id": "337:p2",
+      "kind": "body",
+      "text": "“你总是说幼子，”你说，“它到底是什么？”\r\n",
+      "sourceLocation": "txt:chars:77014:77037"
+    },
+    {
+      "id": "337:p3",
+      "kind": "body",
+      "text": "男人微笑着，“一种古老的存在。是的，对于一个古老存在来说名字有些怪。我相信祂是地球母亲所生。祂在世界上各种荒野中孑孑独立，孤独而痛苦。”\r\n",
+      "sourceLocation": "txt:chars:77037:77107"
+    },
+    {
+      "id": "337:p4",
+      "kind": "body",
+      "text": "如果记录表上的 亚历克斯 已被勾选，转到 336。\r\n",
+      "sourceLocation": "txt:chars:77107:77134"
+    },
+    {
+      "id": "337:p5",
+      "kind": "body",
+      "text": "如果记录表上的 查理 已被勾选，转到 285。\r\n",
+      "sourceLocation": "txt:chars:77134:77159"
+    }
+  ]
+}

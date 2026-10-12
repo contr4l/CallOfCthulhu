@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "224"
+  ],
+  "text": [
+    "你用手电筒照着走到门边，开门出去。",
+    "外面又黑又冷。风从门前的空地吹过，沿着车道吹进森林的深处。",
+    "你把手电筒左右扫着，但没有你伴侣的迹象。",
+    "你显然太乐观了。如果有车子回来，你在一里地外就听得到。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 224",
+      "textRef": "default"
+    }
+  }
+}

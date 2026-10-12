@@ -1,0 +1,66 @@
+{
+  "id": "312",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "312:p0",
+      "kind": "heading",
+      "text": "$t1 == '312'?\r\n`",
+      "sourceLocation": "txt:chars:70470:70486"
+    },
+    {
+      "id": "312:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:70486:70488"
+    },
+    {
+      "id": "312:p2",
+      "kind": "body",
+      "text": "保持平衡是不可能的。在黑暗中，你扑倒在地。你甚至看不清眼前的地面，你只知道，这下会很疼。\r\n",
+      "sourceLocation": "txt:chars:70488:70534"
+    },
+    {
+      "id": "312:p3",
+      "kind": "body",
+      "text": "咔嚓！\r\n",
+      "sourceLocation": "txt:chars:70534:70539"
+    },
+    {
+      "id": "312:p4",
+      "kind": "body",
+      "text": "你的肩膀嘎吱作响，声音可怕至极。你听到骨头挤压软骨的咔哒声，然后是折断的声音。惯性带着你向前滑去，从地面弹起，越过山脊线，顺着下坡滑落，蹭上或撞上了几十个障碍物。重力摆弄着你的身体。过了不知多久，你终于摔在平地上。你又滚了几圈，终于面朝天停下。你浑身没有不疼的地方，但是你很清楚，这才是刚开始。你还在应激状态，真正的痛苦尚未到来。\r\n",
+      "sourceLocation": "txt:chars:70539:70706"
+    },
+    {
+      "id": "312:p5",
+      "kind": "body",
+      "text": "趁着伤口还没有疼到动弹不得，你勉强用一边的手肘撑起身体。你是在树林中的一片空地。空地不大，但是有人在这里。空地中间有一处营地：一堆熄灭的篝火和一个小帐篷。\r\n",
+      "sourceLocation": "txt:chars:70706:70785"
+    },
+    {
+      "id": "312:p6",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:70785:70810"
+    },
+    {
+      "id": "312:p7",
+      "kind": "body",
+      "text": "受到 1D4 点伤害。\r\n",
+      "sourceLocation": "txt:chars:70810:70823"
+    },
+    {
+      "id": "312:p8",
+      "kind": "body",
+      "text": "如果记录表上的 熟面孔 或 转错弯 已被勾选，你认出了这处营地，必须转到 266。\r\n",
+      "sourceLocation": "txt:chars:70823:70866"
+    },
+    {
+      "id": "312:p9",
+      "kind": "body",
+      "text": "转到 275。\r\n",
+      "sourceLocation": "txt:chars:70866:70875"
+    }
+  ]
+}

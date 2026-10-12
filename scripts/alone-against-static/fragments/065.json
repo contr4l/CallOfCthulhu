@@ -1,0 +1,42 @@
+{
+  "id": "65",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "65:p0",
+      "kind": "heading",
+      "text": "$t1 == '65'?\r\n`",
+      "sourceLocation": "txt:chars:18063:18078"
+    },
+    {
+      "id": "65:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:18078:18080"
+    },
+    {
+      "id": "65:p2",
+      "kind": "body",
+      "text": "纸箱已经受潮发霉。你打开顶上那个箱子。刚一碰，一股令人作呕的腐烂气息就扑鼻而来。在箱子里是一堆黑色的衣服。\r\n",
+      "sourceLocation": "txt:chars:18080:18135"
+    },
+    {
+      "id": "65:p3",
+      "kind": "body",
+      "text": "你把最外边的一件抽了出来。腐烂气味更浓了。这些衣服都是长款带兜帽的，大约有床单那么大。看起来就像是马克那些愚蠢的恐怖片里的服装。\r\n",
+      "sourceLocation": "txt:chars:18135:18201"
+    },
+    {
+      "id": "65:p4",
+      "kind": "body",
+      "text": "要继续搜索剩下的纸盒，转到 66。\r\n",
+      "sourceLocation": "txt:chars:18201:18220"
+    },
+    {
+      "id": "65:p5",
+      "kind": "body",
+      "text": "或者，回到 57。\r\n",
+      "sourceLocation": "txt:chars:18220:18231"
+    }
+  ]
+}

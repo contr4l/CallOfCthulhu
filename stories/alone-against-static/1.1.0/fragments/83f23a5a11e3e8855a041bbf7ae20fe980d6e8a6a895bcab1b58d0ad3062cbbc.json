@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "226"
+  ],
+  "text": [
+    "你冲回屋里，在门廊的木地板上打了个滑。冲刺的身影就在你身后。来得及吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 226",
+      "textRef": "default"
+    }
+  }
+}

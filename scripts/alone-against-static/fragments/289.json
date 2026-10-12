@@ -1,0 +1,72 @@
+{
+  "id": "289",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "289:p0",
+      "kind": "heading",
+      "text": "$t1 == '289'?\r\n`",
+      "sourceLocation": "txt:chars:65777:65793"
+    },
+    {
+      "id": "289:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:65793:65795"
+    },
+    {
+      "id": "289:p2",
+      "kind": "body",
+      "text": "偏执让你心绪破碎。\r\n",
+      "sourceLocation": "txt:chars:65795:65806"
+    },
+    {
+      "id": "289:p3",
+      "kind": "body",
+      "text": "你在小屋里来回踱步，手电筒的光束随着步伐上下摆动着。你需要思考的时间，踱步让你得以做到。等等！停停。如果电池用完了怎么办？\r\n",
+      "sourceLocation": "txt:chars:65806:65869"
+    },
+    {
+      "id": "289:p4",
+      "kind": "body",
+      "text": "你关掉手电筒，继续走着。等等！不对。如果有什么东西过来，你看不到怎么办？\r\n",
+      "sourceLocation": "txt:chars:65869:65907"
+    },
+    {
+      "id": "289:p5",
+      "kind": "body",
+      "text": "你见到的一切都不对劲。也许你应该回去看电视？不。你忍受不了。也许你应该上床睡觉？\r\n",
+      "sourceLocation": "txt:chars:65907:65949"
+    },
+    {
+      "id": "289:p6",
+      "kind": "body",
+      "text": "不！如果被偷袭了怎么办？也许你应该逃跑。也不行！如果在外面被埋伏了怎么办？\r\n",
+      "sourceLocation": "txt:chars:65949:65988"
+    },
+    {
+      "id": "289:p7",
+      "kind": "body",
+      "text": "你走来走去，自言自语，音调越来越高。最后，你再也忍不了了。理智的弦绷断了。你不能留在小屋里。你必须离开。你磕磕绊绊地走到门边，一把拉开。\r\n",
+      "sourceLocation": "txt:chars:65988:66058"
+    },
+    {
+      "id": "289:p8",
+      "kind": "body",
+      "text": "进行一次意志检定。\r\n",
+      "sourceLocation": "txt:chars:66058:66069"
+    },
+    {
+      "id": "289:p9",
+      "kind": "body",
+      "text": "如果检定成功，转到 292。\r\n",
+      "sourceLocation": "txt:chars:66069:66085"
+    },
+    {
+      "id": "289:p10",
+      "kind": "body",
+      "text": "如果检定失败，转到 290。\r\n",
+      "sourceLocation": "txt:chars:66085:66101"
+    }
+  ]
+}

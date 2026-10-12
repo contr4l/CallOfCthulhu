@@ -40,7 +40,7 @@ export function readCollections(
     const visits = new Map<string, Set<string>>();
     const rows = db
       .prepare(
-        "SELECT h.frame,h.run_id FROM run_history h JOIN runs r ON r.id=h.run_id WHERE r.user_id=? AND r.story_id=? AND r.story_version=? ORDER BY h.rowid",
+        "SELECT h.frame,h.run_id FROM run_history h JOIN runs r ON r.id=h.run_id WHERE r.user_id=? AND r.story_id=? AND r.story_version=? AND NOT EXISTS(SELECT 1 FROM shop_discarded_checks d WHERE d.run_id=h.run_id AND d.sequence=h.sequence) AND NOT EXISTS(SELECT 1 FROM shop_check_windows w WHERE w.run_id=h.run_id AND w.revision=h.sequence) ORDER BY h.rowid",
       )
       .all(owner, story.id, story.version);
     for (const row of rows) {

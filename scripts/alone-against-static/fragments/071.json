@@ -1,0 +1,42 @@
+{
+  "id": "71",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "71:p0",
+      "kind": "heading",
+      "text": "$t1 == '71'?\r\n`",
+      "sourceLocation": "txt:chars:19097:19112"
+    },
+    {
+      "id": "71:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:19112:19114"
+    },
+    {
+      "id": "71:p2",
+      "kind": "body",
+      "text": "你把录像机上的所有按钮按了一个遍，但是什么都没有发生。电池肯定已经没电了。你感觉到录像机里有东西在晃动，可能是另一盘磁带。但是退带按钮也卡住了。\r\n",
+      "sourceLocation": "txt:chars:19114:19188"
+    },
+    {
+      "id": "71:p3",
+      "kind": "body",
+      "text": "在记录表上勾选 技术支持。\r\n",
+      "sourceLocation": "txt:chars:19188:19203"
+    },
+    {
+      "id": "71:p4",
+      "kind": "body",
+      "text": "如果记录表上的 工具箱 已被勾选，你想起了一件可能有帮助的物件。转到 72。\r\n",
+      "sourceLocation": "txt:chars:19203:19243"
+    },
+    {
+      "id": "71:p5",
+      "kind": "body",
+      "text": "回到 66。\r\n",
+      "sourceLocation": "txt:chars:19243:19251"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "106"
+  ],
+  "text": [
+    "真好吃。真的。你能算得上是米其林级别的大厨了。",
+    "无论如何……"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 106",
+      "textRef": "default"
+    }
+  }
+}

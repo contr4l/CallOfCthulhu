@@ -1,0 +1,84 @@
+{
+  "id": "15",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "15:p0",
+      "kind": "heading",
+      "text": "$t1 == '15'?\r\n`",
+      "sourceLocation": "txt:chars:4815:4830"
+    },
+    {
+      "id": "15:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:4830:4832"
+    },
+    {
+      "id": "15:p2",
+      "kind": "body",
+      "text": "“是啊，”你微笑着说道，“会很好的，我也这么觉得。”\r\n",
+      "sourceLocation": "txt:chars:4832:4860"
+    },
+    {
+      "id": "15:p3",
+      "kind": "body",
+      "text": "过了几分钟，你端上了汉堡。你和查理在桌边坐下，安静地吃着。你感觉小屋的窗户有点怪。\r\n",
+      "sourceLocation": "txt:chars:4860:4903"
+    },
+    {
+      "id": "15:p4",
+      "kind": "body",
+      "text": "窗外太黑了，你只能看到自己的倒影。就像照镜子一样。\r\n",
+      "sourceLocation": "txt:chars:4903:4930"
+    },
+    {
+      "id": "15:p5",
+      "kind": "body",
+      "text": "“今晚你想干什么？”嘴里还塞着汉堡肉，你问道。\r\n",
+      "sourceLocation": "txt:chars:4930:4955"
+    },
+    {
+      "id": "15:p6",
+      "kind": "body",
+      "text": "查理抬起一条眉毛。你翻了翻白眼。\r\n",
+      "sourceLocation": "txt:chars:4955:4973"
+    },
+    {
+      "id": "15:p7",
+      "kind": "body",
+      "text": "“我认真的。”\r\n",
+      "sourceLocation": "txt:chars:4973:4982"
+    },
+    {
+      "id": "15:p8",
+      "kind": "body",
+      "text": "“嗯，你明天是想出去走走吧？”\r\n",
+      "sourceLocation": "txt:chars:4982:4999"
+    },
+    {
+      "id": "15:p9",
+      "kind": "body",
+      "text": "你点了点头。\r\n",
+      "sourceLocation": "txt:chars:4999:5007"
+    },
+    {
+      "id": "15:p10",
+      "kind": "body",
+      "text": "“那我们就看看电影，轻松点如何？”查理指了指电视。\r\n",
+      "sourceLocation": "txt:chars:5007:5034"
+    },
+    {
+      "id": "15:p11",
+      "kind": "body",
+      "text": "要同意，转到 19。\r\n",
+      "sourceLocation": "txt:chars:5034:5046"
+    },
+    {
+      "id": "15:p12",
+      "kind": "body",
+      "text": "要抱怨，转到 25。\r\n",
+      "sourceLocation": "txt:chars:5046:5058"
+    }
+  ]
+}

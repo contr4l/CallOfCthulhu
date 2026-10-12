@@ -1,4 +1,8 @@
 import { instruction, targets } from "./program-schema.js";
+import {
+  fragmentReference,
+  loadFragmentStory,
+} from "./modules/story-fragments.js";
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { z } from "zod";
@@ -127,6 +131,22 @@ export const storySchema = z
       .min(1),
   })
   .strict();
+export const runtimeGraphSchema = storySchema
+  .omit({ nodes: true })
+  .extend({
+    format: z.literal("coc-runtime-graph@1"),
+    nodes: z
+      .array(
+        storySchema.shape.nodes.element
+          .omit({ text: true, reading: true })
+          .extend({
+            fragment: fragmentReference,
+          }),
+      )
+      .min(1),
+  })
+  .strict();
+
 export function validateStory(input: unknown): Story {
   const s = storySchema.parse(input) as Story;
   const ids = new Set(s.nodes.map((n) => n.id));
@@ -275,13 +295,22 @@ export function loadStories(root: string) {
   const stories = new Map<string, Story>();
   for (const id of readdirSync(root))
     for (const version of readdirSync(join(root, id))) {
-      const story = validateStory(
-        JSON.parse(readFileSync(join(root, id, version, "story.json"), "utf8")),
-      );
+      const path = join(root, id, version, "story.json");
+      const input = JSON.parse(readFileSync(path, "utf8"));
+      const story =
+        input.format === "coc-runtime-graph@1"
+          ? loadFragmentStory(
+              path,
+              (data) => runtimeGraphSchema.parse(data),
+              validateStory,
+            )
+          : validateStory(input);
       if (story.id !== id || story.version !== version)
         throw new Error("剧本目录与版本不匹配");
       const readingPath = join(root, id, version, "reading.json");
       if (existsSync(readingPath)) {
+        if (input.format === "coc-runtime-graph@1")
+          throw new Error("片段格式不能同时存放重复正文语言包");
         const reading = readingSidecar.parse(
           JSON.parse(readFileSync(readingPath, "utf8")),
         );

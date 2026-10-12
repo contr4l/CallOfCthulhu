@@ -1,0 +1,42 @@
+{
+  "id": "92",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "92:p0",
+      "kind": "heading",
+      "text": "$t1 == '92'?\r\n`",
+      "sourceLocation": "txt:chars:22808:22823"
+    },
+    {
+      "id": "92:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:22823:22825"
+    },
+    {
+      "id": "92:p2",
+      "kind": "body",
+      "text": "你走出淋浴，擦干身体，回到小屋里穿衣服。\r\n",
+      "sourceLocation": "txt:chars:22825:22847"
+    },
+    {
+      "id": "92:p3",
+      "kind": "body",
+      "text": "要穿T恤和牛仔裤，在记录表上勾选 实用派。\r\n",
+      "sourceLocation": "txt:chars:22847:22870"
+    },
+    {
+      "id": "92:p4",
+      "kind": "body",
+      "text": "或者，要穿柔软暖和的运动裤和毛衣，在记录表上勾选 舒适派。\r\n",
+      "sourceLocation": "txt:chars:22870:22901"
+    },
+    {
+      "id": "92:p5",
+      "kind": "body",
+      "text": "选择一项，然后转到 93。\r\n",
+      "sourceLocation": "txt:chars:22901:22916"
+    }
+  ]
+}

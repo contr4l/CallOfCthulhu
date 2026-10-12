@@ -1,0 +1,48 @@
+{
+  "id": "227",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "227:p0",
+      "kind": "heading",
+      "text": "$t1 == '227'?\r\n`",
+      "sourceLocation": "txt:chars:53333:53349"
+    },
+    {
+      "id": "227:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:53349:53351"
+    },
+    {
+      "id": "227:p2",
+      "kind": "body",
+      "text": "你撞进小屋，猛地把门甩上，慌张地插上门锁。\r\n",
+      "sourceLocation": "txt:chars:53351:53374"
+    },
+    {
+      "id": "227:p3",
+      "kind": "body",
+      "text": "一秒钟不到，你就听见陌生人全力撞在门上。撞击声如雷霆震耳。他用拳头砸着门，门板颤抖着开始摇晃。他要闯进来了。\r\n",
+      "sourceLocation": "txt:chars:53374:53430"
+    },
+    {
+      "id": "227:p4",
+      "kind": "body",
+      "text": "要顶住屋门，转到 237。\r\n",
+      "sourceLocation": "txt:chars:53430:53445"
+    },
+    {
+      "id": "227:p5",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:53445:53463"
+    },
+    {
+      "id": "227:p6",
+      "kind": "body",
+      "text": "要藏起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:53463:53477"
+    }
+  ]
+}

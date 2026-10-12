@@ -1,0 +1,66 @@
+{
+  "id": "57",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "57:p0",
+      "kind": "heading",
+      "text": "$t1 == '57'?\r\n`",
+      "sourceLocation": "txt:chars:16474:16489"
+    },
+    {
+      "id": "57:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:16489:16491"
+    },
+    {
+      "id": "57:p2",
+      "kind": "body",
+      "text": "棚屋中只有打开的门和凹凸不平的挡风板墙上的裂缝漏进光来。这里没有窗户，好像这个建筑故意设计得阴暗无光一样。\r\n",
+      "sourceLocation": "txt:chars:16491:16546"
+    },
+    {
+      "id": "57:p3",
+      "kind": "body",
+      "text": "你看到一个小工作台、一个壁挂的橱柜和一堆纸板箱。其他的家具都发霉了，没什么可看的。\r\n",
+      "sourceLocation": "txt:chars:16546:16589"
+    },
+    {
+      "id": "57:p4",
+      "kind": "body",
+      "text": "地板在你走过时发出嘎吱嘎吱的响声。\r\n",
+      "sourceLocation": "txt:chars:16589:16608"
+    },
+    {
+      "id": "57:p5",
+      "kind": "body",
+      "text": "根据你的选择，你可能会多次回到这一条目。请选择你尚未选择过的选项。\r\n",
+      "sourceLocation": "txt:chars:16608:16643"
+    },
+    {
+      "id": "57:p6",
+      "kind": "body",
+      "text": "要搜索橱柜，转到 58。\r\n",
+      "sourceLocation": "txt:chars:16643:16657"
+    },
+    {
+      "id": "57:p7",
+      "kind": "body",
+      "text": "要查看工作台，转到 62。\r\n",
+      "sourceLocation": "txt:chars:16657:16672"
+    },
+    {
+      "id": "57:p8",
+      "kind": "body",
+      "text": "要翻找纸板箱，转到 65。\r\n",
+      "sourceLocation": "txt:chars:16672:16687"
+    },
+    {
+      "id": "57:p9",
+      "kind": "body",
+      "text": "要离开棚屋，转到 78。\r\n",
+      "sourceLocation": "txt:chars:16687:16701"
+    }
+  ]
+}

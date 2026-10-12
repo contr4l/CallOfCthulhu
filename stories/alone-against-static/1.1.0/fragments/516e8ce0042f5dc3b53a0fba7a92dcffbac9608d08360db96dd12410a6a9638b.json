@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "114"
+  ],
+  "text": [
+    "“抱歉，你是哪位？”你问道。但他不为所动。",
+    "“茱莉，她在家吗？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 114",
+      "textRef": "default"
+    }
+  }
+}

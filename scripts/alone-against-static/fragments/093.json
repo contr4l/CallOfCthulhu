@@ -1,0 +1,48 @@
+{
+  "id": "93",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "93:p0",
+      "kind": "heading",
+      "text": "$t1 == '93'?\r\n`",
+      "sourceLocation": "txt:chars:22922:22937"
+    },
+    {
+      "id": "93:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:22937:22939"
+    },
+    {
+      "id": "93:p2",
+      "kind": "body",
+      "text": "换了一身新衣服让你感觉神清气爽。\r\n",
+      "sourceLocation": "txt:chars:22939:22957"
+    },
+    {
+      "id": "93:p3",
+      "kind": "body",
+      "text": "现在这个下午，除了继续等伴侣回来，你还能做些什么？希望他/她已经知道怎么修供电了。\r\n",
+      "sourceLocation": "txt:chars:22957:23000"
+    },
+    {
+      "id": "93:p4",
+      "kind": "body",
+      "text": "要做些饭吃，转到 94。\r\n",
+      "sourceLocation": "txt:chars:23000:23014"
+    },
+    {
+      "id": "93:p5",
+      "kind": "body",
+      "text": "要寻找手电筒和电池，以备天黑时用，转到 95。\r\n",
+      "sourceLocation": "txt:chars:23014:23039"
+    },
+    {
+      "id": "93:p6",
+      "kind": "body",
+      "text": "要试着自己恢复供电，转到 368。\r\n",
+      "sourceLocation": "txt:chars:23039:23058"
+    }
+  ]
+}

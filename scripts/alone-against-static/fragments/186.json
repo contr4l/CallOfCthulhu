@@ -1,0 +1,54 @@
+{
+  "id": "186",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "186:p0",
+      "kind": "heading",
+      "text": "$t1 == '186'?\r\n`",
+      "sourceLocation": "txt:chars:43266:43282"
+    },
+    {
+      "id": "186:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:43282:43284"
+    },
+    {
+      "id": "186:p2",
+      "kind": "body",
+      "text": "小屋里寂静无声，只有磁带机轻轻嗡鸣着。电视发着暗淡的光。\r\n",
+      "sourceLocation": "txt:chars:43284:43314"
+    },
+    {
+      "id": "186:p3",
+      "kind": "body",
+      "text": "根据你的选择，你可能会多次回到这一条目。请选择你尚未选择过的选项。\r\n",
+      "sourceLocation": "txt:chars:43314:43349"
+    },
+    {
+      "id": "186:p4",
+      "kind": "body",
+      "text": "如果记录表上的 傍晚时的寂静 已被勾选，你必须转到 187。\r\n",
+      "sourceLocation": "txt:chars:43349:43381"
+    },
+    {
+      "id": "186:p5",
+      "kind": "body",
+      "text": "或者，如果记录表上的 小屋中的伴侣 已被勾选，必须转到 196。\r\n",
+      "sourceLocation": "txt:chars:43381:43415"
+    },
+    {
+      "id": "186:p6",
+      "kind": "body",
+      "text": "要播放昨晚的磁带，转到 208。\r\n",
+      "sourceLocation": "txt:chars:43415:43433"
+    },
+    {
+      "id": "186:p7",
+      "kind": "body",
+      "text": "要放着电视不管，转到 223。\r\n",
+      "sourceLocation": "txt:chars:43433:43450"
+    }
+  ]
+}

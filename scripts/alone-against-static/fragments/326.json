@@ -1,0 +1,48 @@
+{
+  "id": "326",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "326:p0",
+      "kind": "heading",
+      "text": "$t1 == '326'?\r\n`",
+      "sourceLocation": "txt:chars:74428:74444"
+    },
+    {
+      "id": "326:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:74444:74446"
+    },
+    {
+      "id": "326:p2",
+      "kind": "body",
+      "text": "男人打开了屋门。在黑暗中，他的脚步声朝你冲来。\r\n",
+      "sourceLocation": "txt:chars:74446:74471"
+    },
+    {
+      "id": "326:p3",
+      "kind": "body",
+      "text": "你想爬起来，但被一双沉重的大手擒住。你听到他嘟囔着，像唱歌一样呻吟着，就像大象或马匹。\r\n",
+      "sourceLocation": "txt:chars:74471:74516"
+    },
+    {
+      "id": "326:p4",
+      "kind": "body",
+      "text": "他正试着把你拖出小屋。\r\n",
+      "sourceLocation": "txt:chars:74516:74529"
+    },
+    {
+      "id": "326:p5",
+      "kind": "body",
+      "text": "要反抗，转到 282。\r\n",
+      "sourceLocation": "txt:chars:74529:74542"
+    },
+    {
+      "id": "326:p6",
+      "kind": "body",
+      "text": "要屈服，转到 278。\r\n",
+      "sourceLocation": "txt:chars:74542:74555"
+    }
+  ]
+}

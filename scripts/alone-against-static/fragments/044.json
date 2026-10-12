@@ -1,0 +1,54 @@
+{
+  "id": "44",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "44:p0",
+      "kind": "heading",
+      "text": "$t1 == '44'?\r\n`",
+      "sourceLocation": "txt:chars:13903:13918"
+    },
+    {
+      "id": "44:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:13918:13920"
+    },
+    {
+      "id": "44:p2",
+      "kind": "body",
+      "text": "你走下小路，穿过森林，朝着流水声的源头走去。地面凹凸不平，你需要扶着附近的树干才能保持平衡。\r\n",
+      "sourceLocation": "txt:chars:13920:13968"
+    },
+    {
+      "id": "44:p3",
+      "kind": "body",
+      "text": "你走了一会，水声变得越来越大。爬上一条小山脊，你发现山脊背后有一条潺潺流淌的小溪。\r\n",
+      "sourceLocation": "txt:chars:13968:14011"
+    },
+    {
+      "id": "44:p4",
+      "kind": "body",
+      "text": "水从山上激流而下，朝南流去。水清澈新鲜，激起富有韵律的声响。\r\n",
+      "sourceLocation": "txt:chars:14011:14043"
+    },
+    {
+      "id": "44:p5",
+      "kind": "body",
+      "text": "如果记录表上的 溪水中的落花 被勾选，这处地点让你想起了一些事情，你必须转到 48。\r\n",
+      "sourceLocation": "txt:chars:14043:14087"
+    },
+    {
+      "id": "44:p6",
+      "kind": "body",
+      "text": "要从小溪里取些水喝，转到 45。\r\n",
+      "sourceLocation": "txt:chars:14087:14105"
+    },
+    {
+      "id": "44:p7",
+      "kind": "body",
+      "text": "要小坐一会儿享受美景，转到 50。\r\n",
+      "sourceLocation": "txt:chars:14105:14124"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "305",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "305:p0",
+      "kind": "heading",
+      "text": "$t1 == '305'?\r\n`",
+      "sourceLocation": "txt:chars:68934:68950"
+    },
+    {
+      "id": "305:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:68950:68952"
+    },
+    {
+      "id": "305:p2",
+      "kind": "body",
+      "text": "不！不要！快跑！你掉过头去，向黑暗中跑去。在黑暗中你几乎什么都看不见，但恐慌驱使着你全速奔跑。月光勉强照出一条扭曲的小路，两边都是锋利的岩石和险恶的树根。你尽量躲避着障碍。\r\n",
+      "sourceLocation": "txt:chars:68952:69040"
+    },
+    {
+      "id": "305:p3",
+      "kind": "body",
+      "text": "进行一次幸运检定。\r\n",
+      "sourceLocation": "txt:chars:69040:69051"
+    },
+    {
+      "id": "305:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 306。\r\n",
+      "sourceLocation": "txt:chars:69051:69067"
+    },
+    {
+      "id": "305:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 312。\r\n",
+      "sourceLocation": "txt:chars:69067:69083"
+    }
+  ]
+}

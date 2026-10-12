@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "173"
+  ],
+  "text": [
+    "你用手捂住耳朵，面部肌肉变了形。你感觉雪花音在你头内炸响。血从你耳朵里面滴出，积在你的手掌里。",
+    "不管这是什么，都令你恐怖、不解，但又有些诱惑。在雪花中似乎隐藏着一个声音。你无法听清这声音。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 173",
+      "textRef": "default"
+    }
+  }
+}

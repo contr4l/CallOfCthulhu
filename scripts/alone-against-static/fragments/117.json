@@ -1,0 +1,108 @@
+{
+  "id": "117",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "117:p0",
+      "kind": "heading",
+      "text": "$t1 == '117'?\r\n`",
+      "sourceLocation": "txt:chars:27782:27798"
+    },
+    {
+      "id": "117:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:27798:27800"
+    },
+    {
+      "id": "117:p2",
+      "kind": "body",
+      "text": "这个陌生人让你毛骨悚然。他离门口太近了，站姿也很奇怪。“抱歉，你必须离开这里，”你说道。\r\n",
+      "sourceLocation": "txt:chars:27800:27846"
+    },
+    {
+      "id": "117:p3",
+      "kind": "body",
+      "text": "“为什么？”\r\n",
+      "sourceLocation": "txt:chars:27846:27854"
+    },
+    {
+      "id": "117:p4",
+      "kind": "body",
+      "text": "“……因为这里是私人产业。”\r\n",
+      "sourceLocation": "txt:chars:27854:27870"
+    },
+    {
+      "id": "117:p5",
+      "kind": "body",
+      "text": "他毫无反应地盯着你。他沉默了许久，让你很不舒服。他没有要动的意思。\r\n",
+      "sourceLocation": "txt:chars:27870:27905"
+    },
+    {
+      "id": "117:p6",
+      "kind": "body",
+      "text": "“快走，”你说着，“我不希望给警察打电话。”\r\n",
+      "sourceLocation": "txt:chars:27905:27929"
+    },
+    {
+      "id": "117:p7",
+      "kind": "body",
+      "text": "“你这通电话吗？”他问道。\r\n",
+      "sourceLocation": "txt:chars:27929:27944"
+    },
+    {
+      "id": "117:p8",
+      "kind": "body",
+      "text": "你沉默了。你知道这里不通电话。\r\n",
+      "sourceLocation": "txt:chars:27944:27961"
+    },
+    {
+      "id": "117:p9",
+      "kind": "body",
+      "text": "你可以尝试和陌生人讲道理，把他吓走，或者直接把门摔在他脸上。\r\n",
+      "sourceLocation": "txt:chars:27961:27993"
+    },
+    {
+      "id": "117:p10",
+      "kind": "body",
+      "text": "要把陌生人吓走，进行一次恐吓检定。\r\n",
+      "sourceLocation": "txt:chars:27993:28012"
+    },
+    {
+      "id": "117:p11",
+      "kind": "body",
+      "text": "如果检定成功，转到 119。\r\n",
+      "sourceLocation": "txt:chars:28012:28028"
+    },
+    {
+      "id": "117:p12",
+      "kind": "body",
+      "text": "如果检定失败，转到 130。\r\n",
+      "sourceLocation": "txt:chars:28028:28044"
+    },
+    {
+      "id": "117:p13",
+      "kind": "body",
+      "text": "要和陌生人讲道理，进行一次说服检定。\r\n",
+      "sourceLocation": "txt:chars:28044:28064"
+    },
+    {
+      "id": "117:p14",
+      "kind": "body",
+      "text": "如果检定成功，转到 125。\r\n",
+      "sourceLocation": "txt:chars:28064:28080"
+    },
+    {
+      "id": "117:p15",
+      "kind": "body",
+      "text": "如果检定失败，转到 136。\r\n",
+      "sourceLocation": "txt:chars:28080:28096"
+    },
+    {
+      "id": "117:p16",
+      "kind": "body",
+      "text": "要把门摔在他脸上，转到 128。\r\n",
+      "sourceLocation": "txt:chars:28096:28114"
+    }
+  ]
+}

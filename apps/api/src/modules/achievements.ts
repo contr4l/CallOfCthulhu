@@ -1,3 +1,5 @@
+import { buildEndingNumbers } from "./ending-numbers.js";
+import { endingReward } from "../../../../packages/contracts/shop.js";
 import type { DatabaseSync } from "node:sqlite";
 import type {
   Story,
@@ -26,6 +28,7 @@ export function readAchievements(
   const versions = [...stories.values()].sort((a, b) =>
     a.version.localeCompare(b.version, undefined, { numeric: true }),
   );
+  const numbers = buildEndingNumbers(versions);
   const latest = new Map<string, Story>();
   for (const story of versions) latest.set(story.id, story);
   for (const story of latest.values()) {
@@ -37,6 +40,7 @@ export function readAchievements(
         storyId: story.id,
         storyTitle: story.title,
         endingId: node.id,
+        endingNumber: numbers.get(id)!,
         title: "未知结局成就",
         description: "抵达这个结局后解锁。",
       });
@@ -48,6 +52,8 @@ export function readAchievements(
     SELECT h.frame, h.run_id, r.story_id, r.story_version
     FROM run_history h JOIN runs r ON r.id = h.run_id
     WHERE r.user_id = ? AND json_extract(h.frame, '$.scene.status') = 'ended'
+    AND NOT EXISTS(SELECT 1 FROM shop_discarded_checks d WHERE d.run_id=h.run_id AND d.sequence=h.sequence)
+    AND NOT EXISTS(SELECT 1 FROM shop_check_windows w WHERE w.run_id=h.run_id AND w.revision=h.sequence)
     ORDER BY json_extract(h.frame, '$.createdAt'), h.rowid
   `,
     )
@@ -75,6 +81,7 @@ export function readAchievements(
         storyId: story.id,
         storyTitle: latest.get(story.id)?.title ?? story.title,
         endingId: node.id,
+        endingNumber: numbers.get(id)!,
         title: "",
         description: "",
       };
@@ -89,6 +96,16 @@ export function readAchievements(
     achievement.description = `在《${story.title}》中抵达「${achievement.title}」。`;
     achievement.unlockedAt = frame.createdAt;
     achievement.runId = row.run_id as string;
+    achievement.rewardPoints = endingReward(story.id, node.id);
+    const claim = db
+      .prepare(
+        "SELECT points,claimed_at FROM achievement_claims WHERE user_id=? AND achievement_id=?",
+      )
+      .get(owner, id);
+    if (claim) {
+      achievement.claimedAt = claim.claimed_at as string;
+      achievement.rewardPoints = Number(claim.points);
+    }
   }
   return [...catalog.values()];
 }

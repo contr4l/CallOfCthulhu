@@ -1,0 +1,54 @@
+{
+  "id": "314",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "314:p0",
+      "kind": "heading",
+      "text": "$t1 == '314'?\r\n`",
+      "sourceLocation": "txt:chars:71155:71171"
+    },
+    {
+      "id": "314:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:71171:71173"
+    },
+    {
+      "id": "314:p2",
+      "kind": "body",
+      "text": "冰冷的声音离你并不远。你听到他就在你左边的树木中。你转向声音的方向，往树枝间窥视。\r\n",
+      "sourceLocation": "txt:chars:71173:71216"
+    },
+    {
+      "id": "314:p3",
+      "kind": "body",
+      "text": "你什么也没看见。于是，你小心地往那边走去。地面崎岖不平，你不得不仔细地选择落脚处。\r\n",
+      "sourceLocation": "txt:chars:71216:71259"
+    },
+    {
+      "id": "314:p4",
+      "kind": "body",
+      "text": "每走一步，沙哑的呼唤声就更响。它越来越响，终于充满了你的大脑。\r\n",
+      "sourceLocation": "txt:chars:71259:71292"
+    },
+    {
+      "id": "314:p5",
+      "kind": "body",
+      "text": "“把你的手……给我……”这个声音说道。声音中的雪花噪音嘶哑着。\r\n",
+      "sourceLocation": "txt:chars:71292:71325"
+    },
+    {
+      "id": "314:p6",
+      "kind": "body",
+      "text": "要朝声音伸出手，转到 315。\r\n",
+      "sourceLocation": "txt:chars:71325:71342"
+    },
+    {
+      "id": "314:p7",
+      "kind": "body",
+      "text": "要拒绝，转到 305。\r\n",
+      "sourceLocation": "txt:chars:71342:71355"
+    }
+  ]
+}

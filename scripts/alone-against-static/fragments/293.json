@@ -1,0 +1,48 @@
+{
+  "id": "293",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "293:p0",
+      "kind": "heading",
+      "text": "$t1 == '293'?\r\n`",
+      "sourceLocation": "txt:chars:66642:66658"
+    },
+    {
+      "id": "293:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:66658:66660"
+    },
+    {
+      "id": "293:p2",
+      "kind": "body",
+      "text": "你爬出浴缸，打开浴室门，冲进小屋。在你身后，陌生人正挤过窗框，发出咕噜咕噜的声音。\r\n",
+      "sourceLocation": "txt:chars:66660:66703"
+    },
+    {
+      "id": "293:p3",
+      "kind": "body",
+      "text": "他就要进来了！\r\n",
+      "sourceLocation": "txt:chars:66703:66712"
+    },
+    {
+      "id": "293:p4",
+      "kind": "body",
+      "text": "抬起头，你看到眼前的门开着。没有什么挡着你的路。\r\n",
+      "sourceLocation": "txt:chars:66712:66738"
+    },
+    {
+      "id": "293:p5",
+      "kind": "body",
+      "text": "要跑出门外，转到 298。\r\n",
+      "sourceLocation": "txt:chars:66738:66753"
+    },
+    {
+      "id": "293:p6",
+      "kind": "body",
+      "text": "要寻找与陌生人搏斗的武器，转到 245。\r\n",
+      "sourceLocation": "txt:chars:66753:66775"
+    }
+  ]
+}

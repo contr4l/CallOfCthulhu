@@ -1,0 +1,42 @@
+{
+  "id": "36",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "36:p0",
+      "kind": "heading",
+      "text": "$t1 == '36'?\r\n`",
+      "sourceLocation": "txt:chars:12216:12231"
+    },
+    {
+      "id": "36:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:12231:12233"
+    },
+    {
+      "id": "36:p2",
+      "kind": "body",
+      "text": "屋外，空气清新、阳光暖人，天空也晴朗少云。你深吸一口气，让湿润泥土和松树的气息充满胸膛。往前走了几步，你朝着车道眺望过去。车道蜿蜒着消失在树林里。树木太密，比起看到你的车，听到它的声音还现实一点。\r\n",
+      "sourceLocation": "txt:chars:12233:12333"
+    },
+    {
+      "id": "36:p3",
+      "kind": "body",
+      "text": "你朝小屋旁边的一条步道走去。步道的地面已经被无数来游玩的家庭磨光了。\r\n",
+      "sourceLocation": "txt:chars:12333:12369"
+    },
+    {
+      "id": "36:p4",
+      "kind": "body",
+      "text": "要慢慢地对这个假期感到兴奋，转到 39。\r\n",
+      "sourceLocation": "txt:chars:12369:12391"
+    },
+    {
+      "id": "36:p5",
+      "kind": "body",
+      "text": "要让焦虑进一步增长，转到 40。\r\n",
+      "sourceLocation": "txt:chars:12391:12409"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "311",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "311:p0",
+      "kind": "heading",
+      "text": "$t1 == '311'?\r\n`",
+      "sourceLocation": "txt:chars:70319:70335"
+    },
+    {
+      "id": "311:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:70335:70337"
+    },
+    {
+      "id": "311:p2",
+      "kind": "body",
+      "text": "你刚进到崎岖的小路，手电筒就闪烁着熄灭了。你无力地喊叫着，但是没时间停下来了。你盲目地跑过树林，幸运地没有绊倒。然后，你的脚尖勾在一条蜷曲粗糙的树根上，你向前扑去。\r\n",
+      "sourceLocation": "txt:chars:70337:70421"
+    },
+    {
+      "id": "311:p3",
+      "kind": "body",
+      "text": "进行一次敏捷检定。\r\n",
+      "sourceLocation": "txt:chars:70421:70432"
+    },
+    {
+      "id": "311:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 313。\r\n",
+      "sourceLocation": "txt:chars:70432:70448"
+    },
+    {
+      "id": "311:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 312。\r\n",
+      "sourceLocation": "txt:chars:70448:70464"
+    }
+  ]
+}

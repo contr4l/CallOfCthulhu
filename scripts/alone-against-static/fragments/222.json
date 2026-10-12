@@ -1,0 +1,78 @@
+{
+  "id": "222",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "222:p0",
+      "kind": "heading",
+      "text": "$t1 == '222'?\r\n`",
+      "sourceLocation": "txt:chars:52331:52347"
+    },
+    {
+      "id": "222:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:52347:52349"
+    },
+    {
+      "id": "222:p2",
+      "kind": "body",
+      "text": "你调整了一下轨道选择，画面上的锯齿条纹消失了。一个男人脸的特写显示出来。他没有看着镜头，而是摆弄着摄像机下面的什么东西。\r\n",
+      "sourceLocation": "txt:chars:52349:52411"
+    },
+    {
+      "id": "222:p3",
+      "kind": "body",
+      "text": "你想到他是在架三脚架，摄像机把这一幕录了下来。\r\n",
+      "sourceLocation": "txt:chars:52411:52436"
+    },
+    {
+      "id": "222:p4",
+      "kind": "body",
+      "text": "他蹲下去离开了画面，你听到他调整三脚架腿的声音。镜头拍到他身后的景象，是林间的一片空地，中间有一个营地。\r\n",
+      "sourceLocation": "txt:chars:52436:52490"
+    },
+    {
+      "id": "222:p5",
+      "kind": "body",
+      "text": "在树林间有一个模糊在像素中的人影，个子很高，但是只有漆黑的影子。\r\n",
+      "sourceLocation": "txt:chars:52490:52524"
+    },
+    {
+      "id": "222:p6",
+      "kind": "body",
+      "text": "摆弄三脚架的人又走回画面，挡住了人影。他穿着荧光色的狩猎夹克，戴着毛线帽。\r\n",
+      "sourceLocation": "txt:chars:52524:52563"
+    },
+    {
+      "id": "222:p7",
+      "kind": "body",
+      "text": "他退了一步，看着镜头，笑着转身朝着空地。空地上已经生起了一簇篝火，支起了一顶双人帐篷。\r\n",
+      "sourceLocation": "txt:chars:52563:52608"
+    },
+    {
+      "id": "222:p8",
+      "kind": "body",
+      "text": "他在火堆旁蹲下，一边看着相机，一边把木棍掰断扔进火里。他的嘴唇在动。\r\n",
+      "sourceLocation": "txt:chars:52608:52644"
+    },
+    {
+      "id": "222:p9",
+      "kind": "body",
+      "text": "你在树林边看到的影子已经消失无踪。\r\n",
+      "sourceLocation": "txt:chars:52644:52663"
+    },
+    {
+      "id": "222:p10",
+      "kind": "body",
+      "text": "要调高音量，听这人在说什么，转到 210。\r\n",
+      "sourceLocation": "txt:chars:52663:52686"
+    },
+    {
+      "id": "222:p11",
+      "kind": "body",
+      "text": "要就这样静音播放，转到 217。\r\n",
+      "sourceLocation": "txt:chars:52686:52704"
+    }
+  ]
+}

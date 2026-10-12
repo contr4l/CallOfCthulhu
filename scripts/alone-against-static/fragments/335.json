@@ -1,0 +1,96 @@
+{
+  "id": "335",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "335:p0",
+      "kind": "heading",
+      "text": "$t1 == '335'?\r\n`",
+      "sourceLocation": "txt:chars:76313:76329"
+    },
+    {
+      "id": "335:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:76329:76331"
+    },
+    {
+      "id": "335:p2",
+      "kind": "body",
+      "text": "“你好？”你喊道，努力不让恐惧或愤怒在你的声音中流露。男人向你走来。他微笑着。\r\n",
+      "sourceLocation": "txt:chars:76331:76372"
+    },
+    {
+      "id": "335:p3",
+      "kind": "body",
+      "text": "“别担心，”男人说着举起双手，把空空的手掌露给你看。“没事的。我是你的朋友。”他的声音很低，并且句尾很诡异。他的眼睛因兴奋而睁大。你向周围看着，但空地上没有什么能让你更明白些。\r\n",
+      "sourceLocation": "txt:chars:76372:76462"
+    },
+    {
+      "id": "335:p4",
+      "kind": "body",
+      "text": "“发生什么了？”你问。你并没有期待回答，但你居然得到了。\r\n",
+      "sourceLocation": "txt:chars:76462:76492"
+    },
+    {
+      "id": "335:p5",
+      "kind": "body",
+      "text": "“我是能听到祂的人，”男人说着放下了手。\r\n",
+      "sourceLocation": "txt:chars:76492:76514"
+    },
+    {
+      "id": "335:p6",
+      "kind": "body",
+      "text": "“听到什么？”\r\n",
+      "sourceLocation": "txt:chars:76514:76523"
+    },
+    {
+      "id": "335:p7",
+      "kind": "body",
+      "text": "“幼子。”\r\n",
+      "sourceLocation": "txt:chars:76523:76530"
+    },
+    {
+      "id": "335:p8",
+      "kind": "body",
+      "text": "“什么？”\r\n",
+      "sourceLocation": "txt:chars:76530:76537"
+    },
+    {
+      "id": "335:p9",
+      "kind": "body",
+      "text": "“森林之子。你也听到过祂。我知道你听到过。当祂哭泣时，声音就像——”\r\n",
+      "sourceLocation": "txt:chars:76537:76573"
+    },
+    {
+      "id": "335:p10",
+      "kind": "body",
+      "text": "“雪花噪音……”你说道。\r\n",
+      "sourceLocation": "txt:chars:76573:76587"
+    },
+    {
+      "id": "335:p11",
+      "kind": "body",
+      "text": "男人微笑着，“是的。我就知道。你也听到过祂。”\r\n",
+      "sourceLocation": "txt:chars:76587:76612"
+    },
+    {
+      "id": "335:p12",
+      "kind": "body",
+      "text": "你迟疑着。\r\n",
+      "sourceLocation": "txt:chars:76612:76619"
+    },
+    {
+      "id": "335:p13",
+      "kind": "body",
+      "text": "如果记录表上的 亚历克斯 已被勾选，亚历克斯确实听到了雪花噪音，转到 336。\r\n",
+      "sourceLocation": "txt:chars:76619:76660"
+    },
+    {
+      "id": "335:p14",
+      "kind": "body",
+      "text": "如果记录表上的 查理 已被勾选，查理确实听到了雪花噪音，转到 285。\r\n",
+      "sourceLocation": "txt:chars:76660:76697"
+    }
+  ]
+}

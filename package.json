@@ -18,7 +18,8 @@
     "story:import": "python3 tools/story/import.py",
     "start": "node apps/api/dist/server.js",
     "chars:validate": "tsx tools/chars/validate.ts",
-    "story:compile": "python3 tools/story/compile_solo.py"
+    "story:compile": "python3 tools/story/compile_solo.py",
+    "story:workflow": "python3 tools/story/workflow.py"
   },
   "devDependencies": {
     "@playwright/test": "^1.56.0",

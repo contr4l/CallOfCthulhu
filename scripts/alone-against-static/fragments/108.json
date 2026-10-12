@@ -1,0 +1,60 @@
+{
+  "id": "108",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "108:p0",
+      "kind": "heading",
+      "text": "$t1 == '108'?\r\n`",
+      "sourceLocation": "txt:chars:26317:26333"
+    },
+    {
+      "id": "108:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:26333:26335"
+    },
+    {
+      "id": "108:p2",
+      "kind": "body",
+      "text": "在这样一座小屋里，你实在想不到什么好做，疲劳感也逐渐浮现。有一会儿，你躺在沙发上读一本在书架角落找到的陈旧破烂的平装书。你感觉这书写得挺好的，就是有点花哨、有点用力过度，而且用第二人称写散文实在有点刺耳。\r\n",
+      "sourceLocation": "txt:chars:26335:26439"
+    },
+    {
+      "id": "108:p3",
+      "kind": "body",
+      "text": "进行一次聆听检定。\r\n",
+      "sourceLocation": "txt:chars:26439:26450"
+    },
+    {
+      "id": "108:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 110。\r\n",
+      "sourceLocation": "txt:chars:26450:26466"
+    },
+    {
+      "id": "108:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 113。\r\n",
+      "sourceLocation": "txt:chars:26466:26482"
+    },
+    {
+      "id": "108:p6",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是错过一些关键的细节：\r\n",
+      "sourceLocation": "txt:chars:26482:26524"
+    },
+    {
+      "id": "108:p7",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 110。\r\n",
+      "sourceLocation": "txt:chars:26524:26542"
+    },
+    {
+      "id": "108:p8",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 112。\r\n",
+      "sourceLocation": "txt:chars:26542:26560"
+    }
+  ]
+}

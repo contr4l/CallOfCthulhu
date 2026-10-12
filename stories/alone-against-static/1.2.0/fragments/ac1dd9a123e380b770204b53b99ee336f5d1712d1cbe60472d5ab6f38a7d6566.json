@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "246"
+  ],
+  "text": [
+    "你的椅子只撑了一击，便滑倒在旁边的地上。它没能拖住任何人。门一下一下地破碎着。袭击者随时可能进来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 246",
+      "textRef": "default"
+    }
+  }
+}

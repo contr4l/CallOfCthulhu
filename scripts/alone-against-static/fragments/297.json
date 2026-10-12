@@ -1,0 +1,48 @@
+{
+  "id": "297",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "297:p0",
+      "kind": "heading",
+      "text": "$t1 == '297'?\r\n`",
+      "sourceLocation": "txt:chars:67238:67254"
+    },
+    {
+      "id": "297:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:67254:67256"
+    },
+    {
+      "id": "297:p2",
+      "kind": "body",
+      "text": "你蜷缩在浴缸里等待着。几分钟悄无声息地过去。也许陌生人一走了之了？也许他放弃了？\r\n",
+      "sourceLocation": "txt:chars:67256:67298"
+    },
+    {
+      "id": "297:p3",
+      "kind": "body",
+      "text": "你已经放下心来，却看到他的脸又出现在窗外，这次举着一块石头。他把石头投向窗户，砸出无数碎玻璃，在浴室里乱飞。你用一只手挡着自己。\r\n",
+      "sourceLocation": "txt:chars:67298:67364"
+    },
+    {
+      "id": "297:p4",
+      "kind": "body",
+      "text": "陌生人咆哮着驱动身体钻过窗框。碎玻璃扎进他的躯体，带出一条条血痕。他的视线紧紧盯着你。\r\n",
+      "sourceLocation": "txt:chars:67364:67409"
+    },
+    {
+      "id": "297:p5",
+      "kind": "body",
+      "text": "要趁他没有钻过来攻击，转到 287。\r\n",
+      "sourceLocation": "txt:chars:67409:67429"
+    },
+    {
+      "id": "297:p6",
+      "kind": "body",
+      "text": "要跑回小屋，转到 293。\r\n",
+      "sourceLocation": "txt:chars:67429:67444"
+    }
+  ]
+}

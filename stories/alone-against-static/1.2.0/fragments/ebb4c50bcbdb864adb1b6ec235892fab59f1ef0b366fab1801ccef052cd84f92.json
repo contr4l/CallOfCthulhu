@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "231"
+  ],
+  "text": [
+    "你想要进屋去关上门，但是你晚了一步。",
+    "男人撞在门上，冲击力直接把你掀翻在地。你撞在地上，天旋地转。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 231",
+      "textRef": "default"
+    }
+  }
+}

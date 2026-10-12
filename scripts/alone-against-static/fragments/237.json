@@ -1,0 +1,42 @@
+{
+  "id": "237",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "237:p0",
+      "kind": "heading",
+      "text": "$t1 == '237'?\r\n`",
+      "sourceLocation": "txt:chars:55214:55230"
+    },
+    {
+      "id": "237:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:55230:55232"
+    },
+    {
+      "id": "237:p2",
+      "kind": "body",
+      "text": "你冲到厨房搬起一把椅子，把它拖到门边，顶在门把手下。陌生人继续砸着门，而这把椅子好像能把门撑住。你感觉墙壁在一下一下颤动着。你退后一步，祈祷着门不会被砸坏。\r\n",
+      "sourceLocation": "txt:chars:55232:55312"
+    },
+    {
+      "id": "237:p3",
+      "kind": "body",
+      "text": "进行一次力量检定。\r\n",
+      "sourceLocation": "txt:chars:55312:55323"
+    },
+    {
+      "id": "237:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 238。\r\n",
+      "sourceLocation": "txt:chars:55323:55339"
+    },
+    {
+      "id": "237:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 246。\r\n",
+      "sourceLocation": "txt:chars:55339:55355"
+    }
+  ]
+}

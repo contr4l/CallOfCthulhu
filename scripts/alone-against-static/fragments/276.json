@@ -1,0 +1,72 @@
+{
+  "id": "276",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "276:p0",
+      "kind": "heading",
+      "text": "$t1 == '276'?\r\n`",
+      "sourceLocation": "txt:chars:62902:62918"
+    },
+    {
+      "id": "276:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:62918:62920"
+    },
+    {
+      "id": "276:p2",
+      "kind": "body",
+      "text": "“你值得我做任何事，”你说，“我爱你，我一直爱你。”亚历克斯的脸波澜不兴，然后，露出一个温暖的微笑。\r\n",
+      "sourceLocation": "txt:chars:62920:62972"
+    },
+    {
+      "id": "276:p3",
+      "kind": "body",
+      "text": "“我知道的。我也爱你。我爱你胜过一切。我们都爱你。”亚历克斯牵起你的手，“我们有家人\r\n",
+      "sourceLocation": "txt:chars:62972:63016"
+    },
+    {
+      "id": "276:p4",
+      "kind": "body",
+      "text": "在这里，查理。”\r\n",
+      "sourceLocation": "txt:chars:63016:63026"
+    },
+    {
+      "id": "276:p5",
+      "kind": "body",
+      "text": "你倒退一步，但亚历克斯抓紧了你的手，你没有挣脱。“什么？”\r\n",
+      "sourceLocation": "txt:chars:63026:63057"
+    },
+    {
+      "id": "276:p6",
+      "kind": "body",
+      "text": "“在这，在森林里。我们可以在一起，永远。相亲相爱，就像你说的这样。”\r\n",
+      "sourceLocation": "txt:chars:63057:63093"
+    },
+    {
+      "id": "276:p7",
+      "kind": "body",
+      "text": "“亚历克斯，这么长时间你都在哪？你去哪了？”你问道。\r\n",
+      "sourceLocation": "txt:chars:63093:63121"
+    },
+    {
+      "id": "276:p8",
+      "kind": "body",
+      "text": "“我就在这里，”亚历克斯说道，“等着你。”\r\n",
+      "sourceLocation": "txt:chars:63121:63144"
+    },
+    {
+      "id": "276:p9",
+      "kind": "body",
+      "text": "如果记录表上的 到来 已被勾选，一幅恐怖的画面闪过你的脑海，必须转到 250。\r\n",
+      "sourceLocation": "txt:chars:63144:63185"
+    },
+    {
+      "id": "276:p10",
+      "kind": "body",
+      "text": "转到 248。\r\n",
+      "sourceLocation": "txt:chars:63185:63194"
+    }
+  ]
+}

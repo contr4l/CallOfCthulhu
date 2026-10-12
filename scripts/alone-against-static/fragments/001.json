@@ -1,0 +1,60 @@
+{
+  "id": "1",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "1:p0",
+      "kind": "heading",
+      "text": "$t1 == '1'?\r\n`",
+      "sourceLocation": "txt:chars:1106:1120"
+    },
+    {
+      "id": "1:p1",
+      "kind": "body",
+      "text": " \r\n",
+      "sourceLocation": "txt:chars:1120:1123"
+    },
+    {
+      "id": "1:p2",
+      "kind": "body",
+      "text": "“该死！”查理怒骂了一句，一边操纵着汽车防止撞到路边的树上，一边在方向盘上折着一张大得不像话的地图。\r\n",
+      "sourceLocation": "txt:chars:1123:1175"
+    },
+    {
+      "id": "1:p3",
+      "kind": "body",
+      "text": "“你就让我拿着地图吧，好吗？”你问道。\r\n",
+      "sourceLocation": "txt:chars:1175:1196"
+    },
+    {
+      "id": "1:p4",
+      "kind": "body",
+      "text": "“不用，我能办得到。”查理说。随后，查理猛踩刹车，转过了另一个急弯。\r\n",
+      "sourceLocation": "txt:chars:1196:1232"
+    },
+    {
+      "id": "1:p5",
+      "kind": "body",
+      "text": "时间已近傍晚，你们在南达科他州黑山峰的一条乡间道路上。太阳仍然高悬，但天气寒冷。过去一个小时，你看见的就只有无数松树和不断延展的两条车道。你车上的收音机声音变得微弱。它劈里啪啦地放出一首混着雪花杂音的尼尔·戴蒙德的歌。\r\n",
+      "sourceLocation": "txt:chars:1232:1343"
+    },
+    {
+      "id": "1:p6",
+      "kind": "body",
+      "text": "在记录表上勾选 亚历克斯。\r\n",
+      "sourceLocation": "txt:chars:1343:1358"
+    },
+    {
+      "id": "1:p7",
+      "kind": "body",
+      "text": "要坚持提供帮助，转到 7。\r\n",
+      "sourceLocation": "txt:chars:1358:1373"
+    },
+    {
+      "id": "1:p8",
+      "kind": "body",
+      "text": "要给收音机调个台，转到 3。\r\n",
+      "sourceLocation": "txt:chars:1373:1389"
+    }
+  ]
+}

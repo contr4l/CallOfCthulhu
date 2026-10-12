@@ -1,0 +1,84 @@
+{
+  "id": "17",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "17:p0",
+      "kind": "heading",
+      "text": "$t1 == '17'?\r\n`",
+      "sourceLocation": "txt:chars:5358:5373"
+    },
+    {
+      "id": "17:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:5373:5375"
+    },
+    {
+      "id": "17:p2",
+      "kind": "body",
+      "text": "你的汉堡肉要煎到什么程度？”\r\n",
+      "sourceLocation": "txt:chars:5375:5391"
+    },
+    {
+      "id": "17:p3",
+      "kind": "body",
+      "text": "“呃。半熟吧，我想。”\r\n",
+      "sourceLocation": "txt:chars:5391:5404"
+    },
+    {
+      "id": "17:p4",
+      "kind": "body",
+      "text": "“好，谢谢。”\r\n",
+      "sourceLocation": "txt:chars:5404:5413"
+    },
+    {
+      "id": "17:p5",
+      "kind": "body",
+      "text": "你呆在厨房里。查理漫无目的地转了转，然后走过去一屁股坐在床上。“我很开心我们来了这里。”\r\n",
+      "sourceLocation": "txt:chars:5413:5459"
+    },
+    {
+      "id": "17:p6",
+      "kind": "body",
+      "text": "“我也是。”\r\n",
+      "sourceLocation": "txt:chars:5459:5467"
+    },
+    {
+      "id": "17:p7",
+      "kind": "body",
+      "text": "“我觉得确实是对我们有好处，你说呢？”\r\n",
+      "sourceLocation": "txt:chars:5467:5488"
+    },
+    {
+      "id": "17:p8",
+      "kind": "body",
+      "text": "“是啊。”\r\n",
+      "sourceLocation": "txt:chars:5488:5495"
+    },
+    {
+      "id": "17:p9",
+      "kind": "body",
+      "text": "“就像奥布莱恩医生和我们说的一样，”查理盯着电视屏幕上小屋变形的倒影，“远离一切，只关注我们自己，这样真好。我感觉真的很治愈……”\r\n",
+      "sourceLocation": "txt:chars:5495:5562"
+    },
+    {
+      "id": "17:p10",
+      "kind": "body",
+      "text": "在记录表上勾选 心碎。\r\n",
+      "sourceLocation": "txt:chars:5562:5575"
+    },
+    {
+      "id": "17:p11",
+      "kind": "body",
+      "text": "要聊聊明天的计划，转到 18。\r\n",
+      "sourceLocation": "txt:chars:5575:5592"
+    },
+    {
+      "id": "17:p12",
+      "kind": "body",
+      "text": "要安慰查理，转到 15。\r\n",
+      "sourceLocation": "txt:chars:5592:5606"
+    }
+  ]
+}

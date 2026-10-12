@@ -1,0 +1,36 @@
+{
+  "id": "246",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "246:p0",
+      "kind": "heading",
+      "text": "$t1 == '246'?\r\n`",
+      "sourceLocation": "txt:chars:56796:56812"
+    },
+    {
+      "id": "246:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:56812:56814"
+    },
+    {
+      "id": "246:p2",
+      "kind": "body",
+      "text": "你的椅子只撑了一击，便滑倒在旁边的地上。它没能拖住任何人。门一下一下地破碎着。袭击者随时可能进来。\r\n",
+      "sourceLocation": "txt:chars:56814:56865"
+    },
+    {
+      "id": "246:p3",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:56865:56883"
+    },
+    {
+      "id": "246:p4",
+      "kind": "body",
+      "text": "要藏起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:56883:56897"
+    }
+  ]
+}

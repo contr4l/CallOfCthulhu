@@ -1,0 +1,60 @@
+{
+  "id": "256",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "256:p0",
+      "kind": "heading",
+      "text": "$t1 == '256'?\r\n`",
+      "sourceLocation": "txt:chars:58578:58594"
+    },
+    {
+      "id": "256:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:58594:58596"
+    },
+    {
+      "id": "256:p2",
+      "kind": "body",
+      "text": "没睡下多久，屋门的一声巨响将你惊醒。\r\n",
+      "sourceLocation": "txt:chars:58596:58616"
+    },
+    {
+      "id": "256:p3",
+      "kind": "body",
+      "text": "你摸索着手电筒，把它打开，光线投向屋门。屋门仍在那里，锁得牢牢的。\r\n",
+      "sourceLocation": "txt:chars:58616:58651"
+    },
+    {
+      "id": "256:p4",
+      "kind": "body",
+      "text": "砰的一声，门剧烈地颤抖着。在冲击之前，你听到一声嘶哑的嚎叫。有人——听声音是个男人——在门的另一边不可理喻地喊叫着。他一下一下地撞着门。门板在他的重击下颤抖着，门框开始破裂。\r\n",
+      "sourceLocation": "txt:chars:58651:58740"
+    },
+    {
+      "id": "256:p5",
+      "kind": "body",
+      "text": "要喊他住手，转到 257。\r\n",
+      "sourceLocation": "txt:chars:58740:58755"
+    },
+    {
+      "id": "256:p6",
+      "kind": "body",
+      "text": "要躲起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:58755:58769"
+    },
+    {
+      "id": "256:p7",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:58769:58787"
+    },
+    {
+      "id": "256:p8",
+      "kind": "body",
+      "text": "要顶住屋门，转到 237。\r\n",
+      "sourceLocation": "txt:chars:58787:58802"
+    }
+  ]
+}

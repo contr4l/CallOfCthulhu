@@ -1,0 +1,48 @@
+{
+  "id": "166",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "166:p0",
+      "kind": "heading",
+      "text": "$t1 == '166'?\r\n`",
+      "sourceLocation": "txt:chars:39199:39215"
+    },
+    {
+      "id": "166:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:39215:39217"
+    },
+    {
+      "id": "166:p2",
+      "kind": "body",
+      "text": "你用手捂住耳朵。你的尖叫声也混入雪花音的号哭。\r\n",
+      "sourceLocation": "txt:chars:39217:39242"
+    },
+    {
+      "id": "166:p3",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:39242:39267"
+    },
+    {
+      "id": "166:p4",
+      "kind": "body",
+      "text": "失去 1D4 点理智并受到 1D4 点伤害。\r\n",
+      "sourceLocation": "txt:chars:39267:39291"
+    },
+    {
+      "id": "166:p5",
+      "kind": "body",
+      "text": "要逃跑，转到 167。\r\n",
+      "sourceLocation": "txt:chars:39291:39304"
+    },
+    {
+      "id": "166:p6",
+      "kind": "body",
+      "text": "要屈服，转到 171。\r\n",
+      "sourceLocation": "txt:chars:39304:39317"
+    }
+  ]
+}

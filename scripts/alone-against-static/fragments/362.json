@@ -1,0 +1,36 @@
+{
+  "id": "362",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "362:p0",
+      "kind": "heading",
+      "text": "$t1 == '362'?\r\n`",
+      "sourceLocation": "txt:chars:83560:83576"
+    },
+    {
+      "id": "362:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:83576:83578"
+    },
+    {
+      "id": "362:p2",
+      "kind": "body",
+      "text": "刀刃上映出了你变形的倒影，让你想起小时候去的海边旅游小镇的哈哈镜。\r\n",
+      "sourceLocation": "txt:chars:83578:83613"
+    },
+    {
+      "id": "362:p3",
+      "kind": "body",
+      "text": "你一直不喜欢那里。\r\n",
+      "sourceLocation": "txt:chars:83613:83624"
+    },
+    {
+      "id": "362:p4",
+      "kind": "body",
+      "text": "回到 66。\r\n",
+      "sourceLocation": "txt:chars:83624:83632"
+    }
+  ]
+}

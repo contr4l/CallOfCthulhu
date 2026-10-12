@@ -1,0 +1,54 @@
+{
+  "id": "265",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "265:p0",
+      "kind": "heading",
+      "text": "$t1 == '265'?\r\n`",
+      "sourceLocation": "txt:chars:59908:59924"
+    },
+    {
+      "id": "265:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:59924:59926"
+    },
+    {
+      "id": "265:p2",
+      "kind": "body",
+      "text": "你冲上前去，使出全身力量拼命打出一击。冲击感从你手臂上传来。你打中了。\r\n",
+      "sourceLocation": "txt:chars:59926:59963"
+    },
+    {
+      "id": "265:p3",
+      "kind": "body",
+      "text": "如果记录表上的 万不得已 已被勾选，必须转到 267。\r\n",
+      "sourceLocation": "txt:chars:59963:59992"
+    },
+    {
+      "id": "265:p4",
+      "kind": "body",
+      "text": "或者，如果记录表上的 暴力创伤 已被勾选，必须转到 268。\r\n",
+      "sourceLocation": "txt:chars:59992:60024"
+    },
+    {
+      "id": "265:p5",
+      "kind": "body",
+      "text": "或者，如果记录表上的 临阵磨刀 已被勾选，必须转到 271。\r\n",
+      "sourceLocation": "txt:chars:60024:60056"
+    },
+    {
+      "id": "265:p6",
+      "kind": "body",
+      "text": "或者，如果记录表上的 大开杀戒 已被勾选，必须转到 273。\r\n",
+      "sourceLocation": "txt:chars:60056:60088"
+    },
+    {
+      "id": "265:p7",
+      "kind": "body",
+      "text": "以上均不满足，转到 270。\r\n",
+      "sourceLocation": "txt:chars:60088:60104"
+    }
+  ]
+}

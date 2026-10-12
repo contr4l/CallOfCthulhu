@@ -1,0 +1,54 @@
+{
+  "id": "320",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "320:p0",
+      "kind": "heading",
+      "text": "$t1 == '320'?\r\n`",
+      "sourceLocation": "txt:chars:73150:73166"
+    },
+    {
+      "id": "320:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:73166:73168"
+    },
+    {
+      "id": "320:p2",
+      "kind": "body",
+      "text": "你选了一条路，一口气跑了快一个小时，却还是不能肯定是否选了正确的路。你周围的森林无边无际，山岳起伏险恶。不久后你就迷路了。在十字路口选对选错已经没关系了，如今你像没头苍蝇一样撞进深林，迷失了方向。周围的一切看起来都一个样：只有若隐若现的黑色影子。\r\n",
+      "sourceLocation": "txt:chars:73168:73293"
+    },
+    {
+      "id": "320:p3",
+      "kind": "body",
+      "text": "每一个影子都像是要活过来似的，它们就要朝你倾泻而下，将你吞噬。\r\n",
+      "sourceLocation": "txt:chars:73293:73326"
+    },
+    {
+      "id": "320:p4",
+      "kind": "body",
+      "text": "这不对！这不对！\r\n",
+      "sourceLocation": "txt:chars:73326:73336"
+    },
+    {
+      "id": "320:p5",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:73336:73347"
+    },
+    {
+      "id": "320:p6",
+      "kind": "body",
+      "text": "如果检定成功，转到 321。\r\n",
+      "sourceLocation": "txt:chars:73347:73363"
+    },
+    {
+      "id": "320:p7",
+      "kind": "body",
+      "text": "如果检定失败，转到 322。\r\n",
+      "sourceLocation": "txt:chars:73363:73379"
+    }
+  ]
+}

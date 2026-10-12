@@ -1,0 +1,36 @@
+{
+  "id": "112",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "112:p0",
+      "kind": "heading",
+      "text": "$t1 == '112'?\r\n`",
+      "sourceLocation": "txt:chars:27044:27060"
+    },
+    {
+      "id": "112:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:27060:27062"
+    },
+    {
+      "id": "112:p2",
+      "kind": "body",
+      "text": "大自然里有各种声响，让你无法集中注意力读书。突然，你想起你带来的那台随身听。你起身去行李箱里翻找了一会，终于把随身听找到，然后回到沙发上躺好。\r\n",
+      "sourceLocation": "txt:chars:27062:27135"
+    },
+    {
+      "id": "112:p3",
+      "kind": "body",
+      "text": "你微笑着带上耳机、闭上眼睛，在另类摇滚的甜美声音里睡去。你睡了好一会儿。\r\n",
+      "sourceLocation": "txt:chars:27135:27173"
+    },
+    {
+      "id": "112:p4",
+      "kind": "body",
+      "text": "转到 139。\r\n",
+      "sourceLocation": "txt:chars:27173:27182"
+    }
+  ]
+}

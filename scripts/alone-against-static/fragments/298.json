@@ -1,0 +1,54 @@
+{
+  "id": "298",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "298:p0",
+      "kind": "heading",
+      "text": "$t1 == '298'?\r\n`",
+      "sourceLocation": "txt:chars:67450:67466"
+    },
+    {
+      "id": "298:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:67466:67468"
+    },
+    {
+      "id": "298:p2",
+      "kind": "body",
+      "text": "你冲进夜色，跑得越远越好、越快越好，直到你的身体再不能承受。寒冷的空气让你的肺像火烧一样疼。周围的树木沙沙作响，听起来诡异非常，让你更加恐惧。每过几分钟，你就从树林里钻出来，到土路上跑一段。你祈祷着能看到伴侣的车开回来，但是，在你内心深处，你很清楚这是不可能的。\r\n",
+      "sourceLocation": "txt:chars:67468:67601"
+    },
+    {
+      "id": "298:p3",
+      "kind": "body",
+      "text": "你发疯似的跑了快一个小时，终于跑到一个十字路口。你记得它，在你们来小屋的路上经过了这里。你不确定哪边通往高速路，哪边通往树林深处。\r\n",
+      "sourceLocation": "txt:chars:67601:67668"
+    },
+    {
+      "id": "298:p4",
+      "kind": "body",
+      "text": "森林让你觉得无处可逃。\r\n",
+      "sourceLocation": "txt:chars:67668:67681"
+    },
+    {
+      "id": "298:p5",
+      "kind": "body",
+      "text": "进行一次导航检定。\r\n",
+      "sourceLocation": "txt:chars:67681:67692"
+    },
+    {
+      "id": "298:p6",
+      "kind": "body",
+      "text": "如果检定成功，转到 299。\r\n",
+      "sourceLocation": "txt:chars:67692:67708"
+    },
+    {
+      "id": "298:p7",
+      "kind": "body",
+      "text": "如果检定失败，转到 320。\r\n",
+      "sourceLocation": "txt:chars:67708:67724"
+    }
+  ]
+}

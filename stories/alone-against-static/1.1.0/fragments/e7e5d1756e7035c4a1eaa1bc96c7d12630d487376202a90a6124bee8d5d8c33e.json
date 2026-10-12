@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "76"
+  ],
+  "text": [
+    "等等……这里并没有什么谜团。这工具大概是给录像机用的。",
+    "你回去纸箱那里拿来了录像机。你准备好工具，试着拆开外壳取出磁带。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 76",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "240",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "240:p0",
+      "kind": "heading",
+      "text": "$t1 == '240'?\r\n`",
+      "sourceLocation": "txt:chars:55616:55632"
+    },
+    {
+      "id": "240:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:55632:55634"
+    },
+    {
+      "id": "240:p2",
+      "kind": "body",
+      "text": "你听到咔嚓一声巨响，陌生人发出破碎的咆哮，闯进小屋中。\r\n",
+      "sourceLocation": "txt:chars:55634:55663"
+    },
+    {
+      "id": "240:p3",
+      "kind": "body",
+      "text": "你在浴缸里趴得更低，竖着耳朵听着。男人四处游荡着，脚步在木地板上拖动。他寻找着你，不时发出嘶哑的尖啸。\r\n",
+      "sourceLocation": "txt:chars:55663:55716"
+    },
+    {
+      "id": "240:p4",
+      "kind": "body",
+      "text": "你听到他来到浴室门前。门把手转动了，他推了推门，门没有打开。\r\n",
+      "sourceLocation": "txt:chars:55716:55748"
+    },
+    {
+      "id": "240:p5",
+      "kind": "body",
+      "text": "一切停止了片刻，然后，脚步声离开了小屋。\r\n",
+      "sourceLocation": "txt:chars:55748:55770"
+    },
+    {
+      "id": "240:p6",
+      "kind": "body",
+      "text": "你等了几秒钟，然后探出浴缸，用手电筒照着浴室门。\r\n",
+      "sourceLocation": "txt:chars:55770:55796"
+    },
+    {
+      "id": "240:p7",
+      "kind": "body",
+      "text": "在你左边传来吱吱声。你转过身，把光移向浴室的窗户。\r\n",
+      "sourceLocation": "txt:chars:55796:55823"
+    },
+    {
+      "id": "240:p8",
+      "kind": "body",
+      "text": "陌生人正站在那里。从窗外看着里面。他死气沉沉的眼睛迎着你的视线，用手摸着窗框，寻找开口。他没找到突破口，咆哮着从你视线中消失了。\r\n",
+      "sourceLocation": "txt:chars:55823:55889"
+    },
+    {
+      "id": "240:p9",
+      "kind": "body",
+      "text": "你感到一阵轻松，感谢着过去的自己锁好了窗户。但是你现在还算不上安全……你确信他很快就会回来。你该怎么做？\r\n",
+      "sourceLocation": "txt:chars:55889:55943"
+    },
+    {
+      "id": "240:p10",
+      "kind": "body",
+      "text": "要回到小屋去，转到 294。\r\n",
+      "sourceLocation": "txt:chars:55943:55959"
+    },
+    {
+      "id": "240:p11",
+      "kind": "body",
+      "text": "要继续藏在浴室，转到 297。\r\n",
+      "sourceLocation": "txt:chars:55959:55976"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "210",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "210:p0",
+      "kind": "heading",
+      "text": "$t1 == '210'?\r\n`",
+      "sourceLocation": "txt:chars:49534:49550"
+    },
+    {
+      "id": "210:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:49550:49552"
+    },
+    {
+      "id": "210:p2",
+      "kind": "body",
+      "text": "你转了转音量旋钮，男人的话变得清晰。\r\n",
+      "sourceLocation": "txt:chars:49552:49572"
+    },
+    {
+      "id": "210:p3",
+      "kind": "body",
+      "text": "“——五天了吧，我觉得？”他抬头看着空地边缘的松树。“真美。我想朋友们随时都会过来。”\r\n",
+      "sourceLocation": "txt:chars:49572:49617"
+    },
+    {
+      "id": "210:p4",
+      "kind": "body",
+      "text": "男人站起身，看着火焰。\r\n",
+      "sourceLocation": "txt:chars:49617:49630"
+    },
+    {
+      "id": "210:p5",
+      "kind": "body",
+      "text": "“火焰让我温暖，让我随时准备充分。”他又面向镜头，指着帐篷，“晚上会很冷。不过，我想要不了几天就不重要了。”\r\n",
+      "sourceLocation": "txt:chars:49630:49686"
+    },
+    {
+      "id": "210:p6",
+      "kind": "body",
+      "text": "他走到帐篷边拉开拉链，上身探进去翻找了一会儿，拿着一个办公室里装文件的那种牛皮纸文件夹出来。\r\n",
+      "sourceLocation": "txt:chars:49686:49734"
+    },
+    {
+      "id": "210:p7",
+      "kind": "body",
+      "text": "他走到镜头前坐下。画面被他的脸填满。他直直地盯着镜头，盯着你。他说了什么，但是声音太小，你没有听清。\r\n",
+      "sourceLocation": "txt:chars:49734:49786"
+    },
+    {
+      "id": "210:p8",
+      "kind": "body",
+      "text": "要倒带调高音量，转到 213。\r\n",
+      "sourceLocation": "txt:chars:49786:49803"
+    },
+    {
+      "id": "210:p9",
+      "kind": "body",
+      "text": "要就这样往下播放，转到 211。\r\n",
+      "sourceLocation": "txt:chars:49803:49821"
+    }
+  ]
+}

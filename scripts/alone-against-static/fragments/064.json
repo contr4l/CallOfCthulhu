@@ -1,0 +1,54 @@
+{
+  "id": "64",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "64:p0",
+      "kind": "heading",
+      "text": "$t1 == '64'?\r\n`",
+      "sourceLocation": "txt:chars:17830:17845"
+    },
+    {
+      "id": "64:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:17845:17847"
+    },
+    {
+      "id": "64:p2",
+      "kind": "body",
+      "text": "你拿来螺丝刀套装的盒子，将它打开。盒子里全是很小的螺丝刀。螺丝刀头都是奇怪的形状。\r\n",
+      "sourceLocation": "txt:chars:17847:17890"
+    },
+    {
+      "id": "64:p3",
+      "kind": "body",
+      "text": "你的思维飞速运转。这些工具有什么奇妙的秘密用途？它们要被用在什么样的微型设备上？你偶然间踏入了怎样的谜团？你考虑着各种可能性，脑子不停地思考着。\r\n",
+      "sourceLocation": "txt:chars:17890:17964"
+    },
+    {
+      "id": "64:p4",
+      "kind": "body",
+      "text": "说真的，这只是一套微型螺丝刀而已。你不知道它们的用途……\r\n",
+      "sourceLocation": "txt:chars:17964:17994"
+    },
+    {
+      "id": "64:p5",
+      "kind": "body",
+      "text": "在记录表上勾选 工具箱。\r\n",
+      "sourceLocation": "txt:chars:17994:18008"
+    },
+    {
+      "id": "64:p6",
+      "kind": "body",
+      "text": "如果记录表上的 技术支持 已被勾选，你突然明白了这套螺丝刀的用途，转到 76。\r\n",
+      "sourceLocation": "txt:chars:18008:18049"
+    },
+    {
+      "id": "64:p7",
+      "kind": "body",
+      "text": "回到 57。\r\n",
+      "sourceLocation": "txt:chars:18049:18057"
+    }
+  ]
+}

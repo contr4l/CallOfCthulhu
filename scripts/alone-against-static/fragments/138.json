@@ -1,0 +1,42 @@
+{
+  "id": "138",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "138:p0",
+      "kind": "heading",
+      "text": "$t1 == '138'?\r\n`",
+      "sourceLocation": "txt:chars:33019:33035"
+    },
+    {
+      "id": "138:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:33035:33037"
+    },
+    {
+      "id": "138:p2",
+      "kind": "body",
+      "text": "你走出小屋，看着陌生人沿着林间小道大步走去。你踩着早上走过的那些石头跟着他。\r\n",
+      "sourceLocation": "txt:chars:33037:33077"
+    },
+    {
+      "id": "138:p3",
+      "kind": "body",
+      "text": "你不由自主地感到你正在做一件非常危险的事。\r\n",
+      "sourceLocation": "txt:chars:33077:33100"
+    },
+    {
+      "id": "138:p4",
+      "kind": "body",
+      "text": "要回到小屋去锁好门，转到 120。\r\n",
+      "sourceLocation": "txt:chars:33100:33119"
+    },
+    {
+      "id": "138:p5",
+      "kind": "body",
+      "text": "要跟着他深入森林，转到 141。\r\n",
+      "sourceLocation": "txt:chars:33119:33137"
+    }
+  ]
+}

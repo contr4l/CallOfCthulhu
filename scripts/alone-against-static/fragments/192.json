@@ -1,0 +1,66 @@
+{
+  "id": "192",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "192:p0",
+      "kind": "heading",
+      "text": "$t1 == '192'?\r\n`",
+      "sourceLocation": "txt:chars:44736:44752"
+    },
+    {
+      "id": "192:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:44752:44754"
+    },
+    {
+      "id": "192:p2",
+      "kind": "body",
+      "text": "“你好？”男人问。\r\n",
+      "sourceLocation": "txt:chars:44754:44765"
+    },
+    {
+      "id": "192:p3",
+      "kind": "body",
+      "text": "除了篝火的噼啪声别无他物。\r\n",
+      "sourceLocation": "txt:chars:44765:44780"
+    },
+    {
+      "id": "192:p4",
+      "kind": "body",
+      "text": "“你好？”他站起身，朝森林走了几步，“有人在那边吗？”\r\n",
+      "sourceLocation": "txt:chars:44780:44809"
+    },
+    {
+      "id": "192:p5",
+      "kind": "body",
+      "text": "你又听到模糊的呼喊声。这声音几乎无法分辨。\r\n",
+      "sourceLocation": "txt:chars:44809:44832"
+    },
+    {
+      "id": "192:p6",
+      "kind": "body",
+      "text": "“你说什么？”拍摄者喊道。\r\n",
+      "sourceLocation": "txt:chars:44832:44847"
+    },
+    {
+      "id": "192:p7",
+      "kind": "body",
+      "text": "这次你连回答的声音都没有听到。没办法，声音太轻了。你什么也分不清。\r\n",
+      "sourceLocation": "txt:chars:44847:44882"
+    },
+    {
+      "id": "192:p8",
+      "kind": "body",
+      "text": "你失望地退了带。\r\n",
+      "sourceLocation": "txt:chars:44882:44892"
+    },
+    {
+      "id": "192:p9",
+      "kind": "body",
+      "text": "转到 186。\r\n",
+      "sourceLocation": "txt:chars:44892:44901"
+    }
+  ]
+}

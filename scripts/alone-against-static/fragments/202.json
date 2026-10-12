@@ -1,0 +1,78 @@
+{
+  "id": "202",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "202:p0",
+      "kind": "heading",
+      "text": "$t1 == '202'?\r\n`",
+      "sourceLocation": "txt:chars:47412:47428"
+    },
+    {
+      "id": "202:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:47428:47430"
+    },
+    {
+      "id": "202:p2",
+      "kind": "body",
+      "text": "当门打开时，你按下暂停，有什么东西引起了你的注意。你往回倒了几秒钟。\r\n",
+      "sourceLocation": "txt:chars:47430:47466"
+    },
+    {
+      "id": "202:p3",
+      "kind": "body",
+      "text": "在马克和茱莉的对话中间，她用平底锅挡住脸的时候，一个奇怪的形状闪过屏幕。\r\n",
+      "sourceLocation": "txt:chars:47466:47504"
+    },
+    {
+      "id": "202:p4",
+      "kind": "body",
+      "text": "平底锅是不锈钢制，打磨得像镜子一样亮。你能看到变了形的马克倒映在上面。他拿着摄像机。\r\n",
+      "sourceLocation": "txt:chars:47504:47548"
+    },
+    {
+      "id": "202:p5",
+      "kind": "body",
+      "text": "你还能看到门边窗户的倒影。外面阳光明媚。透过窗户，你看到一个邪恶的漆黑形状。那是一个若隐若现的头颅架在肩膀上，上面覆盖着可怕的头发，并且生着如荆棘般的粗枝。倒影扭曲变形，你认不出那是什么，但是你确信它一定不是人类。\r\n",
+      "sourceLocation": "txt:chars:47548:47657"
+    },
+    {
+      "id": "202:p6",
+      "kind": "body",
+      "text": "那只是一团漆黑。没有任何特征。\r\n",
+      "sourceLocation": "txt:chars:47657:47674"
+    },
+    {
+      "id": "202:p7",
+      "kind": "body",
+      "text": "就像一个影子。\r\n",
+      "sourceLocation": "txt:chars:47674:47683"
+    },
+    {
+      "id": "202:p8",
+      "kind": "body",
+      "text": "一只怪物。一只怪物在你现在所在小屋的外面。\r\n",
+      "sourceLocation": "txt:chars:47683:47706"
+    },
+    {
+      "id": "202:p9",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:47706:47717"
+    },
+    {
+      "id": "202:p10",
+      "kind": "body",
+      "text": "如果检定成功，转到 204。\r\n",
+      "sourceLocation": "txt:chars:47717:47733"
+    },
+    {
+      "id": "202:p11",
+      "kind": "body",
+      "text": "如果检定失败，转到 206。\r\n",
+      "sourceLocation": "txt:chars:47733:47749"
+    }
+  ]
+}

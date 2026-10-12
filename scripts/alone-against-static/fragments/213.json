@@ -1,0 +1,48 @@
+{
+  "id": "213",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "213:p0",
+      "kind": "heading",
+      "text": "$t1 == '213'?\r\n`",
+      "sourceLocation": "txt:chars:50090:50106"
+    },
+    {
+      "id": "213:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:50106:50108"
+    },
+    {
+      "id": "213:p2",
+      "kind": "body",
+      "text": "你把磁带倒回几秒，调高音量。音量高得让你不舒服，但你还是按下播放键。\r\n",
+      "sourceLocation": "txt:chars:50108:50144"
+    },
+    {
+      "id": "213:p3",
+      "kind": "body",
+      "text": "你看着男人走回相机前坐下。坐得很近，你能听到他的呼吸声。他盯着镜头，就像是看着你，低声说道：“这是幼子的祝福。”\r\n",
+      "sourceLocation": "txt:chars:50144:50202"
+    },
+    {
+      "id": "213:p4",
+      "kind": "body",
+      "text": "他靠近之后，你注意到他脸上有些奇怪。男人眼皮边缘生着一些脓疱，差不多就是长睫毛的位置。脓疱大小不同，但是看起来都充着黄色的脓水。\r\n",
+      "sourceLocation": "txt:chars:50202:50268"
+    },
+    {
+      "id": "213:p5",
+      "kind": "body",
+      "text": "如果记录表上的 兽医 已被勾选，你回忆起一种类似的症状，必须转到 212。\r\n",
+      "sourceLocation": "txt:chars:50268:50307"
+    },
+    {
+      "id": "213:p6",
+      "kind": "body",
+      "text": "转到 215。\r\n",
+      "sourceLocation": "txt:chars:50307:50316"
+    }
+  ]
+}

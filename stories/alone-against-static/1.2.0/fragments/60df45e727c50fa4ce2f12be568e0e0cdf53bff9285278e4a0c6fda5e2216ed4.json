@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "263"
+  ],
+  "text": [
+    "你一蹲身躲过陌生人的拳头。他收不住力，磕磕绊绊地冲过你身边，差点被床绊倒。你现在在他身后，就在敞开的屋门旁边。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 263",
+      "textRef": "default"
+    }
+  }
+}

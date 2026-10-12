@@ -1,0 +1,22 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "123"
+  ],
+  "text": [
+    "“不，马克也不在。”",
+    "“哦……”他低头看了看，然后抬头盯着你，就这样过了几秒。",
+    "“我还能为你做什么吗？”",
+    "“他们在哪？”他问。",
+    "“你叫什么？我可以转告他们你来过。”",
+    "他就只盯着你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 123",
+      "textRef": "default"
+    }
+  }
+}

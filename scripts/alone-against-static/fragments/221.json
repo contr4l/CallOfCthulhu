@@ -1,0 +1,48 @@
+{
+  "id": "221",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "221:p0",
+      "kind": "heading",
+      "text": "$t1 == '221'?\r\n`",
+      "sourceLocation": "txt:chars:52179:52195"
+    },
+    {
+      "id": "221:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:52195:52197"
+    },
+    {
+      "id": "221:p2",
+      "kind": "body",
+      "text": "他说了你的名字。他说了你伴侣的名字。即使电视静音了，声音还是放了出来。那邪恶的声音……就像是喉咙里填满了雪花音与铁丝网。\r\n",
+      "sourceLocation": "txt:chars:52197:52259"
+    },
+    {
+      "id": "221:p3",
+      "kind": "body",
+      "text": "你的心像是冻住了，不由得倒退几步。\r\n",
+      "sourceLocation": "txt:chars:52259:52278"
+    },
+    {
+      "id": "221:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:52278:52303"
+    },
+    {
+      "id": "221:p5",
+      "kind": "body",
+      "text": "失去 1D4 点理智。\r\n",
+      "sourceLocation": "txt:chars:52303:52316"
+    },
+    {
+      "id": "221:p6",
+      "kind": "body",
+      "text": "回到 186。\r\n",
+      "sourceLocation": "txt:chars:52316:52325"
+    }
+  ]
+}

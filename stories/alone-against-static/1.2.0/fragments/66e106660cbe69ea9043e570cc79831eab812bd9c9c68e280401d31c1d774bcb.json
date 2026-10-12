@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "236"
+  ],
+  "text": [
+    "你推了一把门，踉跄着退回小屋中。你知道，过不了几秒，你就会听到打开的门撞在屋里墙上的声音。",
+    "你没有多少时间。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 236",
+      "textRef": "default"
+    }
+  }
+}

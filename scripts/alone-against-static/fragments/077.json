@@ -1,0 +1,48 @@
+{
+  "id": "77",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "77:p0",
+      "kind": "heading",
+      "text": "$t1 == '77'?\r\n`",
+      "sourceLocation": "txt:chars:20171:20186"
+    },
+    {
+      "id": "77:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:20186:20188"
+    },
+    {
+      "id": "77:p2",
+      "kind": "body",
+      "text": "你皱着眉头用手指搓着浆果的残渣。也许还是等你伴侣开着车回来再测试你的觅食技巧比较好。\r\n",
+      "sourceLocation": "txt:chars:20188:20232"
+    },
+    {
+      "id": "77:p3",
+      "kind": "body",
+      "text": "你抱着胳膊继续走，目不斜视地看着小路，强迫自己专注于当下。\r\n",
+      "sourceLocation": "txt:chars:20232:20263"
+    },
+    {
+      "id": "77:p4",
+      "kind": "body",
+      "text": "在你左边，你听到有流水的声音。\r\n",
+      "sourceLocation": "txt:chars:20263:20280"
+    },
+    {
+      "id": "77:p5",
+      "kind": "body",
+      "text": "要调查声音的源头，转到 44。\r\n",
+      "sourceLocation": "txt:chars:20280:20297"
+    },
+    {
+      "id": "77:p6",
+      "kind": "body",
+      "text": "要留在小路上，转到 49。\r\n",
+      "sourceLocation": "txt:chars:20297:20312"
+    }
+  ]
+}

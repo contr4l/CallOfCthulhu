@@ -1,0 +1,42 @@
+{
+  "id": "275",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "275:p0",
+      "kind": "heading",
+      "text": "$t1 == '275'?\r\n`",
+      "sourceLocation": "txt:chars:62710:62726"
+    },
+    {
+      "id": "275:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:62726:62728"
+    },
+    {
+      "id": "275:p2",
+      "kind": "body",
+      "text": "你从树木枝干间挤出一条路，搞出许多动静，终于来到空地上。帐篷里有什么沙沙作响。你一定是吵醒了帐篷里的人。\r\n",
+      "sourceLocation": "txt:chars:62728:62782"
+    },
+    {
+      "id": "275:p3",
+      "kind": "body",
+      "text": "“有人吗？”一个怯懦的声音喊道。帐篷口的拉链打开，一个生面孔的男人出来站到月光下。他衣着整齐，看着你迟疑了一会儿，然后点了点头。你注意到他并不感到意外。\r\n",
+      "sourceLocation": "txt:chars:62782:62860"
+    },
+    {
+      "id": "275:p4",
+      "kind": "body",
+      "text": "要礼貌地回应他，转到 335。\r\n",
+      "sourceLocation": "txt:chars:62860:62877"
+    },
+    {
+      "id": "275:p5",
+      "kind": "body",
+      "text": "要咄咄逼人地回应他，转到 286。\r\n",
+      "sourceLocation": "txt:chars:62877:62896"
+    }
+  ]
+}

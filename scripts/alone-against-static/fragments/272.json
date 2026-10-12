@@ -1,0 +1,66 @@
+{
+  "id": "272",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "272:p0",
+      "kind": "heading",
+      "text": "$t1 == '272'?\r\n`",
+      "sourceLocation": "txt:chars:61776:61792"
+    },
+    {
+      "id": "272:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:61792:61794"
+    },
+    {
+      "id": "272:p2",
+      "kind": "body",
+      "text": "你想躲到一旁，但陌生人的巨拳打在了你下巴上。\r\n",
+      "sourceLocation": "txt:chars:61794:61818"
+    },
+    {
+      "id": "272:p3",
+      "kind": "body",
+      "text": "你的牙齿松动了，下颌后面有什么裂开了。你拖着身体挪到一边。陌生人发出欢庆的嚎叫。你稳住身子，看着他挥着拳头又朝你走来。\r\n",
+      "sourceLocation": "txt:chars:61818:61879"
+    },
+    {
+      "id": "272:p4",
+      "kind": "body",
+      "text": "你注意到，在这一回合里，陌生人和你换了位置。现在你是在屋门和他中间了。\r\n",
+      "sourceLocation": "txt:chars:61879:61916"
+    },
+    {
+      "id": "272:p5",
+      "kind": "body",
+      "text": "决不能再呆在这了……\r\n",
+      "sourceLocation": "txt:chars:61916:61928"
+    },
+    {
+      "id": "272:p6",
+      "kind": "body",
+      "text": "你转过身朝屋外冲去，逃进森林，逃进夜色，把他愤怒的吼叫声甩在身后。\r\n",
+      "sourceLocation": "txt:chars:61928:61963"
+    },
+    {
+      "id": "272:p7",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:61963:61988"
+    },
+    {
+      "id": "272:p8",
+      "kind": "body",
+      "text": "受到 1D4 点伤害。\r\n",
+      "sourceLocation": "txt:chars:61988:62001"
+    },
+    {
+      "id": "272:p9",
+      "kind": "body",
+      "text": "转到 298。\r\n",
+      "sourceLocation": "txt:chars:62001:62010"
+    }
+  ]
+}

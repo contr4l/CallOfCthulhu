@@ -9,6 +9,16 @@ export function CheckExplanation({ result }: { result: CheckResult }) {
   const contest = explainContest(result);
   return (
     <div className="check-explanation">
+      {result.assistance?.targetBonus ? (
+        <p>{convert(`命运助力：目标值＋${result.assistance.targetBonus}`)}</p>
+      ) : null}
+      {result.assistance?.previousRoll !== undefined && (
+        <p>
+          {convert(
+            `重掷：上次 ${result.assistance.previousRoll}，本次 ${result.roll}，以本次结果为准。`,
+          )}
+        </p>
+      )}
       <p className="check-comparison">
         <CheckOutcomeText text={`D100 · ${own.comparison}，`} />
         <span className={checkOutcomeClass(own.passed)}>

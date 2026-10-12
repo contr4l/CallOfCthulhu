@@ -1,0 +1,54 @@
+{
+  "id": "103",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "103:p0",
+      "kind": "heading",
+      "text": "$t1 == '103'?\r\n`",
+      "sourceLocation": "txt:chars:25251:25267"
+    },
+    {
+      "id": "103:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:25267:25269"
+    },
+    {
+      "id": "103:p2",
+      "kind": "body",
+      "text": "太阳逐渐落山。车灯割破黑暗，却只能照亮你们车前几米的道路。终于，灯光扫过一间小屋的外墙，在前门两侧的玻璃窗上反射回来，就像两只眼睛警惕地盯着你。你把车停在路边。\r\n",
+      "sourceLocation": "txt:chars:25269:25351"
+    },
+    {
+      "id": "103:p3",
+      "kind": "body",
+      "text": "“终于到了。”亚历克斯叹着气下了车，站到碎石车道上。你把胳膊腿挪出车子，伸展了一下后背，然后走到后备箱前拿自己的包。天气很冷，夜里的寒气像钳子一样将你抓在中间。你没想到会这么冷。\r\n",
+      "sourceLocation": "txt:chars:25351:25442"
+    },
+    {
+      "id": "103:p4",
+      "kind": "body",
+      "text": "“饿了吗？”在你忍着不发抖时，亚历克斯问道。\r\n",
+      "sourceLocation": "txt:chars:25442:25466"
+    },
+    {
+      "id": "103:p5",
+      "kind": "body",
+      "text": "进行一次体质检定；如果你失败了，在记录表上勾选 着凉。\r\n",
+      "sourceLocation": "txt:chars:25466:25495"
+    },
+    {
+      "id": "103:p6",
+      "kind": "body",
+      "text": "要说你饿了，转到 105。\r\n",
+      "sourceLocation": "txt:chars:25495:25510"
+    },
+    {
+      "id": "103:p7",
+      "kind": "body",
+      "text": "要说你还不饿，转到 111。\r\n",
+      "sourceLocation": "txt:chars:25510:25526"
+    }
+  ]
+}

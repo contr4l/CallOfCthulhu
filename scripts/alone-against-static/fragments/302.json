@@ -1,0 +1,42 @@
+{
+  "id": "302",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "302:p0",
+      "kind": "heading",
+      "text": "$t1 == '302'?\r\n`",
+      "sourceLocation": "txt:chars:68327:68343"
+    },
+    {
+      "id": "302:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:68343:68345"
+    },
+    {
+      "id": "302:p2",
+      "kind": "body",
+      "text": "松针和泥土在你脚下被压实。你一步一步走着，但每走一步你都觉得更加虚弱。你需要找地方休息。也许找一处高地？或者……你应该找一处石窟？如果是个天然藏身处就太棒了。\r\n",
+      "sourceLocation": "txt:chars:68345:68426"
+    },
+    {
+      "id": "302:p3",
+      "kind": "body",
+      "text": "你看到有一丛树，好像能让你休息一会儿又不会受潮。这时，从你身后传来微弱的嘶嘶声。这是什么？雪花？这是雪花的声音吗？肾上腺素涌过你的身体。\r\n",
+      "sourceLocation": "txt:chars:68426:68496"
+    },
+    {
+      "id": "302:p4",
+      "kind": "body",
+      "text": "要调查声音的源头，转到 303。\r\n",
+      "sourceLocation": "txt:chars:68496:68514"
+    },
+    {
+      "id": "302:p5",
+      "kind": "body",
+      "text": "要拼命逃走，转到 308。\r\n",
+      "sourceLocation": "txt:chars:68514:68529"
+    }
+  ]
+}

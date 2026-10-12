@@ -1,0 +1,36 @@
+{
+  "id": "266",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "266:p0",
+      "kind": "heading",
+      "text": "$t1 == '266'?\r\n`",
+      "sourceLocation": "txt:chars:60110:60126"
+    },
+    {
+      "id": "266:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:60126:60128"
+    },
+    {
+      "id": "266:p2",
+      "kind": "body",
+      "text": "你感到一阵既视感。这处营地……就是那一处。你听到帐篷里传来响声。你来到这里的声音显然是把帐篷里的人吵醒了。一个唱歌一样的声音喊道：“有人吗？”你胃里一沉。你认得这个声音。帐篷拉链拉开，那个男人走了出来。他穿的还是同样的衣服。他看着你，迟疑了一下，点了点头。你看得出，他眼中没有任何惊讶。\r\n",
+      "sourceLocation": "txt:chars:60128:60273"
+    },
+    {
+      "id": "266:p3",
+      "kind": "body",
+      "text": "要礼貌地回应他，转到 335。\r\n",
+      "sourceLocation": "txt:chars:60273:60290"
+    },
+    {
+      "id": "266:p4",
+      "kind": "body",
+      "text": "要咄咄逼人地回应他，转到 286。\r\n",
+      "sourceLocation": "txt:chars:60290:60309"
+    }
+  ]
+}

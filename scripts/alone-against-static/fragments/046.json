@@ -1,0 +1,78 @@
+{
+  "id": "46",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "46:p0",
+      "kind": "heading",
+      "text": "$t1 == '46'?\r\n`",
+      "sourceLocation": "txt:chars:14262:14277"
+    },
+    {
+      "id": "46:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:14277:14279"
+    },
+    {
+      "id": "46:p2",
+      "kind": "body",
+      "text": "在小溪对面，树木之间，你听到树枝折断的声音。你僵住了一下，然后站起身来。\r\n",
+      "sourceLocation": "txt:chars:14279:14317"
+    },
+    {
+      "id": "46:p3",
+      "kind": "body",
+      "text": "突然，一头鹿从树木中现出身形。它慢慢地朝溪水走来。然后，鹿也发现了你。它停下来，也盯着你。\r\n",
+      "sourceLocation": "txt:chars:14317:14364"
+    },
+    {
+      "id": "46:p4",
+      "kind": "body",
+      "text": "在你和鹿之间，只有溪水在流淌。你和它都呆立不动，盯着对方。\r\n",
+      "sourceLocation": "txt:chars:14364:14395"
+    },
+    {
+      "id": "46:p5",
+      "kind": "body",
+      "text": "你注意到鹿的一只眼睛充血肿胀，流着脓水。\r\n",
+      "sourceLocation": "txt:chars:14395:14417"
+    },
+    {
+      "id": "46:p6",
+      "kind": "body",
+      "text": "进行一次博物学检定。\r\n",
+      "sourceLocation": "txt:chars:14417:14429"
+    },
+    {
+      "id": "46:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 47。\r\n",
+      "sourceLocation": "txt:chars:14429:14444"
+    },
+    {
+      "id": "46:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 53。\r\n",
+      "sourceLocation": "txt:chars:14444:14459"
+    },
+    {
+      "id": "46:p9",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是踩到不稳定的河岸：\r\n",
+      "sourceLocation": "txt:chars:14459:14500"
+    },
+    {
+      "id": "46:p10",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 47。\r\n",
+      "sourceLocation": "txt:chars:14500:14517"
+    },
+    {
+      "id": "46:p11",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 54。\r\n",
+      "sourceLocation": "txt:chars:14517:14534"
+    }
+  ]
+}

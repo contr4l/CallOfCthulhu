@@ -1,0 +1,42 @@
+{
+  "id": "269",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "269:p0",
+      "kind": "heading",
+      "text": "$t1 == '269'?\r\n`",
+      "sourceLocation": "txt:chars:60917:60933"
+    },
+    {
+      "id": "269:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:60933:60935"
+    },
+    {
+      "id": "269:p2",
+      "kind": "body",
+      "text": "斧子！你在前门旁边找到的斧子！谢天谢地你把它拿进来了。你冲到墙边，抄起这把沉甸甸的凶器。斧子很重，但你拿起来之后心中便安定了不少。你已经拉平了和这个疯子的差距。\r\n",
+      "sourceLocation": "txt:chars:60935:61017"
+    },
+    {
+      "id": "269:p3",
+      "kind": "body",
+      "text": "你往前一步，持着斧子站在门口。只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。\r\n",
+      "sourceLocation": "txt:chars:61017:61063"
+    },
+    {
+      "id": "269:p4",
+      "kind": "body",
+      "text": "在记录表上勾选 大开杀戒。\r\n",
+      "sourceLocation": "txt:chars:61063:61078"
+    },
+    {
+      "id": "269:p5",
+      "kind": "body",
+      "text": "转到 259。\r\n",
+      "sourceLocation": "txt:chars:61078:61087"
+    }
+  ]
+}

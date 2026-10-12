@@ -1,0 +1,36 @@
+{
+  "id": "168",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "168:p0",
+      "kind": "heading",
+      "text": "$t1 == '168'?\r\n`",
+      "sourceLocation": "txt:chars:39449:39465"
+    },
+    {
+      "id": "168:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:39465:39467"
+    },
+    {
+      "id": "168:p2",
+      "kind": "body",
+      "text": "你仍然紧紧抱着头，拼命朝着安全的地方跑去。你能感到血液从耳道中流出，积在你的手掌里。你跑过森林，跳过倒下的树干，蹲身穿过树枝。\r\n",
+      "sourceLocation": "txt:chars:39467:39532"
+    },
+    {
+      "id": "168:p3",
+      "kind": "body",
+      "text": "完全出于本能，你顺着来路返回。回去的时间比你预想得更久，但你还是成功找到林间的小路，回到了马克的小屋。它安静地立在黑暗中。车道上还是没有车。\r\n",
+      "sourceLocation": "txt:chars:39532:39604"
+    },
+    {
+      "id": "168:p4",
+      "kind": "body",
+      "text": "转到 170。\r\n",
+      "sourceLocation": "txt:chars:39604:39613"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "370",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "370:p0",
+      "kind": "heading",
+      "text": "$t1 == '370'?\r\n`",
+      "sourceLocation": "txt:chars:85991:86007"
+    },
+    {
+      "id": "370:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:86007:86009"
+    },
+    {
+      "id": "370:p2",
+      "kind": "body",
+      "text": "叹了口气，你回到小屋里、关上门、又脱掉鞋子。与整个世界分离，却仍能呆在这个安全的小屋里让你感到一种特殊的舒适。就像是将一株现代生活种在荒野中。\r\n",
+      "sourceLocation": "txt:chars:86009:86082"
+    },
+    {
+      "id": "370:p3",
+      "kind": "body",
+      "text": "你只是希望能看电视。\r\n",
+      "sourceLocation": "txt:chars:86082:86094"
+    },
+    {
+      "id": "370:p4",
+      "kind": "body",
+      "text": "要做点吃的，转到 94。\r\n",
+      "sourceLocation": "txt:chars:86094:86108"
+    },
+    {
+      "id": "370:p5",
+      "kind": "body",
+      "text": "要寻找手电筒和电池，以备天黑时用，转到 95。\r\n",
+      "sourceLocation": "txt:chars:86108:86133"
+    }
+  ]
+}

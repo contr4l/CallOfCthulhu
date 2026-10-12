@@ -1,0 +1,60 @@
+{
+  "id": "224",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "224:p0",
+      "kind": "heading",
+      "text": "$t1 == '224'?\r\n`",
+      "sourceLocation": "txt:chars:52811:52827"
+    },
+    {
+      "id": "224:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:52827:52829"
+    },
+    {
+      "id": "224:p2",
+      "kind": "body",
+      "text": "你用手电筒照着走到门边，开门出去。\r\n",
+      "sourceLocation": "txt:chars:52829:52848"
+    },
+    {
+      "id": "224:p3",
+      "kind": "body",
+      "text": "外面又黑又冷。风从门前的空地吹过，沿着车道吹进森林的深处。\r\n",
+      "sourceLocation": "txt:chars:52848:52879"
+    },
+    {
+      "id": "224:p4",
+      "kind": "body",
+      "text": "你把手电筒左右扫着，但没有你伴侣的迹象。\r\n",
+      "sourceLocation": "txt:chars:52879:52901"
+    },
+    {
+      "id": "224:p5",
+      "kind": "body",
+      "text": "你显然太乐观了。如果有车子回来，你在一里地外就听得到。\r\n",
+      "sourceLocation": "txt:chars:52901:52930"
+    },
+    {
+      "id": "224:p6",
+      "kind": "body",
+      "text": "进行一次聆听检定。\r\n",
+      "sourceLocation": "txt:chars:52930:52941"
+    },
+    {
+      "id": "224:p7",
+      "kind": "body",
+      "text": "如果检定成功，转到 225。\r\n",
+      "sourceLocation": "txt:chars:52941:52957"
+    },
+    {
+      "id": "224:p8",
+      "kind": "body",
+      "text": "如果检定失败，转到 228。\r\n",
+      "sourceLocation": "txt:chars:52957:52973"
+    }
+  ]
+}

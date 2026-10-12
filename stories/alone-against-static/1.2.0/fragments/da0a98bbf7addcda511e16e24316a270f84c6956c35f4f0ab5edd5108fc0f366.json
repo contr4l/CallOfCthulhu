@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "79"
+  ],
+  "text": [
+    "忘了它吧。你看的恐怖电影足够多了，知道要离这种森林中央的废弃棚屋远远的。",
+    "你继续走了半小时左右。然后便往小屋回去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 79",
+      "textRef": "default"
+    }
+  }
+}

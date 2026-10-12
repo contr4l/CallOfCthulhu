@@ -1,0 +1,72 @@
+{
+  "id": "118",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "118:p0",
+      "kind": "heading",
+      "text": "$t1 == '118'?\r\n`",
+      "sourceLocation": "txt:chars:28120:28136"
+    },
+    {
+      "id": "118:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:28136:28138"
+    },
+    {
+      "id": "118:p2",
+      "kind": "body",
+      "text": "你不知道该说什么了。“你迷路了吗？”你问道。\r\n",
+      "sourceLocation": "txt:chars:28138:28162"
+    },
+    {
+      "id": "118:p3",
+      "kind": "body",
+      "text": "“就是找茱莉。”他回答。\r\n",
+      "sourceLocation": "txt:chars:28162:28176"
+    },
+    {
+      "id": "118:p4",
+      "kind": "body",
+      "text": "“你能告诉我你的名字吗？”\r\n",
+      "sourceLocation": "txt:chars:28176:28191"
+    },
+    {
+      "id": "118:p5",
+      "kind": "body",
+      "text": "他盯着你。\r\n",
+      "sourceLocation": "txt:chars:28191:28198"
+    },
+    {
+      "id": "118:p6",
+      "kind": "body",
+      "text": "你盯了回去。“先生？”你问道。\r\n",
+      "sourceLocation": "txt:chars:28198:28215"
+    },
+    {
+      "id": "118:p7",
+      "kind": "body",
+      "text": "“茱莉在家吗？”他又问了一次。\r\n",
+      "sourceLocation": "txt:chars:28215:28232"
+    },
+    {
+      "id": "118:p8",
+      "kind": "body",
+      "text": "要继续谈话，转到 116。\r\n",
+      "sourceLocation": "txt:chars:28232:28247"
+    },
+    {
+      "id": "118:p9",
+      "kind": "body",
+      "text": "要让陌生人离开，转到 117。\r\n",
+      "sourceLocation": "txt:chars:28247:28264"
+    },
+    {
+      "id": "118:p10",
+      "kind": "body",
+      "text": "要把门摔在他脸上，转到 128。\r\n",
+      "sourceLocation": "txt:chars:28264:28282"
+    }
+  ]
+}

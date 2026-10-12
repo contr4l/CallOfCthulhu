@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "141",
+    "141-check-0"
+  ],
+  "text": [
+    "你快步跟在陌生人身后。你跟着他穿过树林。你距离他并不远，但是他似乎没有注意到你。",
+    "你可以偷偷跟着陌生人，或者不加掩饰地跟着他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 141",
+      "textRef": "default"
+    }
+  }
+}

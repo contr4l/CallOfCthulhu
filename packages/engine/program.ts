@@ -374,7 +374,12 @@ function checkSpec(s: RunState, c: ProgramCheck) {
     multiplier: c.multiplier,
   };
 }
-function resolve(s: RunState, c: ProgramCheck, dice: DiceSource): CheckResult {
+function resolve(
+  s: RunState,
+  c: ProgramCheck,
+  dice: DiceSource,
+  targetBonus = 0,
+): CheckResult {
   const spec = checkSpec(s, c);
   const clone = structuredClone(s.character);
   if (spec.target !== undefined) clone.skills.__custom = spec.target;
@@ -384,6 +389,7 @@ function resolve(s: RunState, c: ProgramCheck, dice: DiceSource): CheckResult {
     clone,
     { ...spec, skill: spec.target !== undefined ? "__custom" : spec.skill },
     dice,
+    targetBonus,
   );
   result.skill = c.skill;
   if (other) {
@@ -966,6 +972,7 @@ export function advanceProgram(
   actionId: string,
   dice: DiceSource = secureDice,
   input: Record<string, number | string> = {},
+  targetBonus = 0,
 ) {
   if (current.status === "ended") invalid("本局已经结束");
   const s = structuredClone(current);
@@ -1035,7 +1042,7 @@ export function advanceProgram(
       };
     }
   } else if (step.kind === "check" && actionId === "roll") {
-    result = resolve(s, step.check, dice);
+    result = resolve(s, step.check, dice, targetBonus);
     action = `进行${step.check.label}检定`;
     if (!result.success && step.check.push)
       p(s).pending = { check: step.check, result };

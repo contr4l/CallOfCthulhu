@@ -1,0 +1,42 @@
+{
+  "id": "62",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "62:p0",
+      "kind": "heading",
+      "text": "$t1 == '62'?\r\n`",
+      "sourceLocation": "txt:chars:17591:17606"
+    },
+    {
+      "id": "62:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:17606:17608"
+    },
+    {
+      "id": "62:p2",
+      "kind": "body",
+      "text": "工作台上放着各种工具，都是很多年没有人碰过了，被一层油腻的灰尘覆盖着。你看到一把暗灰色的锤子。也许它会有用？工具台上还有一套专用的微型螺丝刀。\r\n",
+      "sourceLocation": "txt:chars:17608:17681"
+    },
+    {
+      "id": "62:p3",
+      "kind": "body",
+      "text": "要拿走锤子，转到 63。\r\n",
+      "sourceLocation": "txt:chars:17681:17695"
+    },
+    {
+      "id": "62:p4",
+      "kind": "body",
+      "text": "要检查螺丝刀套装，转到 64。\r\n",
+      "sourceLocation": "txt:chars:17695:17712"
+    },
+    {
+      "id": "62:p5",
+      "kind": "body",
+      "text": "或者，回到 57。\r\n",
+      "sourceLocation": "txt:chars:17712:17723"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "325",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "325:p0",
+      "kind": "heading",
+      "text": "$t1 == '325'?\r\n`",
+      "sourceLocation": "txt:chars:74272:74288"
+    },
+    {
+      "id": "325:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:74288:74290"
+    },
+    {
+      "id": "325:p2",
+      "kind": "body",
+      "text": "疼痛击穿你的身体。你眼前发黑。\r\n",
+      "sourceLocation": "txt:chars:74290:74307"
+    },
+    {
+      "id": "325:p3",
+      "kind": "body",
+      "text": "你因一次失去过半生命值而受到重伤。进行一次体质检定。\r\n",
+      "sourceLocation": "txt:chars:74307:74335"
+    },
+    {
+      "id": "325:p4",
+      "kind": "body",
+      "text": "如果检定成功，回到你之前的条目，继续做出选择。从现在开始，如果你再受到任何伤害，都要回到这一条目，再进行一次体质检定。\r\n",
+      "sourceLocation": "txt:chars:74335:74396"
+    },
+    {
+      "id": "325:p5",
+      "kind": "body",
+      "text": "如果任意一次检定失败，转到 324。\r\n",
+      "sourceLocation": "txt:chars:74396:74416"
+    },
+    {
+      "id": "325:p6",
+      "kind": "body",
+      "text": "（重伤）\r\n",
+      "sourceLocation": "txt:chars:74416:74422"
+    }
+  ]
+}

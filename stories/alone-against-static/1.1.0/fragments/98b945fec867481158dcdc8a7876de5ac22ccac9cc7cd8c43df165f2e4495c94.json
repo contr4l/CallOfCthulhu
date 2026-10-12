@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "211"
+  ],
+  "text": [
+    "他靠近之后，你注意到他脸上有些奇怪。男人眼皮边缘生着一些脓疱，差不多就是长睫毛的位置。脓疱大小不同，但是看起来都充着黄色的脓水。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 211",
+      "textRef": "default"
+    }
+  }
+}

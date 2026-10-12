@@ -1,0 +1,36 @@
+{
+  "id": "223",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "223:p0",
+      "kind": "heading",
+      "text": "$t1 == '223'?\r\n`",
+      "sourceLocation": "txt:chars:52710:52726"
+    },
+    {
+      "id": "223:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:52726:52728"
+    },
+    {
+      "id": "223:p2",
+      "kind": "body",
+      "text": "你从电视前转身离开，走到床边坐下，眼神躲闪着电视机。你能听到它在轻声嗡鸣着。\r\n",
+      "sourceLocation": "txt:chars:52728:52768"
+    },
+    {
+      "id": "223:p3",
+      "kind": "body",
+      "text": "要睡觉，转到 255。\r\n",
+      "sourceLocation": "txt:chars:52768:52781"
+    },
+    {
+      "id": "223:p4",
+      "kind": "body",
+      "text": "要出去再看一看伴侣有没有回来，转到 224。\r\n",
+      "sourceLocation": "txt:chars:52781:52805"
+    }
+  ]
+}

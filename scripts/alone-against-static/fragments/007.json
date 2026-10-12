@@ -1,0 +1,66 @@
+{
+  "id": "7",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "7:p0",
+      "kind": "heading",
+      "text": "$t1 == '7'?\r\n`",
+      "sourceLocation": "txt:chars:2781:2795"
+    },
+    {
+      "id": "7:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:2795:2797"
+    },
+    {
+      "id": "7:p2",
+      "kind": "body",
+      "text": "“我们是从 I-90 公路过来的，记得吗？”你说道。\r\n",
+      "sourceLocation": "txt:chars:2797:2825"
+    },
+    {
+      "id": "7:p3",
+      "kind": "body",
+      "text": "查理闷闷地生了一会气，然后小声答道，“我记得。”\r\n",
+      "sourceLocation": "txt:chars:2825:2851"
+    },
+    {
+      "id": "7:p4",
+      "kind": "body",
+      "text": "你探身过去。“来吧，让我帮你看——”\r\n",
+      "sourceLocation": "txt:chars:2851:2871"
+    },
+    {
+      "id": "7:p5",
+      "kind": "body",
+      "text": "“不要！”查理一把抓走了地图。“亚历克斯，就让我来，好吗？”\r\n",
+      "sourceLocation": "txt:chars:2871:2903"
+    },
+    {
+      "id": "7:p6",
+      "kind": "body",
+      "text": "你举起双手表示自己并无恶意，又翻了个白眼。查理坚定地又开了几分钟，然后发现了一条深入森林的小路。查理转弯开上小路，你们无言地驶过两边的树林。\r\n",
+      "sourceLocation": "txt:chars:2903:2975"
+    },
+    {
+      "id": "7:p7",
+      "kind": "body",
+      "text": "进行一次心理学检定来衡量查理的感受：\r\n",
+      "sourceLocation": "txt:chars:2975:2995"
+    },
+    {
+      "id": "7:p8",
+      "kind": "body",
+      "text": "如果检定成功，转到 4。\r\n",
+      "sourceLocation": "txt:chars:2995:3009"
+    },
+    {
+      "id": "7:p9",
+      "kind": "body",
+      "text": "如果检定失败，转到 8。\r\n",
+      "sourceLocation": "txt:chars:3009:3023"
+    }
+  ]
+}

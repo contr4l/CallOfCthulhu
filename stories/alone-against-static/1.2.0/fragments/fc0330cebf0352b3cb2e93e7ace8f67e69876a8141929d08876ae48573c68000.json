@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "309"
+  ],
+  "text": [
+    "手电筒熄灭了。你无力地喊叫着，摇晃着这倒霉玩意，想让它再亮起来，但没有用。在这崎岖不平的地面上，你却像瞎了一样。每走一步都可能摔断脖子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 309",
+      "textRef": "default"
+    }
+  }
+}

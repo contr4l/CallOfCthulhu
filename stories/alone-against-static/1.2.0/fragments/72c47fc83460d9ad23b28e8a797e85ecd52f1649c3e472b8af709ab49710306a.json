@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "259"
+  ],
+  "text": [
+    "陌生人比你更高更大。他疯癫、狂野、暴力。",
+    "他用双手在空中挥舞着，大步跨过房间，接近着你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 259",
+      "textRef": "default"
+    }
+  }
+}

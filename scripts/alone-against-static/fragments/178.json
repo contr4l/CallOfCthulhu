@@ -1,0 +1,48 @@
+{
+  "id": "178",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "178:p0",
+      "kind": "heading",
+      "text": "$t1 == '178'?\r\n`",
+      "sourceLocation": "txt:chars:42115:42131"
+    },
+    {
+      "id": "178:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:42131:42133"
+    },
+    {
+      "id": "178:p2",
+      "kind": "body",
+      "text": "气温很低，风逐渐变强。外面比你想象得更吵闹。你分辨不出是什么声音，只听出一种长啸。\r\n",
+      "sourceLocation": "txt:chars:42133:42176"
+    },
+    {
+      "id": "178:p3",
+      "kind": "body",
+      "text": "听起来像是一种沉重的白噪音，像是尖叫怒号着的雪花噪音。\r\n",
+      "sourceLocation": "txt:chars:42176:42205"
+    },
+    {
+      "id": "178:p4",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:42205:42216"
+    },
+    {
+      "id": "178:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 180。\r\n",
+      "sourceLocation": "txt:chars:42216:42232"
+    },
+    {
+      "id": "178:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 179。\r\n",
+      "sourceLocation": "txt:chars:42232:42248"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "67"
+  ],
+  "text": [
+    "你看着录像机眨了眨眼。突然，你的耳中又响起昨晚那种尖锐吱嘎吱嘎的雪花音。",
+    "你举起手想要掩住耳朵。但是，声音又突然消失了。你退后一步，远离那些纸箱；怀疑着如果自己要搜查一遍，究竟能不能坚持住。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 67",
+      "textRef": "default"
+    }
+  }
+}

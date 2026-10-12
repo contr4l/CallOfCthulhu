@@ -1,0 +1,78 @@
+{
+  "id": "18",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "18:p0",
+      "kind": "heading",
+      "text": "$t1 == '18'?\r\n`",
+      "sourceLocation": "txt:chars:5612:5627"
+    },
+    {
+      "id": "18:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:5627:5629"
+    },
+    {
+      "id": "18:p2",
+      "kind": "body",
+      "text": "“你明天还想和我一起去走走吧？”\r\n",
+      "sourceLocation": "txt:chars:5629:5647"
+    },
+    {
+      "id": "18:p3",
+      "kind": "body",
+      "text": "查理轻声笑了起来。“当然是的。我是说，我们还能去干什么呢？是吧？”他的笑声尴尬地回荡了片刻。然后，查理清了清嗓子，换了个调子。“这里风景很好的，真的很好。”\r\n",
+      "sourceLocation": "txt:chars:5647:5727"
+    },
+    {
+      "id": "18:p4",
+      "kind": "body",
+      "text": "“是啊。”\r\n",
+      "sourceLocation": "txt:chars:5727:5734"
+    },
+    {
+      "id": "18:p5",
+      "kind": "body",
+      "text": "“我等不及要看日出了。”\r\n",
+      "sourceLocation": "txt:chars:5734:5748"
+    },
+    {
+      "id": "18:p6",
+      "kind": "body",
+      "text": "过了几分钟，你端上了汉堡。你们安静地吃完了晚餐。\r\n",
+      "sourceLocation": "txt:chars:5748:5774"
+    },
+    {
+      "id": "18:p7",
+      "kind": "body",
+      "text": "“今晚干点什么？”查理问。\r\n",
+      "sourceLocation": "txt:chars:5774:5789"
+    },
+    {
+      "id": "18:p8",
+      "kind": "body",
+      "text": "你咽下最后一口食物。“你说呢？”\r\n",
+      "sourceLocation": "txt:chars:5789:5807"
+    },
+    {
+      "id": "18:p9",
+      "kind": "body",
+      "text": "“今天已经挺累了。不如我们就看个片吧？”查理指了指电视。\r\n",
+      "sourceLocation": "txt:chars:5807:5837"
+    },
+    {
+      "id": "18:p10",
+      "kind": "body",
+      "text": "要同意，转到 19。\r\n",
+      "sourceLocation": "txt:chars:5837:5849"
+    },
+    {
+      "id": "18:p11",
+      "kind": "body",
+      "text": "要抱怨，转到 25。\r\n",
+      "sourceLocation": "txt:chars:5849:5861"
+    }
+  ]
+}

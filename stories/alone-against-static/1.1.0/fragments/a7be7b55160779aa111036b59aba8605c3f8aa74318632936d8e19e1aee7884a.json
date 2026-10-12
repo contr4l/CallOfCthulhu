@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "66"
+  ],
+  "text": [
+    "你把最顶上的箱子搬到一旁，打开了下面的第二个箱子。这个箱子并没有受到那么严重的损伤。",
+    "在箱子里有一些脏兮兮的玻璃罐、一把装在皮革刀鞘里的长匕首和一台手持录像机。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 66",
+      "textRef": "default"
+    }
+  }
+}

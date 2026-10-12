@@ -1,0 +1,66 @@
+{
+  "id": "14",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "14:p0",
+      "kind": "heading",
+      "text": "$t1 == '14'?\r\n`",
+      "sourceLocation": "txt:chars:4588:4603"
+    },
+    {
+      "id": "14:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:4603:4605"
+    },
+    {
+      "id": "14:p2",
+      "kind": "body",
+      "text": "“我也爱你。”你转过头去也亲了一下查理。“去，去！我还要做晚饭呢。”\r\n",
+      "sourceLocation": "txt:chars:4605:4641"
+    },
+    {
+      "id": "14:p3",
+      "kind": "body",
+      "text": "你又在厨房里忙活起来。查理一下坐到床上。“真高兴我们来了这里。”\r\n",
+      "sourceLocation": "txt:chars:4641:4675"
+    },
+    {
+      "id": "14:p4",
+      "kind": "body",
+      "text": "“我也是。”\r\n",
+      "sourceLocation": "txt:chars:4675:4683"
+    },
+    {
+      "id": "14:p5",
+      "kind": "body",
+      "text": "“我觉得确实是对我们有好处，你说呢？”\r\n",
+      "sourceLocation": "txt:chars:4683:4704"
+    },
+    {
+      "id": "14:p6",
+      "kind": "body",
+      "text": "“是啊。”\r\n",
+      "sourceLocation": "txt:chars:4704:4711"
+    },
+    {
+      "id": "14:p7",
+      "kind": "body",
+      "text": "“就像奥布莱恩医生和我们说的一样，”查理盯着电视屏幕上小屋变形的倒影，“远离一切，只关注我们自己，这样真好。我感觉真的很治愈……”\r\n",
+      "sourceLocation": "txt:chars:4711:4778"
+    },
+    {
+      "id": "14:p8",
+      "kind": "body",
+      "text": "要聊聊明天的计划，转到 18。\r\n",
+      "sourceLocation": "txt:chars:4778:4795"
+    },
+    {
+      "id": "14:p9",
+      "kind": "body",
+      "text": "要安慰查理，转到 15。\r\n",
+      "sourceLocation": "txt:chars:4795:4809"
+    }
+  ]
+}

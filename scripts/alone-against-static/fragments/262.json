@@ -1,0 +1,42 @@
+{
+  "id": "262",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "262:p0",
+      "kind": "heading",
+      "text": "$t1 == '262'?\r\n`",
+      "sourceLocation": "txt:chars:59573:59589"
+    },
+    {
+      "id": "262:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:59589:59591"
+    },
+    {
+      "id": "262:p2",
+      "kind": "body",
+      "text": "你向一旁躲闪，想跑出他的攻击范围。\r\n",
+      "sourceLocation": "txt:chars:59591:59610"
+    },
+    {
+      "id": "262:p3",
+      "kind": "body",
+      "text": "进行一次闪避检定。\r\n",
+      "sourceLocation": "txt:chars:59610:59621"
+    },
+    {
+      "id": "262:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 263。\r\n",
+      "sourceLocation": "txt:chars:59621:59637"
+    },
+    {
+      "id": "262:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 272。\r\n",
+      "sourceLocation": "txt:chars:59637:59653"
+    }
+  ]
+}

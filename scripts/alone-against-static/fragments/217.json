@@ -1,0 +1,60 @@
+{
+  "id": "217",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "217:p0",
+      "kind": "heading",
+      "text": "$t1 == '217'?\r\n`",
+      "sourceLocation": "txt:chars:51245:51261"
+    },
+    {
+      "id": "217:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:51261:51263"
+    },
+    {
+      "id": "217:p2",
+      "kind": "body",
+      "text": "男人抬起头朝着空地边缘的树木看了一圈，仍然在讲话。他站起身低头看着篝火。\r\n",
+      "sourceLocation": "txt:chars:51263:51301"
+    },
+    {
+      "id": "217:p3",
+      "kind": "body",
+      "text": "他又转向相机，朝帐篷打着手势。在一片寂静中，他走到帐篷边拉开拉链，上身探进去翻找了一会儿，拿着一个办公室里装文件的那种牛皮纸文件夹出来。\r\n",
+      "sourceLocation": "txt:chars:51301:51371"
+    },
+    {
+      "id": "217:p4",
+      "kind": "body",
+      "text": "他走到镜头前坐下。他的脸离得很近。他直直地盯着镜头，盯着你。他说了什么，但是电视静音了。\r\n",
+      "sourceLocation": "txt:chars:51371:51417"
+    },
+    {
+      "id": "217:p5",
+      "kind": "body",
+      "text": "他靠近之后，你注意到他脸上有些奇怪。男人眼皮边缘生着一些脓疱，差不多就是长睫毛的位置。脓疱大小不同，但是看起来都充着黄色的脓水。\r\n",
+      "sourceLocation": "txt:chars:51417:51483"
+    },
+    {
+      "id": "217:p6",
+      "kind": "body",
+      "text": "如果记录表上的 兽医 已被勾选，你回忆起一种类似的症状，必须转到 218。\r\n",
+      "sourceLocation": "txt:chars:51483:51522"
+    },
+    {
+      "id": "217:p7",
+      "kind": "body",
+      "text": "要继续播放，转到 219。\r\n",
+      "sourceLocation": "txt:chars:51522:51537"
+    },
+    {
+      "id": "217:p8",
+      "kind": "body",
+      "text": "要倒带回去调高音量，听男人说了什么，转到 215。\r\n",
+      "sourceLocation": "txt:chars:51537:51564"
+    }
+  ]
+}

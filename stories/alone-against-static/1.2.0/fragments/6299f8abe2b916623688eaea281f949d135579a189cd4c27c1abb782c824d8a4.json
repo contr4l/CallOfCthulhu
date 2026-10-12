@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "200"
+  ],
+  "text": [
+    "你倒了带，努力对抗着，不让自己被恐慌淹没。你按下播放键，马克和茱莉又把那夸张的剧本演了一次。你盯着屏幕，视线扫过各个角落，焦急地寻找着任何线索。",
+    "当镜头转向屋门时，你按下了暂停。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 200",
+      "textRef": "default"
+    }
+  }
+}

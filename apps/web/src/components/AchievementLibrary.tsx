@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import type { ShopState } from "../../../../packages/contracts/shop";
+import { useEffect, useState, useRef } from "react";
 import { Trophy, LockKeyhole, ArrowRight } from "lucide-react";
 import {
   endingAchievementId,
@@ -11,7 +12,13 @@ import { useReading } from "../reading";
 export function AchievementLibrary({
   owner,
   onViewEnding,
+  balance,
+  onShopChange,
+  onOpenShop,
 }: {
+  balance: number;
+  onShopChange: (state: ShopState) => void;
+  onOpenShop: () => void;
   owner: string;
   onViewEnding: (id: string) => void;
 }) {
@@ -21,6 +28,28 @@ export function AchievementLibrary({
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [attempt, setAttempt] = useState(0);
+  const [claiming, setClaiming] = useState(""),
+    [claimError, setClaimError] = useState("");
+  const claimLock = useRef(false);
+  async function claim(id: string) {
+    if (claimLock.current) return;
+    claimLock.current = true;
+    setClaiming(id);
+    setClaimError("");
+    try {
+      const next = await api<ShopState>(
+        `/achievements/${encodeURIComponent(id)}/claim`,
+        {},
+      );
+      onShopChange(next);
+      setAttempt((value) => value + 1);
+    } catch (e) {
+      setClaimError(e instanceof Error ? e.message : "领取失败，请重试。");
+    } finally {
+      claimLock.current = false;
+      setClaiming("");
+    }
+  }
   useEffect(() => {
     let active = true;
     setLoading(true);
@@ -93,13 +122,24 @@ export function AchievementLibrary({
               </select>
             </label>
           </div>
+          <div className="reward-summary">
+            <strong>{convert(`余烬点 ${balance}`)}</strong>
+            <button className="secondary-button" onClick={onOpenShop}>
+              {convert("前往商店")}
+            </button>
+          </div>
+          {claimError && (
+            <p role="alert" className="form-error">
+              {convert(claimError)}
+            </p>
+          )}
           <progress
             value={unlocked}
             max={Math.max(1, shown.length)}
             aria-label={convert("成就完成度")}
           />
           <div className="achievement-grid">
-            {shown.map((entry, index) => (
+            {shown.map((entry) => (
               <article
                 key={entry.id}
                 className={`achievement-card ${entry.unlockedAt ? "is-unlocked" : "is-locked"}`}
@@ -114,7 +154,9 @@ export function AchievementLibrary({
                 <div className="achievement-content">
                   <span className="achievement-status">
                     {convert(entry.unlockedAt ? "已解锁" : "未解锁")} ·{" "}
-                    {String(index + 1).padStart(2, "0")}
+                    {convert(
+                      `结局 ${String(entry.endingNumber).padStart(2, "0")}`,
+                    )}
                   </span>
                   <h3>{convert(entry.title)}</h3>
                   <p>{convert(entry.description)}</p>
@@ -123,6 +165,26 @@ export function AchievementLibrary({
                       {convert("首次解锁")} ·{" "}
                       {new Date(entry.unlockedAt).toLocaleDateString("zh-CN")}
                     </time>
+                  )}
+                  {entry.unlockedAt && (
+                    <div className="achievement-reward">
+                      <span>
+                        {convert(`结局奖励 ${entry.rewardPoints ?? 1} 点`)}
+                      </span>
+                      <button
+                        className="secondary-button"
+                        disabled={!!entry.claimedAt || !!claiming}
+                        onClick={() => void claim(entry.id)}
+                      >
+                        {convert(
+                          entry.claimedAt
+                            ? "已领取"
+                            : claiming === entry.id
+                              ? "正在领取…"
+                              : "领取点数",
+                        )}
+                      </button>
+                    </div>
                   )}
                   {entry.runId && (
                     <button
@@ -190,7 +252,8 @@ export function EndingAchievement({
       <Trophy size={30} aria-hidden="true" />
       <div>
         <span>
-          {convert(entry.runId === scene.runId ? "成就解锁" : "已解锁成就")}
+          {convert(entry.runId === scene.runId ? "成就解锁" : "已解锁成就")} ·{" "}
+          {convert(`结局 ${String(entry.endingNumber).padStart(2, "0")}`)}
         </span>
         <strong>{convert(entry.title)}</strong>
       </div>

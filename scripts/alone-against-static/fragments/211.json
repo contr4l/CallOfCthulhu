@@ -1,0 +1,36 @@
+{
+  "id": "211",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "211:p0",
+      "kind": "heading",
+      "text": "$t1 == '211'?\r\n`",
+      "sourceLocation": "txt:chars:49827:49843"
+    },
+    {
+      "id": "211:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:49843:49845"
+    },
+    {
+      "id": "211:p2",
+      "kind": "body",
+      "text": "他靠近之后，你注意到他脸上有些奇怪。男人眼皮边缘生着一些脓疱，差不多就是长睫毛的位置。脓疱大小不同，但是看起来都充着黄色的脓水。\r\n",
+      "sourceLocation": "txt:chars:49845:49911"
+    },
+    {
+      "id": "211:p3",
+      "kind": "body",
+      "text": "如果记录表上的 兽医 已被勾选，你回忆起一种类似的症状，必须转到 212。\r\n",
+      "sourceLocation": "txt:chars:49911:49950"
+    },
+    {
+      "id": "211:p4",
+      "kind": "body",
+      "text": "转到 215。\r\n",
+      "sourceLocation": "txt:chars:49950:49959"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "309",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "309:p0",
+      "kind": "heading",
+      "text": "$t1 == '309'?\r\n`",
+      "sourceLocation": "txt:chars:69898:69914"
+    },
+    {
+      "id": "309:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:69914:69916"
+    },
+    {
+      "id": "309:p2",
+      "kind": "body",
+      "text": "手电筒熄灭了。你无力地喊叫着，摇晃着这倒霉玩意，想让它再亮起来，但没有用。在这崎岖不平的地面上，你却像瞎了一样。每走一步都可能摔断脖子。\r\n",
+      "sourceLocation": "txt:chars:69916:69986"
+    },
+    {
+      "id": "309:p3",
+      "kind": "body",
+      "text": "进行一次幸运检定。\r\n",
+      "sourceLocation": "txt:chars:69986:69997"
+    },
+    {
+      "id": "309:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 310。\r\n",
+      "sourceLocation": "txt:chars:69997:70013"
+    },
+    {
+      "id": "309:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 311。\r\n",
+      "sourceLocation": "txt:chars:70013:70029"
+    }
+  ]
+}

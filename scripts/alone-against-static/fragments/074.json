@@ -1,0 +1,36 @@
+{
+  "id": "74",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "74:p0",
+      "kind": "heading",
+      "text": "$t1 == '74'?\r\n`",
+      "sourceLocation": "txt:chars:19624:19639"
+    },
+    {
+      "id": "74:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:19639:19641"
+    },
+    {
+      "id": "74:p2",
+      "kind": "body",
+      "text": "录像机固执地拒绝被你打开。或许你应该在上学时在木工或电工课上多花些时间。\r\n",
+      "sourceLocation": "txt:chars:19641:19679"
+    },
+    {
+      "id": "74:p3",
+      "kind": "body",
+      "text": "最后，你放弃了。你失望地把录像机扔到一边。真是浪费时间。\r\n",
+      "sourceLocation": "txt:chars:19679:19709"
+    },
+    {
+      "id": "74:p4",
+      "kind": "body",
+      "text": "回到 57。\r\n",
+      "sourceLocation": "txt:chars:19709:19717"
+    }
+  ]
+}

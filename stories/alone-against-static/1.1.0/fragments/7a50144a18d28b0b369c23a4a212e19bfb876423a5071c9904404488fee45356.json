@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "152"
+  ],
+  "text": [
+    "你们两人站在那里，像周围的树林一样一动不动。陌生人平淡空洞的眼睛没有漏出一点情感。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 152",
+      "textRef": "default"
+    }
+  }
+}

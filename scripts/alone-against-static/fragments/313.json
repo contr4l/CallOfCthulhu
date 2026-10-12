@@ -1,0 +1,48 @@
+{
+  "id": "313",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "313:p0",
+      "kind": "heading",
+      "text": "$t1 == '313'?\r\n`",
+      "sourceLocation": "txt:chars:70881:70897"
+    },
+    {
+      "id": "313:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:70897:70899"
+    },
+    {
+      "id": "313:p2",
+      "kind": "body",
+      "text": "在这恐怖的一秒中，你划破空气，向前倒去。然后，你一只脚往前迈步，又抓住旁边的树干，撑住了身体。差点绊倒并没有让你慢下来，你继续向前跑去，尽可能远离身后诡异的危险。\r\n",
+      "sourceLocation": "txt:chars:70899:70982"
+    },
+    {
+      "id": "313:p3",
+      "kind": "body",
+      "text": "你继续向前小跑着，正打算停下来喘喘气时，却突然跑出了树林，出现在一片月光照耀的空地上。\r\n",
+      "sourceLocation": "txt:chars:70982:71027"
+    },
+    {
+      "id": "313:p4",
+      "kind": "body",
+      "text": "没有松树遮挡月光，你看得就清楚多了。你闯进的空地不大，但还是有人在这里露营。你看到一顶小帐篷，旁边有一个熄灭的烧火坑。也许你找到帮手了。\r\n",
+      "sourceLocation": "txt:chars:71027:71097"
+    },
+    {
+      "id": "313:p5",
+      "kind": "body",
+      "text": "如果记录表上的 熟面孔 或 转错弯 已被勾选，你认出了这处营地，必须转到 266。\r\n",
+      "sourceLocation": "txt:chars:71097:71140"
+    },
+    {
+      "id": "313:p6",
+      "kind": "body",
+      "text": "转到 275。\r\n",
+      "sourceLocation": "txt:chars:71140:71149"
+    }
+  ]
+}

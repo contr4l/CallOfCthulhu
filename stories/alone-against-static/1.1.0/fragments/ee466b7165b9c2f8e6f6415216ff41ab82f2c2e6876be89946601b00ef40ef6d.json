@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "143"
+  ],
+  "text": [
+    "你不加掩饰地跟着陌生人。你知道他一定听到你了，但他没有停下来看你。这家伙一开始就走在前面，而且走得很快。你快步走着才跟得上。",
+    "突然，陌生人毫无预兆地转过身，眼神锁在你身上。一切寂静无声。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 143",
+      "textRef": "default"
+    }
+  }
+}

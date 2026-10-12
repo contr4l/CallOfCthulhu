@@ -1,0 +1,60 @@
+{
+  "id": "307",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "307:p0",
+      "kind": "heading",
+      "text": "$t1 == '307'?\r\n`",
+      "sourceLocation": "txt:chars:69340:69356"
+    },
+    {
+      "id": "307:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:69356:69358"
+    },
+    {
+      "id": "307:p2",
+      "kind": "body",
+      "text": "你的手电筒闪了几下。你的心跳到了嗓子眼。电池这就要没电了吗？你把手电筒摇了摇又拍了拍，光线稳定下来，又亮又均匀。呼，还好你花了点时间找新电池。\r\n",
+      "sourceLocation": "txt:chars:69358:69431"
+    },
+    {
+      "id": "307:p3",
+      "kind": "body",
+      "text": "你小心地检查着面前的区域。明亮的光线让影子无处遁藏，让你心里安顿不少。你仔细地又看了一圈，确定周围并没有藏着什么东西。但你冥冥之中还是感觉最好不要呆在这里太久。你大步往前走去，手电光照着面前锋利的岩石和险恶的树根。\r\n",
+      "sourceLocation": "txt:chars:69431:69540"
+    },
+    {
+      "id": "307:p4",
+      "kind": "body",
+      "text": "走了几分钟后，你透过前面的树木看到一小片空地。你挤过茂密的树枝和灌木，朝空地走去。\r\n",
+      "sourceLocation": "txt:chars:69540:69583"
+    },
+    {
+      "id": "307:p5",
+      "kind": "body",
+      "text": "进入空地后，你看到空地中央支了一顶小帐篷，旁边还有一堆篝火。看起来有人在这里露营。\r\n",
+      "sourceLocation": "txt:chars:69583:69626"
+    },
+    {
+      "id": "307:p6",
+      "kind": "body",
+      "text": "你或许找到帮手了……\r\n",
+      "sourceLocation": "txt:chars:69626:69638"
+    },
+    {
+      "id": "307:p7",
+      "kind": "body",
+      "text": "如果记录表上的 熟面孔 或 转错弯 已被勾选，你认出了这处营地，必须转到 266。\r\n",
+      "sourceLocation": "txt:chars:69638:69681"
+    },
+    {
+      "id": "307:p8",
+      "kind": "body",
+      "text": "转到 275。\r\n",
+      "sourceLocation": "txt:chars:69681:69690"
+    }
+  ]
+}

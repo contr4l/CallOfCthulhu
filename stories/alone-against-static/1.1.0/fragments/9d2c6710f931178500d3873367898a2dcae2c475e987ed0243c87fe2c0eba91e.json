@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "308"
+  ],
+  "text": [
+    "不。不！",
+    "你没有停下来思考。你拔腿就跑，冲进森林。你克制着大喊大叫求人帮忙的冲动，因为你知道没人会来帮你。在你面前，月光勉强照出一条扭曲的小路，两边都是锋利的岩石和险恶的树根。你尽量躲避着障碍。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 308",
+      "textRef": "default"
+    }
+  }
+}

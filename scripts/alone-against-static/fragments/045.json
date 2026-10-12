@@ -1,0 +1,48 @@
+{
+  "id": "45",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "45:p0",
+      "kind": "heading",
+      "text": "$t1 == '45'?\r\n`",
+      "sourceLocation": "txt:chars:14130:14145"
+    },
+    {
+      "id": "45:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:14145:14147"
+    },
+    {
+      "id": "45:p2",
+      "kind": "body",
+      "text": "你小心地下到河岸边。落叶和松针被溪水冲向下游，就像是在激流中漂流。\r\n",
+      "sourceLocation": "txt:chars:14147:14182"
+    },
+    {
+      "id": "45:p3",
+      "kind": "body",
+      "text": "你在溪边跪下，捧起一捧水送到嘴边。溪水凉爽可人，让你精神焕发。\r\n",
+      "sourceLocation": "txt:chars:14182:14215"
+    },
+    {
+      "id": "45:p4",
+      "kind": "body",
+      "text": "进行一次聆听检定。\r\n",
+      "sourceLocation": "txt:chars:14215:14226"
+    },
+    {
+      "id": "45:p5",
+      "kind": "body",
+      "text": "如果检定成功，转到 46。\r\n",
+      "sourceLocation": "txt:chars:14226:14241"
+    },
+    {
+      "id": "45:p6",
+      "kind": "body",
+      "text": "如果检定失败，转到 51。\r\n",
+      "sourceLocation": "txt:chars:14241:14256"
+    }
+  ]
+}

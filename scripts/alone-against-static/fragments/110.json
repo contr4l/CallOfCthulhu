@@ -1,0 +1,48 @@
+{
+  "id": "110",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "110:p0",
+      "kind": "heading",
+      "text": "$t1 == '110'?\r\n`",
+      "sourceLocation": "txt:chars:26728:26744"
+    },
+    {
+      "id": "110:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:26744:26746"
+    },
+    {
+      "id": "110:p2",
+      "kind": "body",
+      "text": "你听到脚步踩在碎石车道的声音从屋外传来，但并没有听到汽车接近的声音。你坐起身，然后紧张的站起，溜到窗边。\r\n",
+      "sourceLocation": "txt:chars:26746:26800"
+    },
+    {
+      "id": "110:p3",
+      "kind": "body",
+      "text": "一个秃头的中年男人站在前门外。他穿着一件很厚的冬大衣，双手插在兜里。你不认识他。\r\n",
+      "sourceLocation": "txt:chars:26800:26842"
+    },
+    {
+      "id": "110:p4",
+      "kind": "body",
+      "text": "他举起手，敲了敲门。\r\n",
+      "sourceLocation": "txt:chars:26842:26854"
+    },
+    {
+      "id": "110:p5",
+      "kind": "body",
+      "text": "要装作没人在家，等陌生人自己离开，转到 140。\r\n",
+      "sourceLocation": "txt:chars:26854:26880"
+    },
+    {
+      "id": "110:p6",
+      "kind": "body",
+      "text": "要应门，转到 121。\r\n",
+      "sourceLocation": "txt:chars:26880:26893"
+    }
+  ]
+}

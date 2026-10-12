@@ -1,0 +1,48 @@
+{
+  "id": "228",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "228:p0",
+      "kind": "heading",
+      "text": "$t1 == '228'?\r\n`",
+      "sourceLocation": "txt:chars:53483:53499"
+    },
+    {
+      "id": "228:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:53499:53501"
+    },
+    {
+      "id": "228:p2",
+      "kind": "body",
+      "text": "你什么也没听到，你什么也没看到。你的伴侣还没有回来。你希冀着，他/她一定是在路上有事，也许晚上就会回来。但你不由自主地想到那最坏的可能。\r\n",
+      "sourceLocation": "txt:chars:53501:53571"
+    },
+    {
+      "id": "228:p3",
+      "kind": "body",
+      "text": "你回到屋里，关上了门。没过一秒钟，有东西撞在门上。撞击声震耳欲聋，屋门颤抖着。你听到怒吼声和拳头砸木板的声音。碎片从木制门框上飞出。有人正在外面带着杀意吼叫着，他要闯进来了。\r\n",
+      "sourceLocation": "txt:chars:53571:53660"
+    },
+    {
+      "id": "228:p4",
+      "kind": "body",
+      "text": "要顶住屋门，转到 237。\r\n",
+      "sourceLocation": "txt:chars:53660:53675"
+    },
+    {
+      "id": "228:p5",
+      "kind": "body",
+      "text": "要寻找防身的武器，转到 241。\r\n",
+      "sourceLocation": "txt:chars:53675:53693"
+    },
+    {
+      "id": "228:p6",
+      "kind": "body",
+      "text": "要藏起来，转到 239。\r\n",
+      "sourceLocation": "txt:chars:53693:53707"
+    }
+  ]
+}

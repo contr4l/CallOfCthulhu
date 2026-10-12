@@ -1,0 +1,36 @@
+{
+  "id": "60",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "60:p0",
+      "kind": "heading",
+      "text": "$t1 == '60'?\r\n`",
+      "sourceLocation": "txt:chars:17205:17220"
+    },
+    {
+      "id": "60:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:17220:17222"
+    },
+    {
+      "id": "60:p2",
+      "kind": "body",
+      "text": "这些磁带的标题都很奇怪，是由一种潦草的字迹手写的。你注意到以下这些：《树林中的日光》、《希望它能爆发》、《她在夜晚移动》、《孩子们的哭喊》。\r\n",
+      "sourceLocation": "txt:chars:17222:17294"
+    },
+    {
+      "id": "60:p3",
+      "kind": "body",
+      "text": "并没有哪一个让你特别关注。可能这是一个乡下视频店的遗址。你眯起眼睛，轻轻地关上柜门。\r\n",
+      "sourceLocation": "txt:chars:17294:17338"
+    },
+    {
+      "id": "60:p4",
+      "kind": "body",
+      "text": "回到 57。\r\n",
+      "sourceLocation": "txt:chars:17338:17346"
+    }
+  ]
+}

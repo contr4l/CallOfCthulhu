@@ -1,0 +1,36 @@
+{
+  "id": "78",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "78:p0",
+      "kind": "heading",
+      "text": "$t1 == '78'?\r\n`",
+      "sourceLocation": "txt:chars:20318:20333"
+    },
+    {
+      "id": "78:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:20333:20335"
+    },
+    {
+      "id": "78:p2",
+      "kind": "body",
+      "text": "这就够了。你走出棚屋，回到森林里。阳光明媚，你只好眯着眼适应室外的亮度。\r\n",
+      "sourceLocation": "txt:chars:20335:20373"
+    },
+    {
+      "id": "78:p3",
+      "kind": "body",
+      "text": "你回到小路上，继续走了半小时左右。然后便往小屋回去。\r\n",
+      "sourceLocation": "txt:chars:20373:20401"
+    },
+    {
+      "id": "78:p4",
+      "kind": "body",
+      "text": "转到 84。\r\n",
+      "sourceLocation": "txt:chars:20401:20409"
+    }
+  ]
+}

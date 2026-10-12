@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "262"
+  ],
+  "text": [
+    "你向一旁躲闪，想跑出他的攻击范围。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 262",
+      "textRef": "default"
+    }
+  }
+}

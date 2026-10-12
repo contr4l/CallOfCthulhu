@@ -1,0 +1,60 @@
+{
+  "id": "72",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "72:p0",
+      "kind": "heading",
+      "text": "$t1 == '72'?\r\n`",
+      "sourceLocation": "txt:chars:19257:19272"
+    },
+    {
+      "id": "72:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:19272:19274"
+    },
+    {
+      "id": "72:p2",
+      "kind": "body",
+      "text": "原来那套螺丝刀是用在这里的！你回工作台取来了螺丝刀，把录像机翻到背面。你尝试拆解录像机取出磁带。\r\n",
+      "sourceLocation": "txt:chars:19274:19324"
+    },
+    {
+      "id": "72:p3",
+      "kind": "body",
+      "text": "进行一次机械维修检定。\r\n",
+      "sourceLocation": "txt:chars:19324:19337"
+    },
+    {
+      "id": "72:p4",
+      "kind": "body",
+      "text": "如果检定成功，转到 73。\r\n",
+      "sourceLocation": "txt:chars:19337:19352"
+    },
+    {
+      "id": "72:p5",
+      "kind": "body",
+      "text": "如果检定失败，转到 74。\r\n",
+      "sourceLocation": "txt:chars:19352:19367"
+    },
+    {
+      "id": "72:p6",
+      "kind": "body",
+      "text": "如果检定失败，而你希望孤注一掷，你可以进行第二次检定；后果是伤到你自己和磁带：\r\n",
+      "sourceLocation": "txt:chars:19367:19408"
+    },
+    {
+      "id": "72:p7",
+      "kind": "body",
+      "text": "如果孤注一掷成功，转到 73。\r\n",
+      "sourceLocation": "txt:chars:19408:19425"
+    },
+    {
+      "id": "72:p8",
+      "kind": "body",
+      "text": "如果孤注一掷失败，转到 75。\r\n",
+      "sourceLocation": "txt:chars:19425:19442"
+    }
+  ]
+}

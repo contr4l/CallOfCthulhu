@@ -1,0 +1,36 @@
+{
+  "id": "120",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "120:p0",
+      "kind": "heading",
+      "text": "$t1 == '120'?\r\n`",
+      "sourceLocation": "txt:chars:28494:28510"
+    },
+    {
+      "id": "120:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:28510:28512"
+    },
+    {
+      "id": "120:p2",
+      "kind": "body",
+      "text": "你要保证小屋的安全。你检查了找得到的每一处锁。你把门关好锁上，又从里面插上门闩。然后，你走进浴室也把窗户闩好。其他的窗户都打不开，小屋只有前门可以进出。看起来很安全。\r\n",
+      "sourceLocation": "txt:chars:28512:28597"
+    },
+    {
+      "id": "120:p3",
+      "kind": "body",
+      "text": "在记录表上勾选 封锁。\r\n",
+      "sourceLocation": "txt:chars:28597:28610"
+    },
+    {
+      "id": "120:p4",
+      "kind": "body",
+      "text": "要准备睡觉，转到 142。\r\n",
+      "sourceLocation": "txt:chars:28610:28625"
+    }
+  ]
+}

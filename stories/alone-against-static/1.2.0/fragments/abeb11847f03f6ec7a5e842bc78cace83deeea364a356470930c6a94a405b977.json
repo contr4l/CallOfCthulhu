@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "63"
+  ],
+  "text": [
+    "锤子锈迹斑斑，皮革握把也摇摇欲坠。不过这也是一把沉甸甸的锤子，这就是关键了，不是吗？",
+    "你把锤子拿走收好。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 63",
+      "textRef": "default"
+    }
+  }
+}

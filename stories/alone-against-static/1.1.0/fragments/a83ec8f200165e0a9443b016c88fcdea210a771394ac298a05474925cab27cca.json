@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "282"
+  ],
+  "text": [
+    "你挣扎着拜托陌生人的钳制。你决不能直接放弃。你又拉又拽、又踢又踹、又喊又叫，尽己所能想要脱身。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 282",
+      "textRef": "default"
+    }
+  }
+}

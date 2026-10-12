@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "221"
+  ],
+  "text": [
+    "他说了你的名字。他说了你伴侣的名字。即使电视静音了，声音还是放了出来。那邪恶的声音……就像是喉咙里填满了雪花音与铁丝网。",
+    "你的心像是冻住了，不由得倒退几步。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 221",
+      "textRef": "default"
+    }
+  }
+}

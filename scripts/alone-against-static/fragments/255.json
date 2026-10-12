@@ -1,0 +1,36 @@
+{
+  "id": "255",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "255:p0",
+      "kind": "heading",
+      "text": "$t1 == '255'?\r\n`",
+      "sourceLocation": "txt:chars:58454:58470"
+    },
+    {
+      "id": "255:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:58470:58472"
+    },
+    {
+      "id": "255:p2",
+      "kind": "body",
+      "text": "你没换衣服就钻进被子。至少这里还很暖和。你把手电筒关掉，放在床边。你抱着枕头蜷成一团，听着外面的风声，等待睡眠降临。\r\n",
+      "sourceLocation": "txt:chars:58472:58532"
+    },
+    {
+      "id": "255:p3",
+      "kind": "body",
+      "text": "如果记录表上的 封锁 已被勾选，必须转到 256。\r\n",
+      "sourceLocation": "txt:chars:58532:58559"
+    },
+    {
+      "id": "255:p4",
+      "kind": "body",
+      "text": "要睡觉，转到 258。\r\n",
+      "sourceLocation": "txt:chars:58559:58572"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "369",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "369:p0",
+      "kind": "heading",
+      "text": "$t1 == '369'?\r\n`",
+      "sourceLocation": "txt:chars:85797:85813"
+    },
+    {
+      "id": "369:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:85813:85815"
+    },
+    {
+      "id": "369:p2",
+      "kind": "body",
+      "text": "你检查了电池的接线。它们没有磨损，都好好地接在配电盒上。电池也不是很旧，你认为是 88年的。只要一个电池就能供电灯亮好几天，一台电视也只会让用电量加倍而已。\r\n",
+      "sourceLocation": "txt:chars:85815:85895"
+    },
+    {
+      "id": "369:p3",
+      "kind": "body",
+      "text": "唯一的解释是它们耗干了，而屋顶上的太阳能板又不知为什么没有给它们充电。\r\n",
+      "sourceLocation": "txt:chars:85895:85932"
+    },
+    {
+      "id": "369:p4",
+      "kind": "body",
+      "text": "你希望伴侣能找到合适的帮手。如果小屋需要换新的太阳能板，一个普通的电工可干不了这个。\r\n",
+      "sourceLocation": "txt:chars:85932:85976"
+    },
+    {
+      "id": "369:p5",
+      "kind": "body",
+      "text": "转到 370。\r\n",
+      "sourceLocation": "txt:chars:85976:85985"
+    }
+  ]
+}

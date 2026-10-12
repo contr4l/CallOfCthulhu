@@ -1,0 +1,72 @@
+{
+  "id": "147",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "147:p0",
+      "kind": "heading",
+      "text": "$t1 == '147'?\r\n`",
+      "sourceLocation": "txt:chars:35057:35073"
+    },
+    {
+      "id": "147:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:35073:35075"
+    },
+    {
+      "id": "147:p2",
+      "kind": "body",
+      "text": "你尽力保持安静。你躲避着枯枝，尽可能俯低身体贴近地面。然后，你的脚趾被什么东西刺中。疼痛让你跪倒在地，皱着眉头不住咒骂着。\r\n",
+      "sourceLocation": "txt:chars:35075:35138"
+    },
+    {
+      "id": "147:p3",
+      "kind": "body",
+      "text": "男人转过身看见了你。他无声地注视着。你也瞪了回去。\r\n",
+      "sourceLocation": "txt:chars:35138:35165"
+    },
+    {
+      "id": "147:p4",
+      "kind": "body",
+      "text": "在一瞬间，你想着要出声解释。就在这时，男人冲了过来。\r\n",
+      "sourceLocation": "txt:chars:35165:35193"
+    },
+    {
+      "id": "147:p5",
+      "kind": "body",
+      "text": "话语卡在你的嗓子里。他朝着你全力猛冲而来，眼睛一眨不眨，双掌随着脚步摆动着划破空气。\r\n",
+      "sourceLocation": "txt:chars:35193:35237"
+    },
+    {
+      "id": "147:p6",
+      "kind": "body",
+      "text": "他要攻击你了！\r\n",
+      "sourceLocation": "txt:chars:35237:35246"
+    },
+    {
+      "id": "147:p7",
+      "kind": "body",
+      "text": "你踉跄着站起，往后退去。\r\n",
+      "sourceLocation": "txt:chars:35246:35260"
+    },
+    {
+      "id": "147:p8",
+      "kind": "body",
+      "text": "进行一次困难难度的敏捷检定。\r\n",
+      "sourceLocation": "txt:chars:35260:35276"
+    },
+    {
+      "id": "147:p9",
+      "kind": "body",
+      "text": "如果检定成功，转到 148。\r\n",
+      "sourceLocation": "txt:chars:35276:35292"
+    },
+    {
+      "id": "147:p10",
+      "kind": "body",
+      "text": "如果检定失败，转到 149。\r\n",
+      "sourceLocation": "txt:chars:35292:35308"
+    }
+  ]
+}

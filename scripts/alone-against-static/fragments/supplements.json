@@ -1,0 +1,2247 @@
+{
+  "documents": [
+    {
+      "document": "静躁独行.txt",
+      "entries": [
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:0:846",
+          "text": "前言：\r\n我常开玩笑说，我是在《The Blair With Project》的那片森林里长大的。\r\n我们家的四周被两公里宽的国家森林团团围住。在这样一个黑暗粘稠压抑、屋外的声音经常无法分辨的地方长大，我学会了欣赏自然带来的恐怖——这种恐怖在人潮汹涌的大城市是不存在的。我学会享受在家时所感受到的保护，即使这种保护实际上虚无缥缈。这是原木墙和泥砖将寒冷和黑暗阻隔在外的感觉，即使有东西轻轻地爬过我卧室窗户的声音实际上……司空见惯。\r\n《静噪独行》是我尝试以克苏鲁神话的视角看待寂静原野的一次尝试。我尝试给予玩家强烈的孤离感。将场景设置在 90 年代也让我得以展示克苏鲁的呼唤可以适用于各种设定——现代为1920 年代所不存在的恐怖展开了舞台，例如，来源不明的吓人录像带。\r\n祝愿克苏鲁的呼唤的新老玩家都能在本作中体会这种之前或许从未体会过的恐怖。特别是，祝愿大家能从本作中找到灵感，在游戏中描绘自己的神话恐怖故事。\r\nB. W. Holland，于墨尔本，2022年。\r\n\r\n《静噪独行》，作者B. W. Holland，文本整理鸣谢西瓜，网页编写Luo\r\n在你开始之前，你需要从亚历克斯和查理两位调查员中选择一位。\r\n根据你的选择，故事发展会有所不同。\r\n同时，《静噪独行》使用记录表来记录你在游戏中做出的选择。在游戏中，有些条目会指示你在记录表上勾选特定的选项。另一些条目会根据记录表上一些选项是否勾选提供额外的选项。还有一些条目会禁止你选择一些选项，要求你必须转到特定的条目。以上这些都以你做出的行动为前提。\r\n\r\n你可以在372和373找到两位调查员的角色卡。\r\n\r\n下载记录表：[CQ:image,filehttps://gchat.qpic.cn/gchatpic_new/2700037224/928603289-2675160794-943AD91C0535666ED11289D8B24804DE/0?term=2&is_origin=0]\r\n\r\n本体部分:\r\n\r\n{%\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:1100:1106",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:1389:1395",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:1879:1885",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:2183:2189",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:2380:2386",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:2646:2652",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:2775:2781",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:3023:3029",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:3226:3232",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:3571:3577",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:3818:3824",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:4153:4159",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:4293:4299",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:4582:4588",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:4809:4815",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:5058:5064",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:5352:5358",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:5606:5612",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:5861:5867",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:6141:6147",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:6505:6511",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:6834:6840",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:7548:7554",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:7887:7893",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:8270:8276",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:8665:8671",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:9080:9086",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:9622:9628",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:9742:9748",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:10235:10241",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:10685:10691",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:11053:11059",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:11308:11314",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:11718:11724",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:11930:11936",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:12210:12216",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:12409:12415",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:12668:12674",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:12819:12825",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:12992:12998",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:13187:13193",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:13334:13340",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:13665:13671",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:13897:13903",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:14124:14130",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:14256:14262",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:14534:14540",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:14730:14736",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:14898:14904",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:15105:15111",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:15270:15276",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:15435:15441",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:15561:15567",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:15711:15717",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:16020:16026",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:16218:16224",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:16468:16474",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:16701:16707",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:16979:16985",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:17199:17205",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:17346:17352",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:17585:17591",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:17723:17729",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:17824:17830",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:18057:18063",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:18231:18237",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:18471:18477",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:18677:18683",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:18758:18764",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:18949:18955",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:19091:19097",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:19251:19257",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:19442:19448",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:19618:19624",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:19717:19723",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:19961:19967",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20165:20171",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20312:20318",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20409:20415",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20500:20506",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20662:20668",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20856:20862",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:20973:20979",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:21240:21246",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:21419:21425",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:21752:21758",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:21949:21955",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:22230:22236",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:22329:22335",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:22524:22530",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:22658:22664",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:22802:22808",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:22916:22922",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:23058:23064",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:23217:23223",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:23404:23410",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:23755:23761",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:24063:24069",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:24254:24260",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:24697:24703",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:24821:24827",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:25046:25052",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:25245:25251",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:25526:25532",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:25836:25842",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:25962:25968",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:26079:26085",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:26311:26317",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:26560:26566",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:26722:26728",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:26893:26899",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:27038:27044",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:27182:27188",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:27421:27427",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:27523:27529",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:27600:27606",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:27776:27782",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:28114:28120",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:28282:28288",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:28488:28494",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:28625:28631",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:28776:28782",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:28937:28943",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:29094:29100",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:29417:29423",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:29670:29676",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:30240:30246",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:30452:30458",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:30598:30604",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:30797:30803",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:31132:31138",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:31522:31528",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:31674:31680",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:31996:32002",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:32267:32273",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:32425:32431",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:32762:32768",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:33013:33019",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:33137:33143",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:33271:33277",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:33402:33408",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:33675:33681",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:33891:33897",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:34020:34026",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:34171:34177",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:34906:34912",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:35051:35057",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:35308:35314",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:35451:35457",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:35640:35646",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:35791:35797",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:35939:35945",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:36038:36044",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:36210:36216",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:36725:36731",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:36897:36903",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:37074:37080",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:37181:37187",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:37534:37540",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:37823:37829",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:38207:38213",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:38305:38311",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:38612:38618",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:38698:38704",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:38895:38901",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:39193:39199",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:39317:39323",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:39443:39449",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:39613:39619",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:39991:39997",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:40259:40265",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:40569:40575",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:40841:40847",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:41040:41046",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:41503:41509",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:41709:41715",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:41959:41965",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:42109:42115",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:42248:42254",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:42394:42400",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:42475:42481",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:42650:42656",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:42858:42864",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:43027:43033",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:43171:43177",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:43260:43266",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:43450:43456",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:43580:43586",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:44124:44130",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:44380:44386",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:44621:44627",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:44730:44736",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:44901:44907",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:45282:45288",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:45482:45488",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:45659:45665",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:45774:45780",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:46600:46606",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:46822:46828",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:47045:47051",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:47277:47283",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:47406:47412",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:47749:47755",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:47926:47932",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:48135:48141",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:48438:48444",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:48631:48637",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:48990:48996",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:49265:49271",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:49528:49534",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:49821:49827",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:49959:49965",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:50084:50090",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:50316:50322",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:50439:50445",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:50987:50993",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:51239:51245",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:51564:51570",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:51705:51711",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:52029:52035",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:52173:52179",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:52325:52331",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:52704:52710",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:52805:52811",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:52973:52979",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:53150:53156",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:53327:53333",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:53477:53483",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:53707:53713",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:53896:53902",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:54022:54028",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:54175:54181",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:54351:54357",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:54549:54555",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:54886:54892",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:55095:55101",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:55208:55214",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:55355:55361",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:55504:55510",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:55610:55616",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:55976:55982",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:56170:56176",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:56478:56484",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:56576:56582",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:56680:56686",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:56790:56796",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:56897:56903",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:57043:57049",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:57325:57331",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:57437:57443",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:57752:57758",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:57822:57828",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:58004:58010",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:58132:58138",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:58448:58454",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:58572:58578",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:58802:58808",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:58930:58936",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59141:59147",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59245:59251",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59362:59368",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59567:59573",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59653:59659",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59766:59772",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:59902:59908",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:60104:60110",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:60309:60315",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:60604:60610",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:60911:60917",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:61087:61093",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:61326:61332",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:61770:61776",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:62010:62016",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:62435:62441",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:62704:62710",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:62896:62902",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:63194:63200",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:63323:63329",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:63610:63616",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:63718:63724",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:63853:63859",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:64126:64132",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:64246:64252",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:64524:64530",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:64881:64887",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:65190:65196",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:65488:65494",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:65577:65583",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:65771:65777",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:66101:66107",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:66227:66233",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:66437:66443",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:66636:66642",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:66775:66781",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:66878:66884",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:67000:67006",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:67232:67238",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:67444:67450",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:67724:67730",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:67898:67904",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:68077:68083",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:68321:68327",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:68529:68535",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:68678:68684",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:68928:68934",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:69083:69089",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:69334:69340",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:69690:69696",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:69892:69898",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:70029:70035",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:70313:70319",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:70464:70470",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:70875:70881",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:71149:71155",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:71355:71361",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:71653:71659",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:72121:72127",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:72256:72262",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:72794:72800",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:73144:73150",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:73379:73385",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:73573:73579",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:73800:73806",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:74109:74115",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:74266:74272",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:74422:74428",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:74555:74561",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:74922:74928",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:75066:75072",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:75340:75346",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:75515:75521",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:75661:75667",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:75845:75851",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:76024:76030",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:76307:76313",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:76697:76703",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:76990:76996",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:77159:77165",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:77342:77348",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:77725:77731",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:77928:77934",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:78134:78140",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:78266:78272",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:78365:78371",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:78632:78638",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:78757:78763",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:79045:79051",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:79350:79356",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:79674:79680",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:79852:79858",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:80104:80110",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:80222:80228",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:80518:80524",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:81177:81183",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:81455:81461",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:81608:81614",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:81839:81845",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:82182:82188",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:82402:82408",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:82622:82628",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:83391:83397",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:83554:83560",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:83632:83638",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:84014:84020",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:84342:84348",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:84906:84912",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:85215:85221",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:85549:85555",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:85791:85797",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:85985:85991",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:86133:86139",
+          "text": "`,\r\n\r\n"
+        },
+        {
+          "kind": "p",
+          "section": "outside-numbered-story",
+          "sourceLocation": "txt:chars:86358:87337",
+          "text": "`,\r\n\r\n$t1 == '372'?\r\n`\r\n亚历克斯\r\n姓名：亚历克斯\r\n职业：销售员\r\n出生地：戴德伍德，南达科他州\r\n现居地：皮尔，南达科他州\r\n年龄：32\r\n力量 70 体型 75 体质 60 意志 50\r\n敏捷 65 外貌 60 智力 55 教育 65\r\nHP 13 MP 10 DB +1D4\r\n会计 20\r\n信用评级 40\r\n闪避 32\r\n汽车驾驶 45\r\n格斗（斗殴） 55\r\n急救 40\r\n恐吓 60\r\n母语（英语） 65\r\n聆听 50\r\n博物学 30\r\n导航 40\r\n说服 60\r\n心理学 45\r\n侦查 35\r\n潜行 35\r\n背景故事\r\n亚历克斯与查理在一起已经快五年了。查理最近越来越不开心。查理的哥哥马克建议去他的度假小屋独处一段时间。这曾经帮到了马克和他妻子朱莉。这也可能对亚历克斯和查理有用……\r\n个人描述：粗犷或邋遢，取决于你的仁慈程度。\r\n思想信念：我只相信亲自看到的。\r\n重要之人：查理，尽管发生了这一切……\r\n重要之地：第一次约会时查理订的餐馆。\r\n重要之物：查理写的情书。\r\n个人特质：无可救药的浪漫派。充满保护欲。\r\n财富：开销水平200，现金1600，资产 $40000。\r\n`,\r\n\r\n$t1 == '372'?\r\n`\r\n查理\r\n姓名：查理\r\n职业：护士\r\n出生地：皮尔，南达科他州\r\n现居地：皮尔，南达科他州\r\n力量 60 体型 65 体质 70 意志 60\r\n敏捷 60 外貌 75 智力 65 教育 70\r\nHP 13 MP 12 DB +1D4\r\n信用评级 30\r\n闪避 30\r\n格斗（斗殴） 55\r\n急救 70\r\n恐吓 45\r\n母语（英语） 70\r\n聆听 60\r\n博物学 40\r\n导航 20\r\n说服 50\r\n心理学 60\r\n科学（生物学） 25\r\n科学（化学） 25\r\n侦查 65\r\n潜行 30\r\n背景故事\r\n查理和亚历克斯在一起已经快五年了。他们的关系最近有些裂痕。也许独处一段时间有助于修\r\n补关系，但是，实话实说，感觉不太靠谱……\r\n思想信念：罪业报应。\r\n重要之人：亚历克斯，不论好坏……\r\n重要之地：亚历克斯旧公寓对面的长椅，两人第一次接吻的地方。\r\n重要之物：家传的求婚戒指。\r\n个人特质：绝望的、异想天开的。\r\n财富：开销水平200 ，现金1200，资产 $30000。\r\n`\r\n%}\r\n"
+        }
+      ]
+    }
+  ]
+}

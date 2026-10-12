@@ -1,0 +1,48 @@
+{
+  "id": "139",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "139:p0",
+      "kind": "heading",
+      "text": "$t1 == '139'?\r\n`",
+      "sourceLocation": "txt:chars:33143:33159"
+    },
+    {
+      "id": "139:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:33159:33161"
+    },
+    {
+      "id": "139:p2",
+      "kind": "body",
+      "text": "你在沙发上躺了许久，一阵一阵地打着瞌睡。你试着多读一点，但是这本书实在无聊。\r\n",
+      "sourceLocation": "txt:chars:33161:33201"
+    },
+    {
+      "id": "139:p3",
+      "kind": "body",
+      "text": "最后，你惊醒过来，眨了眨眼驱散睡意。太阳落山了。\r\n",
+      "sourceLocation": "txt:chars:33201:33227"
+    },
+    {
+      "id": "139:p4",
+      "kind": "body",
+      "text": "如果你的生命值有损失，恢复 1 点生命。\r\n",
+      "sourceLocation": "txt:chars:33227:33249"
+    },
+    {
+      "id": "139:p5",
+      "kind": "body",
+      "text": "在记录表上勾选 睡好。\r\n",
+      "sourceLocation": "txt:chars:33249:33262"
+    },
+    {
+      "id": "139:p6",
+      "kind": "body",
+      "text": "转到 142。\r\n",
+      "sourceLocation": "txt:chars:33262:33271"
+    }
+  ]
+}

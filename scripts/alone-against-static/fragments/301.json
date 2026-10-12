@@ -1,0 +1,48 @@
+{
+  "id": "301",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "301:p0",
+      "kind": "heading",
+      "text": "$t1 == '301'?\r\n`",
+      "sourceLocation": "txt:chars:68083:68099"
+    },
+    {
+      "id": "301:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:68099:68101"
+    },
+    {
+      "id": "301:p2",
+      "kind": "body",
+      "text": "你想要把气喘匀，但无济于事。你的手顺着树干滑下，身子瘫在树根上。你一次又一次地吸着气，让肺部像是整个冻住了似的。尽管你现在情况严峻，但你的眼皮还是止不住地打架。\r\n",
+      "sourceLocation": "txt:chars:68101:68183"
+    },
+    {
+      "id": "301:p3",
+      "kind": "body",
+      "text": "你不知道在这棵树上靠了多久，终于觉得自己能站起来了。你一点一点起身，摇摇欲坠，不过还是扶着树稳住身子。现在，你只要逃离这混乱的场面。只要太阳升起来，你就能重新找到路，回到文明的怀抱。\r\n",
+      "sourceLocation": "txt:chars:68183:68276"
+    },
+    {
+      "id": "301:p4",
+      "kind": "body",
+      "text": "记录你当前所在的条目，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:68276:68301"
+    },
+    {
+      "id": "301:p5",
+      "kind": "body",
+      "text": "受到 1 点伤害。\r\n",
+      "sourceLocation": "txt:chars:68301:68312"
+    },
+    {
+      "id": "301:p6",
+      "kind": "body",
+      "text": "转到 302。\r\n",
+      "sourceLocation": "txt:chars:68312:68321"
+    }
+  ]
+}

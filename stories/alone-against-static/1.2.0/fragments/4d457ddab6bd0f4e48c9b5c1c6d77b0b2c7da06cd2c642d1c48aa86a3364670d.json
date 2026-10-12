@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.0",
+  "nodeIds": [
+    "78"
+  ],
+  "text": [
+    "这就够了。你走出棚屋，回到森林里。阳光明媚，你只好眯着眼适应室外的亮度。",
+    "你回到小路上，继续走了半小时左右。然后便往小屋回去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 78",
+      "textRef": "default"
+    }
+  }
+}

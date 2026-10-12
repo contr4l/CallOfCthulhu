@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "238"
+  ],
+  "text": [
+    "椅子仍然顶在门下。随着每一下捶击，木材都扭曲着。你并没能阻止袭击者，但是你至少让他慢下来了。你环视小屋，焦急地分析着你的选择。",
+    "你为自己争取了额外的时间。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 238",
+      "textRef": "default"
+    }
+  }
+}

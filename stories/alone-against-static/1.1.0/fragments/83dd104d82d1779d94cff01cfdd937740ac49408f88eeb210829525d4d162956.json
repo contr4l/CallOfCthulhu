@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "109"
+  ],
+  "text": [
+    "你往旁边一滚。破碎的木板刺进你身边的地板，深深扎进木材里。如果它刺中了你，一定会很惨。借着涌动的肾上腺素，你喘着粗气从床底下滑了出来。",
+    "最好还是不要瞎找了。你站起来看着小屋里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 109",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "138"
+  ],
+  "text": [
+    "你走出小屋，看着陌生人沿着林间小道大步走去。你踩着早上走过的那些石头跟着他。",
+    "你不由自主地感到你正在做一件非常危险的事。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 138",
+      "textRef": "default"
+    }
+  }
+}

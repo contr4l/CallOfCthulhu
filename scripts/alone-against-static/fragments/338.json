@@ -1,0 +1,42 @@
+{
+  "id": "338",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "338:p0",
+      "kind": "heading",
+      "text": "$t1 == '338'?\r\n`",
+      "sourceLocation": "txt:chars:77165:77181"
+    },
+    {
+      "id": "338:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:77181:77183"
+    },
+    {
+      "id": "338:p2",
+      "kind": "body",
+      "text": "“幼子……”你说道，“它想要一个家？”\r\n",
+      "sourceLocation": "txt:chars:77183:77204"
+    },
+    {
+      "id": "338:p3",
+      "kind": "body",
+      "text": "男人点了点头。“祂独自度过了无可计数的岁月。祂能看到过去、现在和未来。祂努力想要适应我们的科技，但没有成功。祂只是想要人们陪着祂，在这里，在祂的家。”他用手示意着周围。\r\n",
+      "sourceLocation": "txt:chars:77204:77290"
+    },
+    {
+      "id": "338:p4",
+      "kind": "body",
+      "text": "如果记录表上的 亚历克斯 已被勾选，转到 336。\r\n",
+      "sourceLocation": "txt:chars:77290:77317"
+    },
+    {
+      "id": "338:p5",
+      "kind": "body",
+      "text": "如果记录表上的 查理 已被勾选，转到 285。\r\n",
+      "sourceLocation": "txt:chars:77317:77342"
+    }
+  ]
+}

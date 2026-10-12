@@ -1,0 +1,36 @@
+{
+  "id": "53",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "53:p0",
+      "kind": "heading",
+      "text": "$t1 == '53'?\r\n`",
+      "sourceLocation": "txt:chars:15567:15582"
+    },
+    {
+      "id": "53:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:15582:15584"
+    },
+    {
+      "id": "53:p2",
+      "kind": "body",
+      "text": "野外的鹿会遇到各种健康问题。你搞不清是什么东西感染了这一头，可能是成千上百种病原体中的任何一种。不论怎么说，它似乎不太在乎你的存在。你和它呆立对视了一会儿，它突然转过身朝森林深处冲去，留下你孤身一人。\r\n",
+      "sourceLocation": "txt:chars:15584:15686"
+    },
+    {
+      "id": "53:p3",
+      "kind": "body",
+      "text": "真吓人。你还是回到小路上好了。\r\n",
+      "sourceLocation": "txt:chars:15686:15703"
+    },
+    {
+      "id": "53:p4",
+      "kind": "body",
+      "text": "转到 55。\r\n",
+      "sourceLocation": "txt:chars:15703:15711"
+    }
+  ]
+}

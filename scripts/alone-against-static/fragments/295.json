@@ -1,0 +1,36 @@
+{
+  "id": "295",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "295:p0",
+      "kind": "heading",
+      "text": "$t1 == '295'?\r\n`",
+      "sourceLocation": "txt:chars:66884:66900"
+    },
+    {
+      "id": "295:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:66900:66902"
+    },
+    {
+      "id": "295:p2",
+      "kind": "body",
+      "text": "你一步踩在一块松动的地板上，发出响亮的咔嚓一声。声音在小屋里回荡。陌生人咆哮着，吼声从屋外不远处传来。你来不及反应，他就冲进屋里，朝你冲来。\r\n",
+      "sourceLocation": "txt:chars:66902:66974"
+    },
+    {
+      "id": "295:p3",
+      "kind": "body",
+      "text": "要躲避，转到 262。\r\n",
+      "sourceLocation": "txt:chars:66974:66987"
+    },
+    {
+      "id": "295:p4",
+      "kind": "body",
+      "text": "要攻击，转到 260。\r\n",
+      "sourceLocation": "txt:chars:66987:67000"
+    }
+  ]
+}

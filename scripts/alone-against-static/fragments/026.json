@@ -1,0 +1,96 @@
+{
+  "id": "26",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "26:p0",
+      "kind": "heading",
+      "text": "$t1 == '26'?\r\n`",
+      "sourceLocation": "txt:chars:8671:8686"
+    },
+    {
+      "id": "26:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:8686:8688"
+    },
+    {
+      "id": "26:p2",
+      "kind": "body",
+      "text": "就在你翻阅磁带时，你发现橱柜后面有个东西。你伸手进去把它拿了出来。这是一个空的家用录像磁带盒，已经老化发脆了。有人用黑色记号笔在盒子上潦草地写了一个标题：《溪水中的落花》\r\n",
+      "sourceLocation": "txt:chars:8688:8775"
+    },
+    {
+      "id": "26:p3",
+      "kind": "body",
+      "text": "你难以置信地大声读出了标题。\r\n",
+      "sourceLocation": "txt:chars:8775:8791"
+    },
+    {
+      "id": "26:p4",
+      "kind": "body",
+      "text": "“这是什么？”查理问。\r\n",
+      "sourceLocation": "txt:chars:8791:8804"
+    },
+    {
+      "id": "26:p5",
+      "kind": "body",
+      "text": "“一个空盒子。”\r\n",
+      "sourceLocation": "txt:chars:8804:8814"
+    },
+    {
+      "id": "26:p6",
+      "kind": "body",
+      "text": "查理用裤子擦着手上的水走了过来，说：“我从来没听说过这部电影。”\r\n",
+      "sourceLocation": "txt:chars:8814:8848"
+    },
+    {
+      "id": "26:p7",
+      "kind": "body",
+      "text": "“路过百视达的时候就该停一下，”你小声念着，“看起来是盗版。不过这里只有盒子，磁带不知道在哪里。”\r\n",
+      "sourceLocation": "txt:chars:8848:8899"
+    },
+    {
+      "id": "26:p8",
+      "kind": "body",
+      "text": "“可能还在磁带机里？”\r\n",
+      "sourceLocation": "txt:chars:8899:8912"
+    },
+    {
+      "id": "26:p9",
+      "kind": "body",
+      "text": "查理探过身来按了一下退带按钮。随着机器里的一阵机械声，一盘磁带吐了出来。\r\n",
+      "sourceLocation": "txt:chars:8912:8950"
+    },
+    {
+      "id": "26:p10",
+      "kind": "body",
+      "text": "“啊哈！”查理说道。\r\n",
+      "sourceLocation": "txt:chars:8950:8962"
+    },
+    {
+      "id": "26:p11",
+      "kind": "body",
+      "text": "你点了点头。“好吧。倒带，然后我们就赌一赌这一部。总不可能比这些片子还坏了。”你朝着散放在地上的那些劣质恐怖片说道。\r\n",
+      "sourceLocation": "txt:chars:8962:9022"
+    },
+    {
+      "id": "26:p12",
+      "kind": "body",
+      "text": "在记录表上勾选 溪水中的落花。\r\n",
+      "sourceLocation": "txt:chars:9022:9039"
+    },
+    {
+      "id": "26:p13",
+      "kind": "body",
+      "text": "要在看电影之前先换衣服，转到 21。\r\n",
+      "sourceLocation": "txt:chars:9039:9059"
+    },
+    {
+      "id": "26:p14",
+      "kind": "body",
+      "text": "要直接躺在床上开始看电影，转到 28。\r\n",
+      "sourceLocation": "txt:chars:9059:9080"
+    }
+  ]
+}

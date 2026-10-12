@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "338"
+  ],
+  "text": [
+    "“幼子……”你说道，“它想要一个家？”",
+    "男人点了点头。“祂独自度过了无可计数的岁月。祂能看到过去、现在和未来。祂努力想要适应我们的科技，但没有成功。祂只是想要人们陪着祂，在这里，在祂的家。”他用手示意着周围。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 338",
+      "textRef": "default"
+    }
+  }
+}

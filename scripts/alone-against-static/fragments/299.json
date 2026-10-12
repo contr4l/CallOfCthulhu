@@ -1,0 +1,42 @@
+{
+  "id": "299",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "299:p0",
+      "kind": "heading",
+      "text": "$t1 == '299'?\r\n`",
+      "sourceLocation": "txt:chars:67730:67746"
+    },
+    {
+      "id": "299:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:67746:67748"
+    },
+    {
+      "id": "299:p2",
+      "kind": "body",
+      "text": "你选了一条路走了下去。你跑了好久好久，也不知道这条路究竟对不对。你只能靠手电筒照着才能看清周围。你唯一能确定的是，这里的森林更安静。\r\n",
+      "sourceLocation": "txt:chars:67748:67816"
+    },
+    {
+      "id": "299:p3",
+      "kind": "body",
+      "text": "渐渐地，你累了。你也觉得越来越冷。你靠着一棵树喘着粗气。\r\n",
+      "sourceLocation": "txt:chars:67816:67846"
+    },
+    {
+      "id": "299:p4",
+      "kind": "body",
+      "text": "如果记录表上的 睡好 已被勾选，你之前的休息让你恢复了一些气力，必须转到 300。\r\n",
+      "sourceLocation": "txt:chars:67846:67889"
+    },
+    {
+      "id": "299:p5",
+      "kind": "body",
+      "text": "转到 301。\r\n",
+      "sourceLocation": "txt:chars:67889:67898"
+    }
+  ]
+}

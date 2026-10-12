@@ -1,0 +1,66 @@
+{
+  "id": "0",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "0:p0",
+      "kind": "heading",
+      "text": "$t1 == '0'?\r\n`",
+      "sourceLocation": "txt:chars:846:860"
+    },
+    {
+      "id": "0:p1",
+      "kind": "body",
+      "text": " \r\n",
+      "sourceLocation": "txt:chars:860:863"
+    },
+    {
+      "id": "0:p2",
+      "kind": "body",
+      "text": "在被人遗忘的荒野，在松针铺满森林地面的地方，有东西颤动着。\r\n",
+      "sourceLocation": "txt:chars:863:894"
+    },
+    {
+      "id": "0:p3",
+      "kind": "body",
+      "text": "风吹过黑山峰，吹向熊、兔子和鸟都从不会造访的地方。周遭森林的树木颤抖着。在湿润的土地下面，有东西苏醒了。\r\n",
+      "sourceLocation": "txt:chars:894:948"
+    },
+    {
+      "id": "0:p4",
+      "kind": "body",
+      "text": "在土壤下面移动着，它无声地破土而出。它的现身震撼了荒野。在远方，一头狼为了将要逝去的而哀嚎。\r\n",
+      "sourceLocation": "txt:chars:948:996"
+    },
+    {
+      "id": "0:p5",
+      "kind": "body",
+      "text": "它从黑暗和喘息中抽身。\r\n",
+      "sourceLocation": "txt:chars:996:1009"
+    },
+    {
+      "id": "0:p6",
+      "kind": "body",
+      "text": "它眨了眨眼。\r\n",
+      "sourceLocation": "txt:chars:1009:1017"
+    },
+    {
+      "id": "0:p7",
+      "kind": "body",
+      "text": "取出你的调查员角色卡，骰 3D6，将结果乘以 5。这是你角色的幸运值。在角色卡上记下数值。\r\n",
+      "sourceLocation": "txt:chars:1017:1064"
+    },
+    {
+      "id": "0:p8",
+      "kind": "body",
+      "text": "要作为亚历克斯开始冒险，转到 1。\r\n",
+      "sourceLocation": "txt:chars:1064:1083"
+    },
+    {
+      "id": "0:p9",
+      "kind": "body",
+      "text": "要作为查理开始冒险，转到 2。\r\n",
+      "sourceLocation": "txt:chars:1083:1100"
+    }
+  ]
+}

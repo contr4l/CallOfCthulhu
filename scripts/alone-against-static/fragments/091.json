@@ -1,0 +1,42 @@
+{
+  "id": "91",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "91:p0",
+      "kind": "heading",
+      "text": "$t1 == '91'?\r\n`",
+      "sourceLocation": "txt:chars:22664:22679"
+    },
+    {
+      "id": "91:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:22679:22681"
+    },
+    {
+      "id": "91:p2",
+      "kind": "body",
+      "text": "你伸展着四肢、转着脖子，尽量放松肌肉。然后，你到床边打开自己的行李箱。你抿着嘴唇挑选符合心意的衣服。\r\n",
+      "sourceLocation": "txt:chars:22681:22733"
+    },
+    {
+      "id": "91:p3",
+      "kind": "body",
+      "text": "要穿T恤和牛仔裤，在记录表上勾选 实用派。\r\n",
+      "sourceLocation": "txt:chars:22733:22756"
+    },
+    {
+      "id": "91:p4",
+      "kind": "body",
+      "text": "或者，要穿柔软暖和的运动裤和毛衣，在记录表上勾选 舒适派。\r\n",
+      "sourceLocation": "txt:chars:22756:22787"
+    },
+    {
+      "id": "91:p5",
+      "kind": "body",
+      "text": "选择一项，然后转到 93。\r\n",
+      "sourceLocation": "txt:chars:22787:22802"
+    }
+  ]
+}

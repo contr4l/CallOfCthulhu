@@ -1,0 +1,84 @@
+{
+  "id": "215",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "215:p0",
+      "kind": "heading",
+      "text": "$t1 == '215'?\r\n`",
+      "sourceLocation": "txt:chars:50445:50461"
+    },
+    {
+      "id": "215:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:50461:50463"
+    },
+    {
+      "id": "215:p2",
+      "kind": "body",
+      "text": "男人举起文件夹，笑着。“这里的一切就像是昨天一样。我第一次梦到之后写下的一切。”他把文件夹放在腿上你看不到的地方，向下看着。你听到文件夹打开和翻页的声音。\r\n",
+      "sourceLocation": "txt:chars:50463:50542"
+    },
+    {
+      "id": "215:p3",
+      "kind": "body",
+      "text": "“我要再读一遍，”他说，“在我梦中所闻的话语。”他自豪地朝着镜头笑着，朝身后的空地打着手势。“就是这里，我每晚都会见到这里。每、一、晚。”男人现在显得欣喜若狂。他低头看着纸张，读道：“祂出现在选民的面前，将他们带入内环。当太阳升起，祂就隐去身形，隐于寻常的皮囊。”\r\n",
+      "sourceLocation": "txt:chars:50542:50676"
+    },
+    {
+      "id": "215:p4",
+      "kind": "body",
+      "text": "他清了清喉咙，继续读道：“当夜幕降临，祂就自由地行走，大地的爱徒，森林的毒与药。从土壤的深处萌生，黑山峰如今就要成为祂的血肉，每棵树都是祂的毛发。祂的使徒乃是由时间之法则所定：米哈伊尔、荷马、奥利维亚、达西，”他在这里停了一下，激动地指着纸张。“这就是我！”他加了一句，然后继续读道：“马库斯、查理、亚历克斯、拉切尔、伊萨克。”\r\n",
+      "sourceLocation": "txt:chars:50676:50842"
+    },
+    {
+      "id": "215:p5",
+      "kind": "body",
+      "text": "达西停了一下，直直地盯着镜头。\r\n",
+      "sourceLocation": "txt:chars:50842:50859"
+    },
+    {
+      "id": "215:p6",
+      "kind": "body",
+      "text": "“查理？”他问道，“亚历克斯？”\r\n",
+      "sourceLocation": "txt:chars:50859:50877"
+    },
+    {
+      "id": "215:p7",
+      "kind": "body",
+      "text": "他朝着摄像机靠过来。画面上只有他的眼睛和眼边的脓疱。\r\n",
+      "sourceLocation": "txt:chars:50877:50905"
+    },
+    {
+      "id": "215:p8",
+      "kind": "body",
+      "text": "“你们要回家了吗？”\r\n",
+      "sourceLocation": "txt:chars:50905:50917"
+    },
+    {
+      "id": "215:p9",
+      "kind": "body",
+      "text": "画面破碎，变成纷飞的雪花。房间里充满了炸裂的噪音。\r\n",
+      "sourceLocation": "txt:chars:50917:50944"
+    },
+    {
+      "id": "215:p10",
+      "kind": "body",
+      "text": "进行一次理智检定。\r\n",
+      "sourceLocation": "txt:chars:50944:50955"
+    },
+    {
+      "id": "215:p11",
+      "kind": "body",
+      "text": "如果检定成功，转到 214。\r\n",
+      "sourceLocation": "txt:chars:50955:50971"
+    },
+    {
+      "id": "215:p12",
+      "kind": "body",
+      "text": "如果检定失败，转到 216。\r\n",
+      "sourceLocation": "txt:chars:50971:50987"
+    }
+  ]
+}

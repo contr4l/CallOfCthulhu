@@ -1,0 +1,42 @@
+{
+  "id": "161",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "161:p0",
+      "kind": "heading",
+      "text": "$t1 == '161'?\r\n`",
+      "sourceLocation": "txt:chars:38213:38229"
+    },
+    {
+      "id": "161:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:38229:38231"
+    },
+    {
+      "id": "161:p2",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:38231:38233"
+    },
+    {
+      "id": "161:p3",
+      "kind": "body",
+      "text": "你在冻死人的严寒中找了很久，终于才找到林间的小路。你顺着小路回到了小屋。\r\n",
+      "sourceLocation": "txt:chars:38233:38271"
+    },
+    {
+      "id": "161:p4",
+      "kind": "body",
+      "text": "你回到小屋时天已完全黑了。你急不可耐地进了屋。\r\n",
+      "sourceLocation": "txt:chars:38271:38296"
+    },
+    {
+      "id": "161:p5",
+      "kind": "body",
+      "text": "转到 170。\r\n",
+      "sourceLocation": "txt:chars:38296:38305"
+    }
+  ]
+}

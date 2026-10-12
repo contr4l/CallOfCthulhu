@@ -1,0 +1,36 @@
+{
+  "id": "343",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "343:p0",
+      "kind": "heading",
+      "text": "$t1 == '343'?\r\n`",
+      "sourceLocation": "txt:chars:78272:78288"
+    },
+    {
+      "id": "343:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:78288:78290"
+    },
+    {
+      "id": "343:p2",
+      "kind": "body",
+      "text": "你冲过空地抱住查理。“哦天哪！我好担心！”你紧紧抱住他。\r\n",
+      "sourceLocation": "txt:chars:78290:78320"
+    },
+    {
+      "id": "343:p3",
+      "kind": "body",
+      "text": "如果记录表上的 心碎 已被勾选，你的话语空洞无物，必须转到 344。\r\n",
+      "sourceLocation": "txt:chars:78320:78356"
+    },
+    {
+      "id": "343:p4",
+      "kind": "body",
+      "text": "转到 352。\r\n",
+      "sourceLocation": "txt:chars:78356:78365"
+    }
+  ]
+}

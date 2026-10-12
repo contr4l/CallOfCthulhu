@@ -1,0 +1,42 @@
+{
+  "id": "177",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "177:p0",
+      "kind": "heading",
+      "text": "$t1 == '177'?\r\n`",
+      "sourceLocation": "txt:chars:41965:41981"
+    },
+    {
+      "id": "177:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:41981:41983"
+    },
+    {
+      "id": "177:p2",
+      "kind": "body",
+      "text": "你在敞开的门边站了一会儿，探身往小屋外面看着。你看到旁边的柴火堆，也看到你之前找到的斧头正靠着门口的墙。\r\n",
+      "sourceLocation": "txt:chars:41983:42037"
+    },
+    {
+      "id": "177:p3",
+      "kind": "body",
+      "text": "怀疑、偏执或是两者兼而有之驱动着你采取行动。你把斧头拿到屋里，靠在门口。\r\n",
+      "sourceLocation": "txt:chars:42037:42075"
+    },
+    {
+      "id": "177:p4",
+      "kind": "body",
+      "text": "在记录表上勾选 就在手边。\r\n",
+      "sourceLocation": "txt:chars:42075:42090"
+    },
+    {
+      "id": "177:p5",
+      "kind": "body",
+      "text": "要回到小屋里锁好门，转到 182。\r\n",
+      "sourceLocation": "txt:chars:42090:42109"
+    }
+  ]
+}

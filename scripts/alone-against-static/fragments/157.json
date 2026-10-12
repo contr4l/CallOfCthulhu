@@ -1,0 +1,36 @@
+{
+  "id": "157",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "157:p0",
+      "kind": "heading",
+      "text": "$t1 == '157'?\r\n`",
+      "sourceLocation": "txt:chars:37080:37096"
+    },
+    {
+      "id": "157:p1",
+      "kind": "body",
+      "text": "\r\n",
+      "sourceLocation": "txt:chars:37096:37098"
+    },
+    {
+      "id": "157:p2",
+      "kind": "body",
+      "text": "虽然花的时间比你想象的长些，你还是找到了林间小道，顺着回到了马克的小屋。太阳已经完全落下。\r\n",
+      "sourceLocation": "txt:chars:37098:37145"
+    },
+    {
+      "id": "157:p3",
+      "kind": "body",
+      "text": "你不由自主地感觉你刚才与某种恐怖事件仅有一线之隔。\r\n",
+      "sourceLocation": "txt:chars:37145:37172"
+    },
+    {
+      "id": "157:p4",
+      "kind": "body",
+      "text": "转到 142。\r\n",
+      "sourceLocation": "txt:chars:37172:37181"
+    }
+  ]
+}

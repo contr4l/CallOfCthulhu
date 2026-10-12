@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "287"
+  ],
+  "text": [
+    "趁着男人钻窗户到一半，你冲向他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 287",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "351"
+  ],
+  "text": [
+    "在你意识深处警铃大作。但另一个同样响亮的声音让你跑过去拥抱你的爱人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 351",
+      "textRef": "default"
+    }
+  }
+}

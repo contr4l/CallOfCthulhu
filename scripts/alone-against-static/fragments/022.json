@@ -1,0 +1,132 @@
+{
+  "id": "22",
+  "document": "静躁独行.txt",
+  "paragraphs": [
+    {
+      "id": "22:p0",
+      "kind": "heading",
+      "text": "$t1 == '22'?\r\n`",
+      "sourceLocation": "txt:chars:6840:6855"
+    },
+    {
+      "id": "22:p1",
+      "kind": "body",
+      "text": "电影开始，屏幕上什么画面都没有。能听到有轻微的音乐，但是没有片头字幕。然后，屏幕上开始播放模糊的影像，明显是手持录像机拍摄的。\r\n",
+      "sourceLocation": "txt:chars:6855:6920"
+    },
+    {
+      "id": "22:p2",
+      "kind": "body",
+      "text": "“这是马克的家庭影片吗？”你问道。\r\n",
+      "sourceLocation": "txt:chars:6920:6939"
+    },
+    {
+      "id": "22:p3",
+      "kind": "body",
+      "text": "查理笑着去拿遥控器。“哦吼，真抱歉。”\r\n",
+      "sourceLocation": "txt:chars:6939:6960"
+    },
+    {
+      "id": "22:p4",
+      "kind": "body",
+      "text": "“稍等，这段看着有点眼熟，”你指着电视说道。查理怀疑地停了下来。\r\n",
+      "sourceLocation": "txt:chars:6960:6994"
+    },
+    {
+      "id": "22:p5",
+      "kind": "body",
+      "text": "在屏幕上是密得像墙壁的森林。树叶和松针被拍摄者踩得嘎吱作响。相机扫过地平线，画出一片绿色和棕色的虚影。突然，你看到了马克的小屋，孤零零地立在这一小片空地上。一辆暗红色的轿车停在门前。\r\n",
+      "sourceLocation": "txt:chars:6994:7087"
+    },
+    {
+      "id": "22:p6",
+      "kind": "body",
+      "text": "“那是茱莉的车，”查理说道。\r\n",
+      "sourceLocation": "txt:chars:7087:7103"
+    },
+    {
+      "id": "22:p7",
+      "kind": "body",
+      "text": "“那这一定是他们婚礼之后拍的了。”\r\n",
+      "sourceLocation": "txt:chars:7103:7122"
+    },
+    {
+      "id": "22:p8",
+      "kind": "body",
+      "text": "录像机抖得厉害。风吹过麦克风时录下的可怕刮擦声从扬声器里放出。红色轿车旁边有动静。\r\n",
+      "sourceLocation": "txt:chars:7122:7165"
+    },
+    {
+      "id": "22:p9",
+      "kind": "body",
+      "text": "一位女士，看来是茱莉，正从后备箱往外拿包。\r\n",
+      "sourceLocation": "txt:chars:7165:7188"
+    },
+    {
+      "id": "22:p10",
+      "kind": "body",
+      "text": "“对，”查理说，“这至少是五六年前的了。”\r\n",
+      "sourceLocation": "txt:chars:7188:7211"
+    },
+    {
+      "id": "22:p11",
+      "kind": "body",
+      "text": "屋门打开，茱莉闻声转过身去。马克从屋里走了出来，从茱莉手里接过一个包。他们笑着说了些什么。你听不到对话的内容。\r\n",
+      "sourceLocation": "txt:chars:7211:7268"
+    },
+    {
+      "id": "22:p12",
+      "kind": "body",
+      "text": "你一个激灵坐起身。“什么鬼？”\r\n",
+      "sourceLocation": "txt:chars:7268:7285"
+    },
+    {
+      "id": "22:p13",
+      "kind": "body",
+      "text": "“怎么了？只是马克而已。”\r\n",
+      "sourceLocation": "txt:chars:7285:7300"
+    },
+    {
+      "id": "22:p14",
+      "kind": "body",
+      "text": "“对啊，那是谁在录像？”\r\n",
+      "sourceLocation": "txt:chars:7300:7314"
+    },
+    {
+      "id": "22:p15",
+      "kind": "body",
+      "text": "查理结结巴巴地眨着眼睛。\r\n",
+      "sourceLocation": "txt:chars:7314:7328"
+    },
+    {
+      "id": "22:p16",
+      "kind": "body",
+      "text": "屏幕上，马克和茱莉进了屋，关上了身后的门。录像机向窗户拉近。画面上净是模糊的色彩颗粒。你能看到小屋里有人活动。相机又拉得更近。这时，狂风吹起，呼啸声从扬声器传出。画面破碎成一整幅雪花噪音。白噪音在房间里炸开，钻进你的头骨。你感觉脑子要炸开一样。\r\n",
+      "sourceLocation": "txt:chars:7328:7452"
+    },
+    {
+      "id": "22:p17",
+      "kind": "body",
+      "text": "记录当前条目编号，你可能需要回到当前条目。\r\n",
+      "sourceLocation": "txt:chars:7452:7475"
+    },
+    {
+      "id": "22:p18",
+      "kind": "body",
+      "text": "进行一次理智检定：如果检定失败，你失去 1 点理智，在记录表上勾选 不安。\r\n",
+      "sourceLocation": "txt:chars:7475:7514"
+    },
+    {
+      "id": "22:p19",
+      "kind": "body",
+      "text": "要遮住耳朵，转到 29。\r\n",
+      "sourceLocation": "txt:chars:7514:7528"
+    },
+    {
+      "id": "22:p20",
+      "kind": "body",
+      "text": "要冲到旋钮那里把它关掉，转到 23。\r\n",
+      "sourceLocation": "txt:chars:7528:7548"
+    }
+  ]
+}

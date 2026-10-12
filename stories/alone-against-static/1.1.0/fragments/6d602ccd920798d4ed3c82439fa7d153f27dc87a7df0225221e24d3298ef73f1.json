@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.1.0",
+  "nodeIds": [
+    "68"
+  ],
+  "text": [
+    "你拿起其中一个罐子。每个罐子里都装着粘稠的黑色物质，散发着强烈的尿骚味。",
+    "你放下罐子，真恶心。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 68",
+      "textRef": "default"
+    }
+  }
+}

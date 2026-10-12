@@ -4,7 +4,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[1-9][0-9]*$"
+      "pattern": "^(0|[1-9][0-9]*)$"
     },
     "document": {
       "type": "string"
@@ -17,7 +17,7 @@
         "properties": {
           "id": {
             "type": "string",
-            "pattern": "^[1-9][0-9]*:p[0-9]+$"
+            "pattern": "^(0|[1-9][0-9]*):p[0-9]+$"
           },
           "kind": {
             "type": "string",
