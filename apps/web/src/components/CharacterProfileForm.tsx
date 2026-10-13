@@ -37,7 +37,7 @@ export function CharacterProfileForm({
   return (
     <Modal title="填写角色卡" wide onClose={onClose}>
       <p className="setup-note">
-        填写调查员的个人资料。职业、属性和技能由模板或模组建卡规则确定；已开始的调查保留开局角色。
+        姓名会同步到关联的调查；其他资料保存在角色档案中。
       </p>
       <form
         className="profile-form"

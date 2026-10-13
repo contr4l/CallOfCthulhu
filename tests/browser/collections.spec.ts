@@ -61,6 +61,43 @@ test("ending and chapter collections open saved text without revealing locked ou
     fullPage: true,
   });
 });
+test("renaming an archived investigator updates the resumed run after reload", async ({
+  page,
+}, info) => {
+  await register(page);
+  const initial = await createFixtureRun(
+    page,
+    "collection-fixture",
+    "游戏里的旧名字",
+  );
+  await page.reload();
+  await expect(page.locator(".character-card h2")).toHaveText("游戏里的旧名字");
+  await nav(page, info.project.name === "mobile", "调查员");
+  const entry = page
+    .locator(".saved-character-entry")
+    .filter({
+      has: page.getByRole("heading", { name: "游戏里的旧名字", exact: true }),
+    });
+  await entry.getByRole("button", { name: "填写角色卡", exact: true }).click();
+  await page.getByLabel("调查员姓名").fill("同步后的新名字");
+  await page.getByRole("button", { name: "保存角色资料", exact: true }).click();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.goto(`/#/play/${initial.runId}`);
+  await expect(page.locator(".character-card h2")).toHaveText("同步后的新名字");
+  await page.reload();
+  await expect(page.locator(".character-card h2")).toHaveText("同步后的新名字");
+  await page.getByRole("button", { name: /与灰衣乘客交谈/ }).click();
+  await expect(page.locator(".character-card h2")).toHaveText("同步后的新名字");
+  const current = await (
+    await page.request.get(`/api/runs/${initial.runId}`)
+  ).json();
+  expect(current.character.hp).toBe(initial.character.hp);
+  const history = await (
+    await page.request.get(`/api/runs/${initial.runId}/history`)
+  ).json();
+  expect(history.frames[0].scene.character.name).toBe("游戏里的旧名字");
+});
+
 test("character sheet saves background, displays difficulty values and exports", async ({
   page,
 }, info) => {

@@ -154,6 +154,7 @@ export type Story = {
 };
 export type StorySummary = Omit<Story, "nodes" | "entry">;
 export type RunState = {
+  savedCharacterId?: string;
   createdCharacterId?: string;
   program?: ProgramState;
   nodeId: string;

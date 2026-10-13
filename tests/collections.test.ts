@@ -221,7 +221,7 @@ test("collection progress merges every content version into the latest story", a
     rmSync(dir, { recursive: true, force: true });
   }
 });
-test("character profile edits persist without changing numbers, templates or running copies", async () => {
+test("character renames sync to running copies while preserving their numbers and profile", async () => {
   const app = await buildApp({ dice: (min) => min });
   try {
     const cookies = await account(app, "角色资料玩家"),
@@ -266,7 +266,7 @@ test("character profile edits persist without changing numbers, templates or run
     assert.deepEqual((await patch(payload)).json(), saved.json());
     assert.deepEqual(
       (await app.inject({ url: `/api/runs/${scene.runId}`, cookies })).json(),
-      scene,
+      { ...scene, character: { ...scene.character, name: payload.name } },
     );
     assert.equal(
       (await app.inject({ url: "/api/characters", cookies })).json()[0]
@@ -275,6 +275,75 @@ test("character profile edits persist without changing numbers, templates or run
     );
   } finally {
     await app.close();
+  }
+});
+
+test("renames cover legacy created cards and reused cards without touching other runs or history", async () => {
+  const dir = mkdtempSync(join(tmpdir(), "coc-renames-"));
+  const databasePath = join(dir, "game.sqlite");
+  let app = await buildApp({ databasePath, dice: (min) => min });
+  try {
+    const cookies = await account(app, "改名恢复测试");
+    const original = await create(app, cookies);
+    const card = (
+      await app.inject({ url: "/api/characters", cookies })
+    ).json()[0];
+    const reused = await app.inject({
+      method: "POST",
+      url: "/api/runs",
+      headers,
+      cookies,
+      payload: {
+        storyId: "collection-fixture",
+        characterId: card.id,
+        name: "复用的旧名",
+      },
+    });
+    assert.equal(reused.statusCode, 201, reused.body);
+    const other = await create(app, cookies);
+    const db = new DatabaseSync(databasePath);
+    const raw = db
+      .prepare("SELECT state FROM runs WHERE id=?")
+      .get(original.runId)!;
+    const legacy = JSON.parse(raw.state as string);
+    delete legacy.savedCharacterId;
+    db.prepare("UPDATE runs SET state=? WHERE id=?").run(
+      JSON.stringify(legacy),
+      original.runId,
+    );
+    db.close();
+    const rename = await app.inject({
+      method: "PATCH",
+      url: `/api/characters/${card.id}`,
+      headers,
+      cookies,
+      payload: { name: "同步后的姓名", profile: { notes: "只属于档案的笔记" } },
+    });
+    assert.equal(rename.statusCode, 200, rename.body);
+    await app.close();
+    app = await buildApp({ databasePath, dice: (min) => min });
+    for (const before of [original, reused.json()]) {
+      const current = (
+        await app.inject({ url: `/api/runs/${before.runId}`, cookies })
+      ).json();
+      assert.deepEqual(current, {
+        ...before,
+        character: { ...before.character, name: "同步后的姓名" },
+      });
+      const continued = await action(app, cookies, current, "talk");
+      assert.equal(continued.character.name, "同步后的姓名");
+      const history = (
+        await app.inject({ url: `/api/runs/${before.runId}/history`, cookies })
+      ).json();
+      assert.deepEqual(history.frames[0].scene, before);
+    }
+    assert.deepEqual(
+      (await app.inject({ url: `/api/runs/${other.runId}`, cookies })).json(),
+      other,
+    );
+  } finally {
+    await app.close();
+    rmSync(dir, { recursive: true, force: true });
   }
 });
 

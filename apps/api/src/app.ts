@@ -401,6 +401,39 @@ export async function buildApp(
         db.prepare(
           "UPDATE character_templates SET character=? WHERE id=? AND user_id=?",
         ).run(JSON.stringify(character), request.params.id, owner.id);
+        // Preserve historical frames and each run's independent game values.
+        for (const run of db
+          .prepare("SELECT id,state FROM runs WHERE user_id=?")
+          .all(owner.id)) {
+          const state = JSON.parse(run.state as string) as RunState;
+          if (
+            (state.savedCharacterId ?? state.createdCharacterId) !==
+            request.params.id
+          )
+            continue;
+          state.savedCharacterId = request.params.id;
+          state.character.name = data.name;
+          db.prepare("UPDATE runs SET state=? WHERE id=? AND user_id=?").run(
+            JSON.stringify(state),
+            run.id,
+            owner.id,
+          );
+          const pending = db
+            .prepare(
+              "SELECT before_state FROM shop_check_windows WHERE run_id=?",
+            )
+            .get(run.id);
+          if (pending) {
+            const before = JSON.parse(
+              pending.before_state as string,
+            ) as RunState;
+            before.savedCharacterId = request.params.id;
+            before.character.name = data.name;
+            db.prepare(
+              "UPDATE shop_check_windows SET before_state=? WHERE run_id=?",
+            ).run(JSON.stringify(before), run.id);
+          }
+        }
         return { id: request.params.id, character };
       });
     },
@@ -546,6 +579,7 @@ export async function buildApp(
       const savedCharacterId = data.characterId ?? randomUUID();
       const state = initialState(story, character, options.dice),
         view = project(story, state, id, 0);
+      state.savedCharacterId = savedCharacterId;
       if (!data.characterId) state.createdCharacterId = savedCharacterId;
       db.prepare("INSERT INTO runs VALUES(?,?,?,?,?,?,?,?,?,?)").run(
         id,

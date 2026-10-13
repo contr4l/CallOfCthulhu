@@ -229,6 +229,20 @@ test("reroll restores pre-check consequences, retains original dice, gates rewar
     s = first.body.scene;
     assert.equal(s.character.hp, 8);
     assert.equal(first.body.check!.roll, 38);
+    const renameDb = openDatabase(t.databasePath);
+    const linked = JSON.parse(
+      renameDb.prepare("SELECT state FROM runs WHERE id=?").get(s.runId)!
+        .state as string,
+    ).savedCharacterId;
+    renameDb.close();
+    const renamed = await t.app.inject({
+      method: "PATCH",
+      url: `/api/characters/${linked}`,
+      headers,
+      cookies: t.cookies,
+      payload: { name: "重掷后也保留的新名", profile: {} },
+    });
+    assert.equal(renamed.statusCode, 200, renamed.body);
     await t.restart();
     assert.equal((await t.read()).inventory.reroll, 1);
     const pending = await t.app.inject({
@@ -236,6 +250,7 @@ test("reroll restores pre-check consequences, retains original dice, gates rewar
       cookies: t.cookies,
     });
     assert.equal(pending.json().before.character.hp, 12);
+    assert.equal(pending.json().before.character.name, "重掷后也保留的新名");
     assert.equal(
       (
         await t.post(
@@ -255,6 +270,7 @@ test("reroll restores pre-check consequences, retains original dice, gates rewar
     t.setDraws([2, 1]);
     const retry = await t.command(s, "shop-reroll");
     s = retry.body.scene;
+    assert.equal(s.character.name, "重掷后也保留的新名");
     assert.equal(retry.body.check!.roll, 12);
     assert.equal(s.character.hp, 11);
     assert.equal((await t.read()).inventory.reroll, 0);
