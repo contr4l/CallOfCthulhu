@@ -162,7 +162,7 @@ export function AchievementLibrary({
                   <p>{convert(entry.description)}</p>
                   {entry.unlockedAt && (
                     <time dateTime={entry.unlockedAt}>
-                      {convert("首次解锁")} ·{" "}
+                      {convert("解锁于")} ·{" "}
                       {new Date(entry.unlockedAt).toLocaleDateString("zh-CN")}
                     </time>
                   )}

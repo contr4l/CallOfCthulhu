@@ -65,8 +65,8 @@ export function ShopLibrary({
       sessionStorage.removeItem(key);
       setNotice(
         body.itemId === "unlock-static"
-          ? "《静躁独行》已永久解锁，可从剧本库开始。"
-          : "购买成功，道具已存入账户。",
+          ? "《静躁独行》已解锁。"
+          : "购买成功。",
       );
     } catch (e) {
       if (e instanceof ApiError && e.status < 500) {

@@ -266,9 +266,6 @@ export function DiceWorkbench({
   return (
     <section className="dice-workbench">
       <h2>骰盘</h2>
-      <p className="page-description">
-        输入任意面数，查看每颗骰子的点数与总和。
-      </p>
       <form
         className="dice-config"
         onSubmit={(e) => {

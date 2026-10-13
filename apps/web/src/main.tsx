@@ -742,7 +742,6 @@ function App() {
                 <small className="brand-version" aria-label="游戏版本">
                   v{gameVersion}
                 </small>
-                <small>THE EMBER ARCHIVE</small>
               </span>
             </a>
             <div className="sidebar-label">调查档案</div>
@@ -850,7 +849,6 @@ function App() {
               <div className="page-title">
                 <div>
                   <h1>独行调查</h1>
-                  <p>选择剧本，开始调查。</p>
                 </div>
               </div>
               {featured && (
@@ -909,9 +907,7 @@ function App() {
                       {active[0].chapter}
                     </span>
                   </div>
-                  <span>
-                    继续调查 <ArrowRight size={16} />
-                  </span>
+                  <ArrowRight size={16} />
                 </button>
               )}
               <div className="collection-header">
@@ -924,7 +920,7 @@ function App() {
                 <label className="search">
                   <Search size={16} />
                   <input
-                    placeholder="寻找一段故事"
+                    placeholder="搜索剧本"
                     value={search}
                     onChange={(e) => setSearch(e.target.value)}
                     aria-label="搜索剧本"
@@ -939,12 +935,6 @@ function App() {
                   >
                     <div className="card-image">
                       <img src={s.cover} alt={s.title} />
-                      <span className="card-file">
-                        档案{" "}
-                        {String(
-                          stories.findIndex((story) => story.id === s.id) + 1,
-                        ).padStart(3, "0")}
-                      </span>
                       <span className="card-type">
                         {AVAILABLE_STORY_IDS.has(s.id) &&
                         (s.id !== "alone-against-static" ||
@@ -999,11 +989,7 @@ function App() {
                     <div className="card-body">
                       <span className="card-subtitle">{s.subtitle}</span>
                       <h3>{s.title}</h3>
-                      <p>
-                        {s.id === "alone-against-flames"
-                          ? "旅途中的一次抛锚，让你在烬头村留宿。村民正在准备一场庆典。"
-                          : s.description}
-                      </p>
+                      <p>{s.description}</p>
                       {s.id === "alone-against-static" &&
                         !shop?.storyUnlock?.unlocked && (
                           <p>
@@ -1032,9 +1018,6 @@ function App() {
               {filtered.length === 0 && (
                 <div className="empty-state">暂时没有匹配的剧本。</div>
               )}
-              <footer>
-                <span>余烬档案</span>
-              </footer>
             </main>
           ) : page === "play" && scene ? (
             <main
@@ -1185,7 +1168,7 @@ function App() {
                         className="primary-button"
                         onClick={() => go("library")}
                       >
-                        开启另一段旅程 <ArrowRight size={16} />
+                        回到剧本馆 <ArrowRight size={16} />
                       </button>
                     )}
                     <div className="narrative-bottom">
@@ -1200,6 +1183,26 @@ function App() {
                 </div>
                 <aside className="character-panel">
                   <CharacterCard character={scene.character} compact />
+                  <CampaignState
+                    calendar={scene.calendar}
+                    party={scene.party}
+                  />
+                  {scene.fear && <FearRecord fear={scene.fear} />}
+                  {scene.frostCombat && <section className="record-sheet" aria-label="战斗队列">
+                    <h3>战斗 · 第 {scene.frostCombat.round} 回合</h3>
+                    {scene.frostCombat.damageInput ? <p>分配本次伤害后继续。</p> : <p>
+                      当前行动：{scene.frostCombat.phase === "party"
+                        ? scene.frostCombat.party.find(actor => actor.id === scene.frostCombat!.currentActorId)?.name
+                        : scene.frostCombat.enemies.find(enemy => enemy.id === scene.frostCombat!.currentEnemyId)?.name}
+                    </p>}
+                    {scene.frostCombat.enemies.map(enemy => <p key={enemy.id}>{enemy.name} · 生命 {enemy.hp}/{enemy.maxHp}</p>)}
+                  </section>}
+                  {!!scene.playerNotes?.length && <section className="record-sheet player-notes" aria-label="我的笔记">
+                    <h3>我的笔记</h3>
+                    {scene.playerNotes.map(note => <details key={note.key}>
+                      <summary>{note.label}</summary><p style={{ whiteSpace: "pre-wrap", overflowWrap: "anywhere" }}>{note.text}</p>
+                    </details>)}
+                  </section>}
                   {!!(scene.registrations?.length || scene.records?.length) && (
                     <section className="record-sheet">
                       <h3>本局记录表</h3>
@@ -1341,9 +1344,7 @@ function App() {
               ) : runs.length ? (
                 <>
                   <div className="run-tabs">
-                    {page === "runs"
-                      ? `进行中 ${active.length} · 已结束 ${ended.length}`
-                      : `共 ${runs.length} 份经历档案`}
+                    {`进行中 ${active.length} · 已结束 ${ended.length}`}
                   </div>
                   <div className="run-list">
                     {runs.map((r) => (
@@ -1397,8 +1398,8 @@ function App() {
               ) : (
                 <div className="empty-state">
                   <Compass size={32} />
-                  <h2>你的第一份档案，尚待书写</h2>
-                  <p>挑选一份剧本，让故事从这里开始。</p>
+                  <h2>还没有调查记录</h2>
+                  <p>从剧本馆开始第一段调查。</p>
                   <button
                     className="primary-button"
                     onClick={() => go("library")}
@@ -1415,7 +1416,6 @@ function App() {
             title={register ? "创建你的档案室" : "欢迎回到档案室"}
             onClose={() => setAuth(false)}
           >
-            <p className="modal-intro">让每一次选择，都有迹可循。</p>
             <form onSubmit={(e) => void authenticate(e)}>
               <label>
                 用户名

@@ -68,7 +68,7 @@ export function SetupModal({
             name="name"
             value={name}
             onChange={(e) => setName(e.target.value)}
-            placeholder="你希望被如何记住"
+            placeholder="输入姓名"
             required
             maxLength={24}
           />
