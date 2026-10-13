@@ -1,0 +1,30 @@
+{
+  "id": "460",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "460:p0",
+      "kind": "heading",
+      "text": "460",
+      "sourceLocation": "pdf:visual:[[81,30]]"
+    },
+    {
+      "id": "460:p1",
+      "kind": "body",
+      "text": "Your party’s misgivings are contagious, and your inspirational \ntalk falls on discouraged ears. You call an expedition meeting, \nand it decides the best thing to do is to build a raft and drift \nback downriver to civilization.",
+      "sourceLocation": "pdf:visual:[[81,31],[81,32],[81,33],[81,34]]"
+    },
+    {
+      "id": "460:p2",
+      "kind": "body",
+      "text": "Go to 51.",
+      "sourceLocation": "pdf:visual:[[81,35]]"
+    },
+    {
+      "id": "460:p3",
+      "kind": "trace",
+      "text": "(458)",
+      "sourceLocation": "pdf:visual:[[81,36]]"
+    }
+  ]
+}

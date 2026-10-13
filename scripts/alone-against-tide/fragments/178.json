@@ -1,0 +1,54 @@
+{
+  "id": "178",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "178:p0",
+      "kind": "heading",
+      "text": "178\n",
+      "sourceLocation": "pdf:spans:[[56,3250,3254]]"
+    },
+    {
+      "id": "178:p1",
+      "kind": "body",
+      "text": "You fix your eyes first on the strange altar, and then on the stack \nof notes. Rifling through them, you are able to piece together \nthe characters written in dried blood on the altar’s side: “Bokrug \nbrings DOOM to Sarnath.” As you look over the altar, you also \nnotice smaller letters—this time written in ink—hidden just \nbeneath the larger bloody characters. The smaller text appears \nto be some sort of chant: “Y’hahyar nog nglui ah, Bokrug.” The \nwords stick in your mind.\n",
+      "sourceLocation": "pdf:spans:[[56,3254,3323],[56,3323,3387],[56,3387,3455],[56,3455,3518],[56,3518,3579],[56,3579,3643],[56,3643,3707],[56,3707,3733]]"
+    },
+    {
+      "id": "178:p2",
+      "kind": "body",
+      "text": "As you begin stuffing the religious object into your sack, you \nnote a similar script on the other side of the altar, written in \nfresh blood. Most of the characters are the same and you once \nagain consult the notes to finish the translation. You decode the \nmissing word to find the text now reads: “Bokrug brings DOOM \nto Esbury.”\n",
+      "sourceLocation": "pdf:spans:[[56,3733,3797],[56,3797,3863],[56,3863,3926],[56,3926,3993],[56,3993,4055],[56,4055,4067]]"
+    },
+    {
+      "id": "178:p3",
+      "kind": "body",
+      "text": "Somewhat unnerved, you finish shoving the altar into your \nbag, knowing that it’s evidence of some sort of cult practice or \nderanged religious belief.\n",
+      "sourceLocation": "pdf:spans:[[56,4067,4126],[56,4126,4192],[56,4192,4219]]"
+    },
+    {
+      "id": "178:p4",
+      "kind": "body",
+      "text": "The thought does not sit well with you.\n",
+      "sourceLocation": "pdf:spans:[[56,4219,4259]]"
+    },
+    {
+      "id": "178:p5",
+      "kind": "body",
+      "text": "• You have learned a ritual chant. Note it on your investigator sheet \nas “Ritual Chant: Entry 235.” When prompted, you may choose to \nuse the chant. If you do so, go to 235.\n",
+      "sourceLocation": "pdf:spans:[[56,4259,4330],[56,4330,4394],[56,4394,4434]]"
+    },
+    {
+      "id": "178:p6",
+      "kind": "body",
+      "text": "• Go to 210.\n",
+      "sourceLocation": "pdf:spans:[[56,4434,4447]]"
+    },
+    {
+      "id": "178:p7",
+      "kind": "body",
+      "text": "(230)",
+      "sourceLocation": "pdf:spans:[[56,4447,4452]]"
+    }
+  ]
+}

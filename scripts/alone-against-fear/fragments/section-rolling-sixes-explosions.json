@@ -1,0 +1,74 @@
+{
+  "id": "section-rolling-sixes-explosions",
+  "paragraphs": [
+    {
+      "id": "section-rolling-sixes-explosions:p0000",
+      "kind": "body",
+      "text": "Rolling Sixes - explosions\n",
+      "sourceLocation": "pdf:spans:[[31,1539,1566]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0001",
+      "kind": "body",
+      "text": "When you roll a natural 6 on an\n",
+      "sourceLocation": "pdf:spans:[[31,1566,1598]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0002",
+      "kind": "body",
+      "text": "Attack die (ignore any modifiers: if\n",
+      "sourceLocation": "pdf:spans:[[31,1598,1635]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0003",
+      "kind": "body",
+      "text": "the die shows a 6, that’s a natural\n",
+      "sourceLocation": "pdf:spans:[[31,1635,1671]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0004",
+      "kind": "body",
+      "text": "6), roll another d6 and add it to the\n",
+      "sourceLocation": "pdf:spans:[[31,1671,1709]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0005",
+      "kind": "body",
+      "text": "total. If you roll another natural 6,\n",
+      "sourceLocation": "pdf:spans:[[31,1709,1747]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0006",
+      "kind": "body",
+      "text": "add another d6, and so on. You\n",
+      "sourceLocation": "pdf:spans:[[31,1747,1778]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0007",
+      "kind": "body",
+      "text": "could roll ANY number on a die if\n",
+      "sourceLocation": "pdf:spans:[[31,1778,1812]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0008",
+      "kind": "body",
+      "text": "you are lucky enough. This is called\n",
+      "sourceLocation": "pdf:spans:[[31,1812,1849]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0009",
+      "kind": "body",
+      "text": "“exploding dice roll” or simply\n",
+      "sourceLocation": "pdf:spans:[[31,1849,1881]]"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p0010",
+      "kind": "body",
+      "text": "“explosion”.",
+      "sourceLocation": "pdf:spans:[[31,1881,1893]]"
+    }
+  ],
+  "sourcePages": [
+    31
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "unique-event-027",
+  "paragraphs": [
+    {
+      "id": "unique-event-027:p0000",
+      "kind": "body",
+      "text": "#27 - The kid gets in trouble\n",
+      "sourceLocation": "pdf:spans:[[87,240,270]]"
+    },
+    {
+      "id": "unique-event-027:p0001",
+      "kind": "body",
+      "text": "The kid walks into a dark alley, a\n",
+      "sourceLocation": "pdf:spans:[[87,270,305]]"
+    },
+    {
+      "id": "unique-event-027:p0002",
+      "kind": "body",
+      "text": "few steps from you, and does not\n",
+      "sourceLocation": "pdf:spans:[[87,305,338]]"
+    },
+    {
+      "id": "unique-event-027:p0003",
+      "kind": "body",
+      "text": "return. You either ignore his\n",
+      "sourceLocation": "pdf:spans:[[87,338,368]]"
+    },
+    {
+      "id": "unique-event-027:p0004",
+      "kind": "body",
+      "text": "disappearance (lose 1 Sanity if you\n",
+      "sourceLocation": "pdf:spans:[[87,368,404]]"
+    },
+    {
+      "id": "unique-event-027:p0005",
+      "kind": "body",
+      "text": "do so) or go after him (go to event\n",
+      "sourceLocation": "pdf:spans:[[87,404,440]]"
+    },
+    {
+      "id": "unique-event-027:p0006",
+      "kind": "body",
+      "text": "#30).\n",
+      "sourceLocation": "pdf:spans:[[87,440,446]]"
+    }
+  ],
+  "sourcePages": [
+    87
+  ]
+}

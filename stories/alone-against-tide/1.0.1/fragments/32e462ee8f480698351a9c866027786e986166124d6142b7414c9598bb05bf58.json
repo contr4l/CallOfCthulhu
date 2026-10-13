@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "149"
+  ],
+  "text": [
+    "你试着开一扇门，发现门锁着。你沿着一排房子逐一查看，重复尝试好几次，发现它们都同样锁得严严实实。",
+    "你无功而返，决定回旅馆整理思绪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 149",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 149",
+      "text": [
+        "You try a door and find it locked. You move down the line of buildings and repeat this process several times. They are all similarly secured.",
+        "Defeated, you decide to head back to the hotel to gather your thoughts."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "57",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "57:p0",
+      "kind": "heading",
+      "text": "57",
+      "sourceLocation": "pdf:visual:[[20,46]]"
+    },
+    {
+      "id": "57:p1",
+      "kind": "body",
+      "text": "The shots throw the sasquatches into a panic. They respond \nwith piercing shrieks and then duck out of sight. Your party \nscrambles past and leaves the valley of prehistoric survivals.",
+      "sourceLocation": "pdf:visual:[[20,47],[20,48],[20,49]]"
+    },
+    {
+      "id": "57:p2",
+      "kind": "body",
+      "text": "Go to 54.",
+      "sourceLocation": "pdf:visual:[[20,50]]"
+    },
+    {
+      "id": "57:p3",
+      "kind": "trace",
+      "text": "(539)",
+      "sourceLocation": "pdf:visual:[[20,51]]"
+    }
+  ]
+}

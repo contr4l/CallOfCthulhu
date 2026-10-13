@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "235"
+  ],
+  "text": [
+    "仪式咒文的词句强行涌入你的脑海。你茫然地望着湖面上涨的水映出的月亮与繁星。你的嘴唇仿佛被别人控制着，不由自主地吐出那些陌生词句的怪异音节。“Y’hahyar nog nglui ah, Bokrug.”你用缓慢单调的声音念诵，重复这句话十遍后才停下来。",
+    "念完之后，你感到莫名疲惫，于是坐在钟楼的石地上，俯瞰小镇。水位已经涨得很高，淹过了埃斯伯里许多建筑的顶部；你所在的位置是仍露出水面的少数地标之一。你确信这里已经遭受严重破坏。",
+    "至少现在水面平静了，似乎已恢复往日的安宁。那非自然的绿色雾气似乎也正在消散。雾气仍在各处徘徊，但借着渐盈凸月的光，你看见它开始变淡。",
+    "你深吸一口气，思索接下来会发生什么。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 235",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 235",
+      "text": [
+        "The words of the ritual chant force themselves into your mind. You stare blankly at the reflection of the moon and stars upon the rising waters of the lake. Your lips move as if controlled by someone else, automatically uttering the strange syllables of the unfamiliar words. “Y’hahyar nog nglui ah, Bokrug.” You recite the words in a slow, monotonous voice, speaking the phrase ten times before you stop.",
+        "You feel strangely tired after this, so you sit on the belfry’s stones and look out over the town. The water has risen so high, over the tops of many of the buildings in Esbury, and you’re positioned on one of the few landmarks still above water. You’re certain that much damage has been done here.",
+        "At least the water is still and placid now, apparently returned to its normally peaceful state. The unnatural green mist seems to be to dissipating as well. It still lingers here and there, but by the light of the gibbous moon, you can see the fog starting to thin out.",
+        "You take a deep breath, pondering what is to come next."
+      ]
+    }
+  }
+}

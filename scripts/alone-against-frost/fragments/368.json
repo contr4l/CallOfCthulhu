@@ -1,0 +1,30 @@
+{
+  "id": "368",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "368:p0",
+      "kind": "heading",
+      "text": "368",
+      "sourceLocation": "pdf:visual:[[67,35]]"
+    },
+    {
+      "id": "368:p1",
+      "kind": "body",
+      "text": "Norman disappears into the woods. The bird is after you. In the \nswampy ground you can’t achieve full speed, but neither can it.",
+      "sourceLocation": "pdf:visual:[[67,36],[67,37]]"
+    },
+    {
+      "id": "368:p2",
+      "kind": "body",
+      "text": "Make a Hard CON roll: if you succeed, the bird loses interest, go \nto 365; if not, it catches up, and that is the end of the Nadelmann \nExpedition. THE END.",
+      "sourceLocation": "pdf:visual:[[67,38],[67,39],[67,40]]"
+    },
+    {
+      "id": "368:p3",
+      "kind": "trace",
+      "text": "(367)",
+      "sourceLocation": "pdf:visual:[[67,41]]"
+    }
+  ]
+}

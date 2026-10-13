@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "26"
+  ],
+  "text": [
+    "遗产拍卖会看起来很有趣，不过今晚有个屋顶遮风挡雨，会让你安心些。你从人群中找人询问哪里能租到房间。对方告诉你，往镇里走几个街区，有一家价格适中的旅馆，离埃斯伯里警察局不过几栋房子。",
+    "你从凉爽的夜风中走进旅馆，迎面感受到熊熊炉火的热气。小小的前厅闷热而狭窄，大部分空间被一张宽大的服务柜台占据。柜台后坐着一个瘦削得像根细枝的女人。她瞪大眼睛看向你，问了你的名字，然后报出一个相当公道的房价。办妥手续后，你提着薄公文包上楼，收拾一番，在房间里过夜。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 26",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 26",
+      "text": [
+        "While the estate sale seems interesting, you would feel more secure with a roof over your head for the night. You pull someone out of the crowd and inquire as to where you can find a room to rent. You’re directed a few blocks into town to a modestly priced hotel a few buildings down from Esbury’s police station.",
+        "As you enter in from the cool night air, you’re greeted by the heat of a roaring fire. The small front room feels stuffy and cramped. The bulk of the space is dominated by the large service counter, behind which sits a wiry-looking wisp of a woman. She turns her wide eyes to you and asks your name, then quotes you a price that’s more than fair. With the transaction complete, you haul your thin briefcase up the stairs, unpack it, and settle into your room for the night."
+      ]
+    }
+  }
+}

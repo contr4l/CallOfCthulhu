@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "88"
+  ],
+  "text": [
+    "你转身折返舞厅入口。门边那名警官吸引了你的注意，让你挪不开眼。他气势逼人，目光锐利地盯着你，看着你朝他走去。",
+    "你走近到能听清他说话的距离时，他把手搭在警棍上，清了清嗓子。“我真希望今晚不会出什么乱子，公民。我可不想看到有人受伤。”他的手始终没有离开警棍。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 88",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 88",
+      "text": [
+        "You turn around and backtrack toward the entrance to the ballroom. Something about the officer by the door catches your attention and holds it. He gives off a commanding presence and his eyes bore into you intensely as you make your way over to him.",
+        "As you move within earshot, he rests his hand on his baton and clears his throat. “I really hope there isn’t going to be any sort of problem, citizen. I wouldn’t want to see anyone getting hurt tonight.” His hand does not move from his baton."
+      ]
+    }
+  }
+}

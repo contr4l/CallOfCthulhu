@@ -1,0 +1,30 @@
+{
+  "id": "202",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "202:p0",
+      "kind": "heading",
+      "text": "202",
+      "sourceLocation": "pdf:visual:[[43,38]]"
+    },
+    {
+      "id": "202:p1",
+      "kind": "body",
+      "text": "You hurry from cover and put the last, mortally wounded man \nout of his misery. The others cut Bernard free.",
+      "sourceLocation": "pdf:visual:[[43,39],[43,40]]"
+    },
+    {
+      "id": "202:p2",
+      "kind": "body",
+      "text": "Go to 131.",
+      "sourceLocation": "pdf:visual:[[43,41]]"
+    },
+    {
+      "id": "202:p3",
+      "kind": "trace",
+      "text": "(135)",
+      "sourceLocation": "pdf:visual:[[43,42]]"
+    }
+  ]
+}

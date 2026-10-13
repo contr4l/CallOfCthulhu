@@ -1,0 +1,146 @@
+{
+  "id": "section-farm-table",
+  "paragraphs": [
+    {
+      "id": "section-farm-table:p0000",
+      "kind": "body",
+      "text": "farm table (d6)\n",
+      "sourceLocation": "pdf:spans:[[48,22,38]]"
+    },
+    {
+      "id": "section-farm-table:p0001",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[48,38,40]]"
+    },
+    {
+      "id": "section-farm-table:p0002",
+      "kind": "body",
+      "text": "Creepy abandoned farm. If you investigate, play unique event #5.\n",
+      "sourceLocation": "pdf:spans:[[48,40,105]]"
+    },
+    {
+      "id": "section-farm-table:p0003",
+      "kind": "body",
+      "text": "If you already played #5 or do not want to investigate, keep moving\n",
+      "sourceLocation": "pdf:spans:[[48,105,173]]"
+    },
+    {
+      "id": "section-farm-table:p0004",
+      "kind": "body",
+      "text": "through town.\n",
+      "sourceLocation": "pdf:spans:[[48,173,187]]"
+    },
+    {
+      "id": "section-farm-table:p0005",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[48,187,189]]"
+    },
+    {
+      "id": "section-farm-table:p0006",
+      "kind": "body",
+      "text": "Abandoned farm. There is a 2 in 6 chance of a random encounter\n",
+      "sourceLocation": "pdf:spans:[[48,189,252]]"
+    },
+    {
+      "id": "section-farm-table:p0007",
+      "kind": "body",
+      "text": "from the Undead, Possessed or Witch Children table (your choice).\n",
+      "sourceLocation": "pdf:spans:[[48,252,318]]"
+    },
+    {
+      "id": "section-farm-table:p0008",
+      "kind": "body",
+      "text": "In any case, you find d6 Food OR you may perform a Search roll\n",
+      "sourceLocation": "pdf:spans:[[48,318,381]]"
+    },
+    {
+      "id": "section-farm-table:p0009",
+      "kind": "body",
+      "text": "(your choice), gaining one of the following on a success: 1 pitchfork,\n",
+      "sourceLocation": "pdf:spans:[[48,381,452]]"
+    },
+    {
+      "id": "section-farm-table:p0010",
+      "kind": "body",
+      "text": "1 axe, d6 doses of salt, 1 holy book, d3 shotgun shells, 1 Clue.\n",
+      "sourceLocation": "pdf:spans:[[48,452,517]]"
+    },
+    {
+      "id": "section-farm-table:p0011",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[48,517,519]]"
+    },
+    {
+      "id": "section-farm-table:p0012",
+      "kind": "body",
+      "text": "Friendly farmers. You may heal up to 2 Life and 1 Sanity. You also\n",
+      "sourceLocation": "pdf:spans:[[48,519,586]]"
+    },
+    {
+      "id": "section-farm-table:p0013",
+      "kind": "body",
+      "text": "gain 2 or d3 (your choice) Food OR 1 roll on the Random Objects or\n",
+      "sourceLocation": "pdf:spans:[[48,586,653]]"
+    },
+    {
+      "id": "section-farm-table:p0014",
+      "kind": "body",
+      "text": "on the Useful Stuff tables (your choice). As you leave, the farm is\n",
+      "sourceLocation": "pdf:spans:[[48,653,721]]"
+    },
+    {
+      "id": "section-farm-table:p0015",
+      "kind": "body",
+      "text": "attacked by an unknown foe. You may choose to defend the farmers\n",
+      "sourceLocation": "pdf:spans:[[48,721,786]]"
+    },
+    {
+      "id": "section-farm-table:p0016",
+      "kind": "body",
+      "text": "and fight the creatures, or leave. If you remain and defeat the\n",
+      "sourceLocation": "pdf:spans:[[48,786,850]]"
+    },
+    {
+      "id": "section-farm-table:p0017",
+      "kind": "body",
+      "text": "creature/s, gain 1 XP. If you leave, lose 1 Sanity. If you remain to\n",
+      "sourceLocation": "pdf:spans:[[48,850,919]]"
+    },
+    {
+      "id": "section-farm-table:p0018",
+      "kind": "body",
+      "text": "fight, roll d6 to determine the nature of the attackers: 1-2 Undead,\n",
+      "sourceLocation": "pdf:spans:[[48,919,988]]"
+    },
+    {
+      "id": "section-farm-table:p0019",
+      "kind": "body",
+      "text": "3 Slasher, 4 Possessed, 5 Beast, 6 Demonic horror, then roll on the\n",
+      "sourceLocation": "pdf:spans:[[48,988,1056]]"
+    },
+    {
+      "id": "section-farm-table:p0020",
+      "kind": "body",
+      "text": "appropriate sub-table.\n",
+      "sourceLocation": "pdf:spans:[[48,1056,1079]]"
+    },
+    {
+      "id": "section-farm-table:p0021",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[48,1079,1081]]"
+    },
+    {
+      "id": "section-farm-table:p0022",
+      "kind": "body",
+      "text": "Cries for help from a farm. If you want to help, play Unique event\n",
+      "sourceLocation": "pdf:spans:[[48,1081,1148]]"
+    }
+  ],
+  "sourcePages": [
+    48
+  ]
+}

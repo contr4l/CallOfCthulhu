@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "216"
+  ],
+  "text": [
+    "你设法让那人冷静下来，告诉他至少可以有片刻时间解释发生了什么。他深吸了几口气，终于坦白道：“听着，我不知道这到底是怎么回事。约书亚叫我们来这里，可没说过会这样！不管发生了什么，都不是自然现象！情况开始失控后，我就拿上能找到的看起来最值钱的东西，跑了。”他指了指自己搬着的那座镶嵌宝石的祭坛。",
+    "你弯腰查看，发现侧面潦草地刻着一些字。文字极其奇怪陌生，不过你可以试着翻译。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 216",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 216",
+      "text": [
+        "You manage to calm the man, assuring him that he has at least a moment to explain what’s going on. He takes a couple of deep breaths before coming clean. “Look, I don’t know what the hell is happening. Joshua called us out here but he didn’t say anything about this! Whatever’s going on, it isn’t natural! Once things started going south, I grabbed the most valuable-looking things I could find, and I ran.” He gestures down to the gemstone-studded altar he’s lugging around.",
+        "You stoop down to inspect it, and notice letters scrawled across the side. The writing is incredibly strange and unfamiliar but you can attempt to translate it."
+      ]
+    }
+  }
+}

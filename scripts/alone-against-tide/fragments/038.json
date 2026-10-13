@@ -1,0 +1,30 @@
+{
+  "id": "38",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "38:p0",
+      "kind": "heading",
+      "text": "38\n",
+      "sourceLocation": "pdf:spans:[[19,662,665]]"
+    },
+    {
+      "id": "38:p1",
+      "kind": "body",
+      "text": "You muster your patience and wait for Mr. Warren to finish \ncomparing the proposed bids for the strange clay cylinders. \nThankfully, your patience pays off, and you soon find them in \nyour possession.\n",
+      "sourceLocation": "pdf:spans:[[19,665,725],[19,725,786],[19,786,849],[19,849,866]]"
+    },
+    {
+      "id": "38:p2",
+      "kind": "body",
+      "text": "• Reduce your Credit Rating by 5 percentiles. Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[19,866,922]]"
+    },
+    {
+      "id": "38:p3",
+      "kind": "body",
+      "text": "(24)\n",
+      "sourceLocation": "pdf:spans:[[19,922,927]]"
+    }
+  ]
+}

@@ -1,0 +1,8071 @@
+{
+  "format": "coc-tide-rule-review@1",
+  "sourceGraphSha256": "bd5939d08894e311615adad93cb074ea476a8a78510ebe2c37efe44822cfb876",
+  "paragraphs": [
+    {
+      "sourceId": "1",
+      "paragraphId": "1:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "1",
+      "paragraphId": "1:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "1",
+      "paragraphId": "1:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "1",
+      "paragraphId": "1:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "2",
+      "paragraphId": "2:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "2",
+      "paragraphId": "2:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "2",
+      "paragraphId": "2:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "2",
+      "paragraphId": "2:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "2",
+      "paragraphId": "2:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "2",
+      "paragraphId": "2:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "3",
+      "paragraphId": "3:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "4",
+      "paragraphId": "4:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "5",
+      "paragraphId": "5:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "6",
+      "paragraphId": "6:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "6",
+      "paragraphId": "6:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "6",
+      "paragraphId": "6:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "6",
+      "paragraphId": "6:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "7",
+      "paragraphId": "7:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "8",
+      "paragraphId": "8:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "8",
+      "paragraphId": "8:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "8",
+      "paragraphId": "8:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "8",
+      "paragraphId": "8:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "8",
+      "paragraphId": "8:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "9",
+      "paragraphId": "9:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "9",
+      "paragraphId": "9:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "9",
+      "paragraphId": "9:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "9",
+      "paragraphId": "9:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "9",
+      "paragraphId": "9:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "10",
+      "paragraphId": "10:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "11",
+      "paragraphId": "11:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "12",
+      "paragraphId": "12:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "12",
+      "paragraphId": "12:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "12",
+      "paragraphId": "12:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "12",
+      "paragraphId": "12:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "12",
+      "paragraphId": "12:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "12",
+      "paragraphId": "12:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "13",
+      "paragraphId": "13:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "14",
+      "paragraphId": "14:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "14",
+      "paragraphId": "14:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "14",
+      "paragraphId": "14:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "14",
+      "paragraphId": "14:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p10",
+      "role": "rule"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p11",
+      "role": "rule"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p12",
+      "role": "rule"
+    },
+    {
+      "sourceId": "15",
+      "paragraphId": "15:p13",
+      "role": "layout"
+    },
+    {
+      "sourceId": "16",
+      "paragraphId": "16:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "16",
+      "paragraphId": "16:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "16",
+      "paragraphId": "16:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "16",
+      "paragraphId": "16:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "16",
+      "paragraphId": "16:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "17",
+      "paragraphId": "17:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "18",
+      "paragraphId": "18:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "19",
+      "paragraphId": "19:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "19",
+      "paragraphId": "19:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "19",
+      "paragraphId": "19:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "19",
+      "paragraphId": "19:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "20",
+      "paragraphId": "20:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "21",
+      "paragraphId": "21:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "22",
+      "paragraphId": "22:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "23",
+      "paragraphId": "23:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "24",
+      "paragraphId": "24:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "24",
+      "paragraphId": "24:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "24",
+      "paragraphId": "24:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "24",
+      "paragraphId": "24:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "25",
+      "paragraphId": "25:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "25",
+      "paragraphId": "25:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "25",
+      "paragraphId": "25:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "25",
+      "paragraphId": "25:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "25",
+      "paragraphId": "25:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "26",
+      "paragraphId": "26:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "26",
+      "paragraphId": "26:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "26",
+      "paragraphId": "26:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "26",
+      "paragraphId": "26:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "26",
+      "paragraphId": "26:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "27",
+      "paragraphId": "27:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "28",
+      "paragraphId": "28:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "28",
+      "paragraphId": "28:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "28",
+      "paragraphId": "28:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "28",
+      "paragraphId": "28:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "28",
+      "paragraphId": "28:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "29",
+      "paragraphId": "29:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "29",
+      "paragraphId": "29:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "29",
+      "paragraphId": "29:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "29",
+      "paragraphId": "29:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "30",
+      "paragraphId": "30:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "30",
+      "paragraphId": "30:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "30",
+      "paragraphId": "30:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "30",
+      "paragraphId": "30:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "31",
+      "paragraphId": "31:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "32",
+      "paragraphId": "32:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "33",
+      "paragraphId": "33:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "34",
+      "paragraphId": "34:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "34",
+      "paragraphId": "34:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "34",
+      "paragraphId": "34:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "34",
+      "paragraphId": "34:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "34",
+      "paragraphId": "34:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "34",
+      "paragraphId": "34:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "35",
+      "paragraphId": "35:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "36",
+      "paragraphId": "36:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "36",
+      "paragraphId": "36:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "36",
+      "paragraphId": "36:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "36",
+      "paragraphId": "36:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "36",
+      "paragraphId": "36:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "36",
+      "paragraphId": "36:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "37",
+      "paragraphId": "37:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "37",
+      "paragraphId": "37:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "37",
+      "paragraphId": "37:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "37",
+      "paragraphId": "37:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "38",
+      "paragraphId": "38:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "38",
+      "paragraphId": "38:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "38",
+      "paragraphId": "38:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "38",
+      "paragraphId": "38:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "39",
+      "paragraphId": "39:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "40",
+      "paragraphId": "40:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "40",
+      "paragraphId": "40:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "40",
+      "paragraphId": "40:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "40",
+      "paragraphId": "40:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "41",
+      "paragraphId": "41:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "42",
+      "paragraphId": "42:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "42",
+      "paragraphId": "42:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "42",
+      "paragraphId": "42:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "42",
+      "paragraphId": "42:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "42",
+      "paragraphId": "42:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "42",
+      "paragraphId": "42:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "43",
+      "paragraphId": "43:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "43",
+      "paragraphId": "43:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "43",
+      "paragraphId": "43:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "43",
+      "paragraphId": "43:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "44",
+      "paragraphId": "44:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "44",
+      "paragraphId": "44:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "44",
+      "paragraphId": "44:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "44",
+      "paragraphId": "44:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "45",
+      "paragraphId": "45:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "45",
+      "paragraphId": "45:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "45",
+      "paragraphId": "45:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "45",
+      "paragraphId": "45:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "45",
+      "paragraphId": "45:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "46",
+      "paragraphId": "46:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "47",
+      "paragraphId": "47:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "47",
+      "paragraphId": "47:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "47",
+      "paragraphId": "47:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "47",
+      "paragraphId": "47:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "47",
+      "paragraphId": "47:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "47",
+      "paragraphId": "47:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "48",
+      "paragraphId": "48:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "48",
+      "paragraphId": "48:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "48",
+      "paragraphId": "48:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "48",
+      "paragraphId": "48:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p10",
+      "role": "rule"
+    },
+    {
+      "sourceId": "49",
+      "paragraphId": "49:p11",
+      "role": "layout"
+    },
+    {
+      "sourceId": "50",
+      "paragraphId": "50:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "50",
+      "paragraphId": "50:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "50",
+      "paragraphId": "50:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "50",
+      "paragraphId": "50:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "50",
+      "paragraphId": "50:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "51",
+      "paragraphId": "51:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "51",
+      "paragraphId": "51:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "51",
+      "paragraphId": "51:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "51",
+      "paragraphId": "51:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "51",
+      "paragraphId": "51:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "52",
+      "paragraphId": "52:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "52",
+      "paragraphId": "52:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "52",
+      "paragraphId": "52:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "52",
+      "paragraphId": "52:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "53",
+      "paragraphId": "53:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "54",
+      "paragraphId": "54:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "55",
+      "paragraphId": "55:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "56",
+      "paragraphId": "56:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "56",
+      "paragraphId": "56:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "56",
+      "paragraphId": "56:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "56",
+      "paragraphId": "56:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "56",
+      "paragraphId": "56:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "57",
+      "paragraphId": "57:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "57",
+      "paragraphId": "57:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "57",
+      "paragraphId": "57:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "57",
+      "paragraphId": "57:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "58",
+      "paragraphId": "58:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "58",
+      "paragraphId": "58:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "58",
+      "paragraphId": "58:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "58",
+      "paragraphId": "58:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "59",
+      "paragraphId": "59:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "59",
+      "paragraphId": "59:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "59",
+      "paragraphId": "59:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "59",
+      "paragraphId": "59:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "60",
+      "paragraphId": "60:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "60",
+      "paragraphId": "60:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "60",
+      "paragraphId": "60:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "60",
+      "paragraphId": "60:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "60",
+      "paragraphId": "60:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "61",
+      "paragraphId": "61:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "61",
+      "paragraphId": "61:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "61",
+      "paragraphId": "61:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "61",
+      "paragraphId": "61:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "61",
+      "paragraphId": "61:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "62",
+      "paragraphId": "62:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "62",
+      "paragraphId": "62:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "62",
+      "paragraphId": "62:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "62",
+      "paragraphId": "62:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "62",
+      "paragraphId": "62:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "63",
+      "paragraphId": "63:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "64",
+      "paragraphId": "64:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "64",
+      "paragraphId": "64:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "64",
+      "paragraphId": "64:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "64",
+      "paragraphId": "64:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "65",
+      "paragraphId": "65:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "66",
+      "paragraphId": "66:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "66",
+      "paragraphId": "66:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "66",
+      "paragraphId": "66:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "66",
+      "paragraphId": "66:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "66",
+      "paragraphId": "66:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "67",
+      "paragraphId": "67:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "67",
+      "paragraphId": "67:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "67",
+      "paragraphId": "67:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "67",
+      "paragraphId": "67:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "67",
+      "paragraphId": "67:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "67",
+      "paragraphId": "67:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "68",
+      "paragraphId": "68:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "68",
+      "paragraphId": "68:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "68",
+      "paragraphId": "68:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "68",
+      "paragraphId": "68:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "68",
+      "paragraphId": "68:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "69",
+      "paragraphId": "69:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "69",
+      "paragraphId": "69:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "69",
+      "paragraphId": "69:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "69",
+      "paragraphId": "69:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "69",
+      "paragraphId": "69:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "69",
+      "paragraphId": "69:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "70",
+      "paragraphId": "70:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "71",
+      "paragraphId": "71:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "72",
+      "paragraphId": "72:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "72",
+      "paragraphId": "72:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "72",
+      "paragraphId": "72:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "72",
+      "paragraphId": "72:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "73",
+      "paragraphId": "73:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "73",
+      "paragraphId": "73:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "73",
+      "paragraphId": "73:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "73",
+      "paragraphId": "73:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p8",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "74",
+      "paragraphId": "74:p10",
+      "role": "layout"
+    },
+    {
+      "sourceId": "75",
+      "paragraphId": "75:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "75",
+      "paragraphId": "75:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "75",
+      "paragraphId": "75:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "75",
+      "paragraphId": "75:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "75",
+      "paragraphId": "75:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p10",
+      "role": "rule"
+    },
+    {
+      "sourceId": "76",
+      "paragraphId": "76:p11",
+      "role": "layout"
+    },
+    {
+      "sourceId": "77",
+      "paragraphId": "77:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "77",
+      "paragraphId": "77:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "77",
+      "paragraphId": "77:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "77",
+      "paragraphId": "77:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "77",
+      "paragraphId": "77:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "77",
+      "paragraphId": "77:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "78",
+      "paragraphId": "78:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "79",
+      "paragraphId": "79:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "79",
+      "paragraphId": "79:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "79",
+      "paragraphId": "79:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "79",
+      "paragraphId": "79:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "79",
+      "paragraphId": "79:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p10",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p11",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p12",
+      "role": "rule"
+    },
+    {
+      "sourceId": "80",
+      "paragraphId": "80:p13",
+      "role": "layout"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "81",
+      "paragraphId": "81:p10",
+      "role": "layout"
+    },
+    {
+      "sourceId": "82",
+      "paragraphId": "82:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "82",
+      "paragraphId": "82:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "82",
+      "paragraphId": "82:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "82",
+      "paragraphId": "82:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "82",
+      "paragraphId": "82:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "83",
+      "paragraphId": "83:p10",
+      "role": "layout"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p8",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "84",
+      "paragraphId": "84:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p10",
+      "role": "rule"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p11",
+      "role": "rule"
+    },
+    {
+      "sourceId": "85",
+      "paragraphId": "85:p12",
+      "role": "layout"
+    },
+    {
+      "sourceId": "86",
+      "paragraphId": "86:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "86",
+      "paragraphId": "86:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "86",
+      "paragraphId": "86:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "86",
+      "paragraphId": "86:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "87",
+      "paragraphId": "87:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "87",
+      "paragraphId": "87:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "87",
+      "paragraphId": "87:p2",
+      "role": "layout"
+    },
+    {
+      "sourceId": "88",
+      "paragraphId": "88:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "88",
+      "paragraphId": "88:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "88",
+      "paragraphId": "88:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "88",
+      "paragraphId": "88:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "88",
+      "paragraphId": "88:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "89",
+      "paragraphId": "89:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "90",
+      "paragraphId": "90:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "91",
+      "paragraphId": "91:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "92",
+      "paragraphId": "92:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "92",
+      "paragraphId": "92:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "92",
+      "paragraphId": "92:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "92",
+      "paragraphId": "92:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "93",
+      "paragraphId": "93:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "94",
+      "paragraphId": "94:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "94",
+      "paragraphId": "94:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "94",
+      "paragraphId": "94:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "94",
+      "paragraphId": "94:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "95",
+      "paragraphId": "95:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "95",
+      "paragraphId": "95:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "95",
+      "paragraphId": "95:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "95",
+      "paragraphId": "95:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "95",
+      "paragraphId": "95:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "95",
+      "paragraphId": "95:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "96",
+      "paragraphId": "96:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "96",
+      "paragraphId": "96:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "96",
+      "paragraphId": "96:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "96",
+      "paragraphId": "96:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "97",
+      "paragraphId": "97:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "98",
+      "paragraphId": "98:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "99",
+      "paragraphId": "99:p10",
+      "role": "layout"
+    },
+    {
+      "sourceId": "100",
+      "paragraphId": "100:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "100",
+      "paragraphId": "100:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "100",
+      "paragraphId": "100:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "100",
+      "paragraphId": "100:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "101",
+      "paragraphId": "101:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "101",
+      "paragraphId": "101:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "101",
+      "paragraphId": "101:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "101",
+      "paragraphId": "101:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "101",
+      "paragraphId": "101:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "101",
+      "paragraphId": "101:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "102",
+      "paragraphId": "102:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "102",
+      "paragraphId": "102:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "102",
+      "paragraphId": "102:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "102",
+      "paragraphId": "102:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "102",
+      "paragraphId": "102:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "103",
+      "paragraphId": "103:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "103",
+      "paragraphId": "103:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "103",
+      "paragraphId": "103:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "103",
+      "paragraphId": "103:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "104",
+      "paragraphId": "104:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "105",
+      "paragraphId": "105:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "105",
+      "paragraphId": "105:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "105",
+      "paragraphId": "105:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "105",
+      "paragraphId": "105:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "106",
+      "paragraphId": "106:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "107",
+      "paragraphId": "107:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "107",
+      "paragraphId": "107:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "107",
+      "paragraphId": "107:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "107",
+      "paragraphId": "107:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "107",
+      "paragraphId": "107:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "107",
+      "paragraphId": "107:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "108",
+      "paragraphId": "108:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "109",
+      "paragraphId": "109:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "110",
+      "paragraphId": "110:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "110",
+      "paragraphId": "110:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "110",
+      "paragraphId": "110:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "110",
+      "paragraphId": "110:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "110",
+      "paragraphId": "110:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "110",
+      "paragraphId": "110:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "111",
+      "paragraphId": "111:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "111",
+      "paragraphId": "111:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "111",
+      "paragraphId": "111:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "111",
+      "paragraphId": "111:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "111",
+      "paragraphId": "111:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "111",
+      "paragraphId": "111:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "112",
+      "paragraphId": "112:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "112",
+      "paragraphId": "112:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "112",
+      "paragraphId": "112:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "112",
+      "paragraphId": "112:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "112",
+      "paragraphId": "112:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "113",
+      "paragraphId": "113:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "113",
+      "paragraphId": "113:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "113",
+      "paragraphId": "113:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "113",
+      "paragraphId": "113:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "113",
+      "paragraphId": "113:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "114",
+      "paragraphId": "114:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "115",
+      "paragraphId": "115:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "115",
+      "paragraphId": "115:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "115",
+      "paragraphId": "115:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "115",
+      "paragraphId": "115:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "115",
+      "paragraphId": "115:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "115",
+      "paragraphId": "115:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "116",
+      "paragraphId": "116:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "116",
+      "paragraphId": "116:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "116",
+      "paragraphId": "116:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "116",
+      "paragraphId": "116:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "116",
+      "paragraphId": "116:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "116",
+      "paragraphId": "116:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "117",
+      "paragraphId": "117:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "117",
+      "paragraphId": "117:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "117",
+      "paragraphId": "117:p2",
+      "role": "layout"
+    },
+    {
+      "sourceId": "118",
+      "paragraphId": "118:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "118",
+      "paragraphId": "118:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "118",
+      "paragraphId": "118:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "118",
+      "paragraphId": "118:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "118",
+      "paragraphId": "118:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "119",
+      "paragraphId": "119:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "120",
+      "paragraphId": "120:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "121",
+      "paragraphId": "121:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "121",
+      "paragraphId": "121:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "121",
+      "paragraphId": "121:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "121",
+      "paragraphId": "121:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "121",
+      "paragraphId": "121:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "121",
+      "paragraphId": "121:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "122",
+      "paragraphId": "122:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "123",
+      "paragraphId": "123:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "124",
+      "paragraphId": "124:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "124",
+      "paragraphId": "124:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "124",
+      "paragraphId": "124:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "124",
+      "paragraphId": "124:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "125",
+      "paragraphId": "125:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "125",
+      "paragraphId": "125:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "125",
+      "paragraphId": "125:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "125",
+      "paragraphId": "125:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "125",
+      "paragraphId": "125:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "125",
+      "paragraphId": "125:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "126",
+      "paragraphId": "126:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "127",
+      "paragraphId": "127:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "127",
+      "paragraphId": "127:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "127",
+      "paragraphId": "127:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "127",
+      "paragraphId": "127:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "127",
+      "paragraphId": "127:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "128",
+      "paragraphId": "128:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "128",
+      "paragraphId": "128:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "128",
+      "paragraphId": "128:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "128",
+      "paragraphId": "128:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "128",
+      "paragraphId": "128:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "128",
+      "paragraphId": "128:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "129",
+      "paragraphId": "129:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "129",
+      "paragraphId": "129:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "129",
+      "paragraphId": "129:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "129",
+      "paragraphId": "129:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "129",
+      "paragraphId": "129:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "129",
+      "paragraphId": "129:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "130",
+      "paragraphId": "130:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "131",
+      "paragraphId": "131:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "132",
+      "paragraphId": "132:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "132",
+      "paragraphId": "132:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "132",
+      "paragraphId": "132:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "132",
+      "paragraphId": "132:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "132",
+      "paragraphId": "132:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "133",
+      "paragraphId": "133:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "134",
+      "paragraphId": "134:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "134",
+      "paragraphId": "134:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "134",
+      "paragraphId": "134:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "134",
+      "paragraphId": "134:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "134",
+      "paragraphId": "134:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "134",
+      "paragraphId": "134:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "135",
+      "paragraphId": "135:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "136",
+      "paragraphId": "136:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "136",
+      "paragraphId": "136:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "136",
+      "paragraphId": "136:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "136",
+      "paragraphId": "136:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "136",
+      "paragraphId": "136:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "136",
+      "paragraphId": "136:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p8",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "137",
+      "paragraphId": "137:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "138",
+      "paragraphId": "138:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "139",
+      "paragraphId": "139:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "140",
+      "paragraphId": "140:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "140",
+      "paragraphId": "140:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "140",
+      "paragraphId": "140:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "140",
+      "paragraphId": "140:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "140",
+      "paragraphId": "140:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "141",
+      "paragraphId": "141:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "141",
+      "paragraphId": "141:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "141",
+      "paragraphId": "141:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "141",
+      "paragraphId": "141:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "142",
+      "paragraphId": "142:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "143",
+      "paragraphId": "143:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "144",
+      "paragraphId": "144:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "144",
+      "paragraphId": "144:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "144",
+      "paragraphId": "144:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "144",
+      "paragraphId": "144:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "144",
+      "paragraphId": "144:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "144",
+      "paragraphId": "144:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "145",
+      "paragraphId": "145:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "145",
+      "paragraphId": "145:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "145",
+      "paragraphId": "145:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "145",
+      "paragraphId": "145:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "145",
+      "paragraphId": "145:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "146",
+      "paragraphId": "146:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "146",
+      "paragraphId": "146:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "146",
+      "paragraphId": "146:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "146",
+      "paragraphId": "146:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "146",
+      "paragraphId": "146:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "147",
+      "paragraphId": "147:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "148",
+      "paragraphId": "148:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "149",
+      "paragraphId": "149:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "149",
+      "paragraphId": "149:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "149",
+      "paragraphId": "149:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "149",
+      "paragraphId": "149:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "149",
+      "paragraphId": "149:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p8",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p9",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "150",
+      "paragraphId": "150:p10",
+      "role": "layout"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "151",
+      "paragraphId": "151:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "152",
+      "paragraphId": "152:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "152",
+      "paragraphId": "152:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "152",
+      "paragraphId": "152:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "152",
+      "paragraphId": "152:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "153",
+      "paragraphId": "153:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "154",
+      "paragraphId": "154:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "154",
+      "paragraphId": "154:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "154",
+      "paragraphId": "154:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "154",
+      "paragraphId": "154:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "155",
+      "paragraphId": "155:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "155",
+      "paragraphId": "155:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "155",
+      "paragraphId": "155:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "155",
+      "paragraphId": "155:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "155",
+      "paragraphId": "155:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "156",
+      "paragraphId": "156:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "157",
+      "paragraphId": "157:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "158",
+      "paragraphId": "158:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "159",
+      "paragraphId": "159:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "159",
+      "paragraphId": "159:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "159",
+      "paragraphId": "159:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "159",
+      "paragraphId": "159:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "159",
+      "paragraphId": "159:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "160",
+      "paragraphId": "160:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "160",
+      "paragraphId": "160:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "160",
+      "paragraphId": "160:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "160",
+      "paragraphId": "160:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "160",
+      "paragraphId": "160:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "161",
+      "paragraphId": "161:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "161",
+      "paragraphId": "161:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "161",
+      "paragraphId": "161:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "161",
+      "paragraphId": "161:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "161",
+      "paragraphId": "161:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p10",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p11",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p12",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p13",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p14",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p15",
+      "role": "rule"
+    },
+    {
+      "sourceId": "162",
+      "paragraphId": "162:p16",
+      "role": "layout"
+    },
+    {
+      "sourceId": "163",
+      "paragraphId": "163:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "163",
+      "paragraphId": "163:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "163",
+      "paragraphId": "163:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "163",
+      "paragraphId": "163:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "163",
+      "paragraphId": "163:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "163",
+      "paragraphId": "163:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "164",
+      "paragraphId": "164:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "165",
+      "paragraphId": "165:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "165",
+      "paragraphId": "165:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "165",
+      "paragraphId": "165:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "165",
+      "paragraphId": "165:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "165",
+      "paragraphId": "165:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "165",
+      "paragraphId": "165:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "166",
+      "paragraphId": "166:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "166",
+      "paragraphId": "166:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "166",
+      "paragraphId": "166:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "166",
+      "paragraphId": "166:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "166",
+      "paragraphId": "166:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "167",
+      "paragraphId": "167:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "168",
+      "paragraphId": "168:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "168",
+      "paragraphId": "168:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "168",
+      "paragraphId": "168:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "168",
+      "paragraphId": "168:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "168",
+      "paragraphId": "168:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "169",
+      "paragraphId": "169:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "169",
+      "paragraphId": "169:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "169",
+      "paragraphId": "169:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "169",
+      "paragraphId": "169:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "169",
+      "paragraphId": "169:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "169",
+      "paragraphId": "169:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "170",
+      "paragraphId": "170:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "171",
+      "paragraphId": "171:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "172",
+      "paragraphId": "172:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "172",
+      "paragraphId": "172:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "172",
+      "paragraphId": "172:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "172",
+      "paragraphId": "172:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "172",
+      "paragraphId": "172:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "173",
+      "paragraphId": "173:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "174",
+      "paragraphId": "174:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "175",
+      "paragraphId": "175:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "176",
+      "paragraphId": "176:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "176",
+      "paragraphId": "176:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "176",
+      "paragraphId": "176:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "176",
+      "paragraphId": "176:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "176",
+      "paragraphId": "176:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "177",
+      "paragraphId": "177:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "178",
+      "paragraphId": "178:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "179",
+      "paragraphId": "179:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "180",
+      "paragraphId": "180:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "180",
+      "paragraphId": "180:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "180",
+      "paragraphId": "180:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "180",
+      "paragraphId": "180:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "180",
+      "paragraphId": "180:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "180",
+      "paragraphId": "180:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "181",
+      "paragraphId": "181:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "182",
+      "paragraphId": "182:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "182",
+      "paragraphId": "182:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "182",
+      "paragraphId": "182:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "182",
+      "paragraphId": "182:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "183",
+      "paragraphId": "183:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "183",
+      "paragraphId": "183:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "183",
+      "paragraphId": "183:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "183",
+      "paragraphId": "183:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "183",
+      "paragraphId": "183:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "183",
+      "paragraphId": "183:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "184",
+      "paragraphId": "184:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "185",
+      "paragraphId": "185:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "186",
+      "paragraphId": "186:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "187",
+      "paragraphId": "187:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "187",
+      "paragraphId": "187:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "187",
+      "paragraphId": "187:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "187",
+      "paragraphId": "187:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "187",
+      "paragraphId": "187:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "187",
+      "paragraphId": "187:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "188",
+      "paragraphId": "188:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "189",
+      "paragraphId": "189:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "189",
+      "paragraphId": "189:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "189",
+      "paragraphId": "189:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "189",
+      "paragraphId": "189:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "189",
+      "paragraphId": "189:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "190",
+      "paragraphId": "190:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "191",
+      "paragraphId": "191:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "192",
+      "paragraphId": "192:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "192",
+      "paragraphId": "192:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "192",
+      "paragraphId": "192:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "192",
+      "paragraphId": "192:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "192",
+      "paragraphId": "192:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "192",
+      "paragraphId": "192:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "193",
+      "paragraphId": "193:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "193",
+      "paragraphId": "193:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "193",
+      "paragraphId": "193:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "193",
+      "paragraphId": "193:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "194",
+      "paragraphId": "194:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "194",
+      "paragraphId": "194:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "194",
+      "paragraphId": "194:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "194",
+      "paragraphId": "194:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "194",
+      "paragraphId": "194:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "194",
+      "paragraphId": "194:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "195",
+      "paragraphId": "195:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "195",
+      "paragraphId": "195:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "195",
+      "paragraphId": "195:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "195",
+      "paragraphId": "195:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "195",
+      "paragraphId": "195:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "196",
+      "paragraphId": "196:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "196",
+      "paragraphId": "196:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "196",
+      "paragraphId": "196:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "196",
+      "paragraphId": "196:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "196",
+      "paragraphId": "196:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "196",
+      "paragraphId": "196:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "197",
+      "paragraphId": "197:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "197",
+      "paragraphId": "197:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "197",
+      "paragraphId": "197:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "197",
+      "paragraphId": "197:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "198",
+      "paragraphId": "198:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "198",
+      "paragraphId": "198:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "198",
+      "paragraphId": "198:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "198",
+      "paragraphId": "198:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "199",
+      "paragraphId": "199:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "199",
+      "paragraphId": "199:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "199",
+      "paragraphId": "199:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "199",
+      "paragraphId": "199:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "200",
+      "paragraphId": "200:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "200",
+      "paragraphId": "200:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "200",
+      "paragraphId": "200:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "200",
+      "paragraphId": "200:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "200",
+      "paragraphId": "200:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "200",
+      "paragraphId": "200:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "201",
+      "paragraphId": "201:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "202",
+      "paragraphId": "202:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "203",
+      "paragraphId": "203:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "203",
+      "paragraphId": "203:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "203",
+      "paragraphId": "203:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "203",
+      "paragraphId": "203:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "203",
+      "paragraphId": "203:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "203",
+      "paragraphId": "203:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "204",
+      "paragraphId": "204:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "204",
+      "paragraphId": "204:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "204",
+      "paragraphId": "204:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "204",
+      "paragraphId": "204:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "204",
+      "paragraphId": "204:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "205",
+      "paragraphId": "205:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "206",
+      "paragraphId": "206:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "207",
+      "paragraphId": "207:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "208",
+      "paragraphId": "208:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "209",
+      "paragraphId": "209:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "209",
+      "paragraphId": "209:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "209",
+      "paragraphId": "209:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "209",
+      "paragraphId": "209:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p9",
+      "role": "rule"
+    },
+    {
+      "sourceId": "210",
+      "paragraphId": "210:p10",
+      "role": "layout"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "211",
+      "paragraphId": "211:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "212",
+      "paragraphId": "212:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "212",
+      "paragraphId": "212:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "212",
+      "paragraphId": "212:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "212",
+      "paragraphId": "212:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "213",
+      "paragraphId": "213:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "214",
+      "paragraphId": "214:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "214",
+      "paragraphId": "214:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "214",
+      "paragraphId": "214:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "214",
+      "paragraphId": "214:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "214",
+      "paragraphId": "214:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "215",
+      "paragraphId": "215:p8",
+      "role": "layout"
+    },
+    {
+      "sourceId": "216",
+      "paragraphId": "216:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "216",
+      "paragraphId": "216:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "216",
+      "paragraphId": "216:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "216",
+      "paragraphId": "216:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "216",
+      "paragraphId": "216:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "217",
+      "paragraphId": "217:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "218",
+      "paragraphId": "218:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "218",
+      "paragraphId": "218:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "218",
+      "paragraphId": "218:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "218",
+      "paragraphId": "218:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "218",
+      "paragraphId": "218:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "219",
+      "paragraphId": "219:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "219",
+      "paragraphId": "219:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "219",
+      "paragraphId": "219:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "219",
+      "paragraphId": "219:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "219",
+      "paragraphId": "219:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "220",
+      "paragraphId": "220:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "221",
+      "paragraphId": "221:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "221",
+      "paragraphId": "221:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "221",
+      "paragraphId": "221:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "221",
+      "paragraphId": "221:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "221",
+      "paragraphId": "221:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "222",
+      "paragraphId": "222:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "222",
+      "paragraphId": "222:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "222",
+      "paragraphId": "222:p2",
+      "role": "rule"
+    },
+    {
+      "sourceId": "222",
+      "paragraphId": "222:p3",
+      "role": "rule"
+    },
+    {
+      "sourceId": "222",
+      "paragraphId": "222:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p7",
+      "role": "rule"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "223",
+      "paragraphId": "223:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "224",
+      "paragraphId": "224:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "224",
+      "paragraphId": "224:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "224",
+      "paragraphId": "224:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "224",
+      "paragraphId": "224:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "224",
+      "paragraphId": "224:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "224",
+      "paragraphId": "224:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "225",
+      "paragraphId": "225:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "226",
+      "paragraphId": "226:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "226",
+      "paragraphId": "226:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "226",
+      "paragraphId": "226:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "226",
+      "paragraphId": "226:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "226",
+      "paragraphId": "226:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "226",
+      "paragraphId": "226:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "227",
+      "paragraphId": "227:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "228",
+      "paragraphId": "228:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "229",
+      "paragraphId": "229:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "230",
+      "paragraphId": "230:p6",
+      "role": "layout"
+    },
+    {
+      "sourceId": "231",
+      "paragraphId": "231:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "231",
+      "paragraphId": "231:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "231",
+      "paragraphId": "231:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "231",
+      "paragraphId": "231:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "231",
+      "paragraphId": "231:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "231",
+      "paragraphId": "231:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "232",
+      "paragraphId": "232:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "232",
+      "paragraphId": "232:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "232",
+      "paragraphId": "232:p2",
+      "role": "layout"
+    },
+    {
+      "sourceId": "233",
+      "paragraphId": "233:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "233",
+      "paragraphId": "233:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "233",
+      "paragraphId": "233:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "233",
+      "paragraphId": "233:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "233",
+      "paragraphId": "233:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "233",
+      "paragraphId": "233:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "234",
+      "paragraphId": "234:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "234",
+      "paragraphId": "234:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "234",
+      "paragraphId": "234:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "234",
+      "paragraphId": "234:p3",
+      "role": "layout"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p5",
+      "role": "rule"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p6",
+      "role": "rule"
+    },
+    {
+      "sourceId": "235",
+      "paragraphId": "235:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "236",
+      "paragraphId": "236:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "236",
+      "paragraphId": "236:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "236",
+      "paragraphId": "236:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "236",
+      "paragraphId": "236:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "236",
+      "paragraphId": "236:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "237",
+      "paragraphId": "237:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "237",
+      "paragraphId": "237:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "237",
+      "paragraphId": "237:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "237",
+      "paragraphId": "237:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "237",
+      "paragraphId": "237:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "237",
+      "paragraphId": "237:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "238",
+      "paragraphId": "238:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "238",
+      "paragraphId": "238:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "238",
+      "paragraphId": "238:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "238",
+      "paragraphId": "238:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "238",
+      "paragraphId": "238:p4",
+      "role": "rule"
+    },
+    {
+      "sourceId": "238",
+      "paragraphId": "238:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "239",
+      "paragraphId": "239:p7",
+      "role": "layout"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p5",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p6",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p7",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p8",
+      "role": "rule"
+    },
+    {
+      "sourceId": "240",
+      "paragraphId": "240:p9",
+      "role": "layout"
+    },
+    {
+      "sourceId": "241",
+      "paragraphId": "241:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "241",
+      "paragraphId": "241:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "241",
+      "paragraphId": "241:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "241",
+      "paragraphId": "241:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "241",
+      "paragraphId": "241:p4",
+      "role": "layout"
+    },
+    {
+      "sourceId": "242",
+      "paragraphId": "242:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "242",
+      "paragraphId": "242:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "242",
+      "paragraphId": "242:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "242",
+      "paragraphId": "242:p3",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "242",
+      "paragraphId": "242:p4",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "242",
+      "paragraphId": "242:p5",
+      "role": "layout"
+    },
+    {
+      "sourceId": "243",
+      "paragraphId": "243:p0",
+      "role": "layout"
+    },
+    {
+      "sourceId": "243",
+      "paragraphId": "243:p1",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "243",
+      "paragraphId": "243:p2",
+      "role": "narrative"
+    },
+    {
+      "sourceId": "243",
+      "paragraphId": "243:p3",
+      "role": "layout"
+    }
+  ],
+  "notes": [
+    "原件及全部原文、译文、附录、角色表和图片保留在 scripts/alone-against-tide；中文翻译来自 GPT-6 Luna，按原文段落逐项对应。",
+    "结局名为网页适配编号，不是官方结局名。辅助节点只用于执行同一原书条目的规则。",
+    "PDF 第39页（印刷38页）119节视觉核对确实印为18：游泳失败且生还返回18，保留该跳转；187节只有回溯提示119，没有有效正向入口。",
+    "自建角色职业技能表补充核对 Chaosium 官方规则网站 https://cthulhuwiki.chaosium.com/investigators/step-three-occupation-and-skills.html（2026-10-13）；原PDF80节仅引用外部规则书。兴趣技能数量按本书改为七项，非职业技能约束沿用其引用的官方建卡规则。",
+    "伍兹博士额外70点源于前言，80节说技能已分配不取消这项前言加值。生存专长为沙漠；此次冒险的生存检定按原书通用技能。",
+    "使用幸运为可选规则，提供足够幸运时的失败转成功，排除幸运、理智、大失败及孤注一掷；每次保存消耗和原始骰点。",
+    "162节单次理智损失至少5时进行标准智力识别；累计损失达初始理智五分之一按本书计暂时性疯狂，理智归零永久退场；不使用重伤。智力识别同时核对 Chaosium 官方快速入门规则 PDF 第28页。永久退场是通用健康规则，不额外占用原书50个结局收藏编号。"
+  ],
+  "version": "1.0.1"
+}

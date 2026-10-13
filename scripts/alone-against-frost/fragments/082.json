@@ -1,0 +1,54 @@
+{
+  "id": "82",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "82:p0",
+      "kind": "heading",
+      "text": "82",
+      "sourceLocation": "pdf:visual:[[24,17]]"
+    },
+    {
+      "id": "82:p1",
+      "kind": "body",
+      "text": "You and Norman bed down near the fire while Sylvia stands \nwatch. You study each of your companions for a few minutes. \nNorman, a man in his forties, trembles beneath his sheet. Sylvia \nscans the camp perimeter obsessively, gripping her rifle. The \nloss of Bernard and Charlie have affected both students. You \nhope that you can get them back to civilization before fear and \nhardship drives one or both over the edge.",
+      "sourceLocation": "pdf:visual:[[24,18],[24,19],[24,20],[24,21],[24,22],[24,23],[24,24]]"
+    },
+    {
+      "id": "82:p2",
+      "kind": "body",
+      "text": "Norman shakes you awake, staring out to the trees. “There \nwas a noise!” he hisses. “Sylvia’s gone!” ",
+      "sourceLocation": "pdf:visual:[[24,25],[24,26]]"
+    },
+    {
+      "id": "82:p3",
+      "kind": "body",
+      "text": "You spring to your feet, throw on your jacket, and pick up \nyour  rifle  from  the  ground.  Despite  the  small  hours  of  the \nmorning, the subarctic dawn is breaking.",
+      "sourceLocation": "pdf:visual:[[24,27],[24,28],[24,29]]"
+    },
+    {
+      "id": "82:p4",
+      "kind": "body",
+      "text": "A  search  of  the  surrounding  ground  turns  up  the  tracks \nof  Sylvia’s  abductors. They  are  not  quite  what  you  expect—\noversized, bare feet.",
+      "sourceLocation": "pdf:visual:[[24,30],[24,31],[24,32]]"
+    },
+    {
+      "id": "82:p5",
+      "kind": "body",
+      "text": "To follow the tracks, go to 128. To give Sylvia up for lost and try to \nsave Norman, go to 279. ",
+      "sourceLocation": "pdf:visual:[[24,33],[24,34]]"
+    },
+    {
+      "id": "82:p6",
+      "kind": "trace",
+      "text": "(124, 470)",
+      "sourceLocation": "pdf:visual:[[24,35]]"
+    },
+    {
+      "id": "82:p7",
+      "kind": "body",
+      "text": "23",
+      "sourceLocation": "pdf:visual:[[24,36]]"
+    }
+  ]
+}

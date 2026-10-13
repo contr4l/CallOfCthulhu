@@ -1,0 +1,36 @@
+{
+  "id": "14",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "14:p0",
+      "kind": "heading",
+      "text": "14",
+      "sourceLocation": "pdf:visual:[[12,20]]"
+    },
+    {
+      "id": "14:p1",
+      "kind": "body",
+      "text": "Your gentle persistence breaks down Charlie’s reserve. “Puk-\nwoogies,” she murmurs. “The Little Ones of the Night. They do bad \nmagic, turn invisible, walk through stone. Once, my father saw a \npuk-woogie—the night a child vanished from our village. Around \nthe cabin were tracks like these.”",
+      "sourceLocation": "pdf:visual:[[12,21],[12,22],[12,23],[12,24],[12,25]]"
+    },
+    {
+      "id": "14:p2",
+      "kind": "body",
+      "text": "Charlie  tails  off,  staring  into  the  past.  It  seems  best  to \ncall for action. You instruct the party to fetch weapons, stay \ntogether, and begin a search for Bernard. Charlie snaps back \nto the present.",
+      "sourceLocation": "pdf:visual:[[12,26],[12,27],[12,28],[12,29]]"
+    },
+    {
+      "id": "14:p3",
+      "kind": "body",
+      "text": "Make a Track roll for Charlie: if she succeeds, go to 23; if she fails, \ngo to 24.",
+      "sourceLocation": "pdf:visual:[[12,30],[12,31]]"
+    },
+    {
+      "id": "14:p4",
+      "kind": "trace",
+      "text": "(8)",
+      "sourceLocation": "pdf:visual:[[12,32]]"
+    }
+  ]
+}

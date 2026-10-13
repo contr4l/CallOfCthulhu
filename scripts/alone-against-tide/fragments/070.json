@@ -1,0 +1,60 @@
+{
+  "id": "70",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "70:p0",
+      "kind": "heading",
+      "text": "70\n",
+      "sourceLocation": "pdf:spans:[[26,2224,2227]]"
+    },
+    {
+      "id": "70:p1",
+      "kind": "body",
+      "text": "Mr. Warren approaches the first table and removes the cloth \ncovering to reveal an odd pair of clay cylinders covered with \nstrange etchings. They are small and seem quite fragile, with \nlarge cracks running down their sides.\n",
+      "sourceLocation": "pdf:spans:[[26,2227,2288],[26,2288,2351],[26,2351,2414],[26,2414,2453]]"
+    },
+    {
+      "id": "70:p2",
+      "kind": "body",
+      "text": "Mr. Warren proceeds to the next table and likewise uncovers the \nitem in question. This one is significantly larger and more ornate. It \nappears to be some sort of altar or reliquary, heavily decorated with \nyellow-green gemstones. However, there is one similarity with \nthe first item: the presence of the same strange written characters, \nthough these ones seem to have been painted on.\n",
+      "sourceLocation": "pdf:spans:[[26,2453,2518],[26,2518,2590],[26,2590,2661],[26,2661,2724],[26,2724,2794],[26,2794,2842]]"
+    },
+    {
+      "id": "70:p3",
+      "kind": "body",
+      "text": "The old scholar turns to the next item in question and \ndisplays it for all to see: a decorated crown of solid bronze, \nwrought with the image of a Hindu god.\n",
+      "sourceLocation": "pdf:spans:[[26,2842,2898],[26,2898,2962],[26,2962,3001]]"
+    },
+    {
+      "id": "70:p4",
+      "kind": "body",
+      "text": "The next item is certainly the most mundane: a large, thick, \nleather-bound journal that appears well-worn and beaten, with \nseveral loose papers jammed between the pages. Mr. Warren \nsenses the confusion of some members of the crowd and \nclarifies that the notebook is the assembled personal works and \nstudies of Prof. Harris.\n",
+      "sourceLocation": "pdf:spans:[[26,3001,3063],[26,3063,3126],[26,3126,3185],[26,3185,3240],[26,3240,3305],[26,3305,3330]]"
+    },
+    {
+      "id": "70:p5",
+      "kind": "body",
+      "text": "The item that follows the journal is a well-preserved \nceremonial robe of a Brahmin priest. The cloth is pure white.\n",
+      "sourceLocation": "pdf:spans:[[26,3330,3385],[26,3385,3447]]"
+    },
+    {
+      "id": "70:p6",
+      "kind": "body",
+      "text": "The last item is perhaps the strangest of all. It is a small \nstatue or idol, presumably of one of the many deities of ancient \nIndia. Made from a blue-green stone in the shape of a rather \ngrotesque lizard-like creature, the craftsmanship is crude and \ngaudy, so much so that it appears fake. People begin moving \namong the items, looking them over and conversing quietly.\n",
+      "sourceLocation": "pdf:spans:[[26,3447,3509],[26,3509,3575],[26,3575,3637],[26,3637,3701],[26,3701,3762],[26,3762,3821]]"
+    },
+    {
+      "id": "70:p7",
+      "kind": "body",
+      "text": "• Make either an Appraise or an Archaeology roll: if you succeed, go \nto 45; if you fail, go to 61.\n",
+      "sourceLocation": "pdf:spans:[[26,3821,3891],[26,3891,3921]]"
+    },
+    {
+      "id": "70:p8",
+      "kind": "body",
+      "text": "(35)\n",
+      "sourceLocation": "pdf:spans:[[26,3921,3926]]"
+    }
+  ]
+}

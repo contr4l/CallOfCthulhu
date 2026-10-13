@@ -1,0 +1,42 @@
+{
+  "id": "209",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "209:p0",
+      "kind": "heading",
+      "text": "209",
+      "sourceLocation": "pdf:visual:[[44,20]]"
+    },
+    {
+      "id": "209:p1",
+      "kind": "body",
+      "text": "“Now you know,” Charlie Foxtail murmurs. “You see my burning \nfeet. Act before the rest of me changes, too.”",
+      "sourceLocation": "pdf:visual:[[44,21],[44,22]]"
+    },
+    {
+      "id": "209:p2",
+      "kind": "body",
+      "text": "With a dry throat, you ask her how. She seems to fight down \nthe rage.",
+      "sourceLocation": "pdf:visual:[[44,23],[44,24]]"
+    },
+    {
+      "id": "209:p3",
+      "kind": "body",
+      "text": "“I cannot tell! The demon is too strong. He hungers!”",
+      "sourceLocation": "pdf:visual:[[44,25]]"
+    },
+    {
+      "id": "209:p4",
+      "kind": "body",
+      "text": "Make a Psychology roll: if you succeed, go to 212; if you fail, go to \n127.",
+      "sourceLocation": "pdf:visual:[[44,26],[44,27]]"
+    },
+    {
+      "id": "209:p5",
+      "kind": "trace",
+      "text": "(208)",
+      "sourceLocation": "pdf:visual:[[44,28]]"
+    }
+  ]
+}

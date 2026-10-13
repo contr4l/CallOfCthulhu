@@ -1,0 +1,48 @@
+{
+  "id": "20",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "20:p0",
+      "kind": "heading",
+      "text": "20\n",
+      "sourceLocation": "pdf:spans:[[15,1711,1714]]"
+    },
+    {
+      "id": "20:p1",
+      "kind": "body",
+      "text": "Your instincts get the better of you and you feel compelled to \nmake your escape. You rise from your seat, looking for suitable \nexits. The only way that doesn’t lead toward the entrance is \nthrough the kitchen. You don’t know if there’s an exit that way, \nbut you think it’s worth a shot.\n",
+      "sourceLocation": "pdf:spans:[[15,1714,1778],[15,1778,1843],[15,1843,1905],[15,1905,1971],[15,1971,2004]]"
+    },
+    {
+      "id": "20:p2",
+      "kind": "body",
+      "text": "Unfortunately, you never get to take it. As you rise and head \nfor the kitchen doorway, Officer Powell bursts into the room, \nshouting, “Freeze! Police!” You glance over your shoulder and see \nhis revolver leveled at you, and you go stiff. “You’re under arrest \nfor trespassing! You’re going to come with me. Now.”\n",
+      "sourceLocation": "pdf:spans:[[15,2004,2067],[15,2067,2130],[15,2130,2197],[15,2197,2266],[15,2266,2319]]"
+    },
+    {
+      "id": "20:p3",
+      "kind": "body",
+      "text": "He has you dead in his sights. Talking would do you little \ngood as he’s already caught you trying to flee the scene. You \nshould probably do what he says. On the other hand, you could \ntry to run. Staring down the barrel of a gun, the odds don’t look \ngood but maybe you like your chances better with the gun than \nthe prison cell.\n",
+      "sourceLocation": "pdf:spans:[[15,2319,2379],[15,2379,2442],[15,2442,2505],[15,2505,2572],[15,2572,2635],[15,2635,2652]]"
+    },
+    {
+      "id": "20:p4",
+      "kind": "body",
+      "text": "• To go quietly, go to 65.\n",
+      "sourceLocation": "pdf:spans:[[15,2652,2679]]"
+    },
+    {
+      "id": "20:p5",
+      "kind": "body",
+      "text": "• To make a run for it, go to 82.\n",
+      "sourceLocation": "pdf:spans:[[15,2679,2713]]"
+    },
+    {
+      "id": "20:p6",
+      "kind": "body",
+      "text": "(31, 126)\n",
+      "sourceLocation": "pdf:spans:[[15,2713,2723]]"
+    }
+  ]
+}

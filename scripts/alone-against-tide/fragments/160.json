@@ -1,0 +1,36 @@
+{
+  "id": "160",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "160:p0",
+      "kind": "heading",
+      "text": "160\n",
+      "sourceLocation": "pdf:spans:[[52,26,30]]"
+    },
+    {
+      "id": "160:p1",
+      "kind": "body",
+      "text": "You set off through the streets of Esbury and into that \nunnerving fog, headed in the direction of Joshua’s house. A few \nhours have passed since you first set out, and the sky is now \ndark, but you finally find it. The place in question is a small \nhouse located on the edge of town, near the church.\n",
+      "sourceLocation": "pdf:spans:[[52,30,87],[52,87,152],[52,152,215],[52,215,280],[52,280,332]]"
+    },
+    {
+      "id": "160:p2",
+      "kind": "body",
+      "text": "You try the door and find it unlocked. You have no doubt \nthat the men inside will be armed, so you slip in quietly, hoping \nto avoid notice.\n",
+      "sourceLocation": "pdf:spans:[[52,332,390],[52,390,457],[52,457,474]]"
+    },
+    {
+      "id": "160:p3",
+      "kind": "body",
+      "text": "• Make a Stealth roll: if you succeed, go to 165; if you fail, go to 144.\n",
+      "sourceLocation": "pdf:spans:[[52,477,551]]"
+    },
+    {
+      "id": "160:p4",
+      "kind": "body",
+      "text": "(78, 130)\n",
+      "sourceLocation": "pdf:spans:[[52,551,561]]"
+    }
+  ]
+}

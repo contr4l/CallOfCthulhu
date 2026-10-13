@@ -1,0 +1,36 @@
+{
+  "id": "205",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "205:p0",
+      "kind": "heading",
+      "text": "205",
+      "sourceLocation": "pdf:visual:[[43,69]]"
+    },
+    {
+      "id": "205:p1",
+      "kind": "body",
+      "text": "He has no feet, only blackened, bestial hooves! He is no longer \nhuman, but a horror masquerading in a human body. He must \nbe destroyed before he consumes the rest of you.",
+      "sourceLocation": "pdf:visual:[[43,70],[43,71],[43,72]]"
+    },
+    {
+      "id": "205:p2",
+      "kind": "body",
+      "text": "You remember the legends that you have heard about the \nwind-walker. To kill such a beast, its icy heart must be melted. \nYou steal back to the fire, grab a stiff, burning brand, and creep \nback to the monster.",
+      "sourceLocation": "pdf:visual:[[43,73],[43,74],[43,75],[43,76]]"
+    },
+    {
+      "id": "205:p3",
+      "kind": "body",
+      "text": "Make a Stealth roll: if you succeed, go to 140; if you fail, go to 141.",
+      "sourceLocation": "pdf:visual:[[43,77]]"
+    },
+    {
+      "id": "205:p4",
+      "kind": "trace",
+      "text": "(204)",
+      "sourceLocation": "pdf:visual:[[43,78]]"
+    }
+  ]
+}

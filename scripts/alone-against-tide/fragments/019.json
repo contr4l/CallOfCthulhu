@@ -1,0 +1,30 @@
+{
+  "id": "19",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "19:p0",
+      "kind": "heading",
+      "text": "19\n",
+      "sourceLocation": "pdf:spans:[[15,1199,1202]]"
+    },
+    {
+      "id": "19:p1",
+      "kind": "body",
+      "text": "Finally, you hear your name called—your bid for the altar was \nfound to be highest. You are now saddled with a large and bulky \nitem, easily the size of a traveler’s trunk. Not unmanageable, \nbut definitely more than you’d prefer to lug around. Still, it is \nsurprisingly light considering the number of gemstones worked \ninto the ancient wood. Naturally, those will make it quite \nvaluable, and the strange painted scrawls provoke your interest.\n",
+      "sourceLocation": "pdf:spans:[[15,1202,1265],[15,1265,1330],[15,1330,1394],[15,1394,1461],[15,1461,1524],[15,1524,1584],[15,1584,1649]]"
+    },
+    {
+      "id": "19:p2",
+      "kind": "body",
+      "text": "• Reduce your Credit Rating by 5 percentiles. Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[15,1649,1705]]"
+    },
+    {
+      "id": "19:p3",
+      "kind": "body",
+      "text": "(103)\n",
+      "sourceLocation": "pdf:spans:[[15,1705,1711]]"
+    }
+  ]
+}

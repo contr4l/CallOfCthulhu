@@ -1,0 +1,30 @@
+{
+  "id": "212",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "212:p0",
+      "kind": "heading",
+      "text": "212\n",
+      "sourceLocation": "pdf:spans:[[68,2386,2390]]"
+    },
+    {
+      "id": "212:p1",
+      "kind": "body",
+      "text": "You don’t hear it until it’s upon you: a loud splash a short \ndistance back, followed by the sound of a struggling, backfiring \nengine trying to push through the water as an automobile \naccelerates straight toward you. You can just make out the \nheadlights through the fog as they wash over you, and you have \nonly a moment to react.\n",
+      "sourceLocation": "pdf:spans:[[68,2390,2452],[68,2452,2518],[68,2518,2576],[68,2576,2636],[68,2636,2700],[68,2700,2724]]"
+    },
+    {
+      "id": "212:p2",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 159; if you fail, go to 182.\n",
+      "sourceLocation": "pdf:spans:[[68,2726,2798]]"
+    },
+    {
+      "id": "212:p3",
+      "kind": "body",
+      "text": "(224)\n",
+      "sourceLocation": "pdf:spans:[[68,2798,2804]]"
+    }
+  ]
+}

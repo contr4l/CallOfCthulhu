@@ -1,0 +1,36 @@
+{
+  "id": "436",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "436:p0",
+      "kind": "heading",
+      "text": "436",
+      "sourceLocation": "pdf:visual:[[76,67]]"
+    },
+    {
+      "id": "436:p1",
+      "kind": "body",
+      "text": "Charlie screams suddenly and falls to her knees, attempting \nto  fight  off  an  invisible  attacker.  Her  arms  tear  open  with \ninexplicable wounds. Immediately, she is streaming with blood. \nYou stand there in terror; you can think of nothing to stop this \nunseen assault.",
+      "sourceLocation": "pdf:visual:[[76,68],[76,69],[76,70],[76,71],[76,72]]"
+    },
+    {
+      "id": "436:p2",
+      "kind": "body",
+      "text": "“Ten`a-ranide!  Ten`a-ranide!”  your  tormented  guide  cries. \nYou recognize the word as local dialect for an invisible, vengeful \ndemon summoned by sorcerers. The Navajo had the same idea \nand called their demon the chindi. “Run!” Charlie cries.",
+      "sourceLocation": "pdf:visual:[[76,73],[76,74],[76,75],[76,76]]"
+    },
+    {
+      "id": "436:p3",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you succeed, lose 1 Sanity point; if you fail, \nlose 1D3 Sanity. To abandon Charlie to her death, go to 437. To \nstand by her, go to 443.",
+      "sourceLocation": "pdf:visual:[[76,77],[76,78],[76,79]]"
+    },
+    {
+      "id": "436:p4",
+      "kind": "trace",
+      "text": "(435, 554)",
+      "sourceLocation": "pdf:visual:[[76,80]]"
+    }
+  ]
+}

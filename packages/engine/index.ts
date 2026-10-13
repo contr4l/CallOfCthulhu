@@ -92,7 +92,12 @@ export function project(
   return {
     collection: {
       chapterId: node.sourceId ?? node.id,
-      ...(state.status === "ended" ? { endingId: node.id } : {}),
+      ...(state.status === "ended" &&
+      !node.program?.some(
+        (step) => step.kind === "end" && step.collect === false,
+      )
+        ? { endingId: node.id }
+        : {}),
     },
     runId,
     storyId: story.id,

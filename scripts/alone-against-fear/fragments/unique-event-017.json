@@ -1,0 +1,5301 @@
+{
+  "id": "unique-event-017",
+  "paragraphs": [
+    {
+      "id": "unique-event-017:p0000",
+      "kind": "body",
+      "text": "#17. In any case, mark the location of the Rosen house on your\n",
+      "sourceLocation": "pdf:spans:[[50,1119,1182]]"
+    },
+    {
+      "id": "unique-event-017:p0001",
+      "kind": "body",
+      "text": "exploration map. It will remain the same for the whole campaign.\n",
+      "sourceLocation": "pdf:spans:[[50,1182,1247]]"
+    },
+    {
+      "id": "unique-event-017:p0002",
+      "kind": "body",
+      "text": "Reroll if you already found the Rosen House.\n",
+      "sourceLocation": "pdf:spans:[[50,1247,1292]]"
+    },
+    {
+      "id": "unique-event-017:p0003",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[50,1292,1294]]"
+    },
+    {
+      "id": "unique-event-017:p0004",
+      "kind": "body",
+      "text": "This building is a small puppet theatre. You are surrounded by many,\n",
+      "sourceLocation": "pdf:spans:[[50,1294,1363]]"
+    },
+    {
+      "id": "unique-event-017:p0005",
+      "kind": "body",
+      "text": "evil-looking puppets that have somehow taken a life of their own. “Tell\n",
+      "sourceLocation": "pdf:spans:[[50,1363,1435]]"
+    },
+    {
+      "id": "unique-event-017:p0006",
+      "kind": "body",
+      "text": "us a funny joke or we will kill you and use your bones to make more\n",
+      "sourceLocation": "pdf:spans:[[50,1435,1503]]"
+    },
+    {
+      "id": "unique-event-017:p0007",
+      "kind": "body",
+      "text": "of us!”. If you have a book of jokes with you, you automatically\n",
+      "sourceLocation": "pdf:spans:[[50,1503,1568]]"
+    },
+    {
+      "id": "unique-event-017:p0008",
+      "kind": "body",
+      "text": "appease them. Otherwise, make a L5 Charisma roll to improvise a\n",
+      "sourceLocation": "pdf:spans:[[50,1568,1632]]"
+    },
+    {
+      "id": "unique-event-017:p0009",
+      "kind": "body",
+      "text": "joke. Add +1 if you have the Charisma Skill, +2 if you have Charisma\n",
+      "sourceLocation": "pdf:spans:[[50,1632,1701]]"
+    },
+    {
+      "id": "unique-event-017:p0010",
+      "kind": "body",
+      "text": "(Expert). If they are not entertained, you will have to fight them.\n",
+      "sourceLocation": "pdf:spans:[[50,1701,1769]]"
+    },
+    {
+      "id": "unique-event-017:p0011",
+      "kind": "body",
+      "text": "Haunted Puppets, L4 animated object, immune to poison, vulnerable to\n",
+      "sourceLocation": "pdf:spans:[[50,1769,1838]]"
+    },
+    {
+      "id": "unique-event-017:p0012",
+      "kind": "body",
+      "text": "fire. Treat as a single L4 creature with 4 Life, inflicting 1 damage on a\n",
+      "sourceLocation": "pdf:spans:[[50,1838,1912]]"
+    },
+    {
+      "id": "unique-event-017:p0013",
+      "kind": "body",
+      "text": "successful hit. You are surrounded and you may NOT use a grenade\n",
+      "sourceLocation": "pdf:spans:[[50,1912,1977]]"
+    },
+    {
+      "id": "unique-event-017:p0014",
+      "kind": "body",
+      "text": "here. If you use a Molotov cocktail here, you will lose 1 Life.\n",
+      "sourceLocation": "pdf:spans:[[50,1977,2041]]"
+    },
+    {
+      "id": "unique-event-017:p0015",
+      "kind": "body",
+      "text": "6 Amusement park. If you have a train ticket, you may pay for a ride\n",
+      "sourceLocation": "pdf:spans:[[50,2041,2110]]"
+    },
+    {
+      "id": "unique-event-017:p0016",
+      "kind": "body",
+      "text": "and go to event #24. Otherwise, nothing happens.",
+      "sourceLocation": "pdf:spans:[[50,2110,2158]]"
+    },
+    {
+      "id": "unique-event-017:p0017",
+      "kind": "body",
+      "text": "Store table (d6)\n",
+      "sourceLocation": "pdf:spans:[[51,22,39]]"
+    },
+    {
+      "id": "unique-event-017:p0018",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[51,39,41]]"
+    },
+    {
+      "id": "unique-event-017:p0019",
+      "kind": "body",
+      "text": "A shot in the dark. You try to loot a store but, as you enter, someone\n",
+      "sourceLocation": "pdf:spans:[[51,41,112]]"
+    },
+    {
+      "id": "unique-event-017:p0020",
+      "kind": "body",
+      "text": "fires a warning shot. Make a L3 Charisma roll to persuade the shooter\n",
+      "sourceLocation": "pdf:spans:[[51,112,182]]"
+    },
+    {
+      "id": "unique-event-017:p0021",
+      "kind": "body",
+      "text": "you mean no harm. Add +1 for Charisma, +2 for Charisma (Expert). If\n",
+      "sourceLocation": "pdf:spans:[[51,182,250]]"
+    },
+    {
+      "id": "unique-event-017:p0022",
+      "kind": "body",
+      "text": "you succeed, the shooter will let you loot the store. If you fail, he will\n",
+      "sourceLocation": "pdf:spans:[[51,250,325]]"
+    },
+    {
+      "id": "unique-event-017:p0023",
+      "kind": "body",
+      "text": "shoot again (defend against L4 or lose 2 Life) and then flee in the\n",
+      "sourceLocation": "pdf:spans:[[51,325,393]]"
+    },
+    {
+      "id": "unique-event-017:p0024",
+      "kind": "body",
+      "text": "shadows. Once he goes, you may loot the store. You may: 1) roll once\n",
+      "sourceLocation": "pdf:spans:[[51,393,462]]"
+    },
+    {
+      "id": "unique-event-017:p0025",
+      "kind": "body",
+      "text": "on the Random Objects table; 2) roll twice on the Useful Stuff table; 3)\n",
+      "sourceLocation": "pdf:spans:[[51,462,535]]"
+    },
+    {
+      "id": "unique-event-017:p0026",
+      "kind": "body",
+      "text": "roll a 2 in 6 chance of finding a specific non-magical item of your choice\n",
+      "sourceLocation": "pdf:spans:[[51,535,610]]"
+    },
+    {
+      "id": "unique-event-017:p0027",
+      "kind": "body",
+      "text": "from any of the tables.\n",
+      "sourceLocation": "pdf:spans:[[51,610,634]]"
+    },
+    {
+      "id": "unique-event-017:p0028",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[51,634,636]]"
+    },
+    {
+      "id": "unique-event-017:p0029",
+      "kind": "body",
+      "text": "Food store. You may pick up d6 Food points. However, if you do so,\n",
+      "sourceLocation": "pdf:spans:[[51,636,703]]"
+    },
+    {
+      "id": "unique-event-017:p0030",
+      "kind": "body",
+      "text": "there’s a 3 in 6 chance of an encounter with a random monster. Roll d6\n",
+      "sourceLocation": "pdf:spans:[[51,703,774]]"
+    },
+    {
+      "id": "unique-event-017:p0031",
+      "kind": "body",
+      "text": "to determine on which table to roll: 1 Undead, 2 Beast, 3 Slasher, 4\n",
+      "sourceLocation": "pdf:spans:[[51,774,843]]"
+    },
+    {
+      "id": "unique-event-017:p0032",
+      "kind": "body",
+      "text": "Possessed, 5 Demonic horror, 6 Lab Horror. If you do not pick up any\n",
+      "sourceLocation": "pdf:spans:[[51,843,912]]"
+    },
+    {
+      "id": "unique-event-017:p0033",
+      "kind": "body",
+      "text": "Food, you avoid the chance of an encounter.\n",
+      "sourceLocation": "pdf:spans:[[51,912,956]]"
+    },
+    {
+      "id": "unique-event-017:p0034",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[51,956,958]]"
+    },
+    {
+      "id": "unique-event-017:p0035",
+      "kind": "body",
+      "text": "Armory. There’s a 4 in 6 chance of an encounter with a random\n",
+      "sourceLocation": "pdf:spans:[[51,958,1020]]"
+    },
+    {
+      "id": "unique-event-017:p0036",
+      "kind": "body",
+      "text": "monster. Roll d6 to determine on which table to roll: 1-2 Slasher, 3-4\n",
+      "sourceLocation": "pdf:spans:[[51,1020,1091]]"
+    },
+    {
+      "id": "unique-event-017:p0037",
+      "kind": "body",
+      "text": "Undead, 5-6 Possessed. You automatically find d6 ammo for a ranged\n",
+      "sourceLocation": "pdf:spans:[[51,1091,1158]]"
+    },
+    {
+      "id": "unique-event-017:p0038",
+      "kind": "body",
+      "text": "weapon of your choice. In addition, you may roll a 1 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[51,1158,1226]]"
+    },
+    {
+      "id": "unique-event-017:p0039",
+      "kind": "body",
+      "text": "finding any weapon on the weapon summary (p. 99) except antique\n",
+      "sourceLocation": "pdf:spans:[[51,1226,1290]]"
+    },
+    {
+      "id": "unique-event-017:p0040",
+      "kind": "body",
+      "text": "weapons, scythes, and chainsaws. Roll once per weapon. If you find a\n",
+      "sourceLocation": "pdf:spans:[[51,1290,1359]]"
+    },
+    {
+      "id": "unique-event-017:p0041",
+      "kind": "body",
+      "text": "weapon that uses ammo, you find 2d6 ammo for it as well.\n",
+      "sourceLocation": "pdf:spans:[[51,1359,1416]]"
+    },
+    {
+      "id": "unique-event-017:p0042",
+      "kind": "body",
+      "text": "4 Picked clean. You find nothing here.\n",
+      "sourceLocation": "pdf:spans:[[51,1416,1455]]"
+    },
+    {
+      "id": "unique-event-017:p0043",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[51,1455,1457]]"
+    },
+    {
+      "id": "unique-event-017:p0044",
+      "kind": "body",
+      "text": "Bookstore. Roll a 1 in 6 chance of finding an occult guide, 3 in 6 of\n",
+      "sourceLocation": "pdf:spans:[[51,1457,1527]]"
+    },
+    {
+      "id": "unique-event-017:p0045",
+      "kind": "body",
+      "text": "finding a holy book. If neither are found, there is a 2 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[51,1527,1598]]"
+    },
+    {
+      "id": "unique-event-017:p0046",
+      "kind": "body",
+      "text": "finding a random book from the Random Books table. If you roll to find\n",
+      "sourceLocation": "pdf:spans:[[51,1598,1669]]"
+    },
+    {
+      "id": "unique-event-017:p0047",
+      "kind": "body",
+      "text": "any books, you must also roll a 3 in 6 chance of random encounter. Roll\n",
+      "sourceLocation": "pdf:spans:[[51,1669,1741]]"
+    },
+    {
+      "id": "unique-event-017:p0048",
+      "kind": "body",
+      "text": "d6, 1-3 Possessed, 4-5 Witch children, 6 Demonic horror, then roll on\n",
+      "sourceLocation": "pdf:spans:[[51,1741,1811]]"
+    },
+    {
+      "id": "unique-event-017:p0049",
+      "kind": "body",
+      "text": "the appropriate table to determine monster type.\n",
+      "sourceLocation": "pdf:spans:[[51,1811,1860]]"
+    },
+    {
+      "id": "unique-event-017:p0050",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[51,1860,1862]]"
+    },
+    {
+      "id": "unique-event-017:p0051",
+      "kind": "body",
+      "text": "Hardware Store. This store was raided, but there is still a chance of\n",
+      "sourceLocation": "pdf:spans:[[51,1862,1932]]"
+    },
+    {
+      "id": "unique-event-017:p0052",
+      "kind": "body",
+      "text": "finding something useful. Roll a d6 for each item on this list: 3 in 6\n",
+      "sourceLocation": "pdf:spans:[[51,1932,2003]]"
+    },
+    {
+      "id": "unique-event-017:p0053",
+      "kind": "body",
+      "text": "chance of finding a hammer, 4 in 6 of shotgun with d6 shells, 5 in 6 of\n",
+      "sourceLocation": "pdf:spans:[[51,2003,2075]]"
+    },
+    {
+      "id": "unique-event-017:p0054",
+      "kind": "body",
+      "text": "knife, 1 in 6 insecticide, 3 in 6 axe. No matter what you find, if you\n",
+      "sourceLocation": "pdf:spans:[[51,2075,2146]]"
+    },
+    {
+      "id": "unique-event-017:p0055",
+      "kind": "body",
+      "text": "search the store you must also roll a 2 in 6 chance of a random\n",
+      "sourceLocation": "pdf:spans:[[51,2146,2210]]"
+    },
+    {
+      "id": "unique-event-017:p0056",
+      "kind": "body",
+      "text": "encounter that will happen as soon as you pick up any objects. Roll d6\n",
+      "sourceLocation": "pdf:spans:[[51,2210,2281]]"
+    },
+    {
+      "id": "unique-event-017:p0057",
+      "kind": "body",
+      "text": "to determine on which table to roll: 1 Undead, 2-3 Slasher, 4 Possessed,\n",
+      "sourceLocation": "pdf:spans:[[51,2281,2354]]"
+    },
+    {
+      "id": "unique-event-017:p0058",
+      "kind": "body",
+      "text": "5 Demonic horror, 6 Witch Children.",
+      "sourceLocation": "pdf:spans:[[51,2354,2389]]"
+    },
+    {
+      "id": "unique-event-017:p0059",
+      "kind": "body",
+      "text": "sewers table (d6)\n",
+      "sourceLocation": "pdf:spans:[[52,22,40]]"
+    },
+    {
+      "id": "unique-event-017:p0060",
+      "kind": "body",
+      "text": "1 You find an entrance to the sewers. You may ignore this\n",
+      "sourceLocation": "pdf:spans:[[52,40,98]]"
+    },
+    {
+      "id": "unique-event-017:p0061",
+      "kind": "body",
+      "text": "or enter (play event #11 if you do).\n",
+      "sourceLocation": "pdf:spans:[[52,98,135]]"
+    },
+    {
+      "id": "unique-event-017:p0062",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[52,135,137]]"
+    },
+    {
+      "id": "unique-event-017:p0063",
+      "kind": "body",
+      "text": "As you walk close to the sewers, you are attacked by a\n",
+      "sourceLocation": "pdf:spans:[[52,137,192]]"
+    },
+    {
+      "id": "unique-event-017:p0064",
+      "kind": "body",
+      "text": "giant rat thing. It fears fire: if you have a lit torch,a lighter,\n",
+      "sourceLocation": "pdf:spans:[[52,192,259]]"
+    },
+    {
+      "id": "unique-event-017:p0065",
+      "kind": "body",
+      "text": "or use a Molotov cocktail, ignore this encounter.\n",
+      "sourceLocation": "pdf:spans:[[52,259,309]]"
+    },
+    {
+      "id": "unique-event-017:p0066",
+      "kind": "body",
+      "text": "Giant Rat Thing: L3 Animal, 4 Life, damage 1. If you have a\n",
+      "sourceLocation": "pdf:spans:[[52,309,369]]"
+    },
+    {
+      "id": "unique-event-017:p0067",
+      "kind": "body",
+      "text": "dose of rat poison and 1 Food point, you may\n",
+      "sourceLocation": "pdf:spans:[[52,369,414]]"
+    },
+    {
+      "id": "unique-event-017:p0068",
+      "kind": "body",
+      "text": "automatically inflict 2 damage to the creature. If you roll a\n",
+      "sourceLocation": "pdf:spans:[[52,414,476]]"
+    },
+    {
+      "id": "unique-event-017:p0069",
+      "kind": "body",
+      "text": "1 on a Defense roll, you must save vs L5 Infection (add +1\n",
+      "sourceLocation": "pdf:spans:[[52,476,535]]"
+    },
+    {
+      "id": "unique-event-017:p0070",
+      "kind": "body",
+      "text": "if you have the Resilient Skill, +2 if you have it at Expert\n",
+      "sourceLocation": "pdf:spans:[[52,535,596]]"
+    },
+    {
+      "id": "unique-event-017:p0071",
+      "kind": "body",
+      "text": "level) or be infected. If you are infected, you lose 1 Life\n",
+      "sourceLocation": "pdf:spans:[[52,596,656]]"
+    },
+    {
+      "id": "unique-event-017:p0072",
+      "kind": "body",
+      "text": "every time you cross a box until you reach a Safe House or\n",
+      "sourceLocation": "pdf:spans:[[52,656,715]]"
+    },
+    {
+      "id": "unique-event-017:p0073",
+      "kind": "body",
+      "text": "you use a dose from a first aid kit to clean the infected\n",
+      "sourceLocation": "pdf:spans:[[52,715,773]]"
+    },
+    {
+      "id": "unique-event-017:p0074",
+      "kind": "body",
+      "text": "wound.\n",
+      "sourceLocation": "pdf:spans:[[52,773,780]]"
+    },
+    {
+      "id": "unique-event-017:p0075",
+      "kind": "body",
+      "text": "3 You find something. Roll on the Random Objects or on\n",
+      "sourceLocation": "pdf:spans:[[52,780,835]]"
+    },
+    {
+      "id": "unique-event-017:p0076",
+      "kind": "body",
+      "text": "the Useful Stuff table (your choice).\n",
+      "sourceLocation": "pdf:spans:[[52,835,873]]"
+    },
+    {
+      "id": "unique-event-017:p0077",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[52,873,875]]"
+    },
+    {
+      "id": "unique-event-017:p0078",
+      "kind": "body",
+      "text": "You see shadows of people moving through the sewers.\n",
+      "sourceLocation": "pdf:spans:[[52,875,928]]"
+    },
+    {
+      "id": "unique-event-017:p0079",
+      "kind": "body",
+      "text": "Gain 1 Clue. If you want to follow them and investigate,\n",
+      "sourceLocation": "pdf:spans:[[52,928,985]]"
+    },
+    {
+      "id": "unique-event-017:p0080",
+      "kind": "body",
+      "text": "play event #12.\n",
+      "sourceLocation": "pdf:spans:[[52,985,1001]]"
+    },
+    {
+      "id": "unique-event-017:p0081",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[52,1001,1003]]"
+    },
+    {
+      "id": "unique-event-017:p0082",
+      "kind": "body",
+      "text": "You find a section of the sewers that can become a Safe\n",
+      "sourceLocation": "pdf:spans:[[52,1003,1059]]"
+    },
+    {
+      "id": "unique-event-017:p0083",
+      "kind": "body",
+      "text": "House if you first clean it up from the 2d6 zombies (L3,\n",
+      "sourceLocation": "pdf:spans:[[52,1059,1116]]"
+    },
+    {
+      "id": "unique-event-017:p0084",
+      "kind": "body",
+      "text": "Slow, Undead, 1 Life each, damage 1) occupying it.\n",
+      "sourceLocation": "pdf:spans:[[52,1116,1167]]"
+    },
+    {
+      "id": "unique-event-017:p0085",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[52,1167,1169]]"
+    },
+    {
+      "id": "unique-event-017:p0086",
+      "kind": "body",
+      "text": "You have found a hell gate! You may attempt a ritual to\n",
+      "sourceLocation": "pdf:spans:[[52,1169,1225]]"
+    },
+    {
+      "id": "unique-event-017:p0087",
+      "kind": "body",
+      "text": "close it if you have the necessary spell components and\n",
+      "sourceLocation": "pdf:spans:[[52,1225,1281]]"
+    },
+    {
+      "id": "unique-event-017:p0088",
+      "kind": "body",
+      "text": "book describing the ritual. In any case, there is a 3 in 6\n",
+      "sourceLocation": "pdf:spans:[[52,1281,1340]]"
+    },
+    {
+      "id": "unique-event-017:p0089",
+      "kind": "body",
+      "text": "chance that the gate is guarded by a random monster\n",
+      "sourceLocation": "pdf:spans:[[52,1340,1392]]"
+    },
+    {
+      "id": "unique-event-017:p0090",
+      "kind": "body",
+      "text": "from the demonic horror table.",
+      "sourceLocation": "pdf:spans:[[52,1392,1422]]"
+    },
+    {
+      "id": "unique-event-017:p0091",
+      "kind": "body",
+      "text": "Railways table (d6)\n",
+      "sourceLocation": "pdf:spans:[[53,22,42]]"
+    },
+    {
+      "id": "unique-event-017:p0092",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[53,42,44]]"
+    },
+    {
+      "id": "unique-event-017:p0093",
+      "kind": "body",
+      "text": "As you walk down the tracks, you are chased by a demonic\n",
+      "sourceLocation": "pdf:spans:[[53,44,101]]"
+    },
+    {
+      "id": "unique-event-017:p0094",
+      "kind": "body",
+      "text": "creature in a clown mask. Save vs. L4 to Escape (add +1 for\n",
+      "sourceLocation": "pdf:spans:[[53,101,161]]"
+    },
+    {
+      "id": "unique-event-017:p0095",
+      "kind": "body",
+      "text": "Slippery Skill, +2 if you have it at Expert level). If you fail, you take\n",
+      "sourceLocation": "pdf:spans:[[53,161,235]]"
+    },
+    {
+      "id": "unique-event-017:p0096",
+      "kind": "body",
+      "text": "1 damage and must fight. If you have the CLOWNFACE keyword,\n",
+      "sourceLocation": "pdf:spans:[[53,235,295]]"
+    },
+    {
+      "id": "unique-event-017:p0097",
+      "kind": "body",
+      "text": "you may avoid this encounter with a successful L4 Charisma roll\n",
+      "sourceLocation": "pdf:spans:[[53,295,359]]"
+    },
+    {
+      "id": "unique-event-017:p0098",
+      "kind": "body",
+      "text": "(the -1 modifier from a clown mask or a scarred face do not\n",
+      "sourceLocation": "pdf:spans:[[53,359,419]]"
+    },
+    {
+      "id": "unique-event-017:p0099",
+      "kind": "body",
+      "text": "apply to this specific roll).\n",
+      "sourceLocation": "pdf:spans:[[53,419,449]]"
+    },
+    {
+      "id": "unique-event-017:p0100",
+      "kind": "body",
+      "text": "Demonic Clown, L5 demon, 4 Life, Damage 1. The Demonic\n",
+      "sourceLocation": "pdf:spans:[[53,449,504]]"
+    },
+    {
+      "id": "unique-event-017:p0101",
+      "kind": "body",
+      "text": "Clown has a 2 in 6 chance of ignoring any hit you inflict on him\n",
+      "sourceLocation": "pdf:spans:[[53,504,569]]"
+    },
+    {
+      "id": "unique-event-017:p0102",
+      "kind": "body",
+      "text": "unless you are using a magic weapon (roll d6 for every hit you\n",
+      "sourceLocation": "pdf:spans:[[53,569,632]]"
+    },
+    {
+      "id": "unique-event-017:p0103",
+      "kind": "body",
+      "text": "inflict, and on a 1 or 2 the wound is ignored).\n",
+      "sourceLocation": "pdf:spans:[[53,632,680]]"
+    },
+    {
+      "id": "unique-event-017:p0104",
+      "kind": "body",
+      "text": "If you defeat the clown, you gain 1 XP. You may move away from\n",
+      "sourceLocation": "pdf:spans:[[53,680,743]]"
+    },
+    {
+      "id": "unique-event-017:p0105",
+      "kind": "body",
+      "text": "this area or unmask him by playing event #13.\n",
+      "sourceLocation": "pdf:spans:[[53,743,789]]"
+    },
+    {
+      "id": "unique-event-017:p0106",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[53,789,791]]"
+    },
+    {
+      "id": "unique-event-017:p0107",
+      "kind": "body",
+      "text": "You notice something interesting next to an abandoned train.\n",
+      "sourceLocation": "pdf:spans:[[53,791,852]]"
+    },
+    {
+      "id": "unique-event-017:p0108",
+      "kind": "body",
+      "text": "Roll on the Random Objects table. You may take this object if\n",
+      "sourceLocation": "pdf:spans:[[53,852,914]]"
+    },
+    {
+      "id": "unique-event-017:p0109",
+      "kind": "body",
+      "text": "you want.\n",
+      "sourceLocation": "pdf:spans:[[53,914,924]]"
+    },
+    {
+      "id": "unique-event-017:p0110",
+      "kind": "body",
+      "text": "3 Random encounter. Roll d6 to determine which table to use : 1\n",
+      "sourceLocation": "pdf:spans:[[53,924,988]]"
+    },
+    {
+      "id": "unique-event-017:p0111",
+      "kind": "body",
+      "text": "Undead, 2 Beast, 3-4 Slasher, 5 Possessed, 6 Demonic Horrors.\n",
+      "sourceLocation": "pdf:spans:[[53,988,1050]]"
+    },
+    {
+      "id": "unique-event-017:p0112",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[53,1050,1052]]"
+    },
+    {
+      "id": "unique-event-017:p0113",
+      "kind": "body",
+      "text": "You enter an abandoned train to explore it. The inside is\n",
+      "sourceLocation": "pdf:spans:[[53,1052,1110]]"
+    },
+    {
+      "id": "unique-event-017:p0114",
+      "kind": "body",
+      "text": "scrawled with ominous graffiti. Someone named WALRUS has\n",
+      "sourceLocation": "pdf:spans:[[53,1110,1167]]"
+    },
+    {
+      "id": "unique-event-017:p0115",
+      "kind": "body",
+      "text": "signed the graffiti in red paint. Gain 1 Clue.\n",
+      "sourceLocation": "pdf:spans:[[53,1167,1214]]"
+    },
+    {
+      "id": "unique-event-017:p0116",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[53,1214,1216]]"
+    },
+    {
+      "id": "unique-event-017:p0117",
+      "kind": "body",
+      "text": "You enter a train to explore it. A few seconds later, the train\n",
+      "sourceLocation": "pdf:spans:[[53,1216,1280]]"
+    },
+    {
+      "id": "unique-event-017:p0118",
+      "kind": "body",
+      "text": "starts to move. If you rush out, play event #14 from the list of\n",
+      "sourceLocation": "pdf:spans:[[53,1280,1345]]"
+    },
+    {
+      "id": "unique-event-017:p0119",
+      "kind": "body",
+      "text": "events at the end of this book. If you remain on the train, play\n",
+      "sourceLocation": "pdf:spans:[[53,1345,1410]]"
+    },
+    {
+      "id": "unique-event-017:p0120",
+      "kind": "body",
+      "text": "event #16 instead.\n",
+      "sourceLocation": "pdf:spans:[[53,1410,1429]]"
+    },
+    {
+      "id": "unique-event-017:p0121",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[53,1429,1431]]"
+    },
+    {
+      "id": "unique-event-017:p0122",
+      "kind": "body",
+      "text": "You explore a train. As you sit down to rest, a ghastly train\n",
+      "sourceLocation": "pdf:spans:[[53,1431,1493]]"
+    },
+    {
+      "id": "unique-event-017:p0123",
+      "kind": "body",
+      "text": "steward appears and asks to see your ticket. If you have a train\n",
+      "sourceLocation": "pdf:spans:[[53,1493,1558]]"
+    },
+    {
+      "id": "unique-event-017:p0124",
+      "kind": "body",
+      "text": "ticket, all is good and you move out as soon as the creature\n",
+      "sourceLocation": "pdf:spans:[[53,1558,1619]]"
+    },
+    {
+      "id": "unique-event-017:p0125",
+      "kind": "body",
+      "text": "disappears. If you do not have a ticket, the ghost yells in your\n",
+      "sourceLocation": "pdf:spans:[[53,1619,1684]]"
+    },
+    {
+      "id": "unique-event-017:p0126",
+      "kind": "body",
+      "text": "face (save vs. L4 Fear or lose 1 Sanity). The ghost then disappear.\n",
+      "sourceLocation": "pdf:spans:[[53,1684,1752]]"
+    },
+    {
+      "id": "unique-event-017:p0127",
+      "kind": "body",
+      "text": "If you lose your final point of Sanity here, you die of fright\n",
+      "sourceLocation": "pdf:spans:[[53,1752,1815]]"
+    },
+    {
+      "id": "unique-event-017:p0128",
+      "kind": "body",
+      "text": "becoming a ghost on this train.",
+      "sourceLocation": "pdf:spans:[[53,1815,1846]]"
+    },
+    {
+      "id": "unique-event-017:p0129",
+      "kind": "body",
+      "text": "school table (d6)\n",
+      "sourceLocation": "pdf:spans:[[54,22,40]]"
+    },
+    {
+      "id": "unique-event-017:p0130",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[54,40,42]]"
+    },
+    {
+      "id": "unique-event-017:p0131",
+      "kind": "body",
+      "text": "Ancient Egypt exhibit. Fight with a Mummy! L4 Undead, 8 Life, Slow,\n",
+      "sourceLocation": "pdf:spans:[[54,42,110]]"
+    },
+    {
+      "id": "unique-event-017:p0132",
+      "kind": "body",
+      "text": "Vulnerable to fire. Loot: 2 in 6 chance of 1 roll on the Random Magic\n",
+      "sourceLocation": "pdf:spans:[[54,110,180]]"
+    },
+    {
+      "id": "unique-event-017:p0133",
+      "kind": "body",
+      "text": "Item or 3 in 6 chance of 1 Clue (choose before rolling).\n",
+      "sourceLocation": "pdf:spans:[[54,180,237]]"
+    },
+    {
+      "id": "unique-event-017:p0134",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[54,237,239]]"
+    },
+    {
+      "id": "unique-event-017:p0135",
+      "kind": "body",
+      "text": "Abandoned primary school. Roll on the Children’s Stuff table on\n",
+      "sourceLocation": "pdf:spans:[[54,239,303]]"
+    },
+    {
+      "id": "unique-event-017:p0136",
+      "kind": "body",
+      "text": "p.55. Roll a 2 in 6 chance of an encounter with Witch Children (Roll\n",
+      "sourceLocation": "pdf:spans:[[54,303,372]]"
+    },
+    {
+      "id": "unique-event-017:p0137",
+      "kind": "body",
+      "text": "on the Witch Children table).\n",
+      "sourceLocation": "pdf:spans:[[54,372,402]]"
+    },
+    {
+      "id": "unique-event-017:p0138",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[54,402,404]]"
+    },
+    {
+      "id": "unique-event-017:p0139",
+      "kind": "body",
+      "text": "This school had a small horticultural garden, or a still working\n",
+      "sourceLocation": "pdf:spans:[[54,404,469]]"
+    },
+    {
+      "id": "unique-event-017:p0140",
+      "kind": "body",
+      "text": "vending machine. Gain 1 Food point.  Roll a 1 in 6 chance of a random\n",
+      "sourceLocation": "pdf:spans:[[54,469,539]]"
+    },
+    {
+      "id": "unique-event-017:p0141",
+      "kind": "body",
+      "text": "encounter from the Possessed table.\n",
+      "sourceLocation": "pdf:spans:[[54,539,575]]"
+    },
+    {
+      "id": "unique-event-017:p0142",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[54,575,577]]"
+    },
+    {
+      "id": "unique-event-017:p0143",
+      "kind": "body",
+      "text": "School library. Roll a 2 in 6 chance of a random book, and a 2 in 6\n",
+      "sourceLocation": "pdf:spans:[[54,577,645]]"
+    },
+    {
+      "id": "unique-event-017:p0144",
+      "kind": "body",
+      "text": "chance of an encounter with d6 zombie children (L2 Undead, Slow,\n",
+      "sourceLocation": "pdf:spans:[[54,645,710]]"
+    },
+    {
+      "id": "unique-event-017:p0145",
+      "kind": "body",
+      "text": "damage 1). You may perform a Search roll here after defeating the\n",
+      "sourceLocation": "pdf:spans:[[54,710,776]]"
+    },
+    {
+      "id": "unique-event-017:p0146",
+      "kind": "body",
+      "text": "zombie children, if there are any, gaining 1 roll on the Children’s Stuff\n",
+      "sourceLocation": "pdf:spans:[[54,776,850]]"
+    },
+    {
+      "id": "unique-event-017:p0147",
+      "kind": "body",
+      "text": "table (see p. 55) on a success.\n",
+      "sourceLocation": "pdf:spans:[[54,850,882]]"
+    },
+    {
+      "id": "unique-event-017:p0148",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[54,882,884]]"
+    },
+    {
+      "id": "unique-event-017:p0149",
+      "kind": "body",
+      "text": "Art school. You find art materials (colors, brushes, etc.; they count\n",
+      "sourceLocation": "pdf:spans:[[54,884,954]]"
+    },
+    {
+      "id": "unique-event-017:p0150",
+      "kind": "body",
+      "text": "as a single item if carried). There is a 1 in 6 chance of an encounter\n",
+      "sourceLocation": "pdf:spans:[[54,954,1025]]"
+    },
+    {
+      "id": "unique-event-017:p0151",
+      "kind": "body",
+      "text": "with a random monster. Roll d6 to determine on which table to roll:\n",
+      "sourceLocation": "pdf:spans:[[54,1025,1093]]"
+    },
+    {
+      "id": "unique-event-017:p0152",
+      "kind": "body",
+      "text": "1-2 Witch Children, 3 Possessed, 4 Unique Vampire, 5-6 Demonic\n",
+      "sourceLocation": "pdf:spans:[[54,1093,1156]]"
+    },
+    {
+      "id": "unique-event-017:p0153",
+      "kind": "body",
+      "text": "Horrors. After rolling for encounters, you have a 2 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[54,1156,1223]]"
+    },
+    {
+      "id": "unique-event-017:p0154",
+      "kind": "body",
+      "text": "finding a sketchbook. You may ignore it or play event #35 if you pick\n",
+      "sourceLocation": "pdf:spans:[[54,1223,1293]]"
+    },
+    {
+      "id": "unique-event-017:p0155",
+      "kind": "body",
+      "text": "it up. If you do not find the sketchbook, you may perform a Search\n",
+      "sourceLocation": "pdf:spans:[[54,1293,1360]]"
+    },
+    {
+      "id": "unique-event-017:p0156",
+      "kind": "body",
+      "text": "roll and find 1 Clue on a success.\n",
+      "sourceLocation": "pdf:spans:[[54,1360,1395]]"
+    },
+    {
+      "id": "unique-event-017:p0157",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[54,1395,1397]]"
+    },
+    {
+      "id": "unique-event-017:p0158",
+      "kind": "body",
+      "text": "Library. You find d3 random books. There’s a 3 in 6 chance of an\n",
+      "sourceLocation": "pdf:spans:[[54,1397,1462]]"
+    },
+    {
+      "id": "unique-event-017:p0159",
+      "kind": "body",
+      "text": "encounter with a witch librarian. Make a L4 Charisma roll. Add +1 if\n",
+      "sourceLocation": "pdf:spans:[[54,1462,1531]]"
+    },
+    {
+      "id": "unique-event-017:p0160",
+      "kind": "body",
+      "text": "you have the Charisma Skill, +2 if you have Charisma (Expert). On a\n",
+      "sourceLocation": "pdf:spans:[[54,1531,1599]]"
+    },
+    {
+      "id": "unique-event-017:p0161",
+      "kind": "body",
+      "text": "success, the Witch Librarian lets you trade one of you objects or 2\n",
+      "sourceLocation": "pdf:spans:[[54,1599,1667]]"
+    },
+    {
+      "id": "unique-event-017:p0162",
+      "kind": "body",
+      "text": "Food per book desired (from the d3 books above). On a failure, you\n",
+      "sourceLocation": "pdf:spans:[[54,1667,1734]]"
+    },
+    {
+      "id": "unique-event-017:p0163",
+      "kind": "body",
+      "text": "must fight. Her first attack is a spell (save vs. L5 magic or lose 2 Sanity),\n",
+      "sourceLocation": "pdf:spans:[[54,1734,1812]]"
+    },
+    {
+      "id": "unique-event-017:p0164",
+      "kind": "body",
+      "text": "then she will draw a knife (damage 1). She is L4, 5 Life. If you choose\n",
+      "sourceLocation": "pdf:spans:[[54,1812,1884]]"
+    },
+    {
+      "id": "unique-event-017:p0165",
+      "kind": "body",
+      "text": "to Escape from this encounter, the Witch Librarian will cast another\n",
+      "sourceLocation": "pdf:spans:[[54,1884,1953]]"
+    },
+    {
+      "id": "unique-event-017:p0166",
+      "kind": "body",
+      "text": "spell at you (same rules as above) as you flee.",
+      "sourceLocation": "pdf:spans:[[54,1953,2000]]"
+    },
+    {
+      "id": "unique-event-017:p0167",
+      "kind": "body",
+      "text": "Children’s stuff table (d6)\n",
+      "sourceLocation": "pdf:spans:[[55,22,50]]"
+    },
+    {
+      "id": "unique-event-017:p0168",
+      "kind": "body",
+      "text": "1 You find a creepy doll with a blood spattered dress. You\n",
+      "sourceLocation": "pdf:spans:[[55,50,109]]"
+    },
+    {
+      "id": "unique-event-017:p0169",
+      "kind": "body",
+      "text": "may take it if you wish (counts as 1 carried object).\n",
+      "sourceLocation": "pdf:spans:[[55,109,163]]"
+    },
+    {
+      "id": "unique-event-017:p0170",
+      "kind": "body",
+      "text": "2 You find a box of plastic construction bricks.  You may take\n",
+      "sourceLocation": "pdf:spans:[[55,163,226]]"
+    },
+    {
+      "id": "unique-event-017:p0171",
+      "kind": "body",
+      "text": "them if you wish (they count as 1 carried object).\n",
+      "sourceLocation": "pdf:spans:[[55,226,277]]"
+    },
+    {
+      "id": "unique-event-017:p0172",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[55,277,279]]"
+    },
+    {
+      "id": "unique-event-017:p0173",
+      "kind": "body",
+      "text": "You find a sketchbook signed by a child aged 9. It contains\n",
+      "sourceLocation": "pdf:spans:[[55,279,339]]"
+    },
+    {
+      "id": "unique-event-017:p0174",
+      "kind": "body",
+      "text": "disturbingly realistic paintings of parents wearing goat\n",
+      "sourceLocation": "pdf:spans:[[55,339,396]]"
+    },
+    {
+      "id": "unique-event-017:p0175",
+      "kind": "body",
+      "text": "horns on their heads. You realize that the brown color\n",
+      "sourceLocation": "pdf:spans:[[55,396,451]]"
+    },
+    {
+      "id": "unique-event-017:p0176",
+      "kind": "body",
+      "text": "used in the art is dried blood. Save vs. L2 Fear or lose 1\n",
+      "sourceLocation": "pdf:spans:[[55,451,510]]"
+    },
+    {
+      "id": "unique-event-017:p0177",
+      "kind": "body",
+      "text": "Sanity. Gain 1 Clue.\n",
+      "sourceLocation": "pdf:spans:[[55,510,531]]"
+    },
+    {
+      "id": "unique-event-017:p0178",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[55,531,533]]"
+    },
+    {
+      "id": "unique-event-017:p0179",
+      "kind": "body",
+      "text": "You find a length of cord with several knots. If you have an\n",
+      "sourceLocation": "pdf:spans:[[55,533,594]]"
+    },
+    {
+      "id": "unique-event-017:p0180",
+      "kind": "body",
+      "text": "occult guide, play event #36. You may keep the cord and\n",
+      "sourceLocation": "pdf:spans:[[55,594,650]]"
+    },
+    {
+      "id": "unique-event-017:p0181",
+      "kind": "body",
+      "text": "go to event #36 as soon as you find an occult guide. The\n",
+      "sourceLocation": "pdf:spans:[[55,650,707]]"
+    },
+    {
+      "id": "unique-event-017:p0182",
+      "kind": "body",
+      "text": "cord’s weight is negligible.\n",
+      "sourceLocation": "pdf:spans:[[55,707,736]]"
+    },
+    {
+      "id": "unique-event-017:p0183",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[55,736,738]]"
+    },
+    {
+      "id": "unique-event-017:p0184",
+      "kind": "body",
+      "text": "You find a rubber mask. It looks like a clown’s face. Weight\n",
+      "sourceLocation": "pdf:spans:[[55,738,799]]"
+    },
+    {
+      "id": "unique-event-017:p0185",
+      "kind": "body",
+      "text": "is negligible. You may wear it if you want (add the keyword\n",
+      "sourceLocation": "pdf:spans:[[55,799,859]]"
+    },
+    {
+      "id": "unique-event-017:p0186",
+      "kind": "body",
+      "text": "CLOWNFACE to your play sheet), but your Charisma rolls\n",
+      "sourceLocation": "pdf:spans:[[55,859,914]]"
+    },
+    {
+      "id": "unique-event-017:p0187",
+      "kind": "body",
+      "text": "will be at -1 if you do.\n",
+      "sourceLocation": "pdf:spans:[[55,914,939]]"
+    },
+    {
+      "id": "unique-event-017:p0188",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[55,939,941]]"
+    },
+    {
+      "id": "unique-event-017:p0189",
+      "kind": "body",
+      "text": "You find a pumpkin carved into a jack o’ lantern. If you\n",
+      "sourceLocation": "pdf:spans:[[55,941,998]]"
+    },
+    {
+      "id": "unique-event-017:p0190",
+      "kind": "body",
+      "text": "have a candle, you may light it and put it inside. Play event\n",
+      "sourceLocation": "pdf:spans:[[55,998,1060]]"
+    },
+    {
+      "id": "unique-event-017:p0191",
+      "kind": "body",
+      "text": "#40 if you do so. The pumpkin counts as 1 carried object.\n",
+      "sourceLocation": "pdf:spans:[[55,1060,1118]]"
+    },
+    {
+      "id": "unique-event-017:p0192",
+      "kind": "body",
+      "text": "All of these findings are unique. If you roll a result that you already\n",
+      "sourceLocation": "pdf:spans:[[55,1118,1190]]"
+    },
+    {
+      "id": "unique-event-017:p0193",
+      "kind": "body",
+      "text": "rolled before, reroll until you select something different. If you have\n",
+      "sourceLocation": "pdf:spans:[[55,1190,1262]]"
+    },
+    {
+      "id": "unique-event-017:p0194",
+      "kind": "body",
+      "text": "already found or discarded all the above items and are required to\n",
+      "sourceLocation": "pdf:spans:[[55,1262,1329]]"
+    },
+    {
+      "id": "unique-event-017:p0195",
+      "kind": "body",
+      "text": "roll on this table, roll on the Useful Stuff or on the Random Object\n",
+      "sourceLocation": "pdf:spans:[[55,1329,1398]]"
+    },
+    {
+      "id": "unique-event-017:p0196",
+      "kind": "body",
+      "text": "table (your choice) instead.",
+      "sourceLocation": "pdf:spans:[[55,1398,1426]]"
+    },
+    {
+      "id": "unique-event-017:p0197",
+      "kind": "body",
+      "text": "Woods/park table (d6)\n",
+      "sourceLocation": "pdf:spans:[[57,22,44]]"
+    },
+    {
+      "id": "unique-event-017:p0198",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[57,44,46]]"
+    },
+    {
+      "id": "unique-event-017:p0199",
+      "kind": "body",
+      "text": "Werewolf attack! Werewolf, L4 Were, 8 Life, Damage 2. Silver\n",
+      "sourceLocation": "pdf:spans:[[57,46,107]]"
+    },
+    {
+      "id": "unique-event-017:p0200",
+      "kind": "body",
+      "text": "weapons hit the were at +2. It has a 2 in 6 chance of surprise. At the\n",
+      "sourceLocation": "pdf:spans:[[57,107,178]]"
+    },
+    {
+      "id": "unique-event-017:p0201",
+      "kind": "body",
+      "text": "beginning of the encounter, you must save vs. L3 Fear or (choose):\n",
+      "sourceLocation": "pdf:spans:[[57,178,245]]"
+    },
+    {
+      "id": "unique-event-017:p0202",
+      "kind": "body",
+      "text": "lose 1 Sanity, or be at -1 on Defense rolls for the duration of the\n",
+      "sourceLocation": "pdf:spans:[[57,245,313]]"
+    },
+    {
+      "id": "unique-event-017:p0203",
+      "kind": "body",
+      "text": "encounter. Any Escape roll against the werewolf is at -1. After you\n",
+      "sourceLocation": "pdf:spans:[[57,313,381]]"
+    },
+    {
+      "id": "unique-event-017:p0204",
+      "kind": "body",
+      "text": "have played this encounter twice in a game, ignore it and roll on the\n",
+      "sourceLocation": "pdf:spans:[[57,381,451]]"
+    },
+    {
+      "id": "unique-event-017:p0205",
+      "kind": "body",
+      "text": "Beasts table instead.\n",
+      "sourceLocation": "pdf:spans:[[57,451,473]]"
+    },
+    {
+      "id": "unique-event-017:p0206",
+      "kind": "body",
+      "text": "2 Safe area. As soon as you step into this area, you heal either 1 Life\n",
+      "sourceLocation": "pdf:spans:[[57,473,545]]"
+    },
+    {
+      "id": "unique-event-017:p0207",
+      "kind": "body",
+      "text": "or 1 Sanity (your choice). This zone counts as a Safe House.\n",
+      "sourceLocation": "pdf:spans:[[57,545,606]]"
+    },
+    {
+      "id": "unique-event-017:p0208",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[57,606,608]]"
+    },
+    {
+      "id": "unique-event-017:p0209",
+      "kind": "body",
+      "text": "Slasher! Roll on the Slashers table. The encounter happens in the\n",
+      "sourceLocation": "pdf:spans:[[57,608,674]]"
+    },
+    {
+      "id": "unique-event-017:p0210",
+      "kind": "body",
+      "text": "woods: the slasher gets a +1 to his/her chance of surprise but you\n",
+      "sourceLocation": "pdf:spans:[[57,674,741]]"
+    },
+    {
+      "id": "unique-event-017:p0211",
+      "kind": "body",
+      "text": "get +1 to your Escape rolls.\n",
+      "sourceLocation": "pdf:spans:[[57,741,770]]"
+    },
+    {
+      "id": "unique-event-017:p0212",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[57,770,772]]"
+    },
+    {
+      "id": "unique-event-017:p0213",
+      "kind": "body",
+      "text": "Eerie area. There is a 2 in 6 chance that this place is a hell gate. If\n",
+      "sourceLocation": "pdf:spans:[[57,772,844]]"
+    },
+    {
+      "id": "unique-event-017:p0214",
+      "kind": "body",
+      "text": "so, you must also roll a 2 in 6 chance of a random encounter with a\n",
+      "sourceLocation": "pdf:spans:[[57,844,912]]"
+    },
+    {
+      "id": "unique-event-017:p0215",
+      "kind": "body",
+      "text": "foe from the Demonic Horrors table. You may attempt to close the\n",
+      "sourceLocation": "pdf:spans:[[57,912,977]]"
+    },
+    {
+      "id": "unique-event-017:p0216",
+      "kind": "body",
+      "text": "hell gate if you know the ritual and you have all the required\n",
+      "sourceLocation": "pdf:spans:[[57,977,1040]]"
+    },
+    {
+      "id": "unique-event-017:p0217",
+      "kind": "body",
+      "text": "equipment.\n",
+      "sourceLocation": "pdf:spans:[[57,1040,1051]]"
+    },
+    {
+      "id": "unique-event-017:p0218",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[57,1051,1053]]"
+    },
+    {
+      "id": "unique-event-017:p0219",
+      "kind": "body",
+      "text": "Werewolf Pack! You are chased by d3+1 werewolves. They have a\n",
+      "sourceLocation": "pdf:spans:[[57,1053,1115]]"
+    },
+    {
+      "id": "unique-event-017:p0220",
+      "kind": "body",
+      "text": "2 in 6 chance of surprising you. They are L3 Weres, 1 Life point each,\n",
+      "sourceLocation": "pdf:spans:[[57,1115,1186]]"
+    },
+    {
+      "id": "unique-event-017:p0221",
+      "kind": "body",
+      "text": "Damage 1. At the beginning of the encounter, save vs. L3 Fear or\n",
+      "sourceLocation": "pdf:spans:[[57,1186,1251]]"
+    },
+    {
+      "id": "unique-event-017:p0222",
+      "kind": "body",
+      "text": "(choose) lose 1 Sanity or be at -1 on Defense rolls until the end of\n",
+      "sourceLocation": "pdf:spans:[[57,1251,1320]]"
+    },
+    {
+      "id": "unique-event-017:p0223",
+      "kind": "body",
+      "text": "this encounter.\n",
+      "sourceLocation": "pdf:spans:[[57,1320,1336]]"
+    },
+    {
+      "id": "unique-event-017:p0224",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[57,1336,1338]]"
+    },
+    {
+      "id": "unique-event-017:p0225",
+      "kind": "body",
+      "text": "Hangman’s Tree. You find d6 corpses hanging from a tree. There\n",
+      "sourceLocation": "pdf:spans:[[57,1338,1401]]"
+    },
+    {
+      "id": "unique-event-017:p0226",
+      "kind": "body",
+      "text": "is nothing you can do for them: they are dead. There is a 1 in 6\n",
+      "sourceLocation": "pdf:spans:[[57,1401,1466]]"
+    },
+    {
+      "id": "unique-event-017:p0227",
+      "kind": "body",
+      "text": "chance of finding a random object (roll on the Random Object or\n",
+      "sourceLocation": "pdf:spans:[[57,1466,1530]]"
+    },
+    {
+      "id": "unique-event-017:p0228",
+      "kind": "body",
+      "text": "Useful Stuff table, your choice) for each corpse you take down from\n",
+      "sourceLocation": "pdf:spans:[[57,1530,1598]]"
+    },
+    {
+      "id": "unique-event-017:p0229",
+      "kind": "body",
+      "text": "the tree. Every time you do so, you must save vs. L4 Fear (add +1\n",
+      "sourceLocation": "pdf:spans:[[57,1598,1664]]"
+    },
+    {
+      "id": "unique-event-017:p0230",
+      "kind": "body",
+      "text": "for Will, +2 for Will Expert) or lose 1 Sanity. After you have played\n",
+      "sourceLocation": "pdf:spans:[[57,1664,1734]]"
+    },
+    {
+      "id": "unique-event-017:p0231",
+      "kind": "body",
+      "text": "this encounter twice in a game, ignore it and roll on the Beasts table\n",
+      "sourceLocation": "pdf:spans:[[57,1734,1805]]"
+    },
+    {
+      "id": "unique-event-017:p0232",
+      "kind": "body",
+      "text": "instead.",
+      "sourceLocation": "pdf:spans:[[57,1805,1813]]"
+    },
+    {
+      "id": "unique-event-017:p0233",
+      "kind": "body",
+      "text": "Special events table (d6)\n",
+      "sourceLocation": "pdf:spans:[[58,22,48]]"
+    },
+    {
+      "id": "unique-event-017:p0234",
+      "kind": "body",
+      "text": "Each of these events may happen only once in the game. As you play it, cross\n",
+      "sourceLocation": "pdf:spans:[[58,48,125]]"
+    },
+    {
+      "id": "unique-event-017:p0235",
+      "kind": "body",
+      "text": "it off the table. If you get an event that has already occurred, reroll until you\n",
+      "sourceLocation": "pdf:spans:[[58,125,207]]"
+    },
+    {
+      "id": "unique-event-017:p0236",
+      "kind": "body",
+      "text": "select a new one. Once all special events have happened, treat any additional\n",
+      "sourceLocation": "pdf:spans:[[58,207,285]]"
+    },
+    {
+      "id": "unique-event-017:p0237",
+      "kind": "body",
+      "text": "roll of 7 on the Exploration Table as a “House” result.\n",
+      "sourceLocation": "pdf:spans:[[58,285,341]]"
+    },
+    {
+      "id": "unique-event-017:p0238",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[58,341,343]]"
+    },
+    {
+      "id": "unique-event-017:p0239",
+      "kind": "body",
+      "text": "The Kid. You meet Mark, a scrawny, wide-eyed kid who wants\n",
+      "sourceLocation": "pdf:spans:[[58,343,402]]"
+    },
+    {
+      "id": "unique-event-017:p0240",
+      "kind": "body",
+      "text": "to join you for protection. If you refuse, he will go away. If you\n",
+      "sourceLocation": "pdf:spans:[[58,402,469]]"
+    },
+    {
+      "id": "unique-event-017:p0241",
+      "kind": "body",
+      "text": "allow him to be with you, roll d6. On a 1-3, play event #26. On\n",
+      "sourceLocation": "pdf:spans:[[58,469,533]]"
+    },
+    {
+      "id": "unique-event-017:p0242",
+      "kind": "body",
+      "text": "a 4-6, play event #37 instead.\n",
+      "sourceLocation": "pdf:spans:[[58,533,564]]"
+    },
+    {
+      "id": "unique-event-017:p0243",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[58,564,566]]"
+    },
+    {
+      "id": "unique-event-017:p0244",
+      "kind": "body",
+      "text": "You find a blood spattered random object from either the\n",
+      "sourceLocation": "pdf:spans:[[58,566,623]]"
+    },
+    {
+      "id": "unique-event-017:p0245",
+      "kind": "body",
+      "text": "Random Objects table or the Useful Stuff table. You may\n",
+      "sourceLocation": "pdf:spans:[[58,623,679]]"
+    },
+    {
+      "id": "unique-event-017:p0246",
+      "kind": "body",
+      "text": "ignore it or pick it up and play event #31.\n",
+      "sourceLocation": "pdf:spans:[[58,679,723]]"
+    },
+    {
+      "id": "unique-event-017:p0247",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[58,723,725]]"
+    },
+    {
+      "id": "unique-event-017:p0248",
+      "kind": "body",
+      "text": "You spot a random object that is precariously balanced on\n",
+      "sourceLocation": "pdf:spans:[[58,725,783]]"
+    },
+    {
+      "id": "unique-event-017:p0249",
+      "kind": "body",
+      "text": "some dangerous place. Feel free to invent the details, based\n",
+      "sourceLocation": "pdf:spans:[[58,783,844]]"
+    },
+    {
+      "id": "unique-event-017:p0250",
+      "kind": "body",
+      "text": "on your location and the object type. Reaching the object\n",
+      "sourceLocation": "pdf:spans:[[58,844,902]]"
+    },
+    {
+      "id": "unique-event-017:p0251",
+      "kind": "body",
+      "text": "requires a L4 climbing roll. Add +1 if you have the Agile skill,\n",
+      "sourceLocation": "pdf:spans:[[58,902,967]]"
+    },
+    {
+      "id": "unique-event-017:p0252",
+      "kind": "body",
+      "text": "and +2 if you have it at Expert level. On a failure, you fall down\n",
+      "sourceLocation": "pdf:spans:[[58,967,1034]]"
+    },
+    {
+      "id": "unique-event-017:p0253",
+      "kind": "body",
+      "text": "and lose 1 Life. On a success, you gain the object and climb\n",
+      "sourceLocation": "pdf:spans:[[58,1034,1095]]"
+    },
+    {
+      "id": "unique-event-017:p0254",
+      "kind": "body",
+      "text": "down to safety. You may try as many times as you want.\n",
+      "sourceLocation": "pdf:spans:[[58,1095,1150]]"
+    },
+    {
+      "id": "unique-event-017:p0255",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[58,1150,1152]]"
+    },
+    {
+      "id": "unique-event-017:p0256",
+      "kind": "body",
+      "text": "As you walk in front of a house, a ghastly face appears at a\n",
+      "sourceLocation": "pdf:spans:[[58,1152,1213]]"
+    },
+    {
+      "id": "unique-event-017:p0257",
+      "kind": "body",
+      "text": "window. Save vs. L3 Fear or lose 1 Sanity. If you choose to\n",
+      "sourceLocation": "pdf:spans:[[58,1213,1273]]"
+    },
+    {
+      "id": "unique-event-017:p0258",
+      "kind": "body",
+      "text": "enter the building and investigate, play event #34 from the\n",
+      "sourceLocation": "pdf:spans:[[58,1273,1333]]"
+    },
+    {
+      "id": "unique-event-017:p0259",
+      "kind": "body",
+      "text": "event list at the end of this book. If you ignore the apparition,\n",
+      "sourceLocation": "pdf:spans:[[58,1333,1399]]"
+    },
+    {
+      "id": "unique-event-017:p0260",
+      "kind": "body",
+      "text": "just carry on with your exploration.\n",
+      "sourceLocation": "pdf:spans:[[58,1399,1436]]"
+    },
+    {
+      "id": "unique-event-017:p0261",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[58,1436,1438]]"
+    },
+    {
+      "id": "unique-event-017:p0262",
+      "kind": "body",
+      "text": "A chilly wind starts to blow . Until your next encounter is\n",
+      "sourceLocation": "pdf:spans:[[58,1438,1498]]"
+    },
+    {
+      "id": "unique-event-017:p0263",
+      "kind": "body",
+      "text": "over, you may not use a torch, a candle, light any fire, or use\n",
+      "sourceLocation": "pdf:spans:[[58,1498,1562]]"
+    },
+    {
+      "id": "unique-event-017:p0264",
+      "kind": "body",
+      "text": "a Molotov cocktail.\n",
+      "sourceLocation": "pdf:spans:[[58,1562,1582]]"
+    },
+    {
+      "id": "unique-event-017:p0265",
+      "kind": "body",
+      "text": "6 You stumble upon a pool of yellow goo in the middle of the\n",
+      "sourceLocation": "pdf:spans:[[58,1582,1643]]"
+    },
+    {
+      "id": "unique-event-017:p0266",
+      "kind": "body",
+      "text": "road. If you have a jar, you may pick up some.",
+      "sourceLocation": "pdf:spans:[[58,1643,1689]]"
+    },
+    {
+      "id": "unique-event-017:p0267",
+      "kind": "body",
+      "text": " Beasts table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[59,22,46]]"
+    },
+    {
+      "id": "unique-event-017:p0268",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[59,46,48]]"
+    },
+    {
+      "id": "unique-event-017:p0269",
+      "kind": "body",
+      "text": "Giant Albino Alligator, L4 Animal, Life 6, damage 2, 1 in 6\n",
+      "sourceLocation": "pdf:spans:[[59,48,108]]"
+    },
+    {
+      "id": "unique-event-017:p0270",
+      "kind": "body",
+      "text": "chance of surprise (3 in 6 if encountered in the sewers). Every\n",
+      "sourceLocation": "pdf:spans:[[59,108,172]]"
+    },
+    {
+      "id": "unique-event-017:p0271",
+      "kind": "body",
+      "text": "attack hitting the alligator has a 2 in 6 chance of bouncing off\n",
+      "sourceLocation": "pdf:spans:[[59,172,237]]"
+    },
+    {
+      "id": "unique-event-017:p0272",
+      "kind": "body",
+      "text": "its hard skin.\n",
+      "sourceLocation": "pdf:spans:[[59,237,252]]"
+    },
+    {
+      "id": "unique-event-017:p0273",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[59,252,254]]"
+    },
+    {
+      "id": "unique-event-017:p0274",
+      "kind": "body",
+      "text": "Zombie Dog, L3 Undead, Life 3, damage 2. Escape rolls from\n",
+      "sourceLocation": "pdf:spans:[[59,254,313]]"
+    },
+    {
+      "id": "unique-event-017:p0275",
+      "kind": "body",
+      "text": "the zombie dog are at -1. If you have dog food or a dog toy,\n",
+      "sourceLocation": "pdf:spans:[[59,313,374]]"
+    },
+    {
+      "id": "unique-event-017:p0276",
+      "kind": "body",
+      "text": "you may sacrifice it to distract the zombie dog and gain a +1\n",
+      "sourceLocation": "pdf:spans:[[59,374,436]]"
+    },
+    {
+      "id": "unique-event-017:p0277",
+      "kind": "body",
+      "text": "to your Escape roll.\n",
+      "sourceLocation": "pdf:spans:[[59,436,457]]"
+    },
+    {
+      "id": "unique-event-017:p0278",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[59,457,459]]"
+    },
+    {
+      "id": "unique-event-017:p0279",
+      "kind": "body",
+      "text": "Large Rabid Dog, L5 Animal, Life 4, damage 1, 2 in 6 chance\n",
+      "sourceLocation": "pdf:spans:[[59,459,519]]"
+    },
+    {
+      "id": "unique-event-017:p0280",
+      "kind": "body",
+      "text": "of surprise. You may sacrifice 2 Food, 1 can of dog food or 1\n",
+      "sourceLocation": "pdf:spans:[[59,519,581]]"
+    },
+    {
+      "id": "unique-event-017:p0281",
+      "kind": "body",
+      "text": "dog toy to distract it, gaining +2 to your Escape roll. A bite from\n",
+      "sourceLocation": "pdf:spans:[[59,581,649]]"
+    },
+    {
+      "id": "unique-event-017:p0282",
+      "kind": "body",
+      "text": "the dog has a 1 in 6 chance of infection. If you have an\n",
+      "sourceLocation": "pdf:spans:[[59,649,706]]"
+    },
+    {
+      "id": "unique-event-017:p0283",
+      "kind": "body",
+      "text": "infection, you must use 1 point from a first aid kit within 3\n",
+      "sourceLocation": "pdf:spans:[[59,706,768]]"
+    },
+    {
+      "id": "unique-event-017:p0284",
+      "kind": "body",
+      "text": "boxes or lose 2 additional Life.\n",
+      "sourceLocation": "pdf:spans:[[59,768,801]]"
+    },
+    {
+      "id": "unique-event-017:p0285",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[59,801,803]]"
+    },
+    {
+      "id": "unique-event-017:p0286",
+      "kind": "body",
+      "text": "Swarm of Large Vampire Bats, L5 Animal, Life 2, damage 1,\n",
+      "sourceLocation": "pdf:spans:[[59,803,861]]"
+    },
+    {
+      "id": "unique-event-017:p0287",
+      "kind": "body",
+      "text": "Flying (you may not Escape from this encounter). If you take\n",
+      "sourceLocation": "pdf:spans:[[59,861,922]]"
+    },
+    {
+      "id": "unique-event-017:p0288",
+      "kind": "body",
+      "text": "any damage from the bats, roll a 1 in 6 chance of infection at\n",
+      "sourceLocation": "pdf:spans:[[59,922,985]]"
+    },
+    {
+      "id": "unique-event-017:p0289",
+      "kind": "body",
+      "text": "the end of the encounter. If you have an infection, you must\n",
+      "sourceLocation": "pdf:spans:[[59,985,1046]]"
+    },
+    {
+      "id": "unique-event-017:p0290",
+      "kind": "body",
+      "text": "use 1 point from a first aid kit within 3 boxes or lose 1\n",
+      "sourceLocation": "pdf:spans:[[59,1046,1104]]"
+    },
+    {
+      "id": "unique-event-017:p0291",
+      "kind": "body",
+      "text": "additional Life.\n",
+      "sourceLocation": "pdf:spans:[[59,1104,1121]]"
+    },
+    {
+      "id": "unique-event-017:p0292",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[59,1121,1123]]"
+    },
+    {
+      "id": "unique-event-017:p0293",
+      "kind": "body",
+      "text": "Bone Monster, L4 Undead, Life 5, damage 1. Baseball bats\n",
+      "sourceLocation": "pdf:spans:[[59,1123,1180]]"
+    },
+    {
+      "id": "unique-event-017:p0294",
+      "kind": "body",
+      "text": "and hammers hit at +1. Bullets and projectiles of all types,\n",
+      "sourceLocation": "pdf:spans:[[59,1180,1241]]"
+    },
+    {
+      "id": "unique-event-017:p0295",
+      "kind": "body",
+      "text": "including arrows and crossbow bolts, strike it at -1. If you\n",
+      "sourceLocation": "pdf:spans:[[59,1241,1302]]"
+    },
+    {
+      "id": "unique-event-017:p0296",
+      "kind": "body",
+      "text": "defeat the Bone Monster and have read the Occult Guide (see\n",
+      "sourceLocation": "pdf:spans:[[59,1302,1362]]"
+    },
+    {
+      "id": "unique-event-017:p0297",
+      "kind": "body",
+      "text": "Random Books table) you may collect d3 doses of bone\n",
+      "sourceLocation": "pdf:spans:[[59,1362,1415]]"
+    },
+    {
+      "id": "unique-event-017:p0298",
+      "kind": "body",
+      "text": "powder.\n",
+      "sourceLocation": "pdf:spans:[[59,1415,1423]]"
+    },
+    {
+      "id": "unique-event-017:p0299",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[59,1423,1425]]"
+    },
+    {
+      "id": "unique-event-017:p0300",
+      "kind": "body",
+      "text": "Giant Wolf, L6 Animal, Life 4, damage 2. 1 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[59,1425,1483]]"
+    },
+    {
+      "id": "unique-event-017:p0301",
+      "kind": "body",
+      "text": "surprise if encountered in a park or a forest. Silver weapons\n",
+      "sourceLocation": "pdf:spans:[[59,1483,1545]]"
+    },
+    {
+      "id": "unique-event-017:p0302",
+      "kind": "body",
+      "text": "hit it at +2. Escape rolls from this monster are at -1.",
+      "sourceLocation": "pdf:spans:[[59,1545,1600]]"
+    },
+    {
+      "id": "unique-event-017:p0303",
+      "kind": "body",
+      "text": "Undead table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[60,22,45]]"
+    },
+    {
+      "id": "unique-event-017:p0304",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[60,45,47]]"
+    },
+    {
+      "id": "unique-event-017:p0305",
+      "kind": "body",
+      "text": "2d6 Zombies, L2 Undead, 1 Life each, damage 1. Zombies are Slow:\n",
+      "sourceLocation": "pdf:spans:[[60,47,112]]"
+    },
+    {
+      "id": "unique-event-017:p0306",
+      "kind": "body",
+      "text": "you may Escape with no ill effect. You gain no XP if you flee. Zombies\n",
+      "sourceLocation": "pdf:spans:[[60,112,183]]"
+    },
+    {
+      "id": "unique-event-017:p0307",
+      "kind": "body",
+      "text": "remain in the area. If you are killed by zombies, you become a\n",
+      "sourceLocation": "pdf:spans:[[60,183,246]]"
+    },
+    {
+      "id": "unique-event-017:p0308",
+      "kind": "body",
+      "text": "zombie and remain in this area.\n",
+      "sourceLocation": "pdf:spans:[[60,246,278]]"
+    },
+    {
+      "id": "unique-event-017:p0309",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[60,278,280]]"
+    },
+    {
+      "id": "unique-event-017:p0310",
+      "kind": "body",
+      "text": "d6 Twitchers, L4 Undead, 1 Life each, damage 1. Twitchers are\n",
+      "sourceLocation": "pdf:spans:[[60,280,342]]"
+    },
+    {
+      "id": "unique-event-017:p0311",
+      "kind": "body",
+      "text": "faster, smarter zombies that lay ambushes. They have a  2 in 6\n",
+      "sourceLocation": "pdf:spans:[[60,342,405]]"
+    },
+    {
+      "id": "unique-event-017:p0312",
+      "kind": "body",
+      "text": "chance of  surprise. If you are killed by twitchers, you become a\n",
+      "sourceLocation": "pdf:spans:[[60,405,471]]"
+    },
+    {
+      "id": "unique-event-017:p0313",
+      "kind": "body",
+      "text": "twitcher and remain in this area.\n",
+      "sourceLocation": "pdf:spans:[[60,471,505]]"
+    },
+    {
+      "id": "unique-event-017:p0314",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[60,505,507]]"
+    },
+    {
+      "id": "unique-event-017:p0315",
+      "kind": "body",
+      "text": "d6 Flaming Skeletons, L3 Undead, 1 Life each, damage 2. These\n",
+      "sourceLocation": "pdf:spans:[[60,507,569]]"
+    },
+    {
+      "id": "unique-event-017:p0316",
+      "kind": "body",
+      "text": "are walking corpses whose flesh is perpetually on fire. They attack\n",
+      "sourceLocation": "pdf:spans:[[60,569,637]]"
+    },
+    {
+      "id": "unique-event-017:p0317",
+      "kind": "body",
+      "text": "by touching with their fiery hands. Hammers and baseball bats strike\n",
+      "sourceLocation": "pdf:spans:[[60,637,706]]"
+    },
+    {
+      "id": "unique-event-017:p0318",
+      "kind": "body",
+      "text": "them at +1. Molotov cocktails do no damage against them. If you\n",
+      "sourceLocation": "pdf:spans:[[60,706,770]]"
+    },
+    {
+      "id": "unique-event-017:p0319",
+      "kind": "body",
+      "text": "hit them with an unarmed attack, even with Martial Arts, you\n",
+      "sourceLocation": "pdf:spans:[[60,770,831]]"
+    },
+    {
+      "id": "unique-event-017:p0320",
+      "kind": "body",
+      "text": "automatically take 1 damage.\n",
+      "sourceLocation": "pdf:spans:[[60,831,860]]"
+    },
+    {
+      "id": "unique-event-017:p0321",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[60,860,862]]"
+    },
+    {
+      "id": "unique-event-017:p0322",
+      "kind": "body",
+      "text": "d6 Howlers, L3 Undead, 2 Life each, damage 2. Howlers are walking\n",
+      "sourceLocation": "pdf:spans:[[60,862,928]]"
+    },
+    {
+      "id": "unique-event-017:p0323",
+      "kind": "body",
+      "text": "dead with distorted faces who yell loudly as they claw at you.  At the\n",
+      "sourceLocation": "pdf:spans:[[60,928,999]]"
+    },
+    {
+      "id": "unique-event-017:p0324",
+      "kind": "body",
+      "text": "beginning of the combat you must save vs. L3 Fear  (add +1 if you\n",
+      "sourceLocation": "pdf:spans:[[60,999,1065]]"
+    },
+    {
+      "id": "unique-event-017:p0325",
+      "kind": "body",
+      "text": "have Will or +2 if you have it at Expert level) or lose 1 Sanity. At the\n",
+      "sourceLocation": "pdf:spans:[[60,1065,1138]]"
+    },
+    {
+      "id": "unique-event-017:p0326",
+      "kind": "body",
+      "text": "end of the combat, there is a 2 in 6 chance that their howls will\n",
+      "sourceLocation": "pdf:spans:[[60,1138,1204]]"
+    },
+    {
+      "id": "unique-event-017:p0327",
+      "kind": "body",
+      "text": "attract something (roll on this table again).\n",
+      "sourceLocation": "pdf:spans:[[60,1204,1250]]"
+    },
+    {
+      "id": "unique-event-017:p0328",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[60,1250,1252]]"
+    },
+    {
+      "id": "unique-event-017:p0329",
+      "kind": "body",
+      "text": "Pumpkin Head, L4 Undead, 5 Life, damage 1. Vulnerable to holy\n",
+      "sourceLocation": "pdf:spans:[[60,1252,1314]]"
+    },
+    {
+      "id": "unique-event-017:p0330",
+      "kind": "body",
+      "text": "water. Before the combat, save vs. L4 Fear (add +1 if you have Will\n",
+      "sourceLocation": "pdf:spans:[[60,1314,1382]]"
+    },
+    {
+      "id": "unique-event-017:p0331",
+      "kind": "body",
+      "text": "or +2 if you have it at Expert level) or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[60,1382,1438]]"
+    },
+    {
+      "id": "unique-event-017:p0332",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[60,1438,1440]]"
+    },
+    {
+      "id": "unique-event-017:p0333",
+      "kind": "body",
+      "text": "Vampire, L5 Undead, 8 Life, damage 2. Vulnerable to holy water. It\n",
+      "sourceLocation": "pdf:spans:[[60,1440,1507]]"
+    },
+    {
+      "id": "unique-event-017:p0334",
+      "kind": "body",
+      "text": "will not appear in a place of worship (reroll). If  confronted with a\n",
+      "sourceLocation": "pdf:spans:[[60,1507,1577]]"
+    },
+    {
+      "id": "unique-event-017:p0335",
+      "kind": "body",
+      "text": "religious symbol or garlic, roll d6. On a 3 or less, the vampire flees.\n",
+      "sourceLocation": "pdf:spans:[[60,1577,1649]]"
+    },
+    {
+      "id": "unique-event-017:p0336",
+      "kind": "body",
+      "text": "Roll once per encounter. Roll twice if both religious symbols and\n",
+      "sourceLocation": "pdf:spans:[[60,1649,1715]]"
+    },
+    {
+      "id": "unique-event-017:p0337",
+      "kind": "body",
+      "text": "garlic are used. A slain vampire will come back to life and attack you\n",
+      "sourceLocation": "pdf:spans:[[60,1715,1786]]"
+    },
+    {
+      "id": "unique-event-017:p0338",
+      "kind": "body",
+      "text": "again (roll a 2 in 6 chance per every box traveled to meet the vampire\n",
+      "sourceLocation": "pdf:spans:[[60,1786,1857]]"
+    },
+    {
+      "id": "unique-event-017:p0339",
+      "kind": "body",
+      "text": "BEFORE rolling for exploration of that box) unless you use a stake\n",
+      "sourceLocation": "pdf:spans:[[60,1857,1924]]"
+    },
+    {
+      "id": "unique-event-017:p0340",
+      "kind": "body",
+      "text": "or destroy its body with holy water or fire (to destroy it with holy\n",
+      "sourceLocation": "pdf:spans:[[60,1924,1993]]"
+    },
+    {
+      "id": "unique-event-017:p0341",
+      "kind": "body",
+      "text": "water, the last Life point must be taken by holy water; to destroy it\n",
+      "sourceLocation": "pdf:spans:[[60,1993,2063]]"
+    },
+    {
+      "id": "unique-event-017:p0342",
+      "kind": "body",
+      "text": "by fire, you need matches and a can of fuel).",
+      "sourceLocation": "pdf:spans:[[60,2063,2108]]"
+    },
+    {
+      "id": "unique-event-017:p0343",
+      "kind": "body",
+      "text": "Possessed table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[61,22,48]]"
+    },
+    {
+      "id": "unique-event-017:p0344",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[61,48,50]]"
+    },
+    {
+      "id": "unique-event-017:p0345",
+      "kind": "body",
+      "text": "d6+1 Cultists, L2 Humans, 1 Life each, armed with knives\n",
+      "sourceLocation": "pdf:spans:[[61,50,107]]"
+    },
+    {
+      "id": "unique-event-017:p0346",
+      "kind": "body",
+      "text": "(damage 1). They are trying to capture sacrifices. You may\n",
+      "sourceLocation": "pdf:spans:[[61,107,166]]"
+    },
+    {
+      "id": "unique-event-017:p0347",
+      "kind": "body",
+      "text": "avoid this encounter succeeding in an L5 Charisma roll and\n",
+      "sourceLocation": "pdf:spans:[[61,166,225]]"
+    },
+    {
+      "id": "unique-event-017:p0348",
+      "kind": "body",
+      "text": "giving them one of the following items:  book, candle, 1 Food\n",
+      "sourceLocation": "pdf:spans:[[61,225,287]]"
+    },
+    {
+      "id": "unique-event-017:p0349",
+      "kind": "body",
+      "text": "point each,1 magic item. Add +1 if you have Charisma and +2\n",
+      "sourceLocation": "pdf:spans:[[61,287,347]]"
+    },
+    {
+      "id": "unique-event-017:p0350",
+      "kind": "body",
+      "text": "if you have Charisma (Expert).\n",
+      "sourceLocation": "pdf:spans:[[61,347,378]]"
+    },
+    {
+      "id": "unique-event-017:p0351",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[61,378,380]]"
+    },
+    {
+      "id": "unique-event-017:p0352",
+      "kind": "body",
+      "text": "Possessed Doll, L3 Artificial creature, 4 Life. Save vs. L4 Fear\n",
+      "sourceLocation": "pdf:spans:[[61,380,445]]"
+    },
+    {
+      "id": "unique-event-017:p0353",
+      "kind": "body",
+      "text": "(add +1 if you have Will or +2 if you have it at Expert level) or\n",
+      "sourceLocation": "pdf:spans:[[61,445,511]]"
+    },
+    {
+      "id": "unique-event-017:p0354",
+      "kind": "body",
+      "text": "lose 1 Sanity when you first meet a doll in the campaign.\n",
+      "sourceLocation": "pdf:spans:[[61,511,569]]"
+    },
+    {
+      "id": "unique-event-017:p0355",
+      "kind": "body",
+      "text": "Susceptible to exorcism.\n",
+      "sourceLocation": "pdf:spans:[[61,569,594]]"
+    },
+    {
+      "id": "unique-event-017:p0356",
+      "kind": "body",
+      "text": "3 d6 Possessed Objects  L2 Artificial creatures, 1 Life. They  have\n",
+      "sourceLocation": "pdf:spans:[[61,594,662]]"
+    },
+    {
+      "id": "unique-event-017:p0357",
+      "kind": "body",
+      "text": "a 2 in 6 chance of surprise. Susceptible to exorcism.\n",
+      "sourceLocation": "pdf:spans:[[61,662,716]]"
+    },
+    {
+      "id": "unique-event-017:p0358",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[61,716,718]]"
+    },
+    {
+      "id": "unique-event-017:p0359",
+      "kind": "body",
+      "text": "Demon Cat, L4 Animal, 4 Life.  Has a 2 in 6 chance of surprise.\n",
+      "sourceLocation": "pdf:spans:[[61,718,782]]"
+    },
+    {
+      "id": "unique-event-017:p0360",
+      "kind": "body",
+      "text": "Every turn, you must save vs. L1 Magic or lose 1 Sanity and 1\n",
+      "sourceLocation": "pdf:spans:[[61,782,844]]"
+    },
+    {
+      "id": "unique-event-017:p0361",
+      "kind": "body",
+      "text": "Life. This is its only attack. Susceptible to exorcism. Once the\n",
+      "sourceLocation": "pdf:spans:[[61,844,909]]"
+    },
+    {
+      "id": "unique-event-017:p0362",
+      "kind": "body",
+      "text": "cat has taken 2 or 3 points of damage, roll a 4 in 6 chance that\n",
+      "sourceLocation": "pdf:spans:[[61,909,974]]"
+    },
+    {
+      "id": "unique-event-017:p0363",
+      "kind": "body",
+      "text": "it will flee. You may distract the cat, gaining a +2 to your Escape\n",
+      "sourceLocation": "pdf:spans:[[61,974,1042]]"
+    },
+    {
+      "id": "unique-event-017:p0364",
+      "kind": "body",
+      "text": "roll, if you use 1 can of cat food.\n",
+      "sourceLocation": "pdf:spans:[[61,1042,1078]]"
+    },
+    {
+      "id": "unique-event-017:p0365",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[61,1078,1080]]"
+    },
+    {
+      "id": "unique-event-017:p0366",
+      "kind": "body",
+      "text": "Demon Dog, L5, 6 Life. Susceptible to exorcism. Vulnerable\n",
+      "sourceLocation": "pdf:spans:[[61,1080,1139]]"
+    },
+    {
+      "id": "unique-event-017:p0367",
+      "kind": "body",
+      "text": "to holy water. If the encounter  happens in a place of worship\n",
+      "sourceLocation": "pdf:spans:[[61,1139,1202]]"
+    },
+    {
+      "id": "unique-event-017:p0368",
+      "kind": "body",
+      "text": "or in an area neighboring a place of worship, as soon as the\n",
+      "sourceLocation": "pdf:spans:[[61,1202,1263]]"
+    },
+    {
+      "id": "unique-event-017:p0369",
+      "kind": "body",
+      "text": "Demon Dog loses 3 Life, roll d6. On a 1 to 3, it flees. On a 4+,\n",
+      "sourceLocation": "pdf:spans:[[61,1263,1328]]"
+    },
+    {
+      "id": "unique-event-017:p0370",
+      "kind": "body",
+      "text": "it continues to fight to the death. You may distract the dog,\n",
+      "sourceLocation": "pdf:spans:[[61,1328,1390]]"
+    },
+    {
+      "id": "unique-event-017:p0371",
+      "kind": "body",
+      "text": "gaining a +2 to your Escape roll, using 1 can of dog food or 1\n",
+      "sourceLocation": "pdf:spans:[[61,1390,1453]]"
+    },
+    {
+      "id": "unique-event-017:p0372",
+      "kind": "body",
+      "text": "dog toy.\n",
+      "sourceLocation": "pdf:spans:[[61,1453,1462]]"
+    },
+    {
+      "id": "unique-event-017:p0373",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[61,1462,1464]]"
+    },
+    {
+      "id": "unique-event-017:p0374",
+      "kind": "body",
+      "text": "d6 Possessed People, L3 Humans, 2 Life each. When the last\n",
+      "sourceLocation": "pdf:spans:[[61,1464,1523]]"
+    },
+    {
+      "id": "unique-event-017:p0375",
+      "kind": "body",
+      "text": "one is killed, roll d6. If you roll a 1, play unique event #3. If you\n",
+      "sourceLocation": "pdf:spans:[[61,1523,1593]]"
+    },
+    {
+      "id": "unique-event-017:p0376",
+      "kind": "body",
+      "text": "roll 2-6, ignore the roll.\n",
+      "sourceLocation": "pdf:spans:[[61,1593,1620]]"
+    },
+    {
+      "id": "unique-event-017:p0377",
+      "kind": "body",
+      "text": "Possessed are demon-worshippers, or people, animals and objects powered\n",
+      "sourceLocation": "pdf:spans:[[61,1620,1692]]"
+    },
+    {
+      "id": "unique-event-017:p0378",
+      "kind": "body",
+      "text": "by evil spirits.",
+      "sourceLocation": "pdf:spans:[[61,1692,1708]]"
+    },
+    {
+      "id": "unique-event-017:p0379",
+      "kind": "body",
+      "text": "Demonic horrors table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[63,22,54]]"
+    },
+    {
+      "id": "unique-event-017:p0380",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[63,54,56]]"
+    },
+    {
+      "id": "unique-event-017:p0381",
+      "kind": "body",
+      "text": "Demon child , L3 Demon, 3 Life. Each turn, you must save vs. L3 Magic\n",
+      "sourceLocation": "pdf:spans:[[63,56,126]]"
+    },
+    {
+      "id": "unique-event-017:p0382",
+      "kind": "body",
+      "text": "at +1 if you have Will, +2 if you have Will (Expert) or be cursed (-1 on\n",
+      "sourceLocation": "pdf:spans:[[63,126,199]]"
+    },
+    {
+      "id": "unique-event-017:p0383",
+      "kind": "body",
+      "text": "all rolls until you perform 1 action that increases your Sanity or you\n",
+      "sourceLocation": "pdf:spans:[[63,199,270]]"
+    },
+    {
+      "id": "unique-event-017:p0384",
+      "kind": "body",
+      "text": "remove the curse). After cursing you, s/he will attack physically, clawing\n",
+      "sourceLocation": "pdf:spans:[[63,270,345]]"
+    },
+    {
+      "id": "unique-event-017:p0385",
+      "kind": "body",
+      "text": "for 1 damage. Susceptible to exorcism and vulnerable to holy water.\n",
+      "sourceLocation": "pdf:spans:[[63,345,413]]"
+    },
+    {
+      "id": "unique-event-017:p0386",
+      "kind": "body",
+      "text": "You may distract the demon child, offering any one object from the\n",
+      "sourceLocation": "pdf:spans:[[63,413,480]]"
+    },
+    {
+      "id": "unique-event-017:p0387",
+      "kind": "body",
+      "text": "Children’s Stuff table ( see p. 55) gaining a +2 to your Escape roll.\n",
+      "sourceLocation": "pdf:spans:[[63,480,550]]"
+    },
+    {
+      "id": "unique-event-017:p0388",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[63,550,552]]"
+    },
+    {
+      "id": "unique-event-017:p0389",
+      "kind": "body",
+      "text": "Succubus/Incubus, L4 Demon, 4 Life. Save vs. L5 seduction  (add +1\n",
+      "sourceLocation": "pdf:spans:[[63,552,619]]"
+    },
+    {
+      "id": "unique-event-017:p0390",
+      "kind": "body",
+      "text": "if you have Will or +2 if you have it at Expert level) to avoid being\n",
+      "sourceLocation": "pdf:spans:[[63,619,689]]"
+    },
+    {
+      "id": "unique-event-017:p0391",
+      "kind": "body",
+      "text": "seduced. If you are seduced, lose permanently 1 Life. If you resist the\n",
+      "sourceLocation": "pdf:spans:[[63,689,761]]"
+    },
+    {
+      "id": "unique-event-017:p0392",
+      "kind": "body",
+      "text": "seduction, you have to fight. Susceptible to exorcism and vulnerable\n",
+      "sourceLocation": "pdf:spans:[[63,761,830]]"
+    },
+    {
+      "id": "unique-event-017:p0393",
+      "kind": "body",
+      "text": "to holy water. The demon will appear as the gender of your preference.\n",
+      "sourceLocation": "pdf:spans:[[63,830,901]]"
+    },
+    {
+      "id": "unique-event-017:p0394",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[63,901,903]]"
+    },
+    {
+      "id": "unique-event-017:p0395",
+      "kind": "body",
+      "text": "Demonic goat, L3 Demon, 4 Life, damage 1. If the goat inflicts any\n",
+      "sourceLocation": "pdf:spans:[[63,903,970]]"
+    },
+    {
+      "id": "unique-event-017:p0396",
+      "kind": "body",
+      "text": "damage, you are knocked down and must spend 1 action to stand up\n",
+      "sourceLocation": "pdf:spans:[[63,970,1035]]"
+    },
+    {
+      "id": "unique-event-017:p0397",
+      "kind": "body",
+      "text": "or Defend at -2. Susceptible to exorcism and vulnerable to holy water.\n",
+      "sourceLocation": "pdf:spans:[[63,1035,1106]]"
+    },
+    {
+      "id": "unique-event-017:p0398",
+      "kind": "body",
+      "text": "If you have the keyword SNOWY on your play sheet, play event #42.\n",
+      "sourceLocation": "pdf:spans:[[63,1106,1172]]"
+    },
+    {
+      "id": "unique-event-017:p0399",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[63,1172,1174]]"
+    },
+    {
+      "id": "unique-event-017:p0400",
+      "kind": "body",
+      "text": "Night shadow, L2 Demonic Undead, 2 Life, damage 1. The night\n",
+      "sourceLocation": "pdf:spans:[[63,1174,1235]]"
+    },
+    {
+      "id": "unique-event-017:p0401",
+      "kind": "body",
+      "text": "shadow may be damaged only by attacks that roll 6, holy water, or\n",
+      "sourceLocation": "pdf:spans:[[63,1235,1301]]"
+    },
+    {
+      "id": "unique-event-017:p0402",
+      "kind": "body",
+      "text": "magic weapons. Susceptible to exorcism and light-based attacks\n",
+      "sourceLocation": "pdf:spans:[[63,1301,1364]]"
+    },
+    {
+      "id": "unique-event-017:p0403",
+      "kind": "body",
+      "text": "(flashlights hit at +2 for 1 Damage). Each hit inflicted by its chilly touch\n",
+      "sourceLocation": "pdf:spans:[[63,1364,1441]]"
+    },
+    {
+      "id": "unique-event-017:p0404",
+      "kind": "body",
+      "text": "is either subtracted from (roll d6): Life points (on a 1-3) or Sanity (on\n",
+      "sourceLocation": "pdf:spans:[[63,1441,1515]]"
+    },
+    {
+      "id": "unique-event-017:p0405",
+      "kind": "body",
+      "text": "a 4-6).\n",
+      "sourceLocation": "pdf:spans:[[63,1515,1523]]"
+    },
+    {
+      "id": "unique-event-017:p0406",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[63,1523,1525]]"
+    },
+    {
+      "id": "unique-event-017:p0407",
+      "kind": "body",
+      "text": "Horned Demon, L5 Demon, 4 Life, damage 2. At the beginning of the\n",
+      "sourceLocation": "pdf:spans:[[63,1525,1591]]"
+    },
+    {
+      "id": "unique-event-017:p0408",
+      "kind": "body",
+      "text": "combat, save vs. L6 Fear (add +1 if you have Will or +2 if you have it at\n",
+      "sourceLocation": "pdf:spans:[[63,1591,1665]]"
+    },
+    {
+      "id": "unique-event-017:p0409",
+      "kind": "body",
+      "text": "Expert level) or lose 1 Sanity. Flying (you may not run away from this\n",
+      "sourceLocation": "pdf:spans:[[63,1665,1736]]"
+    },
+    {
+      "id": "unique-event-017:p0410",
+      "kind": "body",
+      "text": "encounter). Susceptible to exorcism and vulnerable to holy water.\n",
+      "sourceLocation": "pdf:spans:[[63,1736,1802]]"
+    },
+    {
+      "id": "unique-event-017:p0411",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[63,1802,1804]]"
+    },
+    {
+      "id": "unique-event-017:p0412",
+      "kind": "body",
+      "text": "Hell Hound, L4 Demon, 3 Life, damage 1. Its baying may attract\n",
+      "sourceLocation": "pdf:spans:[[63,1804,1867]]"
+    },
+    {
+      "id": "unique-event-017:p0413",
+      "kind": "body",
+      "text": "monsters. Roll a 1 on 6 chance of this happening  at the end of combat.\n",
+      "sourceLocation": "pdf:spans:[[63,1867,1939]]"
+    },
+    {
+      "id": "unique-event-017:p0414",
+      "kind": "body",
+      "text": "If monsters appear, roll again on this table, on the Possessed or on\n",
+      "sourceLocation": "pdf:spans:[[63,1939,2008]]"
+    },
+    {
+      "id": "unique-event-017:p0415",
+      "kind": "body",
+      "text": "the Undead table (your choice) to determine which monsters attack\n",
+      "sourceLocation": "pdf:spans:[[63,2008,2074]]"
+    },
+    {
+      "id": "unique-event-017:p0416",
+      "kind": "body",
+      "text": "you. Susceptible to exorcism and vulnerable to holy water. You gain\n",
+      "sourceLocation": "pdf:spans:[[63,2074,2142]]"
+    },
+    {
+      "id": "unique-event-017:p0417",
+      "kind": "body",
+      "text": "a +1 to your Escape roll if you sacrifice 1 can of dog food or 1 dog toy.\n",
+      "sourceLocation": "pdf:spans:[[63,2142,2216]]"
+    },
+    {
+      "id": "unique-event-017:p0418",
+      "kind": "body",
+      "text": "Even if you Escape, you must still roll a 1 in 6 chance of being attacked\n",
+      "sourceLocation": "pdf:spans:[[63,2216,2290]]"
+    },
+    {
+      "id": "unique-event-017:p0419",
+      "kind": "body",
+      "text": "by a random monster attracted by the hell hound’s baying.",
+      "sourceLocation": "pdf:spans:[[63,2290,2347]]"
+    },
+    {
+      "id": "unique-event-017:p0420",
+      "kind": "body",
+      "text": "slashers table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[64,22,47]]"
+    },
+    {
+      "id": "unique-event-017:p0421",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[64,47,49]]"
+    },
+    {
+      "id": "unique-event-017:p0422",
+      "kind": "body",
+      "text": "Rabbit-face, L4 Slasher in a rabbit mask, 6 Life, armed with a\n",
+      "sourceLocation": "pdf:spans:[[64,49,112]]"
+    },
+    {
+      "id": "unique-event-017:p0423",
+      "kind": "body",
+      "text": "sledgehammer (damage 1, damage 2 if your Defense roll is a\n",
+      "sourceLocation": "pdf:spans:[[64,112,171]]"
+    },
+    {
+      "id": "unique-event-017:p0424",
+      "kind": "body",
+      "text": "1).\n",
+      "sourceLocation": "pdf:spans:[[64,171,175]]"
+    },
+    {
+      "id": "unique-event-017:p0425",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[64,175,177]]"
+    },
+    {
+      "id": "unique-event-017:p0426",
+      "kind": "body",
+      "text": "The Polka-Dot-Dress Maniac, L5 Slasher, a large man in an\n",
+      "sourceLocation": "pdf:spans:[[64,177,235]]"
+    },
+    {
+      "id": "unique-event-017:p0427",
+      "kind": "body",
+      "text": "old fashioned polka dot woman’s dress, 4 Life, armed with a\n",
+      "sourceLocation": "pdf:spans:[[64,235,295]]"
+    },
+    {
+      "id": "unique-event-017:p0428",
+      "kind": "body",
+      "text": "large kitchen knife (damage 1). Has a 2 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[64,295,350]]"
+    },
+    {
+      "id": "unique-event-017:p0429",
+      "kind": "body",
+      "text": "surprising you.\n",
+      "sourceLocation": "pdf:spans:[[64,350,366]]"
+    },
+    {
+      "id": "unique-event-017:p0430",
+      "kind": "body",
+      "text": "3 The Butcher, L3 Slasher, 8 Life, a huge man armed with a\n",
+      "sourceLocation": "pdf:spans:[[64,366,425]]"
+    },
+    {
+      "id": "unique-event-017:p0431",
+      "kind": "body",
+      "text": "chainsaw (damage 2).\n",
+      "sourceLocation": "pdf:spans:[[64,425,446]]"
+    },
+    {
+      "id": "unique-event-017:p0432",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[64,446,448]]"
+    },
+    {
+      "id": "unique-event-017:p0433",
+      "kind": "body",
+      "text": "Sarah the Mad, L4 Slasher, 5 Life, armed with a whip and a\n",
+      "sourceLocation": "pdf:spans:[[64,448,507]]"
+    },
+    {
+      "id": "unique-event-017:p0434",
+      "kind": "body",
+      "text": "knife. If you roll a 1 on a Defense roll, in addition to taking 1\n",
+      "sourceLocation": "pdf:spans:[[64,507,573]]"
+    },
+    {
+      "id": "unique-event-017:p0435",
+      "kind": "body",
+      "text": "damage  to her knife you drop your weapon. If her Life is 2 or\n",
+      "sourceLocation": "pdf:spans:[[64,573,636]]"
+    },
+    {
+      "id": "unique-event-017:p0436",
+      "kind": "body",
+      "text": "less, roll d6. On a 1-3 she flees, on a 4-6 she continues to fight.\n",
+      "sourceLocation": "pdf:spans:[[64,636,704]]"
+    },
+    {
+      "id": "unique-event-017:p0437",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[64,704,706]]"
+    },
+    {
+      "id": "unique-event-017:p0438",
+      "kind": "body",
+      "text": "The Blood drinking lady, L4 Slasher, 5 Life, attacks by biting\n",
+      "sourceLocation": "pdf:spans:[[64,706,769]]"
+    },
+    {
+      "id": "unique-event-017:p0439",
+      "kind": "body",
+      "text": "(damage 1). If she inflicts any damage, roll d6. On a 1 or 2, her\n",
+      "sourceLocation": "pdf:spans:[[64,769,835]]"
+    },
+    {
+      "id": "unique-event-017:p0440",
+      "kind": "body",
+      "text": "Level goes up by 1, up to a maximum of 7. She has no weapons.\n",
+      "sourceLocation": "pdf:spans:[[64,835,897]]"
+    },
+    {
+      "id": "unique-event-017:p0441",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[64,897,899]]"
+    },
+    {
+      "id": "unique-event-017:p0442",
+      "kind": "body",
+      "text": "The Boogeyman, L6 Slasher, 4 Life. Armed with a golf club\n",
+      "sourceLocation": "pdf:spans:[[64,899,957]]"
+    },
+    {
+      "id": "unique-event-017:p0443",
+      "kind": "body",
+      "text": "(damage 1). Has a 3 in 6 chance of surprising you. If he\n",
+      "sourceLocation": "pdf:spans:[[64,957,1014]]"
+    },
+    {
+      "id": "unique-event-017:p0444",
+      "kind": "body",
+      "text": "surprises you, you must also Save vs. L4 Fear or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[64,1014,1078]]"
+    },
+    {
+      "id": "unique-event-017:p0445",
+      "kind": "body",
+      "text": "Slashers are human serial killers. There are six unique slashers in the game.\n",
+      "sourceLocation": "pdf:spans:[[64,1078,1156]]"
+    },
+    {
+      "id": "unique-event-017:p0446",
+      "kind": "body",
+      "text": "When you kill one, gain 1 XP and remove the slasher from the table. If you\n",
+      "sourceLocation": "pdf:spans:[[64,1156,1231]]"
+    },
+    {
+      "id": "unique-event-017:p0447",
+      "kind": "body",
+      "text": "meet again a slasher that you crossed off the table,  count it as a no encounter.\n",
+      "sourceLocation": "pdf:spans:[[64,1231,1313]]"
+    },
+    {
+      "id": "unique-event-017:p0448",
+      "kind": "body",
+      "text": "If you wound a slasher and he flees, and later you meet the slasher again, the\n",
+      "sourceLocation": "pdf:spans:[[64,1313,1392]]"
+    },
+    {
+      "id": "unique-event-017:p0449",
+      "kind": "body",
+      "text": "slasher comes back fully healed.\n",
+      "sourceLocation": "pdf:spans:[[64,1392,1425]]"
+    },
+    {
+      "id": "unique-event-017:p0450",
+      "kind": "body",
+      "text": "If you defeat a slasher, you may take his/her weapon. Treat the weapon as its\n",
+      "sourceLocation": "pdf:spans:[[64,1425,1503]]"
+    },
+    {
+      "id": "unique-event-017:p0451",
+      "kind": "body",
+      "text": "equivalent from the weapons table. You will not be able to use the disarming\n",
+      "sourceLocation": "pdf:spans:[[64,1503,1580]]"
+    },
+    {
+      "id": "unique-event-017:p0452",
+      "kind": "body",
+      "text": "effect of Sarah’s whip but you can use it as a rope.\n",
+      "sourceLocation": "pdf:spans:[[64,1580,1633]]"
+    },
+    {
+      "id": "unique-event-017:p0453",
+      "kind": "body",
+      "text": "Remember that you may hunt them by spending a number of Clues equal to\n",
+      "sourceLocation": "pdf:spans:[[64,1633,1704]]"
+    },
+    {
+      "id": "unique-event-017:p0454",
+      "kind": "body",
+      "text": "their L. See Hunting, p.38.",
+      "sourceLocation": "pdf:spans:[[64,1704,1731]]"
+    },
+    {
+      "id": "unique-event-017:p0455",
+      "kind": "body",
+      "text": "Lab horrors table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[65,22,50]]"
+    },
+    {
+      "id": "unique-event-017:p0456",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[65,50,52]]"
+    },
+    {
+      "id": "unique-event-017:p0457",
+      "kind": "body",
+      "text": "Blob. L4, 8 Life, attacks by pseudopod trying to eat you on contact\n",
+      "sourceLocation": "pdf:spans:[[65,52,120]]"
+    },
+    {
+      "id": "unique-event-017:p0458",
+      "kind": "body",
+      "text": "(damage 1). If you found a book called The Blob Experiment, you will\n",
+      "sourceLocation": "pdf:spans:[[65,120,189]]"
+    },
+    {
+      "id": "unique-event-017:p0459",
+      "kind": "body",
+      "text": "know that the creature takes 2 damage from salt. The blob is Slow and\n",
+      "sourceLocation": "pdf:spans:[[65,189,259]]"
+    },
+    {
+      "id": "unique-event-017:p0460",
+      "kind": "body",
+      "text": "Artificial. You may run away from the encounter and ignore it. If you\n",
+      "sourceLocation": "pdf:spans:[[65,259,329]]"
+    },
+    {
+      "id": "unique-event-017:p0461",
+      "kind": "body",
+      "text": "return to the area later, the blob will still be there. However, its L will\n",
+      "sourceLocation": "pdf:spans:[[65,329,405]]"
+    },
+    {
+      "id": "unique-event-017:p0462",
+      "kind": "body",
+      "text": "have increased to 5 and its Life to 10, and it is no longer Slow.\n",
+      "sourceLocation": "pdf:spans:[[65,405,471]]"
+    },
+    {
+      "id": "unique-event-017:p0463",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[65,471,473]]"
+    },
+    {
+      "id": "unique-event-017:p0464",
+      "kind": "body",
+      "text": "Murdering Robot. L3 Artificial creature, 5 Life, damage 1. The robot\n",
+      "sourceLocation": "pdf:spans:[[65,473,542]]"
+    },
+    {
+      "id": "unique-event-017:p0465",
+      "kind": "body",
+      "text": "is immune to poison and magic (you may not even use curses against\n",
+      "sourceLocation": "pdf:spans:[[65,542,609]]"
+    },
+    {
+      "id": "unique-event-017:p0466",
+      "kind": "body",
+      "text": "it). Any attack inflicted must roll d6. On a 1 to 3, the attack bounces off\n",
+      "sourceLocation": "pdf:spans:[[65,609,685]]"
+    },
+    {
+      "id": "unique-event-017:p0467",
+      "kind": "body",
+      "text": "inflicting no damage. Damage from grenades will not bounce off. You\n",
+      "sourceLocation": "pdf:spans:[[65,685,753]]"
+    },
+    {
+      "id": "unique-event-017:p0468",
+      "kind": "body",
+      "text": "may attempt a L4 save (+1 if you are Agile, +2 if you are Agile at Expert\n",
+      "sourceLocation": "pdf:spans:[[65,753,827]]"
+    },
+    {
+      "id": "unique-event-017:p0469",
+      "kind": "body",
+      "text": "level) to turn off the robot by disabling some cables but if you fail, the\n",
+      "sourceLocation": "pdf:spans:[[65,827,902]]"
+    },
+    {
+      "id": "unique-event-017:p0470",
+      "kind": "body",
+      "text": "robot’s next attack will hit you automatically.\n",
+      "sourceLocation": "pdf:spans:[[65,902,950]]"
+    },
+    {
+      "id": "unique-event-017:p0471",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[65,950,952]]"
+    },
+    {
+      "id": "unique-event-017:p0472",
+      "kind": "body",
+      "text": "Mutant. L4 humanoid, 6 Life, damage 1. The mutant has a 1 in 6\n",
+      "sourceLocation": "pdf:spans:[[65,952,1015]]"
+    },
+    {
+      "id": "unique-event-017:p0473",
+      "kind": "body",
+      "text": "chance of surprising you. He has a 2 in 6 chance of possessing psionic\n",
+      "sourceLocation": "pdf:spans:[[65,1015,1086]]"
+    },
+    {
+      "id": "unique-event-017:p0474",
+      "kind": "body",
+      "text": "powers. If it is so, at the beginning of every turn save vs. L4 psionics\n",
+      "sourceLocation": "pdf:spans:[[65,1086,1159]]"
+    },
+    {
+      "id": "unique-event-017:p0475",
+      "kind": "body",
+      "text": "(add +1 if you have Will, +2 if you have it at Expert level) or lose 1 Sanity\n",
+      "sourceLocation": "pdf:spans:[[65,1159,1237]]"
+    },
+    {
+      "id": "unique-event-017:p0476",
+      "kind": "body",
+      "text": "each turn until it is killed or you Escape. If you have the Mutant Hunter\n",
+      "sourceLocation": "pdf:spans:[[65,1237,1311]]"
+    },
+    {
+      "id": "unique-event-017:p0477",
+      "kind": "body",
+      "text": "Skill, you have +1 to your Attack and Defense rolls against this foe.\n",
+      "sourceLocation": "pdf:spans:[[65,1311,1381]]"
+    },
+    {
+      "id": "unique-event-017:p0478",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[65,1381,1383]]"
+    },
+    {
+      "id": "unique-event-017:p0479",
+      "kind": "body",
+      "text": "Doppelganger. A L3 humanoid that appears exactly like you, but has\n",
+      "sourceLocation": "pdf:spans:[[65,1383,1450]]"
+    },
+    {
+      "id": "unique-event-017:p0480",
+      "kind": "body",
+      "text": "no equipment, and attacks with its stone-hard fingers. It has a number\n",
+      "sourceLocation": "pdf:spans:[[65,1450,1521]]"
+    },
+    {
+      "id": "unique-event-017:p0481",
+      "kind": "body",
+      "text": "of Life points equal to your maximum. Damage 1.\n",
+      "sourceLocation": "pdf:spans:[[65,1521,1569]]"
+    },
+    {
+      "id": "unique-event-017:p0482",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[65,1569,1571]]"
+    },
+    {
+      "id": "unique-event-017:p0483",
+      "kind": "body",
+      "text": "Tentacled horror. L3, 5 Life, 2 attacks, damage 1. If it hits you with\n",
+      "sourceLocation": "pdf:spans:[[65,1571,1642]]"
+    },
+    {
+      "id": "unique-event-017:p0484",
+      "kind": "body",
+      "text": "both attacks, you may not Escape from this encounter until the horror\n",
+      "sourceLocation": "pdf:spans:[[65,1642,1712]]"
+    },
+    {
+      "id": "unique-event-017:p0485",
+      "kind": "body",
+      "text": "is reduced to 1 Life. The first time you see the tentacled horror in the\n",
+      "sourceLocation": "pdf:spans:[[65,1712,1785]]"
+    },
+    {
+      "id": "unique-event-017:p0486",
+      "kind": "body",
+      "text": "campaign, save vs. L3 Fear (+1 if you have Will, +2 if you have Will\n",
+      "sourceLocation": "pdf:spans:[[65,1785,1854]]"
+    },
+    {
+      "id": "unique-event-017:p0487",
+      "kind": "body",
+      "text": "Expert level) or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[65,1854,1886]]"
+    },
+    {
+      "id": "unique-event-017:p0488",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[65,1886,1888]]"
+    },
+    {
+      "id": "unique-event-017:p0489",
+      "kind": "body",
+      "text": "Giant bug. L4 Animal, 6 Life, damage 1. Any attack inflicted must roll\n",
+      "sourceLocation": "pdf:spans:[[65,1888,1959]]"
+    },
+    {
+      "id": "unique-event-017:p0490",
+      "kind": "body",
+      "text": "d6; on a 1, it bounces off the bug’s exoskeleton and inflicts no damage.\n",
+      "sourceLocation": "pdf:spans:[[65,1959,2032]]"
+    },
+    {
+      "id": "unique-event-017:p0491",
+      "kind": "body",
+      "text": "The bug has a 2 in 6 chance of belonging to a flying species. In that\n",
+      "sourceLocation": "pdf:spans:[[65,2032,2102]]"
+    },
+    {
+      "id": "unique-event-017:p0492",
+      "kind": "body",
+      "text": "case, you may not Escape from this encounter. Sacrifice a can of\n",
+      "sourceLocation": "pdf:spans:[[65,2102,2167]]"
+    },
+    {
+      "id": "unique-event-017:p0493",
+      "kind": "body",
+      "text": "Insecticide to automatically inflict 2 damage upon the giant bug.\n",
+      "sourceLocation": "pdf:spans:[[65,2167,2233]]"
+    },
+    {
+      "id": "unique-event-017:p0494",
+      "kind": "body",
+      "text": "Damage from insecticide has no chance of bouncing off.",
+      "sourceLocation": "pdf:spans:[[65,2233,2287]]"
+    },
+    {
+      "id": "unique-event-017:p0495",
+      "kind": "body",
+      "text": "Witch children table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[66,22,53]]"
+    },
+    {
+      "id": "unique-event-017:p0496",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[66,53,55]]"
+    },
+    {
+      "id": "unique-event-017:p0497",
+      "kind": "body",
+      "text": "Witch Child. L4, 3 Life, no damage. Each attack from the witch child\n",
+      "sourceLocation": "pdf:spans:[[66,55,124]]"
+    },
+    {
+      "id": "unique-event-017:p0498",
+      "kind": "body",
+      "text": "causes a save vs. L4 Fear. If you fail the save, you must either lose 1\n",
+      "sourceLocation": "pdf:spans:[[66,124,196]]"
+    },
+    {
+      "id": "unique-event-017:p0499",
+      "kind": "body",
+      "text": "Sanity or leave the area (treat like a successful Escape roll). Loot: 2 in 6\n",
+      "sourceLocation": "pdf:spans:[[66,196,273]]"
+    },
+    {
+      "id": "unique-event-017:p0500",
+      "kind": "body",
+      "text": "chance of a book (roll on the random book table) and a 3 in 6 of a roll\n",
+      "sourceLocation": "pdf:spans:[[66,273,345]]"
+    },
+    {
+      "id": "unique-event-017:p0501",
+      "kind": "body",
+      "text": "on the Children’s Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[66,345,376]]"
+    },
+    {
+      "id": "unique-event-017:p0502",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[66,376,378]]"
+    },
+    {
+      "id": "unique-event-017:p0503",
+      "kind": "body",
+      "text": "d3+1 Children in Pumpkin Masks. L2, 1 Life each, armed with damage\n",
+      "sourceLocation": "pdf:spans:[[66,378,445]]"
+    },
+    {
+      "id": "unique-event-017:p0504",
+      "kind": "body",
+      "text": "1 kitchen knives. Save vs. L3 Fear (add +1 if you have Will or +2 if you\n",
+      "sourceLocation": "pdf:spans:[[66,445,518]]"
+    },
+    {
+      "id": "unique-event-017:p0505",
+      "kind": "body",
+      "text": "have it at Expert level) or lose 1 Sanity every time you kill a child. Loot:\n",
+      "sourceLocation": "pdf:spans:[[66,518,595]]"
+    },
+    {
+      "id": "unique-event-017:p0506",
+      "kind": "body",
+      "text": "2 in 6 chance of (choose) d3 Food or a random item from the Useful\n",
+      "sourceLocation": "pdf:spans:[[66,595,662]]"
+    },
+    {
+      "id": "unique-event-017:p0507",
+      "kind": "body",
+      "text": "Stuff or Random Item table, your choice, + 1 knife per child defeated.\n",
+      "sourceLocation": "pdf:spans:[[66,662,733]]"
+    },
+    {
+      "id": "unique-event-017:p0508",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[66,733,735]]"
+    },
+    {
+      "id": "unique-event-017:p0509",
+      "kind": "body",
+      "text": "Schax. L5 unique demon, 4 Life, damage 1. He is a large humanoid\n",
+      "sourceLocation": "pdf:spans:[[66,735,800]]"
+    },
+    {
+      "id": "unique-event-017:p0510",
+      "kind": "body",
+      "text": "crane, attacking with his long, pointed beak. Vulnerable to exorcism\n",
+      "sourceLocation": "pdf:spans:[[66,800,869]]"
+    },
+    {
+      "id": "unique-event-017:p0511",
+      "kind": "body",
+      "text": "and holy water. Schax may not be killed: if you bring his Life to 0, he\n",
+      "sourceLocation": "pdf:spans:[[66,869,941]]"
+    },
+    {
+      "id": "unique-event-017:p0512",
+      "kind": "body",
+      "text": "disappears in a pool of rotting flesh. You may encounter him again\n",
+      "sourceLocation": "pdf:spans:[[66,941,1008]]"
+    },
+    {
+      "id": "unique-event-017:p0513",
+      "kind": "body",
+      "text": "later, with all wounds healed, if you roll again this result. Each time you\n",
+      "sourceLocation": "pdf:spans:[[66,1008,1084]]"
+    },
+    {
+      "id": "unique-event-017:p0514",
+      "kind": "body",
+      "text": "meet Schax, save vs. L5 Fear  (add +1 if you have Will or +2 if you have\n",
+      "sourceLocation": "pdf:spans:[[66,1084,1157]]"
+    },
+    {
+      "id": "unique-event-017:p0515",
+      "kind": "body",
+      "text": "it at Expert level) or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[66,1157,1195]]"
+    },
+    {
+      "id": "unique-event-017:p0516",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[66,1195,1197]]"
+    },
+    {
+      "id": "unique-event-017:p0517",
+      "kind": "body",
+      "text": "d6 Children in Rabbit Masks. L2, 1 Life each, armed with damage 1\n",
+      "sourceLocation": "pdf:spans:[[66,1197,1263]]"
+    },
+    {
+      "id": "unique-event-017:p0518",
+      "kind": "body",
+      "text": "sticks. Save vs. L3 Fear (+1 if you have Will, +2 if you have it at Expert\n",
+      "sourceLocation": "pdf:spans:[[66,1263,1338]]"
+    },
+    {
+      "id": "unique-event-017:p0519",
+      "kind": "body",
+      "text": "level) or lose 1 Sanity each time you kill a child. If you do not want to\n",
+      "sourceLocation": "pdf:spans:[[66,1338,1412]]"
+    },
+    {
+      "id": "unique-event-017:p0520",
+      "kind": "body",
+      "text": "kill them, you may attack them with bare hands (-2 on Attack rolls). Loot:\n",
+      "sourceLocation": "pdf:spans:[[66,1412,1487]]"
+    },
+    {
+      "id": "unique-event-017:p0521",
+      "kind": "body",
+      "text": "Roll a 3 in 6 chance of d3 Food or 1 roll on the Children’s Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[66,1487,1560]]"
+    },
+    {
+      "id": "unique-event-017:p0522",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[66,1560,1562]]"
+    },
+    {
+      "id": "unique-event-017:p0523",
+      "kind": "body",
+      "text": "Pied Piper. L3 apparition, unlimited Life. He plays his magic flute. Save\n",
+      "sourceLocation": "pdf:spans:[[66,1562,1636]]"
+    },
+    {
+      "id": "unique-event-017:p0524",
+      "kind": "body",
+      "text": "vs. L4 Magic each turn  (add +1 if you have Will or +2 if you have it at\n",
+      "sourceLocation": "pdf:spans:[[66,1636,1709]]"
+    },
+    {
+      "id": "unique-event-017:p0525",
+      "kind": "body",
+      "text": "Expert level) or be compelled to dance, unable to attack. Every time you\n",
+      "sourceLocation": "pdf:spans:[[66,1709,1782]]"
+    },
+    {
+      "id": "unique-event-017:p0526",
+      "kind": "body",
+      "text": "dance, roll a 2 in 6 chance of losing either 1 Life point or 1 item (your\n",
+      "sourceLocation": "pdf:spans:[[66,1782,1856]]"
+    },
+    {
+      "id": "unique-event-017:p0527",
+      "kind": "body",
+      "text": "choice). The piper has an unlimited number of Life points. Roll d6 every\n",
+      "sourceLocation": "pdf:spans:[[66,1856,1929]]"
+    },
+    {
+      "id": "unique-event-017:p0528",
+      "kind": "body",
+      "text": "time you wound him. If the result is equal to or lower than the Life\n",
+      "sourceLocation": "pdf:spans:[[66,1929,1998]]"
+    },
+    {
+      "id": "unique-event-017:p0529",
+      "kind": "body",
+      "text": "points you inflicted so far in this encounter, he disappears. Loot: 2 in 6\n",
+      "sourceLocation": "pdf:spans:[[66,1998,2073]]"
+    },
+    {
+      "id": "unique-event-017:p0530",
+      "kind": "body",
+      "text": "chance of d3 doses of bone powder.\n",
+      "sourceLocation": "pdf:spans:[[66,2073,2108]]"
+    },
+    {
+      "id": "unique-event-017:p0531",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[66,2108,2110]]"
+    },
+    {
+      "id": "unique-event-017:p0532",
+      "kind": "body",
+      "text": "Master Scarecrow. L5 demon, 6 Life, 1 Damage, 2 Damage if you roll\n",
+      "sourceLocation": "pdf:spans:[[66,2110,2177]]"
+    },
+    {
+      "id": "unique-event-017:p0533",
+      "kind": "body",
+      "text": "a 1 on a Defense roll. A molotov cocktail thrown at it will destroy it\n",
+      "sourceLocation": "pdf:spans:[[66,2177,2248]]"
+    },
+    {
+      "id": "unique-event-017:p0534",
+      "kind": "body",
+      "text": "automatically. If you have a lighter and a torch, you may also\n",
+      "sourceLocation": "pdf:spans:[[66,2248,2311]]"
+    },
+    {
+      "id": "unique-event-017:p0535",
+      "kind": "body",
+      "text": "automatically inflict 1 damage every turn. Loot: 1 in 6 chance of d3 Food.\n",
+      "sourceLocation": "pdf:spans:[[66,2311,2386]]"
+    },
+    {
+      "id": "unique-event-017:p0536",
+      "kind": "body",
+      "text": "It is armed with a scythe.",
+      "sourceLocation": "pdf:spans:[[66,2386,2412]]"
+    },
+    {
+      "id": "unique-event-017:p0537",
+      "kind": "body",
+      "text": "Living Dolls table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[67,22,51]]"
+    },
+    {
+      "id": "unique-event-017:p0538",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[67,51,53]]"
+    },
+    {
+      "id": "unique-event-017:p0539",
+      "kind": "body",
+      "text": "Vivina, porcelain doll. L5 Artificial creature, 4 Life, no damage. This doll cries and\n",
+      "sourceLocation": "pdf:spans:[[67,53,140]]"
+    },
+    {
+      "id": "unique-event-017:p0540",
+      "kind": "body",
+      "text": "screams so loudly that you feel a sharp pain in your ears. You can try to calm her\n",
+      "sourceLocation": "pdf:spans:[[67,140,223]]"
+    },
+    {
+      "id": "unique-event-017:p0541",
+      "kind": "body",
+      "text": "down by offering an object and passing a L3 Charisma roll. To see what object she\n",
+      "sourceLocation": "pdf:spans:[[67,223,305]]"
+    },
+    {
+      "id": "unique-event-017:p0542",
+      "kind": "body",
+      "text": "craves, roll d6: 1) a candle, 2) a book, 3) a doll, 4) a knife, 5) 1 Food, 6) a bell.  If you do\n",
+      "sourceLocation": "pdf:spans:[[67,305,402]]"
+    },
+    {
+      "id": "unique-event-017:p0543",
+      "kind": "body",
+      "text": "not have the required item or do not want to give it to Vivina or if you fail the roll, you\n",
+      "sourceLocation": "pdf:spans:[[67,402,494]]"
+    },
+    {
+      "id": "unique-event-017:p0544",
+      "kind": "body",
+      "text": "will have to fight her. For every turn in which she is still crying, roll a 1 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[67,494,587]]"
+    },
+    {
+      "id": "unique-event-017:p0545",
+      "kind": "body",
+      "text": "a random encounter. If any other creature arrives, you must decide whether to attack\n",
+      "sourceLocation": "pdf:spans:[[67,587,672]]"
+    },
+    {
+      "id": "unique-event-017:p0546",
+      "kind": "body",
+      "text": "that creature or Vivina each turn.\n",
+      "sourceLocation": "pdf:spans:[[67,672,707]]"
+    },
+    {
+      "id": "unique-event-017:p0547",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[67,707,709]]"
+    },
+    {
+      "id": "unique-event-017:p0548",
+      "kind": "body",
+      "text": "Muama, metal and leather doll. L6 Artificial creature, 6 Life, 1 damage. Muama\n",
+      "sourceLocation": "pdf:spans:[[67,709,788]]"
+    },
+    {
+      "id": "unique-event-017:p0549",
+      "kind": "body",
+      "text": "looks for fragments of a black mirror. If you have any, you can give them to her to\n",
+      "sourceLocation": "pdf:spans:[[67,788,872]]"
+    },
+    {
+      "id": "unique-event-017:p0550",
+      "kind": "body",
+      "text": "avoid this encounter. If you have no black mirror, she will attack you, clawing at you\n",
+      "sourceLocation": "pdf:spans:[[67,872,959]]"
+    },
+    {
+      "id": "unique-event-017:p0551",
+      "kind": "body",
+      "text": "with her coil-like arms.\n",
+      "sourceLocation": "pdf:spans:[[67,959,984]]"
+    },
+    {
+      "id": "unique-event-017:p0552",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[67,984,986]]"
+    },
+    {
+      "id": "unique-event-017:p0553",
+      "kind": "body",
+      "text": "Mirina, rag doll. Level 6 Artificial creature. You may not fight her. Perform a L6 Will\n",
+      "sourceLocation": "pdf:spans:[[67,986,1074]]"
+    },
+    {
+      "id": "unique-event-017:p0554",
+      "kind": "body",
+      "text": "save to resist her evil influence. If you fail, you will have to kill the next human you\n",
+      "sourceLocation": "pdf:spans:[[67,1074,1163]]"
+    },
+    {
+      "id": "unique-event-017:p0555",
+      "kind": "body",
+      "text": "meet ( Slashers count as humans; if you meet a human that has no combat statistics,\n",
+      "sourceLocation": "pdf:spans:[[67,1163,1247]]"
+    },
+    {
+      "id": "unique-event-017:p0556",
+      "kind": "body",
+      "text": "such as some friendly person who gives you Food or help, you automatically kill that\n",
+      "sourceLocation": "pdf:spans:[[67,1247,1332]]"
+    },
+    {
+      "id": "unique-event-017:p0557",
+      "kind": "body",
+      "text": "person and lose 1 Sanity). If you save, you move away and leave Mirina where she is.\n",
+      "sourceLocation": "pdf:spans:[[67,1332,1417]]"
+    },
+    {
+      "id": "unique-event-017:p0558",
+      "kind": "body",
+      "text": "You will however encounter her again if you roll this result again OR if you visit again\n",
+      "sourceLocation": "pdf:spans:[[67,1417,1506]]"
+    },
+    {
+      "id": "unique-event-017:p0559",
+      "kind": "body",
+      "text": "the box where you left her. Mirina is susceptible to exorcism, but you may try to\n",
+      "sourceLocation": "pdf:spans:[[67,1506,1588]]"
+    },
+    {
+      "id": "unique-event-017:p0560",
+      "kind": "body",
+      "text": "exorcise her ONLY if you are not under her influence. If you exorcise her, remove her\n",
+      "sourceLocation": "pdf:spans:[[67,1588,1674]]"
+    },
+    {
+      "id": "unique-event-017:p0561",
+      "kind": "body",
+      "text": "from the campaign.\n",
+      "sourceLocation": "pdf:spans:[[67,1674,1693]]"
+    },
+    {
+      "id": "unique-event-017:p0562",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[67,1693,1695]]"
+    },
+    {
+      "id": "unique-event-017:p0563",
+      "kind": "body",
+      "text": "Maraya, wooden doll. L4 Artificial creature, 12 Life, 1 damage. Maraya attacks you\n",
+      "sourceLocation": "pdf:spans:[[67,1695,1778]]"
+    },
+    {
+      "id": "unique-event-017:p0564",
+      "kind": "body",
+      "text": "with a long rusty nail. If you roll a 1 on any Defense roll, she has stabbed you in an\n",
+      "sourceLocation": "pdf:spans:[[67,1778,1865]]"
+    },
+    {
+      "id": "unique-event-017:p0565",
+      "kind": "body",
+      "text": "eye. You will be at -1 on all Attack rolls until the wound is healed (you must reach a\n",
+      "sourceLocation": "pdf:spans:[[67,1865,1952]]"
+    },
+    {
+      "id": "unique-event-017:p0566",
+      "kind": "body",
+      "text": "clinic or a Safe House and heal 1 Life there). If she stabs both of your eyes, your\n",
+      "sourceLocation": "pdf:spans:[[67,1952,2036]]"
+    },
+    {
+      "id": "unique-event-017:p0567",
+      "kind": "body",
+      "text": "adventure ends here. If you roll any explosive 6 when attacking her, you will knock\n",
+      "sourceLocation": "pdf:spans:[[67,2036,2120]]"
+    },
+    {
+      "id": "unique-event-017:p0568",
+      "kind": "body",
+      "text": "her head off her body. This will not kill her, but as she scrambles to find her head and\n",
+      "sourceLocation": "pdf:spans:[[67,2120,2209]]"
+    },
+    {
+      "id": "unique-event-017:p0569",
+      "kind": "body",
+      "text": "put it back on, you may automatically escape the encounter. If you meet Maraya again\n",
+      "sourceLocation": "pdf:spans:[[67,2209,2294]]"
+    },
+    {
+      "id": "unique-event-017:p0570",
+      "kind": "body",
+      "text": "later, she will have healed all damage you inflicted on her UNLESS it was inflicted by\n",
+      "sourceLocation": "pdf:spans:[[67,2294,2381]]"
+    },
+    {
+      "id": "unique-event-017:p0571",
+      "kind": "body",
+      "text": "fire.\n",
+      "sourceLocation": "pdf:spans:[[67,2381,2387]]"
+    },
+    {
+      "id": "unique-event-017:p0572",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[67,2387,2389]]"
+    },
+    {
+      "id": "unique-event-017:p0573",
+      "kind": "body",
+      "text": "Azolina, fabric doll. L5 Artificial creature,  6 Life, 1 damage. Roll a L5 Will save at the\n",
+      "sourceLocation": "pdf:spans:[[67,2389,2481]]"
+    },
+    {
+      "id": "unique-event-017:p0574",
+      "kind": "body",
+      "text": "start of the encounter. If you pass it, you may move out of this box. If you fail, you will\n",
+      "sourceLocation": "pdf:spans:[[67,2481,2573]]"
+    },
+    {
+      "id": "unique-event-017:p0575",
+      "kind": "body",
+      "text": "be drawn to hug her and she will attack you. If you fail any Defense roll, Azolina will\n",
+      "sourceLocation": "pdf:spans:[[67,2573,2661]]"
+    },
+    {
+      "id": "unique-event-017:p0576",
+      "kind": "body",
+      "text": "automatically choke you for 1 Life point of damage every turn until you destroy her.\n",
+      "sourceLocation": "pdf:spans:[[67,2661,2746]]"
+    },
+    {
+      "id": "unique-event-017:p0577",
+      "kind": "body",
+      "text": "If you pass the first Defense roll, you may try to Escape at -1.\n",
+      "sourceLocation": "pdf:spans:[[67,2746,2811]]"
+    },
+    {
+      "id": "unique-event-017:p0578",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[67,2811,2813]]"
+    },
+    {
+      "id": "unique-event-017:p0579",
+      "kind": "body",
+      "text": "Kalina and Her Toy Dinosaur. L4 Artificial creature, 5 Life, damage 1, and L4 toy\n",
+      "sourceLocation": "pdf:spans:[[67,2813,2895]]"
+    },
+    {
+      "id": "unique-event-017:p0580",
+      "kind": "body",
+      "text": "dinosaur, 6 Life, 2 damage. Kalina and her toy dinosaur will attack you at the same\n",
+      "sourceLocation": "pdf:spans:[[67,2895,2979]]"
+    },
+    {
+      "id": "unique-event-017:p0581",
+      "kind": "body",
+      "text": "time, both by biting. Both are hit at +1 by fire-based attacks. Every turn, you must\n",
+      "sourceLocation": "pdf:spans:[[67,2979,3064]]"
+    },
+    {
+      "id": "unique-event-017:p0582",
+      "kind": "body",
+      "text": "choose whom you attack, but if you attack Kalina, your Defense rolls against her\n",
+      "sourceLocation": "pdf:spans:[[67,3064,3145]]"
+    },
+    {
+      "id": "unique-event-017:p0583",
+      "kind": "body",
+      "text": "dinosaur are at -1. If you destroy Kalina, her toy dinosaur will collapse to the ground.\n",
+      "sourceLocation": "pdf:spans:[[67,3145,3234]]"
+    },
+    {
+      "id": "unique-event-017:p0584",
+      "kind": "body",
+      "text": "Loot: 3 in 6 chance of finding an item from the Useful Stuff table OR d6 candles (your\n",
+      "sourceLocation": "pdf:spans:[[67,3234,3321]]"
+    },
+    {
+      "id": "unique-event-017:p0585",
+      "kind": "body",
+      "text": "choice) if you defeat Kalina.",
+      "sourceLocation": "pdf:spans:[[67,3321,3350]]"
+    },
+    {
+      "id": "unique-event-017:p0586",
+      "kind": "body",
+      "text": "Ghosts table (d6)\n",
+      "sourceLocation": "pdf:spans:[[68,22,40]]"
+    },
+    {
+      "id": "unique-event-017:p0587",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[68,40,42]]"
+    },
+    {
+      "id": "unique-event-017:p0588",
+      "kind": "body",
+      "text": "The Bright Apparition. L3 Ghost. Save vs. L3 light or be partially blinded\n",
+      "sourceLocation": "pdf:spans:[[68,42,117]]"
+    },
+    {
+      "id": "unique-event-017:p0589",
+      "kind": "body",
+      "text": "until the end of your next encounter ( -1 on all  Attack, Defense and magic\n",
+      "sourceLocation": "pdf:spans:[[68,117,193]]"
+    },
+    {
+      "id": "unique-event-017:p0590",
+      "kind": "body",
+      "text": "rolls. Will rolls and saves are unaffected). The ghost disappears after 1 turn,\n",
+      "sourceLocation": "pdf:spans:[[68,193,273]]"
+    },
+    {
+      "id": "unique-event-017:p0591",
+      "kind": "body",
+      "text": "but you have a chance to exorcise it, and gain 1 XP or 1 Clue from its words\n",
+      "sourceLocation": "pdf:spans:[[68,273,350]]"
+    },
+    {
+      "id": "unique-event-017:p0592",
+      "kind": "body",
+      "text": "(your choice) if you successfully do so.\n",
+      "sourceLocation": "pdf:spans:[[68,350,391]]"
+    },
+    {
+      "id": "unique-event-017:p0593",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[68,391,393]]"
+    },
+    {
+      "id": "unique-event-017:p0594",
+      "kind": "body",
+      "text": "Cold Air spirit. L4 Ghost, 4 Life, damage 1. The ghost will blow freezing\n",
+      "sourceLocation": "pdf:spans:[[68,393,467]]"
+    },
+    {
+      "id": "unique-event-017:p0595",
+      "kind": "body",
+      "text": "cold air at you. You must save versus L4 cold (save at +1 if you are wearing\n",
+      "sourceLocation": "pdf:spans:[[68,467,544]]"
+    },
+    {
+      "id": "unique-event-017:p0596",
+      "kind": "body",
+      "text": "winter clothes) or lose 1 Life and have a -1 on all Attack rolls for the duration\n",
+      "sourceLocation": "pdf:spans:[[68,544,626]]"
+    },
+    {
+      "id": "unique-event-017:p0597",
+      "kind": "body",
+      "text": "of the encounter. Susceptible to exorcism.\n",
+      "sourceLocation": "pdf:spans:[[68,626,669]]"
+    },
+    {
+      "id": "unique-event-017:p0598",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[68,669,671]]"
+    },
+    {
+      "id": "unique-event-017:p0599",
+      "kind": "body",
+      "text": "The Whispering Presence. L5 Ghost. Pass a L5 Will roll  (add +1 if you have\n",
+      "sourceLocation": "pdf:spans:[[68,671,747]]"
+    },
+    {
+      "id": "unique-event-017:p0600",
+      "kind": "body",
+      "text": "Will or +2 if you have it at Expert level) or the ghost’s whispers will lead you\n",
+      "sourceLocation": "pdf:spans:[[68,747,828]]"
+    },
+    {
+      "id": "unique-event-017:p0601",
+      "kind": "body",
+      "text": "astray (move to a box that you already visited, rolling a 2 in 6 chance of a\n",
+      "sourceLocation": "pdf:spans:[[68,828,905]]"
+    },
+    {
+      "id": "unique-event-017:p0602",
+      "kind": "body",
+      "text": "random encounter; if you cannot move to any boxes that you already\n",
+      "sourceLocation": "pdf:spans:[[68,905,972]]"
+    },
+    {
+      "id": "unique-event-017:p0603",
+      "kind": "body",
+      "text": "visited, just move to a random neighboring box and roll for a random\n",
+      "sourceLocation": "pdf:spans:[[68,972,1041]]"
+    },
+    {
+      "id": "unique-event-017:p0604",
+      "kind": "body",
+      "text": "encounter AFTER resolving the encounter in that box). If you pass the Will\n",
+      "sourceLocation": "pdf:spans:[[68,1041,1116]]"
+    },
+    {
+      "id": "unique-event-017:p0605",
+      "kind": "body",
+      "text": "roll, you may perform a L5 Charisma roll to ask him a question (if successful,\n",
+      "sourceLocation": "pdf:spans:[[68,1116,1195]]"
+    },
+    {
+      "id": "unique-event-017:p0606",
+      "kind": "body",
+      "text": "you gain 1 Clue).\n",
+      "sourceLocation": "pdf:spans:[[68,1195,1213]]"
+    },
+    {
+      "id": "unique-event-017:p0607",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[68,1213,1215]]"
+    },
+    {
+      "id": "unique-event-017:p0608",
+      "kind": "body",
+      "text": "The Face in the Mist. L4 Ghost. A thick fog surrounds you, and a grotesque\n",
+      "sourceLocation": "pdf:spans:[[68,1215,1290]]"
+    },
+    {
+      "id": "unique-event-017:p0609",
+      "kind": "body",
+      "text": "face appears multiple times, trying to scare you. Roll three L4 saves. Add\n",
+      "sourceLocation": "pdf:spans:[[68,1290,1365]]"
+    },
+    {
+      "id": "unique-event-017:p0610",
+      "kind": "body",
+      "text": "+1 if you have Will or +2 if you have it at Expert level. Lose 1 Sanity with\n",
+      "sourceLocation": "pdf:spans:[[68,1365,1442]]"
+    },
+    {
+      "id": "unique-event-017:p0611",
+      "kind": "body",
+      "text": "each failure.\n",
+      "sourceLocation": "pdf:spans:[[68,1442,1456]]"
+    },
+    {
+      "id": "unique-event-017:p0612",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[68,1456,1458]]"
+    },
+    {
+      "id": "unique-event-017:p0613",
+      "kind": "body",
+      "text": "The Tickling Ghost. L4 Ghost. It tickles you with its cold ectoplasm fingers.\n",
+      "sourceLocation": "pdf:spans:[[68,1458,1536]]"
+    },
+    {
+      "id": "unique-event-017:p0614",
+      "kind": "body",
+      "text": "On every failed Defense roll, you take no damage but you lose 1 carried\n",
+      "sourceLocation": "pdf:spans:[[68,1536,1608]]"
+    },
+    {
+      "id": "unique-event-017:p0615",
+      "kind": "body",
+      "text": "item. If you carry no items, the ghost will freeze your blood, inflicting 1\n",
+      "sourceLocation": "pdf:spans:[[68,1608,1684]]"
+    },
+    {
+      "id": "unique-event-017:p0616",
+      "kind": "body",
+      "text": "Damage with every touch. You may attack it only with magic weapons.\n",
+      "sourceLocation": "pdf:spans:[[68,1684,1752]]"
+    },
+    {
+      "id": "unique-event-017:p0617",
+      "kind": "body",
+      "text": "Susceptible to exorcism.\n",
+      "sourceLocation": "pdf:spans:[[68,1752,1777]]"
+    },
+    {
+      "id": "unique-event-017:p0618",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[68,1777,1779]]"
+    },
+    {
+      "id": "unique-event-017:p0619",
+      "kind": "body",
+      "text": "The Ghost Librarian. L6 Ghost. You may try to exorcize him, or ask him a\n",
+      "sourceLocation": "pdf:spans:[[68,1779,1852]]"
+    },
+    {
+      "id": "unique-event-017:p0620",
+      "kind": "body",
+      "text": "question with a successful L4 Charisma roll (gain 1 Clue on a success). You\n",
+      "sourceLocation": "pdf:spans:[[68,1852,1928]]"
+    },
+    {
+      "id": "unique-event-017:p0621",
+      "kind": "body",
+      "text": "may continue asking questions until you have gained 3 Clues or you fail. If\n",
+      "sourceLocation": "pdf:spans:[[68,1928,2004]]"
+    },
+    {
+      "id": "unique-event-017:p0622",
+      "kind": "body",
+      "text": "you fail, the Librarian will take away one of your books, if you have any\n",
+      "sourceLocation": "pdf:spans:[[68,2004,2078]]"
+    },
+    {
+      "id": "unique-event-017:p0623",
+      "kind": "body",
+      "text": "(choose one and delete it from your inventory). If you do not have any\n",
+      "sourceLocation": "pdf:spans:[[68,2078,2149]]"
+    },
+    {
+      "id": "unique-event-017:p0624",
+      "kind": "body",
+      "text": "books, the next book you find in the campaign will vanish before you have\n",
+      "sourceLocation": "pdf:spans:[[68,2149,2223]]"
+    },
+    {
+      "id": "unique-event-017:p0625",
+      "kind": "body",
+      "text": "any chance to read it.\n",
+      "sourceLocation": "pdf:spans:[[68,2223,2246]]"
+    },
+    {
+      "id": "unique-event-017:p0626",
+      "kind": "body",
+      "text": "All ghosts without Life points may not be hit by Attack rolls. All ghosts with Life\n",
+      "sourceLocation": "pdf:spans:[[68,2246,2330]]"
+    },
+    {
+      "id": "unique-event-017:p0627",
+      "kind": "body",
+      "text": "points take a maximum of 1 Life damage by any attack not performed with a\n",
+      "sourceLocation": "pdf:spans:[[68,2330,2404]]"
+    },
+    {
+      "id": "unique-event-017:p0628",
+      "kind": "body",
+      "text": "magic weapon. Ghosts are Undead but they are NOT susceptible to holy water.",
+      "sourceLocation": "pdf:spans:[[68,2404,2479]]"
+    },
+    {
+      "id": "unique-event-017:p0629",
+      "kind": "body",
+      "text": "aliens table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[69,22,45]]"
+    },
+    {
+      "id": "unique-event-017:p0630",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[69,45,47]]"
+    },
+    {
+      "id": "unique-event-017:p0631",
+      "kind": "body",
+      "text": "d6 Grays.  L4 aliens, 1 Life, damage 1. Armed with alien\n",
+      "sourceLocation": "pdf:spans:[[69,47,104]]"
+    },
+    {
+      "id": "unique-event-017:p0632",
+      "kind": "body",
+      "text": "rayguns. In your hands, they have +1 to Attack rolls, damage\n",
+      "sourceLocation": "pdf:spans:[[69,104,165]]"
+    },
+    {
+      "id": "unique-event-017:p0633",
+      "kind": "body",
+      "text": "1,  damage 2 vs. shadow creatures; on any Attack roll of 1\n",
+      "sourceLocation": "pdf:spans:[[69,165,224]]"
+    },
+    {
+      "id": "unique-event-017:p0634",
+      "kind": "body",
+      "text": "the gun stops working and there is nothing you can do to\n",
+      "sourceLocation": "pdf:spans:[[69,224,281]]"
+    },
+    {
+      "id": "unique-event-017:p0635",
+      "kind": "body",
+      "text": "repair it. Loot: 1 raygun per alien.\n",
+      "sourceLocation": "pdf:spans:[[69,281,318]]"
+    },
+    {
+      "id": "unique-event-017:p0636",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[69,318,320]]"
+    },
+    {
+      "id": "unique-event-017:p0637",
+      "kind": "body",
+      "text": "Alien Hunter. L6 alien, 8 Life, damage 2, 4 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[69,320,379]]"
+    },
+    {
+      "id": "unique-event-017:p0638",
+      "kind": "body",
+      "text": "surprise. If you are not surprised, you may avoid this\n",
+      "sourceLocation": "pdf:spans:[[69,379,434]]"
+    },
+    {
+      "id": "unique-event-017:p0639",
+      "kind": "body",
+      "text": "encounter with a L6 Stealth roll. Escape rolls against the\n",
+      "sourceLocation": "pdf:spans:[[69,434,493]]"
+    },
+    {
+      "id": "unique-event-017:p0640",
+      "kind": "body",
+      "text": "Hunter are at -1. Loot: 1 grenade.\n",
+      "sourceLocation": "pdf:spans:[[69,493,528]]"
+    },
+    {
+      "id": "unique-event-017:p0641",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[69,528,530]]"
+    },
+    {
+      "id": "unique-event-017:p0642",
+      "kind": "body",
+      "text": "Alien beast. L6 alien, 6 Life, damage 2, 3 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[69,530,588]]"
+    },
+    {
+      "id": "unique-event-017:p0643",
+      "kind": "body",
+      "text": "surprise. Every time you wound the alien, there is a 2 in 6\n",
+      "sourceLocation": "pdf:spans:[[69,588,648]]"
+    },
+    {
+      "id": "unique-event-017:p0644",
+      "kind": "body",
+      "text": "chance that a splash from its acid blood will hit you, inflicting\n",
+      "sourceLocation": "pdf:spans:[[69,648,714]]"
+    },
+    {
+      "id": "unique-event-017:p0645",
+      "kind": "body",
+      "text": "1 damage if you fail a Defense roll.\n",
+      "sourceLocation": "pdf:spans:[[69,714,751]]"
+    },
+    {
+      "id": "unique-event-017:p0646",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[69,751,753]]"
+    },
+    {
+      "id": "unique-event-017:p0647",
+      "kind": "body",
+      "text": "d6 Reptilians. L4 aliens, 2 Life each, damage 1. Each blow\n",
+      "sourceLocation": "pdf:spans:[[69,753,812]]"
+    },
+    {
+      "id": "unique-event-017:p0648",
+      "kind": "body",
+      "text": "that hits a reptilian has a 1 in 6 chance of bouncing off its\n",
+      "sourceLocation": "pdf:spans:[[69,812,874]]"
+    },
+    {
+      "id": "unique-event-017:p0649",
+      "kind": "body",
+      "text": "scaly skin. Loot: 1 sword per alien.\n",
+      "sourceLocation": "pdf:spans:[[69,874,911]]"
+    },
+    {
+      "id": "unique-event-017:p0650",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[69,911,913]]"
+    },
+    {
+      "id": "unique-event-017:p0651",
+      "kind": "body",
+      "text": "d3 Mi-Go. L5 alien fungi, 1 Life each, damage 2. Upon seeing\n",
+      "sourceLocation": "pdf:spans:[[69,913,974]]"
+    },
+    {
+      "id": "unique-event-017:p0652",
+      "kind": "body",
+      "text": "these creatures, Save vs. L5 Fear or lose 1 Sanity. Each blow\n",
+      "sourceLocation": "pdf:spans:[[69,974,1036]]"
+    },
+    {
+      "id": "unique-event-017:p0653",
+      "kind": "body",
+      "text": "that hits a mi-go has a 2 in 6 chance of having no effect. Loot:\n",
+      "sourceLocation": "pdf:spans:[[69,1036,1101]]"
+    },
+    {
+      "id": "unique-event-017:p0654",
+      "kind": "body",
+      "text": "1 mysterious black stone covered in hieroglyphs. If you pick\n",
+      "sourceLocation": "pdf:spans:[[69,1101,1162]]"
+    },
+    {
+      "id": "unique-event-017:p0655",
+      "kind": "body",
+      "text": "it up, read unique event #30.\n",
+      "sourceLocation": "pdf:spans:[[69,1162,1192]]"
+    },
+    {
+      "id": "unique-event-017:p0656",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[69,1192,1194]]"
+    },
+    {
+      "id": "unique-event-017:p0657",
+      "kind": "body",
+      "text": "Tentacled Beast. L4 alien, 4 Life, damage 1. The beast\n",
+      "sourceLocation": "pdf:spans:[[69,1194,1249]]"
+    },
+    {
+      "id": "unique-event-017:p0658",
+      "kind": "body",
+      "text": "attacks each turn with 4 tentacles. You must defend\n",
+      "sourceLocation": "pdf:spans:[[69,1249,1301]]"
+    },
+    {
+      "id": "unique-event-017:p0659",
+      "kind": "body",
+      "text": "separately from each tentacle. As long as the beast has 3 or\n",
+      "sourceLocation": "pdf:spans:[[69,1301,1362]]"
+    },
+    {
+      "id": "unique-event-017:p0660",
+      "kind": "body",
+      "text": "4 tentacles, you may not Escape from this encounter. For\n",
+      "sourceLocation": "pdf:spans:[[69,1362,1419]]"
+    },
+    {
+      "id": "unique-event-017:p0661",
+      "kind": "body",
+      "text": "each point of damage inflicted on the beast, it loses 1 tentacle.\n",
+      "sourceLocation": "pdf:spans:[[69,1419,1485]]"
+    },
+    {
+      "id": "unique-event-017:p0662",
+      "kind": "body",
+      "text": "Various alien civilizations have been studying Earth since ancient times.\n",
+      "sourceLocation": "pdf:spans:[[69,1485,1559]]"
+    },
+    {
+      "id": "unique-event-017:p0663",
+      "kind": "body",
+      "text": "Some use alien beasts as watchdogs. Aliens are very interested in\n",
+      "sourceLocation": "pdf:spans:[[69,1559,1625]]"
+    },
+    {
+      "id": "unique-event-017:p0664",
+      "kind": "body",
+      "text": "understanding the reasons for the supernatural disaster that has opened\n",
+      "sourceLocation": "pdf:spans:[[69,1625,1697]]"
+    },
+    {
+      "id": "unique-event-017:p0665",
+      "kind": "body",
+      "text": "up the Gates of Hell.",
+      "sourceLocation": "pdf:spans:[[69,1697,1718]]"
+    },
+    {
+      "id": "unique-event-017:p0666",
+      "kind": "body",
+      "text": "Unique Vampires table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[70,22,54]]"
+    },
+    {
+      "id": "unique-event-017:p0667",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[70,54,56]]"
+    },
+    {
+      "id": "unique-event-017:p0668",
+      "kind": "body",
+      "text": "Upyr. L5 Undead, vampire, 8 Life, damage 1. When you encounter the\n",
+      "sourceLocation": "pdf:spans:[[70,56,123]]"
+    },
+    {
+      "id": "unique-event-017:p0669",
+      "kind": "body",
+      "text": "Upyr, d6 Food points that you carry will rot. If more Food will rot than\n",
+      "sourceLocation": "pdf:spans:[[70,123,196]]"
+    },
+    {
+      "id": "unique-event-017:p0670",
+      "kind": "body",
+      "text": "you carry, Save vs. L5 disease (add +1 if you have the Resilient Skill, +2 if\n",
+      "sourceLocation": "pdf:spans:[[70,196,274]]"
+    },
+    {
+      "id": "unique-event-017:p0671",
+      "kind": "body",
+      "text": "at expert level). If you fail, you must save again on every box until you\n",
+      "sourceLocation": "pdf:spans:[[70,274,348]]"
+    },
+    {
+      "id": "unique-event-017:p0672",
+      "kind": "body",
+      "text": "reach a Safe House, where the disease stops. Vulnerable to holy symbols.\n",
+      "sourceLocation": "pdf:spans:[[70,348,421]]"
+    },
+    {
+      "id": "unique-event-017:p0673",
+      "kind": "body",
+      "text": "Loot: 1 random item.\n",
+      "sourceLocation": "pdf:spans:[[70,421,442]]"
+    },
+    {
+      "id": "unique-event-017:p0674",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[70,442,444]]"
+    },
+    {
+      "id": "unique-event-017:p0675",
+      "kind": "body",
+      "text": "Wurdalak. L5 Undead, vampire, 8 Life, damage 1. There is a 3 in 6 chance\n",
+      "sourceLocation": "pdf:spans:[[70,444,517]]"
+    },
+    {
+      "id": "unique-event-017:p0676",
+      "kind": "body",
+      "text": "that this shapeshifting vampire will be in wolf form when encountered.\n",
+      "sourceLocation": "pdf:spans:[[70,517,588]]"
+    },
+    {
+      "id": "unique-event-017:p0677",
+      "kind": "body",
+      "text": "In wolf form, its damage is 2 and you have -1 on any Escape roll.\n",
+      "sourceLocation": "pdf:spans:[[70,588,654]]"
+    },
+    {
+      "id": "unique-event-017:p0678",
+      "kind": "body",
+      "text": "Vulnerable to holy symbols.  Loot: 1 random item.\n",
+      "sourceLocation": "pdf:spans:[[70,654,704]]"
+    },
+    {
+      "id": "unique-event-017:p0679",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[70,704,706]]"
+    },
+    {
+      "id": "unique-event-017:p0680",
+      "kind": "body",
+      "text": "Kempir. L6 Undead, vampire, 6 Life, damage 1. Every time she attacks,\n",
+      "sourceLocation": "pdf:spans:[[70,706,776]]"
+    },
+    {
+      "id": "unique-event-017:p0681",
+      "kind": "body",
+      "text": "roll a 4 in 6 chance that she tries to suck blood from your knees. In this\n",
+      "sourceLocation": "pdf:spans:[[70,776,851]]"
+    },
+    {
+      "id": "unique-event-017:p0682",
+      "kind": "body",
+      "text": "case, you defend at +2 but if you are hit, you automatically receive the\n",
+      "sourceLocation": "pdf:spans:[[70,851,924]]"
+    },
+    {
+      "id": "unique-event-017:p0683",
+      "kind": "body",
+      "text": "Limping injury until you heal ALL damage (see the Injury table).\n",
+      "sourceLocation": "pdf:spans:[[70,924,989]]"
+    },
+    {
+      "id": "unique-event-017:p0684",
+      "kind": "body",
+      "text": "Vulnerable to holy symbols. Loot: 1 rope.\n",
+      "sourceLocation": "pdf:spans:[[70,989,1031]]"
+    },
+    {
+      "id": "unique-event-017:p0685",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[70,1031,1033]]"
+    },
+    {
+      "id": "unique-event-017:p0686",
+      "kind": "body",
+      "text": "Vehn. L6 Undead, vampire, 5 Life, damage 1. If you roll a 1 on any Defense\n",
+      "sourceLocation": "pdf:spans:[[70,1033,1108]]"
+    },
+    {
+      "id": "unique-event-017:p0687",
+      "kind": "body",
+      "text": "roll, the Vehn tears away one large slice of your skin, giving you a -1 on\n",
+      "sourceLocation": "pdf:spans:[[70,1108,1183]]"
+    },
+    {
+      "id": "unique-event-017:p0688",
+      "kind": "body",
+      "text": "Charisma rolls. The modifier remains until you heal all damage. The Vehn\n",
+      "sourceLocation": "pdf:spans:[[70,1183,1256]]"
+    },
+    {
+      "id": "unique-event-017:p0689",
+      "kind": "body",
+      "text": "takes 3 damage (not 2) from holy water.\n",
+      "sourceLocation": "pdf:spans:[[70,1256,1296]]"
+    },
+    {
+      "id": "unique-event-017:p0690",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[70,1296,1298]]"
+    },
+    {
+      "id": "unique-event-017:p0691",
+      "kind": "body",
+      "text": "Vetala. L4 Undead, vampire, 6 Life, damage 1. The Vetala can foretell the\n",
+      "sourceLocation": "pdf:spans:[[70,1298,1372]]"
+    },
+    {
+      "id": "unique-event-017:p0692",
+      "kind": "body",
+      "text": "future: if you offer 6 Food (or 2 Life points in your blood) and pass a L5\n",
+      "sourceLocation": "pdf:spans:[[70,1372,1447]]"
+    },
+    {
+      "id": "unique-event-017:p0693",
+      "kind": "body",
+      "text": "Charisma roll, you may use the equivalent of one use of the Foretell\n",
+      "sourceLocation": "pdf:spans:[[70,1447,1516]]"
+    },
+    {
+      "id": "unique-event-017:p0694",
+      "kind": "body",
+      "text": "Arcane Skill and the Vetala will let you move through her area. If you fail\n",
+      "sourceLocation": "pdf:spans:[[70,1516,1592]]"
+    },
+    {
+      "id": "unique-event-017:p0695",
+      "kind": "body",
+      "text": "or do not attempt this, you must fight. The Vetala recovers 1 Life every\n",
+      "sourceLocation": "pdf:spans:[[70,1592,1665]]"
+    },
+    {
+      "id": "unique-event-017:p0696",
+      "kind": "body",
+      "text": "time she damages you, up to her maximum Life. Loot: 2 random items.\n",
+      "sourceLocation": "pdf:spans:[[70,1665,1733]]"
+    },
+    {
+      "id": "unique-event-017:p0697",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[70,1733,1735]]"
+    },
+    {
+      "id": "unique-event-017:p0698",
+      "kind": "body",
+      "text": "The Midnight Man. L6 Undead, vampire, 8 Life, damage 2. 4 in 6 chance\n",
+      "sourceLocation": "pdf:spans:[[70,1735,1805]]"
+    },
+    {
+      "id": "unique-event-017:p0699",
+      "kind": "body",
+      "text": "of surprise. If this dark-clad predator surprises you, he grabs your arms.\n",
+      "sourceLocation": "pdf:spans:[[70,1805,1880]]"
+    },
+    {
+      "id": "unique-event-017:p0700",
+      "kind": "body",
+      "text": "You may not attack until you perform a L6 Strength roll. Roll at +1 if you\n",
+      "sourceLocation": "pdf:spans:[[70,1880,1955]]"
+    },
+    {
+      "id": "unique-event-017:p0701",
+      "kind": "body",
+      "text": "have the Strong Skill, +2 if you have Strong (Expert). Until you are held,\n",
+      "sourceLocation": "pdf:spans:[[70,1955,2030]]"
+    },
+    {
+      "id": "unique-event-017:p0702",
+      "kind": "body",
+      "text": "you take automatic damage every turn.\n",
+      "sourceLocation": "pdf:spans:[[70,2030,2068]]"
+    },
+    {
+      "id": "unique-event-017:p0703",
+      "kind": "body",
+      "text": "These encounters will happen only once per game. Reroll if you encounter again\n",
+      "sourceLocation": "pdf:spans:[[70,2068,2147]]"
+    },
+    {
+      "id": "unique-event-017:p0704",
+      "kind": "body",
+      "text": "a vampire that you destroyed.  Vampires are vulnerable to holy water, taking\n",
+      "sourceLocation": "pdf:spans:[[70,2147,2224]]"
+    },
+    {
+      "id": "unique-event-017:p0705",
+      "kind": "body",
+      "text": "2 damage from a vial. In addition, they all use rules for a vampire returning\n",
+      "sourceLocation": "pdf:spans:[[70,2224,2302]]"
+    },
+    {
+      "id": "unique-event-017:p0706",
+      "kind": "body",
+      "text": "from the dead (see vampire in the Undead table, p.60).",
+      "sourceLocation": "pdf:spans:[[70,2302,2356]]"
+    },
+    {
+      "id": "unique-event-017:p0707",
+      "kind": "body",
+      "text": "Unique Zombies table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[71,22,53]]"
+    },
+    {
+      "id": "unique-event-017:p0708",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[71,53,55]]"
+    },
+    {
+      "id": "unique-event-017:p0709",
+      "kind": "body",
+      "text": "Zombie Tiger. L5 Undead, 6 Life, Damage 2. If you roll a 1 on a\n",
+      "sourceLocation": "pdf:spans:[[71,55,119]]"
+    },
+    {
+      "id": "unique-event-017:p0710",
+      "kind": "body",
+      "text": "Defense roll, the zombie tiger savages your body and you MUST\n",
+      "sourceLocation": "pdf:spans:[[71,119,181]]"
+    },
+    {
+      "id": "unique-event-017:p0711",
+      "kind": "body",
+      "text": "roll on the Injury table. If you already have 3 Injuries, lose 3 Life\n",
+      "sourceLocation": "pdf:spans:[[71,181,251]]"
+    },
+    {
+      "id": "unique-event-017:p0712",
+      "kind": "body",
+      "text": "instead.\n",
+      "sourceLocation": "pdf:spans:[[71,251,260]]"
+    },
+    {
+      "id": "unique-event-017:p0713",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[71,260,262]]"
+    },
+    {
+      "id": "unique-event-017:p0714",
+      "kind": "body",
+      "text": "Horde of Zombie Squirrels. L4 Undead, 8 Life, Damage 1. The\n",
+      "sourceLocation": "pdf:spans:[[71,262,322]]"
+    },
+    {
+      "id": "unique-event-017:p0715",
+      "kind": "body",
+      "text": "whole horde is treated as a single creature. Every turn, roll a 2 in\n",
+      "sourceLocation": "pdf:spans:[[71,322,391]]"
+    },
+    {
+      "id": "unique-event-017:p0716",
+      "kind": "body",
+      "text": "6 chance of losing one carried item of your choice or 2 Food points\n",
+      "sourceLocation": "pdf:spans:[[71,391,459]]"
+    },
+    {
+      "id": "unique-event-017:p0717",
+      "kind": "body",
+      "text": "(choose) until the horde is defeated.\n",
+      "sourceLocation": "pdf:spans:[[71,459,497]]"
+    },
+    {
+      "id": "unique-event-017:p0718",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[71,497,499]]"
+    },
+    {
+      "id": "unique-event-017:p0719",
+      "kind": "body",
+      "text": "Your Zombie Pet. L3 Undead, 3 Life, Damage 1. Every turn, you\n",
+      "sourceLocation": "pdf:spans:[[71,499,561]]"
+    },
+    {
+      "id": "unique-event-017:p0720",
+      "kind": "body",
+      "text": "must pass a L3 Will roll (add bonuses from the Will Skill) or you will\n",
+      "sourceLocation": "pdf:spans:[[71,561,632]]"
+    },
+    {
+      "id": "unique-event-017:p0721",
+      "kind": "body",
+      "text": "be unable to attack your pet that has returned from the Pet\n",
+      "sourceLocation": "pdf:spans:[[71,632,692]]"
+    },
+    {
+      "id": "unique-event-017:p0722",
+      "kind": "body",
+      "text": "Cemetery.\n",
+      "sourceLocation": "pdf:spans:[[71,692,702]]"
+    },
+    {
+      "id": "unique-event-017:p0723",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[71,702,704]]"
+    },
+    {
+      "id": "unique-event-017:p0724",
+      "kind": "body",
+      "text": "Your Zombie Friend. L5 Undead, 4 Life, Damage 1, Slow. Every\n",
+      "sourceLocation": "pdf:spans:[[71,704,765]]"
+    },
+    {
+      "id": "unique-event-017:p0725",
+      "kind": "body",
+      "text": "turn, you must pass a L3 Will roll. Add +1 if you have the Will Skill,\n",
+      "sourceLocation": "pdf:spans:[[71,765,836]]"
+    },
+    {
+      "id": "unique-event-017:p0726",
+      "kind": "body",
+      "text": "and +2 if you have Will (Expert). If you fail, you will be unable to\n",
+      "sourceLocation": "pdf:spans:[[71,836,905]]"
+    },
+    {
+      "id": "unique-event-017:p0727",
+      "kind": "body",
+      "text": "attack your recently deceased friend (spouse, relative, etc: you can\n",
+      "sourceLocation": "pdf:spans:[[71,905,974]]"
+    },
+    {
+      "id": "unique-event-017:p0728",
+      "kind": "body",
+      "text": "embellish as desired) who returned from the grave to eat you.\n",
+      "sourceLocation": "pdf:spans:[[71,974,1036]]"
+    },
+    {
+      "id": "unique-event-017:p0729",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[71,1036,1038]]"
+    },
+    {
+      "id": "unique-event-017:p0730",
+      "kind": "body",
+      "text": "d6 Brain Eaters. L5 Undead, 1 Life, Damage 1. If you roll a 1 on a\n",
+      "sourceLocation": "pdf:spans:[[71,1038,1105]]"
+    },
+    {
+      "id": "unique-event-017:p0731",
+      "kind": "body",
+      "text": "Defense roll when you are in combat with 3 or more brain eaters,\n",
+      "sourceLocation": "pdf:spans:[[71,1105,1170]]"
+    },
+    {
+      "id": "unique-event-017:p0732",
+      "kind": "body",
+      "text": "you will be grabbed and will be unable to Escape until you reduce\n",
+      "sourceLocation": "pdf:spans:[[71,1170,1236]]"
+    },
+    {
+      "id": "unique-event-017:p0733",
+      "kind": "body",
+      "text": "their number to 2 or below.\n",
+      "sourceLocation": "pdf:spans:[[71,1236,1264]]"
+    },
+    {
+      "id": "unique-event-017:p0734",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[71,1264,1266]]"
+    },
+    {
+      "id": "unique-event-017:p0735",
+      "kind": "body",
+      "text": "Zombie Abominion. L7 Undead, 12 Life, Damage 2, Slow. If you\n",
+      "sourceLocation": "pdf:spans:[[71,1266,1327]]"
+    },
+    {
+      "id": "unique-event-017:p0736",
+      "kind": "body",
+      "text": "Escape, the abominion will pursue you. Roll a 2 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[71,1327,1390]]"
+    },
+    {
+      "id": "unique-event-017:p0737",
+      "kind": "body",
+      "text": "encountering it again with ALL wounds healed in the next three\n",
+      "sourceLocation": "pdf:spans:[[71,1390,1453]]"
+    },
+    {
+      "id": "unique-event-017:p0738",
+      "kind": "body",
+      "text": "boxes you cross. If you have an encounter in that box, you will\n",
+      "sourceLocation": "pdf:spans:[[71,1453,1517]]"
+    },
+    {
+      "id": "unique-event-017:p0739",
+      "kind": "body",
+      "text": "have to resolve that encounter first and then meet the zombie\n",
+      "sourceLocation": "pdf:spans:[[71,1517,1579]]"
+    },
+    {
+      "id": "unique-event-017:p0740",
+      "kind": "body",
+      "text": "abominion. If you manage to Escape three times in a row, the\n",
+      "sourceLocation": "pdf:spans:[[71,1579,1640]]"
+    },
+    {
+      "id": "unique-event-017:p0741",
+      "kind": "body",
+      "text": "Zombie Abominion will not pursue you anymore.\n",
+      "sourceLocation": "pdf:spans:[[71,1640,1686]]"
+    },
+    {
+      "id": "unique-event-017:p0742",
+      "kind": "body",
+      "text": "These encounters will happen only once per game. If you roll an encounter\n",
+      "sourceLocation": "pdf:spans:[[71,1686,1760]]"
+    },
+    {
+      "id": "unique-event-017:p0743",
+      "kind": "body",
+      "text": "that you already had, reroll until you select a different encounter.",
+      "sourceLocation": "pdf:spans:[[71,1760,1828]]"
+    },
+    {
+      "id": "unique-event-017:p0744",
+      "kind": "body",
+      "text": "Random book table (2d6)\n",
+      "sourceLocation": "pdf:spans:[[72,22,46]]"
+    },
+    {
+      "id": "unique-event-017:p0745",
+      "kind": "body",
+      "text": "2 Necronomicon. Upon reading this book, you lose 1 Sanity, but you\n",
+      "sourceLocation": "pdf:spans:[[72,46,113]]"
+    },
+    {
+      "id": "unique-event-017:p0746",
+      "kind": "body",
+      "text": "may spend XP to learn any one Arcane Skill of your choice.\n",
+      "sourceLocation": "pdf:spans:[[72,113,172]]"
+    },
+    {
+      "id": "unique-event-017:p0747",
+      "kind": "body",
+      "text": "3 Holy Book. Reading this book, you either recover 2 Sanity or may spend\n",
+      "sourceLocation": "pdf:spans:[[72,172,245]]"
+    },
+    {
+      "id": "unique-event-017:p0748",
+      "kind": "body",
+      "text": "2 XP to gain the Demon Slayer or the Gate Arcane Skills.\n",
+      "sourceLocation": "pdf:spans:[[72,245,302]]"
+    },
+    {
+      "id": "unique-event-017:p0749",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[72,302,304]]"
+    },
+    {
+      "id": "unique-event-017:p0750",
+      "kind": "body",
+      "text": "Pigface, an urban legend. After reading this book, if you meet Pigface,\n",
+      "sourceLocation": "pdf:spans:[[72,304,376]]"
+    },
+    {
+      "id": "unique-event-017:p0751",
+      "kind": "body",
+      "text": "you have +1 to your Defense rolls vs. him. You know he has been cursed\n",
+      "sourceLocation": "pdf:spans:[[72,376,447]]"
+    },
+    {
+      "id": "unique-event-017:p0752",
+      "kind": "body",
+      "text": "by Eliza Dunforth, a girl he has kidnapped. Pigface used to keep her in\n",
+      "sourceLocation": "pdf:spans:[[72,447,519]]"
+    },
+    {
+      "id": "unique-event-017:p0753",
+      "kind": "body",
+      "text": "a farm just outside of town.\n",
+      "sourceLocation": "pdf:spans:[[72,519,548]]"
+    },
+    {
+      "id": "unique-event-017:p0754",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[72,548,550]]"
+    },
+    {
+      "id": "unique-event-017:p0755",
+      "kind": "body",
+      "text": "Walrus the Clown’s Joke Book. Walrus was a clown. He self-published\n",
+      "sourceLocation": "pdf:spans:[[72,550,618]]"
+    },
+    {
+      "id": "unique-event-017:p0756",
+      "kind": "body",
+      "text": "books with his jokes and sold them at his shows. He used to wear a\n",
+      "sourceLocation": "pdf:spans:[[72,618,685]]"
+    },
+    {
+      "id": "unique-event-017:p0757",
+      "kind": "body",
+      "text": "rubber clown mask because he was allergic to makeup.\n",
+      "sourceLocation": "pdf:spans:[[72,685,738]]"
+    },
+    {
+      "id": "unique-event-017:p0758",
+      "kind": "body",
+      "text": "6 They Are Among Us. This book reveals factual information about\n",
+      "sourceLocation": "pdf:spans:[[72,738,803]]"
+    },
+    {
+      "id": "unique-event-017:p0759",
+      "kind": "body",
+      "text": "aliens. You may learn the Alien Fighter Arcane Skill.\n",
+      "sourceLocation": "pdf:spans:[[72,803,857]]"
+    },
+    {
+      "id": "unique-event-017:p0760",
+      "kind": "body",
+      "text": "7\n",
+      "sourceLocation": "pdf:spans:[[72,857,859]]"
+    },
+    {
+      "id": "unique-event-017:p0761",
+      "kind": "body",
+      "text": "The Exorcism Ritual. By reading this book you may learn the Exorcism\n",
+      "sourceLocation": "pdf:spans:[[72,859,928]]"
+    },
+    {
+      "id": "unique-event-017:p0762",
+      "kind": "body",
+      "text": "Skill. You must have the Faith Skill or this won’t work. You can keep the\n",
+      "sourceLocation": "pdf:spans:[[72,928,1002]]"
+    },
+    {
+      "id": "unique-event-017:p0763",
+      "kind": "body",
+      "text": "book and read it when you have the Faith Skill.\n",
+      "sourceLocation": "pdf:spans:[[72,1002,1050]]"
+    },
+    {
+      "id": "unique-event-017:p0764",
+      "kind": "body",
+      "text": "8 Serial Killers Casebook. Reading this book allows you to Escape\n",
+      "sourceLocation": "pdf:spans:[[72,1050,1116]]"
+    },
+    {
+      "id": "unique-event-017:p0765",
+      "kind": "body",
+      "text": "from a slasher even if the encounter’s description forbids it.\n",
+      "sourceLocation": "pdf:spans:[[72,1116,1179]]"
+    },
+    {
+      "id": "unique-event-017:p0766",
+      "kind": "body",
+      "text": "9\n",
+      "sourceLocation": "pdf:spans:[[72,1179,1181]]"
+    },
+    {
+      "id": "unique-event-017:p0767",
+      "kind": "body",
+      "text": "Occult Guide. By reading this book, you learn some basic\n",
+      "sourceLocation": "pdf:spans:[[72,1181,1238]]"
+    },
+    {
+      "id": "unique-event-017:p0768",
+      "kind": "body",
+      "text": "information on a variety of rituals and spells. The guide is a\n",
+      "sourceLocation": "pdf:spans:[[72,1238,1301]]"
+    },
+    {
+      "id": "unique-event-017:p0769",
+      "kind": "body",
+      "text": "prerequisite for many game effects.\n",
+      "sourceLocation": "pdf:spans:[[72,1301,1337]]"
+    },
+    {
+      "id": "unique-event-017:p0770",
+      "kind": "body",
+      "text": "10\n",
+      "sourceLocation": "pdf:spans:[[72,1337,1340]]"
+    },
+    {
+      "id": "unique-event-017:p0771",
+      "kind": "body",
+      "text": "De Masticatione Mortuorum In Tumulis. By reading this book, you\n",
+      "sourceLocation": "pdf:spans:[[72,1340,1404]]"
+    },
+    {
+      "id": "unique-event-017:p0772",
+      "kind": "body",
+      "text": "gain a permanent +1 Attack bonus against any non-ghost Undead but\n",
+      "sourceLocation": "pdf:spans:[[72,1404,1470]]"
+    },
+    {
+      "id": "unique-event-017:p0773",
+      "kind": "body",
+      "text": "you must Save vs. L3 Fear or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[72,1470,1514]]"
+    },
+    {
+      "id": "unique-event-017:p0774",
+      "kind": "body",
+      "text": "11 The Diabolical Deal. By readying this book you may learn several\n",
+      "sourceLocation": "pdf:spans:[[72,1514,1582]]"
+    },
+    {
+      "id": "unique-event-017:p0775",
+      "kind": "body",
+      "text": "rituals. See the Arcane Skills section for details.\n",
+      "sourceLocation": "pdf:spans:[[72,1582,1634]]"
+    },
+    {
+      "id": "unique-event-017:p0776",
+      "kind": "body",
+      "text": "12\n",
+      "sourceLocation": "pdf:spans:[[72,1634,1637]]"
+    },
+    {
+      "id": "unique-event-017:p0777",
+      "kind": "body",
+      "text": "The Blob Experiment. You learn that the monster known as a blob is\n",
+      "sourceLocation": "pdf:spans:[[72,1637,1704]]"
+    },
+    {
+      "id": "unique-event-017:p0778",
+      "kind": "body",
+      "text": "vulnerable to salt. If you ever encounter it, you can cause 2 automatic\n",
+      "sourceLocation": "pdf:spans:[[72,1704,1776]]"
+    },
+    {
+      "id": "unique-event-017:p0779",
+      "kind": "body",
+      "text": "damage by tossing salt at it.  You have salt with you if you have at\n",
+      "sourceLocation": "pdf:spans:[[72,1776,1845]]"
+    },
+    {
+      "id": "unique-event-017:p0780",
+      "kind": "body",
+      "text": "least 1 Food point, or if you find a bag of salt.\n",
+      "sourceLocation": "pdf:spans:[[72,1845,1895]]"
+    },
+    {
+      "id": "unique-event-017:p0781",
+      "kind": "body",
+      "text": "Each book may be found only once per game. If you roll a book that you already\n",
+      "sourceLocation": "pdf:spans:[[72,1895,1974]]"
+    },
+    {
+      "id": "unique-event-017:p0782",
+      "kind": "body",
+      "text": "have, select the next or previous book on the table. For example, if you roll an\n",
+      "sourceLocation": "pdf:spans:[[72,1974,2055]]"
+    },
+    {
+      "id": "unique-event-017:p0783",
+      "kind": "body",
+      "text": "8 and you already have the Serial Killers Casebook, you may pick either The\n",
+      "sourceLocation": "pdf:spans:[[72,2055,2131]]"
+    },
+    {
+      "id": "unique-event-017:p0784",
+      "kind": "body",
+      "text": "Exorcism Ritual or The Blob Experiment instead.",
+      "sourceLocation": "pdf:spans:[[72,2131,2178]]"
+    },
+    {
+      "id": "unique-event-017:p0785",
+      "kind": "body",
+      "text": "rewards table (d6)\n",
+      "sourceLocation": "pdf:spans:[[73,22,41]]"
+    },
+    {
+      "id": "unique-event-017:p0786",
+      "kind": "body",
+      "text": "1 Recover 1 Life and 1 Sanity. Gain 1 XP.\n",
+      "sourceLocation": "pdf:spans:[[73,41,83]]"
+    },
+    {
+      "id": "unique-event-017:p0787",
+      "kind": "body",
+      "text": "2 Recover 2 Life or gain 2 XP, your choice.\n",
+      "sourceLocation": "pdf:spans:[[73,83,127]]"
+    },
+    {
+      "id": "unique-event-017:p0788",
+      "kind": "body",
+      "text": "3 Recover 2 Life and 1 Sanity or gain 1 XP, your choice.\n",
+      "sourceLocation": "pdf:spans:[[73,127,184]]"
+    },
+    {
+      "id": "unique-event-017:p0789",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[73,184,186]]"
+    },
+    {
+      "id": "unique-event-017:p0790",
+      "kind": "body",
+      "text": "Gain 2 Food, and in addition recover 1 Sanity or gain 2 XP, your\n",
+      "sourceLocation": "pdf:spans:[[73,186,251]]"
+    },
+    {
+      "id": "unique-event-017:p0791",
+      "kind": "body",
+      "text": "choice, or gain two random items from the Random Items table\n",
+      "sourceLocation": "pdf:spans:[[73,251,312]]"
+    },
+    {
+      "id": "unique-event-017:p0792",
+      "kind": "body",
+      "text": "and/or the Useful Stuff table, your choice.\n",
+      "sourceLocation": "pdf:spans:[[73,312,356]]"
+    },
+    {
+      "id": "unique-event-017:p0793",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[73,356,358]]"
+    },
+    {
+      "id": "unique-event-017:p0794",
+      "kind": "body",
+      "text": "Gain d6 Food, recover 1 Sanity and 1  Life. If you are already\n",
+      "sourceLocation": "pdf:spans:[[73,358,421]]"
+    },
+    {
+      "id": "unique-event-017:p0795",
+      "kind": "body",
+      "text": "carrying the maximum Food allowed and your Sanity and Life are\n",
+      "sourceLocation": "pdf:spans:[[73,421,484]]"
+    },
+    {
+      "id": "unique-event-017:p0796",
+      "kind": "body",
+      "text": "at their full value, you may choose to gain 2 XP instead.\n",
+      "sourceLocation": "pdf:spans:[[73,484,542]]"
+    },
+    {
+      "id": "unique-event-017:p0797",
+      "kind": "body",
+      "text": "6 Heal all Life and Sanity up to your starting values or gain 1 XP, your\n",
+      "sourceLocation": "pdf:spans:[[73,542,615]]"
+    },
+    {
+      "id": "unique-event-017:p0798",
+      "kind": "body",
+      "text": "choice.",
+      "sourceLocation": "pdf:spans:[[73,615,622]]"
+    },
+    {
+      "id": "unique-event-017:p0799",
+      "kind": "body",
+      "text": "Side Mission table (d6)\n",
+      "sourceLocation": "pdf:spans:[[74,22,46]]"
+    },
+    {
+      "id": "unique-event-017:p0800",
+      "kind": "body",
+      "text": "1 Bring in this box the head of a vampire or demon to claim the\n",
+      "sourceLocation": "pdf:spans:[[74,46,110]]"
+    },
+    {
+      "id": "unique-event-017:p0801",
+      "kind": "body",
+      "text": "reward.\n",
+      "sourceLocation": "pdf:spans:[[74,110,118]]"
+    },
+    {
+      "id": "unique-event-017:p0802",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[74,118,120]]"
+    },
+    {
+      "id": "unique-event-017:p0803",
+      "kind": "body",
+      "text": "Take a person from this box to a Safe House that has already\n",
+      "sourceLocation": "pdf:spans:[[74,120,181]]"
+    },
+    {
+      "id": "unique-event-017:p0804",
+      "kind": "body",
+      "text": "been revealed. If no safe houses are in play, you must take\n",
+      "sourceLocation": "pdf:spans:[[74,181,241]]"
+    },
+    {
+      "id": "unique-event-017:p0805",
+      "kind": "body",
+      "text": "this person to the most distant unrevealed box on the map\n",
+      "sourceLocation": "pdf:spans:[[74,241,299]]"
+    },
+    {
+      "id": "unique-event-017:p0806",
+      "kind": "body",
+      "text": "(there is no guarantee that it will be a Safe House. And you will\n",
+      "sourceLocation": "pdf:spans:[[74,299,365]]"
+    },
+    {
+      "id": "unique-event-017:p0807",
+      "kind": "body",
+      "text": "have to deal with any encounter in that box).\n",
+      "sourceLocation": "pdf:spans:[[74,365,411]]"
+    },
+    {
+      "id": "unique-event-017:p0808",
+      "kind": "body",
+      "text": "3 Give 4 Food points to the next House encounter with helpful\n",
+      "sourceLocation": "pdf:spans:[[74,411,473]]"
+    },
+    {
+      "id": "unique-event-017:p0809",
+      "kind": "body",
+      "text": "people to claim the reward.\n",
+      "sourceLocation": "pdf:spans:[[74,473,501]]"
+    },
+    {
+      "id": "unique-event-017:p0810",
+      "kind": "body",
+      "text": "4 Defeat a random enemy from the Beast table to claim the\n",
+      "sourceLocation": "pdf:spans:[[74,501,559]]"
+    },
+    {
+      "id": "unique-event-017:p0811",
+      "kind": "body",
+      "text": "reward. The combat happens in your current location.\n",
+      "sourceLocation": "pdf:spans:[[74,559,612]]"
+    },
+    {
+      "id": "unique-event-017:p0812",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[74,612,614]]"
+    },
+    {
+      "id": "unique-event-017:p0813",
+      "kind": "body",
+      "text": "Perform a ritual to re-consecrate a church. The next church\n",
+      "sourceLocation": "pdf:spans:[[74,614,674]]"
+    },
+    {
+      "id": "unique-event-017:p0814",
+      "kind": "body",
+      "text": "you discover in town will be a deconsecrated church, unless\n",
+      "sourceLocation": "pdf:spans:[[74,674,734]]"
+    },
+    {
+      "id": "unique-event-017:p0815",
+      "kind": "body",
+      "text": "you ALREADY have a deconsecrated church on the map.  You\n",
+      "sourceLocation": "pdf:spans:[[74,734,791]]"
+    },
+    {
+      "id": "unique-event-017:p0816",
+      "kind": "body",
+      "text": "must have the Faith Skill and the Holy book, and use 3 candles\n",
+      "sourceLocation": "pdf:spans:[[74,791,854]]"
+    },
+    {
+      "id": "unique-event-017:p0817",
+      "kind": "body",
+      "text": "in the ritual. As soon as this is accomplished, come back to\n",
+      "sourceLocation": "pdf:spans:[[74,854,915]]"
+    },
+    {
+      "id": "unique-event-017:p0818",
+      "kind": "body",
+      "text": "this location to claim your reward.\n",
+      "sourceLocation": "pdf:spans:[[74,915,951]]"
+    },
+    {
+      "id": "unique-event-017:p0819",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[74,951,953]]"
+    },
+    {
+      "id": "unique-event-017:p0820",
+      "kind": "body",
+      "text": "Bring here the mask of Walrus the Clown to claim the reward.\n",
+      "sourceLocation": "pdf:spans:[[74,953,1014]]"
+    },
+    {
+      "id": "unique-event-017:p0821",
+      "kind": "body",
+      "text": "This side mission may happen only once in the campaign.\n",
+      "sourceLocation": "pdf:spans:[[74,1014,1070]]"
+    },
+    {
+      "id": "unique-event-017:p0822",
+      "kind": "body",
+      "text": "Once it has happened, reroll this result until you select a\n",
+      "sourceLocation": "pdf:spans:[[74,1070,1130]]"
+    },
+    {
+      "id": "unique-event-017:p0823",
+      "kind": "body",
+      "text": "different side mission.\n",
+      "sourceLocation": "pdf:spans:[[74,1130,1154]]"
+    },
+    {
+      "id": "unique-event-017:p0824",
+      "kind": "body",
+      "text": "When you accept a side mission, you may alter your roll on the Town\n",
+      "sourceLocation": "pdf:spans:[[74,1154,1222]]"
+    },
+    {
+      "id": "unique-event-017:p0825",
+      "kind": "body",
+      "text": "Exploration table by +1 or -1 IF this lets you reach a location that is required\n",
+      "sourceLocation": "pdf:spans:[[74,1222,1303]]"
+    },
+    {
+      "id": "unique-event-017:p0826",
+      "kind": "body",
+      "text": "to complete your mission. Likewise, you may alter an encounter table by +1\n",
+      "sourceLocation": "pdf:spans:[[74,1303,1378]]"
+    },
+    {
+      "id": "unique-event-017:p0827",
+      "kind": "body",
+      "text": "or -1 if this lets you encounter a specific creature that you have to kill. For\n",
+      "sourceLocation": "pdf:spans:[[74,1378,1458]]"
+    },
+    {
+      "id": "unique-event-017:p0828",
+      "kind": "body",
+      "text": "example, if you are trying to complete Side Mission 1 and you roll on the\n",
+      "sourceLocation": "pdf:spans:[[74,1458,1532]]"
+    },
+    {
+      "id": "unique-event-017:p0829",
+      "kind": "body",
+      "text": "Undead table, you may count a roll of 5 as a 6 so that you can encounter a\n",
+      "sourceLocation": "pdf:spans:[[74,1532,1607]]"
+    },
+    {
+      "id": "unique-event-017:p0830",
+      "kind": "body",
+      "text": "vampire and kill it.",
+      "sourceLocation": "pdf:spans:[[74,1607,1627]]"
+    },
+    {
+      "id": "unique-event-017:p0831",
+      "kind": "body",
+      "text": " Random magic item table (d6)\n",
+      "sourceLocation": "pdf:spans:[[75,22,52]]"
+    },
+    {
+      "id": "unique-event-017:p0832",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[75,52,54]]"
+    },
+    {
+      "id": "unique-event-017:p0833",
+      "kind": "body",
+      "text": "Ghost Blade. This knife may hit immaterial targets and targets\n",
+      "sourceLocation": "pdf:spans:[[75,54,117]]"
+    },
+    {
+      "id": "unique-event-017:p0834",
+      "kind": "body",
+      "text": "hit only by magic weapons such as ghosts. The blade strikes\n",
+      "sourceLocation": "pdf:spans:[[75,117,177]]"
+    },
+    {
+      "id": "unique-event-017:p0835",
+      "kind": "body",
+      "text": "them at +1 and inflicts 2 damage. Against other targets, it\n",
+      "sourceLocation": "pdf:spans:[[75,177,237]]"
+    },
+    {
+      "id": "unique-event-017:p0836",
+      "kind": "body",
+      "text": "counts as a regular, damage 1 knife. It counts as 1 carried item.\n",
+      "sourceLocation": "pdf:spans:[[75,237,303]]"
+    },
+    {
+      "id": "unique-event-017:p0837",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[75,303,305]]"
+    },
+    {
+      "id": "unique-event-017:p0838",
+      "kind": "body",
+      "text": "Hell Chain. This length of rusty chain is imbued with the pain\n",
+      "sourceLocation": "pdf:spans:[[75,305,368]]"
+    },
+    {
+      "id": "unique-event-017:p0839",
+      "kind": "body",
+      "text": "and suffering of tortured souls. Each use costs you a L5 Will\n",
+      "sourceLocation": "pdf:spans:[[75,368,430]]"
+    },
+    {
+      "id": "unique-event-017:p0840",
+      "kind": "body",
+      "text": "save (lose 1 Sanity if you fail) but inflicts 1 automatic damage\n",
+      "sourceLocation": "pdf:spans:[[75,430,495]]"
+    },
+    {
+      "id": "unique-event-017:p0841",
+      "kind": "body",
+      "text": "against any target including spirits and demons. Once the\n",
+      "sourceLocation": "pdf:spans:[[75,495,553]]"
+    },
+    {
+      "id": "unique-event-017:p0842",
+      "kind": "body",
+      "text": "chain has inflicted a total of 6 hits, it turns into a heap of rust\n",
+      "sourceLocation": "pdf:spans:[[75,553,621]]"
+    },
+    {
+      "id": "unique-event-017:p0843",
+      "kind": "body",
+      "text": "and dried blood. It counts as 1 carried item.\n",
+      "sourceLocation": "pdf:spans:[[75,621,667]]"
+    },
+    {
+      "id": "unique-event-017:p0844",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[75,667,669]]"
+    },
+    {
+      "id": "unique-event-017:p0845",
+      "kind": "body",
+      "text": "The Book of Hypnos. If you spend 1 XP, with this grimoire you\n",
+      "sourceLocation": "pdf:spans:[[75,669,731]]"
+    },
+    {
+      "id": "unique-event-017:p0846",
+      "kind": "body",
+      "text": "learn to cast a spell that makes a single, living target (not\n",
+      "sourceLocation": "pdf:spans:[[75,731,793]]"
+    },
+    {
+      "id": "unique-event-017:p0847",
+      "kind": "body",
+      "text": "Undead or Artificial, not an animated doll) fall asleep if you\n",
+      "sourceLocation": "pdf:spans:[[75,793,856]]"
+    },
+    {
+      "id": "unique-event-017:p0848",
+      "kind": "body",
+      "text": "perform a Magic roll against the target’s L. You may try to use\n",
+      "sourceLocation": "pdf:spans:[[75,856,920]]"
+    },
+    {
+      "id": "unique-event-017:p0849",
+      "kind": "body",
+      "text": "the spell as many times as you want until you succeed. Once\n",
+      "sourceLocation": "pdf:spans:[[75,920,980]]"
+    },
+    {
+      "id": "unique-event-017:p0850",
+      "kind": "body",
+      "text": "you succeed, you may not use the spell again for the rest of\n",
+      "sourceLocation": "pdf:spans:[[75,980,1041]]"
+    },
+    {
+      "id": "unique-event-017:p0851",
+      "kind": "body",
+      "text": "the current game. The book counts as 1 carried item.\n",
+      "sourceLocation": "pdf:spans:[[75,1041,1094]]"
+    },
+    {
+      "id": "unique-event-017:p0852",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[75,1094,1096]]"
+    },
+    {
+      "id": "unique-event-017:p0853",
+      "kind": "body",
+      "text": "Holy Bullets. These 2d6 bullets with holy inscriptions may be\n",
+      "sourceLocation": "pdf:spans:[[75,1096,1158]]"
+    },
+    {
+      "id": "unique-event-017:p0854",
+      "kind": "body",
+      "text": "used with a pistol only. They inflict 2 damage against demons\n",
+      "sourceLocation": "pdf:spans:[[75,1158,1220]]"
+    },
+    {
+      "id": "unique-event-017:p0855",
+      "kind": "body",
+      "text": "and vampires. When you wound a demon or vampire with\n",
+      "sourceLocation": "pdf:spans:[[75,1220,1273]]"
+    },
+    {
+      "id": "unique-event-017:p0856",
+      "kind": "body",
+      "text": "these bullets, roll d6. If you roll higher than their L, the\n",
+      "sourceLocation": "pdf:spans:[[75,1273,1334]]"
+    },
+    {
+      "id": "unique-event-017:p0857",
+      "kind": "body",
+      "text": "wounded creature will flee.\n",
+      "sourceLocation": "pdf:spans:[[75,1334,1362]]"
+    },
+    {
+      "id": "unique-event-017:p0858",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[75,1362,1364]]"
+    },
+    {
+      "id": "unique-event-017:p0859",
+      "kind": "body",
+      "text": "Blessed Candle. You may burn this candle to recover 1 Sanity\n",
+      "sourceLocation": "pdf:spans:[[75,1364,1425]]"
+    },
+    {
+      "id": "unique-event-017:p0860",
+      "kind": "body",
+      "text": "or remove a curse. You may also use it in any ritual requiring\n",
+      "sourceLocation": "pdf:spans:[[75,1425,1488]]"
+    },
+    {
+      "id": "unique-event-017:p0861",
+      "kind": "body",
+      "text": "candles. Negligible weight.\n",
+      "sourceLocation": "pdf:spans:[[75,1488,1516]]"
+    },
+    {
+      "id": "unique-event-017:p0862",
+      "kind": "body",
+      "text": "6 Amulet. Wearing this amulet gives you +1 to all saves vs.\n",
+      "sourceLocation": "pdf:spans:[[75,1516,1576]]"
+    },
+    {
+      "id": "unique-event-017:p0863",
+      "kind": "body",
+      "text": "magic. Negligible weight.",
+      "sourceLocation": "pdf:spans:[[75,1576,1601]]"
+    },
+    {
+      "id": "unique-event-017:p0864",
+      "kind": "body",
+      "text": "Unique events\n",
+      "sourceLocation": "pdf:spans:[[77,22,36]]"
+    },
+    {
+      "id": "unique-event-017:p0865",
+      "kind": "body",
+      "text": "#17 - the rosen house\n",
+      "sourceLocation": "pdf:spans:[[84,22,44]]"
+    },
+    {
+      "id": "unique-event-017:p0866",
+      "kind": "body",
+      "text": "The large walnut tree that looks\n",
+      "sourceLocation": "pdf:spans:[[84,44,77]]"
+    },
+    {
+      "id": "unique-event-017:p0867",
+      "kind": "body",
+      "text": "over the dilapidated Rosen\n",
+      "sourceLocation": "pdf:spans:[[84,77,104]]"
+    },
+    {
+      "id": "unique-event-017:p0868",
+      "kind": "body",
+      "text": "mansion seems to move its\n",
+      "sourceLocation": "pdf:spans:[[84,104,130]]"
+    },
+    {
+      "id": "unique-event-017:p0869",
+      "kind": "body",
+      "text": "branches towards you. Do you\n",
+      "sourceLocation": "pdf:spans:[[84,130,159]]"
+    },
+    {
+      "id": "unique-event-017:p0870",
+      "kind": "body",
+      "text": "want to:\n",
+      "sourceLocation": "pdf:spans:[[84,159,168]]"
+    },
+    {
+      "id": "unique-event-017:p0871",
+      "kind": "body",
+      "text": "Climb the tree? Go to #19\n",
+      "sourceLocation": "pdf:spans:[[84,168,194]]"
+    },
+    {
+      "id": "unique-event-017:p0872",
+      "kind": "body",
+      "text": "Explore the house? Go to #20\n",
+      "sourceLocation": "pdf:spans:[[84,194,223]]"
+    },
+    {
+      "id": "unique-event-017:p0873",
+      "kind": "body",
+      "text": "Dig the ground around the tree (if\n",
+      "sourceLocation": "pdf:spans:[[84,223,258]]"
+    },
+    {
+      "id": "unique-event-017:p0874",
+      "kind": "body",
+      "text": "you have a shovel)? Go to #21, or\n",
+      "sourceLocation": "pdf:spans:[[84,258,292]]"
+    },
+    {
+      "id": "unique-event-017:p0875",
+      "kind": "body",
+      "text": "if you think that this area is too\n",
+      "sourceLocation": "pdf:spans:[[84,292,327]]"
+    },
+    {
+      "id": "unique-event-017:p0876",
+      "kind": "body",
+      "text": "dangerous, you may go back to\n",
+      "sourceLocation": "pdf:spans:[[84,327,357]]"
+    },
+    {
+      "id": "unique-event-017:p0877",
+      "kind": "body",
+      "text": "your exploration of the town.\n",
+      "sourceLocation": "pdf:spans:[[84,357,387]]"
+    }
+  ],
+  "sourcePages": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    77,
+    84
+  ]
+}

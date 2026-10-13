@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "155"
+  ],
+  "text": [
+    "你本能地退到房子附近的掩护处。你转身想跑，却来不及了。你刚进门，约书亚便开枪，一发子弹打中你的后背。你感到子弹穿透身体，从另一侧射出。你倒在地上。",
+    "你伸手捂住伤口，难以置信地看着满是血的手。抬起头时，你发现约书亚正站在你上方。他举枪指向你。在那短暂而可怕的一刻，你以为自己的生命就要结束了，但阿米莉娅尖叫起来。约书亚低声咒骂，一脚踢在你的脸上。你失去了意识。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 155",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 155",
+      "text": [
+        "Instinctively, you retreat toward the cover of the house. You turn to run, but you aren’t quick enough. As you enter the doorway, Joshua fires his gun and you take a bullet in the back. You feel it tear through you and see the projectile pass out the other side. You collapse to the floor.",
+        "You reach down to clutch your wound, staring at your bloody hand in disbelief. You look up to find Joshua standing over you. He raises his gun at you. For a brief and terrible moment, you anticipate the end of your life, but Amelia shrieks. Joshua curses under his breath and kicks you in the face. You slip into unconsciousness."
+      ]
+    }
+  }
+}

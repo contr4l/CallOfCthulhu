@@ -1,0 +1,158 @@
+{
+  "id": "unique-event-001",
+  "paragraphs": [
+    {
+      "id": "unique-event-001:p0000",
+      "kind": "body",
+      "text": "# 1 - Creepy Old Mansion\n",
+      "sourceLocation": "pdf:spans:[[77,36,61]]"
+    },
+    {
+      "id": "unique-event-001:p0001",
+      "kind": "body",
+      "text": "You end up in a creepy old\n",
+      "sourceLocation": "pdf:spans:[[77,61,88]]"
+    },
+    {
+      "id": "unique-event-001:p0002",
+      "kind": "body",
+      "text": "mansion. There is a 1 in 6 chance\n",
+      "sourceLocation": "pdf:spans:[[77,88,122]]"
+    },
+    {
+      "id": "unique-event-001:p0003",
+      "kind": "body",
+      "text": "of an encounter with a creature\n",
+      "sourceLocation": "pdf:spans:[[77,122,154]]"
+    },
+    {
+      "id": "unique-event-001:p0004",
+      "kind": "body",
+      "text": "from the Possessed table. If this\n",
+      "sourceLocation": "pdf:spans:[[77,154,188]]"
+    },
+    {
+      "id": "unique-event-001:p0005",
+      "kind": "body",
+      "text": "does not happen, there is a 3 in 6\n",
+      "sourceLocation": "pdf:spans:[[77,188,223]]"
+    },
+    {
+      "id": "unique-event-001:p0006",
+      "kind": "body",
+      "text": "chance of an encounter from the\n",
+      "sourceLocation": "pdf:spans:[[77,223,255]]"
+    },
+    {
+      "id": "unique-event-001:p0007",
+      "kind": "body",
+      "text": "Ghosts Table. In any case, you have\n",
+      "sourceLocation": "pdf:spans:[[77,255,291]]"
+    },
+    {
+      "id": "unique-event-001:p0008",
+      "kind": "body",
+      "text": "found a hell gate and the name of\n",
+      "sourceLocation": "pdf:spans:[[77,291,325]]"
+    },
+    {
+      "id": "unique-event-001:p0009",
+      "kind": "body",
+      "text": "the demon FLAUROS written on a\n",
+      "sourceLocation": "pdf:spans:[[77,325,356]]"
+    },
+    {
+      "id": "unique-event-001:p0010",
+      "kind": "body",
+      "text": "wall. If you have the Gate Arcane\n",
+      "sourceLocation": "pdf:spans:[[77,356,390]]"
+    },
+    {
+      "id": "unique-event-001:p0011",
+      "kind": "body",
+      "text": "Skill, you may perform a L6 Magic\n",
+      "sourceLocation": "pdf:spans:[[77,390,424]]"
+    },
+    {
+      "id": "unique-event-001:p0012",
+      "kind": "body",
+      "text": "roll to close it. If you close it, you\n",
+      "sourceLocation": "pdf:spans:[[77,424,463]]"
+    },
+    {
+      "id": "unique-event-001:p0013",
+      "kind": "body",
+      "text": "may ignore the next 3 encounters\n",
+      "sourceLocation": "pdf:spans:[[77,463,496]]"
+    },
+    {
+      "id": "unique-event-001:p0014",
+      "kind": "body",
+      "text": "that happen to you, and you\n",
+      "sourceLocation": "pdf:spans:[[77,496,524]]"
+    },
+    {
+      "id": "unique-event-001:p0015",
+      "kind": "body",
+      "text": "recover 2 Sanity. If you fail to close\n",
+      "sourceLocation": "pdf:spans:[[77,524,563]]"
+    },
+    {
+      "id": "unique-event-001:p0016",
+      "kind": "body",
+      "text": "it, you are cursed and your chance\n",
+      "sourceLocation": "pdf:spans:[[77,563,598]]"
+    },
+    {
+      "id": "unique-event-001:p0017",
+      "kind": "body",
+      "text": "of meeting wandering monsters\n",
+      "sourceLocation": "pdf:spans:[[77,598,628]]"
+    },
+    {
+      "id": "unique-event-001:p0018",
+      "kind": "body",
+      "text": "increases by 1 (so 2 in 6 every time\n",
+      "sourceLocation": "pdf:spans:[[77,628,665]]"
+    },
+    {
+      "id": "unique-event-001:p0019",
+      "kind": "body",
+      "text": "you visit an already visited box)\n",
+      "sourceLocation": "pdf:spans:[[77,665,699]]"
+    },
+    {
+      "id": "unique-event-001:p0020",
+      "kind": "body",
+      "text": "until you find another hell gate and\n",
+      "sourceLocation": "pdf:spans:[[77,699,736]]"
+    },
+    {
+      "id": "unique-event-001:p0021",
+      "kind": "body",
+      "text": "manage to close it, or find a magic\n",
+      "sourceLocation": "pdf:spans:[[77,736,772]]"
+    },
+    {
+      "id": "unique-event-001:p0022",
+      "kind": "body",
+      "text": "item or ritual that dispels the curse.\n",
+      "sourceLocation": "pdf:spans:[[77,772,811]]"
+    },
+    {
+      "id": "unique-event-001:p0023",
+      "kind": "body",
+      "text": "You may just ignore the hell gate if\n",
+      "sourceLocation": "pdf:spans:[[77,811,848]]"
+    },
+    {
+      "id": "unique-event-001:p0024",
+      "kind": "body",
+      "text": "you prefer.\n",
+      "sourceLocation": "pdf:spans:[[77,848,860]]"
+    }
+  ],
+  "sourcePages": [
+    77
+  ]
+}

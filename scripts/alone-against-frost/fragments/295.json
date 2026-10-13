@@ -1,0 +1,30 @@
+{
+  "id": "295",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "295:p0",
+      "kind": "heading",
+      "text": "295",
+      "sourceLocation": "pdf:visual:[[58,10]]"
+    },
+    {
+      "id": "295:p1",
+      "kind": "body",
+      "text": "The two of you walk, hungry, for many days. One morning you \nwake to find Norman gone. You search for the entire day but \nfail to turn up a single trace of him. In the end, you have to \nadmit you are alone.",
+      "sourceLocation": "pdf:visual:[[58,11],[58,12],[58,13],[58,14]]"
+    },
+    {
+      "id": "295:p2",
+      "kind": "body",
+      "text": "Go to 67.",
+      "sourceLocation": "pdf:visual:[[58,15]]"
+    },
+    {
+      "id": "295:p3",
+      "kind": "trace",
+      "text": "(279)",
+      "sourceLocation": "pdf:visual:[[58,16]]"
+    }
+  ]
+}

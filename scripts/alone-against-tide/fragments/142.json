@@ -1,0 +1,54 @@
+{
+  "id": "142",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "142:p0",
+      "kind": "heading",
+      "text": "142\n",
+      "sourceLocation": "pdf:spans:[[47,44,48]]"
+    },
+    {
+      "id": "142:p1",
+      "kind": "body",
+      "text": "Fearing that someone might be in danger, or perhaps that this \ncommotion is somehow related to the theft from your room, \nyou rush to investigate.\n",
+      "sourceLocation": "pdf:spans:[[47,48,111],[47,111,170],[47,170,195]]"
+    },
+    {
+      "id": "142:p2",
+      "kind": "body",
+      "text": "You find the adjacent room’s door open, and inside you \ndiscover a large and familiar-looking man in a dark suit. He \nlooms over the prone body of a beaten and bloodied Buddhist \nmonk. The man in the suit has clearly worked him over.\n",
+      "sourceLocation": "pdf:spans:[[47,195,251],[47,251,313],[47,313,374],[47,374,429]]"
+    },
+    {
+      "id": "142:p3",
+      "kind": "body",
+      "text": "The suited man has his back to you, and you doubt you’ve \nbeen noticed yet. With a little luck, you might be able to get the \ndrop on him and subdue him quickly.\n",
+      "sourceLocation": "pdf:spans:[[47,429,487],[47,487,555],[47,555,591]]"
+    },
+    {
+      "id": "142:p4",
+      "kind": "body",
+      "text": "Alternatively, if you have come into possession of a firearm \nduring your stay in Esbury, you could always resort to lethal \nforce.\n",
+      "sourceLocation": "pdf:spans:[[47,591,653],[47,653,716],[47,716,723]]"
+    },
+    {
+      "id": "142:p5",
+      "kind": "body",
+      "text": "• To subdue the man, make a Fighting (Brawl) roll with a bonus \ndie (for surprise): if you succeed, go to 97; if you fail, take 1D3 \ndamage. If you survive this, go to 129; however, if this reduces you \nto zero hit points, the man beats you to death. Your visit to Esbury \nis over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[47,725,789],[47,789,858],[47,858,928],[47,928,998],[47,998,1016]]"
+    },
+    {
+      "id": "142:p6",
+      "kind": "body",
+      "text": "• To discharge your firearm, make a Firearms (Handgun) roll with a \nbonus die (for surprise): if you succeed, go to 78; if you fail, take 1D3 \ndamage. If you survive this, go to 129; however, if this reduces you \nto zero hit points, the man beats you to death. Your visit to Esbury \nis over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[47,1016,1084],[47,1084,1159],[47,1159,1229],[47,1229,1299],[47,1299,1317]]"
+    },
+    {
+      "id": "142:p7",
+      "kind": "body",
+      "text": "(122, 134)\n",
+      "sourceLocation": "pdf:spans:[[47,1317,1328]]"
+    }
+  ]
+}

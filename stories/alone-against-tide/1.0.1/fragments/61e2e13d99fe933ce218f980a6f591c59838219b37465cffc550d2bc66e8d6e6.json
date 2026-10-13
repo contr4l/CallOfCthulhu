@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "69"
+  ],
+  "text": [
+    "约书亚把刀从你脸上移开，走过房间。他从满是灰尘的遗物中拿起那尊丑恶的偶像，放到你面前的地板上。你徒劳地挣扎，试图挣脱捆住你的粗绳。",
+    "你瞥了眼怪诞的雕像，随后一边在绳索下扭动，一边盯着约书亚。约书亚与你四目相对，邪恶地咧嘴一笑，把冰冷的金属轻轻抵在你的喉咙上。随后他的双眼变得呆滞，开始用一种奇怪的语言说话：“Grah’n y’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.”他慢吞吞、一字一顿地念出每个音节，仿佛极其专注于发声。",
+    "最后一个音节刚出口，约书亚就拿起刀，猛地抵住你的脖子。他动作流畅，一刀割开了你的喉咙。",
+    "你不断失血，眼前浮现出不可能存在的景象。眼前世界融化消失，取而代之的是一座由大理石、缟玛瑙和光彩夺目的宝石建成的辉煌城市。你看见这座宏伟城市的全貌，它坐落在平静的湖边。转眼间，湖水上涨将它吞没，一切随即消失。偶像中的蜥蜴怪物被你的鲜血赋予生命和力量，从水中猛然升起。那生物以邪恶而有知觉的目光注视着你，湖水不断上涨，将你吞噬。你被献祭给一位旧日支配者。你在埃斯伯里的旅程到此结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 69",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 69",
+      "text": [
+        "Joshua removes the blade from your face and walks across the room. He lifts the hideous idol from its spot amid the dusty relics and places it on the floor in front of you as you struggle in vain against the thick ropes that bind you.",
+        "You glance at the grotesque statue, and then fix your gaze on Joshua as you squirm and twist beneath the ropes. Joshua locks eyes with you, smiling with wicked glee as he rests the cold metal lightly against your throat. Then his eyes glaze over as he begins speaking in a strange tongue. “Grah’n y’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.” He speaks each syllable in a slow and monotonous tone, as if he’s focusing very carefully on the sound of the words.",
+        "As the last syllable passes his lips, Joshua takes the knife and presses it sharply against your neck. With a single, smooth motion, he slits your throat.",
+        "As you bleed out, your eyes perceive impossible visions. The world before you melts away, replaced by a shining city of marble, onyx, and lustrous gems. You see this magnificent city in all its splendor, sitting next to a placid lake. And then, in an instant, it’s gone as the water rises up to swallow it. The lizard- thing of the idol, given life and power by your blood, surges up from the water. The being eyes you with malicious sentience as the waters swell and consume you. You have been offered up as a sacrifice to one of the Great Old Ones. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

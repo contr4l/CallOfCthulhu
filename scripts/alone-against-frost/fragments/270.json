@@ -1,0 +1,30 @@
+{
+  "id": "270",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "270:p0",
+      "kind": "heading",
+      "text": "270",
+      "sourceLocation": "pdf:visual:[[54,1]]"
+    },
+    {
+      "id": "270:p1",
+      "kind": "body",
+      "text": "The stricken wolf falls away from Norman and you turn swiftly \ntoward Sylvia. But, it is too late for her. In a rage, you attack the \nbeast and drive it from its kill.",
+      "sourceLocation": "pdf:visual:[[54,2],[54,3],[54,4]]"
+    },
+    {
+      "id": "270:p2",
+      "kind": "body",
+      "text": "A successful First Aid roll can restore 1D3 hit points to Norman or \nyourself. Go to 278.",
+      "sourceLocation": "pdf:visual:[[54,5],[54,6]]"
+    },
+    {
+      "id": "270:p3",
+      "kind": "trace",
+      "text": "(271)",
+      "sourceLocation": "pdf:visual:[[54,7]]"
+    }
+  ]
+}

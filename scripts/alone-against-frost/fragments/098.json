@@ -1,0 +1,36 @@
+{
+  "id": "98",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "98:p0",
+      "kind": "heading",
+      "text": "98",
+      "sourceLocation": "pdf:visual:[[27,19]]"
+    },
+    {
+      "id": "98:p1",
+      "kind": "body",
+      "text": "Your party decides that the nearby cave makes a good base for \nfurther exploration. You work your way through a rough stretch \nshaded by fragrant black spruces and balsam firs. At the foot of \na stream-dug ravine, you catch the whiff of sulfur. You dip your \nhand in the water and feel a pleasant warmth. It must drain \nalmost directly from a hot spring.",
+      "sourceLocation": "pdf:visual:[[27,21],[27,23],[27,24],[27,26],[27,27],[27,29]]"
+    },
+    {
+      "id": "98:p2",
+      "kind": "body",
+      "text": "Your  group  follows  the  waterway  upstream.  You  notice \nmineral deposits on the stones around the creek. The farther \nyou go, the heavier they become.",
+      "sourceLocation": "pdf:visual:[[27,30],[27,31],[27,32]]"
+    },
+    {
+      "id": "98:p3",
+      "kind": "body",
+      "text": "Go to 64.",
+      "sourceLocation": "pdf:visual:[[27,33]]"
+    },
+    {
+      "id": "98:p4",
+      "kind": "trace",
+      "text": "(31)",
+      "sourceLocation": "pdf:visual:[[27,34]]"
+    }
+  ]
+}

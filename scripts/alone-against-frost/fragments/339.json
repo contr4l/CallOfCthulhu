@@ -1,0 +1,30 @@
+{
+  "id": "339",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "339:p0",
+      "kind": "heading",
+      "text": "339",
+      "sourceLocation": "pdf:visual:[[64,5]]"
+    },
+    {
+      "id": "339:p1",
+      "kind": "body",
+      "text": "Your shaking arm spoils your shot. The wind-walker springs \nat you, knocking the rifle far out of reach. Then, with a blood-\nchilling shout, it attacks. You turn and flee.",
+      "sourceLocation": "pdf:visual:[[64,6],[64,7],[64,8]]"
+    },
+    {
+      "id": "339:p2",
+      "kind": "body",
+      "text": "Make a Hard CON roll: if you succeed, go to 336; if you fail, go \nto 337.",
+      "sourceLocation": "pdf:visual:[[64,9],[64,10]]"
+    },
+    {
+      "id": "339:p3",
+      "kind": "trace",
+      "text": "(301)",
+      "sourceLocation": "pdf:visual:[[64,11]]"
+    }
+  ]
+}

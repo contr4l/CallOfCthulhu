@@ -1,0 +1,30 @@
+{
+  "id": "414",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "414:p0",
+      "kind": "heading",
+      "text": "414",
+      "sourceLocation": "pdf:visual:[[73,78]]"
+    },
+    {
+      "id": "414:p1",
+      "kind": "body",
+      "text": "You press yourself into the shadows, listening hard and keeping \nyour breaths shallow. Somewhere nearby, leaves rustle. Is that a \nbuzzing in the distance? ",
+      "sourceLocation": "pdf:visual:[[73,79],[73,80],[73,81]]"
+    },
+    {
+      "id": "414:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 518: if the result is odd, go \nto 515.",
+      "sourceLocation": "pdf:visual:[[73,82],[73,83]]"
+    },
+    {
+      "id": "414:p3",
+      "kind": "trace",
+      "text": "(507)",
+      "sourceLocation": "pdf:visual:[[73,84]]"
+    }
+  ]
+}

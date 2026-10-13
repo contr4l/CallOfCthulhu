@@ -40,7 +40,6 @@ export function CollectionLibrary({
     try {
       const q = new URLSearchParams({
         storyId: story.storyId,
-        version: story.version,
         kind,
         id,
       });
@@ -80,15 +79,9 @@ export function CollectionLibrary({
         collections.map((story) => {
           const group = story[kind];
           return (
-            <article
-              className="collection-story"
-              key={`${story.storyId}:${story.version}`}
-            >
+            <article className="collection-story" key={story.storyId}>
               <header>
-                <div>
-                  <h3>{story.title}</h3>
-                  <small>版本 {story.version}</small>
-                </div>
+                <h3>{story.title}</h3>
                 <strong aria-label={`${story.title}收集进度`}>
                   {group.entries.length} / {group.total}
                 </strong>

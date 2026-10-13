@@ -1,0 +1,36 @@
+{
+  "id": "641",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "641:p0",
+      "kind": "heading",
+      "text": "641",
+      "sourceLocation": "pdf:visual:[[107,13]]"
+    },
+    {
+      "id": "641:p1",
+      "kind": "body",
+      "text": "Without a sound, Sylvia goes down under the freezing energy \nof the creature’s ray. You and Norman reach the cover of the \ntrees and head for a clump where the canopy is thickest.",
+      "sourceLocation": "pdf:visual:[[107,15],[107,17],[107,18]]"
+    },
+    {
+      "id": "641:p2",
+      "kind": "body",
+      "text": "Once the flyer seems to be gone, you creep back to the wood’s \nedge. The bodies of Sylvia and Bernard have vanished.",
+      "sourceLocation": "pdf:visual:[[107,20],[107,21]]"
+    },
+    {
+      "id": "641:p3",
+      "kind": "body",
+      "text": "To explore the valley with Norman, go to 213. To leave it, go \nto 361.",
+      "sourceLocation": "pdf:visual:[[107,23],[107,25]]"
+    },
+    {
+      "id": "641:p4",
+      "kind": "trace",
+      "text": "(638)",
+      "sourceLocation": "pdf:visual:[[107,26]]"
+    }
+  ]
+}

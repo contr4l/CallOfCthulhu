@@ -1,0 +1,30 @@
+{
+  "id": "219",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "219:p0",
+      "kind": "heading",
+      "text": "219",
+      "sourceLocation": "pdf:visual:[[46,1]]"
+    },
+    {
+      "id": "219:p1",
+      "kind": "body",
+      "text": "Your inept finger-work wakes the sleeper, but not before you \nhave seen the grotesque blackened hooves beneath the rags, \nwhere his feet should be.",
+      "sourceLocation": "pdf:visual:[[46,2],[46,3],[46,4]]"
+    },
+    {
+      "id": "219:p2",
+      "kind": "body",
+      "text": "Go to 127.",
+      "sourceLocation": "pdf:visual:[[46,5]]"
+    },
+    {
+      "id": "219:p3",
+      "kind": "trace",
+      "text": "(80)",
+      "sourceLocation": "pdf:visual:[[46,6]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "73",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "73:p0",
+      "kind": "heading",
+      "text": "73\n",
+      "sourceLocation": "pdf:spans:[[27,987,990]]"
+    },
+    {
+      "id": "73:p1",
+      "kind": "body",
+      "text": "Though you wished to buy the curious clay cylinders, someone \nelse placed a higher bid. You hear Mr. Warren announce the \nname “Arthur Duncan” and see one of the dark-suited pair \napproach to take the item from him.\n",
+      "sourceLocation": "pdf:spans:[[27,990,1052],[27,1052,1112],[27,1112,1170],[27,1170,1206]]"
+    },
+    {
+      "id": "73:p2",
+      "kind": "body",
+      "text": "• Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[27,1206,1218]]"
+    },
+    {
+      "id": "73:p3",
+      "kind": "body",
+      "text": "(24)\n",
+      "sourceLocation": "pdf:spans:[[27,1218,1223]]"
+    }
+  ]
+}

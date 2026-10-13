@@ -1,0 +1,30 @@
+{
+  "id": "552",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "552:p0",
+      "kind": "heading",
+      "text": "552",
+      "sourceLocation": "pdf:visual:[[94,57]]"
+    },
+    {
+      "id": "552:p1",
+      "kind": "body",
+      "text": "You pause to get your bearings.",
+      "sourceLocation": "pdf:visual:[[94,58]]"
+    },
+    {
+      "id": "552:p2",
+      "kind": "body",
+      "text": "If you have the keyword TANGENT, go to 462; if not, go to 553.",
+      "sourceLocation": "pdf:visual:[[94,59]]"
+    },
+    {
+      "id": "552:p3",
+      "kind": "trace",
+      "text": "(158,604)",
+      "sourceLocation": "pdf:visual:[[94,60]]"
+    }
+  ]
+}

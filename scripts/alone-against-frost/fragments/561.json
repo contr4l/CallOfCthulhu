@@ -1,0 +1,42 @@
+{
+  "id": "561",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "561:p0",
+      "kind": "heading",
+      "text": "561",
+      "sourceLocation": "pdf:visual:[[95,72]]"
+    },
+    {
+      "id": "561:p1",
+      "kind": "body",
+      "text": "You urge Norman and Sylvia to make no aggressive moves. \nThe hunters press in around you and take the rifle from your \nhand and the knife from your belt. The students get the same \ntreatment.",
+      "sourceLocation": "pdf:visual:[[95,73],[95,74],[95,75],[95,76]]"
+    },
+    {
+      "id": "561:p2",
+      "kind": "body",
+      "text": "You  tell  the  hunters  you  mean  no  harm,  keeping  your \nvoice even.",
+      "sourceLocation": "pdf:visual:[[95,77],[95,78]]"
+    },
+    {
+      "id": "561:p3",
+      "kind": "body",
+      "text": "One  of  the  hunters  speaks  in  his  tribal  tongue. You  have \nenough  of  his  language  to  interpret  it  as  “Silence!”  or  some \nvariation. Your captors take the three of you down to the spot \nwhere you first sighted them.",
+      "sourceLocation": "pdf:visual:[[95,79],[95,80],[95,81],[95,82]]"
+    },
+    {
+      "id": "561:p4",
+      "kind": "body",
+      "text": "Go to 562.",
+      "sourceLocation": "pdf:visual:[[95,83]]"
+    },
+    {
+      "id": "561:p5",
+      "kind": "trace",
+      "text": "(560, 573, 575, 584, 591)",
+      "sourceLocation": "pdf:visual:[[95,84]]"
+    }
+  ]
+}

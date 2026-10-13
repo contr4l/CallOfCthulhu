@@ -1,3 +1,4 @@
+import { version as gameVersion } from "../../../package.json";
 import { ShopLibrary } from "./components/ShopLibrary";
 import type { ShopState, CheckWindow } from "../../../packages/contracts/shop";
 import { createUuid } from "./uuid";
@@ -77,6 +78,7 @@ const FEATURED_STORY_ID = "alone-against-flames";
 const AVAILABLE_STORY_IDS = new Set([
   FEATURED_STORY_ID,
   "alone-against-static",
+  "alone-against-tide",
 ]);
 type Page =
   | "library"
@@ -738,7 +740,11 @@ function App() {
                 <Flame size={23} />
               </span>
               <span>
-                余烬档案<small>THE EMBER ARCHIVE</small>
+                余烬档案
+                <small className="brand-version" aria-label="游戏版本">
+                  v{gameVersion}
+                </small>
+                <small>THE EMBER ARCHIVE</small>
               </span>
             </a>
             <div className="sidebar-label">独行，亦有回响</div>

@@ -1,0 +1,30 @@
+{
+  "id": "463",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "463:p0",
+      "kind": "heading",
+      "text": "463",
+      "sourceLocation": "pdf:visual:[[81,69]]"
+    },
+    {
+      "id": "463:p1",
+      "kind": "body",
+      "text": "It is impossible for Bernard to walk in his condition. Since life \nsomehow lingers in his ruined body, you will have to carry him. \nYou and Norman trim saplings into poles to make a litter.",
+      "sourceLocation": "pdf:visual:[[81,70],[81,71],[81,72]]"
+    },
+    {
+      "id": "463:p2",
+      "kind": "body",
+      "text": "Make a Listen roll: if you succeed, go to 464; if you fail, go to 467.",
+      "sourceLocation": "pdf:visual:[[81,73]]"
+    },
+    {
+      "id": "463:p3",
+      "kind": "trace",
+      "text": "(462, 649)",
+      "sourceLocation": "pdf:visual:[[81,74]]"
+    }
+  ]
+}

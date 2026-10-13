@@ -1,0 +1,36 @@
+{
+  "id": "401",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "401:p0",
+      "kind": "heading",
+      "text": "401",
+      "sourceLocation": "pdf:visual:[[72,10]]"
+    },
+    {
+      "id": "401:p1",
+      "kind": "body",
+      "text": "While  you  watch  from  your  guarded  spot,  you  observe  the \nflicker of Sylvia’s fires. After a moment, they surge into red \nforks of flame.",
+      "sourceLocation": "pdf:visual:[[72,11],[72,12],[72,13]]"
+    },
+    {
+      "id": "401:p2",
+      "kind": "body",
+      "text": "Guards around the encampment scream an alarm. In seconds \nall  is  pandemonium,  with  smoke  billowing  and  sasquatches \nrunning  in  every  direction. The  beasts  near  you  succumb  to \npanic, allowing you and Norman to scramble out. Sylvia runs \nto join you.",
+      "sourceLocation": "pdf:visual:[[72,14],[72,15],[72,16],[72,17],[72,18]]"
+    },
+    {
+      "id": "401:p3",
+      "kind": "body",
+      "text": "To sprint for freedom, make a Luck roll: if you succeed, go to 402: if \nyou fail, go to 403.",
+      "sourceLocation": "pdf:visual:[[72,19],[72,20]]"
+    },
+    {
+      "id": "401:p4",
+      "kind": "trace",
+      "text": "(387)",
+      "sourceLocation": "pdf:visual:[[72,21]]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "181"
+  ],
+  "text": [
+    "你认为已经把约书亚的房子看得够多了，没有理由继续逗留。你走出房子，随手把门关上。",
+    "你望向雾中，发现雾比记忆中更浓。你几乎什么都看不见。更糟的是，你待在屋里的时候，黑夜已经完全降临。",
+    "你掌握了新的线索，觉得自己已准备好面对前方的一切。你走出几步来到街上，震惊地发现镇上的鹅卵石路面已经积满了水。湖水水位正在上涨，埃斯伯里开始被淹。",
+    "结合先前发生的事，你怀疑这或许并非完全自然的现象。即使真是自然现象，迅速上涨的水位本身也是严重威胁。你感到一阵恐惧，但还是克服了它，催促自己行动。你知道必须逃离洪水，而且必须尽快行动。",
+    "如果你知道与班尤碰面的地点，现在可以选择前往。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 181",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 181",
+      "text": [
+        "You decide that you’ve seen enough of Joshua’s house and that you have no reason to linger here. You exit the building and close the door behind you.",
+        "You look out into the fog and find it thicker than you remember. You can see almost nothing. Compounding this problem is the darkness, which has completely fallen while you were inside.",
+        "Armed with new knowledge, you feel prepared to confront what lies ahead of you. You take a few steps out into the street and are shocked to find the town’s cobblestones waterlogged. The lake’s water level is rising, and Esbury is beginning to flood.",
+        "Given earlier events, you suspect this may not be entirely natural. Even if it is, the rapidly rising water is a serious threat in itself. You feel a twinge of fear but overcome it and spur yourself into action. You know you must escape the flood, and that you must act quickly.",
+        "If you know where to meet with Banyu, now is the time you may choose to do so."
+      ]
+    }
+  }
+}

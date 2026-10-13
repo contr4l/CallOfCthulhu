@@ -1,0 +1,30 @@
+{
+  "id": "27",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "27:p0",
+      "kind": "heading",
+      "text": "27",
+      "sourceLocation": "pdf:visual:[[15,19]]"
+    },
+    {
+      "id": "27:p1",
+      "kind": "body",
+      "text": "Your interpretation of Charlie Foxtail’s behavior convinces you \nshe intends to desert during the night. Perhaps you can argue \nher into a more rational state.",
+      "sourceLocation": "pdf:visual:[[15,21],[15,23],[15,24]]"
+    },
+    {
+      "id": "27:p2",
+      "kind": "body",
+      "text": "Make a Psychoanalysis roll: if you succeed, go to 28; if you fail, go \nto 29.",
+      "sourceLocation": "pdf:visual:[[15,26],[15,28]]"
+    },
+    {
+      "id": "27:p3",
+      "kind": "trace",
+      "text": "(15)",
+      "sourceLocation": "pdf:visual:[[15,29]]"
+    }
+  ]
+}

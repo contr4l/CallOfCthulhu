@@ -1,0 +1,42 @@
+{
+  "id": "180",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "180:p0",
+      "kind": "heading",
+      "text": "180\n",
+      "sourceLocation": "pdf:spans:[[57,1705,1709]]"
+    },
+    {
+      "id": "180:p1",
+      "kind": "body",
+      "text": "Try as you might, you are unable to pry the blade from Joshua’s \ngrasp. He manages to land a single, solid punch to your face that \nsends you reeling backward. In a moment, he’s on top of you.\n",
+      "sourceLocation": "pdf:spans:[[57,1709,1774],[57,1774,1841],[57,1841,1902]]"
+    },
+    {
+      "id": "180:p2",
+      "kind": "body",
+      "text": "Joshua locks eyes with you, smiling with wicked glee as he \nrests the cold metal lightly against your throat. Then his eyes \nglaze over as he begins speaking in a strange tongue. “Grah’n \ny’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.” He \nspeaks each syllable in a slow and monotonous tone, as if he’s \nfocusing very carefully on the sound of the words.\n",
+      "sourceLocation": "pdf:spans:[[57,1902,1962],[57,1962,2027],[57,2027,2090],[57,2090,2154],[57,2154,2218],[57,2218,2269]]"
+    },
+    {
+      "id": "180:p3",
+      "kind": "body",
+      "text": "As the last syllable passes his lips, Joshua takes the knife \nand presses it sharply against your neck. With a single, smooth \nmotion, he slits your throat.\n",
+      "sourceLocation": "pdf:spans:[[57,2269,2331],[57,2331,2396],[57,2396,2426]]"
+    },
+    {
+      "id": "180:p4",
+      "kind": "body",
+      "text": "As you bleed out, your eyes perceive impossible visions. \nThe world before you melts away, replaced by a shining city of \nmarble, onyx, and lustrous gems. You see this magnificent city \nin all its splendor, sitting next to a placid lake. And then, in an \ninstant, it’s gone as the water rises up to swallow it. The lizard-\nthing of the idol, given life and power by your blood, surges up \nfrom the water. The being eyes you with malicious sentience as \nthe waters swell and consume you.\nYou have been offered up as a sacrifice to one of the Great Old Ones. \nYour visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[57,2426,2484],[57,2484,2548],[57,2548,2612],[57,2612,2681],[57,2681,2749],[57,2749,2815],[57,2815,2879],[57,2879,2913],[57,2915,2986],[57,2986,3025]]"
+    },
+    {
+      "id": "180:p5",
+      "kind": "body",
+      "text": "(115)\n",
+      "sourceLocation": "pdf:spans:[[57,3025,3031]]"
+    }
+  ]
+}

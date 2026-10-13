@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "44"
+  ],
+  "text": [
+    "你竖起耳朵，努力听清那对凑在一起的人在说什么，但房间里其他谈话声太嘈杂，把他们的话淹没了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 44",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 44",
+      "text": [
+        "You strain your ears trying to overhear the huddled pair’s words, but the noise of the other conversations around the room drowns out what is said."
+      ]
+    }
+  }
+}

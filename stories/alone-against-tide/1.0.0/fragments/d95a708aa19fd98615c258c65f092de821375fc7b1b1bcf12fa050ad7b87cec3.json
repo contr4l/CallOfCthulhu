@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "163"
+  ],
+  "text": [
+    "你强忍腿上的疼痛。你不想知道身后究竟是什么东西。疼痛阵阵袭来，但你还是设法继续前进，至少暂时如此。",
+    "最后，身后的水花声停了下来。你不知道追赶者是放弃了追逐，还是只是在等你停下。你停下来喘口气，但只停了一会儿。",
+    "你透过浓雾看向前方的地面——或者说，地面已经不见了。这里的水位上涨，你看不见水下的地面。从有限的视野来看，这片水域似乎不只是一个水坑。追赶者可能还在你身后，而在你有限的视野内也没有其他可走的路。若想继续前进，你必须游过去。考虑到你受伤的腿，这实在不是个好消息。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 163",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 163",
+      "text": [
+        "You steel yourself against the pain in your leg. You don’t want to find out whatever it is that’s behind you. Pain shoots through you but you manage to carry on, for a while at least.",
+        "Eventually, the splashing behind you stops. You don’t know if your pursuer has given up the chase or if they’re simply waiting for you to stop. You pause for a moment to catch your breath, but only a moment.",
+        "You peer through the mist at the ground ahead of you—or rather, the lack thereof. The water here has risen, and you cannot see the ground beneath it. From what little visibility you have, it looks as if this is more than a mere puddle. Your pursuer might yet be behind you and there are no other paths available within your limited sight. You’ll have to swim if you wish to progress. And with your injured leg, this is a rather grim prospect."
+      ]
+    }
+  }
+}

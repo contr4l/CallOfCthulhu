@@ -1,0 +1,36 @@
+{
+  "id": "267",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "267:p0",
+      "kind": "heading",
+      "text": "267",
+      "sourceLocation": "pdf:visual:[[53,48]]"
+    },
+    {
+      "id": "267:p1",
+      "kind": "body",
+      "text": "This encounter means death. The human core of you longs for \nyour own extinction, but the drive that Ithaqua has bestowed \non you is stronger and it yearns for the death of others.",
+      "sourceLocation": "pdf:visual:[[53,49],[53,50],[53,51]]"
+    },
+    {
+      "id": "267:p2",
+      "kind": "body",
+      "text": "You rush into the heart of the camp like a bobcat springing \ninto a covey of quail. The hunters howl with terror and flee \nin all directions. Only one has the courage to stand for a few \nseconds and fire a round at you. The force of it knocks you off \nyour feet. You can feel a painless gouge, ripped clear through \nyour belly, but, unharmed, you rise again. The heroic hunter \njoins his fellows in flight.",
+      "sourceLocation": "pdf:visual:[[53,52],[53,53],[53,54],[53,55],[53,56],[53,57],[53,58]]"
+    },
+    {
+      "id": "267:p3",
+      "kind": "body",
+      "text": "Go to 268.",
+      "sourceLocation": "pdf:visual:[[53,59]]"
+    },
+    {
+      "id": "267:p4",
+      "kind": "trace",
+      "text": "(215, 266)",
+      "sourceLocation": "pdf:visual:[[53,60]]"
+    }
+  ]
+}

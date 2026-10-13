@@ -1,0 +1,36 @@
+{
+  "id": "302",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "302:p0",
+      "kind": "heading",
+      "text": "302",
+      "sourceLocation": "pdf:visual:[[59,2]]"
+    },
+    {
+      "id": "302:p1",
+      "kind": "body",
+      "text": "It’s a hit! Your former student howls with fear and clutches \nat their heart. You remember something in the legends about \na  wind-walker’s  heart  being  the  most  vulnerable  organ. You \naim for the same target and fire again, but the creature has had \nenough and bolts from the camp.",
+      "sourceLocation": "pdf:visual:[[59,4],[59,6],[59,7],[59,9],[59,10]]"
+    },
+    {
+      "id": "302:p2",
+      "kind": "body",
+      "text": "Now you must face the forest—alone.",
+      "sourceLocation": "pdf:visual:[[59,12]]"
+    },
+    {
+      "id": "302:p3",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity. Then, go to 67.",
+      "sourceLocation": "pdf:visual:[[59,14]]"
+    },
+    {
+      "id": "302:p4",
+      "kind": "trace",
+      "text": "(301)",
+      "sourceLocation": "pdf:visual:[[59,15]]"
+    }
+  ]
+}

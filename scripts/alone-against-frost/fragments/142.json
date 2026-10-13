@@ -1,0 +1,30 @@
+{
+  "id": "142",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "142:p0",
+      "kind": "heading",
+      "text": "142",
+      "sourceLocation": "pdf:visual:[[33,11]]"
+    },
+    {
+      "id": "142:p1",
+      "kind": "body",
+      "text": "By  the  time  you  get  back  to  camp,  Norman  and  Sylvia  are \nfrantic. You explain as best you can what happened, but even to \nyour ears, the story sounds confused. Sylvia and Norman stare \nat you doubtfully. You shake your head and swallow a mouthful \nof steaming coffee.",
+      "sourceLocation": "pdf:visual:[[33,14],[33,15],[33,17],[33,18],[33,20]]"
+    },
+    {
+      "id": "142:p2",
+      "kind": "body",
+      "text": "To remain in the area a day longer, looking for some trace of Charlie \nFoxtail,  go  to  144. To  give  up  on  your  guide  and  resume  your \njourney, go to 324. ",
+      "sourceLocation": "pdf:visual:[[33,22],[33,23],[33,25]]"
+    },
+    {
+      "id": "142:p3",
+      "kind": "trace",
+      "text": "(109)",
+      "sourceLocation": "pdf:visual:[[33,26]]"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "25"
+  ],
+  "text": [
+    "那男人朝你扑来。你试图闪到一旁，却没能及时躲开。他整个身体的重量砸在你身上，把你撞出门口，摔在街边的砖地上。",
+    "你挣扎扭动了一会儿，男人便掐得你喘不过气来，你随即陷入无边的昏迷黑暗。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 25",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 25",
+      "text": [
+        "The man dives at you. You attempt to throw yourself out of his way, but you aren’t quick enough. The full weight of his body slams down on you, propelling you out of the doorway and onto the bricks of the street.",
+        "You struggle and squirm for a minute before the man chokes you out, and you slip into the black depths of unconsciousness."
+      ]
+    }
+  }
+}

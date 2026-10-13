@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "157"
+  ],
+  "text": [
+    "你躲过这一击，在那男人扑向你时闪身避开。他撞上墙壁。你迅速用身体撞向袭击者，把他的气都撞了出来。",
+    "你趁着高大的男人晕头转向时冲进房子，砰地关上门，挡住他，免得他恢复后再次袭击你。不幸的是，你现在正面对另一个男人。他阴沉地瞪着你，手里挥舞着一把刀。",
+    "“你这个混蛋！以为能给约书亚老爷找麻烦，是吧？我会把你开膛破肚。再说，我想接下来我们正好需要一点血。”",
+    "他大喊着什么难以理解的话，挥刀向你扑来。他的眼神暴露出杀意。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 157",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 157",
+      "text": [
+        "You duck the blow and dodge out of the man’s way as he flings himself toward you. He stumbles into the wall. You quickly throw your weight against your assailant and knock the wind out of him.",
+        "As you’ve stunned the large man, you take the chance to enter the building, slamming the door behind you and blocking him from attacking you again once he recovers. Unfortunately, you’re now face-to-face with the other man, who scowls menacingly at you while brandishing a knife.",
+        "“You bastard! Think you can cause trouble for old Josh, eh? I’ll gut you like a fish. Besides, I think we could use a little bit of blood for what’s coming next.”",
+        "He shouts something incomprehensible and lunges at you with the blade. His eyes betray his murderous intentions."
+      ]
+    }
+  }
+}

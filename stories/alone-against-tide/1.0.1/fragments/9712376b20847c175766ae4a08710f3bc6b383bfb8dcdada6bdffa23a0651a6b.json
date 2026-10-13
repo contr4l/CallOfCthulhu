@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "118"
+  ],
+  "text": [
+    "你跪下来，把耳朵贴在保险箱门上，开始转动密码盘，希望能听见传动销与锁内各个转轮上的挡片咬合时发出的咔嗒声。可惜尽管竭尽全力，你还是没能让转轮正确对齐。",
+    "你沮丧地站起来，掸掉身上的灰尘。没什么别的事可做了，你便离开房间。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 118",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 118",
+      "text": [
+        "You fall to your knees, press your ear to the safe’s door, and begin twisting the combination dial, hoping to hear the clicks of the drive pin connecting to the tabs on each of the lock’s internal wheels. Unfortunately, you can’t quite manage to get the wheels to line up properly, despite your best efforts.",
+        "Defeated, you rise and dust yourself off. With nothing else to keep your attention, you leave the room."
+      ]
+    }
+  }
+}

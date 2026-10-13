@@ -1,0 +1,30 @@
+{
+  "id": "382",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "382:p0",
+      "kind": "heading",
+      "text": "382",
+      "sourceLocation": "pdf:visual:[[69,31]]"
+    },
+    {
+      "id": "382:p1",
+      "kind": "body",
+      "text": "The sasquatches force you to walk with them up a high trail. \nYou peer down from a tight bend and see a lake far below, its \nsurface  glimmering  with  sunlight. The  climb  continues.  But \nwhat awaits at its end?",
+      "sourceLocation": "pdf:visual:[[69,32],[69,33],[69,34],[69,35]]"
+    },
+    {
+      "id": "382:p2",
+      "kind": "body",
+      "text": "To  jump  from  the  parapet  and  dive  for  the  lake,  go  to  383. To \ncontinue climbing with your captors, go to 386.",
+      "sourceLocation": "pdf:visual:[[69,36],[69,37]]"
+    },
+    {
+      "id": "382:p3",
+      "kind": "trace",
+      "text": "(389)",
+      "sourceLocation": "pdf:visual:[[69,38]]"
+    }
+  ]
+}

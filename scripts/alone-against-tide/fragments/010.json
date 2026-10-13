@@ -1,0 +1,60 @@
+{
+  "id": "10",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "10:p0",
+      "kind": "heading",
+      "text": "10\n",
+      "sourceLocation": "pdf:spans:[[11,3497,3500]]"
+    },
+    {
+      "id": "10:p1",
+      "kind": "body",
+      "text": "You slip silently out of your cell and press low to the ground. \nPowell is reading over his documents and puffing away \ncontentedly at his cigar. He doesn’t notice your breakout.\n",
+      "sourceLocation": "pdf:spans:[[11,3500,3565],[11,3565,3620],[11,3620,3679]]"
+    },
+    {
+      "id": "10:p2",
+      "kind": "body",
+      "text": "After several tense minutes, you manage to inch your way \ntoward the building’s entrance. You crack the door open just \nenough to escape, closing it behind you as you exit.\n",
+      "sourceLocation": "pdf:spans:[[11,3679,3737],[11,3737,3799],[11,3799,3852]]"
+    },
+    {
+      "id": "10:p3",
+      "kind": "body",
+      "text": "You now stand amid the dim, dank fog. You note the last of \nthe sun’s rays illuminating the mist above you, but your vision \nis largely obscured by both the haze and the growing darkness.",
+      "sourceLocation": "pdf:spans:[[11,3852,3912],[11,3912,3977],[11,3977,4039]]"
+    },
+    {
+      "id": "10:p4",
+      "kind": "body",
+      "text": "Given your recent escape, it would not be wise to linger here. \nYou weigh your options. You could address the problem head-\non by returning to the Harris house to look for clues. You might \nalso consider returning to the hotel to gather your thoughts. \nOr you could simply put this all behind you and skip town. It’s \ntoo late and too foggy for the ferry to be operational, but you \nknow there are smaller side roads that wind around the lake. \nYou’d have to make the journey on foot and in the dark, but an \nunpleasant option is still an option.\n",
+      "sourceLocation": "pdf:spans:[[12,26,90],[12,90,150],[12,150,216],[12,216,279],[12,279,344],[12,344,409],[12,409,471],[12,471,535],[12,535,573]]"
+    },
+    {
+      "id": "10:p5",
+      "kind": "body",
+      "text": "• To investigate the Harris house, go to 147.\n",
+      "sourceLocation": "pdf:spans:[[12,573,619]]"
+    },
+    {
+      "id": "10:p6",
+      "kind": "body",
+      "text": "• To visit the hotel, go to 122.\n",
+      "sourceLocation": "pdf:spans:[[12,619,652]]"
+    },
+    {
+      "id": "10:p7",
+      "kind": "body",
+      "text": "• To abandon your investigation and leave town, go to 124.\n",
+      "sourceLocation": "pdf:spans:[[12,652,711]]"
+    },
+    {
+      "id": "10:p8",
+      "kind": "body",
+      "text": "(107)\n",
+      "sourceLocation": "pdf:spans:[[12,711,717]]"
+    }
+  ]
+}

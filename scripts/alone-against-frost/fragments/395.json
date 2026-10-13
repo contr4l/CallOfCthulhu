@@ -1,0 +1,30 @@
+{
+  "id": "395",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "395:p0",
+      "kind": "heading",
+      "text": "395",
+      "sourceLocation": "pdf:visual:[[71,35]]"
+    },
+    {
+      "id": "395:p1",
+      "kind": "body",
+      "text": "You,  Norman,  and  Sylvia  can  finally  breathe  sighs  of  relief. \nOnly  now,  when  the  first  brilliant  rays  of  the  dawning  sun \nbreak over the Ram Mountains, are you able to appreciate the \nwonders of the lost valley.",
+      "sourceLocation": "pdf:visual:[[71,36],[71,37],[71,38],[71,39]]"
+    },
+    {
+      "id": "395:p2",
+      "kind": "body",
+      "text": "Record the keyword INCHCAPE. To embark on an exploration \nof the lost valley, go to 225. To try to leave the valley and start for \nhome, go to 291.",
+      "sourceLocation": "pdf:visual:[[71,40],[71,41],[71,42]]"
+    },
+    {
+      "id": "395:p3",
+      "kind": "trace",
+      "text": "(192, 394, 402)",
+      "sourceLocation": "pdf:visual:[[71,43]]"
+    }
+  ]
+}

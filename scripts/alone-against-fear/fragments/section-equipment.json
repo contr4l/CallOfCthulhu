@@ -1,0 +1,348 @@
+{
+  "id": "section-equipment",
+  "paragraphs": [
+    {
+      "id": "section-equipment:p0000",
+      "kind": "body",
+      "text": "Equipment\n",
+      "sourceLocation": "pdf:spans:[[11,1384,1394]]"
+    },
+    {
+      "id": "section-equipment:p0001",
+      "kind": "body",
+      "text": "Having the right tools will make a\n",
+      "sourceLocation": "pdf:spans:[[11,1394,1429]]"
+    },
+    {
+      "id": "section-equipment:p0002",
+      "kind": "body",
+      "text": "difference between failure and\n",
+      "sourceLocation": "pdf:spans:[[11,1429,1460]]"
+    },
+    {
+      "id": "section-equipment:p0003",
+      "kind": "body",
+      "text": "success. You can carry up to 10\n",
+      "sourceLocation": "pdf:spans:[[11,1460,1492]]"
+    },
+    {
+      "id": "section-equipment:p0004",
+      "kind": "body",
+      "text": "items in the game. Initially you will\n",
+      "sourceLocation": "pdf:spans:[[11,1492,1530]]"
+    },
+    {
+      "id": "section-equipment:p0005",
+      "kind": "body",
+      "text": "have 4: 1 weapon from the Random\n",
+      "sourceLocation": "pdf:spans:[[11,1530,1563]]"
+    },
+    {
+      "id": "section-equipment:p0006",
+      "kind": "body",
+      "text": "Weapon table, 1 knife, 1 item from\n",
+      "sourceLocation": "pdf:spans:[[11,1563,1598]]"
+    },
+    {
+      "id": "section-equipment:p0007",
+      "kind": "body",
+      "text": "the Random Objects table, 1 item\n",
+      "sourceLocation": "pdf:spans:[[11,1598,1631]]"
+    },
+    {
+      "id": "section-equipment:p0008",
+      "kind": "body",
+      "text": "from the Useful Stuff table. If you\n",
+      "sourceLocation": "pdf:spans:[[11,1631,1667]]"
+    },
+    {
+      "id": "section-equipment:p0009",
+      "kind": "body",
+      "text": "find more items than you can carry,\n",
+      "sourceLocation": "pdf:spans:[[11,1667,1703]]"
+    },
+    {
+      "id": "section-equipment:p0010",
+      "kind": "body",
+      "text": "you will have to discard one or\n",
+      "sourceLocation": "pdf:spans:[[11,1703,1735]]"
+    },
+    {
+      "id": "section-equipment:p0011",
+      "kind": "body",
+      "text": "more objects. Decide what is\n",
+      "sourceLocation": "pdf:spans:[[11,1735,1764]]"
+    },
+    {
+      "id": "section-equipment:p0012",
+      "kind": "body",
+      "text": "essential for you!\n",
+      "sourceLocation": "pdf:spans:[[11,1764,1783]]"
+    },
+    {
+      "id": "section-equipment:p0013",
+      "kind": "body",
+      "text": "Light items : Some objects have\n",
+      "sourceLocation": "pdf:spans:[[11,1783,1815]]"
+    },
+    {
+      "id": "section-equipment:p0014",
+      "kind": "body",
+      "text": "negligible weight. You can carry as\n",
+      "sourceLocation": "pdf:spans:[[11,1815,1851]]"
+    },
+    {
+      "id": "section-equipment:p0015",
+      "kind": "body",
+      "text": "many of them as you want. They do\n",
+      "sourceLocation": "pdf:spans:[[11,1851,1885]]"
+    },
+    {
+      "id": "section-equipment:p0016",
+      "kind": "body",
+      "text": "not count against the limit of 10\n",
+      "sourceLocation": "pdf:spans:[[11,1885,1919]]"
+    },
+    {
+      "id": "section-equipment:p0017",
+      "kind": "body",
+      "text": "items you can carry.\n",
+      "sourceLocation": "pdf:spans:[[11,1919,1940]]"
+    },
+    {
+      "id": "section-equipment:p0018",
+      "kind": "body",
+      "text": "Leaving stuff at home: When you\n",
+      "sourceLocation": "pdf:spans:[[11,1940,1972]]"
+    },
+    {
+      "id": "section-equipment:p0019",
+      "kind": "body",
+      "text": "visit a Safe House (a special box\n",
+      "sourceLocation": "pdf:spans:[[11,1972,2006]]"
+    },
+    {
+      "id": "section-equipment:p0020",
+      "kind": "body",
+      "text": "where you can heal), you may leave\n",
+      "sourceLocation": "pdf:spans:[[11,2006,2041]]"
+    },
+    {
+      "id": "section-equipment:p0021",
+      "kind": "body",
+      "text": "any number of items there. You will\n",
+      "sourceLocation": "pdf:spans:[[11,2041,2077]]"
+    },
+    {
+      "id": "section-equipment:p0022",
+      "kind": "body",
+      "text": "find those items there if you visit\n",
+      "sourceLocation": "pdf:spans:[[11,2077,2113]]"
+    },
+    {
+      "id": "section-equipment:p0023",
+      "kind": "body",
+      "text": "that box again. If your Safe House",
+      "sourceLocation": "pdf:spans:[[11,2113,2147]]"
+    },
+    {
+      "id": "section-equipment:p0024",
+      "kind": "body",
+      "text": "area is no longer a Safe House, roll\n",
+      "sourceLocation": "pdf:spans:[[12,22,59]]"
+    },
+    {
+      "id": "section-equipment:p0025",
+      "kind": "body",
+      "text": "d6. On a 1-3,  all your items in that\n",
+      "sourceLocation": "pdf:spans:[[12,59,97]]"
+    },
+    {
+      "id": "section-equipment:p0026",
+      "kind": "body",
+      "text": "Safe House have been stolen. If\n",
+      "sourceLocation": "pdf:spans:[[12,97,129]]"
+    },
+    {
+      "id": "section-equipment:p0027",
+      "kind": "body",
+      "text": "they are not stolen and there is an\n",
+      "sourceLocation": "pdf:spans:[[12,129,165]]"
+    },
+    {
+      "id": "section-equipment:p0028",
+      "kind": "body",
+      "text": "encounter in that area (since it’s no\n",
+      "sourceLocation": "pdf:spans:[[12,165,203]]"
+    },
+    {
+      "id": "section-equipment:p0029",
+      "kind": "body",
+      "text": "longer a Safe House, you might\n",
+      "sourceLocation": "pdf:spans:[[12,203,234]]"
+    },
+    {
+      "id": "section-equipment:p0030",
+      "kind": "body",
+      "text": "meet monsters there now), you\n",
+      "sourceLocation": "pdf:spans:[[12,234,264]]"
+    },
+    {
+      "id": "section-equipment:p0031",
+      "kind": "body",
+      "text": "may not access your deposited\n",
+      "sourceLocation": "pdf:spans:[[12,264,294]]"
+    },
+    {
+      "id": "section-equipment:p0032",
+      "kind": "body",
+      "text": "items until you have dealt with the\n",
+      "sourceLocation": "pdf:spans:[[12,294,330]]"
+    },
+    {
+      "id": "section-equipment:p0033",
+      "kind": "body",
+      "text": "encounter.\n",
+      "sourceLocation": "pdf:spans:[[12,330,341]]"
+    },
+    {
+      "id": "section-equipment:p0034",
+      "kind": "body",
+      "text": "Backpack: If you have a backpack,\n",
+      "sourceLocation": "pdf:spans:[[12,341,375]]"
+    },
+    {
+      "id": "section-equipment:p0035",
+      "kind": "body",
+      "text": "the number of objects and Food\n",
+      "sourceLocation": "pdf:spans:[[12,375,406]]"
+    },
+    {
+      "id": "section-equipment:p0036",
+      "kind": "body",
+      "text": "points you can carry increases by\n",
+      "sourceLocation": "pdf:spans:[[12,406,440]]"
+    },
+    {
+      "id": "section-equipment:p0037",
+      "kind": "body",
+      "text": "+5. The backpack itself does not\n",
+      "sourceLocation": "pdf:spans:[[12,440,473]]"
+    },
+    {
+      "id": "section-equipment:p0038",
+      "kind": "body",
+      "text": "count as a carried object. If your\n",
+      "sourceLocation": "pdf:spans:[[12,473,508]]"
+    },
+    {
+      "id": "section-equipment:p0039",
+      "kind": "body",
+      "text": "backpack is stolen or destroyed,\n",
+      "sourceLocation": "pdf:spans:[[12,508,541]]"
+    },
+    {
+      "id": "section-equipment:p0040",
+      "kind": "body",
+      "text": "however, you lose all objects except\n",
+      "sourceLocation": "pdf:spans:[[12,541,578]]"
+    },
+    {
+      "id": "section-equipment:p0041",
+      "kind": "body",
+      "text": "those carried in your hands.\n",
+      "sourceLocation": "pdf:spans:[[12,578,607]]"
+    },
+    {
+      "id": "section-equipment:p0042",
+      "kind": "body",
+      "text": "Strong people carry more weight:\n",
+      "sourceLocation": "pdf:spans:[[12,607,640]]"
+    },
+    {
+      "id": "section-equipment:p0043",
+      "kind": "body",
+      "text": "If you have the Strong Skill, your\n",
+      "sourceLocation": "pdf:spans:[[12,640,675]]"
+    },
+    {
+      "id": "section-equipment:p0044",
+      "kind": "body",
+      "text": "carrying limit increases by 3. If you\n",
+      "sourceLocation": "pdf:spans:[[12,675,713]]"
+    },
+    {
+      "id": "section-equipment:p0045",
+      "kind": "body",
+      "text": "have Strong (Expert), it increases by\n",
+      "sourceLocation": "pdf:spans:[[12,713,751]]"
+    },
+    {
+      "id": "section-equipment:p0046",
+      "kind": "body",
+      "text": "5.\n",
+      "sourceLocation": "pdf:spans:[[12,751,754]]"
+    },
+    {
+      "id": "section-equipment:p0047",
+      "kind": "body",
+      "text": "Example: A Strong (Expert)\n",
+      "sourceLocation": "pdf:spans:[[12,754,781]]"
+    },
+    {
+      "id": "section-equipment:p0048",
+      "kind": "body",
+      "text": "character with a backpack will\n",
+      "sourceLocation": "pdf:spans:[[12,781,812]]"
+    },
+    {
+      "id": "section-equipment:p0049",
+      "kind": "body",
+      "text": "be able to carry a maximum\n",
+      "sourceLocation": "pdf:spans:[[12,812,839]]"
+    },
+    {
+      "id": "section-equipment:p0050",
+      "kind": "body",
+      "text": "of (10+5 +5)= 20 items. This is\n",
+      "sourceLocation": "pdf:spans:[[12,839,871]]"
+    },
+    {
+      "id": "section-equipment:p0051",
+      "kind": "body",
+      "text": "the absolute maximum you\n",
+      "sourceLocation": "pdf:spans:[[12,871,896]]"
+    },
+    {
+      "id": "section-equipment:p0052",
+      "kind": "body",
+      "text": "can carry in the game.\n",
+      "sourceLocation": "pdf:spans:[[12,896,919]]"
+    },
+    {
+      "id": "section-equipment:p0053",
+      "kind": "body",
+      "text": "Equipment\n",
+      "sourceLocation": "pdf:spans:[[100,134,144]]"
+    },
+    {
+      "id": "section-equipment:p0054",
+      "kind": "body",
+      "text": "Equipment\n",
+      "sourceLocation": "pdf:spans:[[104,47,57]]"
+    },
+    {
+      "id": "section-equipment:p0055",
+      "kind": "body",
+      "text": "Equipment\n",
+      "sourceLocation": "pdf:spans:[[105,2,12]]"
+    }
+  ],
+  "sourcePages": [
+    11,
+    12,
+    100,
+    104,
+    105
+  ]
+}

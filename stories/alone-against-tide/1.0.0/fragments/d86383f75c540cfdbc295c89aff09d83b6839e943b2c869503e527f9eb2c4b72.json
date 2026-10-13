@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "198"
+  ],
+  "text": [
+    "你尽可能继续前行，一步接一步。你浑身瘀伤，疲惫不堪，无法坚持太久。没过多久，你停下来靠着一棵树喘口气，随即迅速而安静地睡着了。",
+    "你沉沉睡去，进入梦境。醒着的世界融化消失，取而代之的是一座由大理石、缟玛瑙和璀璨宝石构成的辉煌城市。你看见这座宏伟城市尽显壮丽，坐落在平静的湖畔。随后转瞬之间，水位上涨，将它吞没，城市消失无踪。偶像中的蜥蜴状怪物获得生命与力量后，从水中猛然升起。水势膨胀，将你吞噬，那存在以充满恶意的灵智注视着你。你没有从沉睡中醒来。",
+    "你死了，湖中显现的旧日支配者以非自然的力量在夜里夺走了你的性命。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 198",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 198",
+      "text": [
+        "You march on as best you can, putting one foot in front of the other. You are bruised and tired, and you cannot go on for long. Within a short time, you pause to lean against a tree to catch your breath and fall quickly and quietly asleep.",
+        "Yours is a deep and dreamful slumber. The waking world melts away, replaced by a shining city of marble, onyx, and lustrous gems. You see this magnificent city in all its splendor, sitting next to a placid lake. And then, in an instant, it’s gone as the water rises up to swallow it. The lizard-thing of the idol, given life and power, surges up from the water. The being eyes you with malicious sentience as the waters swell and consume you. You do not wake from your repose. You have died, claimed in the night by the unnatural powers of the Great Old One manifesting in the lake. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

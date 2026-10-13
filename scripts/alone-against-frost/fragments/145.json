@@ -1,0 +1,36 @@
+{
+  "id": "145",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "145:p0",
+      "kind": "heading",
+      "text": "145",
+      "sourceLocation": "pdf:visual:[[33,62]]"
+    },
+    {
+      "id": "145:p1",
+      "kind": "body",
+      "text": "The diminutive men carry you, Norman, and Sylvia into their \ncamp. You deduce this is a temporary encampment. The shelters \nare crude lean-tos.",
+      "sourceLocation": "pdf:visual:[[33,63],[33,64],[33,65]]"
+    },
+    {
+      "id": "145:p2",
+      "kind": "body",
+      "text": "A strange upright rock in the camp clearing draws your eyes. \nIn the bad light, you cannot tell if it has been chiseled by hand \nor if it is a natural hoodoo, but it resembles a giant. Symbols cut \ninto its foot remind you of a tracing of a frieze you once saw in \nProfessor Armitage’s office at Miskatonic. With an effort, you \nfocus on the immediate question: what do these people intend \nto do with your surviving party members?",
+      "sourceLocation": "pdf:visual:[[33,66],[33,67],[33,68],[33,69],[33,70],[33,71],[33,72]]"
+    },
+    {
+      "id": "145:p3",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 210; if the result is odd, go \nto 211. ",
+      "sourceLocation": "pdf:visual:[[33,73],[33,74]]"
+    },
+    {
+      "id": "145:p4",
+      "kind": "trace",
+      "text": "(146, 229)",
+      "sourceLocation": "pdf:visual:[[33,75]]"
+    }
+  ]
+}

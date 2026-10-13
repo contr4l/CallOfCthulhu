@@ -1,0 +1,36 @@
+{
+  "id": "587",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "587:p0",
+      "kind": "heading",
+      "text": "587",
+      "sourceLocation": "pdf:visual:[[99,85]]"
+    },
+    {
+      "id": "587:p1",
+      "kind": "body",
+      "text": "After walking several miles, the hunters make camp. Some of \nthem go off into the woods with their rifles, probably to shoot \nsomething for supper. The others rest around the fire.",
+      "sourceLocation": "pdf:visual:[[99,86],[99,87],[99,88]]"
+    },
+    {
+      "id": "587:p2",
+      "kind": "body",
+      "text": "You have successfully tracked them, but your next step \nis unclear.",
+      "sourceLocation": "pdf:visual:[[100,1],[100,2]]"
+    },
+    {
+      "id": "587:p3",
+      "kind": "body",
+      "text": "To approach the hunters, go to 588. To give this up, go to 513.",
+      "sourceLocation": "pdf:visual:[[100,3]]"
+    },
+    {
+      "id": "587:p4",
+      "kind": "trace",
+      "text": "(586)",
+      "sourceLocation": "pdf:visual:[[100,4]]"
+    }
+  ]
+}

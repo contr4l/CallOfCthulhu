@@ -1,0 +1,60 @@
+{
+  "id": "202",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "202:p0",
+      "kind": "heading",
+      "text": "202\n",
+      "sourceLocation": "pdf:spans:[[64,987,991]]"
+    },
+    {
+      "id": "202:p1",
+      "kind": "body",
+      "text": "You open the door to find a bedroom, much as you’d expected. \nThe room clearly belongs to a bachelor, as the only feminine \nobject is a set of lace sleepwear lying across the bed. You look \nto a nearby nightstand and find several framed photographs of \nJoshua and Amelia, so you assume the clothes are hers. Peeking \nout of a drawer in the nightstand is an open box of bullets, as \nwell as several bottles of bootleg whiskey.\n",
+      "sourceLocation": "pdf:spans:[[64,991,1053],[64,1053,1115],[64,1115,1181],[64,1181,1244],[64,1244,1308],[64,1308,1373],[64,1373,1417]]"
+    },
+    {
+      "id": "202:p2",
+      "kind": "body",
+      "text": "You scan the rest of the room. The only other object of note \nis a dresser. You search it and find it to be full of men’s clothing, \nthe sort that Joshua would wear. However, as you are rifling \nthrough his things, you find an envelope. Turning it over, you \nsee it’s unsealed, and judging by the crumpled state of it, the \nletter inside has been read over several times.\n",
+      "sourceLocation": "pdf:spans:[[64,1417,1479],[64,1479,1550],[64,1550,1612],[64,1612,1676],[64,1676,1741],[64,1741,1789]]"
+    },
+    {
+      "id": "202:p3",
+      "kind": "body",
+      "text": "You pull out the letter and begin reading. It appears to be a \ncorrespondence between Joshua and a Dr. Webber, based out of \nArkham. Webber is, apparently, a psychotherapist that Joshua \nsees on a monthly basis. According to the letter, the past few \nmonths have been quite difficult for Joshua. In addition to his \ncriminal activities and his relationship with Amelia, he has \nbeen troubled by strange dreams, which Dr. Webber labeled as \nobsessive delusions. \n",
+      "sourceLocation": "pdf:spans:[[64,1789,1852],[64,1852,1914],[64,1914,1976],[64,1976,2040],[64,2040,2105],[64,2105,2167],[64,2167,2229],[64,2229,2251]]"
+    },
+    {
+      "id": "202:p4",
+      "kind": "body",
+      "text": "Joshua has a fixation with a particular dream of a beautiful \ncity in a far-off land. He describes the city as made of marble \nand says that sometimes he wakes up crying because he \nhas to leave it behind in his dreams. He also reports seeing \na frightening lizard-thing in the water off the shore of this \nstrange city. Sometimes, in the night, it whispers that it knows \nthe way to the city. Though the lizard-thing scares him, he \nlistens to the whispers. Joshua professes a deep desire to go to \nthe city, though he doesn’t know where it is or even if it’s real. \nFor his part, Dr. Webber assures Joshua that these things are \ncompletely fictitious and that he must find a way to return to \nreality and leave the delusions behind.\n",
+      "sourceLocation": "pdf:spans:[[64,2251,2313],[64,2313,2378],[64,2378,2433],[64,2433,2495],[64,2495,2558],[64,2558,2624],[64,2624,2685],[64,2685,2751],[64,2751,2819],[64,2819,2882],[64,2882,2946],[64,2946,2986]]"
+    },
+    {
+      "id": "202:p5",
+      "kind": "body",
+      "text": "You return the letter to its envelope, then slip everything \nback where you found it, thinking about how this affects the \ncourse of events here in Esbury. Silently, you return to the main \narea of the house. You may now investigate the basement or \nleave the house.\n",
+      "sourceLocation": "pdf:spans:[[64,2986,3047],[64,3047,3109],[64,3109,3176],[64,3176,3236],[64,3236,3253]]"
+    },
+    {
+      "id": "202:p6",
+      "kind": "body",
+      "text": "• To investigate the basement, go to 156.\n",
+      "sourceLocation": "pdf:spans:[[64,3255,3297]]"
+    },
+    {
+      "id": "202:p7",
+      "kind": "body",
+      "text": "• To leave the house, go to 181.\n",
+      "sourceLocation": "pdf:spans:[[64,3297,3330]]"
+    },
+    {
+      "id": "202:p8",
+      "kind": "body",
+      "text": "(93, 151, 165, 210)\n",
+      "sourceLocation": "pdf:spans:[[64,3330,3350]]"
+    }
+  ]
+}

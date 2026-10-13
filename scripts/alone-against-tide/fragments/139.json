@@ -1,0 +1,48 @@
+{
+  "id": "139",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "139:p0",
+      "kind": "heading",
+      "text": "139\n",
+      "sourceLocation": "pdf:spans:[[46,2682,2686]]"
+    },
+    {
+      "id": "139:p1",
+      "kind": "body",
+      "text": "You skid down the side of the cliff, slamming against the cold \nand unforgiving stone several times as you do so. You have \nno control over your descent and are entirely at the mercy of \ngravity and cruel fate.\n",
+      "sourceLocation": "pdf:spans:[[46,2686,2750],[46,2750,2810],[46,2810,2873],[46,2873,2897]]"
+    },
+    {
+      "id": "139:p2",
+      "kind": "body",
+      "text": "You tumble and fall for what feels like an eternity before \neventually being deposited forcefully against a tree at the base \nof the rocks.\n",
+      "sourceLocation": "pdf:spans:[[46,2897,2957],[46,2957,3023],[46,3023,3037]]"
+    },
+    {
+      "id": "139:p3",
+      "kind": "body",
+      "text": "You are certain you must have some serious injuries, perhaps \neven a few broken bones. Your left leg is particularly painful, \nand you can feel your foot swelling in your shoe as you struggle \nto your feet.\n",
+      "sourceLocation": "pdf:spans:[[46,3037,3099],[46,3099,3164],[46,3164,3230],[46,3230,3244]]"
+    },
+    {
+      "id": "139:p4",
+      "kind": "body",
+      "text": "You look around, taking stock of the situation. There’s no \nvisible trail at this elevation and there’s no easy way back up \nto your previous path, especially in your current condition. \nCursing your misfortune, you limp forward into the woods, \ntrying to find some way to orient yourself and make your way \nback to the trail.\n",
+      "sourceLocation": "pdf:spans:[[46,3244,3304],[46,3304,3369],[46,3369,3431],[46,3431,3490],[46,3490,3552],[46,3552,3571]]"
+    },
+    {
+      "id": "139:p5",
+      "kind": "body",
+      "text": "• Make a Navigate roll: if you succeed, go to 229; if you fail, go to 170.\n",
+      "sourceLocation": "pdf:spans:[[46,3573,3648]]"
+    },
+    {
+      "id": "139:p6",
+      "kind": "body",
+      "text": "(51)\n",
+      "sourceLocation": "pdf:spans:[[46,3648,3653]]"
+    }
+  ]
+}

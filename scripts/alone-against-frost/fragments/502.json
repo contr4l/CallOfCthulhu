@@ -1,0 +1,30 @@
+{
+  "id": "502",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "502:p0",
+      "kind": "heading",
+      "text": "502",
+      "sourceLocation": "pdf:visual:[[87,63]]"
+    },
+    {
+      "id": "502:p1",
+      "kind": "body",
+      "text": "You hear a buzz from a hollow beneath the bank where you \nstand. Hopeful that you have found others, but wary of the \nstrange  sound,  you  creep  to  the  edge  of  the  bank  and  peer \nthrough a fringe of scraggly junipers.",
+      "sourceLocation": "pdf:visual:[[87,64],[87,65],[87,66],[87,67]]"
+    },
+    {
+      "id": "502:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 503.",
+      "sourceLocation": "pdf:visual:[[87,68]]"
+    },
+    {
+      "id": "502:p3",
+      "kind": "trace",
+      "text": "(501)",
+      "sourceLocation": "pdf:visual:[[87,69]]"
+    }
+  ]
+}

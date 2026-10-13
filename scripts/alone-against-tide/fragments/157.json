@@ -1,0 +1,48 @@
+{
+  "id": "157",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "157:p0",
+      "kind": "heading",
+      "text": "157\n",
+      "sourceLocation": "pdf:spans:[[51,877,881]]"
+    },
+    {
+      "id": "157:p1",
+      "kind": "body",
+      "text": "You duck the blow and dodge out of the man’s way as he flings \nhimself toward you. He stumbles into the wall. You quickly \nthrow your weight against your assailant and knock the wind \nout of him.\n",
+      "sourceLocation": "pdf:spans:[[51,881,944],[51,944,1004],[51,1004,1065],[51,1065,1077]]"
+    },
+    {
+      "id": "157:p2",
+      "kind": "body",
+      "text": "As you’ve stunned the large man, you take the chance to \nenter the building, slamming the door behind you and blocking \nhim from attacking you again once he recovers. Unfortunately, \nyou’re now face-to-face with the other man, who scowls \nmenacingly at you while brandishing a knife.\n",
+      "sourceLocation": "pdf:spans:[[51,1077,1134],[51,1134,1197],[51,1197,1260],[51,1260,1316],[51,1316,1361]]"
+    },
+    {
+      "id": "157:p3",
+      "kind": "body",
+      "text": "“You bastard! Think you can cause trouble for old Josh, eh? I’ll gut \nyou like a fish. Besides, I think we could use a little bit of blood for \nwhat’s coming next.”\n",
+      "sourceLocation": "pdf:spans:[[51,1361,1431],[51,1431,1505],[51,1505,1526]]"
+    },
+    {
+      "id": "157:p4",
+      "kind": "body",
+      "text": "He shouts something incomprehensible and lunges at you \nwith the blade. His eyes betray his murderous intentions.\n",
+      "sourceLocation": "pdf:spans:[[51,1526,1582],[51,1582,1640]]"
+    },
+    {
+      "id": "157:p5",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 121; if you fail, go to 176.\n",
+      "sourceLocation": "pdf:spans:[[51,1642,1714]]"
+    },
+    {
+      "id": "157:p6",
+      "kind": "body",
+      "text": "(144)\n",
+      "sourceLocation": "pdf:spans:[[51,1714,1720]]"
+    }
+  ]
+}

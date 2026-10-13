@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "68-death",
+    "68-wounded",
+    "68"
+  ],
+  "text": [
+    "你想到那名警官只是昏过去了，还没有被绑住；他醒来前，你应该处理一下。你扯下窗帘，让病态的绿雾透进房间。你撕下一段布料，把鲍威尔警官的双手绑起来。虽然绑得粗糙，但眼下也只能这样了。",
+    "你刚打好结，阿米莉娅突然伸手抓起身旁的花瓶，朝你扔了过来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 68",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 68",
+      "text": [
+        "You consider that the officer is merely unconscious and not restrained, and that you should remedy that before he comes to. You pull down a curtain from the window, letting the sickly green light of the fog into the room. You take the length of fabric and bind Officer Powell’s hands. It’s crude, but it will have to suffice.",
+        "As you finish securing the knots, Amelia suddenly lunges for a vase sitting next to her and hurls it at you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "444",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "444:p0",
+      "kind": "heading",
+      "text": "444",
+      "sourceLocation": "pdf:visual:[[78,1]]"
+    },
+    {
+      "id": "444:p1",
+      "kind": "body",
+      "text": "You are under considerable stress, but there is no denying the \nevidence before you. It seems incredible, but Charlie may be \npossessed by an otherworldly entity.",
+      "sourceLocation": "pdf:visual:[[78,2],[78,3],[78,4]]"
+    },
+    {
+      "id": "444:p2",
+      "kind": "body",
+      "text": "To try and communicate with the entity, and perhaps learn the \nsecrets of the valley, go to 445. To flee from this eerie vision, go \nto 437.",
+      "sourceLocation": "pdf:visual:[[78,5],[78,6],[78,7]]"
+    },
+    {
+      "id": "444:p3",
+      "kind": "trace",
+      "text": "(443)",
+      "sourceLocation": "pdf:visual:[[78,8]]"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "format": "coc-story-graph@2",
+  "id": "alone-against-fear",
+  "title": "Alone Against Fear",
+  "displayTitle": "恐惧独行（暂定适配名）",
+  "language": "en",
+  "entry": "1",
+  "runtimePlayable": false,
+  "source": {
+    "filename": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "sha256": "6737a687a79c49ef36b0e13d98fa0536b5ab8724eb127312522126b46570a572",
+    "size": 27312584,
+    "pdfPages": 106,
+    "metadataTitle": "Escape from Demon City",
+    "author": "Andrea"
+  },
+  "supplements": {
+    "path": "alone-against-fear/fragments/supplements.json",
+    "sha256": "a7581744e263a6a6802cd66366724eb9f53aebedf10abc23eeba7df3f72a5aeb"
+  },
+  "nodes": [
+    {
+      "id": "1",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-001.json",
+        "sha256": "eeb1185096e76fe773d0df7331908a64e67158aa101af5b0273eb91a4ff8a6f9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "2",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-002.json",
+        "sha256": "9464a24ebfc52b54fce4e0bb02841224718b8bbc5c9572d3366334fe8e93f4a0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "3",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-003.json",
+        "sha256": "75edcca264922d27d9eb3786cb7e0c6b23fd56668d5b6c5aa2bc99a9dcfca5ba"
+      },
+      "terminal": false
+    },
+    {
+      "id": "4",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-004.json",
+        "sha256": "bbd10d8d0419a29f4bcf3fdad10c18055c78b267cce7bc703f4f14c0b0c2e304"
+      },
+      "terminal": false
+    },
+    {
+      "id": "5",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-005.json",
+        "sha256": "94b078e81fed0daf5c6377861f46994182fe80a48418a133566ddf8abc0731d0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "6",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-006.json",
+        "sha256": "509f0c729138fbac331c895491e851e8ebcba09ac0e3128bf4ee52f2a04be61d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "7",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-007.json",
+        "sha256": "5a027fc72fbe41b39162be0ad100282881ba5d313a0a13f716a170b8f4b04a75"
+      },
+      "terminal": false
+    },
+    {
+      "id": "8",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-008.json",
+        "sha256": "6962440790c5ab26068d92fb7f9e6c2f13d7b9f90a28c2b68fca3db7be9ff244"
+      },
+      "terminal": false
+    },
+    {
+      "id": "9",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-009.json",
+        "sha256": "7293950d55d765e6df627aa04fbc32124de1a30f6042e59fa3e7c1822d6a22e1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "10",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-010.json",
+        "sha256": "76220e6abdeec1f359cf2cab6af9c08067a6f32fb056c6933622999ee58704ed"
+      },
+      "terminal": false
+    },
+    {
+      "id": "11",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-011.json",
+        "sha256": "45f96625ec3e331c06dd6d1d349eb56d015f8d571cfedc0e003dede3543c62b2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "12",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-012.json",
+        "sha256": "56798c467a5b3bdb2da1826a06579a8dee2410c68f2ded32fd3699b6065a938a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "13",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-013.json",
+        "sha256": "6f848fb07ddf0a7fdf3cc3cfd577a13264ebe2e7d26a2cf21339dc4c961fdd2d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "14",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-014.json",
+        "sha256": "cc82c9ce9526ed4065ac16e9f3bc4aeb83afabe1963e6ef32294038d3c437127"
+      },
+      "terminal": false
+    },
+    {
+      "id": "15",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-015.json",
+        "sha256": "5cd6790766de671d8c0bb86320351532f2defef99e3a95473caa6b26c08a80a7"
+      },
+      "terminal": false
+    },
+    {
+      "id": "16",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-016.json",
+        "sha256": "44ad322a85837dc6f48b1136d020a84b869ae20192e2ff9f6776ef96de8ec313"
+      },
+      "terminal": false
+    },
+    {
+      "id": "17",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-017.json",
+        "sha256": "26877d2cd7a42455c2d5d9f7ac4fce9fa803cfb22fd28d5d79f4e676bb180c45"
+      },
+      "terminal": false
+    },
+    {
+      "id": "18",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-018.json",
+        "sha256": "3fbe4b3fec494916771beced3b2aaf4afc9c6ffa19a621d4183d65bcd4c6e7dc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "19",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-019.json",
+        "sha256": "a40e5f07f6bfac2a74430339ff25b3b48e4eb5c2fb9d0fbfe110edcfbf702aef"
+      },
+      "terminal": false
+    },
+    {
+      "id": "20",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-020.json",
+        "sha256": "365597989e3e24897568972f6c30354d16fd621b83f6225cc3ebb474bd94db55"
+      },
+      "terminal": false
+    },
+    {
+      "id": "21",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-021.json",
+        "sha256": "c07b3fde2e00309ec2f09de759a6f7218e1d86d164ef5cf440c1fa64601c21af"
+      },
+      "terminal": false
+    },
+    {
+      "id": "22",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-022.json",
+        "sha256": "440915720455abae7f15967d2c89b8beda74b6379cf9e70bfc8cf3b7aaee73b2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "23",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-023.json",
+        "sha256": "5e3b4d385862dd66b669cfbd46c5f76e7c8893c1e12967e37f9e117e2de04e39"
+      },
+      "terminal": false
+    },
+    {
+      "id": "24",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-024.json",
+        "sha256": "722539425b665d17539f708390eb7ffa13dac5e06e60bdd3117d1e90fa76dabf"
+      },
+      "terminal": false
+    },
+    {
+      "id": "25",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-025.json",
+        "sha256": "b4a65705c6b9783b76381d87001c48fb2117cc5ac410864af424abede5812f8d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "26",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-026.json",
+        "sha256": "102fab5aebc2ed4034a9495a7c7db6f6d176aabc1db0e7c91a0bf177119a2cdb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "27",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-027.json",
+        "sha256": "c9ccdc43f2c4be0b6bfaf5161c021923275c807fa26e20d9650cf5960b389f3d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "28",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-028.json",
+        "sha256": "3441568245b4f10a634b80ed04c22973049ae8ecce6dc8ebdd1fcd73e7710eff"
+      },
+      "terminal": false
+    },
+    {
+      "id": "29",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-029.json",
+        "sha256": "36a6c23193d9bef85dc2cc0ced967a5fde29e501889a199177e57868b86d1676"
+      },
+      "terminal": false
+    },
+    {
+      "id": "30",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-030.json",
+        "sha256": "b4aa4951d96f318156f43afdde35aeb0520ad75b29a48b8c12671ccafe310c91"
+      },
+      "terminal": false
+    },
+    {
+      "id": "31",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-031.json",
+        "sha256": "734e76f1a3313272bcb4ef3c087e66d4a90345c56e2e458d83b095a83f465c0c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "32",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-032.json",
+        "sha256": "a9438cf2b232370ed78be1cb78d2b8c114def9f257e9670987801aafabd68c02"
+      },
+      "terminal": false
+    },
+    {
+      "id": "33",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-033.json",
+        "sha256": "ba511392bcbe850fb4a8f2a2dd37f8668ecd387c9eb75725be83fe541289e6b1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "34",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-034.json",
+        "sha256": "f29f0bc92996ba4d5377a4a8488e6c25726a26cef2642cc4eab1f7c8ff209aa5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "35",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-035.json",
+        "sha256": "c38af3a5d6bb011cdf9498754939e3d9c16729fa2d504294e7f452458fabfa0b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "36",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-036.json",
+        "sha256": "df6109643f4ba1a30ff31c0b86510b85761ef4d55729120c943d7be819b657f4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "37",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-037.json",
+        "sha256": "1817b06cb1d151e5a76012e13b244feeadc789bc2d6ccb52e38fe47bb2ff5d5d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "38",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-038.json",
+        "sha256": "1f9c6b777179507f8fe9c0760ec48707089b20b1df4a4632b45af89fe02f903d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "39",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-039.json",
+        "sha256": "20e272f5266d74014cb2acb187e50cf3490cdad525cad55a6fba981bbfa41752"
+      },
+      "terminal": false
+    },
+    {
+      "id": "40",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-040.json",
+        "sha256": "db2a2d8309c175565d701fd115f2c120782640abf0398646e20ab9f6b8340c19"
+      },
+      "terminal": false
+    },
+    {
+      "id": "41",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-041.json",
+        "sha256": "3ac9544fa20f0034939d01ce268a0f6f4e236cc9237636834c71a9250c3f6d5f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "42",
+      "fragment": {
+        "path": "alone-against-fear/fragments/unique-event-042.json",
+        "sha256": "206f16c38528bc4f62dfd34a58588b0e4009349df6545486abc388003ef5f5ca"
+      },
+      "terminal": false
+    }
+  ],
+  "edges": [
+    {
+      "id": "event-ref-1",
+      "source": "17",
+      "target": "24",
+      "paragraphId": "unique-event-017:p0016",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 4
+    },
+    {
+      "id": "event-ref-2",
+      "source": "17",
+      "target": "36",
+      "paragraphId": "unique-event-017:p0181",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 0
+    },
+    {
+      "id": "event-ref-3",
+      "source": "17",
+      "target": "19",
+      "paragraphId": "unique-event-017:p0871",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 16
+    },
+    {
+      "id": "event-ref-4",
+      "source": "17",
+      "target": "20",
+      "paragraphId": "unique-event-017:p0872",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 19
+    },
+    {
+      "id": "event-ref-5",
+      "source": "17",
+      "target": "21",
+      "paragraphId": "unique-event-017:p0874",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 20
+    },
+    {
+      "id": "event-ref-6",
+      "source": "20",
+      "target": "23",
+      "paragraphId": "unique-event-020:p0026",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 14
+    },
+    {
+      "id": "event-ref-7",
+      "source": "28",
+      "target": "15",
+      "paragraphId": "unique-event-028:p0014",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 1
+    },
+    {
+      "id": "event-ref-8",
+      "source": "28",
+      "target": "5",
+      "paragraphId": "unique-event-028:p0020",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 6
+    },
+    {
+      "id": "event-ref-9",
+      "source": "30",
+      "target": "32",
+      "paragraphId": "unique-event-030:p0014",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 7
+    },
+    {
+      "id": "event-ref-10",
+      "source": "32",
+      "target": "28",
+      "paragraphId": "unique-event-032:p0041",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 21
+    },
+    {
+      "id": "event-ref-11",
+      "source": "37",
+      "target": "41",
+      "paragraphId": "unique-event-037:p0032",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 10
+    },
+    {
+      "id": "event-ref-12",
+      "source": "42",
+      "target": "26",
+      "paragraphId": "unique-event-042:p0049",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 0
+    },
+    {
+      "id": "event-ref-13",
+      "source": "42",
+      "target": "37",
+      "paragraphId": "unique-event-042:p0049",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 26
+    },
+    {
+      "id": "event-ref-14",
+      "source": "42",
+      "target": "31",
+      "paragraphId": "unique-event-042:p0053",
+      "evidence": "explicit-printed-event-reference",
+      "textOffset": 36
+    }
+  ],
+  "issues": [
+    {
+      "kind": "metadata-title-conflict",
+      "pdfMetadataTitle": "Escape from Demon City",
+      "coverAndBodyTitle": "Alone Against Fear"
+    },
+    {
+      "kind": "unreviewed-rule-system",
+      "note": "Based on Four Against Darkness; define separate d6 rules, do not apply Call of Cthulhu mechanics."
+    },
+    {
+      "kind": "visual-review-pending",
+      "pages": [
+        1,
+        9,
+        21,
+        28,
+        30,
+        49,
+        56,
+        62,
+        76,
+        80,
+        89,
+        98
+      ]
+    },
+    {
+      "kind": "translation-incomplete",
+      "note": "Full Chinese translation and paragraph review pending."
+    }
+  ]
+}

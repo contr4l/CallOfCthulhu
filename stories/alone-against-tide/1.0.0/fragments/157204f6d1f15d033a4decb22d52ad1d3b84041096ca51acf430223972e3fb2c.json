@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "15"
+  ],
+  "text": [
+    "你挤过人群，朝遗产拍卖会走去。从舞厅里挤满的人数来看，这场活动相当热闹。",
+    "这里大多数人都衣着考究，身上佩戴着显眼的珠宝，穿着名牌服饰。你看见门边站着一名宽肩膀的警察，穿着制服。他脸上有疤，但刮得干干净净，腰间挂着警棍。他眉头紧锁，神色严肃，眯着眼注视着现场的骚动。",
+    "你混在形形色色的学者和收藏家中，注意到人群里还有几张引人注目的面孔。",
+    "首先映入眼帘的是一个穿着飘逸橙袍、皮肤呈黄褐色的男人。他看起来和周围格格不入，其他宾客也纷纷投来奇怪的目光。",
+    "继续环顾时，你碰巧看见先前那两名穿深色西装的绅士。他们站在房间前方附近的角落，正和一名年轻的黑发男子交谈。那男子穿着一件款式过时却优雅的长外套，身材瘦削，五官相当锐利；鼻子下方垂着一小撮淡淡的胡子。",
+    "不过，最引人注目的是站在房间前方舞台上的年轻女子，她身旁是一位戴眼镜的老人。她乌黑的长发披落肩头，衬托着苍白的脸庞，与正式的黑色礼服相映成趣。她和老人偶尔会查看白布下藏着的物件——那些等待展示的拍卖品。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 15",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 15",
+      "text": [
+        "Pushing through the crowd, you make your way toward the estate sale. Judging by the number of people packing into the dance hall, this seems to be quite the event.",
+        "Most of the people here are well-dressed, with conspicuous amounts of jewelry and designer clothing on display. You see a broad-shouldered man in a policeman’s uniform standing by the door. He has a scarred yet clean-shaven face and a baton at his side. His brow is furrowed in a serious expression and he watches the commotion through narrow eyes.",
+        "As you mingle with the assorted academics and collectors, you notice a few other faces that stand out in the crowd.",
+        "Most immediately, you spot a man in flowing orange robes with tawny skin. He seems more than a little out of place and is garnering some odd looks from the other guests.",
+        "Glancing around further, you happen to notice the two dark- suited gentlemen from earlier, standing in a corner toward the front of the room, talking to a young dark-haired man in a dated yet elegant long coat. He is of a slight build and has rather sharp features; a thin wisp of a mustache hangs beneath his nose.",
+        "Most noticeable, though, is the rather attractive young woman standing on stage at the front of the room next to a bespectacled old man. Long black hair cascades down her shoulders, accentuating her pale features and complementing her formal black dress. Occasionally, she and the older gentleman peek at objects hidden beneath white sheets—the sale items waiting to be displayed."
+      ]
+    }
+  }
+}

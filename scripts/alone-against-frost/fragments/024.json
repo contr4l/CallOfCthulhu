@@ -1,0 +1,30 @@
+{
+  "id": "24",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "24:p0",
+      "kind": "heading",
+      "text": "24",
+      "sourceLocation": "pdf:visual:[[14,45]]"
+    },
+    {
+      "id": "24:p1",
+      "kind": "body",
+      "text": "Either Bernard’s abductors have concealed their trail, or Charlie \nis deliberately failing to track them. You ought to continue, but \nthe Big Woods feel vast and overwhelming.",
+      "sourceLocation": "pdf:visual:[[14,46],[14,47],[14,48]]"
+    },
+    {
+      "id": "24:p2",
+      "kind": "body",
+      "text": "To leave the valley in defeat, go to 32. To continue the search, go \nto 52.",
+      "sourceLocation": "pdf:visual:[[14,49],[14,50]]"
+    },
+    {
+      "id": "24:p3",
+      "kind": "trace",
+      "text": "(14, 28)",
+      "sourceLocation": "pdf:visual:[[14,51]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "386",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "386:p0",
+      "kind": "heading",
+      "text": "386",
+      "sourceLocation": "pdf:visual:[[69,64]]"
+    },
+    {
+      "id": "386:p1",
+      "kind": "body",
+      "text": "With weary legs, you accompany the ape-men to the top of the \ncliff. You sit waiting for several hours. It occurs to you that you \nhave climbed out of the lost valley and that the forest nearby \nis part of the Big Woods that you crossed before. Do you dare \ntry to escape?",
+      "sourceLocation": "pdf:visual:[[69,65],[69,66],[69,67],[69,68],[69,69]]"
+    },
+    {
+      "id": "386:p2",
+      "kind": "body",
+      "text": "To make a run for it, go to 485. To trust that the sasquatches are \nessentially gentle creatures not intent upon harm, go to 488.",
+      "sourceLocation": "pdf:visual:[[69,70],[69,71]]"
+    },
+    {
+      "id": "386:p3",
+      "kind": "trace",
+      "text": "(382)",
+      "sourceLocation": "pdf:visual:[[69,72]]"
+    }
+  ]
+}

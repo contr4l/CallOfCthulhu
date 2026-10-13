@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "20"
+  ],
+  "text": [
+    "你的本能压过了理智，你觉得自己必须逃走。你从座位上站起来，寻找合适的出口。除了通往入口的路，唯一的出口要穿过厨房。你不知道那边有没有出口，但觉得值得一试。",
+    "可惜你根本没机会尝试。你刚起身朝厨房门口走去，鲍威尔警官便冲进房间，大喊：“不许动！警察！”你回头一看，他的左轮手枪正对着你，你顿时僵住。“你因擅闯民宅被捕了！跟我走，现在就走。”",
+    "他的枪正瞄准你。你已经被他当场抓住，试图逃跑也没什么用。你最好照他说的做。不过，你也可以试着逃跑。面对枪口，胜算看起来不大，但也许你宁愿赌自己能躲过子弹，也不愿进牢房。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 20",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 20",
+      "text": [
+        "Your instincts get the better of you and you feel compelled to make your escape. You rise from your seat, looking for suitable exits. The only way that doesn’t lead toward the entrance is through the kitchen. You don’t know if there’s an exit that way, but you think it’s worth a shot.",
+        "Unfortunately, you never get to take it. As you rise and head for the kitchen doorway, Officer Powell bursts into the room, shouting, “Freeze! Police!” You glance over your shoulder and see his revolver leveled at you, and you go stiff. “You’re under arrest for trespassing! You’re going to come with me. Now.”",
+        "He has you dead in his sights. Talking would do you little good as he’s already caught you trying to flee the scene. You should probably do what he says. On the other hand, you could try to run. Staring down the barrel of a gun, the odds don’t look good but maybe you like your chances better with the gun than the prison cell."
+      ]
+    }
+  }
+}

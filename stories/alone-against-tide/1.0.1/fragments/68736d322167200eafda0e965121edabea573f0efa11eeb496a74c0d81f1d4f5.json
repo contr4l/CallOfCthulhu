@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "241"
+  ],
+  "text": [
+    "你试着让那个陷入极度恐慌的男人冷静下来。你尽力安抚他，但他根本不肯放慢脚步听你说。你匆匆跟上，想让他停下来和你说句话，可恐惧已经彻底控制了他。",
+    "你试图用身体挡住他的去路，绕到他前面拦下他。他并不喜欢你这么做。你意识到自己犯了错，但为时已晚。他眼中透出疯狂，举枪朝你开火，因为你竟敢阻拦他逃跑。",
+    "距离如此之近，你根本来不及躲开。那人朝你胸口开了一枪，然后跨过你继续逃离此地，把你留在地上流血。你无助地躺在被洪水淹没的街道上，血流不止。 你因失血而昏了过去，所幸不必知道最后是什么夺走了你的性命。也许你流尽了血，也许水位继续上涨、你溺水而亡，又或许遭遇了更糟的命运。不管怎样，你死了。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 241",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 241",
+      "text": [
+        "You try to calm the man, who’s in a deep state of panic. You do your best to talk him down but he will not slow his pace to listen to you. You hurry along, trying to get him to stop and speak with you for just a moment, but the fear has taken hold of him totally and completely.",
+        "You try to block his path physically, rushing round in front of him to cut him off. He doesn’t take kindly to this. Too late, you realize your mistake. There’s madness in his eyes, and he raises his gun to fire at you for daring to be an obstacle to his escape.",
+        "At this range, there’s no hope of you getting out of the way in time. The man fires once into your chest then steps over you to continue his flight from this place, leaving you bleeding on the ground. You lie helpless on the flooding streets, bleeding heavily. Mercifully, you pass out from the blood loss so you don’t know what it is that finally claims your life. Perhaps you bled out. Perhaps the water rose even further and you drowned. Or perhaps a worse fate befell you. Whatever the case may be, you have died. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

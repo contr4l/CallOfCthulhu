@@ -1,0 +1,42 @@
+{
+  "id": "136",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "136:p0",
+      "kind": "heading",
+      "text": "136\n",
+      "sourceLocation": "pdf:spans:[[44,1281,1285]]"
+    },
+    {
+      "id": "136:p1",
+      "kind": "body",
+      "text": "You chase after Amelia Harris. She’s vanished in the mist, but \nyou’re determined to find her.\n",
+      "sourceLocation": "pdf:spans:[[44,1285,1349],[44,1349,1380]]"
+    },
+    {
+      "id": "136:p2",
+      "kind": "body",
+      "text": "But determination alone is not enough to track down the \nwayward widow. After wandering through the fog for what \nfeels like hours, you are certain that you are lost.\n",
+      "sourceLocation": "pdf:spans:[[44,1380,1437],[44,1437,1494],[44,1494,1547]]"
+    },
+    {
+      "id": "136:p3",
+      "kind": "body",
+      "text": "After trying to get your bearings for some time, you finally \nfind yourself outside the hotel, frustrated that Amelia has \nmanaged to escape you.\n",
+      "sourceLocation": "pdf:spans:[[44,1547,1609],[44,1609,1670],[44,1670,1693]]"
+    },
+    {
+      "id": "136:p4",
+      "kind": "body",
+      "text": "• Go to 131.\n",
+      "sourceLocation": "pdf:spans:[[44,1695,1708]]"
+    },
+    {
+      "id": "136:p5",
+      "kind": "body",
+      "text": "(21, 143)\n",
+      "sourceLocation": "pdf:spans:[[44,1708,1718]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "58",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "58:p0",
+      "kind": "heading",
+      "text": "58",
+      "sourceLocation": "pdf:visual:[[20,52]]"
+    },
+    {
+      "id": "58:p1",
+      "kind": "body",
+      "text": "You are not quite the woodsperson you thought you were. You \nlose the threads of Bernard’s trail and are unable to pick them \nup again. You may have to accept the situation: you have lost \nyour guide, your canoe, and one of your young charges. You still \nhave the option of trying to accomplish something toward your \noriginal mission.",
+      "sourceLocation": "pdf:visual:[[20,53],[20,54],[20,55],[20,56],[20,57],[20,58]]"
+    },
+    {
+      "id": "58:p2",
+      "kind": "body",
+      "text": "To  search  for  Bernard  at  random,  go  to  59.  To  continue  the \nexpedition, go to 75. To return to civilization, go to 54.",
+      "sourceLocation": "pdf:visual:[[20,59],[20,60]]"
+    },
+    {
+      "id": "58:p3",
+      "kind": "trace",
+      "text": "(87)",
+      "sourceLocation": "pdf:visual:[[20,61]]"
+    }
+  ]
+}

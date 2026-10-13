@@ -1,0 +1,48 @@
+{
+  "id": "98",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "98:p0",
+      "kind": "heading",
+      "text": "98\n",
+      "sourceLocation": "pdf:spans:[[34,1981,1984]]"
+    },
+    {
+      "id": "98:p1",
+      "kind": "body",
+      "text": "Your hunches are never wrong. Whatever that officer is here \nfor, you don’t want any part of it. Glancing around, you weigh \nyour options. You decide to creep toward Amelia and Officer \nPowell, positioning yourself behind a stack of items that are \nwaiting for the porter. Neither of them seems to notice you \nas they rush past your hiding place, giving you a clear line to \nthe door.\n",
+      "sourceLocation": "pdf:spans:[[34,1984,2045],[34,2045,2109],[34,2109,2170],[34,2170,2233],[34,2233,2294],[34,2294,2359],[34,2359,2369]]"
+    },
+    {
+      "id": "98:p2",
+      "kind": "body",
+      "text": "Alternatively, now might be a good time to explore the \nhouse. While there is the risk of discovery, it’s not as if you have \nanything to lose by snooping around somewhere you weren’t \nsupposed to be.\n",
+      "sourceLocation": "pdf:spans:[[34,2369,2425],[34,2425,2495],[34,2495,2554],[34,2554,2570]]"
+    },
+    {
+      "id": "98:p3",
+      "kind": "body",
+      "text": "For a brief moment, your gaze wanders to the staircase \nopposite the entryway. The bedrooms and study are likely up \nthere, and you might be able to find some valuable information.\n",
+      "sourceLocation": "pdf:spans:[[34,2570,2626],[34,2626,2687],[34,2687,2751]]"
+    },
+    {
+      "id": "98:p4",
+      "kind": "body",
+      "text": "• To make your escape, go to 67.\n",
+      "sourceLocation": "pdf:spans:[[34,2751,2784]]"
+    },
+    {
+      "id": "98:p5",
+      "kind": "body",
+      "text": "• To explore upstairs, go to 110.\n",
+      "sourceLocation": "pdf:spans:[[34,2784,2818]]"
+    },
+    {
+      "id": "98:p6",
+      "kind": "body",
+      "text": "(31, 126)\n",
+      "sourceLocation": "pdf:spans:[[34,2818,2828]]"
+    }
+  ]
+}

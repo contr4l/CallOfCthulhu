@@ -1,0 +1,30 @@
+{
+  "id": "326",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "326:p0",
+      "kind": "heading",
+      "text": "326",
+      "sourceLocation": "pdf:visual:[[62,50]]"
+    },
+    {
+      "id": "326:p1",
+      "kind": "body",
+      "text": "Holding your trigger finger steady, you allow the reeking hulk \nin the rear of the cave to shuffle out into the light of your night \nfire. It is a gigantic biped with the face of an ape.",
+      "sourceLocation": "pdf:visual:[[62,51],[62,52],[62,53]]"
+    },
+    {
+      "id": "326:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 493.",
+      "sourceLocation": "pdf:visual:[[62,54]]"
+    },
+    {
+      "id": "326:p3",
+      "kind": "trace",
+      "text": "(296)",
+      "sourceLocation": "pdf:visual:[[62,55]]"
+    }
+  ]
+}

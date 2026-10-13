@@ -1,0 +1,30 @@
+{
+  "id": "204",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "204:p0",
+      "kind": "heading",
+      "text": "204",
+      "sourceLocation": "pdf:visual:[[43,64]]"
+    },
+    {
+      "id": "204:p1",
+      "kind": "body",
+      "text": "You part the bandages without waking the sleeper.",
+      "sourceLocation": "pdf:visual:[[43,65]]"
+    },
+    {
+      "id": "204:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1–4, go to 205; if the result is 5–6, go \nto 180.",
+      "sourceLocation": "pdf:visual:[[43,66],[43,67]]"
+    },
+    {
+      "id": "204:p3",
+      "kind": "trace",
+      "text": "(139, 178)",
+      "sourceLocation": "pdf:visual:[[43,68]]"
+    }
+  ]
+}

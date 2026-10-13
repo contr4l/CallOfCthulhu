@@ -1,0 +1,36 @@
+{
+  "id": "222",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "222:p0",
+      "kind": "heading",
+      "text": "222",
+      "sourceLocation": "pdf:visual:[[46,25]]"
+    },
+    {
+      "id": "222:p1",
+      "kind": "body",
+      "text": "By  applying  precise  force  against  the  attacker’s  hulking \ngrasp, you slip out of the death grip and stumble away. You \nturn to confront the man who came out of the forest... but \nhe has changed.",
+      "sourceLocation": "pdf:visual:[[46,26],[46,27],[46,28],[46,29]]"
+    },
+    {
+      "id": "222:p2",
+      "kind": "body",
+      "text": "Go to 127.",
+      "sourceLocation": "pdf:visual:[[46,30]]"
+    },
+    {
+      "id": "222:p3",
+      "kind": "trace",
+      "text": "(221)",
+      "sourceLocation": "pdf:visual:[[46,31]]"
+    },
+    {
+      "id": "222:p4",
+      "kind": "body",
+      "text": "45",
+      "sourceLocation": "pdf:visual:[[46,32]]"
+    }
+  ]
+}

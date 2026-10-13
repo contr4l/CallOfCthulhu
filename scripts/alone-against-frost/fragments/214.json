@@ -1,0 +1,36 @@
+{
+  "id": "214",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "214:p0",
+      "kind": "heading",
+      "text": "214",
+      "sourceLocation": "pdf:visual:[[45,13]]"
+    },
+    {
+      "id": "214:p1",
+      "kind": "body",
+      "text": "Your  academic  standing  is  weighed.  A  rumor  circulates, \nsuggesting  that  you  gained  your  position  at  Miskatonic  by \nfalsifying records of your experience and qualifications. Since \nyou have already embarrassed the institution enough, no formal \ninvestigation  is  made. You  are  politely  asked  to  tender  your \nresignation and are left with no choice but to comply.",
+      "sourceLocation": "pdf:visual:[[45,15],[45,17],[45,18],[45,20],[45,21],[45,23]]"
+    },
+    {
+      "id": "214:p2",
+      "kind": "body",
+      "text": "Needless  to  say,  the  scandal  ends  your  serious  scientific \ncareer. For a while, you try to develop your theory in books \nand magazines, but the best journals ignore you. Writing for \na popular, sensationalist market encourages sloppy work and \nexaggeration. It becomes harder and harder to take up your pen.",
+      "sourceLocation": "pdf:visual:[[45,24],[45,26],[45,27],[45,29],[45,30]]"
+    },
+    {
+      "id": "214:p3",
+      "kind": "body",
+      "text": "The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[45,31]]"
+    },
+    {
+      "id": "214:p4",
+      "kind": "trace",
+      "text": "(83)",
+      "sourceLocation": "pdf:visual:[[45,32]]"
+    }
+  ]
+}

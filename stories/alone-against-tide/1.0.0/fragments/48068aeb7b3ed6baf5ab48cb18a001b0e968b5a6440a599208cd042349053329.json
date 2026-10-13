@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "35"
+  ],
+  "text": [
+    "人群的低语声逐渐平息，人们开始聚集到舞台周围。阿米莉娅和那位老人招呼大家注意。",
+    "寡妇自信地走到舞台前方灯光聚集处。她朝人群露出灿烂的笑容，开口说道：“各位晚上好！真高兴大家今晚能来。你们都知道，我丈夫最近去世了……唉……”说到这里，阿米莉娅开始夸张地落泪，妆都哭花了。她掏出手帕擦干眼泪，接着说：“唉……我非常难过。我很想念可怜的威廉，不知道没有他该怎么办。所以我今晚把大家请到这里来。我希望你们能用得上他的收藏；我知道他一定乐于见到自己的东西落到珍视它们的人手里。希望你们能挑到喜欢的东西，也算是帮帮我这个可怜的寡妇。不过，现在咱们开始吧。我把拍卖交给沃伦先生主持。”",
+    "开场致辞结束后，阿米莉娅走到舞台左侧，让那位戴眼镜的老人——想必就是沃伦先生——站到中央。他清了清嗓子，说道：“今晚，我们将拍卖六件非常古老、价值不菲的物品，它们来自威廉·哈里斯教授的遗产。虽然这些物品十分古怪，但我已尽我所能确认它们是真品。我在六张桌子上各放了一个投票箱、一些纸条和一支铅笔，分别摆在待拍物品旁边。想竞拍某件物品，只要在纸条上写下姓名和愿意支付的金额，再把纸条投入箱中即可。出价最高者将买下该物品。所有所得都将交给死者的妻子。”",
+    "说完，沃伦先生开始揭开陈列的物品。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 35",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 35",
+      "text": [
+        "The murmuring of the crowd dies down and people begin to gather around the stage as Amelia and the older gentleman call everyone to attention.",
+        "The widow strides confidently to the front of the stage where the lights are centered. She flashes a broad smile at the crowd and begins to speak. “Good evening everyone! I’m so glad you all could make it tonight. As you all know, my husband recently passed and… well…” At this point, Amelia begins to tear up theatrically, so much so that her makeup begins to smear. She produces a handkerchief to dry her eyes before continuing: “Well… I’m very upset. I miss my poor William very much, and I don’t know what I’ll do without him. And that’s why I’ve brought you all here tonight. I hope you can find some use for his collection, and I know that he would be happy to see his things go to those who value them highly. I hope you’ll show this poor widow a kindness by finding something you like. But now, let us begin. I’ll leave the auctioning to Mr. W arren.”",
+        "With her opening statement complete, Amelia moves to stage left and allows the bespectacled old man, presumably Mr. Warren, to take center stage. He clears his throat before speaking. “Tonight, we have six very ancient and very valuable items for sale from the estate of Professor William Harris. Though exceedingly strange, I have deemed these items to be authentic to the best of my ability. I have placed a ballot box, slips of paper, and a pencil on each of the six tables, next to the item for sale. If you wish to bid on an item, simply write your name and the amount you are willing to pay for it on a slip, then place it in the box. The item will be sold to the highest bidder. All of the proceeds will go to the wife of the deceased.”",
+        "With that, Mr. Warren moves to reveal the gathered items."
+      ]
+    }
+  }
+}

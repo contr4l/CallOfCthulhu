@@ -20,7 +20,8 @@ export function chapterKey(node: StoryNode) {
     : node.id;
 }
 const isEnding = (n: StoryNode) =>
-  n.type === "ending" || n.program?.some((s) => s.kind === "end");
+  n.type === "ending" ||
+  n.program?.some((s) => s.kind === "end" && s.collect !== false);
 export function readCollections(
   db: DatabaseSync,
   owner: string,
@@ -28,7 +29,18 @@ export function readCollections(
 ) {
   const result: StoryCollection[] = [],
     details = new Map<string, CollectedScene>();
+  const latest = new Map<string, Story>();
   for (const story of stories.values()) {
+    const current = latest.get(story.id);
+    if (
+      !current ||
+      story.version.localeCompare(current.version, undefined, {
+        numeric: true,
+      }) > 0
+    )
+      latest.set(story.id, story);
+  }
+  for (const story of latest.values()) {
     const chapterIds = new Set(
       story.nodes.filter((n) => n.sourceId !== "adaptation").map(chapterKey),
     );
@@ -40,14 +52,16 @@ export function readCollections(
     const visits = new Map<string, Set<string>>();
     const rows = db
       .prepare(
-        "SELECT h.frame,h.run_id FROM run_history h JOIN runs r ON r.id=h.run_id WHERE r.user_id=? AND r.story_id=? AND r.story_version=? AND NOT EXISTS(SELECT 1 FROM shop_discarded_checks d WHERE d.run_id=h.run_id AND d.sequence=h.sequence) AND NOT EXISTS(SELECT 1 FROM shop_check_windows w WHERE w.run_id=h.run_id AND w.revision=h.sequence) ORDER BY h.rowid",
+        "SELECT h.frame,h.run_id,r.story_version FROM run_history h JOIN runs r ON r.id=h.run_id WHERE r.user_id=? AND r.story_id=? AND NOT EXISTS(SELECT 1 FROM shop_discarded_checks d WHERE d.run_id=h.run_id AND d.sequence=h.sequence) AND NOT EXISTS(SELECT 1 FROM shop_check_windows w WHERE w.run_id=h.run_id AND w.revision=h.sequence) ORDER BY h.rowid",
       )
-      .all(owner, story.id, story.version);
+      .all(owner, story.id);
     for (const row of rows) {
       const frame = JSON.parse(row.frame as string) as HistoryFrame,
-        scene = frame.scene;
+        scene = frame.scene,
+        sourceStory =
+          stories.get(`${story.id}@${String(row.story_version)}`) ?? story;
       // Old history predates explicit collection keys. Resolve only its already-visible paragraph.
-      const node = story.nodes.find(
+      const node = sourceStory.nodes.find(
         (n) =>
           n.title === scene.title &&
           n.chapter === scene.chapter &&
@@ -65,7 +79,7 @@ export function readCollections(
         const id = keys[kind];
         if (!id || !(kind === "chapters" ? chapterIds : endingIds).has(id))
           continue;
-        const key = JSON.stringify([story.id, story.version, kind, id]),
+        const key = JSON.stringify([story.id, kind, id]),
           at = frame.createdAt,
           runId = row.run_id as string;
         const seen = visits.get(key) ?? new Set<string>();
@@ -83,7 +97,7 @@ export function readCollections(
           runId,
         });
         details.set(key, {
-          scene: withSceneReading(story, scene),
+          scene: withSceneReading(sourceStory, scene),
           runId,
           sequence: frame.sequence,
         });
@@ -91,7 +105,6 @@ export function readCollections(
     }
     result.push({
       storyId: story.id,
-      version: story.version,
       title: story.title,
       cover: story.cover,
       chapters: {
@@ -103,8 +116,8 @@ export function readCollections(
   }
   return {
     collections: result,
-    entry(storyId: string, version: string, kind: CollectionKind, id: string) {
-      const found = details.get(JSON.stringify([storyId, version, kind, id]));
+    entry(storyId: string, kind: CollectionKind, id: string) {
+      const found = details.get(JSON.stringify([storyId, kind, id]));
       if (!found) throw new GameError(404, "尚未收集这份档案。");
       return found;
     },

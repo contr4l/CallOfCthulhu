@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "64"
+  ],
+  "text": [
+    "你付了一大笔钱，如今这顶印度王冠归你了。你满意地笑了笑，把青铜头饰收进公文包。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 64",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 64",
+      "text": [
+        "You pay a considerable sum but the Indian crown is now yours. You smile with satisfaction as you tuck the bronze headpiece into your briefcase."
+      ]
+    }
+  }
+}

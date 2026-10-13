@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "109"
+  ],
+  "text": [
+    "你听见隔壁传来乒乒乓乓的声响，刻意不去理会。那里无论发生什么，都与你无关。你收拾好东西，深吸一口气，思考自己的选择。",
+    "可供选择的办法少之又少。你可以问问旅馆老板有没有看到什么人进出。旅馆规模很小，他们很可能会注意到任何动静。也许这样你就能着手找回丢失的财物。",
+    "另一种选择是继续调查已故哈里斯教授及其文物。你可以进镇收集更多信息。",
+    "或者，你也可以认赔离开。浓雾这么大，渡船不会开航，但你可以走进树林，试着绕湖而行。这意味着要在浓雾中的荒野里走上好几个小时，不过运气好的话，或许能在天黑前回到公路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 109",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 109",
+      "text": [
+        "You hear the clattering and banging in the next room and pointedly ignore it. Whatever may be going on there, it doesn’t involve you. You finish setting things straight and take a deep breath, pondering your options.",
+        "You have precious few. You could see if the hotel owner saw anyone coming and going. The establishment is small, and they would likely notice anything going on. Maybe that way you could set about recovering your lost belongings.",
+        "Another option is to continue your investigation surrounding the late Prof. Harris and his artifacts. You could go into town to gather more information.",
+        "Alternatively, you could always just cut your losses and leave. The ferry won’t be running with the fog as dense as it is, but you could set out into the woods and try circling the lake. This would take several hours of walking through the wilderness in the mist, but with a little luck, you might be able to make it back to the road by nightfall."
+      ]
+    }
+  }
+}

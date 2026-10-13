@@ -1,0 +1,30 @@
+{
+  "id": "528",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "528:p0",
+      "kind": "heading",
+      "text": "528",
+      "sourceLocation": "pdf:visual:[[91,66]]"
+    },
+    {
+      "id": "528:p1",
+      "kind": "body",
+      "text": "You and Norman silently depart the camp of sleeping sasquatches.",
+      "sourceLocation": "pdf:visual:[[91,67]]"
+    },
+    {
+      "id": "528:p2",
+      "kind": "body",
+      "text": "To explore this strange lost valley, go to 38. To leave it, go to 278.",
+      "sourceLocation": "pdf:visual:[[91,68]]"
+    },
+    {
+      "id": "528:p3",
+      "kind": "trace",
+      "text": "(421)",
+      "sourceLocation": "pdf:visual:[[91,69]]"
+    }
+  ]
+}

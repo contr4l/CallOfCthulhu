@@ -1,0 +1,30 @@
+{
+  "id": "4",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "4:p0",
+      "kind": "heading",
+      "text": "4",
+      "sourceLocation": "pdf:visual:[[10,57]]"
+    },
+    {
+      "id": "4:p1",
+      "kind": "body",
+      "text": "You take first watch that night, while the others sleep after an \nexhausting day. The brief darkness is disturbed by the splash of \nbeavers in the stream, the trilling of insects, and the hoot of a \ngreat gray owl.",
+      "sourceLocation": "pdf:visual:[[10,58],[10,59],[10,60],[10,61]]"
+    },
+    {
+      "id": "4:p2",
+      "kind": "body",
+      "text": "Make a Listen roll: if you succeed, go to 9; if you fail, go to 8.",
+      "sourceLocation": "pdf:visual:[[10,62]]"
+    },
+    {
+      "id": "4:p3",
+      "kind": "trace",
+      "text": "(2)",
+      "sourceLocation": "pdf:visual:[[10,63]]"
+    }
+  ]
+}

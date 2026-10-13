@@ -1,0 +1,30 @@
+{
+  "id": "251",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "251:p0",
+      "kind": "heading",
+      "text": "251",
+      "sourceLocation": "pdf:visual:[[49,76]]"
+    },
+    {
+      "id": "251:p1",
+      "kind": "body",
+      "text": "Sylvia has already been swept out of reach. Swimming strongly, \nyou manage to reach Norman. You grab him by the collar of his \nleather jacket and drag him to shore.",
+      "sourceLocation": "pdf:visual:[[49,77],[49,78],[49,79]]"
+    },
+    {
+      "id": "251:p2",
+      "kind": "body",
+      "text": "Norman has lost 2D8 hit points from drowning. If he is still alive, \nyou may make a First Aid roll: if you succeed, restore 1D3 of his hit \npoints. If Norman is dead, go to 67. If he survives, you start for Fort \nMcDonald; go to 279.",
+      "sourceLocation": "pdf:visual:[[49,80],[49,81],[49,82],[49,83]]"
+    },
+    {
+      "id": "251:p3",
+      "kind": "trace",
+      "text": "(227)",
+      "sourceLocation": "pdf:visual:[[49,84]]"
+    }
+  ]
+}

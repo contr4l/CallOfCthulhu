@@ -1,0 +1,30 @@
+{
+  "id": "196",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "196:p0",
+      "kind": "heading",
+      "text": "196",
+      "sourceLocation": "pdf:visual:[[42,44]]"
+    },
+    {
+      "id": "196:p1",
+      "kind": "body",
+      "text": "Insisting that your students remain where they are, you dash off \non the track of the fleeing primitive. You cry after him as best \nyou can in the regional tongue, insisting you mean no harm. \nHis legs are shorter than yours, but he knows the terrain and \nits quirks.",
+      "sourceLocation": "pdf:visual:[[42,45],[42,46],[42,47],[42,48],[42,49]]"
+    },
+    {
+      "id": "196:p2",
+      "kind": "body",
+      "text": "Make a DEX roll: if you succeed, go to 228; if you fail, go to 230.",
+      "sourceLocation": "pdf:visual:[[42,50]]"
+    },
+    {
+      "id": "196:p3",
+      "kind": "trace",
+      "text": "(130, 416)",
+      "sourceLocation": "pdf:visual:[[42,51]]"
+    }
+  ]
+}

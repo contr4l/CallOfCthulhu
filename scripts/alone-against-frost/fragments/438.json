@@ -1,0 +1,30 @@
+{
+  "id": "438",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "438:p0",
+      "kind": "heading",
+      "text": "438",
+      "sourceLocation": "pdf:visual:[[77,13]]"
+    },
+    {
+      "id": "438:p1",
+      "kind": "body",
+      "text": "Bernard shrieks in agony and falls to the ground in a mist of \nblood. You sprint away, your feet ripping through the underbrush. ",
+      "sourceLocation": "pdf:visual:[[77,15],[77,17]]"
+    },
+    {
+      "id": "438:p2",
+      "kind": "body",
+      "text": "Attempt a Hard POW roll for Sylvia: if she succeeds, go to 442; if \nshe fails, go to 439.",
+      "sourceLocation": "pdf:visual:[[77,19],[77,20]]"
+    },
+    {
+      "id": "438:p3",
+      "kind": "trace",
+      "text": "(437)",
+      "sourceLocation": "pdf:visual:[[77,22]]"
+    }
+  ]
+}

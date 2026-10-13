@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "94"
+  ],
+  "text": [
+    "你故意对这件拍品出价过低，以为能捡个便宜。另一位竞拍者出了更合理的价钱，印度王冠便落入了对方手中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 94",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 94",
+      "text": [
+        "You underbid on the item, thinking you would be able to score a good deal. Another bidder offered a fairer price and they walk away with the Indian crown."
+      ]
+    }
+  }
+}

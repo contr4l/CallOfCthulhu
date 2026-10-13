@@ -1,0 +1,36 @@
+{
+  "id": "97",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "97:p0",
+      "kind": "heading",
+      "text": "97",
+      "sourceLocation": "pdf:visual:[[27,2]]"
+    },
+    {
+      "id": "97:p1",
+      "kind": "body",
+      "text": "Somehow, you hold yourself together. Two students depend on \nyou to get them home safely. Once that is done, you can face \nthe consequences of your actions.",
+      "sourceLocation": "pdf:visual:[[27,4],[27,6],[27,7]]"
+    },
+    {
+      "id": "97:p2",
+      "kind": "body",
+      "text": "You get an ashen-faced Norman and Sylvia to carry the body \nto the fire. You examine it, particularly the feet. They are almost \ndestroyed by exposure: purple-tinged, bleeding, and—burnt? It \nis beyond you how he could have walked on them. ",
+      "sourceLocation": "pdf:visual:[[27,9],[27,10],[27,12],[27,13]]"
+    },
+    {
+      "id": "97:p3",
+      "kind": "body",
+      "text": "Go to 105.",
+      "sourceLocation": "pdf:visual:[[27,15]]"
+    },
+    {
+      "id": "97:p4",
+      "kind": "trace",
+      "text": "(79, 96)",
+      "sourceLocation": "pdf:visual:[[27,17]]"
+    }
+  ]
+}

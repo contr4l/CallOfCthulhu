@@ -1,0 +1,18 @@
+{
+  "id": "28",
+  "document": "Alone Against the Dark Defying the Triumph of the Ice (A Solo Play Call of Cthulhu Mini Campaign) Chaosium Publication 23154 (Matthew Costello, Mike Mason, Petr Štovik etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "28:p0",
+      "kind": "heading",
+      "text": "28\n",
+      "sourceLocation": "pdf:spans:[[15,1200,1203]]"
+    },
+    {
+      "id": "28:p1",
+      "kind": "body",
+      "text": "The door is locked. If you want to try the window, go to 7. If \nyou want to pick its lock, make a successful Locksmith or Hard \nMechanical Repair roll. If you want to pry open the window, \nsucceed at an STR roll. \nIf any roll succeeds, you are in the Harding House (see following).\nIf you fail, return to 90.\nMake a Stealth roll: if you fail, you’ve made a noise, someone \nmay have heard you; go to 51. If you succeed, you may scout the \nhouse. There are four upstairs bedrooms, any of which might be \nGliere’s. Go to 52. \n(90)\n",
+      "sourceLocation": "pdf:spans:[[15,1200,1731]]"
+    }
+  ]
+}

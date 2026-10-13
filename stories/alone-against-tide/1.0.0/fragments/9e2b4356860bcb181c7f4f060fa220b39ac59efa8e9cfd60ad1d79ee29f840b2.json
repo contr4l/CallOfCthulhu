@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "4"
+  ],
+  "text": [
+    "你斟酌着措辞才回答，不想泄露敏感信息。你告诉他自己是波士顿警察局的人，正在办案。摆渡人挠挠头。“波士顿啊？他们派你大老远跑到这儿来？我猜这事和哈里斯教授的死有关，不过鲍威尔警官好像已经接手了。”男人耸耸肩，又露出笑容。“啊，不过我想这也轮不到我打听。”他向你伸出手：“对了，我叫兰斯·桑福德，咱们好像还没互相介绍。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 4",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 4",
+      "text": [
+        "You choose your words carefully before replying, not wanting to give out sensitive information. You tell him that you’re with the Police Department over in Boston, and that you’re working a case. The ferryman scratches his head. “Boston, huh? And they sent you all the way out here? I imagine this has to do with Professor Harris’ death, but Officer Powell has that handled, I think.” The man shrugs and flashes another smile. “Ah, but I suppose it’s not my place to pry.” He extends his hand to you, “I’m Lance Sanford, by the way, I think we skipped the introduction.”"
+      ]
+    }
+  }
+}

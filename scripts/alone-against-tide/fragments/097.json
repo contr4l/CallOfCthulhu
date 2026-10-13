@@ -1,0 +1,54 @@
+{
+  "id": "97",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "97:p0",
+      "kind": "heading",
+      "text": "97\n",
+      "sourceLocation": "pdf:spans:[[34,571,574]]"
+    },
+    {
+      "id": "97:p1",
+      "kind": "body",
+      "text": "You rush the man, and swing for his head. Your blow lands and \ncarries him into the wall. With a sickening crack, he is rendered \nunconscious and collapses in a heap on the floor.\n",
+      "sourceLocation": "pdf:spans:[[34,574,637],[34,637,704],[34,704,754]]"
+    },
+    {
+      "id": "97:p2",
+      "kind": "body",
+      "text": "You stand over the wide-eyed monk. He seems battered \nand bruised, and is no doubt in some degree of pain. Still, he \nmanages to rise to his feet and extend his hand in thanks.\n",
+      "sourceLocation": "pdf:spans:[[34,754,808],[34,808,872],[34,872,931]]"
+    },
+    {
+      "id": "97:p3",
+      "kind": "body",
+      "text": "He offers words of gratitude to you for rescuing him from his \nattacker. “I am glad that you came when you did. That one was rather \nviolent. It is regrettable that you had to hurt him so, but he will live.”\n",
+      "sourceLocation": "pdf:spans:[[34,931,994],[34,994,1064],[34,1064,1139]]"
+    },
+    {
+      "id": "97:p4",
+      "kind": "body",
+      "text": "You inquire about the reason for the brawl, and the monk \nreplies slowly. “His friend robbed me of some of the relics of my \ntemple. This one wished to stay behind and inflict harm on me so \nthat I would not pursue them.” You mention the robbery in your \nroom and express common cause with him.\n",
+      "sourceLocation": "pdf:spans:[[34,1139,1197],[34,1197,1264],[34,1264,1330],[34,1330,1394],[34,1394,1434]]"
+    },
+    {
+      "id": "97:p5",
+      "kind": "body",
+      "text": "The monk smiles at you and shakes your hand more vigorously. \n“Then we shall go after our things together. I heard them discuss where \nthey would meet up later, after that one,” he points to the unconscious \nthug, “was done with me.” Wondering at your good fortune, and \nnot willing to turn down any aid, you accept the monk’s offer. You \ndoubt the suited man will be waking any time soon, and you will \nboth be gone by then. You simply leave him and exit the hotel, \nwith the orange-robed Buddhist leading you through the mist.\n",
+      "sourceLocation": "pdf:spans:[[34,1434,1496],[34,1496,1569],[34,1569,1642],[34,1642,1705],[34,1705,1773],[34,1773,1838],[34,1838,1902],[34,1902,1963]]"
+    },
+    {
+      "id": "97:p6",
+      "kind": "body",
+      "text": "• Go to 13.\n",
+      "sourceLocation": "pdf:spans:[[34,1963,1975]]"
+    },
+    {
+      "id": "97:p7",
+      "kind": "body",
+      "text": "(142)\n",
+      "sourceLocation": "pdf:spans:[[34,1975,1981]]"
+    }
+  ]
+}

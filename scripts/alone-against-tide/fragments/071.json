@@ -1,0 +1,48 @@
+{
+  "id": "71",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "71:p0",
+      "kind": "heading",
+      "text": "71\n",
+      "sourceLocation": "pdf:spans:[[26,3926,3929]]"
+    },
+    {
+      "id": "71:p1",
+      "kind": "body",
+      "text": "You tell the man that you’re here on pleasure, not business. You \nsmile at him and he smiles back. “Like so many others then, eh?” he \nreplies. “Can’t say I blame you—Esbury is a nice little place. Lots to do \nhere on the lake. Boating, fishing, swimming. And there’s some camping \nto be had on the other side of town. There’s also a nice dance hall close to \nthe pier, but that will be closed for the night, what with that estate sale \nof Professor Harris’ things going on. That might interest you too, if you \nhave a little extra money you’re looking to spend.” The man pauses for \na moment, as if unsure of what to say, then finally extends his hand \nand smiles warmly. “I’m Lance Sanford, by the way. It’s a pleasure.”\n",
+      "sourceLocation": "pdf:spans:[[26,3929,3995],[26,3995,4064],[26,4064,4139],[26,4139,4211],[26,4211,4289],[26,4289,4366],[26,4366,4441],[26,4441,4513],[26,4513,4583],[26,4583,4652]]"
+    },
+    {
+      "id": "71:p2",
+      "kind": "body",
+      "text": "• To inquire about Prof. Harris, go to 27.\n",
+      "sourceLocation": "pdf:spans:[[26,4652,4695]]"
+    },
+    {
+      "id": "71:p3",
+      "kind": "body",
+      "text": "• To ask Lance Sanford about himself, go to 42.\n",
+      "sourceLocation": "pdf:spans:[[26,4695,4743]]"
+    },
+    {
+      "id": "71:p4",
+      "kind": "body",
+      "text": "• To ask about the estate sale, go to 66.\n",
+      "sourceLocation": "pdf:spans:[[26,4743,4785]]"
+    },
+    {
+      "id": "71:p5",
+      "kind": "body",
+      "text": "• To pass the time waiting to arrive in Esbury, go to 56.\n",
+      "sourceLocation": "pdf:spans:[[26,4785,4843]]"
+    },
+    {
+      "id": "71:p6",
+      "kind": "body",
+      "text": "(80)",
+      "sourceLocation": "pdf:spans:[[26,4843,4847]]"
+    }
+  ]
+}

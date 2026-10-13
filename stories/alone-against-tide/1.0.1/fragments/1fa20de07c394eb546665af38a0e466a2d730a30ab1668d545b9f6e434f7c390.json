@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "139"
+  ],
+  "text": [
+    "你沿悬崖侧面滑坠，途中数次撞上冰冷而坚硬的岩石。你无法控制下坠，只能任由重力和残酷的命运摆布。",
+    "你翻滚坠落，感觉仿佛过了永恒，最后重重撞上一棵树，落在岩石下方。",
+    "你确信自己伤得很重，可能还有几处骨折。左腿尤其疼痛，你挣扎着站起来时，能感觉到脚在鞋子里肿胀起来。",
+    "你环顾四周，判断目前的处境。这个高度看不见小路，也没有简单的办法回到先前那条路上，尤其你目前伤成这样。你咒骂自己的坏运气，一瘸一拐地走进树林，试着辨清方向，找到回到小路的办法。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 139",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 139",
+      "text": [
+        "You skid down the side of the cliff, slamming against the cold and unforgiving stone several times as you do so. You have no control over your descent and are entirely at the mercy of gravity and cruel fate.",
+        "You tumble and fall for what feels like an eternity before eventually being deposited forcefully against a tree at the base of the rocks.",
+        "You are certain you must have some serious injuries, perhaps even a few broken bones. Your left leg is particularly painful, and you can feel your foot swelling in your shoe as you struggle to your feet.",
+        "You look around, taking stock of the situation. There’s no visible trail at this elevation and there’s no easy way back up to your previous path, especially in your current condition. Cursing your misfortune, you limp forward into the woods, trying to find some way to orient yourself and make your way back to the trail."
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "215",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "215:p0",
+      "kind": "heading",
+      "text": "215\n",
+      "sourceLocation": "pdf:spans:[[69,499,503]]"
+    },
+    {
+      "id": "215:p1",
+      "kind": "body",
+      "text": "You rush across the street and into the church, all the while \nsplashing through the ever-rising water. You slam the door \nbehind you and make your way down the aisle, toward the \nBuddhist monk standing beside the high altar.\n",
+      "sourceLocation": "pdf:spans:[[69,503,566],[69,566,626],[69,626,683],[69,683,729]]"
+    },
+    {
+      "id": "215:p2",
+      "kind": "body",
+      "text": "As you approach him, you can see that the man looks shaken. \nHis eyes are wide and his hands tremble as he holds onto one \nof the pews for support. He fixes his gaze upon you and starts \nspeaking quickly in a language you don’t understand. He stops \nhimself, then begins speaking frantically. “I did not think you \nwould make it back! A-are you okay? D-did you see what is out there?” \n",
+      "sourceLocation": "pdf:spans:[[69,729,790],[69,790,852],[69,852,916],[69,916,979],[69,979,1044],[69,1044,1115]]"
+    },
+    {
+      "id": "215:p3",
+      "kind": "body",
+      "text": "You mention the rising water and he shakes his head \nvigorously. “No! The creatures! In the mist! The green monsters!” \nYou raise a skeptical eyebrow, and he leads you to the door.\n",
+      "sourceLocation": "pdf:spans:[[69,1115,1168],[69,1168,1235],[69,1235,1296]]"
+    },
+    {
+      "id": "215:p4",
+      "kind": "body",
+      "text": "He cracks the door open slightly and you gaze out into the \nmists. You do, indeed, see something strange: a not entirely \nhuman silhouette shambling about in the darkness and the \nfog. Before you can get a better look, the monk yanks you \nback into the room and closes the door. But not before the \nthing notices, as a loud banging begins on the door mere \nseconds later.\n",
+      "sourceLocation": "pdf:spans:[[69,1296,1356],[69,1356,1418],[69,1418,1476],[69,1476,1535],[69,1535,1595],[69,1595,1653],[69,1653,1668]]"
+    },
+    {
+      "id": "215:p5",
+      "kind": "body",
+      "text": "“You see it now, yes? They come for us!” He draws you closer, \npulling you in so he can speak in a hushed tone, though still \nin a hurried manner. “That is why I came here, friend. My temple \nwanted me to bring the relics back because they are cursed by evil \nthings. My temple would perform rites over the relics to keep the \ncurse away, but they are not safe elsewhere. It may be too late, but I \nknow the words. Come, join me. We will stop this.” \n",
+      "sourceLocation": "pdf:spans:[[69,1668,1731],[69,1731,1794],[69,1794,1860],[69,1860,1928],[69,1928,1995],[69,1995,2067],[69,2067,2119]]"
+    },
+    {
+      "id": "215:p6",
+      "kind": "body",
+      "text": "He takes your hand and drags you to the altar. You set down \nthe sack of things, and the monk closes his eyes and begins to \nspeak in a strange tongue. “Y’hahyar nog nglui ah, Bokrug.” He \nutters each syllable slowly and carefully, giving you the chance \nto join with him if you so choose.\n",
+      "sourceLocation": "pdf:spans:[[69,2119,2180],[69,2180,2244],[69,2244,2308],[69,2308,2374],[69,2374,2409]]"
+    },
+    {
+      "id": "215:p7",
+      "kind": "body",
+      "text": "• If you have the strange idol, go to 227. Otherwise, go to 236.\n",
+      "sourceLocation": "pdf:spans:[[69,2411,2476]]"
+    },
+    {
+      "id": "215:p8",
+      "kind": "body",
+      "text": "(13, 181)\n",
+      "sourceLocation": "pdf:spans:[[69,2476,2486]]"
+    }
+  ]
+}

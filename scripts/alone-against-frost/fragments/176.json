@@ -1,0 +1,48 @@
+{
+  "id": "176",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "176:p0",
+      "kind": "heading",
+      "text": "176",
+      "sourceLocation": "pdf:visual:[[39,44]]"
+    },
+    {
+      "id": "176:p1",
+      "kind": "body",
+      "text": "In a flash, you remember the legends of the wind-walker—\nthose who go mad in the Northland and become possessed by \ncannibal demons of the wild. You shake your head; you must be \ngoing woods-happy to consider such nonsense.",
+      "sourceLocation": "pdf:visual:[[39,45],[39,46],[39,47],[39,48]]"
+    },
+    {
+      "id": "176:p2",
+      "kind": "body",
+      "text": "At that moment Sylvia returns from the campfire, carrying \na bowl of broth for the stranger. He glances into the steaming \nbowl with a look of disgust and pushes it away, spilling some of \nthe hot stuff on your student’s leg.",
+      "sourceLocation": "pdf:visual:[[39,49],[39,50],[39,51],[39,52]]"
+    },
+    {
+      "id": "176:p3",
+      "kind": "body",
+      "text": "38",
+      "sourceLocation": "pdf:visual:[[39,53]]"
+    },
+    {
+      "id": "176:p4",
+      "kind": "body",
+      "text": "The wind-walker is a creature of ice, you remember. It dares \nnot drink anything so hot as the broth.",
+      "sourceLocation": "pdf:visual:[[39,55],[39,56]]"
+    },
+    {
+      "id": "176:p5",
+      "kind": "body",
+      "text": "To slay the stranger immediately, go to 177. If you need more proof \nthat he is a wind-walker, go to 178. ",
+      "sourceLocation": "pdf:visual:[[39,57],[39,58]]"
+    },
+    {
+      "id": "176:p6",
+      "kind": "trace",
+      "text": "(77, 175)",
+      "sourceLocation": "pdf:visual:[[39,59]]"
+    }
+  ]
+}

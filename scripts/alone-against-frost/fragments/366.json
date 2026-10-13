@@ -1,0 +1,30 @@
+{
+  "id": "366",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "366:p0",
+      "kind": "heading",
+      "text": "366",
+      "sourceLocation": "pdf:visual:[[67,16]]"
+    },
+    {
+      "id": "366:p1",
+      "kind": "body",
+      "text": "You blaze away at this new species.",
+      "sourceLocation": "pdf:visual:[[67,18]]"
+    },
+    {
+      "id": "366:p2",
+      "kind": "body",
+      "text": "Each of you may get off one shot per rifle at normal range. If the \nshooter succeeds with a DEX roll, they may fire again at point-\nblank range (granting a bonus die). If together you inflict 10 or \nmore points of damage, go to 399. If not, go to 367.",
+      "sourceLocation": "pdf:visual:[[67,20],[67,22],[67,23],[67,25]]"
+    },
+    {
+      "id": "366:p3",
+      "kind": "trace",
+      "text": "(315)",
+      "sourceLocation": "pdf:visual:[[67,26]]"
+    }
+  ]
+}

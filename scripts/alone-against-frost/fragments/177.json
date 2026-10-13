@@ -1,0 +1,30 @@
+{
+  "id": "177",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "177:p0",
+      "kind": "heading",
+      "text": "177",
+      "sourceLocation": "pdf:visual:[[39,60]]"
+    },
+    {
+      "id": "177:p1",
+      "kind": "body",
+      "text": "The students will not understand your action. But you are the \nexpedition leader, and their survival is your responsibility.",
+      "sourceLocation": "pdf:visual:[[39,61],[39,62]]"
+    },
+    {
+      "id": "177:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1–4, go to 106; if the result is 5–6, go \nto 103.",
+      "sourceLocation": "pdf:visual:[[39,63],[39,64]]"
+    },
+    {
+      "id": "177:p3",
+      "kind": "trace",
+      "text": "(102, 176)",
+      "sourceLocation": "pdf:visual:[[39,65]]"
+    }
+  ]
+}

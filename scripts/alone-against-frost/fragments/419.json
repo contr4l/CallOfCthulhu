@@ -1,0 +1,30 @@
+{
+  "id": "419",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "419:p0",
+      "kind": "heading",
+      "text": "419",
+      "sourceLocation": "pdf:visual:[[74,37]]"
+    },
+    {
+      "id": "419:p1",
+      "kind": "body",
+      "text": "The hairy creature takes the piece of food you offer from your \nhands and then moves its brows, indicating fascination. As you \nstare at it, you realize that such a specimen would make your \nscientific reputation, but can you actually shoot this peaceful-\nseeming creature? Is it too close to humanity?",
+      "sourceLocation": "pdf:visual:[[74,38],[74,39],[74,40],[74,41],[74,42]]"
+    },
+    {
+      "id": "419:p2",
+      "kind": "body",
+      "text": "To fire your rifle in the name of science, go to 423. Otherwise, you let \nthe creature step around you and shuffle off into the forest; go to 513.",
+      "sourceLocation": "pdf:visual:[[74,43],[74,44]]"
+    },
+    {
+      "id": "419:p3",
+      "kind": "trace",
+      "text": "(493)",
+      "sourceLocation": "pdf:visual:[[74,45]]"
+    }
+  ]
+}

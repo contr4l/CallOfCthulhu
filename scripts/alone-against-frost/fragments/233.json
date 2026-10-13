@@ -1,0 +1,42 @@
+{
+  "id": "233",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "233:p0",
+      "kind": "heading",
+      "text": "233",
+      "sourceLocation": "pdf:visual:[[47,62]]"
+    },
+    {
+      "id": "233:p1",
+      "kind": "body",
+      "text": "You subsist on the scant provender which you can shoot or \npick up from the forest. Each day’s walk grows harder than \nthe one before.",
+      "sourceLocation": "pdf:visual:[[47,63],[47,64],[47,65]]"
+    },
+    {
+      "id": "233:p2",
+      "kind": "body",
+      "text": "One  night,  on  Bernard’s  watch,  Norman  shakes  you \nawake. His eyes are wide and fearful. “Professor! Sylvia’s gone! \nAnd… Bernard...”",
+      "sourceLocation": "pdf:visual:[[47,66],[47,67],[47,68]]"
+    },
+    {
+      "id": "233:p3",
+      "kind": "body",
+      "text": "Your stomach sinks. Bernard Ebstein’s corpse sprawls by the \nfire. His skull has been shattered; the likely murder weapon, a \nheavy piece of wood, lies discarded beside him. Large tracks in \nthe moist earth lead into the darkness.",
+      "sourceLocation": "pdf:visual:[[47,69],[47,70],[47,71],[47,72]]"
+    },
+    {
+      "id": "233:p4",
+      "kind": "body",
+      "text": "To follow the tracks, go to 128. To give Sylvia up for lost and try to \nsave Norman, go to 279.",
+      "sourceLocation": "pdf:visual:[[47,73],[47,74]]"
+    },
+    {
+      "id": "233:p5",
+      "kind": "trace",
+      "text": "(158)",
+      "sourceLocation": "pdf:visual:[[47,75]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "312",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "312:p0",
+      "kind": "heading",
+      "text": "312",
+      "sourceLocation": "pdf:visual:[[60,34]]"
+    },
+    {
+      "id": "312:p1",
+      "kind": "body",
+      "text": "Norman gives a short, shrill yelp. You only get a glimpse of \nthe thing in the bushes: a giant ape—or ape-man. It must be a \ncreature similar to the one that carried off Sylvia!",
+      "sourceLocation": "pdf:visual:[[60,35],[60,36],[60,37]]"
+    },
+    {
+      "id": "312:p2",
+      "kind": "body",
+      "text": "To follow the creature’s tracks, go to 362. To accept Sylvia is gone \nand  leave  the  lost  valley,  go  to  360. To  swallow  your  grief  for \nSylvia, but keep exploring the area, go to 63.",
+      "sourceLocation": "pdf:visual:[[60,38],[60,39],[60,40]]"
+    },
+    {
+      "id": "312:p3",
+      "kind": "trace",
+      "text": "(290)",
+      "sourceLocation": "pdf:visual:[[60,41]]"
+    },
+    {
+      "id": "312:p4",
+      "kind": "body",
+      "text": "59",
+      "sourceLocation": "pdf:visual:[[60,42]]"
+    }
+  ]
+}

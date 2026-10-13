@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "116"
+  ],
+  "text": [
+    "你查看祭坛侧面用血写下的字符，意识到它们是一种古印度语的冷僻方言。虽然你无法正确翻译，却能按音读出这些字符：“Y’hahyar nog nglui ah, Bokrug。”你念出这些话时，那个穿深色西装的男人看着你，仿佛觉得你彻底疯了。",
+    "直到你周围的浓雾开始迅速消散，水位也停止上涨。那男人瞪大双眼看着你，仿佛你是什么创造奇迹的人——也许你真是如此。虽然你并未完全理解自己做了什么，却不知为何阻止了这里发生的一切。",
+    "约书亚的前手下追问了你一阵，但你向他保证自己和他一样惊讶。最后他与你分别离开。",
+    "接下来的几天里，埃斯伯里的水位退去，渡船最终重新开航。你搭上第一班船离开，急切地想把这个地方和这里发生的怪事抛在身后。尽管你没有解开埃斯伯里事件背后的谜团，却至少暂时阻止了它们。那个带着文物的男人最终会把它们卖掉换快钱，悲剧随后便会在别处重演。只是这一次，不会有人阻止它彻底成形。不过你永远不会知道这一点，这也与你无关。你只需面对这座马萨诸塞州小镇里发生的一切，并将这段记忆永远带在身边。你活了下来；如果愿意，可以在今后的冒险中继续使用这个角色。你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 116",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 116",
+      "text": [
+        "You look over the characters scrawled in blood across the altar’s side. You realize they’re an obscure dialect of ancient Indian origin, and although you cannot translate them properly, you can pronounce the characters phonetically: “Y’hahyar nog nglui ah, Bokrug.” As you recite the words, the dark-suited man looks at you as if you’re completely mad.",
+        "That is until the mist around you begins to swiftly dissipate and the waters stop rising. The man looks at you with wide eyes, like you’re some kind of miracle worker—and perhaps you are. Though you don’t fully understand what it is that you’ve done, you’ve somehow put a stop to what’s going on here.",
+        "Joshua’s former henchman probes you for answers for a while, but you assure him you are just as surprised as he is, and eventually he parts ways with you.",
+        "Over the next few days, the water subsides in Esbury, and eventually the ferry begins operation again. You take the first ride out, eager to leave this place and the strange occurrences behind you. Though you haven’t solved the mystery surrounding the events taking place in Esbury, you have put a stop to them, at least for the time being. The man with the artifacts will eventually sell them off for quick cash, and the tragedy will then repeat itself elsewhere. Only this time, there will be no one to prevent it from fully taking shape. But you will never know this, and it isn’t your concern. You only have to live with what happened in the little Massachusetts town, and you will carry that memory with you forever. You have survived, and may use this character in future adventures, if you so wish. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "492",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "492:p0",
+      "kind": "heading",
+      "text": "492",
+      "sourceLocation": "pdf:visual:[[86,8]]"
+    },
+    {
+      "id": "492:p1",
+      "kind": "body",
+      "text": "You  see  the  conflict  in  Charlie’s  face.  “You  speak  with  great \nlearning,  Professor.  Perhaps  I  was  foolish  to  believe  the  stories \nthe elders tell of the Little Ones.” She clenches her fists. “I am \nrational, like you.”",
+      "sourceLocation": "pdf:visual:[[86,9],[86,10],[86,11],[86,12]]"
+    },
+    {
+      "id": "492:p2",
+      "kind": "body",
+      "text": "Charlie resumes her duties and your party moves on.",
+      "sourceLocation": "pdf:visual:[[86,13]]"
+    },
+    {
+      "id": "492:p3",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 10; if the result is odd, go to 11. ",
+      "sourceLocation": "pdf:visual:[[86,14]]"
+    },
+    {
+      "id": "492:p4",
+      "kind": "trace",
+      "text": "(410)",
+      "sourceLocation": "pdf:visual:[[86,15]]"
+    }
+  ]
+}

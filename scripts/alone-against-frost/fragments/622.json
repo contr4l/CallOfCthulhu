@@ -1,0 +1,30 @@
+{
+  "id": "622",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "622:p0",
+      "kind": "heading",
+      "text": "622",
+      "sourceLocation": "pdf:visual:[[104,62]]"
+    },
+    {
+      "id": "622:p1",
+      "kind": "body",
+      "text": "You  have  been  under  a  lot  of  pressure  on  this  trip.  You \ncannot say what it is about the giant ape-men that shakes \nyou so deeply.",
+      "sourceLocation": "pdf:visual:[[104,63],[104,64],[104,65]]"
+    },
+    {
+      "id": "622:p2",
+      "kind": "body",
+      "text": "Lose  1D6  Sanity.  If  you  remain  sane,  go  to  623.  If  you  suffer \ntemporary insanity, go to 646. If you suffer indefinite insanity, go \nto 364.",
+      "sourceLocation": "pdf:visual:[[104,66],[104,67],[104,68]]"
+    },
+    {
+      "id": "622:p3",
+      "kind": "trace",
+      "text": "(621)",
+      "sourceLocation": "pdf:visual:[[104,69]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "421",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "421:p0",
+      "kind": "heading",
+      "text": "421",
+      "sourceLocation": "pdf:visual:[[75,2]]"
+    },
+    {
+      "id": "421:p1",
+      "kind": "body",
+      "text": "It’s  useless  to  continue  risking  your  life  and  Norman’s. The \nodds are heavily against rescuing Sylvia. Carrying your private \nburdens of regret, you and Norman try to withdraw from the \ncamp the same way you entered it.",
+      "sourceLocation": "pdf:visual:[[75,4],[75,6],[75,7],[75,9]]"
+    },
+    {
+      "id": "421:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll for Norman and yourself: if both of you succeed, \ngo to 528; if either of you fail, go to 390.",
+      "sourceLocation": "pdf:visual:[[75,11],[75,12]]"
+    },
+    {
+      "id": "421:p3",
+      "kind": "trace",
+      "text": "(420)",
+      "sourceLocation": "pdf:visual:[[75,14]]"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "143",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "143:p0",
+      "kind": "heading",
+      "text": "143\n",
+      "sourceLocation": "pdf:spans:[[47,1328,1332]]"
+    },
+    {
+      "id": "143:p1",
+      "kind": "body",
+      "text": "You roll over one another, punching and kicking and kneeing \nand elbowing. You slam your head into his, smashing your \nforehead against his nose, clearly breaking it. He reflexively \ngrabs at his face and drops the gun.\n",
+      "sourceLocation": "pdf:spans:[[47,1332,1393],[47,1393,1451],[47,1451,1515],[47,1515,1552]]"
+    },
+    {
+      "id": "143:p2",
+      "kind": "body",
+      "text": "Without hesitation, you seize the weapon and fire into him, \nknowing he would do the same if the circumstances were \nreversed. The look on Joshua’s face is utter shock as the bullet \npierces his chest.\n",
+      "sourceLocation": "pdf:spans:[[47,1552,1613],[47,1613,1669],[47,1669,1735],[47,1735,1754]]"
+    },
+    {
+      "id": "143:p3",
+      "kind": "body",
+      "text": "The color drains from his face, and his hand weakly grips \nat your clothes. He looks offended that you would dare to kill \nhim. He stares deep into your eyes as he dies, uttering strange \nsounds, the likes of which not even a dying man should make. \nYou fancy that you almost hear words, though you’re sure it’s \nonly your mind playing tricks on you. With his last breath, he \nutters the phrase: “Bokrug ron ‘bthnk n’ghft, ‘ai.”\n",
+      "sourceLocation": "pdf:spans:[[47,1754,1813],[47,1813,1877],[47,1877,1942],[47,1942,2004],[47,2004,2067],[47,2067,2131],[47,2131,2183]]"
+    },
+    {
+      "id": "143:p4",
+      "kind": "body",
+      "text": "His hand goes limp. You push the corpse off you, shuddering \nas you do so. Mustering your courage, you check his pockets \nfor keys and ID, which reveals his place of residence. You could \nmake your way to his house to search for clues, or you could \ncontinue on in search of Amelia.\n",
+      "sourceLocation": "pdf:spans:[[47,2183,2244],[47,2244,2305],[47,2305,2371],[47,2371,2433],[47,2433,2466]]"
+    },
+    {
+      "id": "143:p5",
+      "kind": "body",
+      "text": "• Make a Sanity roll: if you succeed, lose 1 Sanity point; if you fail, \nlose 1D3 Sanity points.\n",
+      "sourceLocation": "pdf:spans:[[47,2468,2541],[47,2541,2565]]"
+    },
+    {
+      "id": "143:p6",
+      "kind": "body",
+      "text": "• To go to Joshua’s house, go to 151.\n",
+      "sourceLocation": "pdf:spans:[[47,2565,2603]]"
+    },
+    {
+      "id": "143:p7",
+      "kind": "body",
+      "text": "• To search for Amelia, go to 136.\n",
+      "sourceLocation": "pdf:spans:[[47,2603,2638]]"
+    },
+    {
+      "id": "143:p8",
+      "kind": "body",
+      "text": "(112)\n",
+      "sourceLocation": "pdf:spans:[[47,2638,2644]]"
+    }
+  ]
+}

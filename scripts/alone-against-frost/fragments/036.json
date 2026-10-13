@@ -1,0 +1,36 @@
+{
+  "id": "36",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "36:p0",
+      "kind": "heading",
+      "text": "36",
+      "sourceLocation": "pdf:visual:[[16,35]]"
+    },
+    {
+      "id": "36:p1",
+      "kind": "body",
+      "text": "A white man in a checkered coat is sprawled under a bush. \nBlood spills from his mouth. He looks like he is at the point \nof death.",
+      "sourceLocation": "pdf:visual:[[16,36],[16,37],[16,38]]"
+    },
+    {
+      "id": "36:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 37; if the result is odd, go to \n497.",
+      "sourceLocation": "pdf:visual:[[16,39],[16,40]]"
+    },
+    {
+      "id": "36:p3",
+      "kind": "trace",
+      "text": "(18)",
+      "sourceLocation": "pdf:visual:[[16,41]]"
+    },
+    {
+      "id": "36:p4",
+      "kind": "body",
+      "text": "15",
+      "sourceLocation": "pdf:visual:[[16,42]]"
+    }
+  ]
+}

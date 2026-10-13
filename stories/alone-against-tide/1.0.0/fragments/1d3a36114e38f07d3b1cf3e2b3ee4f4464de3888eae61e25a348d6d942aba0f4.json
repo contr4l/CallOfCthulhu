@@ -1,0 +1,35 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "85"
+  ],
+  "text": [
+    "你放下武器，放柔声音，安慰她说自己无意伤害她，只是被这场逮捕企图吓了一跳。你保证不会伤害她。",
+    "你说话时她一直哭，不过最后哭声渐渐平息，只剩抽泣。她终于点点头，接受了你的解释，甚至向你道歉。",
+    "“对不起。我从没想让这些事发生。约书亚派那个警察来抓你。他在警察局里有人。乔什在埃斯伯里经营私酒生意，他让鲍威尔分一杯羹，换取鲍威尔睁一只眼闭一只眼，还帮他把一切看牢。”",
+    "她拿出手帕擦干眼泪。“乔什保护我。他爱我。他爱我已经有一阵子了……”",
+    "你继续追问她和丈夫的关系，以及这与她丈夫的死有何关联。她茫然地望着你，深吸一口气。“乔什和我亲密交往已经好几年了。威廉是个好人，只要他不一门心思扑在工作上。他有时一走就是很久，又把那么多心思花在书上……我也有需求。我这个年纪的女人不该被冷落。我是通过他的威士忌生意认识乔什的。他给全镇人走私酒。后来事情就一步步发展成那样……”她笑了笑，擦去最后几滴眼泪。",
+    "“即使有威廉在，我们也过得很快乐。不过最近，乔什一直坚持要把他从我们中间除掉，这样我们就能在一起。我不喜欢这个主意，但还是答应了。我让乔什去处理。我只想让这事过去，然后和他在一起。我告诉他，我想卖掉所有东西离开镇子，只要我们两个人一起走。我想那是我第一次看见他发怒。他从没说为什么。”",
+    "她低头看着自己的双手，试图避开你的目光。“你不用担心任何事。我们一有机会就会离开镇子。我建议你也这么做。”她看向倒在地板上、不省人事的鲍威尔。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 85",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 85",
+      "text": [
+        "You lower your weapon and adopt a soft tone of voice, reassuring her that you mean her no harm, that you were simply startled by the attempted arrest. You promise not to hurt her.",
+        "She cries throughout your speech, but eventually the waterworks slow to a sniffle. Finally, she nods and accepts your explanation, and even apologizes to you.",
+        "“I’m sorry. I never meant for any of this. Joshua sent that policeman after you. He has the law in his pocket. Josh runs the bootlegging in Esbury, and he cuts Powell in on the profits in exchange for looking the other way and helping keep everything secure.”",
+        "She produces a handkerchief and dries her eyes. “Josh protects me. He loves me. He has for quite some time…”",
+        "You press further, inquiring about the nature of their relationship, and how this relates to her husband’s death. She stares back at you blankly and takes a deep breath. “Josh and I have been intimate for a few years. My husband was a good man, when he wasn’t obsessing over his work. But he was sometimes away for so long, and paid so much attention to his books… I have needs. A woman my age shouldn’t be neglected. I met Josh through his whiskey business. He bootlegs for the whole town. One thing led to another and…” She smiles, dabbing at the last of the tears.",
+        "“We were happy, even with William around. Recently though, Josh has been insistent that we get him out of the picture so that we could be together. I didn’t like it, but I agreed. I let Josh take care of it. I just wanted it to be behind us and for us to be together. I told him I wanted to sell everything and leave town. Just the two of us. I think that was the first time I saw him angry. He never said why.”",
+        "She looks down at her hands, trying to avoid your gaze. “You don’t have to worry about anything. We’ll leave town just as soon as we can. I suggest you do the same.” She looks at Powell’s unconscious body lying on the floor."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "47",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "47:p0",
+      "kind": "heading",
+      "text": "47\n",
+      "sourceLocation": "pdf:spans:[[21,3641,3644]]"
+    },
+    {
+      "id": "47:p1",
+      "kind": "body",
+      "text": "You hear a muffled exchange of words through the door, and \nwithin moments, Officer Powell emerges into the room with \nAmelia in tow. Powell’s thick brow knits together in anger and \nhis voice conveys a serious weight. His eyes bore into you. You \nglance down and notice his revolver is drawn and aimed at you. \n“You’re under arrest for trespassing. You’ve no business being here. \nYou’re going to come with me. Now.”\n",
+      "sourceLocation": "pdf:spans:[[21,3644,3704],[21,3704,3763],[21,3763,3827],[21,3827,3892],[21,3892,3956],[21,3956,4026],[21,4026,4062]]"
+    },
+    {
+      "id": "47:p2",
+      "kind": "body",
+      "text": "He doesn’t seem to be in a talking mood. It would be unwise \nto refuse, given the firearm aimed directly at you. Still, it might \nbe better to take your chances now than to rot in a cell.\n",
+      "sourceLocation": "pdf:spans:[[21,4062,4123],[21,4123,4192],[21,4192,4250]]"
+    },
+    {
+      "id": "47:p3",
+      "kind": "body",
+      "text": "• To go quietly, go to 65.\n",
+      "sourceLocation": "pdf:spans:[[21,4250,4277]]"
+    },
+    {
+      "id": "47:p4",
+      "kind": "body",
+      "text": "• To attempt an escape, make a Hard Fighting (Brawl) roll (success \nonly at equal to or below half of the skill’s value): if you succeed, go \nto 76; If you fail, go to 82.\n",
+      "sourceLocation": "pdf:spans:[[21,4277,4345],[21,4345,4419],[21,4419,4449]]"
+    },
+    {
+      "id": "47:p5",
+      "kind": "body",
+      "text": "(31, 126)",
+      "sourceLocation": "pdf:spans:[[21,4449,4458]]"
+    }
+  ]
+}

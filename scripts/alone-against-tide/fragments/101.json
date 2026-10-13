@@ -1,0 +1,42 @@
+{
+  "id": "101",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "101:p0",
+      "kind": "heading",
+      "text": "101\n",
+      "sourceLocation": "pdf:spans:[[35,44,48]]"
+    },
+    {
+      "id": "101:p1",
+      "kind": "body",
+      "text": "You try to convince the officer that you have a particularly good \nreason for needing access to the file, but he simply doesn’t care. \n“Scram, stranger, you’re ruining my smoke. If you want to dig at the \ndead guy, go bother his widow. Her place is over on the north side of \ntown, right next to the church. Can’t damn well miss it.”\n",
+      "sourceLocation": "pdf:spans:[[35,48,115],[35,115,183],[35,183,253],[35,253,324],[35,324,382]]"
+    },
+    {
+      "id": "101:p2",
+      "kind": "body",
+      "text": "Officer Powell will be of no more help at this time.\n",
+      "sourceLocation": "pdf:spans:[[35,382,435]]"
+    },
+    {
+      "id": "101:p3",
+      "kind": "body",
+      "text": "• To go find the Harris house, go to 90.\n",
+      "sourceLocation": "pdf:spans:[[35,435,476]]"
+    },
+    {
+      "id": "101:p4",
+      "kind": "body",
+      "text": "• To return to the hotel, go to 122.\n",
+      "sourceLocation": "pdf:spans:[[35,476,513]]"
+    },
+    {
+      "id": "101:p5",
+      "kind": "body",
+      "text": "(11)\n",
+      "sourceLocation": "pdf:spans:[[35,513,518]]"
+    }
+  ]
+}

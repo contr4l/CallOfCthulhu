@@ -1,0 +1,54 @@
+{
+  "id": "213",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "213:p0",
+      "kind": "heading",
+      "text": "213\n",
+      "sourceLocation": "pdf:spans:[[68,2804,2808]]"
+    },
+    {
+      "id": "213:p1",
+      "kind": "body",
+      "text": "You quickly reach for the firearm at your side. You point the gun \nin the thing’s general direction, pull the trigger, and fire. The \nsound of the gunshot overwhelms the silence of the night air. \nPresumably, the bullet strikes the creature, as its grip slackens \nand you hear a distinct splash as it tumbles to the ground.\n",
+      "sourceLocation": "pdf:spans:[[68,2808,2875],[68,2875,2942],[68,2942,3005],[68,3005,3072],[68,3072,3132]]"
+    },
+    {
+      "id": "213:p2",
+      "kind": "body",
+      "text": "You turn to flee but find yourself face-to-face with the \nbulging eyes and flabby face of a strange, green, vaguely \nhumanoid monstrosity. On impulse, you fire and the thing goes \ntumbling backward into the water as well.\n",
+      "sourceLocation": "pdf:spans:[[68,3132,3190],[68,3190,3249],[68,3249,3312],[68,3312,3354]]"
+    },
+    {
+      "id": "213:p3",
+      "kind": "body",
+      "text": "No sooner does it fall into the rising flood than another hand \ngrips you, this time by the shoulder, as another gropes for your \nleg. You empty two more rounds into the mist. The hands go \nslack once more, and you are freed for a brief moment.\n",
+      "sourceLocation": "pdf:spans:[[68,3354,3418],[68,3418,3484],[68,3484,3544],[68,3544,3599]]"
+    },
+    {
+      "id": "213:p4",
+      "kind": "body",
+      "text": "You direct your attention about you. In every direction, \nyou see a figure in the mist. You hastily reload your weapon \nand begin firing, hoping to carve out a safe passage with your \ngunfire.\n",
+      "sourceLocation": "pdf:spans:[[68,3599,3657],[68,3657,3719],[68,3719,3783],[68,3783,3792]]"
+    },
+    {
+      "id": "213:p5",
+      "kind": "body",
+      "text": "You manage to bring down several of the creatures in a hail \nof gunfire while the water continues to rise rapidly around you. \nYou spend your last bullet, then try to make a run for it, using \nthe gun as a makeshift club as you attempt to force you way out.\n",
+      "sourceLocation": "pdf:spans:[[68,3792,3853],[68,3853,3919],[68,3919,3985],[68,3985,4050]]"
+    },
+    {
+      "id": "213:p6",
+      "kind": "body",
+      "text": "Unfortunately, the creatures overwhelm you. You are dragged \ndown, held under the water, and claimed by the rising flood.\nYou have died. You fought valiantly and took many of the strange \nhorrors to the grave with you, but this was not enough to save yourself \nor the town. Your visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[68,4050,4111],[68,4111,4172],[68,4174,4240],[68,4240,4313],[68,4313,4366]]"
+    },
+    {
+      "id": "213:p7",
+      "kind": "body",
+      "text": "(191)",
+      "sourceLocation": "pdf:spans:[[68,4366,4371]]"
+    }
+  ]
+}

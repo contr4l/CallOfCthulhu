@@ -1,0 +1,30 @@
+{
+  "id": "320",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "320:p0",
+      "kind": "heading",
+      "text": "320",
+      "sourceLocation": "pdf:visual:[[62,1]]"
+    },
+    {
+      "id": "320:p1",
+      "kind": "body",
+      "text": "Your  blood  runs  cold  as  you  spot  the  fungoid  abomination \ngliding through the air overhead. Around you, the beasts panic \nand begin to move.",
+      "sourceLocation": "pdf:visual:[[62,2],[62,3],[62,4]]"
+    },
+    {
+      "id": "320:p2",
+      "kind": "body",
+      "text": "Gain 1 point of Cthulhu Mythos. Go to 321.",
+      "sourceLocation": "pdf:visual:[[62,5]]"
+    },
+    {
+      "id": "320:p3",
+      "kind": "trace",
+      "text": "(318)",
+      "sourceLocation": "pdf:visual:[[62,6]]"
+    }
+  ]
+}

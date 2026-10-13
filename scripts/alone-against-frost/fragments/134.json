@@ -1,0 +1,30 @@
+{
+  "id": "134",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "134:p0",
+      "kind": "heading",
+      "text": "134",
+      "sourceLocation": "pdf:visual:[[32,7]]"
+    },
+    {
+      "id": "134:p1",
+      "kind": "body",
+      "text": "You leap from cover and scream like a demented banshee. The \nmen whirl, their strange mouths dropping open in surprise.",
+      "sourceLocation": "pdf:visual:[[32,8],[32,9]]"
+    },
+    {
+      "id": "134:p2",
+      "kind": "body",
+      "text": "Make a Hard POW roll: if you succeed, go to 200; if you fail, go to 201.",
+      "sourceLocation": "pdf:visual:[[32,10]]"
+    },
+    {
+      "id": "134:p3",
+      "kind": "trace",
+      "text": "(86)",
+      "sourceLocation": "pdf:visual:[[32,11]]"
+    }
+  ]
+}

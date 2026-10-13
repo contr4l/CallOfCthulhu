@@ -1,0 +1,36 @@
+{
+  "id": "114",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "114:p0",
+      "kind": "heading",
+      "text": "114",
+      "sourceLocation": "pdf:visual:[[29,31]]"
+    },
+    {
+      "id": "114:p1",
+      "kind": "body",
+      "text": "The sight is incredible. Several human-sized, pinkish crustaceans \nare working mechanical equipment, sweeping the rocks of the \nstream. The  creatures  must  be  intelligent,  though  they  look \nugly even for seafood. Fungoid growths bedeck their bodies. \nTheir buzzing is audible over the hum of the mineral-gathering \nmachines. You came to this place looking for unknown races \nand have been rewarded beyond your wildest dreams!",
+      "sourceLocation": "pdf:visual:[[29,32],[29,33],[29,34],[29,35],[29,36],[29,37],[29,38]]"
+    },
+    {
+      "id": "114:p2",
+      "kind": "body",
+      "text": "You watch them until your companions get restive. You must \ndecide what to do next.",
+      "sourceLocation": "pdf:visual:[[29,39],[29,40]]"
+    },
+    {
+      "id": "114:p3",
+      "kind": "body",
+      "text": "Gain 2 points of Cthulhu Mythos. To stand up and greet the alien \nthings, go to 252. If you want to avoid contact, make a Stealth roll; \nif you succeed, go to 159; if you fail, go to 115.",
+      "sourceLocation": "pdf:visual:[[29,41],[29,42],[29,43]]"
+    },
+    {
+      "id": "114:p4",
+      "kind": "trace",
+      "text": "(65)",
+      "sourceLocation": "pdf:visual:[[29,44]]"
+    }
+  ]
+}

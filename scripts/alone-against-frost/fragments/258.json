@@ -1,0 +1,36 @@
+{
+  "id": "258",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "258:p0",
+      "kind": "heading",
+      "text": "258",
+      "sourceLocation": "pdf:visual:[[51,49]]"
+    },
+    {
+      "id": "258:p1",
+      "kind": "body",
+      "text": "Long into the hours of darkness, your hapless party struggles \nagainst the cunning knots of the Keywanema. About midnight, \nas the moon stares down like an eye behind a misty cataract, the \nbeasts of the forest draw close. You remind the students that \nwild animal attacks upon humans are rarely reported.",
+      "sourceLocation": "pdf:visual:[[51,50],[51,51],[51,52],[51,53],[51,54]]"
+    },
+    {
+      "id": "258:p2",
+      "kind": "body",
+      "text": "No one will hear of this attack either.",
+      "sourceLocation": "pdf:visual:[[51,55]]"
+    },
+    {
+      "id": "258:p3",
+      "kind": "body",
+      "text": "The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[51,56]]"
+    },
+    {
+      "id": "258:p4",
+      "kind": "trace",
+      "text": "(257, 563)",
+      "sourceLocation": "pdf:visual:[[51,57]]"
+    }
+  ]
+}

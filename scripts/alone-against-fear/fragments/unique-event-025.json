@@ -1,0 +1,69 @@
+{
+  "id": "unique-event-025",
+  "paragraphs": [
+    {
+      "id": "unique-event-025:p0000",
+      "kind": "body",
+      "text": " #25 - The bloodthirsty blade.\n",
+      "sourceLocation": "pdf:spans:[[86,1745,1776]]"
+    },
+    {
+      "id": "unique-event-025:p0001",
+      "kind": "body",
+      "text": "The blade is cursed. You may not\n",
+      "sourceLocation": "pdf:spans:[[86,1776,1809]]"
+    },
+    {
+      "id": "unique-event-025:p0002",
+      "kind": "body",
+      "text": "get rid of it until you find a ritual or\n",
+      "sourceLocation": "pdf:spans:[[86,1809,1850]]"
+    },
+    {
+      "id": "unique-event-025:p0003",
+      "kind": "body",
+      "text": "an artifact that lets you remove a\n",
+      "sourceLocation": "pdf:spans:[[86,1850,1885]]"
+    },
+    {
+      "id": "unique-event-025:p0004",
+      "kind": "body",
+      "text": "curse. The blade lets you attack at\n",
+      "sourceLocation": "pdf:spans:[[86,1885,1921]]"
+    },
+    {
+      "id": "unique-event-025:p0005",
+      "kind": "body",
+      "text": "+1 but you may not discard it in\n",
+      "sourceLocation": "pdf:spans:[[86,1921,1954]]"
+    },
+    {
+      "id": "unique-event-025:p0006",
+      "kind": "body",
+      "text": "favor of other weapons. You may",
+      "sourceLocation": "pdf:spans:[[86,1954,1985]]"
+    },
+    {
+      "id": "unique-event-025:p0007",
+      "kind": "body",
+      "text": "not perform ranged attacks (not\n",
+      "sourceLocation": "pdf:spans:[[87,22,54]]"
+    },
+    {
+      "id": "unique-event-025:p0008",
+      "kind": "body",
+      "text": "even throwing the knife) until you\n",
+      "sourceLocation": "pdf:spans:[[87,54,89]]"
+    },
+    {
+      "id": "unique-event-025:p0009",
+      "kind": "body",
+      "text": "hold the knife.\n",
+      "sourceLocation": "pdf:spans:[[87,89,105]]"
+    }
+  ],
+  "sourcePages": [
+    86,
+    87
+  ]
+}

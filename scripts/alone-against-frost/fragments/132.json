@@ -1,0 +1,30 @@
+{
+  "id": "132",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "132:p0",
+      "kind": "heading",
+      "text": "132",
+      "sourceLocation": "pdf:visual:[[31,69]]"
+    },
+    {
+      "id": "132:p1",
+      "kind": "body",
+      "text": "The  worst  fear  of  the  northern  wayfarer  has  befallen  your \ngroup—hunger. You do your best to forage for food, but the \npickings are scant when it comes to filling three bellies.",
+      "sourceLocation": "pdf:visual:[[31,70],[31,71],[31,72]]"
+    },
+    {
+      "id": "132:p2",
+      "kind": "body",
+      "text": "Make a Survival (Woodland) roll: if you succeed, go to 54; if you \nfail, go to 197.",
+      "sourceLocation": "pdf:visual:[[31,73],[31,74]]"
+    },
+    {
+      "id": "132:p3",
+      "kind": "trace",
+      "text": "(55, 324)",
+      "sourceLocation": "pdf:visual:[[31,75]]"
+    }
+  ]
+}

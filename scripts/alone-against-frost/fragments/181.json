@@ -1,0 +1,30 @@
+{
+  "id": "181",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "181:p0",
+      "kind": "heading",
+      "text": "181",
+      "sourceLocation": "pdf:visual:[[40,1]]"
+    },
+    {
+      "id": "181:p1",
+      "kind": "body",
+      "text": "Despite efforts to help, the sufferer’s infection spreads from his \nfoot wounds; his legs turn gangrenous. Soon his wasted body \ngives up the ghost and you lay him in a forest grave.",
+      "sourceLocation": "pdf:visual:[[40,2],[40,3],[40,4]]"
+    },
+    {
+      "id": "181:p2",
+      "kind": "body",
+      "text": "To go home, go to 76. To continue your exploration, go to 75.",
+      "sourceLocation": "pdf:visual:[[40,5]]"
+    },
+    {
+      "id": "181:p3",
+      "kind": "trace",
+      "text": "(180, 193)",
+      "sourceLocation": "pdf:visual:[[40,6]]"
+    }
+  ]
+}

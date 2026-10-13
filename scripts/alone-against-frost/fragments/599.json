@@ -1,0 +1,36 @@
+{
+  "id": "599",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "599:p0",
+      "kind": "heading",
+      "text": "599",
+      "sourceLocation": "pdf:visual:[[101,40]]"
+    },
+    {
+      "id": "599:p1",
+      "kind": "body",
+      "text": "Your  threat  impressed  Charlie.  Rather  than  end  up  with \nnothing for her efforts, she sneaks off that night during her \nwatch, taking the canoe and a share of the supplies as payment. \nNorman and Sylvia cannot meet your eyes for a few hours.",
+      "sourceLocation": "pdf:visual:[[101,41],[101,42],[101,43],[101,44]]"
+    },
+    {
+      "id": "599:p2",
+      "kind": "body",
+      "text": "To  start  back  upriver  with  your  students,  go  to  600. To  take  a \ncircuitous route back toward the fort, keeping an eye out for new \ndiscoveries, go to 324. To head directly to the fort, go to 593.",
+      "sourceLocation": "pdf:visual:[[101,45],[101,46],[101,47]]"
+    },
+    {
+      "id": "599:p3",
+      "kind": "trace",
+      "text": "(598)",
+      "sourceLocation": "pdf:visual:[[101,48]]"
+    },
+    {
+      "id": "599:p4",
+      "kind": "body",
+      "text": "100",
+      "sourceLocation": "pdf:visual:[[101,49]]"
+    }
+  ]
+}

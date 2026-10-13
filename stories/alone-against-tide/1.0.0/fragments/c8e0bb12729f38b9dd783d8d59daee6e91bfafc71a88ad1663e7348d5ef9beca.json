@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "132-death",
+    "132-wounded",
+    "132"
+  ],
+  "text": [
+    "你赶紧扑倒在地，试图躲开射击路线。你听见枪声巨响，子弹嵌进你身后的墙里。",
+    "你听见阿米莉娅尖叫着追上约书亚，哀求他别再开枪，把枪收起来。他咒骂一声，把她推到一边，但还是把枪放回枪套。",
+    "他从她身边冲过，上楼时你也正好踉跄着站起来。他挥拳朝你打来。情况并不理想，但至少他收起了枪，你还有一线胜算。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 132",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 132",
+      "text": [
+        "You throw yourself to the floor with all haste, trying to get out of the line of fire. You hear the loud sound of the gunshot as a bullet embeds itself in the wall behind you.",
+        "You hear a squeal as Amelia comes running after Joshua, begging him to stop shooting and put the gun away. He curses and shoves her aside, but he does holster his weapon.",
+        "He rushes past her and up the stairs, just as you manage to stumble to your feet. He comes at you, swinging his fist. It’s not ideal, but at least with the gun put away, you have a fighting chance."
+      ]
+    }
+  }
+}

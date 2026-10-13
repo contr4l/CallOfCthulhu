@@ -1,0 +1,249 @@
+{
+  "reusedParagraphs": 1598,
+  "transferredParagraphs": [
+    {
+      "from": "34:p7",
+      "to": "36:p3"
+    },
+    {
+      "from": "34:p8",
+      "to": "36:p4"
+    },
+    {
+      "from": "34:p9",
+      "to": "36:p5"
+    },
+    {
+      "from": "83:p6",
+      "to": "83:p7"
+    },
+    {
+      "from": "83:p7",
+      "to": "83:p8"
+    },
+    {
+      "from": "83:p8",
+      "to": "83:p9"
+    },
+    {
+      "from": "83:p9",
+      "to": "83:p10"
+    },
+    {
+      "from": "123:p11",
+      "to": "125:p3"
+    },
+    {
+      "from": "123:p12",
+      "to": "125:p4"
+    },
+    {
+      "from": "123:p13",
+      "to": "125:p5"
+    },
+    {
+      "from": "125:p3",
+      "to": "126:p3"
+    },
+    {
+      "from": "125:p4",
+      "to": "126:p4"
+    },
+    {
+      "from": "125:p5",
+      "to": "126:p5"
+    },
+    {
+      "from": "125:p6",
+      "to": "126:p6"
+    },
+    {
+      "from": "163:p3",
+      "to": "163:p4"
+    },
+    {
+      "from": "163:p4",
+      "to": "163:p5"
+    },
+    {
+      "from": "170:p4",
+      "to": "170:p5"
+    },
+    {
+      "from": "170:p5",
+      "to": "170:p6"
+    },
+    {
+      "from": "171:p4",
+      "to": "171:p5"
+    },
+    {
+      "from": "171:p5",
+      "to": "171:p6"
+    },
+    {
+      "from": "171:p6",
+      "to": "171:p7"
+    },
+    {
+      "from": "171:p7",
+      "to": "171:p8"
+    },
+    {
+      "from": "186:p2",
+      "to": "186:p3"
+    },
+    {
+      "from": "186:p3",
+      "to": "186:p4"
+    },
+    {
+      "from": "186:p4",
+      "to": "186:p5"
+    },
+    {
+      "from": "186:p5",
+      "to": "186:p6"
+    },
+    {
+      "from": "186:p6",
+      "to": "186:p7"
+    },
+    {
+      "from": "186:p7",
+      "to": "186:p8"
+    },
+    {
+      "from": "208:p2",
+      "to": "208:p3"
+    },
+    {
+      "from": "208:p3",
+      "to": "208:p4"
+    },
+    {
+      "from": "208:p4",
+      "to": "208:p5"
+    },
+    {
+      "from": "208:p5",
+      "to": "208:p6"
+    }
+  ],
+  "retranslationNeeded": [
+    {
+      "id": "36",
+      "paragraphs": [
+        {
+          "paragraphId": "36:p2",
+          "previousParagraphs": [
+            "36:p2",
+            "34:p6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "paragraphs": [
+        {
+          "paragraphId": "83:p5",
+          "previousParagraphs": [
+            "83:p5"
+          ]
+        },
+        {
+          "paragraphId": "83:p6",
+          "previousParagraphs": [
+            "83:p5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "paragraphs": [
+        {
+          "paragraphId": "163:p2",
+          "previousParagraphs": [
+            "163:p2"
+          ]
+        },
+        {
+          "paragraphId": "163:p3",
+          "previousParagraphs": [
+            "163:p2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "paragraphs": [
+        {
+          "paragraphId": "170:p3",
+          "previousParagraphs": [
+            "170:p3"
+          ]
+        },
+        {
+          "paragraphId": "170:p4",
+          "previousParagraphs": [
+            "170:p3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "paragraphs": [
+        {
+          "paragraphId": "171:p3",
+          "previousParagraphs": [
+            "171:p3"
+          ]
+        },
+        {
+          "paragraphId": "171:p4",
+          "previousParagraphs": [
+            "171:p3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "186",
+      "paragraphs": [
+        {
+          "paragraphId": "186:p1",
+          "previousParagraphs": [
+            "186:p1"
+          ]
+        },
+        {
+          "paragraphId": "186:p2",
+          "previousParagraphs": [
+            "186:p1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "208",
+      "paragraphs": [
+        {
+          "paragraphId": "208:p1",
+          "previousParagraphs": [
+            "208:p1"
+          ]
+        },
+        {
+          "paragraphId": "208:p2",
+          "previousParagraphs": [
+            "208:p1"
+          ]
+        }
+      ]
+    }
+  ]
+}

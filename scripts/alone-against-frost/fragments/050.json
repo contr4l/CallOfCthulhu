@@ -1,0 +1,54 @@
+{
+  "id": "50",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "50:p0",
+      "kind": "heading",
+      "text": "50",
+      "sourceLocation": "pdf:visual:[[19,51]]"
+    },
+    {
+      "id": "50:p1",
+      "kind": "body",
+      "text": "Charlie  volunteers  to  explore  the  rear  passages  of  the  cave \nand asks Bernard to go with her. Meanwhile, you, Norman, \nand Sylvia put together a rustic camp in the forward section \nof the cavern.",
+      "sourceLocation": "pdf:visual:[[19,52],[19,53],[19,54],[19,55]]"
+    },
+    {
+      "id": "50:p2",
+      "kind": "body",
+      "text": "Building a shelter helps the students relax, and you look up \nin pleasure when you hear Norman laugh at some joke made \nby Sylvia. Their lighthearted banter is cut short when howls of \nterror echo from deep within the caves.",
+      "sourceLocation": "pdf:visual:[[19,56],[19,57],[19,58],[19,59]]"
+    },
+    {
+      "id": "50:p3",
+      "kind": "body",
+      "text": "With weapons ready and torches in hand, the three of you \nfollow a route carefully marked by Charlie. The rocks underfoot \nturn slick and you discover a permanently frozen ice cavern, \nthe ice resembling flowstones and stalactites. Within, you see \na litter of wild caribou bones glittering with crystal hoarfrost. \nDozens of animals perished here. The idea is unsettling.",
+      "sourceLocation": "pdf:visual:[[19,60],[19,61],[19,62],[19,63],[19,64],[19,65]]"
+    },
+    {
+      "id": "50:p4",
+      "kind": "body",
+      "text": "Beyond  the  bones  lies  a  terrible  sight.  Bernard  Ebstein \nsprawls across a pile of bones, a small dart protruding from his \nshoulder. A quick inspection shows that he is dead. You remove \nthe dart. It ends in a small flint arrowhead, like the kind used \nto hunt birds back in the day. It is so small, and the wound \nso shallow, it couldn’t have killed him unless it was poisoned. \nThere is no sign of Charlie.",
+      "sourceLocation": "pdf:visual:[[19,66],[19,67],[19,68],[19,69],[19,70],[19,71],[19,72]]"
+    },
+    {
+      "id": "50:p5",
+      "kind": "body",
+      "text": "Norman  and  Sylvia  are  speechless  with  shock.  It  feels \nlike defeat to turn back, but can you risk the lives of your \nremaining students?",
+      "sourceLocation": "pdf:visual:[[19,73],[19,74],[19,75]]"
+    },
+    {
+      "id": "50:p6",
+      "kind": "body",
+      "text": "To continue the expedition, go to 75. To return to civilization, go \nto 324.",
+      "sourceLocation": "pdf:visual:[[19,76],[19,77]]"
+    },
+    {
+      "id": "50:p7",
+      "kind": "trace",
+      "text": "(31)",
+      "sourceLocation": "pdf:visual:[[19,78]]"
+    }
+  ]
+}

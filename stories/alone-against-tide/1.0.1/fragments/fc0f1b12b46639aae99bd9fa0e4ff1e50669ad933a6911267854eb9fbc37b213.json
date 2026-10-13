@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "31-stealth",
+    "31"
+  ],
+  "text": [
+    "你同情地点点头。这女人显然不愿谈论亡夫，换作谁也会想把这段往事抛在身后。你停顿片刻，试着斟酌措辞，让接下来的问题听起来体贴些。",
+    "你刚张口，门外突然传来一阵响亮的敲门声。阿米莉娅吓了一跳，猛地站起来。她困惑地站了一会儿，门外又响起砰砰的敲击声。“警察！开门！”阿米莉娅的脸色顿时煞白，走去应门。",
+    "你的直觉告诉你，这里有些不对劲。你对门外的警官感到不安。你告诉自己这只是疑神疑鬼、神经过敏，但仍难以摆脱这种感觉。你还有片刻时间可以反应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 31",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 31",
+      "text": [
+        "You nod sympathetically. This woman is clearly uncomfortable talking about her deceased husband, and anyone would want to put that behind them. You pause for a moment, trying to frame your next question with a measure of sensitivity.",
+        "You open your mouth to speak, but you are interrupted by a loud knock at the door. Amelia jumps up, startled, and stands there for a moment in confusion as the pounding on the door resumes. “Police! Open the door!” Amelia’s face drains white as she goes to answer the knock.",
+        "Your gut tells you something is wrong here. You feel uneasy about the officer at the door. You tell yourself you’re being irrational and on edge, but you have some trouble fighting that feeling. You have a few precious moments to react."
+      ]
+    }
+  }
+}

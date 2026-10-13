@@ -1,0 +1,42 @@
+{
+  "id": "153",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "153:p0",
+      "kind": "heading",
+      "text": "153",
+      "sourceLocation": "pdf:visual:[[35,39]]"
+    },
+    {
+      "id": "153:p1",
+      "kind": "body",
+      "text": "The four of you hurl yourselves into the woods. “Wait!” you cry. \n“We’ve got to find out what happened to Bernard!”",
+      "sourceLocation": "pdf:visual:[[35,40],[35,41]]"
+    },
+    {
+      "id": "153:p2",
+      "kind": "body",
+      "text": "Charlie  rounds  on  you.  “You speak madness! My  people  tell \nstories  of  the  Fishers-From-Afar  and  their  terrible  magic.  They \npunish those who spy upon them.”",
+      "sourceLocation": "pdf:visual:[[35,42],[35,43],[35,44]]"
+    },
+    {
+      "id": "153:p3",
+      "kind": "body",
+      "text": "To insist upon circling back to help Bernard, go to 154. To agree \nwith Charlie, go to 155. ",
+      "sourceLocation": "pdf:visual:[[35,45],[35,46]]"
+    },
+    {
+      "id": "153:p4",
+      "kind": "trace",
+      "text": "(149)",
+      "sourceLocation": "pdf:visual:[[35,47]]"
+    },
+    {
+      "id": "153:p5",
+      "kind": "body",
+      "text": "34",
+      "sourceLocation": "pdf:visual:[[35,48]]"
+    }
+  ]
+}

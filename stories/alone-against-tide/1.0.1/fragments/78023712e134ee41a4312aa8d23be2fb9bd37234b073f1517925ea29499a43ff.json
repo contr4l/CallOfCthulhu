@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "76-intimidate",
+    "76-persuade",
+    "76"
+  ],
+  "text": [
+    "鲍威尔警官身材高大，且带着武器。他经验丰富，懂得如何对付拒捕的人；他脸上的伤疤也说明他经历过不少打斗。",
+    "尽管如此，你还是不愿被捕。这是危险而绝望的一搏，但你只需要打中一次——狠狠一击就能把他打倒。",
+    "你绷紧身体挥拳，全身重量都压在这一拳上。枪声响起，子弹在你身后的墙上打出一个洞；鲍威尔本能地抬手试图挡住这一击，却没能及时拦住你。你重重击中他的头侧，他随即摔倒在地。",
+    "阿米莉娅惊恐地尖叫起来，看着警察倒下。你迅速捡起他的左轮手枪，把它拿在手里武装自己。她缩在角落里，脸色煞白，你转头看向她。",
+    "暂时摆脱了被捕的威胁，你有充足时间继续调查。手里有了武器，也多了几个选择。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 76",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 76",
+      "text": [
+        "Officer Powell is a large man, and armed. He is experienced in dealing with people resisting arrest and the scars on his face hint that he’s seen his fair share of fights.",
+        "Still, you’re not willing to be arrested. It’s a dangerous and desperate move, but all you need is one good hit—one solid blow to lay him out.",
+        "You tense up and swing, throwing all of your weight behind your punch. The gun goes off, blowing a hole in the wall behind you as Powell reflexively tries to block the blow with his hands. He’s not quick enough to stop you. A heavy thump on the side of the head sends him crashing to the floor.",
+        "Amelia shrieks in fright and surprise as the lawman collapses. You quickly scoop up his revolver and arm yourself with it. You turn your gaze on her as she cowers in the corner, her face drained of all color.",
+        "With the threat of arrest removed for the moment, you have ample opportunity to continue your investigation. Being suitably armed opens up a few more options as well."
+      ]
+    }
+  }
+}

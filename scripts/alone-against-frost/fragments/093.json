@@ -1,0 +1,36 @@
+{
+  "id": "93",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "93:p0",
+      "kind": "heading",
+      "text": "93",
+      "sourceLocation": "pdf:visual:[[26,29]]"
+    },
+    {
+      "id": "93:p1",
+      "kind": "body",
+      "text": "You hear Sylvia gasp behind you, and turn to see her swept off \nthe ledge, into the center of the churning stream. You have only \na moment to make a life-or-death decision.",
+      "sourceLocation": "pdf:visual:[[26,30],[26,31],[26,32]]"
+    },
+    {
+      "id": "93:p2",
+      "kind": "body",
+      "text": "To plunge in and attempt rescue, make a combined STR and Swim \nroll. If you succeed at both skills, go to 533. If you fail at either, go to \n536. To remain on the ledge instead, go to 534.",
+      "sourceLocation": "pdf:visual:[[26,33],[26,34],[26,35]]"
+    },
+    {
+      "id": "93:p3",
+      "kind": "trace",
+      "text": "(125)",
+      "sourceLocation": "pdf:visual:[[26,36]]"
+    },
+    {
+      "id": "93:p4",
+      "kind": "body",
+      "text": "25",
+      "sourceLocation": "pdf:visual:[[26,37]]"
+    }
+  ]
+}

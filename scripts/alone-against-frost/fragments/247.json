@@ -1,0 +1,36 @@
+{
+  "id": "247",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "247:p0",
+      "kind": "heading",
+      "text": "247",
+      "sourceLocation": "pdf:visual:[[49,41]]"
+    },
+    {
+      "id": "247:p1",
+      "kind": "body",
+      "text": "With  the  hunting  cries  of  the  little  people  audible  in  the \ndistance, the three of you run through endless stands of virgin \ntimber. You must disguise your trail to avoid capture.",
+      "sourceLocation": "pdf:visual:[[49,42],[49,43],[49,44]]"
+    },
+    {
+      "id": "247:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll: if you succeed, go to 53; if you fail, go to 146.",
+      "sourceLocation": "pdf:visual:[[49,45]]"
+    },
+    {
+      "id": "247:p3",
+      "kind": "trace",
+      "text": "(246, 250, 254)",
+      "sourceLocation": "pdf:visual:[[49,46]]"
+    },
+    {
+      "id": "247:p4",
+      "kind": "body",
+      "text": "48",
+      "sourceLocation": "pdf:visual:[[49,47]]"
+    }
+  ]
+}

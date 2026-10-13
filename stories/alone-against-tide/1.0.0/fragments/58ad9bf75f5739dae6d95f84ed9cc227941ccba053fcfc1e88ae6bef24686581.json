@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "233"
+  ],
+  "text": [
+    "你辨清小路方向，开始机械地向前走，缓慢却坚定地朝逃生方向前进。",
+    "然而，这段路比你预想的长。你走了好几个小时，既看不到亮光，也看不到通往大路的迹象。你很快就疲惫不堪，被这一天发生的事彻底拖垮。",
+    "你努力抵抗睡意，却不太确定自己的眼睛究竟是什么时候闭上的。你精疲力尽，倒在路边。",
+    "也许周围被洪水淹没了。也许有动物发现了你。又或许你睡着时被另一辆车撞了。你不知道，因为你没能及时醒来，没看清究竟是什么导致了你的死亡。",
+    "你死了。你可以从头重新尝试这个故事，希望这次能有更好的结果。但眼下，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 233",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 233",
+      "text": [
+        "You orient yourself along the path and begin moving automatically, slowly but surely covering the ground toward your escape.",
+        "However, the journey proves to be longer than you’d anticipated. You march on for hours with no sign of light and no sign of reaching the main road. You quickly grow weary, thoroughly fatigued by the day’s events.",
+        "Though you fight sleep for some time, you aren’t entirely certain when your eyes finally close. You collapse at the roadside in exhaustion.",
+        "Perhaps the area around you flooded. Perhaps an animal found you. Or perhaps you were struck by another car as you slept. You don’t know, as you don’t wake up in time to find out what causes your demise. You have died. You may attempt the story again from the beginning, and hopefully, you will achieve a better outcome. But, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

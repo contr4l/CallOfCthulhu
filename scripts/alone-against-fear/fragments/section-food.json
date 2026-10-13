@@ -1,0 +1,198 @@
+{
+  "id": "section-food",
+  "paragraphs": [
+    {
+      "id": "section-food:p0000",
+      "kind": "body",
+      "text": "Food\n",
+      "sourceLocation": "pdf:spans:[[10,1770,1775]]"
+    },
+    {
+      "id": "section-food:p0001",
+      "kind": "body",
+      "text": "You start the game with d6 Food\n",
+      "sourceLocation": "pdf:spans:[[10,1775,1807]]"
+    },
+    {
+      "id": "section-food:p0002",
+      "kind": "body",
+      "text": "points (crackers, canned beans,\n",
+      "sourceLocation": "pdf:spans:[[10,1807,1839]]"
+    },
+    {
+      "id": "section-food:p0003",
+      "kind": "body",
+      "text": "fruit, bottles of water and so on).\n",
+      "sourceLocation": "pdf:spans:[[10,1839,1875]]"
+    },
+    {
+      "id": "section-food:p0004",
+      "kind": "body",
+      "text": "Every 5 boxes you cross, you\n",
+      "sourceLocation": "pdf:spans:[[10,1875,1904]]"
+    },
+    {
+      "id": "section-food:p0005",
+      "kind": "body",
+      "text": "must consume 1 Food point.   If\n",
+      "sourceLocation": "pdf:spans:[[10,1904,1936]]"
+    },
+    {
+      "id": "section-food:p0006",
+      "kind": "body",
+      "text": "you do not have Food, you lose 1\n",
+      "sourceLocation": "pdf:spans:[[10,1936,1969]]"
+    },
+    {
+      "id": "section-food:p0007",
+      "kind": "body",
+      "text": "Life instead. In some cases, Food",
+      "sourceLocation": "pdf:spans:[[10,1969,2002]]"
+    },
+    {
+      "id": "section-food:p0008",
+      "kind": "body",
+      "text": "points may also be traded with\n",
+      "sourceLocation": "pdf:spans:[[11,22,53]]"
+    },
+    {
+      "id": "section-food:p0009",
+      "kind": "body",
+      "text": "people you meet or given to beasts\n",
+      "sourceLocation": "pdf:spans:[[11,53,88]]"
+    },
+    {
+      "id": "section-food:p0010",
+      "kind": "body",
+      "text": "to avoid their attacks. You will\n",
+      "sourceLocation": "pdf:spans:[[11,88,121]]"
+    },
+    {
+      "id": "section-food:p0011",
+      "kind": "body",
+      "text": "certainly find more Food as you\n",
+      "sourceLocation": "pdf:spans:[[11,121,153]]"
+    },
+    {
+      "id": "section-food:p0012",
+      "kind": "body",
+      "text": "adventure through the demon-\n",
+      "sourceLocation": "pdf:spans:[[11,153,182]]"
+    },
+    {
+      "id": "section-food:p0013",
+      "kind": "body",
+      "text": "infested town.\n",
+      "sourceLocation": "pdf:spans:[[11,182,197]]"
+    },
+    {
+      "id": "section-food:p0014",
+      "kind": "body",
+      "text": "Carrying Food: You may carry up\n",
+      "sourceLocation": "pdf:spans:[[11,197,229]]"
+    },
+    {
+      "id": "section-food:p0015",
+      "kind": "body",
+      "text": "to  a maximum of 10 Food points\n",
+      "sourceLocation": "pdf:spans:[[11,229,261]]"
+    },
+    {
+      "id": "section-food:p0016",
+      "kind": "body",
+      "text": "with you, or up to 15 if you have a\n",
+      "sourceLocation": "pdf:spans:[[11,261,297]]"
+    },
+    {
+      "id": "section-food:p0017",
+      "kind": "body",
+      "text": "backpack. The count of carried\n",
+      "sourceLocation": "pdf:spans:[[11,297,328]]"
+    },
+    {
+      "id": "section-food:p0018",
+      "kind": "body",
+      "text": "Food is separate from carried\n",
+      "sourceLocation": "pdf:spans:[[11,328,358]]"
+    },
+    {
+      "id": "section-food:p0019",
+      "kind": "body",
+      "text": "items. If you want to carry fewer\n",
+      "sourceLocation": "pdf:spans:[[11,358,392]]"
+    },
+    {
+      "id": "section-food:p0020",
+      "kind": "body",
+      "text": "items and more Food, 1 Food point\n",
+      "sourceLocation": "pdf:spans:[[11,392,426]]"
+    },
+    {
+      "id": "section-food:p0021",
+      "kind": "body",
+      "text": "will take the same space as 1 item.\n",
+      "sourceLocation": "pdf:spans:[[11,426,462]]"
+    },
+    {
+      "id": "section-food:p0022",
+      "kind": "body",
+      "text": "Food\n",
+      "sourceLocation": "pdf:spans:[[100,158,163]]"
+    },
+    {
+      "id": "section-food:p0023",
+      "kind": "body",
+      "text": "Books read\n",
+      "sourceLocation": "pdf:spans:[[100,163,174]]"
+    },
+    {
+      "id": "section-food:p0024",
+      "kind": "body",
+      "text": "Food\n",
+      "sourceLocation": "pdf:spans:[[104,71,76]]"
+    },
+    {
+      "id": "section-food:p0025",
+      "kind": "body",
+      "text": "Books read\n",
+      "sourceLocation": "pdf:spans:[[104,76,87]]"
+    },
+    {
+      "id": "section-food:p0026",
+      "kind": "body",
+      "text": "Pregenerated Character\n",
+      "sourceLocation": "pdf:spans:[[104,87,110]]"
+    },
+    {
+      "id": "section-food:p0027",
+      "kind": "body",
+      "text": "Injuries\n",
+      "sourceLocation": "pdf:spans:[[104,110,119]]"
+    },
+    {
+      "id": "section-food:p0028",
+      "kind": "body",
+      "text": " Mental scars\n",
+      "sourceLocation": "pdf:spans:[[104,119,133]]"
+    },
+    {
+      "id": "section-food:p0029",
+      "kind": "body",
+      "text": "Food\n",
+      "sourceLocation": "pdf:spans:[[105,26,31]]"
+    },
+    {
+      "id": "section-food:p0030",
+      "kind": "body",
+      "text": "Books read\n",
+      "sourceLocation": "pdf:spans:[[105,31,42]]"
+    }
+  ],
+  "sourcePages": [
+    10,
+    11,
+    100,
+    104,
+    105
+  ]
+}

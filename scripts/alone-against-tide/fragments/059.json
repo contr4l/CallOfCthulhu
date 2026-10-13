@@ -1,0 +1,30 @@
+{
+  "id": "59",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "59:p0",
+      "kind": "heading",
+      "text": "59\n",
+      "sourceLocation": "pdf:spans:[[24,724,727]]"
+    },
+    {
+      "id": "59:p1",
+      "kind": "body",
+      "text": "Mr. Warren takes his time mulling over the names and figures \nbefore calling out the name of a “Dexter James.” One of the \ndark-suited men from earlier comes forward to claim the altar.\n",
+      "sourceLocation": "pdf:spans:[[24,727,789],[24,789,850],[24,850,913]]"
+    },
+    {
+      "id": "59:p2",
+      "kind": "body",
+      "text": "• Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[24,913,925]]"
+    },
+    {
+      "id": "59:p3",
+      "kind": "body",
+      "text": "(103)\n",
+      "sourceLocation": "pdf:spans:[[24,925,931]]"
+    }
+  ]
+}

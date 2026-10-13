@@ -1,0 +1,42 @@
+{
+  "id": "2",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "2:p0",
+      "kind": "heading",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[9,904,906]]"
+    },
+    {
+      "id": "2:p1",
+      "kind": "body",
+      "text": "You position yourself close to the men and tune your ears to \ntheir conversation. “Between you and me, I heard that most of \nthese items are fakes—outright hoaxes and counterfeits. Harris \nwas a doddering old nut. He claimed that his findings predate \nthe earliest known records of ancient India, but that’s impossible. \nThey’re completely inconsistent with all of the other data. And \nbesides, there’s a reason why he left the Miskatonic, if you catch \nmy meaning.” \n",
+      "sourceLocation": "pdf:spans:[[9,906,968],[9,968,1031],[9,1031,1095],[9,1095,1158],[9,1158,1227],[9,1227,1292],[9,1292,1360],[9,1360,1374]]"
+    },
+    {
+      "id": "2:p2",
+      "kind": "body",
+      "text": "The other man nods his approval. “You aren’t wrong. His \nfindings aren’t properly supported by evidence, yet he kept trying \nto publish his hogwash. I imagine that’s why they had him resign. \nStill, at least a few of the items might be authentic, so hopefully \nthis won’t be a total waste of time.” \n",
+      "sourceLocation": "pdf:spans:[[9,1374,1431],[9,1431,1499],[9,1499,1566],[9,1566,1635],[9,1635,1674]]"
+    },
+    {
+      "id": "2:p3",
+      "kind": "body",
+      "text": "The first man shifts his stance and lowers his volume slightly \nagain, to where it is just perceptible. “Maybe. And that monk \nover there does seem to lend some sort of validity to your claim. If \nan actual Indian wants them, perhaps there is something valuable \nhere.”\n",
+      "sourceLocation": "pdf:spans:[[10,25,89],[10,89,152],[10,152,222],[10,222,288],[10,288,295]]"
+    },
+    {
+      "id": "2:p4",
+      "kind": "body",
+      "text": "• Go to 17.\n",
+      "sourceLocation": "pdf:spans:[[10,295,307]]"
+    },
+    {
+      "id": "2:p5",
+      "kind": "body",
+      "text": "(34)\n",
+      "sourceLocation": "pdf:spans:[[10,307,312]]"
+    }
+  ]
+}

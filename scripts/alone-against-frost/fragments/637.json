@@ -1,0 +1,30 @@
+{
+  "id": "637",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "637:p0",
+      "kind": "heading",
+      "text": "637",
+      "sourceLocation": "pdf:visual:[[106,54]]"
+    },
+    {
+      "id": "637:p1",
+      "kind": "body",
+      "text": "As the four of you run, the creature seems to zero in on Bernard.",
+      "sourceLocation": "pdf:visual:[[106,55]]"
+    },
+    {
+      "id": "637:p2",
+      "kind": "body",
+      "text": "Gain 1 point of Cthulhu Mythos. Make a Dodge roll for Bernard: \nif he succeeds, go to 639; if he fails, go to 638.",
+      "sourceLocation": "pdf:visual:[[106,56],[106,57]]"
+    },
+    {
+      "id": "637:p3",
+      "kind": "trace",
+      "text": "(631)",
+      "sourceLocation": "pdf:visual:[[106,58]]"
+    }
+  ]
+}

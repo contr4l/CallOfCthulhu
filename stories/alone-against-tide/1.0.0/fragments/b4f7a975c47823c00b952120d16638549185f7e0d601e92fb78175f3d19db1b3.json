@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "223"
+  ],
+  "text": [
+    "你冲进附近的旅馆，砰地关上身后的门。你在里面停了一会儿，喘口气，努力消化刚才看到的一切。",
+    "你杀死了一只；从声音判断，外面还有更多那些恶心、畸变的生物。你可不想再和它们打交道。",
+    "你权衡着自己的选择。你可以干脆躲在旅馆里，这里看起来相对安全。",
+    "如果你胆子够大，也可以直面问题，查清这些东西是什么、从哪里来。或许你甚至能阻止它们。",
+    "如果你愿意冒更大的风险以换取更高的安全机会，也可以逃进树林。黑暗和浓雾中，你几乎不可能成功离开；但如果办得到，就能远远离开这座被神遗弃的小镇。由你选择。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 223",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 223",
+      "text": [
+        "You rush inside the nearby hotel and slam the door closed behind you. You stay there for a moment, catching your breath as you try to come to terms with what you just saw.",
+        "You killed one, but judging by the sounds, there are more of those disgusting, aberrant creatures out there. You don’t relish the thought of dealing with them again.",
+        "You weigh your options. You could always simply hole up here in the hotel, where it seems to be relatively safe.",
+        "If you’re feeling brave of heart, you could confront the issue and see if you can find out what these things are and where they’re coming from. Perhaps you could even stop them.",
+        "And if you’re willing to take a larger risk for the chance of greater safety, you could flee into the woods. In the darkness and the fog, there’s little chance you’d be able to make it out, but if you could manage it, you’d be able to get far, far away from this godforsaken town. The choice is yours."
+      ]
+    }
+  }
+}

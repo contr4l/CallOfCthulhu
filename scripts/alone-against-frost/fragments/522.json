@@ -1,0 +1,30 @@
+{
+  "id": "522",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "522:p0",
+      "kind": "heading",
+      "text": "522",
+      "sourceLocation": "pdf:visual:[[90,29]]"
+    },
+    {
+      "id": "522:p1",
+      "kind": "body",
+      "text": "“OK, Professor.’ Charlie glares at you. “We who live all our life \nin this land can never know its ways so well as those from other \ncountries. We will search for the boy.” You and the others fall in \nbehind your sullen hunting guide.",
+      "sourceLocation": "pdf:visual:[[90,30],[90,31],[90,32],[90,33]]"
+    },
+    {
+      "id": "522:p2",
+      "kind": "body",
+      "text": "Make a Hard roll against Charlie’s Track: if she succeeds, go to 525; \nif not, go to 523.",
+      "sourceLocation": "pdf:visual:[[90,34],[90,35]]"
+    },
+    {
+      "id": "522:p3",
+      "kind": "trace",
+      "text": "(521)",
+      "sourceLocation": "pdf:visual:[[90,36]]"
+    }
+  ]
+}

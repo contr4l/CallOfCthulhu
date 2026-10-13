@@ -52,9 +52,13 @@ export function SetupModal({
     <Modal title={`进入「${story.title}」`} onClose={onClose}>
       <p className="modal-intro">
         {story.creationPolicy === "guided"
-          ? "本模组会在剧情中引导你分配属性和技能；先确定姓名。"
+          ? story.id === "alone-against-tide"
+            ? "选择自建调查员或伍兹博士。属性、技能加值及幸运将在剧情中确定。"
+            : "本模组会在剧情中引导你分配属性和技能；先确定姓名。"
           : story.creationPolicy === "fixed"
-            ? "选择亚历克斯或查理，两人的视角与故事分支不同。属性和技能使用原书角色卡，幸运由你掷骰确定。"
+            ? story.id === "alone-against-static"
+              ? "选择亚历克斯或查理，两人的视角与故事分支不同。属性和技能使用原书角色卡，幸运由你掷骰确定。"
+              : "选择本模组的预设调查员。属性和技能使用原书角色卡，幸运由你掷骰确定。"
             : "先为这段故事，选择一位调查员。"}
       </p>
       <form onSubmit={(e) => void onSubmit(e)}>
@@ -69,19 +73,20 @@ export function SetupModal({
             maxLength={24}
           />
         </label>
-        {story.creationPolicy === "guided" && (
-          <label>
-            年龄（可选）
-            <input
-              name="age"
-              type="number"
-              min={23}
-              max={36}
-              placeholder="23–36"
-            />
-            <small>本冒险建议 23–36 岁，属性与职业将在剧情里确定。</small>
-          </label>
-        )}
+        {story.id === "alone-against-flames" &&
+          story.creationPolicy === "guided" && (
+            <label>
+              年龄（可选）
+              <input
+                name="age"
+                type="number"
+                min={23}
+                max={36}
+                placeholder="23–36"
+              />
+              <small>本冒险建议 23–36 岁，属性与职业将在剧情里确定。</small>
+            </label>
+          )}
         <div className="mode-tabs">
           <button
             type="button"

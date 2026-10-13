@@ -1,0 +1,36 @@
+{
+  "id": "66",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "66:p0",
+      "kind": "heading",
+      "text": "66\n",
+      "sourceLocation": "pdf:spans:[[25,2558,2561]]"
+    },
+    {
+      "id": "66:p1",
+      "kind": "body",
+      "text": "The mention of an estate sale grabs your interest and you ask for \nsome more information. Sanford obliges. “Amelia Harris is selling \noff some of her late husband’s collection. She could use the money and \ndoesn’t really have an interest in that ancient Indian stuff the professor \nstudied. But some folks do—collectors, academics, that sort of thing. She \nput the word out not long after her husband died. People have been \ntrickling in for it the past few days. If you’re looking to get your hands on \nsomething, it’s going on tonight at the dance hall by the pier.”\n",
+      "sourceLocation": "pdf:spans:[[25,2561,2628],[25,2628,2695],[25,2695,2767],[25,2767,2843],[25,2843,2918],[25,2918,2986],[25,2986,3065],[25,3065,3130]]"
+    },
+    {
+      "id": "66:p2",
+      "kind": "body",
+      "text": "You exchange a few more pleasantries with Sanford before \nhe goes off to finish guiding the boat into port. You pass the \ntime in casual conversation with the other passengers and in \nobserving the scenery. You note the tall pines and the sloping \nhills along the lakeshore around Esbury. These features, and the \nsmall town beyond, are just visible through the growing mist, \nbut squinting helps make them out to your satisfaction. In time, \nyou arrive on the pier at Esbury, grateful to be off the water.\n",
+      "sourceLocation": "pdf:spans:[[25,3130,3188],[25,3188,3252],[25,3252,3314],[25,3314,3378],[25,3378,3444],[25,3444,3507],[25,3507,3573],[25,3573,3637]]"
+    },
+    {
+      "id": "66:p3",
+      "kind": "body",
+      "text": "• Go to 3.\n",
+      "sourceLocation": "pdf:spans:[[25,3637,3648]]"
+    },
+    {
+      "id": "66:p4",
+      "kind": "body",
+      "text": "(18, 23, 33, 63, 71, 104)\n",
+      "sourceLocation": "pdf:spans:[[25,3648,3674]]"
+    }
+  ]
+}

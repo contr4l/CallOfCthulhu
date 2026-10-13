@@ -1,0 +1,32 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "217"
+  ],
+  "text": [
+    "门猛地打开，露出一个可怕的绿色生物。那东西像模糊的鱼蛙混合体，双眼毫无生气，嘴唇松垮。它的身体严重膨胀，躯干上伸出细长的肢体。它用这些细长肢体抓住门框两侧，纵身冲进屋里。",
+    "你迅速反应，举枪瞄准那生物的脸，朝它冰冷、毫无生气的双眼开了一枪。它立刻倒在地上，一动不动，流出脓液。",
+    "你没时间庆祝胜利，另一只相似的生物又进入房子，朝你逼近。你再次深吸一口气，冷静开枪，将它击倒。",
+    "这个过程重复了好几次；水位不断上涨，你偶尔停下来重新装弹。洪水和邪恶恐怖之物源源不绝。水涨到腰部时，你意识到自己逃不出这里了。尽管如此，你还是下定决心，能击倒多少怪物就击倒多少。",
+    "你坚持了仿佛好几个小时。你听见镇子其他地方传来尖叫声，透过窗户，似乎还能看见雾中摇曳的火光。想到外面可能发生的事，你不禁打了个寒战，但仍站稳脚跟，继续朝闯进来的怪物开火。它们涌入的速度慢了下来，却没有停止。最后，夺走你性命的是上涨的洪水。",
+    "你死了。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 217",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 217",
+      "text": [
+        "The door slams open, revealing a hideous green creature. The thing is a vaguely fish/frog-like being, with lifeless eyes and flabby lips. Its body is horribly distended. Long, spindly limbs protrude from the torso. It grabs either side of the doorframe with these slender limbs and launches itself inside.",
+        "You react quickly, aiming your gun at the creature’s face and firing a round into the thing’s cold, lifeless eyes. It drops to the ground immediately, unmoving, and leaking ichor.",
+        "You have no time to celebrate your victory as another, similar creature enters the building and moves toward you. You take another breath and calmly fire, bringing the thing down.",
+        "This pattern repeats itself several times, with you occasionally pausing to reload as the water rises around you. The flow of water and unholy horrors does not end, and by the time the flood has risen to your waist, you realize you won’t be escaping this place. Still, you resolve yourself to take as many of the creatures down with you as you can.",
+        "You hold on for what seems like hours. You hear screaming in other parts of the town, and through the windows, you think you can make out flickering flames shrouded by the fog. You shudder at the thought of what could be going on out there, but you hold firm and continue to fire at the creatures as they find their way inside. The stream of them slows but does not stop. In the end, it’s the rising water that claims your life. You have died. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

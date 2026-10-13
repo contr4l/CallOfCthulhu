@@ -1,0 +1,54 @@
+{
+  "id": "16",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "16:p0",
+      "kind": "heading",
+      "text": "16",
+      "sourceLocation": "pdf:visual:[[12,43]]"
+    },
+    {
+      "id": "16:p1",
+      "kind": "body",
+      "text": "Your  rifle  cracks  and  you  hear  a  high-pitched  squeal  like \nthat  of  a  frightened  piglet.  Your  companions  struggle  from \ntheir bedrolls, all shouting at once. You explain that you shot \nsomething next to Bernard.",
+      "sourceLocation": "pdf:visual:[[12,44],[12,45],[12,46],[12,47]]"
+    },
+    {
+      "id": "16:p2",
+      "kind": "body",
+      "text": "Charlie plucks a flaming brand from the fire and approaches \nthe bewildered student. With a frown, she pauses over something \nin the bracken. She gasps and staggers back, shielding her face. \nYou come up beside her, to see what you have hit.",
+      "sourceLocation": "pdf:visual:[[12,48],[12,49],[12,50],[12,51]]"
+    },
+    {
+      "id": "16:p3",
+      "kind": "body",
+      "text": "It is a strange, diminutive figure, almost human, but with \nexaggerated, sculpted features. In the flickering light from the \nbrand, its skin seems colorless, gray. It has very long fingers and \nodd feet, almost like hands.",
+      "sourceLocation": "pdf:visual:[[12,52],[12,53],[12,54],[12,55]]"
+    },
+    {
+      "id": "16:p4",
+      "kind": "body",
+      "text": "“A puk-woogie!” Charlie grabs you. “This is an evil Little One \nof the Night! If there is one, there will be more! Professor, we must \nleave this valley!” ",
+      "sourceLocation": "pdf:visual:[[12,56],[12,57],[12,58]]"
+    },
+    {
+      "id": "16:p5",
+      "kind": "body",
+      "text": " The figure is fascinating. But Charlie does not seem like \na woman who is easily scared. The students look to you for \na decision.",
+      "sourceLocation": "pdf:visual:[[12,59],[12,60],[12,61]]"
+    },
+    {
+      "id": "16:p6",
+      "kind": "body",
+      "text": "To argue with Charlie, go to 30. To agree with her, bury the little \nfigure, and return downriver, go to 165.",
+      "sourceLocation": "pdf:visual:[[12,62],[12,63]]"
+    },
+    {
+      "id": "16:p7",
+      "kind": "trace",
+      "text": "(9)",
+      "sourceLocation": "pdf:visual:[[12,64]]"
+    }
+  ]
+}

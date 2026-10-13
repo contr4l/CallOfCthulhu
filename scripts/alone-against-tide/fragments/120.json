@@ -1,0 +1,66 @@
+{
+  "id": "120",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "120:p0",
+      "kind": "heading",
+      "text": "120\n",
+      "sourceLocation": "pdf:spans:[[40,26,30]]"
+    },
+    {
+      "id": "120:p1",
+      "kind": "body",
+      "text": "You aim your weapon at Joshua and pull the trigger. You watch \nwith a sense of detachment as you gun him down. Two shots in \nquick succession: the first one intentional, the second a product \nof recoil and reflex to make sure that he’s no longer a threat.\n",
+      "sourceLocation": "pdf:spans:[[40,30,93],[40,93,155],[40,155,222],[40,222,286]]"
+    },
+    {
+      "id": "120:p2",
+      "kind": "body",
+      "text": "Both bullets hit him square in the chest, knocking him back \nagainst the wall behind him. He slumps to the ground in a \nseated position, leaving behind a smear of blood down the wall.\n",
+      "sourceLocation": "pdf:spans:[[40,286,347],[40,347,406],[40,406,470]]"
+    },
+    {
+      "id": "120:p3",
+      "kind": "body",
+      "text": "His eyes glaze over as he begins to bleed out. His cold, \nlifeless eyes bore into you as his mouth forms his last words. \nUnutterable alien syllables spew from his mouth with his dying \nbreath: “Bokrug ron ‘bthnk n’ghft, ‘ai.”\n",
+      "sourceLocation": "pdf:spans:[[40,470,528],[40,528,592],[40,592,656],[40,656,697]]"
+    },
+    {
+      "id": "120:p4",
+      "kind": "body",
+      "text": "You shudder as he dies, his body suddenly listless. You check \nhis pockets and find ID that gives his address, as well as a key \nto his home. That might be worth investigating.\n",
+      "sourceLocation": "pdf:spans:[[40,697,760],[40,760,826],[40,826,874]]"
+    },
+    {
+      "id": "120:p5",
+      "kind": "body",
+      "text": "Amelia is crying silently where you left her, inconsolable at \nhaving witnessed Joshua die so violently. At least this gives you \nthe opportunity to search the house.\n",
+      "sourceLocation": "pdf:spans:[[40,874,937],[40,937,1004],[40,1004,1041]]"
+    },
+    {
+      "id": "120:p6",
+      "kind": "body",
+      "text": "• Make a Sanity roll: if you succeed, lose 1 Sanity point; if you fail, \nlose 1D3 Sanity points.\n",
+      "sourceLocation": "pdf:spans:[[40,1041,1114],[40,1114,1138]]"
+    },
+    {
+      "id": "120:p7",
+      "kind": "body",
+      "text": "• To search the Harris house, go to 179.\n",
+      "sourceLocation": "pdf:spans:[[40,1138,1179]]"
+    },
+    {
+      "id": "120:p8",
+      "kind": "body",
+      "text": "• To leave and go search Joshua’s house, go to 151.\n",
+      "sourceLocation": "pdf:spans:[[40,1179,1231]]"
+    },
+    {
+      "id": "120:p9",
+      "kind": "body",
+      "text": "(145)\n",
+      "sourceLocation": "pdf:spans:[[40,1231,1237]]"
+    }
+  ]
+}

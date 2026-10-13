@@ -1,0 +1,36 @@
+{
+  "id": "280",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "280:p0",
+      "kind": "heading",
+      "text": "280",
+      "sourceLocation": "pdf:visual:[[55,38]]"
+    },
+    {
+      "id": "280:p1",
+      "kind": "body",
+      "text": "While trying to keep a parallel course to the North Hanninah, \nyou and Norman are forced to cross through hot springs and \nravines. Around a bend, you hear a bizarre humming sound.",
+      "sourceLocation": "pdf:visual:[[55,39],[55,40],[55,41]]"
+    },
+    {
+      "id": "280:p2",
+      "kind": "body",
+      "text": "To go forward and investigate, go to 474. To retreat into a nearby \ncave to hide, go to 333.",
+      "sourceLocation": "pdf:visual:[[55,42],[55,43]]"
+    },
+    {
+      "id": "280:p3",
+      "kind": "trace",
+      "text": "(279)",
+      "sourceLocation": "pdf:visual:[[55,44]]"
+    },
+    {
+      "id": "280:p4",
+      "kind": "body",
+      "text": "54",
+      "sourceLocation": "pdf:visual:[[55,45]]"
+    }
+  ]
+}

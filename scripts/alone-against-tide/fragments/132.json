@@ -1,0 +1,36 @@
+{
+  "id": "132",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "132:p0",
+      "kind": "heading",
+      "text": "132\n",
+      "sourceLocation": "pdf:spans:[[43,962,966]]"
+    },
+    {
+      "id": "132:p1",
+      "kind": "body",
+      "text": "You throw yourself to the floor with all haste, trying to get out \nof the line of fire. You hear the loud sound of the gunshot as a \nbullet embeds itself in the wall behind you.\n",
+      "sourceLocation": "pdf:spans:[[43,966,1033],[43,1033,1099],[43,1099,1144]]"
+    },
+    {
+      "id": "132:p2",
+      "kind": "body",
+      "text": "You hear a squeal as Amelia comes running after Joshua, \nbegging him to stop shooting and put the gun away. He curses \nand shoves her aside, but he does holster his weapon.\n",
+      "sourceLocation": "pdf:spans:[[43,1144,1201],[43,1201,1263],[43,1263,1317]]"
+    },
+    {
+      "id": "132:p3",
+      "kind": "body",
+      "text": "He rushes past her and up the stairs, just as you manage \nto stumble to your feet. He comes at you, swinging his fist. \nIt’s not ideal, but at least with the gun put away, you have a \nfighting chance.\nMake a Fighting (Brawl) roll: if you succeed, go to 21; if you fail, \ntake 1D3 damage. If you survive this, go to 152; however, if this \nreduces you to zero hit points, you have been beaten to death. Your \nvisit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[43,1317,1375],[43,1375,1437],[43,1437,1501],[43,1501,1518],[43,1520,1590],[43,1590,1657],[43,1657,1726],[43,1726,1760]]"
+    },
+    {
+      "id": "132:p4",
+      "kind": "body",
+      "text": "(140)\n",
+      "sourceLocation": "pdf:spans:[[43,1760,1766]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "514",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "514:p0",
+      "kind": "heading",
+      "text": "514",
+      "sourceLocation": "pdf:visual:[[89,36]]"
+    },
+    {
+      "id": "514:p1",
+      "kind": "body",
+      "text": "The whirlpools take charge of the canoe and pull it across a \nsnag, tearing the craft open and throwing you into the boil.",
+      "sourceLocation": "pdf:visual:[[89,37],[89,38]]"
+    },
+    {
+      "id": "514:p2",
+      "kind": "body",
+      "text": "You must make three successful Swim rolls to get to shore. If you \nfail  one,  you  begin  to  drown;  you  must  now  make  a  combined \nSwim  and  CON  roll  each  round—for  every  failed  CON  roll, \nyou suffer 1D6 drowning damage. If you make three Swim rolls \nand survive, you make it to shore; go to 513. Otherwise, you have \ndrowned. The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[89,39],[89,40],[89,41],[89,42],[89,43],[89,44]]"
+    },
+    {
+      "id": "514:p3",
+      "kind": "trace",
+      "text": "(242)",
+      "sourceLocation": "pdf:visual:[[89,45]]"
+    },
+    {
+      "id": "514:p4",
+      "kind": "body",
+      "text": "88",
+      "sourceLocation": "pdf:visual:[[89,46]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "355",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "355:p0",
+      "kind": "heading",
+      "text": "355",
+      "sourceLocation": "pdf:visual:[[65,77]]"
+    },
+    {
+      "id": "355:p1",
+      "kind": "body",
+      "text": "Powerful hairy hands clamp on your shoulders, snatching you \nfrom your feet. Foul-smelling hulking bodies close in, biting \nand clubbing with fists and pieces of wood.",
+      "sourceLocation": "pdf:visual:[[65,78],[65,79],[65,80]]"
+    },
+    {
+      "id": "355:p2",
+      "kind": "body",
+      "text": "Take 1D10 damage. If you survive the assault, go to 347.",
+      "sourceLocation": "pdf:visual:[[65,81]]"
+    },
+    {
+      "id": "355:p3",
+      "kind": "trace",
+      "text": "(354)",
+      "sourceLocation": "pdf:visual:[[65,82]]"
+    }
+  ]
+}

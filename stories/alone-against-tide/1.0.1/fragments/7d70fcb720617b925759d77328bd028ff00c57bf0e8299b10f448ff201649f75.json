@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "171"
+  ],
+  "text": [
+    "你迅速躲进旅馆，避开外面无论是谁或是什么东西。你停下来片刻，整理思绪。",
+    "夜幕已经降临，而你的任务还没有完成。只要坚持下去，你也许仍能完成目标。最显而易见的选择是继续调查。",
+    "另一种选择是干脆认赔离开。你可以试着徒步离开埃斯伯里。你必须承认这个主意很诱人，尽管完全不切实际。这个地方对你一直不太友好。",
+    "当然，你也可以先睡一觉——在旅馆再住一晚，希望早上继续行动或离开。你不确定原因，但一想到要在这里度过第二个夜晚，心里就隐约感到不安。你试着把这个念头赶出脑海，最后做出了坚定的决定。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 171",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 171",
+      "text": [
+        "You quickly duck into the hotel, avoiding whoever or whatever else is out there. You pause for a few moments to gather your thoughts.",
+        "Darkness has come and your job is not yet done. With perseverance, you may yet finish your task. The most obvious choice is to resume the investigation.",
+        "Another potential course of action is to simply cut your losses and leave. You could try to abandon Esbury on foot, and you must admit that the idea is tempting despite being wholly impractical. This place has not been good to you.",
+        "Of course, you could always simply sleep on it—stay another night in the hotel and hope to either continue your work or move on in the morning. You aren’t certain why, but you feel a vague sense of unease at the idea of spending a second night here. You try to push the thought from your mind as you come to a firm decision."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "128",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "128:p0",
+      "kind": "heading",
+      "text": "128\n",
+      "sourceLocation": "pdf:spans:[[42,871,875]]"
+    },
+    {
+      "id": "128:p1",
+      "kind": "body",
+      "text": "You examine the extraordinary altar. The most readily apparent \nfeature, beyond its size, are the many gemstones set into its \nsurface. They are of a greenish-yellow color and shine even in \nthe half-light of the room.\n",
+      "sourceLocation": "pdf:spans:[[42,875,939],[42,939,1002],[42,1002,1066],[42,1066,1094]]"
+    },
+    {
+      "id": "128:p2",
+      "kind": "body",
+      "text": "You also notice strange lettering written in broad strokes along \nthe object’s side. The symbols are smeared and sloppily done, \nsuggesting they were written with some haste. What you had \noriginally taken for paint is, upon closer examination, dried blood.\n",
+      "sourceLocation": "pdf:spans:[[42,1094,1160],[42,1160,1223],[42,1223,1283],[42,1283,1352]]"
+    },
+    {
+      "id": "128:p3",
+      "kind": "body",
+      "text": "While you cannot be certain, it would appear that this item \nhas been involved in some tragedy.\n",
+      "sourceLocation": "pdf:spans:[[42,1352,1413],[42,1413,1448]]"
+    },
+    {
+      "id": "128:p4",
+      "kind": "body",
+      "text": "• Go to 32.\n",
+      "sourceLocation": "pdf:spans:[[42,1448,1460]]"
+    },
+    {
+      "id": "128:p5",
+      "kind": "body",
+      "text": "(32)\n",
+      "sourceLocation": "pdf:spans:[[42,1460,1465]]"
+    }
+  ]
+}

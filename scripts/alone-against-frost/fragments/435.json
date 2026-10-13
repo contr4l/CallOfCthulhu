@@ -1,0 +1,42 @@
+{
+  "id": "435",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "435:p0",
+      "kind": "heading",
+      "text": "435",
+      "sourceLocation": "pdf:visual:[[76,53]]"
+    },
+    {
+      "id": "435:p1",
+      "kind": "body",
+      "text": "As  you  cross  hill  and  ravine  toward  the  phenomenon,  an  eerie \natmosphere  builds  that  cannot  wholly  be  accounted  for  by  the \nsilence of the woods. A broad vale opens, removed from all the rush \nand turmoil of fast water, sheltered by dark, old trees with long, gray-\ngreen streamers of moss. The moss sways in a faint breeze.",
+      "sourceLocation": "pdf:visual:[[76,54],[76,55],[76,56],[76,57],[76,58]]"
+    },
+    {
+      "id": "435:p2",
+      "kind": "body",
+      "text": "Your companions sense the uncanniness, too—you can see it \nin their faces. Like you, they do not speak. You begin to feel a \nweird disorientation, a touch of vertigo. Was it something like \nthis that took the birds out of the air? If so, what causes it?",
+      "sourceLocation": "pdf:visual:[[76,59],[76,60],[76,61],[76,62]]"
+    },
+    {
+      "id": "435:p3",
+      "kind": "body",
+      "text": "Your dizziness is pronounced by the time you master a small \nrise and look down upon the arrangement of stones below.",
+      "sourceLocation": "pdf:visual:[[76,63],[76,64]]"
+    },
+    {
+      "id": "435:p4",
+      "kind": "body",
+      "text": "Make a Luck roll: succeed and go to 448; fail and go to 436.",
+      "sourceLocation": "pdf:visual:[[76,65]]"
+    },
+    {
+      "id": "435:p5",
+      "kind": "trace",
+      "text": "(434)",
+      "sourceLocation": "pdf:visual:[[76,66]]"
+    }
+  ]
+}

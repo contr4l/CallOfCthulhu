@@ -1,0 +1,36 @@
+{
+  "id": "236",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "236:p0",
+      "kind": "heading",
+      "text": "236\n",
+      "sourceLocation": "pdf:spans:[[75,2014,2018]]"
+    },
+    {
+      "id": "236:p1",
+      "kind": "body",
+      "text": "Banyu enters a state of hyper-focus as he conducts his chant. \nYou see the look of desperate hope on his face while also sensing \nthe budding terror beneath his relatively calm exterior. As his \nchant ceases, he stares toward the door, holding his breath.\n",
+      "sourceLocation": "pdf:spans:[[75,2018,2081],[75,2081,2148],[75,2148,2213],[75,2213,2274]]"
+    },
+    {
+      "id": "236:p2",
+      "kind": "body",
+      "text": "The banging at the door pauses for a moment, then resumes \nwith renewed vigor. Banyu’s face is full of shock and fear. “The \nchant did not work… We are doomed.” He drops to his knees \nin abject horror as the door splinters open and bloated green \ncreatures begin squeezing themselves through the gap.\n",
+      "sourceLocation": "pdf:spans:[[75,2274,2333],[75,2333,2399],[75,2399,2458],[75,2458,2521],[75,2521,2575]]"
+    },
+    {
+      "id": "236:p3",
+      "kind": "body",
+      "text": "You do your best to fend them off, but as the water rises \naround you, they eventually overwhelm you. They don’t kill you \nright away. Instead, they seize you and Banyu and carry you \noff down the flooded streets of Esbury. Eventually, they stop \nbefore a building that has been set ablaze. They feed you to the \nflames and begin to dance around the fire, moving with strange, \nunearthly motions while their silent lips sing praise to their \ndetestable god: Bokrug, the great water lizard.\nYou have died. Your ultimate fate was as a sacrifice to one of the Great \nOld Ones. There are few worse ways to die. Your visit to Esbury is \nover. THE END. \n",
+      "sourceLocation": "pdf:spans:[[75,2575,2634],[75,2634,2698],[75,2698,2759],[75,2759,2822],[75,2822,2888],[75,2888,2953],[75,2953,3017],[75,3017,3065],[75,3067,3141],[75,3141,3209],[75,3209,3225]]"
+    },
+    {
+      "id": "236:p4",
+      "kind": "body",
+      "text": "(215)\n",
+      "sourceLocation": "pdf:spans:[[75,3225,3231]]"
+    }
+  ]
+}

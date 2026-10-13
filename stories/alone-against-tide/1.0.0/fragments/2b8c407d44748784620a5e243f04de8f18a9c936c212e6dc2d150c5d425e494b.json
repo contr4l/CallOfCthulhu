@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "127"
+  ],
+  "text": [
+    "你转向鲍威尔警官，恳求他放你出去。起初他根本不理你。不过最后，你提到只要他放你走，你就会离开镇子，这似乎终于说动了他。",
+    "“把你弄走，我日子也能轻松些。趁我没改变主意，赶紧滚出这里。要是再让我看见你，就给你一颗子弹。”他打开牢门时，你立刻走了出去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 127",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 127",
+      "text": [
+        "You turn your attention to Officer Powell and plead with him to release you. Initially, he pays you no mind. Eventually, however, you mention that you’ll leave town if he lets you go, and that seems to seal the deal.",
+        "“Having you out of the way makes my life a bit easier. Get the hell out of here before I change my mind. If I see you again, you’re getting a bullet.” You do not hesitate to leave the cell as he unlocks it."
+      ]
+    }
+  }
+}

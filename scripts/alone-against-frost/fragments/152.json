@@ -1,0 +1,42 @@
+{
+  "id": "152",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "152:p0",
+      "kind": "heading",
+      "text": "152",
+      "sourceLocation": "pdf:visual:[[35,17]]"
+    },
+    {
+      "id": "152:p1",
+      "kind": "body",
+      "text": "You  lead  your  companions  back  toward  the  bizarre  miners. \nYour route is blocked by a strange procession snaking its way \nthrough the jack pines and raspberries. To your astonishment, \nyou see a band of tiny, gray-skinned men, led by a Caucasian \ncrone dressed in an old deerskin robe.",
+      "sourceLocation": "pdf:visual:[[35,20],[35,21],[35,23],[35,24],[35,26]]"
+    },
+    {
+      "id": "152:p2",
+      "kind": "body",
+      "text": "The  procession  forms  a  circle  and  commences  a  shuffling \ndance. It begins to chant. One of the pink tentacled miners \nemerges  from  the  woods  carrying—Bernard’s  severed  head! \nThe old woman takes it, lifts it high, and cackles an invocation \nto  the  gods.  Now  more  of  the  pink  fungoid  creatures  come \nsailing out of the sky!",
+      "sourceLocation": "pdf:visual:[[35,27],[35,29],[35,30],[35,31],[35,32],[35,33]]"
+    },
+    {
+      "id": "152:p3",
+      "kind": "body",
+      "text": "You whisper to your companions to close their eyes—but it’s \ntoo late for you.",
+      "sourceLocation": "pdf:visual:[[35,34],[35,35]]"
+    },
+    {
+      "id": "152:p4",
+      "kind": "body",
+      "text": "Gain  2  points  of  Cthulhu  Mythos.  Make  a  Sanity  roll:  if  you \nsucceed, go to 173; if you fail, lose 1D6 Sanity and go to 238.",
+      "sourceLocation": "pdf:visual:[[35,36],[35,37]]"
+    },
+    {
+      "id": "152:p5",
+      "kind": "trace",
+      "text": "(151, 154)",
+      "sourceLocation": "pdf:visual:[[35,38]]"
+    }
+  ]
+}

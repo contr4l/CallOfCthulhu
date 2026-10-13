@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "51-death",
+    "51-wounded",
+    "51"
+  ],
+  "text": [
+    "你随便挑了一条路走下去，心想自己选对选错的机会大概各占一半。继续走着，你发现雾气愈发浓厚，遮蔽视线。光线渐暗，又有夜色笼罩，能见度更差了。",
+    "你发现小径现在陡然上升，蜿蜒着远离埃斯伯里。你把这当作好兆头，因为这意味着离湖岸更远了。你正为自己的好运微笑，却没发现一块泥泞的地面；你脚下一滑，踉跄着朝悬崖边缘跌去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 51",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 51",
+      "text": [
+        "You pick a path and head down it, figuring that your odds are as equally likely to be right or wrong here. As you continue walking, you notice the mist becomes even more obscuring. The fading light and the hint of darkness compound the lack of visibility.",
+        "You notice the trail now rises steeply as it winds its way away from Esbury. You take this as a good sign since it means you’re farther from the lake shore. While you’re smiling at your good fortune, you fail to spot the muddy patch of ground that causes you to slip and go stumbling toward the edge of a cliff."
+      ]
+    }
+  }
+}

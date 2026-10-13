@@ -1,0 +1,30 @@
+{
+  "id": "619",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "619:p0",
+      "kind": "heading",
+      "text": "619",
+      "sourceLocation": "pdf:visual:[[104,12]]"
+    },
+    {
+      "id": "619:p1",
+      "kind": "body",
+      "text": "Bernard’s scream rips out behind you for less than a second \nbefore it is cut off. You glance to the rear and see him no longer.",
+      "sourceLocation": "pdf:visual:[[104,13],[104,14]]"
+    },
+    {
+      "id": "619:p2",
+      "kind": "body",
+      "text": "Go to 616.",
+      "sourceLocation": "pdf:visual:[[104,15]]"
+    },
+    {
+      "id": "619:p3",
+      "kind": "trace",
+      "text": "(617)",
+      "sourceLocation": "pdf:visual:[[104,16]]"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "section-rewards-table",
+  "paragraphs": [
+    {
+      "id": "section-rewards-table:p0000",
+      "kind": "body",
+      "text": "rewards table (d6)\n",
+      "sourceLocation": "pdf:spans:[[73,22,41]]"
+    },
+    {
+      "id": "section-rewards-table:p0001",
+      "kind": "body",
+      "text": "1 Recover 1 Life and 1 Sanity. Gain 1 XP.\n",
+      "sourceLocation": "pdf:spans:[[73,41,83]]"
+    },
+    {
+      "id": "section-rewards-table:p0002",
+      "kind": "body",
+      "text": "2 Recover 2 Life or gain 2 XP, your choice.\n",
+      "sourceLocation": "pdf:spans:[[73,83,127]]"
+    },
+    {
+      "id": "section-rewards-table:p0003",
+      "kind": "body",
+      "text": "3 Recover 2 Life and 1 Sanity or gain 1 XP, your choice.\n",
+      "sourceLocation": "pdf:spans:[[73,127,184]]"
+    },
+    {
+      "id": "section-rewards-table:p0004",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[73,184,186]]"
+    },
+    {
+      "id": "section-rewards-table:p0005",
+      "kind": "body",
+      "text": "Gain 2 Food, and in addition recover 1 Sanity or gain 2 XP, your\n",
+      "sourceLocation": "pdf:spans:[[73,186,251]]"
+    },
+    {
+      "id": "section-rewards-table:p0006",
+      "kind": "body",
+      "text": "choice, or gain two random items from the Random Items table\n",
+      "sourceLocation": "pdf:spans:[[73,251,312]]"
+    },
+    {
+      "id": "section-rewards-table:p0007",
+      "kind": "body",
+      "text": "and/or the Useful Stuff table, your choice.\n",
+      "sourceLocation": "pdf:spans:[[73,312,356]]"
+    },
+    {
+      "id": "section-rewards-table:p0008",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[73,356,358]]"
+    },
+    {
+      "id": "section-rewards-table:p0009",
+      "kind": "body",
+      "text": "Gain d6 Food, recover 1 Sanity and 1  Life. If you are already\n",
+      "sourceLocation": "pdf:spans:[[73,358,421]]"
+    },
+    {
+      "id": "section-rewards-table:p0010",
+      "kind": "body",
+      "text": "carrying the maximum Food allowed and your Sanity and Life are\n",
+      "sourceLocation": "pdf:spans:[[73,421,484]]"
+    },
+    {
+      "id": "section-rewards-table:p0011",
+      "kind": "body",
+      "text": "at their full value, you may choose to gain 2 XP instead.\n",
+      "sourceLocation": "pdf:spans:[[73,484,542]]"
+    },
+    {
+      "id": "section-rewards-table:p0012",
+      "kind": "body",
+      "text": "6 Heal all Life and Sanity up to your starting values or gain 1 XP, your\n",
+      "sourceLocation": "pdf:spans:[[73,542,615]]"
+    },
+    {
+      "id": "section-rewards-table:p0013",
+      "kind": "body",
+      "text": "choice.",
+      "sourceLocation": "pdf:spans:[[73,615,622]]"
+    }
+  ],
+  "sourcePages": [
+    73
+  ]
+}

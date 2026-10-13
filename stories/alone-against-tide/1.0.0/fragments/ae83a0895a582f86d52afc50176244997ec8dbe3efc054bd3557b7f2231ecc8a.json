@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "205"
+  ],
+  "text": [
+    "疲惫终于压倒了你。你向后靠去，闭上眼睛，沉沉睡着了。",
+    "奇怪而可怕的梦扰乱了你的睡眠。你看见一座由大理石、缟玛瑙和璀璨宝石构成的辉煌城市。这座宏伟城市尽显壮丽，坐落在平静的湖畔。随后转瞬之间，水位上涨，将它吞没，城市消失无踪。偶像中的蜥蜴状怪物获得生命与力量后，从水中猛然升起。水势膨胀，将你吞噬，那存在以充满恶意的灵智注视着你。",
+    "你仿佛在这种状态中度过了永恒，和那可怕的蜥蜴状怪物一起漂浮在沉没的废墟间。它紧盯着你，审视着你的一举一动。但它始终没有行动，只是克制着恶意注视你。你凝视它的双眼，开始希望它干脆吞掉你，这样你就不必再受它监视。这种渴望变得令人发狂，你发现自己竟自愿朝那东西游去。它张开大口迎接你，露出一排又一排针尖般的牙齿。就在你即将把自己献给那怪物之际，你终于醒了过来。",
+    "你发现自己悬在钟楼边缘，差点滚进下方被洪水淹没的小镇，沉入水中。你赶紧退回平台中央以确保安全。就在这时，袋子里有一道微光吸引了你的目光。你伸手进去找到光源，取出那尊海绿色石头偶像。它闪耀着蓝白色光芒，强烈得仿佛带着怒意。看着它令你的眼睛疼痛。",
+    "你考虑把这该死的东西扔进下方的水里，但有什么东西阻止了你。一个念头悄然钻进你的脑海，逐渐成形并驱使你行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 205",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 205",
+      "text": [
+        "Exhaustion overtakes you. You lean back, close your eyes, and drift into a deep slumber.",
+        "Your sleep is disturbed by strange and horrific dreams. You see a shining city of marble, onyx, and lustrous gems. You see this magnificent city in all its splendor, sitting next to a placid lake. And then, in an instant, it’s gone as the water rises up to swallow it. The lizard-thing of the idol, given life and power, surges up from the water. The being eyes you with malicious sentience as the waters swell and consume you.",
+        "You exist in this state for what feels like an eternity, drifting through the sunken ruins alongside the horrible lizard-thing. It eyes you closely, scrutinizing your every motion. But it never acts, merely watches you with checked malevolence. As you stare into its eyes, you begin to wish it would simply consume you so you wouldn’t have to be under its watchful gaze any longer. This becomes a maddening desire and you find yourself willingly swimming toward the thing. It opens its jaws to receive you, revealing row after row of needle-like teeth. Just as you’re about to offer yourself to the creature, you finally wake.",
+        "You find yourself dangling over the edge of the belfry, about to roll into the flooded town below and lose yourself in the waters. You quickly pull back toward the center of the platform for safety. As you do so, a glimmer within your sack catches your eye. You reach inside to find the source and extract the sea-green stone idol. It shimmers with a blueish-white light of angry intensity. Looking at it pains your eyes.",
+        "You consider throwing the damnable thing into the water below but something stops you. A thought creeps into your mind, taking shape and driving your actions."
+      ]
+    }
+  }
+}

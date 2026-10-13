@@ -1,0 +1,36 @@
+{
+  "id": "145",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "145:p0",
+      "kind": "heading",
+      "text": "145\n",
+      "sourceLocation": "pdf:spans:[[47,3136,3140]]"
+    },
+    {
+      "id": "145:p1",
+      "kind": "body",
+      "text": "Reflexively, you drop to the ground behind the couch as Joshua \naims the gun your way. Thankfully, the shot goes over your \nhead. You heave a sigh of relief, thankful for your safety.\n",
+      "sourceLocation": "pdf:spans:[[47,3140,3204],[47,3204,3264],[47,3264,3324]]"
+    },
+    {
+      "id": "145:p2",
+      "kind": "body",
+      "text": "And then the reality of the situation dawns on you. You dive \nfor Officer Powell’s gun, which has fallen to the ground nearby. \nYou scoop it up quickly, acting purely on instinct. You grip the \nweapon in both hands and prepare to return fire. You take a \ndeep breath and aim the gun at Joshua.\n",
+      "sourceLocation": "pdf:spans:[[47,3324,3386],[47,3386,3452],[47,3452,3518],[47,3518,3579],[47,3579,3618]]"
+    },
+    {
+      "id": "145:p3",
+      "kind": "body",
+      "text": "• Make a Firearms (Handgun) roll: if you succeed, go to 120; if you \nfail, take 1D10+2 damage. If you survive this, go to 96; however, \nif this reduces you to zero hit points, then you have died from your \nwounds. Your visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[47,3618,3687],[47,3687,3754],[47,3754,3824],[47,3824,3872]]"
+    },
+    {
+      "id": "145:p4",
+      "kind": "body",
+      "text": "(125)",
+      "sourceLocation": "pdf:spans:[[47,3872,3877]]"
+    }
+  ]
+}

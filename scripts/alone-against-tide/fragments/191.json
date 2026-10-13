@@ -1,0 +1,48 @@
+{
+  "id": "191",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "191:p0",
+      "kind": "heading",
+      "text": "191\n",
+      "sourceLocation": "pdf:spans:[[62,26,30]]"
+    },
+    {
+      "id": "191:p1",
+      "kind": "body",
+      "text": "You throw yourself to the ground, making sure you avoid the \noncoming car. You land face-first in water that’s already several \ninches deep. You roll over quickly as the car speeds past you, \nand you rise from the ground soaking wet.\n",
+      "sourceLocation": "pdf:spans:[[62,30,91],[62,91,158],[62,158,222],[62,222,264]]"
+    },
+    {
+      "id": "191:p2",
+      "kind": "body",
+      "text": "You look in dismay once again toward Esbury, which is \nflooding fast. You can make out little through the fog, but amid \nthe darkness, you can see flames burning bright. The colors \nare muted by the mist but are significantly brighter than the \nsurrounding shadows.\n",
+      "sourceLocation": "pdf:spans:[[62,264,319],[62,319,385],[62,385,446],[62,446,509],[62,509,530]]"
+    },
+    {
+      "id": "191:p3",
+      "kind": "body",
+      "text": "You can think of no reason why a sinking town would be \non fire, but whatever excuses your head conjures up are not \ncomforting. You do not stand to ponder on it long. As you \ndespair over your circumstances, the mist closes in tightly \naround you, as does something more unsavory. A green, flabby \nhand seizes your arm and begins pulling you violently toward \nthe town. You struggle against the grasp as best you can, but you \nfind you cannot easily slip away. A more purposeful application \nof force is required.\n",
+      "sourceLocation": "pdf:spans:[[62,530,586],[62,586,647],[62,647,706],[62,706,767],[62,767,829],[62,829,891],[62,891,958],[62,958,1023],[62,1023,1045]]"
+    },
+    {
+      "id": "191:p4",
+      "kind": "body",
+      "text": "• If you have a gun, make a Firearms (Handgun) roll: if you succeed, \ngo to 213; if you fail, go to 226.\n",
+      "sourceLocation": "pdf:spans:[[62,1047,1117],[62,1117,1152]]"
+    },
+    {
+      "id": "191:p5",
+      "kind": "body",
+      "text": "• If you are unarmed, go to 231.\n",
+      "sourceLocation": "pdf:spans:[[62,1152,1185]]"
+    },
+    {
+      "id": "191:p6",
+      "kind": "body",
+      "text": "(185, 201, 229)\n",
+      "sourceLocation": "pdf:spans:[[62,1185,1201]]"
+    }
+  ]
+}

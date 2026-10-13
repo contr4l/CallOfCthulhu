@@ -1,0 +1,30 @@
+{
+  "id": "277",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "277:p0",
+      "kind": "heading",
+      "text": "277",
+      "sourceLocation": "pdf:visual:[[55,2]]"
+    },
+    {
+      "id": "277:p1",
+      "kind": "body",
+      "text": "By accident or cunning, the creature’s trail leads into a stream. \nTry as you might, you cannot pick up the spoor. Frustrated, \nNorman kicks the bank.",
+      "sourceLocation": "pdf:visual:[[55,4],[55,6],[55,7]]"
+    },
+    {
+      "id": "277:p2",
+      "kind": "body",
+      "text": "To strike out at random in search of Sylvia, go to 292. To abandon \nyour efforts and return to civilization, go to 278. To give up the \nsearch, but explore this lost valley, go to 38.",
+      "sourceLocation": "pdf:visual:[[55,9],[55,11],[55,12]]"
+    },
+    {
+      "id": "277:p3",
+      "kind": "trace",
+      "text": "(226, 484)",
+      "sourceLocation": "pdf:visual:[[55,14]]"
+    }
+  ]
+}

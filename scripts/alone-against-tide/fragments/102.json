@@ -1,0 +1,36 @@
+{
+  "id": "102",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "102:p0",
+      "kind": "heading",
+      "text": "102\n",
+      "sourceLocation": "pdf:spans:[[35,518,522]]"
+    },
+    {
+      "id": "102:p1",
+      "kind": "body",
+      "text": "You approach the strange man. He seems well-traveled and \nweary, and his long, orange robes are a stark contrast to the fine \nsuits and dresses of the New England financial elite. He seems \ndecidedly out of place.\n",
+      "sourceLocation": "pdf:spans:[[35,522,580],[35,580,648],[35,648,712],[35,712,736]]"
+    },
+    {
+      "id": "102:p2",
+      "kind": "body",
+      "text": "You open your mouth as if to speak and find him staring \nintensely at you.\n",
+      "sourceLocation": "pdf:spans:[[35,736,793],[35,793,811]]"
+    },
+    {
+      "id": "102:p3",
+      "kind": "body",
+      "text": "• Make an Anthropology roll: if you succeed, go to 72; if you fail, \ngo to 37.\n",
+      "sourceLocation": "pdf:spans:[[35,811,880],[35,880,890]]"
+    },
+    {
+      "id": "102:p4",
+      "kind": "body",
+      "text": "(15, 17)\n",
+      "sourceLocation": "pdf:spans:[[35,890,899]]"
+    }
+  ]
+}

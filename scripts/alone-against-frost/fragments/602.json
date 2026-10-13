@@ -1,0 +1,36 @@
+{
+  "id": "602",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "602:p0",
+      "kind": "heading",
+      "text": "602",
+      "sourceLocation": "pdf:visual:[[101,67]]"
+    },
+    {
+      "id": "602:p1",
+      "kind": "body",
+      "text": "When you announce your plan, Charlie looks at you like you \nhave lost your mind. She draws herself up.",
+      "sourceLocation": "pdf:visual:[[101,68],[101,69]]"
+    },
+    {
+      "id": "602:p2",
+      "kind": "body",
+      "text": "“It is foolish to return to that evil place. I will not go!”",
+      "sourceLocation": "pdf:visual:[[101,70]]"
+    },
+    {
+      "id": "602:p3",
+      "kind": "body",
+      "text": "To give up the idea and return to civilization, go to 593. To remind \nCharlie who pays her when the trip is over, go to 603.",
+      "sourceLocation": "pdf:visual:[[101,71],[101,72]]"
+    },
+    {
+      "id": "602:p4",
+      "kind": "trace",
+      "text": "(594, 425)",
+      "sourceLocation": "pdf:visual:[[101,73]]"
+    }
+  ]
+}

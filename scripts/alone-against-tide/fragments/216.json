@@ -1,0 +1,36 @@
+{
+  "id": "216",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "216:p0",
+      "kind": "heading",
+      "text": "216\n",
+      "sourceLocation": "pdf:spans:[[70,26,30]]"
+    },
+    {
+      "id": "216:p1",
+      "kind": "body",
+      "text": "You manage to calm the man, assuring him that he has at least \na moment to explain what’s going on. He takes a couple of deep \nbreaths before coming clean. “Look, I don’t know what the hell \nis happening. Joshua called us out here but he didn’t say anything \nabout this! Whatever’s going on, it isn’t natural! Once things started \ngoing south, I grabbed the most valuable-looking things I could find, \nand I ran.” He gestures down to the gemstone-studded altar \nhe’s lugging around.\n",
+      "sourceLocation": "pdf:spans:[[70,30,93],[70,93,157],[70,157,221],[70,221,289],[70,289,361],[70,361,432],[70,432,492],[70,492,513]]"
+    },
+    {
+      "id": "216:p2",
+      "kind": "body",
+      "text": "You stoop down to inspect it, and notice letters scrawled \nacross the side. The writing is incredibly strange and unfamiliar \nbut you can attempt to translate it.\n",
+      "sourceLocation": "pdf:spans:[[70,513,572],[70,572,639],[70,639,676]]"
+    },
+    {
+      "id": "216:p3",
+      "kind": "body",
+      "text": "• Make a Hard Archaeology roll (success only at equal to or below half \nof the skill’s value): if you succeed, go to 116; if you fail, go to 242.\n",
+      "sourceLocation": "pdf:spans:[[70,678,750],[70,750,824]]"
+    },
+    {
+      "id": "216:p4",
+      "kind": "body",
+      "text": "(238)\n",
+      "sourceLocation": "pdf:spans:[[70,824,830]]"
+    }
+  ]
+}

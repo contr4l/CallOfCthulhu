@@ -1,0 +1,42 @@
+{
+  "id": "96",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "96:p0",
+      "kind": "heading",
+      "text": "96",
+      "sourceLocation": "pdf:visual:[[26,70]]"
+    },
+    {
+      "id": "96:p1",
+      "kind": "body",
+      "text": "The figure yelps and falls. You light a match and, gun still at the \nready, approach the wounded stranger.",
+      "sourceLocation": "pdf:visual:[[26,71],[26,72]]"
+    },
+    {
+      "id": "96:p2",
+      "kind": "body",
+      "text": "The  match  falls  from  your  fingers.  You  have  shot  down \nBernard Ebstein.",
+      "sourceLocation": "pdf:visual:[[26,73],[26,74]]"
+    },
+    {
+      "id": "96:p3",
+      "kind": "body",
+      "text": "Images  flash  through  your  mind:  Bernard’s  first  day  in \nthe  department,  shaking  hands,  grinning  at  everybody;  him \nintroducing  his  parents  to  you  on  graduation  day;  and  his \nsweetheart Catherine, choosing her wedding dress, waiting for \nher fiancé to return from his adventure in the wilds.",
+      "sourceLocation": "pdf:visual:[[26,75],[26,76],[26,77],[26,78],[26,79]]"
+    },
+    {
+      "id": "96:p4",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Go to 97. ",
+      "sourceLocation": "pdf:visual:[[26,80]]"
+    },
+    {
+      "id": "96:p5",
+      "kind": "trace",
+      "text": "(100)",
+      "sourceLocation": "pdf:visual:[[26,81]]"
+    }
+  ]
+}

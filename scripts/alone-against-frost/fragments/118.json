@@ -1,0 +1,30 @@
+{
+  "id": "118",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "118:p0",
+      "kind": "heading",
+      "text": "118",
+      "sourceLocation": "pdf:visual:[[30,21]]"
+    },
+    {
+      "id": "118:p1",
+      "kind": "body",
+      "text": "Both students simultaneously shriek their horror to the forest, \nwhich catches and throws it around in eerie echoes. They flee in \ndifferent directions. You glance down at the diminutive people. \nThey grab their weapons. It’s pointless to chase the students; \nyou must save yourself.",
+      "sourceLocation": "pdf:visual:[[30,22],[30,23],[30,24],[30,25],[30,26]]"
+    },
+    {
+      "id": "118:p2",
+      "kind": "body",
+      "text": "Go to 116.",
+      "sourceLocation": "pdf:visual:[[30,27]]"
+    },
+    {
+      "id": "118:p3",
+      "kind": "trace",
+      "text": "(201)",
+      "sourceLocation": "pdf:visual:[[30,28]]"
+    }
+  ]
+}

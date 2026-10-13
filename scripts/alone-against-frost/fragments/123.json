@@ -1,0 +1,30 @@
+{
+  "id": "123",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "123:p0",
+      "kind": "heading",
+      "text": "123",
+      "sourceLocation": "pdf:visual:[[30,65]]"
+    },
+    {
+      "id": "123:p1",
+      "kind": "body",
+      "text": "Charlie grabs her rifle and points it at your heart. “You don’t know \nwhat you do!” she cries. “I will not tempt the power of Ithakwanni!” \nShe  backs  away,  keeping  you  covered,  before  turning  and \nrunning. You follow at a safe distance, only to find that she has \ntaken the canoe, a share of the supplies—and vanished.",
+      "sourceLocation": "pdf:visual:[[30,66],[30,67],[30,68],[30,69],[30,70]]"
+    },
+    {
+      "id": "123:p2",
+      "kind": "body",
+      "text": "Record the keyword BAREFOOT. Go to 95.",
+      "sourceLocation": "pdf:visual:[[30,71]]"
+    },
+    {
+      "id": "123:p3",
+      "kind": "trace",
+      "text": "(521, 525)",
+      "sourceLocation": "pdf:visual:[[30,72]]"
+    }
+  ]
+}

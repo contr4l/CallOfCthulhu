@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "183"
+  ],
+  "text": [
+    "你猛地把手从冰冷黏湿的抓握中抽出来，发现手上沾湿了，还覆着黏液。你一边急忙逃离抓住你的东西，一边甩掉最恶心的黏液。幸好，浓雾与黑暗遮住了那东西的具体形态和特征，但这并不能阻止你的想象力肆意驰骋。",
+    "幸好，你的双脚也跑得飞快。你以双腿所能达到的速度，穿过雾霭笼罩的街道继续前进；更多模糊而可怕的东西从四周窥视你，但都被雾气遮掩。你从它们身边冲过，不想弄清它们是什么，却十分清楚它们不是人。最后，你终于来到镇子边缘。",
+    "你甚至顾不上走小路。在能见度如此之低的情况下辨路几乎不可能，何况你还正被异界恐怖追赶。你径直冲进森林，跌跌撞撞地绕过树枝，跨过树根和石块。如果你能稳住脚步，也许就能与身后这座被诅咒的镇子拉开足够远的距离。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 183",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 183",
+      "text": [
+        "You yank your hand free of the cold, clammy grasp and find it damp and covered in mucous. You shake the worst of the disgusting substance off as you rush to get away from whatever it was that grabbed you. Fortunately, the thing’s exact form and features were concealed by the fog and the darkness, but this doesn’t stop your imagination from running wild.",
+        "Thankfully, your feet also run wild. Moving as fast as your legs can carry you, you press on through shrouded streets as more of the hazy, hideous things peer out at you, all mercifully masked by the mist. You rush past them, not wanting to find out what they are but knowing full well they’re not human. Finally, you make your way to the edge of town.",
+        "You don’t even bother with the trail. Navigating in this low level of visibility would be nearly impossible even if you weren’t being actively chased by otherworldly horrors. You simply rush into the forest, stumbling past branches and over roots and rocks. If you can keep your footing, you may just be able to put enough distance between yourself and the cursed town behind you."
+      ]
+    }
+  }
+}

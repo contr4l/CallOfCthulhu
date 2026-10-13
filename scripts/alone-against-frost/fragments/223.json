@@ -1,0 +1,30 @@
+{
+  "id": "223",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "223:p0",
+      "kind": "heading",
+      "text": "223",
+      "sourceLocation": "pdf:visual:[[46,34]]"
+    },
+    {
+      "id": "223:p1",
+      "kind": "body",
+      "text": "Norman can’t hold on and begins to slip. Sylvia grabs him, and \nshe too is pulled into the water. You see them tossed by the \nturbulence and thrown against rocks. Without your help, both \nwill surely die. ",
+      "sourceLocation": "pdf:visual:[[46,35],[46,36],[46,37],[46,38]]"
+    },
+    {
+      "id": "223:p2",
+      "kind": "body",
+      "text": "To attempt a hazardous rescue, go to 227. To remain on the bank, \ngo to 67.",
+      "sourceLocation": "pdf:visual:[[46,39],[46,40]]"
+    },
+    {
+      "id": "223:p3",
+      "kind": "trace",
+      "text": "(217)",
+      "sourceLocation": "pdf:visual:[[46,41]]"
+    }
+  ]
+}

@@ -343,7 +343,6 @@ export async function buildApp(
   app.get<{
     Querystring: {
       storyId: string;
-      version: string;
       kind: "chapters" | "endings";
       id: string;
     };
@@ -351,7 +350,6 @@ export async function buildApp(
     const q = z
       .object({
         storyId: z.string().max(100),
-        version: z.string().max(40),
         kind: z.enum(["chapters", "endings"]),
         id: z.string().max(100),
       })
@@ -359,7 +357,6 @@ export async function buildApp(
       .parse(request.query);
     return readCollections(db, user(request).id, stories).entry(
       q.storyId,
-      q.version,
       q.kind,
       q.id,
     );
@@ -520,7 +517,7 @@ export async function buildApp(
           story.creationPolicy === "fixed" &&
           !story.presets.some((p) => p.templateId === character.templateId)
         )
-          throw new GameError(400, "请选择本模组的亚历克斯或查理。");
+          throw new GameError(400, "请选择本模组支持的预设调查员。");
         for (const node of story.nodes) {
           if (
             node.check &&
@@ -712,7 +709,10 @@ export async function buildApp(
           };
         if (
           story.creationPolicy === "guided" &&
-          data.actionId === "allocate" &&
+          (data.actionId === "allocate" ||
+            (story.id === "alone-against-tide" &&
+              !before.flags["tide-created"] &&
+              result.state.flags["tide-created"])) &&
           result.state.createdCharacterId
         ) {
           const card = db

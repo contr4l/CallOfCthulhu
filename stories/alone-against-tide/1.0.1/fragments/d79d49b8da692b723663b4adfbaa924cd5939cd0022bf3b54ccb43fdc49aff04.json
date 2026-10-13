@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "174"
+  ],
+  "text": [
+    "你沿陡坡滑向悬崖边缘，但很快抓住一块岩石突出部稳住自己，止住了下坠。你深吸几口气，爬回刚才滑落的位置时小心不往下看。",
+    "最后，你回到上方泥泞的小路上，气喘吁吁地躺着。你躺了一会儿恢复体力，然后鼓起力气继续沿路前行。",
+    "尽管疲惫感越来越重，你还是继续前进。双脚疼痛不堪，在黑暗中几乎什么也看不见。但你已决意走这条路，现在不会半途放弃。",
+    "你又走了一个多小时，糟糕的能见度终于成了大问题。你不断被石头和倒下的树枝绊倒。你差点又跌下悬崖，这才决定眼下这种环境不适合继续按原计划走。你必须想办法生火，好做一支火把。火把也许无法驱散浓雾，但至少能稍微减轻黑暗的影响。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 174",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 174",
+      "text": [
+        "You skid down a steep slope toward the cliff edge, but quickly manage to catch yourself by grabbing onto a rocky outcrop to halt your fall. You take a few deep breaths and make sure not to look down as you scramble back up to where you slipped.",
+        "Finally, you make it back onto the muddy trail above, gasping for breath. You lie there for a moment to recover before gathering your strength and continuing down the path.",
+        "You march on, despite a growing weariness. Your feet are sore and you can barely see in this darkness. But you’re resolved on this course of action and you won’t abandon it now.",
+        "You carry on for well over an hour before the poor visibility becomes a major problem. You constantly trip over rocks and fallen branches. You almost go over another ledge before deciding that this plan is untenable under the current conditions. You must start a fire of some kind so you can create a torch. It may not solve the problem of the fog but it may at least alleviate the darkness a little."
+      ]
+    }
+  }
+}

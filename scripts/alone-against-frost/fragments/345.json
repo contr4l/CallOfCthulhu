@@ -1,0 +1,36 @@
+{
+  "id": "345",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "345:p0",
+      "kind": "heading",
+      "text": "345",
+      "sourceLocation": "pdf:visual:[[64,54]]"
+    },
+    {
+      "id": "345:p1",
+      "kind": "body",
+      "text": "The wolf drags you and your boot back to earth. Your leg twists \nawkwardly and you go down. The pack converges on you, snarling \nwith bloodlust, jostling each other for a bigger share of your flesh.",
+      "sourceLocation": "pdf:visual:[[64,55],[64,56],[64,57]]"
+    },
+    {
+      "id": "345:p2",
+      "kind": "body",
+      "text": "Gunfire splits the air, as the students above try vainly to save \nyou. But the wolves are lost in their frenzy. After a few seconds, \nyour body already torn beyond repair, you get a glimpse up into \nthe tree branches. A tearful Sylvia points her rifle directly at \nyour head. “Sorry, Professor,” she says and squeezes the trigger.",
+      "sourceLocation": "pdf:visual:[[64,58],[64,59],[64,60],[64,61],[64,62]]"
+    },
+    {
+      "id": "345:p3",
+      "kind": "body",
+      "text": "The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[64,63]]"
+    },
+    {
+      "id": "345:p4",
+      "kind": "trace",
+      "text": "(308)",
+      "sourceLocation": "pdf:visual:[[64,64]]"
+    }
+  ]
+}

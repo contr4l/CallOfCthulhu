@@ -1,0 +1,30 @@
+{
+  "id": "585",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "585:p0",
+      "kind": "heading",
+      "text": "585",
+      "sourceLocation": "pdf:visual:[[99,71]]"
+    },
+    {
+      "id": "585:p1",
+      "kind": "body",
+      "text": "You  shove  Norman  and  Sylvia  to  their  feet.  The  three  of \nyou sprint for the  deep woods. Fear drives you through  the \nundergrowth, lending you enough extra speed to counter your \npursuers’ knowledge of the landscape.",
+      "sourceLocation": "pdf:visual:[[99,72],[99,73],[99,74],[99,75]]"
+    },
+    {
+      "id": "585:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 147; if you fail, go to 575.",
+      "sourceLocation": "pdf:visual:[[99,76]]"
+    },
+    {
+      "id": "585:p3",
+      "kind": "trace",
+      "text": "(584)",
+      "sourceLocation": "pdf:visual:[[99,77]]"
+    }
+  ]
+}

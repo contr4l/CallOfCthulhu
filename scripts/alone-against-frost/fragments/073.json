@@ -1,0 +1,42 @@
+{
+  "id": "73",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "73:p0",
+      "kind": "heading",
+      "text": "73",
+      "sourceLocation": "pdf:visual:[[23,16]]"
+    },
+    {
+      "id": "73:p1",
+      "kind": "body",
+      "text": "“The boy was taken by the Great Wind-Walker.” Charlie raises a \ntrembling hand. “When it pleases Ithakwanni, or when a shaman \nsummons its power, the spirit steals you away; forces you to run \nwith it across the sky so fast that your feet burn off! Then, the Great \nWind-Walker gives you feet like its own. You become a creature who \neats human flesh.",
+      "sourceLocation": "pdf:visual:[[23,18],[23,20],[23,21],[23,23],[23,24],[23,26]]"
+    },
+    {
+      "id": "73:p2",
+      "kind": "body",
+      "text": "“If the boy comes back, he will be… different. Changed. His heart \nwill be ice. He will not die unless that heart is first melted.”",
+      "sourceLocation": "pdf:visual:[[23,27],[23,29]]"
+    },
+    {
+      "id": "73:p3",
+      "kind": "body",
+      "text": "Charlie’s  tale  echoes  something  you  heard  long  ago.  The \nstory is fantastic—yet from her fervid eyes, it is plain she utterly \nbelieves it.",
+      "sourceLocation": "pdf:visual:[[23,30],[23,31],[23,32]]"
+    },
+    {
+      "id": "73:p4",
+      "kind": "body",
+      "text": "Gain 2 points of Cthulhu Mythos. To accept Bernard is lost, go to \n32. To demand that Charlie help you search, go to 521. ",
+      "sourceLocation": "pdf:visual:[[23,33],[23,34]]"
+    },
+    {
+      "id": "73:p5",
+      "kind": "trace",
+      "text": "(49)",
+      "sourceLocation": "pdf:visual:[[23,35]]"
+    }
+  ]
+}

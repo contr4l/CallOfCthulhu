@@ -1,0 +1,30 @@
+{
+  "id": "201",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "201:p0",
+      "kind": "heading",
+      "text": "201",
+      "sourceLocation": "pdf:visual:[[43,28]]"
+    },
+    {
+      "id": "201:p1",
+      "kind": "body",
+      "text": "Although  startled,  the  blade-wielder  has  the  presence  of \nmind to complete his deadly work before running. Before the \ndoomed boy understands what is happening, the sickle flashes \nand Bernard’s head drops free.",
+      "sourceLocation": "pdf:visual:[[43,29],[43,30],[43,31],[43,32]]"
+    },
+    {
+      "id": "201:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll for each remaining party member. If you fail \nyours, lose 1D6 Sanity. If both students succeed in their rolls, go to \n246. If both students fail, go to 118. If Norman fails his, go to 66. If \nSylvia misses hers, go to 241. ",
+      "sourceLocation": "pdf:visual:[[43,33],[43,34],[43,35],[43,36]]"
+    },
+    {
+      "id": "201:p3",
+      "kind": "trace",
+      "text": "(134, 135)",
+      "sourceLocation": "pdf:visual:[[43,37]]"
+    }
+  ]
+}

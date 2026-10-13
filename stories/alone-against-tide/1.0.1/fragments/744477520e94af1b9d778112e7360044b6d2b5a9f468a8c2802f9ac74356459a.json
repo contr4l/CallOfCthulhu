@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "92-appraise",
+    "92-creditRating",
+    "92"
+  ],
+  "text": [
+    "你被那尊奇特的偶像吸引，觉得自己非出价不可。你注意到并非只有你如此：僧侣和一名穿深色西装的男人也把各自的报价投进箱子。你希望自己的报价足够高。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 92",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 92",
+      "text": [
+        "Something draws you to the curious idol, and you feel compelled to make a bid. You notice that you’re not alone in this, as the monk and one of the dark-suited men both place bids of their own into the box. You hope that yours is high enough."
+      ]
+    }
+  }
+}

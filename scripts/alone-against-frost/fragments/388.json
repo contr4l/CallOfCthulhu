@@ -1,0 +1,30 @@
+{
+  "id": "388",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "388:p0",
+      "kind": "heading",
+      "text": "388",
+      "sourceLocation": "pdf:visual:[[70,1]]"
+    },
+    {
+      "id": "388:p1",
+      "kind": "body",
+      "text": "No  sooner  is  Sylvia  out  of  sight  than  you  hear  annoyed \nsasquatch cries. A large male returns her to the overhang. She \nis like a helpless teddy bear in his arms.",
+      "sourceLocation": "pdf:visual:[[70,2],[70,3],[70,4]]"
+    },
+    {
+      "id": "388:p2",
+      "kind": "body",
+      "text": "Go to 389.",
+      "sourceLocation": "pdf:visual:[[70,5]]"
+    },
+    {
+      "id": "388:p3",
+      "kind": "trace",
+      "text": "(387)",
+      "sourceLocation": "pdf:visual:[[70,6]]"
+    }
+  ]
+}

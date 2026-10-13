@@ -1,0 +1,36 @@
+{
+  "id": "291",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "291:p0",
+      "kind": "heading",
+      "text": "291",
+      "sourceLocation": "pdf:visual:[[57,17]]"
+    },
+    {
+      "id": "291:p1",
+      "kind": "body",
+      "text": "You look for the submerged ledge that will lead you from the \nlost valley. Norman watches the skies, concerned by gathering \nclouds.",
+      "sourceLocation": "pdf:visual:[[57,20],[57,21],[57,23]]"
+    },
+    {
+      "id": "291:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1, go to 217; if the result is 2, go to 293; if \nthe result is 3, go to 294; if the result is 4, go to 317; if the result is 5, \ngo to 370; if the result is 6, go to 371.",
+      "sourceLocation": "pdf:visual:[[57,25],[57,26],[57,28]]"
+    },
+    {
+      "id": "291:p3",
+      "kind": "trace",
+      "text": "(395, 396, 400, 614, 627, 628, 635)",
+      "sourceLocation": "pdf:visual:[[57,29]]"
+    },
+    {
+      "id": "291:p4",
+      "kind": "body",
+      "text": "56",
+      "sourceLocation": "pdf:visual:[[57,30]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "293",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "293:p0",
+      "kind": "heading",
+      "text": "293",
+      "sourceLocation": "pdf:visual:[[57,39]]"
+    },
+    {
+      "id": "293:p1",
+      "kind": "body",
+      "text": "You, Norman, and Sylvia elude the menaces of the prehistoric \nlandscape. A scree slope offers you a less hazardous descent \nfrom the valley.",
+      "sourceLocation": "pdf:visual:[[57,40],[57,41],[57,42]]"
+    },
+    {
+      "id": "293:p2",
+      "kind": "body",
+      "text": "Go to 324.",
+      "sourceLocation": "pdf:visual:[[57,43]]"
+    },
+    {
+      "id": "293:p3",
+      "kind": "trace",
+      "text": "(216, 291, 344, 406)",
+      "sourceLocation": "pdf:visual:[[57,44]]"
+    }
+  ]
+}

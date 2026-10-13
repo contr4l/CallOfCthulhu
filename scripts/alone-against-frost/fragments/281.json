@@ -1,0 +1,42 @@
+{
+  "id": "281",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "281:p0",
+      "kind": "heading",
+      "text": "281",
+      "sourceLocation": "pdf:visual:[[55,47]]"
+    },
+    {
+      "id": "281:p1",
+      "kind": "body",
+      "text": "Following the sounds of struggle, Bernard crashes out of the \nbrush.  He  helps  you  bind  the  diminutive  man  with  leather \nshoelaces.",
+      "sourceLocation": "pdf:visual:[[55,48],[55,49],[55,50]]"
+    },
+    {
+      "id": "281:p2",
+      "kind": "body",
+      "text": "Later,  in  camp,  you  examine  the  man  thoroughly.  The \npigment in his face seems unnaturally monochromatic, as if \nhis blood did not run red. His arms are proportionally longer \nthan a normal man’s, with claw-like fingers. He wears a few \nsmall items of jewelry constructed from what you hope are \nanimal bones.",
+      "sourceLocation": "pdf:visual:[[55,51],[55,52],[55,53],[55,54],[55,55],[55,56]]"
+    },
+    {
+      "id": "281:p3",
+      "kind": "body",
+      "text": "Every attempt to communicate with the little man fails. He \nis withdrawn, almost entranced.",
+      "sourceLocation": "pdf:visual:[[55,57],[55,58]]"
+    },
+    {
+      "id": "281:p4",
+      "kind": "body",
+      "text": "To start back for home with the little man as a captive specimen, go \nto 299. To release him, go to 300.",
+      "sourceLocation": "pdf:visual:[[55,59],[55,60]]"
+    },
+    {
+      "id": "281:p5",
+      "kind": "trace",
+      "text": "(228)",
+      "sourceLocation": "pdf:visual:[[55,61]]"
+    }
+  ]
+}

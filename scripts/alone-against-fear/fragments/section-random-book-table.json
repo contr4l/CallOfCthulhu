@@ -1,0 +1,254 @@
+{
+  "id": "section-random-book-table",
+  "paragraphs": [
+    {
+      "id": "section-random-book-table:p0000",
+      "kind": "body",
+      "text": "Random book table (2d6)\n",
+      "sourceLocation": "pdf:spans:[[72,22,46]]"
+    },
+    {
+      "id": "section-random-book-table:p0001",
+      "kind": "body",
+      "text": "2 Necronomicon. Upon reading this book, you lose 1 Sanity, but you\n",
+      "sourceLocation": "pdf:spans:[[72,46,113]]"
+    },
+    {
+      "id": "section-random-book-table:p0002",
+      "kind": "body",
+      "text": "may spend XP to learn any one Arcane Skill of your choice.\n",
+      "sourceLocation": "pdf:spans:[[72,113,172]]"
+    },
+    {
+      "id": "section-random-book-table:p0003",
+      "kind": "body",
+      "text": "3 Holy Book. Reading this book, you either recover 2 Sanity or may spend\n",
+      "sourceLocation": "pdf:spans:[[72,172,245]]"
+    },
+    {
+      "id": "section-random-book-table:p0004",
+      "kind": "body",
+      "text": "2 XP to gain the Demon Slayer or the Gate Arcane Skills.\n",
+      "sourceLocation": "pdf:spans:[[72,245,302]]"
+    },
+    {
+      "id": "section-random-book-table:p0005",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[72,302,304]]"
+    },
+    {
+      "id": "section-random-book-table:p0006",
+      "kind": "body",
+      "text": "Pigface, an urban legend. After reading this book, if you meet Pigface,\n",
+      "sourceLocation": "pdf:spans:[[72,304,376]]"
+    },
+    {
+      "id": "section-random-book-table:p0007",
+      "kind": "body",
+      "text": "you have +1 to your Defense rolls vs. him. You know he has been cursed\n",
+      "sourceLocation": "pdf:spans:[[72,376,447]]"
+    },
+    {
+      "id": "section-random-book-table:p0008",
+      "kind": "body",
+      "text": "by Eliza Dunforth, a girl he has kidnapped. Pigface used to keep her in\n",
+      "sourceLocation": "pdf:spans:[[72,447,519]]"
+    },
+    {
+      "id": "section-random-book-table:p0009",
+      "kind": "body",
+      "text": "a farm just outside of town.\n",
+      "sourceLocation": "pdf:spans:[[72,519,548]]"
+    },
+    {
+      "id": "section-random-book-table:p0010",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[72,548,550]]"
+    },
+    {
+      "id": "section-random-book-table:p0011",
+      "kind": "body",
+      "text": "Walrus the Clown’s Joke Book. Walrus was a clown. He self-published\n",
+      "sourceLocation": "pdf:spans:[[72,550,618]]"
+    },
+    {
+      "id": "section-random-book-table:p0012",
+      "kind": "body",
+      "text": "books with his jokes and sold them at his shows. He used to wear a\n",
+      "sourceLocation": "pdf:spans:[[72,618,685]]"
+    },
+    {
+      "id": "section-random-book-table:p0013",
+      "kind": "body",
+      "text": "rubber clown mask because he was allergic to makeup.\n",
+      "sourceLocation": "pdf:spans:[[72,685,738]]"
+    },
+    {
+      "id": "section-random-book-table:p0014",
+      "kind": "body",
+      "text": "6 They Are Among Us. This book reveals factual information about\n",
+      "sourceLocation": "pdf:spans:[[72,738,803]]"
+    },
+    {
+      "id": "section-random-book-table:p0015",
+      "kind": "body",
+      "text": "aliens. You may learn the Alien Fighter Arcane Skill.\n",
+      "sourceLocation": "pdf:spans:[[72,803,857]]"
+    },
+    {
+      "id": "section-random-book-table:p0016",
+      "kind": "body",
+      "text": "7\n",
+      "sourceLocation": "pdf:spans:[[72,857,859]]"
+    },
+    {
+      "id": "section-random-book-table:p0017",
+      "kind": "body",
+      "text": "The Exorcism Ritual. By reading this book you may learn the Exorcism\n",
+      "sourceLocation": "pdf:spans:[[72,859,928]]"
+    },
+    {
+      "id": "section-random-book-table:p0018",
+      "kind": "body",
+      "text": "Skill. You must have the Faith Skill or this won’t work. You can keep the\n",
+      "sourceLocation": "pdf:spans:[[72,928,1002]]"
+    },
+    {
+      "id": "section-random-book-table:p0019",
+      "kind": "body",
+      "text": "book and read it when you have the Faith Skill.\n",
+      "sourceLocation": "pdf:spans:[[72,1002,1050]]"
+    },
+    {
+      "id": "section-random-book-table:p0020",
+      "kind": "body",
+      "text": "8 Serial Killers Casebook. Reading this book allows you to Escape\n",
+      "sourceLocation": "pdf:spans:[[72,1050,1116]]"
+    },
+    {
+      "id": "section-random-book-table:p0021",
+      "kind": "body",
+      "text": "from a slasher even if the encounter’s description forbids it.\n",
+      "sourceLocation": "pdf:spans:[[72,1116,1179]]"
+    },
+    {
+      "id": "section-random-book-table:p0022",
+      "kind": "body",
+      "text": "9\n",
+      "sourceLocation": "pdf:spans:[[72,1179,1181]]"
+    },
+    {
+      "id": "section-random-book-table:p0023",
+      "kind": "body",
+      "text": "Occult Guide. By reading this book, you learn some basic\n",
+      "sourceLocation": "pdf:spans:[[72,1181,1238]]"
+    },
+    {
+      "id": "section-random-book-table:p0024",
+      "kind": "body",
+      "text": "information on a variety of rituals and spells. The guide is a\n",
+      "sourceLocation": "pdf:spans:[[72,1238,1301]]"
+    },
+    {
+      "id": "section-random-book-table:p0025",
+      "kind": "body",
+      "text": "prerequisite for many game effects.\n",
+      "sourceLocation": "pdf:spans:[[72,1301,1337]]"
+    },
+    {
+      "id": "section-random-book-table:p0026",
+      "kind": "body",
+      "text": "10\n",
+      "sourceLocation": "pdf:spans:[[72,1337,1340]]"
+    },
+    {
+      "id": "section-random-book-table:p0027",
+      "kind": "body",
+      "text": "De Masticatione Mortuorum In Tumulis. By reading this book, you\n",
+      "sourceLocation": "pdf:spans:[[72,1340,1404]]"
+    },
+    {
+      "id": "section-random-book-table:p0028",
+      "kind": "body",
+      "text": "gain a permanent +1 Attack bonus against any non-ghost Undead but\n",
+      "sourceLocation": "pdf:spans:[[72,1404,1470]]"
+    },
+    {
+      "id": "section-random-book-table:p0029",
+      "kind": "body",
+      "text": "you must Save vs. L3 Fear or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[72,1470,1514]]"
+    },
+    {
+      "id": "section-random-book-table:p0030",
+      "kind": "body",
+      "text": "11 The Diabolical Deal. By readying this book you may learn several\n",
+      "sourceLocation": "pdf:spans:[[72,1514,1582]]"
+    },
+    {
+      "id": "section-random-book-table:p0031",
+      "kind": "body",
+      "text": "rituals. See the Arcane Skills section for details.\n",
+      "sourceLocation": "pdf:spans:[[72,1582,1634]]"
+    },
+    {
+      "id": "section-random-book-table:p0032",
+      "kind": "body",
+      "text": "12\n",
+      "sourceLocation": "pdf:spans:[[72,1634,1637]]"
+    },
+    {
+      "id": "section-random-book-table:p0033",
+      "kind": "body",
+      "text": "The Blob Experiment. You learn that the monster known as a blob is\n",
+      "sourceLocation": "pdf:spans:[[72,1637,1704]]"
+    },
+    {
+      "id": "section-random-book-table:p0034",
+      "kind": "body",
+      "text": "vulnerable to salt. If you ever encounter it, you can cause 2 automatic\n",
+      "sourceLocation": "pdf:spans:[[72,1704,1776]]"
+    },
+    {
+      "id": "section-random-book-table:p0035",
+      "kind": "body",
+      "text": "damage by tossing salt at it.  You have salt with you if you have at\n",
+      "sourceLocation": "pdf:spans:[[72,1776,1845]]"
+    },
+    {
+      "id": "section-random-book-table:p0036",
+      "kind": "body",
+      "text": "least 1 Food point, or if you find a bag of salt.\n",
+      "sourceLocation": "pdf:spans:[[72,1845,1895]]"
+    },
+    {
+      "id": "section-random-book-table:p0037",
+      "kind": "body",
+      "text": "Each book may be found only once per game. If you roll a book that you already\n",
+      "sourceLocation": "pdf:spans:[[72,1895,1974]]"
+    },
+    {
+      "id": "section-random-book-table:p0038",
+      "kind": "body",
+      "text": "have, select the next or previous book on the table. For example, if you roll an\n",
+      "sourceLocation": "pdf:spans:[[72,1974,2055]]"
+    },
+    {
+      "id": "section-random-book-table:p0039",
+      "kind": "body",
+      "text": "8 and you already have the Serial Killers Casebook, you may pick either The\n",
+      "sourceLocation": "pdf:spans:[[72,2055,2131]]"
+    },
+    {
+      "id": "section-random-book-table:p0040",
+      "kind": "body",
+      "text": "Exorcism Ritual or The Blob Experiment instead.",
+      "sourceLocation": "pdf:spans:[[72,2131,2178]]"
+    }
+  ],
+  "sourcePages": [
+    72
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "238"
+  ],
+  "text": [
+    "你在镇上四处搜寻，满心希望能找到某种线索或消息。水位上涨，很快漫过你的脚踝。你在街道上涉水前行，紧抓着希望不放。",
+    "看来你的希望并非毫无根据。你穿过雾气时，一个男人撞上了你。你认出他是昨天渡船上那几个穿深色西装的绅士之一。那人睁大双眼，脸色苍白，一只手拿着枪，另一只手拖着一件大物件在上涨的水中前行。你低头看去，发现那是一件祭坛装饰板，表面镶嵌着闪亮的宝石。你还注意到他腰间系着一个装满沉重物品的袋子。男人用狂乱的眼神盯着你。“你在干什么！？我们得跑！它们冲我们来了！所有人都逃不了！我们得走！”",
+    "那人似乎快要惊慌失措了，不过也许你能让他冷静下来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 238",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 238",
+      "text": [
+        "You prowl the town, hoping desperately to find some source or clue. The water rises, and soon it’s past your ankles. You splash through the streets, clinging to hope.",
+        "It seems your faith was not misplaced. As you move through the mist, a man slams into you. You recognize him to be one of the dark-suited gentlemen from the ferry yesterday. The man is wide-eyed and pale. He carries a gun in one hand and drags a sizable object beside him through the rising water. You glance down and see it is an altarpiece, with bright jewels studded across its surface. You also notice a sack bulging with heavy goods tied about his waist. The man fixes his wild eyes upon you. “What are you doing!? We have to run! They’re coming for us! For everyone! We have to go!”",
+        "The man seems ready to panic, but perhaps you can calm him."
+      ]
+    }
+  }
+}

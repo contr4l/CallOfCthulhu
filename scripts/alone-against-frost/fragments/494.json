@@ -1,0 +1,42 @@
+{
+  "id": "494",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "494:p0",
+      "kind": "heading",
+      "text": "494",
+      "sourceLocation": "pdf:visual:[[86,24]]"
+    },
+    {
+      "id": "494:p1",
+      "kind": "body",
+      "text": "As you wander the banks of the North Hanninah alone, you \nhear the crackle of walkers in the woods ahead. At first, your \nheart leaps at finding other people, but then you remember the \ncruel lessons of the Big Woods. They may not be friendly.",
+      "sourceLocation": "pdf:visual:[[86,25],[86,26],[86,27],[86,28]]"
+    },
+    {
+      "id": "494:p2",
+      "kind": "body",
+      "text": "You hide and wait for them. A moment later a party of men \nappears—undersized  men,  with  unnaturally  gray  skin.  One \nholds the severed head of a woodsman.",
+      "sourceLocation": "pdf:visual:[[86,29],[86,30],[86,31]]"
+    },
+    {
+      "id": "494:p3",
+      "kind": "body",
+      "text": "You duck your head, hoping they will not see you. Make a Stealth \nroll: if you succeed, go to 111; if you fail, go to 495.",
+      "sourceLocation": "pdf:visual:[[86,32],[86,33]]"
+    },
+    {
+      "id": "494:p4",
+      "kind": "trace",
+      "text": "(67, 597)",
+      "sourceLocation": "pdf:visual:[[86,34]]"
+    },
+    {
+      "id": "494:p5",
+      "kind": "body",
+      "text": "85",
+      "sourceLocation": "pdf:visual:[[86,35]]"
+    }
+  ]
+}

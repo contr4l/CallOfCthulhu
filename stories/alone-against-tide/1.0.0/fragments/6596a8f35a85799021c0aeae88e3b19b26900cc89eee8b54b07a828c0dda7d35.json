@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "6-appraise",
+    "6-creditRating",
+    "6"
+  ],
+  "text": [
+    "你觉得日记里的信息对自己至关重要，于是忍不住出价。你把自己的报价单和其他人的放在一起，希望沃伦先生比较报价时会叫到你的名字。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 6",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 6",
+      "text": [
+        "You feel that the information in the journal is essential to your interests, and you cannot help but make a bid. You place your paper with the others and hope that Mr. Warren calls your name when the amounts are compared."
+      ]
+    }
+  }
+}

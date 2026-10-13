@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "204"
+  ],
+  "text": [
+    "你把那些硬化的黏土圆柱拿在手里转来转去，眯起眼睛辨认压在侧面的小字。你查阅旁边堆着的笔记，开始尝试粗略翻译。圆柱讲述了“伊布湖雾般的绿色生物，它们凸出的眼睛、噘起的松垮嘴唇、奇特的耳朵和无声的嘴”。文中谈到这些奇异生物的起源，说它们“某夜从月亮上的雾中降临”，并“在渐盈凸月下，向博克鲁格那尊雕刻而成的海石偶像致敬”。接下来又描述了它们奇异的石头城市，以及它们如何仪式性地毁掉贵金属，以取悦这只可憎的水蜥蜴。",
+    "这个故事令人困惑，也不可能是真的；但如果是真的，那就相当可怕。你想起外面的绿色雾气，又注意到今晚正是渐盈凸月。你把黏土圆柱放进袋子时，瞥见附近那尊海绿色偶像，想到这可能预示着什么，不禁更加不寒而栗。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 204",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 204",
+      "text": [
+        "You turn the hardened clay cylinders over in your hand and squint to make out the tiny script pressed into their sides. Consulting the notes stacked beside you, you begin to work out a rough translation. The cylinders tell the story of the “lake- mist green beings of Ib, with their bulging eyes, pouting, flabby lips, curious ears, and voiceless mouths.” It speaks of the origins of these strange beings, how they “descended one night from the moon in a mist” and “gave praise to the chiseled sea-stone idol of Bokrug beneath the gibbous moon.” It goes on to describe their strange city of stone and their ritual destruction of precious metals to appease this detestable water lizard.",
+        "The tale is perplexing and impossible but, if true, it is rather frightening. You recall the green mist outside and note with alarm that the moon is gibbous tonight. As you place the clay cylinders in the sack, you glance over at the sea-green idol nearby and are further chilled by what this might portend."
+      ]
+    }
+  }
+}

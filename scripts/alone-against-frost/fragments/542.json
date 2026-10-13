@@ -1,0 +1,36 @@
+{
+  "id": "542",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "542:p0",
+      "kind": "heading",
+      "text": "542",
+      "sourceLocation": "pdf:visual:[[93,54]]"
+    },
+    {
+      "id": "542:p1",
+      "kind": "body",
+      "text": "You  follow  Sylvia  as  she  is  swept  down  the  raging  stream. \nBeyond the mouth of the ravine, she washes up on a sandbar. \nHer hair is plastered over sightless eyes. You bury her nearby.",
+      "sourceLocation": "pdf:visual:[[93,55],[93,56],[93,57]]"
+    },
+    {
+      "id": "542:p2",
+      "kind": "body",
+      "text": "Norman offers a few words of comfort, but they ring hollow. \nYou are responsible for Sylvia’s death. Can you manage to get \nyour remaining student back to civilization?",
+      "sourceLocation": "pdf:visual:[[93,58],[93,59],[93,60]]"
+    },
+    {
+      "id": "542:p3",
+      "kind": "body",
+      "text": "Go to 278.",
+      "sourceLocation": "pdf:visual:[[93,61]]"
+    },
+    {
+      "id": "542:p4",
+      "kind": "trace",
+      "text": "(357, 540)",
+      "sourceLocation": "pdf:visual:[[93,62]]"
+    }
+  ]
+}

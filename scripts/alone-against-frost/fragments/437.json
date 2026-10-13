@@ -1,0 +1,30 @@
+{
+  "id": "437",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "437:p0",
+      "kind": "heading",
+      "text": "437",
+      "sourceLocation": "pdf:visual:[[77,2]]"
+    },
+    {
+      "id": "437:p1",
+      "kind": "body",
+      "text": "Your  terrified  party  races  away  from  the  scene  of  the  grisly \nattack. Can distance save you from the invisible tormentor?",
+      "sourceLocation": "pdf:visual:[[77,4],[77,6]]"
+    },
+    {
+      "id": "437:p2",
+      "kind": "body",
+      "text": "Attempt an Extreme POW roll for Bernard: if he succeeds, go to \n442; if he fails, go to 438.",
+      "sourceLocation": "pdf:visual:[[77,8],[77,9]]"
+    },
+    {
+      "id": "437:p3",
+      "kind": "trace",
+      "text": "(436, 444, 456, 547, 555)",
+      "sourceLocation": "pdf:visual:[[77,11]]"
+    }
+  ]
+}

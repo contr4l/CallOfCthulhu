@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "188"
+  ],
+  "text": [
+    "你从口袋里掏出一根随身携带的发夹，以备这种情况之用。你把它插进锁孔，笨拙地拨弄了几分钟。发夹卡住，承受着压力；有那么几秒钟，你担心它会断在锁里。接着，锁芯弹开，门咔嗒一声打开了。",
+    "你推门进入小书房，里面果然和你预想的一样。门对面有一扇窗，淡淡的绿色雾光从那里透进来，照亮了房间。房内主要摆着几座几乎空空如也的书架。房间各处还有几个玻璃陈列柜，但同样空着。房间尽头、窗户正下方是一张书桌，上面仍散落着被教授鲜血浸透的文件。",
+    "你翻找书桌抽屉，发现几叠笔记和各种个人物品。最底层的抽屉里，压着一张年代古老得难以想象的纸莎草残片，装在玻璃框中。古老文书上布满奇怪而陌生的涂写。你拿起来查看时，注意到框背面轻轻粘着一张纸，上面的涂写与纸莎草上的相同，但页边有注释。想必这是纸莎草文字的译文。",
+    "你读着译文，对其内容感到难以置信。这份纸莎草声称由一座名为“伊拉内克”的未知城市的一名祭司所写。祭司在文中记述了一群奇异而丑陋的生物，它们曾居住在被遗忘的姆纳尔之地的一座湖畔。文书详细描述了这些怪物的火焰仪式，也提到它们会在渐盈凸月下、火光映照中跳起令人难忘的舞蹈——而它们始终处于一尊海绿色石像的注视之下。石像雕成一只巨大蜥蜴的模样。",
+    "祭司的记述还提到一些用来驱逐那可憎生物影响的仪式；这些仪式由人类施行。注释中的仪式文本没有翻译，只是用标准字符转写出来，内容是：“Y’hahyar nog nglui ah, Bokrug.”这句怪异的话留在了你的脑海里。",
+    "你停下来思索这些内容的含义。你小心地把译文从框上取下，折好放进口袋作为证据，然后离开书房。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 188",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 188",
+      "text": [
+        "You reach into your pocket and produce the bobby pin you carry on you for just such an occasion. You insert it into the lock and fumble with it for a few minutes. It sticks and strains, and for a few terrible seconds you fear that it will break in the lock. And then the tumblers give, and the door clicks open.",
+        "You push your way into the small study and find the room much as you expected. The door opens across from a window, which lets in the pale, greenish light of the mist. This illuminates the room, which is adorned primarily with mostly-empty bookcases. There are also several glass display cases throughout the room, but these are similarly empty. At the far end of the room, just beneath the window, is a desk, still littered with the professor’s blood-soaked papers.",
+        "Searching through the desk drawers, you find stacks of notes and various personal items. Buried in the bottom drawer, you find an impossibly old scrap of papyrus pressed into a glass frame. All across the ancient document are strange and unusual scrawls. As you pick it up to inspect it, you notice a sheet of paper lightly attached to the back of the frame, bearing the same scrawls as the papyrus, but with annotations in its margins. Presumably, this is a translation of the papyrus’ text.",
+        "As you read it over, you marvel at the impossibility of its content. The papyrus purports to be written by a priest of an unknown city by the name of “Ilarnek.” In this account, the priest records observations of an odd and ugly race of beings who once lived upon a lake in the forgotten land of Mnar. The document goes into great detail about the fire rituals of these strange creatures, and speaks of the haunting dances they would perform in the light of the flames beneath the gibbous moon— and always under the watchful gaze of a sea-green stone idol, chiseled in the likeness of a great lizard.",
+        "The priest’s writings go on to mention rituals used to ward off the influence of that detestable creature; rituals performed by humans. The text for the ritual in the annotation is untranslated and simply rendered in standard characters, so that it reads: “Y’hahyar nog nglui ah, Bokrug.” The strange phrase sticks in your mind.",
+        "You pause for a moment to consider the implications. You carefully detach the translation, fold it up, and put it in your pocket as evidence, before exiting the study."
+      ]
+    }
+  }
+}

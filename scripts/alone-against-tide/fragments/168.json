@@ -1,0 +1,36 @@
+{
+  "id": "168",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "168:p0",
+      "kind": "heading",
+      "text": "168\n",
+      "sourceLocation": "pdf:spans:[[53,3330,3334]]"
+    },
+    {
+      "id": "168:p1",
+      "kind": "body",
+      "text": "You swing at Joshua. You manage to land a few solid blows \nbut you get as good as you give, with him hitting you several \ntimes as well. It seems like this brawl could go on for some time \nbefore a winner is decided.\n",
+      "sourceLocation": "pdf:spans:[[53,3334,3393],[53,3393,3456],[53,3456,3523],[53,3523,3551]]"
+    },
+    {
+      "id": "168:p2",
+      "kind": "body",
+      "text": "Unfortunately for you, time is not on your side. As you \ncontinue to strike out against Joshua, the door of the house \nbursts open and the other man charges you. Together, he and \nJoshua beat you into unconsciousness.\n",
+      "sourceLocation": "pdf:spans:[[53,3551,3608],[53,3608,3670],[53,3670,3731],[53,3731,3769]]"
+    },
+    {
+      "id": "168:p3",
+      "kind": "body",
+      "text": "• Go to 138.\n",
+      "sourceLocation": "pdf:spans:[[53,3771,3784]]"
+    },
+    {
+      "id": "168:p4",
+      "kind": "body",
+      "text": "(121)\n",
+      "sourceLocation": "pdf:spans:[[53,3784,3790]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "516",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "516:p0",
+      "kind": "heading",
+      "text": "516",
+      "sourceLocation": "pdf:visual:[[89,59]]"
+    },
+    {
+      "id": "516:p1",
+      "kind": "body",
+      "text": "You  dart  from  dark  corner  to  dark  corner  and  break  out \nfrom the cave. But you can see no escape route through the \nshadowy intruders.",
+      "sourceLocation": "pdf:visual:[[89,60],[89,61],[89,62]]"
+    },
+    {
+      "id": "516:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 511; if the result is odd, go \nto 332.",
+      "sourceLocation": "pdf:visual:[[89,63],[89,64]]"
+    },
+    {
+      "id": "516:p3",
+      "kind": "trace",
+      "text": "(330)",
+      "sourceLocation": "pdf:visual:[[89,65]]"
+    }
+  ]
+}

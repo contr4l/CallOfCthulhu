@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "52"
+  ],
+  "text": [
+    "这件婆罗门长袍归你了。沃伦先生花了好几分钟查看各份报价，但最终叫到的是你的名字。你领走拍品，把它折好收进公文包妥善保管。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 52",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 52",
+      "text": [
+        "The Brahmin’s robe is yours. Mr. Warren spent more than a few minutes looking over the offers, but ultimately, it was your name he called. You claim your prize and fold it away into your briefcase for safekeeping."
+      ]
+    }
+  }
+}

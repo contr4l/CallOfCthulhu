@@ -1,0 +1,30 @@
+{
+  "id": "378",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "378:p0",
+      "kind": "heading",
+      "text": "378",
+      "sourceLocation": "pdf:visual:[[68,56]]"
+    },
+    {
+      "id": "378:p1",
+      "kind": "body",
+      "text": "Norman exerts his usual steadying influence, and together you \nshake off the worst effects of the fight. You fetch out the first \naid kit and then turn your attention to the dead creature. ",
+      "sourceLocation": "pdf:visual:[[68,57],[68,58],[68,59]]"
+    },
+    {
+      "id": "378:p2",
+      "kind": "body",
+      "text": "You  may  attempt  a  First  Aid  roll  to  restore  1D3  hit  points  to \nyourself and Norman (if you lost that many). Afterward, go to 379.",
+      "sourceLocation": "pdf:visual:[[68,60],[68,61]]"
+    },
+    {
+      "id": "378:p3",
+      "kind": "trace",
+      "text": "(376)",
+      "sourceLocation": "pdf:visual:[[68,62]]"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "39"
+  ],
+  "text": [
+    "你试着温言安慰阿米莉娅，想让她从刚才的惊吓中平静下来。尽管你尽了最大努力，她看起来仍无法自已。她抽泣着，试图给出一个无力的解释：“是乔什……他、他只是想帮忙……”她继续哭泣，深陷恐惧之中。",
+    "她现在似乎帮不上你什么忙。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 39",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 39",
+      "text": [
+        "You attempt to speak kindly to Amelia, trying to soothe her regarding the frightening events that have just occurred. Despite your best efforts, she appears inconsolable. Between her sobs, she tries to offer a feeble explanation. “It was Josh… H-he was only trying to h-help…” She continues crying, lost in her fear.",
+        "It doesn’t seem like she’ll be much use to you at the moment."
+      ]
+    }
+  }
+}

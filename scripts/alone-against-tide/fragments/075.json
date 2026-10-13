@@ -1,0 +1,36 @@
+{
+  "id": "75",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "75:p0",
+      "kind": "heading",
+      "text": "75\n",
+      "sourceLocation": "pdf:spans:[[28,26,29]]"
+    },
+    {
+      "id": "75:p1",
+      "kind": "body",
+      "text": "Try as you might, you are unable to get the door open. No \nmanner of fiddling with the lock will get it to budge. You even \nresort to force by throwing your weight against the door.\n",
+      "sourceLocation": "pdf:spans:[[28,29,88],[28,88,153],[28,153,211]]"
+    },
+    {
+      "id": "75:p2",
+      "kind": "body",
+      "text": "With a sigh of resignation, you abandon your task.\n",
+      "sourceLocation": "pdf:spans:[[28,211,262]]"
+    },
+    {
+      "id": "75:p3",
+      "kind": "body",
+      "text": "• Go to 140.\n",
+      "sourceLocation": "pdf:spans:[[28,262,275]]"
+    },
+    {
+      "id": "75:p4",
+      "kind": "body",
+      "text": "(7, 110)\n",
+      "sourceLocation": "pdf:spans:[[28,275,284]]"
+    }
+  ]
+}

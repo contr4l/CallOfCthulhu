@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "178"
+  ],
+  "text": [
+    "你先看向那座奇怪的祭坛，再看向那叠笔记。你翻阅笔记，拼凑出祭坛侧面用干涸血迹写下的文字：“博克鲁格将为萨尔纳斯带来毁灭。”你查看祭坛时，还注意到大段血字正下方藏着更小的字迹——这次是用墨水写的。小字似乎是一段咒文：“Y’hahyar nog nglui ah, Bokrug.”这些词留在了你的脑海里。",
+    "你开始把这件宗教物品塞进袋子时，注意到祭坛另一侧也有相似的文字，是用新鲜血液写的。大部分字符都一样，你再次查阅笔记，补全翻译。你解出了缺失的词，发现文字现在写的是：“博克鲁格将为埃斯伯里带来毁灭。”",
+    "你有些不安，但还是把祭坛彻底塞进包里，知道它是某种邪教活动或疯狂宗教信仰的证据。",
+    "这个念头让你很不舒服。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 178",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 178",
+      "text": [
+        "You fix your eyes first on the strange altar, and then on the stack of notes. Rifling through them, you are able to piece together the characters written in dried blood on the altar’s side: “Bokrug brings DOOM to Sarnath.” As you look over the altar, you also notice smaller letters—this time written in ink—hidden just beneath the larger bloody characters. The smaller text appears to be some sort of chant: “Y’hahyar nog nglui ah, Bokrug.” The words stick in your mind.",
+        "As you begin stuffing the religious object into your sack, you note a similar script on the other side of the altar, written in fresh blood. Most of the characters are the same and you once again consult the notes to finish the translation. You decode the missing word to find the text now reads: “Bokrug brings DOOM to Esbury.”",
+        "Somewhat unnerved, you finish shoving the altar into your bag, knowing that it’s evidence of some sort of cult practice or deranged religious belief.",
+        "The thought does not sit well with you."
+      ]
+    }
+  }
+}

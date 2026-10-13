@@ -1,0 +1,42 @@
+{
+  "id": "107",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "107:p0",
+      "kind": "heading",
+      "text": "107\n",
+      "sourceLocation": "pdf:spans:[[36,26,30]]"
+    },
+    {
+      "id": "107:p1",
+      "kind": "body",
+      "text": "You spot a paperclip lying just outside the bars of your cell. \nNo doubt it fell off one of the stacks of documents on Officer \nPowell’s desk. You slip your hand between the bars and reach \nout to grab it, sighing with relief at your good fortune. You \nbend the paperclip to serve as an improvised lockpick. Glancing \nup, you see that Officer Powell is still turned away from you, \npuffing absentmindedly on his cigar.\n",
+      "sourceLocation": "pdf:spans:[[36,30,94],[36,94,158],[36,158,220],[36,220,283],[36,283,348],[36,348,412],[36,412,449]]"
+    },
+    {
+      "id": "107:p2",
+      "kind": "body",
+      "text": "You set to work trying to get the lock open. The lock is \nstrong, as it’s meant to keep criminals safely behind bars, but it \nis no match for your skills. It takes you some time to finally get \nit open, but eventually you feel it give way.\n",
+      "sourceLocation": "pdf:spans:[[36,449,507],[36,507,575],[36,575,643],[36,643,689]]"
+    },
+    {
+      "id": "107:p3",
+      "kind": "body",
+      "text": "You check on Officer Powell one more time. He seems to be \npaying you no attention. If your luck holds, you may be able to \nsneak out of the prison cell without him noticing.\n",
+      "sourceLocation": "pdf:spans:[[36,689,748],[36,748,813],[36,813,864]]"
+    },
+    {
+      "id": "107:p4",
+      "kind": "body",
+      "text": "• Make a Stealth roll: if you succeed, go to 10; if you fail, go to 146.\n",
+      "sourceLocation": "pdf:spans:[[36,864,937]]"
+    },
+    {
+      "id": "107:p5",
+      "kind": "body",
+      "text": "(65)\n",
+      "sourceLocation": "pdf:spans:[[36,937,942]]"
+    }
+  ]
+}

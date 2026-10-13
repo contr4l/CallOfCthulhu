@@ -1,0 +1,30 @@
+{
+  "id": "65",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "65:p0",
+      "kind": "heading",
+      "text": "65",
+      "sourceLocation": "pdf:visual:[[21,84]]"
+    },
+    {
+      "id": "65:p1",
+      "kind": "body",
+      "text": "As the wind turns, you catch the sound of humming, as if from \na motor—an unlikely prospect, considering where you are. You \norder your party to hold position and work your way up the \nravine, cautiously peering around the bend.",
+      "sourceLocation": "pdf:visual:[[21,85],[21,86],[21,87],[21,88]]"
+    },
+    {
+      "id": "65:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you succeed, go to 114; if you fail, lose 1D6 \nSanity and go to 70. ",
+      "sourceLocation": "pdf:visual:[[21,89],[21,90]]"
+    },
+    {
+      "id": "65:p3",
+      "kind": "trace",
+      "text": "(64)",
+      "sourceLocation": "pdf:visual:[[21,91]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "104"
+  ],
+  "text": [
+    "你告诉那人自己是古董收藏家，听说这里将举行遗产拍卖，会出售一些有意思的东西。船夫慢慢点头。“你听说得没错，朋友。哈里斯教授的遗物今晚由他的遗孀阿米莉娅在遗产拍卖会上出售。他遭遇那种事真可惜，不过他的损失大概就是你的收获吧。”船夫迟疑片刻，随后伸手与你打招呼。“对了，我叫兰斯·桑福德。很高兴认识你。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 104",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 104",
+      "text": [
+        "You tell the man that you’re a collector of antiquities, and that you heard there’s going to be an estate sale of some items of interest here. The ferryman nods slowly. “You heard right, friend. Professor Harris’ things are being sold off by his widow, Amelia, at an estate sale tonight. Shame about what happened to him, but his loss is your gain I suppose.” The ferryman hesitates a moment before extending a hand toward you in greeting. “I’m Lance Sanford by the way. Pleased to make your acquaintance.”"
+      ]
+    }
+  }
+}

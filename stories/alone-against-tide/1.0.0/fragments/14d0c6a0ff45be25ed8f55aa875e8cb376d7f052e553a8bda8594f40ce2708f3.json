@@ -1,0 +1,37 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "84"
+  ],
+  "text": [
+    "鲍威尔警官对你的一举一动都怒目而视。尽管他懒散，却一直紧盯着你，你一时半会儿休想溜走。无论你怎么说，他都不理会你的请求，不肯放你离开。时间缓慢流逝。你们独自待在房间里，空气渐渐变得闷热难耐。鲍威尔打开一扇窗，让房间通通风。",
+    "你望着窗外绿色的浓雾，心中涌起强烈的不安，仿佛有什么东西正从雾中回望着你。你甩开这非理性的恐惧，强迫自己思考如何才能获得自由。",
+    "你没想多久。不安感越来越强，最终吞噬了你。你知道有什么东西正在逼近。你先听见了喊叫声——街上的人们陷入恐慌。喊声响起时，鲍威尔警官猛地从无声的守候中惊醒，随即冲出去维持秩序。",
+    "他离开了很久，喊叫声仍在继续。接着水位上涨，渗过门口，涌进你被困的小楼里。起初只是打湿地板，很快便漫过脚踝，然后淹到膝盖，再到腰部。短短几小时里，水位不断上涨，似乎没有停下的迹象。铁栏、浓雾和洪水让你彻底陷入困境。",
+    "真正的疯狂此刻攫住了你。你发誓自己能在翻涌的雾气里辨认出陌生而异样的形体——可怕、松垮的东西，长着细长的肢体和下垂的五官。它们显然不是人类。就在这些幻觉——它们肯定只能是幻觉——开始出现时，你听见喊叫变成彻底的尖叫，随后在夜色中消失，被浓雾扼住。",
+    "透过窗户，你看见多处火光在埃斯伯里升起，照亮并吞噬着一切；与此同时，洪水上涨，淹没整座城镇。烟味与浓雾混在一起，钻进你的鼻子。",
+    "你试着说服自己这只是惊恐发作，一切都是梦，都不是真的。你不知道发生了什么，也不知道原因。你完全不明白这些残酷而骇人的怪物是如何出现的，也不知道它们为何从那片诡异的浓雾中涌出。你不知道这一切缘由。",
+    "而你永远也不会知道。水位继续上升，你被托着浮起，拼命喘气，头顶离天花板只剩几英寸。水漫过你的头顶，你的肺灌满水，最终溺亡。你已经死亡。就目前情况而言，你的角色在不知这些邪恶恐怖之物本质的情况下死去；也许这样反倒更好。你可以重新开始，争取更好的结果，或者至少弄清更多事情。不过此刻，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 84",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 84",
+      "text": [
+        "Officer Powell glowers at your every little action. Despite his laziness, he keeps a close eye on you, and you won’t be slipping away any time soon. No matter what words you try, he ignores your pleas for release. The hours drag on. As the two of you sit alone in the room, the air becomes warm and stifling. Powell opens a window to let the room air out.",
+        "You stare out into the green fog and feel a great sense of unease, as if something is staring back at you. You shake off this irrational fear and busy your mind with thoughts of how to obtain your freedom.",
+        "You don’t ponder for long. Your sense of unease grows greater until it’s all-consuming. You know that something is coming. You hear the shouting first. People panicking in the streets. Officer Powell jerks out of his silent vigil when the shouting begins, before rushing outside to restore order.",
+        "He’s gone for quite some time and the shouting continues. And then the water rises, seeping through the doorway and into the small building that you’re stuck in. At first it merely wets the floor, but soon you’re up to your ankles in it. Then your knees. Then your waist. In the course of a few hours, it rises with little sign of stopping. Between the bars, the fog, and the water, you feel thoroughly trapped.",
+        "Real madness overtakes you now. You swear that you can make out strange and alien shapes within the swirling mists— horrible, flabby things with slender limbs and sagging features. They are decidedly unhuman. When these hallucinations—for that is what they must surely be—begin, you hear the shouts turn to full-fledged screams, and then die out in the night, choked by the mist.",
+        "Through the window, you see the light from multiple fires glowing within Esbury, illuminating and consuming everything, even as the water rises to swallow up the town. You smell the smoke mingling with the fog.",
+        "You try to convince yourself that you’re having a panic attack, that this is all a dream, that this isn’t real. You don’t know what is happening, or why. You have no idea how these cruel and unnaturally horrific things came to be. You have no idea why they emerged from that eerie fog. You don’t know any of the reasons for this.",
+        "And you never will. The water rises, and you float upwards, gasping for air with only inches between you and the ceiling. As the water rises over your head, your lungs fill, and you drown. You have died. As it stands, your character died ignorant of the nature of these unholy horrors, and perhaps that is for the best. If you wish, you may begin again and try for a better outcome, or at least one that explains the goings-on further. For now, though, your visit to Esbury is over."
+      ]
+    }
+  }
+}

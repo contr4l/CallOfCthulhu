@@ -1,0 +1,568 @@
+{
+  "id": "section-game-overview",
+  "paragraphs": [
+    {
+      "id": "section-game-overview:p0000",
+      "kind": "body",
+      "text": "Game overview\n",
+      "sourceLocation": "pdf:spans:[[102,0,14]]"
+    },
+    {
+      "id": "section-game-overview:p0001",
+      "kind": "body",
+      "text": "Dice rolls: Rolling a 1 is always a\n",
+      "sourceLocation": "pdf:spans:[[102,14,50]]"
+    },
+    {
+      "id": "section-game-overview:p0002",
+      "kind": "body",
+      "text": "failure and rolling a 6 is always a\n",
+      "sourceLocation": "pdf:spans:[[102,50,86]]"
+    },
+    {
+      "id": "section-game-overview:p0003",
+      "kind": "body",
+      "text": "success, no matter what the\n",
+      "sourceLocation": "pdf:spans:[[102,86,114]]"
+    },
+    {
+      "id": "section-game-overview:p0004",
+      "kind": "body",
+      "text": "modifiers.\n",
+      "sourceLocation": "pdf:spans:[[102,114,125]]"
+    },
+    {
+      "id": "section-game-overview:p0005",
+      "kind": "body",
+      "text": "Explosion on 6: On any d6 roll\n",
+      "sourceLocation": "pdf:spans:[[102,125,156]]"
+    },
+    {
+      "id": "section-game-overview:p0006",
+      "kind": "body",
+      "text": "except tables, if you roll a 6 you add\n",
+      "sourceLocation": "pdf:spans:[[102,156,195]]"
+    },
+    {
+      "id": "section-game-overview:p0007",
+      "kind": "body",
+      "text": "another d6 to the result. Continue\n",
+      "sourceLocation": "pdf:spans:[[102,195,230]]"
+    },
+    {
+      "id": "section-game-overview:p0008",
+      "kind": "body",
+      "text": "doing this until you keep rolling 6.\n",
+      "sourceLocation": "pdf:spans:[[102,230,267]]"
+    },
+    {
+      "id": "section-game-overview:p0009",
+      "kind": "body",
+      "text": "Attack roll: Roll d6+ weapon and\n",
+      "sourceLocation": "pdf:spans:[[102,267,300]]"
+    },
+    {
+      "id": "section-game-overview:p0010",
+      "kind": "body",
+      "text": "Skill modifiers. Equal or beat\n",
+      "sourceLocation": "pdf:spans:[[102,300,331]]"
+    },
+    {
+      "id": "section-game-overview:p0011",
+      "kind": "body",
+      "text": "target’s L to inflict the attack’s\n",
+      "sourceLocation": "pdf:spans:[[102,331,366]]"
+    },
+    {
+      "id": "section-game-overview:p0012",
+      "kind": "body",
+      "text": "Damage. If you surpass L multiple\n",
+      "sourceLocation": "pdf:spans:[[102,366,400]]"
+    },
+    {
+      "id": "section-game-overview:p0013",
+      "kind": "body",
+      "text": "times, apply Damage multiple\n",
+      "sourceLocation": "pdf:spans:[[102,400,429]]"
+    },
+    {
+      "id": "section-game-overview:p0014",
+      "kind": "body",
+      "text": "times.\n",
+      "sourceLocation": "pdf:spans:[[102,429,436]]"
+    },
+    {
+      "id": "section-game-overview:p0015",
+      "kind": "body",
+      "text": "Defense roll: Roll d6+ Skill\n",
+      "sourceLocation": "pdf:spans:[[102,436,465]]"
+    },
+    {
+      "id": "section-game-overview:p0016",
+      "kind": "body",
+      "text": "modifiers. Equal or beat target’s L to\n",
+      "sourceLocation": "pdf:spans:[[102,465,504]]"
+    },
+    {
+      "id": "section-game-overview:p0017",
+      "kind": "body",
+      "text": "avoid target’s Attack.\n",
+      "sourceLocation": "pdf:spans:[[102,504,527]]"
+    },
+    {
+      "id": "section-game-overview:p0018",
+      "kind": "body",
+      "text": "Save: roll d6 + any modifiers that\n",
+      "sourceLocation": "pdf:spans:[[102,527,562]]"
+    },
+    {
+      "id": "section-game-overview:p0019",
+      "kind": "body",
+      "text": "apply vs. the L of the danger. On a\n",
+      "sourceLocation": "pdf:spans:[[102,562,598]]"
+    },
+    {
+      "id": "section-game-overview:p0020",
+      "kind": "body",
+      "text": "success, you avoid the danger. On a\n",
+      "sourceLocation": "pdf:spans:[[102,598,634]]"
+    },
+    {
+      "id": "section-game-overview:p0021",
+      "kind": "body",
+      "text": "failure, you suffer its effects.\n",
+      "sourceLocation": "pdf:spans:[[102,634,667]]"
+    },
+    {
+      "id": "section-game-overview:p0022",
+      "kind": "body",
+      "text": "Food: Eat 1 Food every 5 boxes, or\n",
+      "sourceLocation": "pdf:spans:[[102,667,702]]"
+    },
+    {
+      "id": "section-game-overview:p0023",
+      "kind": "body",
+      "text": "take 1 Damage.\n",
+      "sourceLocation": "pdf:spans:[[102,702,717]]"
+    },
+    {
+      "id": "section-game-overview:p0024",
+      "kind": "body",
+      "text": "Life: You may prevent damage by\n",
+      "sourceLocation": "pdf:spans:[[102,717,749]]"
+    },
+    {
+      "id": "section-game-overview:p0025",
+      "kind": "body",
+      "text": "rolling on the Injuries table. Injuries\n",
+      "sourceLocation": "pdf:spans:[[102,749,789]]"
+    },
+    {
+      "id": "section-game-overview:p0026",
+      "kind": "body",
+      "text": "are permanent. If your Life goes to\n",
+      "sourceLocation": "pdf:spans:[[102,789,825]]"
+    },
+    {
+      "id": "section-game-overview:p0027",
+      "kind": "body",
+      "text": "0, you die and lose the game.\n",
+      "sourceLocation": "pdf:spans:[[102,825,855]]"
+    },
+    {
+      "id": "section-game-overview:p0028",
+      "kind": "body",
+      "text": "Sanity: You may prevent a Sanity\n",
+      "sourceLocation": "pdf:spans:[[102,855,888]]"
+    },
+    {
+      "id": "section-game-overview:p0029",
+      "kind": "body",
+      "text": "loss by rolling on the Insanity table.\n",
+      "sourceLocation": "pdf:spans:[[102,888,927]]"
+    },
+    {
+      "id": "section-game-overview:p0030",
+      "kind": "body",
+      "text": "Mental Scars are permanent. If your\n",
+      "sourceLocation": "pdf:spans:[[102,927,963]]"
+    },
+    {
+      "id": "section-game-overview:p0031",
+      "kind": "body",
+      "text": "Sanity goes to 0, you\n",
+      "sourceLocation": "pdf:spans:[[102,963,985]]"
+    },
+    {
+      "id": "section-game-overview:p0032",
+      "kind": "body",
+      "text": "become insane and lose\n",
+      "sourceLocation": "pdf:spans:[[102,985,1008]]"
+    },
+    {
+      "id": "section-game-overview:p0033",
+      "kind": "body",
+      "text": "the game.\n",
+      "sourceLocation": "pdf:spans:[[102,1008,1018]]"
+    },
+    {
+      "id": "section-game-overview:p0034",
+      "kind": "body",
+      "text": "● Create a character. Choose 2 Skills. You have 2 items from the Useful Stuff table\n",
+      "sourceLocation": "pdf:spans:[[102,1018,1102]]"
+    },
+    {
+      "id": "section-game-overview:p0035",
+      "kind": "body",
+      "text": "(p.22) or the Random Objects table (p.20) and 1 random weapon (p.20). If you play\n",
+      "sourceLocation": "pdf:spans:[[102,1102,1184]]"
+    },
+    {
+      "id": "section-game-overview:p0036",
+      "kind": "body",
+      "text": "an already existing character, keep all equipment, skills and XP accumulated in play.\n",
+      "sourceLocation": "pdf:spans:[[102,1184,1270]]"
+    },
+    {
+      "id": "section-game-overview:p0037",
+      "kind": "body",
+      "text": "All Life and Sanity points lost are fully healed between games.\n",
+      "sourceLocation": "pdf:spans:[[102,1270,1334]]"
+    },
+    {
+      "id": "section-game-overview:p0038",
+      "kind": "body",
+      "text": "● Roll on the Mission table, p.40 to determine your goal for the current game.\n",
+      "sourceLocation": "pdf:spans:[[102,1334,1413]]"
+    },
+    {
+      "id": "section-game-overview:p0039",
+      "kind": "body",
+      "text": "● Move through the boxes on the town map sheet, numbering every box you move\n",
+      "sourceLocation": "pdf:spans:[[102,1413,1490]]"
+    },
+    {
+      "id": "section-game-overview:p0040",
+      "kind": "body",
+      "text": "into to keep track of the passage of time. Roll on the Town Exploration table, p.42,\n",
+      "sourceLocation": "pdf:spans:[[102,1490,1575]]"
+    },
+    {
+      "id": "section-game-overview:p0041",
+      "kind": "body",
+      "text": "every time you travel to a new box.\n",
+      "sourceLocation": "pdf:spans:[[102,1575,1611]]"
+    },
+    {
+      "id": "section-game-overview:p0042",
+      "kind": "body",
+      "text": "● If there is an encounter, roll on the appropriate sub-table to determine who or\n",
+      "sourceLocation": "pdf:spans:[[102,1611,1693]]"
+    },
+    {
+      "id": "section-game-overview:p0043",
+      "kind": "body",
+      "text": "what you encounter. Resolve the encounter. You may pick up any Loot found. You\n",
+      "sourceLocation": "pdf:spans:[[102,1693,1772]]"
+    },
+    {
+      "id": "section-game-overview:p0044",
+      "kind": "body",
+      "text": "may discard objects or leave them in a Safe House.\n",
+      "sourceLocation": "pdf:spans:[[102,1772,1823]]"
+    },
+    {
+      "id": "section-game-overview:p0045",
+      "kind": "body",
+      "text": "● If there is no encounter, or if you solved an encounter without escaping, you may\n",
+      "sourceLocation": "pdf:spans:[[102,1823,1907]]"
+    },
+    {
+      "id": "section-game-overview:p0046",
+      "kind": "body",
+      "text": "Search that box looking for Clues or useful stuff. Mark the box as Searched (”S”) as\n",
+      "sourceLocation": "pdf:spans:[[102,1907,1992]]"
+    },
+    {
+      "id": "section-game-overview:p0047",
+      "kind": "body",
+      "text": "each box may be Searched only once per game.\n",
+      "sourceLocation": "pdf:spans:[[102,1992,2037]]"
+    },
+    {
+      "id": "section-game-overview:p0048",
+      "kind": "body",
+      "text": "● If you move through a box that you already visited, roll a 1 in 6 chance of a random\n",
+      "sourceLocation": "pdf:spans:[[102,2037,2124]]"
+    },
+    {
+      "id": "section-game-overview:p0049",
+      "kind": "body",
+      "text": "encounter. If that happens, roll on the Random Encounter table, p.39, to determine\n",
+      "sourceLocation": "pdf:spans:[[102,2124,2207]]"
+    },
+    {
+      "id": "section-game-overview:p0050",
+      "kind": "body",
+      "text": "what you encounter, then roll on the appropriate sub-table. If you move into a Safe\n",
+      "sourceLocation": "pdf:spans:[[102,2207,2291]]"
+    },
+    {
+      "id": "section-game-overview:p0051",
+      "kind": "body",
+      "text": "House box, do not roll for encounters.\n",
+      "sourceLocation": "pdf:spans:[[102,2291,2330]]"
+    },
+    {
+      "id": "section-game-overview:p0052",
+      "kind": "body",
+      "text": "● Once you have completed your mission and returned Home, the game ends.\n",
+      "sourceLocation": "pdf:spans:[[102,2330,2403]]"
+    },
+    {
+      "id": "section-game-overview:p0053",
+      "kind": "body",
+      "text": "Random initial skill table 1 (d6)\n",
+      "sourceLocation": "pdf:spans:[[103,0,34]]"
+    },
+    {
+      "id": "section-game-overview:p0054",
+      "kind": "body",
+      "text": "1 Agile\n",
+      "sourceLocation": "pdf:spans:[[103,34,42]]"
+    },
+    {
+      "id": "section-game-overview:p0055",
+      "kind": "body",
+      "text": "2 Bow\n",
+      "sourceLocation": "pdf:spans:[[103,42,48]]"
+    },
+    {
+      "id": "section-game-overview:p0056",
+      "kind": "body",
+      "text": "3 Charisma\n",
+      "sourceLocation": "pdf:spans:[[103,48,59]]"
+    },
+    {
+      "id": "section-game-overview:p0057",
+      "kind": "body",
+      "text": "4 Danger sense\n",
+      "sourceLocation": "pdf:spans:[[103,59,74]]"
+    },
+    {
+      "id": "section-game-overview:p0058",
+      "kind": "body",
+      "text": "5 Dodge or Will (choose)\n",
+      "sourceLocation": "pdf:spans:[[103,74,99]]"
+    },
+    {
+      "id": "section-game-overview:p0059",
+      "kind": "body",
+      "text": "6 Faith or Will (choose)\n",
+      "sourceLocation": "pdf:spans:[[103,99,124]]"
+    },
+    {
+      "id": "section-game-overview:p0060",
+      "kind": "body",
+      "text": "Random initial skill table 2 (d6)\n",
+      "sourceLocation": "pdf:spans:[[103,124,158]]"
+    },
+    {
+      "id": "section-game-overview:p0061",
+      "kind": "body",
+      "text": "1 Fighter\n",
+      "sourceLocation": "pdf:spans:[[103,158,168]]"
+    },
+    {
+      "id": "section-game-overview:p0062",
+      "kind": "body",
+      "text": "2 Good Shot\n",
+      "sourceLocation": "pdf:spans:[[103,168,180]]"
+    },
+    {
+      "id": "section-game-overview:p0063",
+      "kind": "body",
+      "text": "3 Investigator\n",
+      "sourceLocation": "pdf:spans:[[103,180,195]]"
+    },
+    {
+      "id": "section-game-overview:p0064",
+      "kind": "body",
+      "text": "4 Medic\n",
+      "sourceLocation": "pdf:spans:[[103,195,203]]"
+    },
+    {
+      "id": "section-game-overview:p0065",
+      "kind": "body",
+      "text": "5 Occultist\n",
+      "sourceLocation": "pdf:spans:[[103,203,215]]"
+    },
+    {
+      "id": "section-game-overview:p0066",
+      "kind": "body",
+      "text": "6 Resilient or Vampire Hunter\n",
+      "sourceLocation": "pdf:spans:[[103,215,245]]"
+    },
+    {
+      "id": "section-game-overview:p0067",
+      "kind": "body",
+      "text": "(choose)\n",
+      "sourceLocation": "pdf:spans:[[103,245,254]]"
+    },
+    {
+      "id": "section-game-overview:p0068",
+      "kind": "body",
+      "text": "Random initial skill table 3 (d6)\n",
+      "sourceLocation": "pdf:spans:[[103,254,288]]"
+    },
+    {
+      "id": "section-game-overview:p0069",
+      "kind": "body",
+      "text": "1 Resistant to Hunger\n",
+      "sourceLocation": "pdf:spans:[[103,288,310]]"
+    },
+    {
+      "id": "section-game-overview:p0070",
+      "kind": "body",
+      "text": "2 Strong Grip on Reality\n",
+      "sourceLocation": "pdf:spans:[[103,310,335]]"
+    },
+    {
+      "id": "section-game-overview:p0071",
+      "kind": "body",
+      "text": "3 Slippery\n",
+      "sourceLocation": "pdf:spans:[[103,335,346]]"
+    },
+    {
+      "id": "section-game-overview:p0072",
+      "kind": "body",
+      "text": "4 Stealth\n",
+      "sourceLocation": "pdf:spans:[[103,346,356]]"
+    },
+    {
+      "id": "section-game-overview:p0073",
+      "kind": "body",
+      "text": "5 Strong\n",
+      "sourceLocation": "pdf:spans:[[103,356,365]]"
+    },
+    {
+      "id": "section-game-overview:p0074",
+      "kind": "body",
+      "text": "6 Tough or Zombie Hunter\n",
+      "sourceLocation": "pdf:spans:[[103,365,390]]"
+    },
+    {
+      "id": "section-game-overview:p0075",
+      "kind": "body",
+      "text": "(choose)\n",
+      "sourceLocation": "pdf:spans:[[103,390,399]]"
+    },
+    {
+      "id": "section-game-overview:p0076",
+      "kind": "body",
+      "text": "Random Initial Skill Generation\n",
+      "sourceLocation": "pdf:spans:[[103,399,431]]"
+    },
+    {
+      "id": "section-game-overview:p0077",
+      "kind": "body",
+      "text": "If you prefer, instead of picking them, you can generate your character’s\n",
+      "sourceLocation": "pdf:spans:[[103,431,505]]"
+    },
+    {
+      "id": "section-game-overview:p0078",
+      "kind": "body",
+      "text": "Skills randomly. Roll d6 for each Skill. On a 1-2, roll on table 1; on a 3-4,\n",
+      "sourceLocation": "pdf:spans:[[103,505,583]]"
+    },
+    {
+      "id": "section-game-overview:p0079",
+      "kind": "body",
+      "text": "roll on table 2; and on a 5-6, roll on table 3. Then roll on the appropriate\n",
+      "sourceLocation": "pdf:spans:[[103,583,660]]"
+    },
+    {
+      "id": "section-game-overview:p0080",
+      "kind": "body",
+      "text": "table.\n",
+      "sourceLocation": "pdf:spans:[[103,660,667]]"
+    },
+    {
+      "id": "section-game-overview:p0081",
+      "kind": "body",
+      "text": "Encumbrance Summary\n",
+      "sourceLocation": "pdf:spans:[[103,667,687]]"
+    },
+    {
+      "id": "section-game-overview:p0082",
+      "kind": "body",
+      "text": "You may carry 1 object in each hand or 1 two-handed weapon using 2\n",
+      "sourceLocation": "pdf:spans:[[103,687,754]]"
+    },
+    {
+      "id": "section-game-overview:p0083",
+      "kind": "body",
+      "text": "hands; you may also carry:\n",
+      "sourceLocation": "pdf:spans:[[103,754,781]]"
+    },
+    {
+      "id": "section-game-overview:p0084",
+      "kind": "body",
+      "text": "● 10 objects;\n",
+      "sourceLocation": "pdf:spans:[[103,781,795]]"
+    },
+    {
+      "id": "section-game-overview:p0085",
+      "kind": "body",
+      "text": "● 10 Food points; Extra Food count as 1 object each.\n",
+      "sourceLocation": "pdf:spans:[[103,795,848]]"
+    },
+    {
+      "id": "section-game-overview:p0086",
+      "kind": "body",
+      "text": "● Any number of  objects with negligible weight;\n",
+      "sourceLocation": "pdf:spans:[[103,848,897]]"
+    },
+    {
+      "id": "section-game-overview:p0087",
+      "kind": "body",
+      "text": "● Add +3 items if you are Strong, or +5 if you are Strong (Expert);\n",
+      "sourceLocation": "pdf:spans:[[103,897,965]]"
+    },
+    {
+      "id": "section-game-overview:p0088",
+      "kind": "body",
+      "text": "● Add +5 items if you have a backpack; if the backpack is stolen or\n",
+      "sourceLocation": "pdf:spans:[[103,965,1033]]"
+    },
+    {
+      "id": "section-game-overview:p0089",
+      "kind": "body",
+      "text": "destroyed, you lose ALL objects carried, except those in your hands.\n",
+      "sourceLocation": "pdf:spans:[[103,1033,1102]]"
+    },
+    {
+      "id": "section-game-overview:p0090",
+      "kind": "body",
+      "text": "Name XP Sanity Life\n",
+      "sourceLocation": "pdf:spans:[[104,19,39]]"
+    },
+    {
+      "id": "section-game-overview:p0091",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[104,39,41]]"
+    },
+    {
+      "id": "section-game-overview:p0092",
+      "kind": "body",
+      "text": "Clues\n",
+      "sourceLocation": "pdf:spans:[[104,41,47]]"
+    }
+  ],
+  "sourcePages": [
+    102,
+    103,
+    104
+  ]
+}

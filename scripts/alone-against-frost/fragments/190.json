@@ -1,0 +1,30 @@
+{
+  "id": "190",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "190:p0",
+      "kind": "heading",
+      "text": "190",
+      "sourceLocation": "pdf:visual:[[42,1]]"
+    },
+    {
+      "id": "190:p1",
+      "kind": "body",
+      "text": "When the tracks climb a slope of jagged talus, the trail vanishes. \nYou search for the remainder of the day but fail to reacquire it. \nFinally, you and Norman sit together in silence. Neither of you \nwants to admit that Sylvia is just as lost as Bernard. But you are \nout of options and must attempt to return to civilization.",
+      "sourceLocation": "pdf:visual:[[42,2],[42,3],[42,4],[42,5],[42,6]]"
+    },
+    {
+      "id": "190:p2",
+      "kind": "body",
+      "text": "Go to 279. ",
+      "sourceLocation": "pdf:visual:[[42,7]]"
+    },
+    {
+      "id": "190:p3",
+      "kind": "trace",
+      "text": "(128)",
+      "sourceLocation": "pdf:visual:[[42,8]]"
+    }
+  ]
+}

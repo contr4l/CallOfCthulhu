@@ -1,0 +1,36 @@
+{
+  "id": "92",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "92:p0",
+      "kind": "heading",
+      "text": "92",
+      "sourceLocation": "pdf:visual:[[26,17]]"
+    },
+    {
+      "id": "92:p1",
+      "kind": "body",
+      "text": "The exhausted student clings to a rock until Norman can inch \nback over the ledge and pull him out of the merciless current. \nSoaked through, Bernard pushes himself against the rock wall \nand takes a few deep breaths.",
+      "sourceLocation": "pdf:visual:[[26,18],[26,19],[26,20],[26,21]]"
+    },
+    {
+      "id": "92:p2",
+      "kind": "body",
+      "text": "That was a narrow escape. You must seriously consider if \nyou should risk further danger. You could be minutes from \nan important discovery, but you are ill-equipped to traverse \nthe waterway.",
+      "sourceLocation": "pdf:visual:[[26,22],[26,23],[26,24],[26,25]]"
+    },
+    {
+      "id": "92:p3",
+      "kind": "body",
+      "text": "To continue to explore the fissure, go to 605. To start for home, go \nto 158.",
+      "sourceLocation": "pdf:visual:[[26,26],[26,27]]"
+    },
+    {
+      "id": "92:p4",
+      "kind": "trace",
+      "text": "(643)",
+      "sourceLocation": "pdf:visual:[[26,28]]"
+    }
+  ]
+}

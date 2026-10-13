@@ -1,0 +1,42 @@
+{
+  "id": "119",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "119:p0",
+      "kind": "heading",
+      "text": "119",
+      "sourceLocation": "pdf:visual:[[30,29]]"
+    },
+    {
+      "id": "119:p1",
+      "kind": "body",
+      "text": "Day by day, the specter of starvation shadows your trek. You \nfail to find sufficient food and are wracked with hunger spasms \nand become weakened and lethargic. As you trudge along the \nshores of the North Hanninah, no game in sight, you suddenly \nfeel a psychic change.",
+      "sourceLocation": "pdf:visual:[[30,30],[30,31],[30,32],[30,33],[30,34]]"
+    },
+    {
+      "id": "119:p2",
+      "kind": "body",
+      "text": "29",
+      "sourceLocation": "pdf:visual:[[30,35]]"
+    },
+    {
+      "id": "119:p3",
+      "kind": "body",
+      "text": "Something  presses  down  upon  you,  something  oppressive \nand stifling. It forces you to your knees in the pebbly sand. Is \nthis real or some creation of your imagination?",
+      "sourceLocation": "pdf:visual:[[30,37],[30,38],[30,39]]"
+    },
+    {
+      "id": "119:p4",
+      "kind": "body",
+      "text": "This attack has a POW of 80. Make an opposed roll with your own \nPOW. If you win, go to 120. If you lose, go to 162. ",
+      "sourceLocation": "pdf:visual:[[30,40],[30,41]]"
+    },
+    {
+      "id": "119:p5",
+      "kind": "trace",
+      "text": "(67, 126, 597)",
+      "sourceLocation": "pdf:visual:[[30,42]]"
+    }
+  ]
+}

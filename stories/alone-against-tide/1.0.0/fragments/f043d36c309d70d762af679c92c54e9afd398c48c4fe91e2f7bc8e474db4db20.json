@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "224"
+  ],
+  "text": [
+    "无论你怎么努力，都找不到生火的办法。你身上没有打火机或火柴，也不知道有什么窍门能帮上忙。最后，你放弃了，回到小路上。",
+    "你沿小路漫无目的地走着，不知道自己要去哪里。你确保脚下始终是泥土和碎石，不时确认路面没有变成草地或积水。你只专注于每一步的落脚位置，相信只要一步步向前就能抵达目的地。",
+    "不幸的是，这也让你无暇留意周围环境。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 224",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 224",
+      "text": [
+        "Try as you might, you cannot find any way to start a fire. You have no lighter or matches on your person, and you know of no tricks that will help you. In the end, you give up and return to the path.",
+        "You wander along the trail, unsure of where you’re going. You make sure to keep dirt and gravel beneath your feet, checking constantly that it hasn’t given way to grass or water. You focus solely on the placement of your steps, confident that you will reach your goal simply by putting one foot in front of the other.",
+        "Unfortunately, this also distracts your attention from your surroundings."
+      ]
+    }
+  }
+}

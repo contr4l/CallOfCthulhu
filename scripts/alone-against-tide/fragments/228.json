@@ -1,0 +1,48 @@
+{
+  "id": "228",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "228:p0",
+      "kind": "heading",
+      "text": "228\n",
+      "sourceLocation": "pdf:spans:[[73,1784,1788]]"
+    },
+    {
+      "id": "228:p1",
+      "kind": "body",
+      "text": "It swipes at you, but your reflexes are much too fast for it to \nconnect with you. You manage to catch a glimpse of sickly \ngreen flesh as you quickly spin out of its reach.\n",
+      "sourceLocation": "pdf:spans:[[73,1788,1853],[73,1853,1912],[73,1912,1962]]"
+    },
+    {
+      "id": "228:p2",
+      "kind": "body",
+      "text": "You turn and run, not stopping to confirm your attacker’s \nidentity. You cover as much distance as you can in as short a \ntime as possible. You run down numerous streets and alleyways \nbefore you eventually feel comfortable enough to pause and \nreassess your situation.\n",
+      "sourceLocation": "pdf:spans:[[73,1962,2021],[73,2021,2084],[73,2084,2147],[73,2147,2207],[73,2207,2232]]"
+    },
+    {
+      "id": "228:p3",
+      "kind": "body",
+      "text": "By this point, the water has risen to your calves and is swiftly \napproaching knee-level. At the rate the water’s rising, you don’t \nhave time to search the town any further. You must look to your \nself-preservation, especially with those strange things lurking \nin the fog.\n",
+      "sourceLocation": "pdf:spans:[[73,2232,2298],[73,2298,2365],[73,2365,2430],[73,2430,2495],[73,2495,2507]]"
+    },
+    {
+      "id": "228:p4",
+      "kind": "body",
+      "text": "You can just make out the church’s silhouette through the \nmist. With no other real options, the prospect of rising above \nthe tide in the church’s belfry seems like a good idea. You rush \ninside the quiet holy space and quickly begin climbing the steps \ntoward your hoped-for salvation.\n",
+      "sourceLocation": "pdf:spans:[[73,2507,2566],[73,2566,2630],[73,2630,2696],[73,2696,2762],[73,2762,2795]]"
+    },
+    {
+      "id": "228:p5",
+      "kind": "body",
+      "text": "• Go to 196.\n",
+      "sourceLocation": "pdf:spans:[[73,2797,2810]]"
+    },
+    {
+      "id": "228:p6",
+      "kind": "body",
+      "text": "(169)\n",
+      "sourceLocation": "pdf:spans:[[73,2810,2816]]"
+    }
+  ]
+}

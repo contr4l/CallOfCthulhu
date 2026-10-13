@@ -1,0 +1,48 @@
+{
+  "id": "217",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "217:p0",
+      "kind": "heading",
+      "text": "217\n",
+      "sourceLocation": "pdf:spans:[[70,830,834]]"
+    },
+    {
+      "id": "217:p1",
+      "kind": "body",
+      "text": "The door slams open, revealing a hideous green creature. The \nthing is a vaguely fish/frog-like being, with lifeless eyes and \nflabby lips. Its body is horribly distended. Long, spindly limbs \nprotrude from the torso. It grabs either side of the doorframe \nwith these slender limbs and launches itself inside.\n",
+      "sourceLocation": "pdf:spans:[[70,834,896],[70,896,961],[70,961,1027],[70,1027,1091],[70,1091,1144]]"
+    },
+    {
+      "id": "217:p2",
+      "kind": "body",
+      "text": "You react quickly, aiming your gun at the creature’s face and \nfiring a round into the thing’s cold, lifeless eyes. It drops to the \nground immediately, unmoving, and leaking ichor.\n",
+      "sourceLocation": "pdf:spans:[[70,1144,1207],[70,1207,1277],[70,1277,1326]]"
+    },
+    {
+      "id": "217:p3",
+      "kind": "body",
+      "text": "You have no time to celebrate your victory as another, similar \ncreature enters the building and moves toward you. You take \nanother breath and calmly fire, bringing the thing down.\n",
+      "sourceLocation": "pdf:spans:[[70,1326,1390],[70,1390,1451],[70,1451,1508]]"
+    },
+    {
+      "id": "217:p4",
+      "kind": "body",
+      "text": "This pattern repeats itself several times, with you occasionally \npausing to reload as the water rises around you. The flow of \nwater and unholy horrors does not end, and by the time the \nflood has risen to your waist, you realize you won’t be escaping \nthis place. Still, you resolve yourself to take as many of the \ncreatures down with you as you can.\n",
+      "sourceLocation": "pdf:spans:[[70,1508,1574],[70,1574,1636],[70,1636,1696],[70,1696,1762],[70,1762,1826],[70,1826,1862]]"
+    },
+    {
+      "id": "217:p5",
+      "kind": "body",
+      "text": "You hold on for what seems like hours. You hear screaming \nin other parts of the town, and through the windows, you think \nyou can make out flickering flames shrouded by the fog. You \nshudder at the thought of what could be going on out there, but \nyou hold firm and continue to fire at the creatures as they find \ntheir way inside. The stream of them slows but does not stop. In \nthe end, it’s the rising water that claims your life.\nYou have died. Your visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[70,1862,1921],[70,1921,1985],[70,1985,2046],[70,2046,2111],[70,2111,2177],[70,2177,2243],[70,2243,2297],[70,2299,2353]]"
+    },
+    {
+      "id": "217:p6",
+      "kind": "body",
+      "text": "(173)\n",
+      "sourceLocation": "pdf:spans:[[70,2353,2359]]"
+    }
+  ]
+}

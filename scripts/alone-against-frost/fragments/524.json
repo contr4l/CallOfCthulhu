@@ -1,0 +1,36 @@
+{
+  "id": "524",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "524:p0",
+      "kind": "heading",
+      "text": "524",
+      "sourceLocation": "pdf:visual:[[91,14]]"
+    },
+    {
+      "id": "524:p1",
+      "kind": "body",
+      "text": "You attempt to pick up Bernard’s trail until twilight, but your \nefforts are fruitless. You suspect that Charlie led you so far from \nthe boy’s tracks that you will never find them again. You return \nto camp ready to let your guide know exactly what you think \nof her.",
+      "sourceLocation": "pdf:visual:[[91,17],[91,18],[91,20],[91,21],[91,23]]"
+    },
+    {
+      "id": "524:p2",
+      "kind": "body",
+      "text": "Charlie  is  gone,  and  so  is  the  canoe.  One  quarter  of  the \nsupplies are missing.",
+      "sourceLocation": "pdf:visual:[[91,24],[91,26]]"
+    },
+    {
+      "id": "524:p3",
+      "kind": "body",
+      "text": "Record the keyword BAREFOOT. Go to 95.",
+      "sourceLocation": "pdf:visual:[[91,28]]"
+    },
+    {
+      "id": "524:p4",
+      "kind": "trace",
+      "text": "(523)",
+      "sourceLocation": "pdf:visual:[[91,29]]"
+    }
+  ]
+}

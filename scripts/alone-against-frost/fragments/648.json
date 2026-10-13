@@ -1,0 +1,36 @@
+{
+  "id": "648",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "648:p0",
+      "kind": "heading",
+      "text": "648",
+      "sourceLocation": "pdf:visual:[[108,1]]"
+    },
+    {
+      "id": "648:p1",
+      "kind": "body",
+      "text": "Suddenly tiny men are in the bushes all around you. A flurry of \ndarts rain in on your party. You yell as you return fire, trying to \nmarshal the students into an organized retreat.",
+      "sourceLocation": "pdf:visual:[[108,2],[108,3],[108,4]]"
+    },
+    {
+      "id": "648:p2",
+      "kind": "body",
+      "text": "Bernard cries out, clutching a dart lodged in his breast. He \nfalls and you rush to his aid. His limbs stiffen and his fingers \nsplay. The darts must be poisoned. You cannot stay and you \ncannot carry him.",
+      "sourceLocation": "pdf:visual:[[108,5],[108,6],[108,7],[108,8]]"
+    },
+    {
+      "id": "648:p3",
+      "kind": "body",
+      "text": "Go to 113.",
+      "sourceLocation": "pdf:visual:[[108,9]]"
+    },
+    {
+      "id": "648:p4",
+      "kind": "trace",
+      "text": "(131)",
+      "sourceLocation": "pdf:visual:[[108,10]]"
+    }
+  ]
+}

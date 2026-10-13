@@ -1,0 +1,42 @@
+{
+  "id": "2",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "2:p0",
+      "kind": "heading",
+      "text": "2",
+      "sourceLocation": "pdf:visual:[[10,36]]"
+    },
+    {
+      "id": "2:p1",
+      "kind": "body",
+      "text": "The  expedition  spends  the  day  working  through  a  baffling \nnetwork  of  waterways.  Sometimes  you  are  forced  to  back \ndown impassable channels to find an easier way; sometimes \nyou blunder across the heads of powerful chutes and are swept \nalong with them. At certain points, your party has to wade in \nwaist-deep water, inching the craft along by hand.",
+      "sourceLocation": "pdf:visual:[[10,37],[10,38],[10,39],[10,40],[10,41],[10,42]]"
+    },
+    {
+      "id": "2:p2",
+      "kind": "body",
+      "text": "You pass labyrinths of wooded islands, fast water, and drift. \nFinally, you select a peaceful backwater in which to moor and \nmake camp for the night.",
+      "sourceLocation": "pdf:visual:[[10,43],[10,44],[10,45]]"
+    },
+    {
+      "id": "2:p3",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 4; if the result is odd, go to 5. ",
+      "sourceLocation": "pdf:visual:[[10,46]]"
+    },
+    {
+      "id": "2:p4",
+      "kind": "trace",
+      "text": "(1, 6, 25)",
+      "sourceLocation": "pdf:visual:[[10,47]]"
+    },
+    {
+      "id": "2:p5",
+      "kind": "body",
+      "text": "9",
+      "sourceLocation": "pdf:visual:[[10,48]]"
+    }
+  ]
+}

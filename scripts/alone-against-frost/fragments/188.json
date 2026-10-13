@@ -1,0 +1,48 @@
+{
+  "id": "188",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "188:p0",
+      "kind": "heading",
+      "text": "188",
+      "sourceLocation": "pdf:visual:[[41,24]]"
+    },
+    {
+      "id": "188:p1",
+      "kind": "body",
+      "text": "The trail occasionally fades over rock and scree, or disappears \nentirely when the abductor wades through sloughs and ponds. \nYet your tracking skill is up to every obstacle. The manner of \ncreature that you follow fills you with wonder. Its feet are huge. \nFrom heel to toe the track measures 15 inches. You remember \nlegends of a gigantic ape-man haunting the Northland.",
+      "sourceLocation": "pdf:visual:[[41,25],[41,26],[41,27],[41,28],[41,29],[41,30]]"
+    },
+    {
+      "id": "188:p2",
+      "kind": "body",
+      "text": "Whatever else the giant may be, it is a tireless marcher. Twice \nyou have to sleep along the trail. Only an occasional rag of clothing \nor a scratched word in the sand keeps you from losing hope.",
+      "sourceLocation": "pdf:visual:[[41,31],[41,32],[41,33]]"
+    },
+    {
+      "id": "188:p3",
+      "kind": "body",
+      "text": "At long last, you and Norman come to a stream-cut canyon \nenclosed  by  the  Ram  Mountains.  The  tracks  parallel  the \ncreek and seem very fresh. You follow them eagerly  but are \ndisappointed to come to a fissure in a rock wall, through which \nthe stream spurts and the tracks vanish.",
+      "sourceLocation": "pdf:visual:[[41,34],[41,35],[41,36],[41,37],[41,38]]"
+    },
+    {
+      "id": "188:p4",
+      "kind": "body",
+      "text": "It will be hard to wade safely through the fast water to enter \nthe hidden valley beyond the cliffside, but if you hope to rescue \nSylvia, you must try.",
+      "sourceLocation": "pdf:visual:[[41,39],[41,40],[41,41]]"
+    },
+    {
+      "id": "188:p5",
+      "kind": "body",
+      "text": "To turn back, go to 279. To continue on, attempt a DEX roll: if you \nsucceed, go to 226; if you fail, go to 189.",
+      "sourceLocation": "pdf:visual:[[41,42],[41,43]]"
+    },
+    {
+      "id": "188:p6",
+      "kind": "trace",
+      "text": "(128)",
+      "sourceLocation": "pdf:visual:[[41,44]]"
+    }
+  ]
+}

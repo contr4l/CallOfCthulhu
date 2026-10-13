@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "73"
+  ],
+  "text": [
+    "虽然你想买下这对奇怪的陶土圆筒，但有人出了更高的价。你听见沃伦先生宣布“阿瑟·邓肯”，并看见那对穿深色西装的男人中一人上前领走物品。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 73",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 73",
+      "text": [
+        "Though you wished to buy the curious clay cylinders, someone else placed a higher bid. You hear Mr. Warren announce the name “Arthur Duncan” and see one of the dark-suited pair approach to take the item from him."
+      ]
+    }
+  }
+}

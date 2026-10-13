@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "144"
+  ],
+  "text": [
+    "你打开门时一阵穿堂风吹来，门猛地撞上墙壁。你正想溜进去，门扇在铰链上剧烈摇晃；你听见另一个房间里有人在地板上急促奔跑。",
+    "你想藏起来却来不及了，两名男人冲进客厅，立刻把注意力放在你身上。",
+    "他们冲上前来，其中体格较大的那个试图扑倒你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 144",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 144",
+      "text": [
+        "You open the door but it catches a draft, slamming against the wall as you attempt to slip inside. The door rattles on its hinges and you hear the sound of footsteps pounding across the floor in another room.",
+        "Your attempts to conceal yourself prove too slow as a pair of men burst into the living room and lock their attention on you.",
+        "They rush forward, and the larger of the two tries to tackle you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "212"
+  ],
+  "text": [
+    "直到它冲到你面前，你才听见声音：身后不远处传来巨大的泼水声，紧接着是发动机艰难运转、不断回火的声音。一辆汽车试图冲过积水，正加速径直朝你驶来。你只能透过雾气勉强看见车头灯照向你，只有片刻时间作出反应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 212",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 212",
+      "text": [
+        "You don’t hear it until it’s upon you: a loud splash a short distance back, followed by the sound of a struggling, backfiring engine trying to push through the water as an automobile accelerates straight toward you. You can just make out the headlights through the fog as they wash over you, and you have only a moment to react."
+      ]
+    }
+  }
+}

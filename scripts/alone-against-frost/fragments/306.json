@@ -1,0 +1,30 @@
+{
+  "id": "306",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "306:p0",
+      "kind": "heading",
+      "text": "306",
+      "sourceLocation": "pdf:visual:[[59,44]]"
+    },
+    {
+      "id": "306:p1",
+      "kind": "body",
+      "text": "Sylvia gives a terrible cry of triumph. As she shouts, she seems \nto change. Patches of dark ice break out on her flesh.",
+      "sourceLocation": "pdf:visual:[[59,45],[59,46]]"
+    },
+    {
+      "id": "306:p2",
+      "kind": "body",
+      "text": "58\nMake  a  Sanity  roll:  if  you  fail,  lose  1D6  Sanity;  if  you  retain \ncontrol, go to 304.",
+      "sourceLocation": "pdf:visual:[[59,47],[59,49],[59,50]]"
+    },
+    {
+      "id": "306:p3",
+      "kind": "trace",
+      "text": "(283, 305)",
+      "sourceLocation": "pdf:visual:[[59,51]]"
+    }
+  ]
+}

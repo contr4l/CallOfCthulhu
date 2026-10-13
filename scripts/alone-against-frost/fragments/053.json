@@ -1,0 +1,30 @@
+{
+  "id": "53",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "53:p0",
+      "kind": "heading",
+      "text": "53",
+      "sourceLocation": "pdf:visual:[[20,9]]"
+    },
+    {
+      "id": "53:p1",
+      "kind": "body",
+      "text": "You realize how ill-prepared you were for the menaces of \nthe North Hanninah. Your only hope is to escape it as soon \nas possible.",
+      "sourceLocation": "pdf:visual:[[20,10],[20,11],[20,12]]"
+    },
+    {
+      "id": "53:p2",
+      "kind": "body",
+      "text": "Go to 324.",
+      "sourceLocation": "pdf:visual:[[20,13]]"
+    },
+    {
+      "id": "53:p3",
+      "kind": "trace",
+      "text": "(52, 247)",
+      "sourceLocation": "pdf:visual:[[20,14]]"
+    }
+  ]
+}

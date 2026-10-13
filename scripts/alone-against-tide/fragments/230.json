@@ -1,0 +1,48 @@
+{
+  "id": "230",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "230:p0",
+      "kind": "heading",
+      "text": "230\n",
+      "sourceLocation": "pdf:spans:[[73,4024,4028]]"
+    },
+    {
+      "id": "230:p1",
+      "kind": "body",
+      "text": "You examine the extraordinary altar. The most readily apparent \nfeatures beyond its size are the many gemstones set into its \nsurface. They are of a greenish-yellow color, and shine even in \nthe half-light of the room.\n",
+      "sourceLocation": "pdf:spans:[[73,4028,4092],[73,4092,4154],[73,4154,4219],[73,4219,4247]]"
+    },
+    {
+      "id": "230:p2",
+      "kind": "body",
+      "text": "You also notice strange lettering written in broad strokes \nalong the object’s sides. The symbols are smeared and sloppily \ndone, suggesting they were written with some haste. What \nyou had originally taken for paint is, upon closer examination, \ndried blood.\n",
+      "sourceLocation": "pdf:spans:[[73,4247,4307],[73,4307,4371],[73,4371,4429],[73,4429,4494],[73,4494,4507]]"
+    },
+    {
+      "id": "230:p3",
+      "kind": "body",
+      "text": "While you cannot be certain, it would appear that this item \nhas been involved in some tragedy.\n",
+      "sourceLocation": "pdf:spans:[[73,4507,4568],[73,4568,4603]]"
+    },
+    {
+      "id": "230:p4",
+      "kind": "body",
+      "text": "Using the notes on the table, you may be able to piece \ntogether a translation of the text written in blood.\n",
+      "sourceLocation": "pdf:spans:[[73,4603,4659],[73,4659,4712]]"
+    },
+    {
+      "id": "230:p5",
+      "kind": "body",
+      "text": "• Make an Archaeology roll: if you succeed, go to 178; if you fail, \nyou are unable to translate the scrawls on the altar and should go \nback to 210.\n",
+      "sourceLocation": "pdf:spans:[[74,26,95],[74,95,163],[74,163,176]]"
+    },
+    {
+      "id": "230:p6",
+      "kind": "body",
+      "text": "(210)\n",
+      "sourceLocation": "pdf:spans:[[74,176,182]]"
+    }
+  ]
+}

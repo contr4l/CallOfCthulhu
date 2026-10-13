@@ -1,0 +1,30 @@
+{
+  "id": "613",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "613:p0",
+      "kind": "heading",
+      "text": "613",
+      "sourceLocation": "pdf:visual:[[103,36]]"
+    },
+    {
+      "id": "613:p1",
+      "kind": "body",
+      "text": "It is time for the four of you to leave the valley—while you \nstill can.",
+      "sourceLocation": "pdf:visual:[[103,37],[103,38]]"
+    },
+    {
+      "id": "613:p2",
+      "kind": "body",
+      "text": "Go to 158.",
+      "sourceLocation": "pdf:visual:[[103,39]]"
+    },
+    {
+      "id": "613:p3",
+      "kind": "trace",
+      "text": "(611, 612, 618, 620, 625, 633, 636)",
+      "sourceLocation": "pdf:visual:[[103,40]]"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "13"
+  ],
+  "text": [
+    "佛教僧侣班尤与你并肩穿过雾气，随意地聊着天。你们都注意到雾中的光线正逐渐暗下来，这成了你们几分钟里的谈资。“很快就更难看清了。我不想在外面待得比必要的时间更久。这雾实在古怪，这种颜色在这里常见吗？”",
+    "你回答说，这种泛绿的雾气极不寻常，他听后显得有些不安。“我在印度的寺庙也从未见过这样的雾。”",
+    "你们就这样聊了一阵，最终抵达目的地。那是一栋位于小镇边缘、教堂附近的小房子。",
+    "班尤告诉你，他不打算进去，因为他知道里面可能会发生暴力冲突，而他反对肢体冲突。他匆匆看了你一眼，随后走到教堂旁等候。",
+    "你试了试门，发现没有上锁。你确信屋里的男人们带着武器，于是悄悄溜进去，希望不被发现。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 13",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 13",
+      "text": [
+        "Banyu, the Buddhist monk, chats casually with you as you walk through the fog. You both note that the light is beginning to dim through the mist, and this becomes the topic of conversation for a few minutes. “It will be even harder to see soon. I would not like to be out and about any longer than we must. This fog is most unusual. Is this hue common here?”",
+        "You respond that the greenish color of the fog is highly unusual, and he seems mildly perturbed. “I have seen nothing like it at my temple in India, either.”",
+        "The conversation continues like this for some time, until finally, you arrive at your destination. The place in question is a small house located on the edge of town, near the church.",
+        "Banyu informs you that he has no intention of going inside, as he knows it may result in violence and he is opposed to physical conflict. He shoots you a quick glance and then goes to stand by the church.",
+        "You try the door and find it unlocked. You have no doubt that the men inside will be armed, so you slip in quietly, hoping to avoid notice."
+      ]
+    }
+  }
+}

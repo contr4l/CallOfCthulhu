@@ -1,0 +1,30 @@
+{
+  "id": "76",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "76:p0",
+      "kind": "heading",
+      "text": "76",
+      "sourceLocation": "pdf:visual:[[23,58]]"
+    },
+    {
+      "id": "76:p1",
+      "kind": "body",
+      "text": "The shock convinces you that the sane thing to do is to get out \nof the wilderness as quickly as possible.",
+      "sourceLocation": "pdf:visual:[[23,59],[23,60]]"
+    },
+    {
+      "id": "76:p2",
+      "kind": "body",
+      "text": "Make a Navigate roll: if you succeed, go to 513; if you fail, go \nto 324.",
+      "sourceLocation": "pdf:visual:[[23,61],[23,62]]"
+    },
+    {
+      "id": "76:p3",
+      "kind": "trace",
+      "text": "(181)",
+      "sourceLocation": "pdf:visual:[[23,63]]"
+    }
+  ]
+}

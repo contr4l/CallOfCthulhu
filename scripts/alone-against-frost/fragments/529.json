@@ -1,0 +1,30 @@
+{
+  "id": "529",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "529:p0",
+      "kind": "heading",
+      "text": "529",
+      "sourceLocation": "pdf:visual:[[91,70]]"
+    },
+    {
+      "id": "529:p1",
+      "kind": "body",
+      "text": "You must decide what to announce as the primary result of your \nexplorations in the valley of the North Hanninah. The other \ndiscoveries can wait.",
+      "sourceLocation": "pdf:visual:[[91,71],[91,72],[91,73]]"
+    },
+    {
+      "id": "529:p2",
+      "kind": "body",
+      "text": "If  you  have  either  the  keyword  CHARCOAL  or  the  keyword \nRESONATE,  or  both,  go  to  545.  If  you  have  the  keyword \nINCHCAPE,  go  to  431.  If  you  have  more  than  one  of  these \nkeywords, you have the opportunity to review each option before \nmaking your choice. If you have none of these keywords, go to 430.",
+      "sourceLocation": "pdf:visual:[[91,74],[91,75],[91,76],[91,77],[91,78]]"
+    },
+    {
+      "id": "529:p3",
+      "kind": "trace",
+      "text": "(429, 530)",
+      "sourceLocation": "pdf:visual:[[91,79]]"
+    }
+  ]
+}

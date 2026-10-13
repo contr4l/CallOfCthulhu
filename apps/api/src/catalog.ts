@@ -1,3 +1,6 @@
+import playtimeEstimates from "./modules/playtime-estimates.json" with {
+  type: "json",
+};
 import { instruction, targets } from "./program-schema.js";
 import {
   fragmentReference,
@@ -32,7 +35,8 @@ export const storySchema = z
     version: z.string(),
     rulesVersion: z.enum(["coc7-subset@1", "coc7-solo@2"]),
     creationPolicy: z.enum(["guided", "fixed"]).optional(),
-    healthPolicy: z.literal("static").optional(),
+    healthPolicy: z.enum(["static", "tide"]).optional(),
+    spendLuck: z.boolean().optional(),
     source: z
       .object({
         file: z.string(),
@@ -64,6 +68,18 @@ export const storySchema = z
             mp: z.number().int().nonnegative().optional(),
             damageBonus: z.string().optional(),
             templateId: z.string().optional(),
+            movement: z.number().int().nonnegative().optional(),
+            build: z.number().int().optional(),
+            specializations: z.record(z.string(), z.string()).optional(),
+            profile: z
+              .object({
+                age: z.number().int().positive().optional(),
+                pronouns: z.string().optional(),
+                birthplace: z.string().optional(),
+                residence: z.string().optional(),
+              })
+              .strict()
+              .optional(),
             skills: z.record(z.string(), z.number().int().min(0).max(99)),
             hp: z.number().int().positive(),
             sanity: z.number().int().min(0).max(99),
@@ -280,6 +296,10 @@ export function validateStory(input: unknown): Story {
       if (!ids.has(id)) throw new Error(`缺少健康处理节点 ${id}`);
       visit(id);
     }
+  if (s.healthPolicy === "tide") {
+    if (!ids.has("tide-retirement")) throw new Error("缺少永久性疯狂退场节点");
+    visit("tide-retirement");
+  }
   if (visited.size !== ids.size) throw new Error("存在不可达节点");
   return s;
 }
@@ -329,5 +349,8 @@ export function loadStories(root: string) {
 }
 export function publicStory(s: Story): StorySummary {
   const { nodes: _nodes, entry: _entry, ...summary } = s;
-  return summary;
+  const estimate = playtimeEstimates.find(
+    (entry) => entry.storyId === s.id && entry.version === s.version,
+  );
+  return { ...summary, duration: estimate?.duration ?? s.duration };
 }

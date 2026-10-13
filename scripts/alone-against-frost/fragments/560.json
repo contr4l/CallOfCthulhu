@@ -1,0 +1,30 @@
+{
+  "id": "560",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "560:p0",
+      "kind": "heading",
+      "text": "560",
+      "sourceLocation": "pdf:visual:[[95,66]]"
+    },
+    {
+      "id": "560:p1",
+      "kind": "body",
+      "text": "At  the  first  sight  of  you,  the  men  raise  their  weapons  and \nadvance.",
+      "sourceLocation": "pdf:visual:[[95,67],[95,68]]"
+    },
+    {
+      "id": "560:p2",
+      "kind": "body",
+      "text": "To make a gesture signifying peace and stand your ground, go to \n561. To run, go to 574.",
+      "sourceLocation": "pdf:visual:[[95,69],[95,70]]"
+    },
+    {
+      "id": "560:p3",
+      "kind": "trace",
+      "text": "(559, 576, 588)",
+      "sourceLocation": "pdf:visual:[[95,71]]"
+    }
+  ]
+}

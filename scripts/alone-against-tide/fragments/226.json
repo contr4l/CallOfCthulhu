@@ -1,0 +1,42 @@
+{
+  "id": "226",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "226:p0",
+      "kind": "heading",
+      "text": "226\n",
+      "sourceLocation": "pdf:spans:[[72,2254,2258]]"
+    },
+    {
+      "id": "226:p1",
+      "kind": "body",
+      "text": "You reach for your firearm and manage to draw it quickly, only \nto have it knocked from your hands by the large, bulging form \nof a hideous green creature. Your gun falls into the rising water \nwith a splash and is lost among the shuffling bodies of yet more \nstrange beings.\n",
+      "sourceLocation": "pdf:spans:[[72,2258,2322],[72,2322,2385],[72,2385,2452],[72,2452,2518],[72,2518,2534]]"
+    },
+    {
+      "id": "226:p2",
+      "kind": "body",
+      "text": "You struggle against them as best you can, but it’s to no \navail. Without a proper weapon, you’re at the mercy of these \nunnatural and misshapen things.\n",
+      "sourceLocation": "pdf:spans:[[72,2534,2593],[72,2593,2655],[72,2655,2687]]"
+    },
+    {
+      "id": "226:p3",
+      "kind": "body",
+      "text": "They don’t kill you right away. Instead, they carry you, \nkicking and screaming, toward a burning house. Piled atop the \nsmoldering heaps of ashes are mounds of corpses that have \nalready been set alight. You also spot various pieces of jewelry \nand scattered gemstones strewn among the wreckage—entire \nfistfuls of them. The firelight reflects brilliantly off the looted \ngold and gems.\n",
+      "sourceLocation": "pdf:spans:[[72,2687,2745],[72,2745,2808],[72,2808,2867],[72,2867,2933],[72,2933,2991],[72,2991,3060],[72,3060,3075]]"
+    },
+    {
+      "id": "226:p4",
+      "kind": "body",
+      "text": "You don’t have time to admire them or to wonder at the \nspectacle before you, as you are swiftly fed to the flames. As \nyou burn alive in agonizing pain, the last sight you see is the \ncreatures dancing a lurching, shuffling jig through the fog \nbeneath the gibbous moon, giving praise to their strange and \nunimaginable god.\nYou have died, offered up as a sacrifice to a Great Old One. Your visit \nto Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[72,3075,3131],[72,3131,3195],[72,3195,3260],[72,3260,3321],[72,3321,3383],[72,3383,3401],[72,3403,3476],[72,3476,3505]]"
+    },
+    {
+      "id": "226:p5",
+      "kind": "body",
+      "text": "(191)\n",
+      "sourceLocation": "pdf:spans:[[72,3505,3511]]"
+    }
+  ]
+}

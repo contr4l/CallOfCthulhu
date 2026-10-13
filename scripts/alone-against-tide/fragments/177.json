@@ -1,0 +1,48 @@
+{
+  "id": "177",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "177:p0",
+      "kind": "heading",
+      "text": "177\n",
+      "sourceLocation": "pdf:spans:[[56,2143,2147]]"
+    },
+    {
+      "id": "177:p1",
+      "kind": "body",
+      "text": "You hurriedly draw your gun and fire into the creature. Once. \nTwice. Three times. Each bullet slams into the thing and sends \nit reeling backward. You note that all of the bullets go clean \nthrough the creature, hardly slowed by its flimsy flesh. The thing’s \nwounds quickly begin leaking clear fluid at an alarming rate and \nit appears to deflate before your very eyes. It takes a few more \nstumbling steps toward you and for a single horrific second, you \nfear it will collapse on top of you. Thankfully, it crumples to the \nground at your feet. Its movement ceases as it silently dies.\n",
+      "sourceLocation": "pdf:spans:[[56,2147,2210],[56,2210,2274],[56,2274,2338],[56,2338,2408],[56,2408,2474],[56,2474,2540],[56,2540,2606],[56,2606,2675],[56,2675,2737]]"
+    },
+    {
+      "id": "177:p2",
+      "kind": "body",
+      "text": "You shudder at your victory over the otherworldly creature. \nHowever, you don’t have long to relish your success as you hear \nthe squelching sound again, this time from multiple directions. \nYou reload your weapon quickly in case they should chance \nupon you, and you make a snap decision of how to proceed.\n",
+      "sourceLocation": "pdf:spans:[[56,2737,2798],[56,2798,2863],[56,2863,2928],[56,2928,2987],[56,2987,3045]]"
+    },
+    {
+      "id": "177:p3",
+      "kind": "body",
+      "text": "• To seek the safety of the nearby hotel, go to 223.\n",
+      "sourceLocation": "pdf:spans:[[56,3047,3100]]"
+    },
+    {
+      "id": "177:p4",
+      "kind": "body",
+      "text": "• To flee from this place as fast as you can, go to 166.\n",
+      "sourceLocation": "pdf:spans:[[56,3100,3157]]"
+    },
+    {
+      "id": "177:p5",
+      "kind": "body",
+      "text": "• To muster your courage and attempt to get to the bottom of this \nmystery, go to 200.\n",
+      "sourceLocation": "pdf:spans:[[56,3157,3224],[56,3224,3244]]"
+    },
+    {
+      "id": "177:p6",
+      "kind": "body",
+      "text": "(162)\n",
+      "sourceLocation": "pdf:spans:[[56,3244,3250]]"
+    }
+  ]
+}

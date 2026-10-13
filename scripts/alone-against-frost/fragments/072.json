@@ -1,0 +1,30 @@
+{
+  "id": "72",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "72:p0",
+      "kind": "heading",
+      "text": "72",
+      "sourceLocation": "pdf:visual:[[23,2]]"
+    },
+    {
+      "id": "72:p1",
+      "kind": "body",
+      "text": "Your  eyes  behold  an  immense  shape  high  above  the  trees. \nThrough  the  sky  it  runs,  treading  the  empty  air.  Moonlight \npicks  out  elongated,  twisted  leg  bones  and  long,  grasping \nfingers like young branches. ",
+      "sourceLocation": "pdf:visual:[[23,4],[23,6],[23,7],[23,9]]"
+    },
+    {
+      "id": "72:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you succeed, lose 1D10 Sanity and go to 39; if \nyou fail, lose 1D100 Sanity. If you somehow avoid insanity, go to 264.",
+      "sourceLocation": "pdf:visual:[[23,11],[23,12]]"
+    },
+    {
+      "id": "72:p3",
+      "kind": "trace",
+      "text": "(47, 107)",
+      "sourceLocation": "pdf:visual:[[23,14]]"
+    }
+  ]
+}

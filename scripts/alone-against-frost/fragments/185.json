@@ -1,0 +1,36 @@
+{
+  "id": "185",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "185:p0",
+      "kind": "heading",
+      "text": "185",
+      "sourceLocation": "pdf:visual:[[40,43]]"
+    },
+    {
+      "id": "185:p1",
+      "kind": "body",
+      "text": "The hot bullet pierces the wind-walker’s heart. It doubles over \nand staggers away, brushing trees from its path. You remember \nfrom the area’s myths that the wind-walker will die if its icy \nheart is melted. Your lucky shot must have placed the creature \nin fear of its unnatural life.",
+      "sourceLocation": "pdf:visual:[[40,44],[40,45],[40,46],[40,47],[40,48]]"
+    },
+    {
+      "id": "185:p2",
+      "kind": "body",
+      "text": "Norman and Sylvia approach, blinking back sleep. You snap \nan  order  to  strike  the  camp. You  must  evacuate  the  area  as \nquickly as possible.",
+      "sourceLocation": "pdf:visual:[[40,49],[40,50],[40,51]]"
+    },
+    {
+      "id": "185:p3",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity. Go to 224. ",
+      "sourceLocation": "pdf:visual:[[40,52]]"
+    },
+    {
+      "id": "185:p4",
+      "kind": "trace",
+      "text": "(184)",
+      "sourceLocation": "pdf:visual:[[40,53]]"
+    }
+  ]
+}

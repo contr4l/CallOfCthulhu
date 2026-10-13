@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "200"
+  ],
+  "text": [
+    "你振作起来，走进迷雾，决心查明事情的真相。浓雾弥漫，夜幕已经降临。此时你几乎没有什么线索可查，甚至完全没有线索。情况远不理想，但你最好的选择似乎是在街上巡查，寻找异样之处——比你已经见过的那些更异样的事。",
+    "你开始谨慎地沿街行走，同时保持较快步伐，竖起耳朵留意雾中可能潜伏的任何东西。街道寂静得令人毛骨悚然，只有你自己的脚步声。",
+    "你经过住宅和商铺。起初似乎没有什么特别之处，但只要坚持寻找并有些运气，也许就能发现点什么。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 200",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 200",
+      "text": [
+        "You collect yourself and step out into the mist, determined to get to the bottom of this. The fog is thick, and night has fallen. At this stage, you have few—if any—leads to investigate. While this is far from ideal, your best option seems to be patrolling the streets, looking for something out of the ordinary—more so than what you’ve already seen.",
+        "You begin cautiously walking down the streets, making sure to keep up a brisk pace and an open ear for anything that might be lurking in the mist. The streets are eerily silent except for your own footsteps.",
+        "You pass houses and places of business. Little seems to stand out at first, but with a bit of persistence and luck, you may just find something."
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "123",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "123:p0",
+      "kind": "heading",
+      "text": "123\n",
+      "sourceLocation": "pdf:spans:[[40,3087,3091]]"
+    },
+    {
+      "id": "123:p1",
+      "kind": "body",
+      "text": "You push the door aside and enter the bedroom. The room is \nlavishly decorated and very feminine. Large, soft pillows sit \natop the bed and a tangle of sheets and blankets lie strewn \nacross the mattress.\n",
+      "sourceLocation": "pdf:spans:[[40,3091,3151],[40,3151,3214],[40,3214,3275],[40,3275,3296]]"
+    },
+    {
+      "id": "123:p2",
+      "kind": "body",
+      "text": "Judging by the state of the room, this space belonged more \nto Amelia than it did Prof. Harris, even before his death. The \nroom is dominated by her personal effects. A makeup case \nsits on the dresser, with a hand mirror beside it. The door \nto the closet is open; the racks inside overflow with various \ndresses and fashionable outfits. The clothes belonging to the \nlate Prof. Harris take up a small and innocuous corner of the \ncloset, pushed far to the side so as to not get in the way of \nAmelia’s things.\n",
+      "sourceLocation": "pdf:spans:[[40,3296,3356],[40,3356,3420],[40,3420,3478],[40,3478,3539],[40,3539,3602],[40,3602,3665],[40,3665,3728],[40,3728,3791],[40,3791,3808]]"
+    },
+    {
+      "id": "123:p3",
+      "kind": "body",
+      "text": "The most surprising find you stumble upon is a small pile of \ndiscarded men’s clothing next to the bed. It seems to have been \nleft there recently, and given the difference in style and size to \nthe men’s clothes in the closet, it’s clear they don’t belong to \nProf. Harris.\n",
+      "sourceLocation": "pdf:spans:[[40,3808,3870],[40,3870,3935],[40,3935,4003],[40,4003,4069],[40,4069,4083]]"
+    },
+    {
+      "id": "123:p4",
+      "kind": "body",
+      "text": "Your suspicion is confirmed when you see a photograph of \nJoshua on the nightstand. There’s also a half-empty bottle of \nwhiskey there, with two glasses sitting next to it.\n",
+      "sourceLocation": "pdf:spans:[[40,4083,4141],[40,4141,4204],[40,4204,4256]]"
+    },
+    {
+      "id": "123:p5",
+      "kind": "body",
+      "text": "You also happen to notice a safe built into the wall, just \nbehind the nightstand. A combination lock keeps it sealed, \nthough if you were so inclined, you may be able to crack it.\n",
+      "sourceLocation": "pdf:spans:[[40,4256,4316],[40,4316,4376],[40,4376,4437]]"
+    },
+    {
+      "id": "123:p6",
+      "kind": "body",
+      "text": "There is little else of interest in the room.\n",
+      "sourceLocation": "pdf:spans:[[40,4437,4483]]"
+    },
+    {
+      "id": "123:p7",
+      "kind": "body",
+      "text": "• To attempt to open the safe, make a Locksmith roll: if you succeed, \ngo to 77; if you fail, go to 118.\n",
+      "sourceLocation": "pdf:spans:[[40,4483,4554],[40,4554,4588]]"
+    },
+    {
+      "id": "123:p8",
+      "kind": "body",
+      "text": "• To leave the room, go to 140.\n",
+      "sourceLocation": "pdf:spans:[[40,4588,4620]]"
+    },
+    {
+      "id": "123:p9",
+      "kind": "body",
+      "text": "(7, 110)",
+      "sourceLocation": "pdf:spans:[[40,4620,4628]]"
+    }
+  ]
+}

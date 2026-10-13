@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "120"
+  ],
+  "text": [
+    "你举枪瞄准约书亚，扣下扳机。你冷眼看着自己开枪击倒他。两枪接连射出：第一枪是有意为之，第二枪则是后坐力和条件反射所致，确保他不再构成威胁。",
+    "两发子弹都正中他的胸口，把他打得撞向身后的墙。他瘫坐在地，墙上留下了一道血迹。",
+    "他的眼神逐渐涣散，开始失血。那双冰冷、毫无生气的眼睛直勾勾盯着你，他张口说出最后的话。临死前，他吐出难以言喻的异界音节：“Bokrug ron ‘bthnk n’ghft, ‘ai。”",
+    "他死去时，你不禁打了个寒战；他的身体突然瘫软下来。你搜查他的口袋，找到写有住址的身份证件，以及他家的钥匙。这地方或许值得调查。",
+    "你把阿米莉娅留在那里，她默默哭泣，无法接受亲眼目睹约书亚如此惨烈地死去。至少现在你有机会搜查这所房子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 120",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 120",
+      "text": [
+        "You aim your weapon at Joshua and pull the trigger. You watch with a sense of detachment as you gun him down. Two shots in quick succession: the first one intentional, the second a product of recoil and reflex to make sure that he’s no longer a threat.",
+        "Both bullets hit him square in the chest, knocking him back against the wall behind him. He slumps to the ground in a seated position, leaving behind a smear of blood down the wall.",
+        "His eyes glaze over as he begins to bleed out. His cold, lifeless eyes bore into you as his mouth forms his last words. Unutterable alien syllables spew from his mouth with his dying breath: “Bokrug ron ‘bthnk n’ghft, ‘ai.”",
+        "You shudder as he dies, his body suddenly listless. You check his pockets and find ID that gives his address, as well as a key to his home. That might be worth investigating.",
+        "Amelia is crying silently where you left her, inconsolable at having witnessed Joshua die so violently. At least this gives you the opportunity to search the house."
+      ]
+    }
+  }
+}

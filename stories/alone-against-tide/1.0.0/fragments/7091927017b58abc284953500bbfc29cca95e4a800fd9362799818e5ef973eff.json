@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "93"
+  ],
+  "text": [
+    "和之前一样，你察觉到约书亚的挫败，也明白耐心才是更好的做法。你等他挥拳。他全力挥出一击，你轻松闪到一旁，顺势推他向前，借力打力。",
+    "你把他撞向墙壁。他重重摔在地上，被撞得晕头转向。",
+    "你赶到前门，用椅子把门堵住，争取到一些时间，可以自由在屋里走动。环顾四周，你看到一间小客厅、一间厨房，以及公共区域两端各有一扇门。左边的门敞开着，可以看见一段通往楼下的楼梯。右边的门关着。你猜那是卧室。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 93",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 93",
+      "text": [
+        "As before, you sense Joshua’s frustration and realize that patience is the better course of action. You wait for him to swing. He throws his full weight behind the blow and you easily move aside and shove him forward, using his momentum against him.",
+        "You send him crashing into the wall. He drops to the floor, thoroughly dazed by the force of the impact.",
+        "You hurry to the front door and barricade it with a chair, buying you time to move about the house freely. Glancing about, you see a small living room and kitchen, and two doors at opposite ends of the common area. The door on your left is wide open, and you can see a set of stairs leading down. The door on your right is closed. You assume it leads to the bedroom."
+      ]
+    }
+  }
+}

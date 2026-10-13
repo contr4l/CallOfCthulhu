@@ -1,0 +1,30 @@
+{
+  "id": "148",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "148:p0",
+      "kind": "heading",
+      "text": "148",
+      "sourceLocation": "pdf:visual:[[34,1]]"
+    },
+    {
+      "id": "148:p1",
+      "kind": "body",
+      "text": "An anguished cry warns you that Charlie has been hit. You \nglance over your shoulder, only to see her stagger a few more \nsteps on stiff legs and then fall. Behind her, the creatures swarm.",
+      "sourceLocation": "pdf:visual:[[34,2],[34,3],[34,4]]"
+    },
+    {
+      "id": "148:p2",
+      "kind": "body",
+      "text": "To stop and help Charlie, go to 332. To race on with Bernard, go \nto 157.",
+      "sourceLocation": "pdf:visual:[[34,5],[34,6]]"
+    },
+    {
+      "id": "148:p3",
+      "kind": "trace",
+      "text": "(143)",
+      "sourceLocation": "pdf:visual:[[34,7]]"
+    }
+  ]
+}

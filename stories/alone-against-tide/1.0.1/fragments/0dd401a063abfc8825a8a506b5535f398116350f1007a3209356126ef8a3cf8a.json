@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "79"
+  ],
+  "text": [
+    "你冲到旅馆外，希望能看见小偷的踪影。刚走出旅馆，能见度低得惊人。雾气似乎更浓了，虽然你不确定，但太阳似乎也正往地平线下沉。在绿色昏暗的雾霭中，你停下片刻聆听，因为你知道视力在这里帮不上忙。",
+    "小镇一片寂静。你附近没有人在外活动，也没有脚步声、汽车声或人声。你竖起耳朵，集中注意力，进入近乎冥想的状态，只专注于周围的声音。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 79",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 79",
+      "text": [
+        "You rush outside, hoping to catch a glimpse of the thief. As you exit the hotel, you are immediately struck by the lack of visibility. The fog seems to have grown thicker, and although you aren’t certain, it seems as if the sun might be sinking lower toward the horizon. In the green and dusky haze, you pause a moment to listen, knowing your sight will prove useless here.",
+        "The town is still and quiet. There’s nobody out and about near you. No footsteps, no automobiles, no voices. You strain your ears and focus, entering a near-meditative state, concentrating only on the sounds of your surroundings."
+      ]
+    }
+  }
+}

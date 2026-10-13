@@ -1,0 +1,54 @@
+{
+  "id": "3",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "3:p0",
+      "kind": "heading",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[10,312,314]]"
+    },
+    {
+      "id": "3:p1",
+      "kind": "body",
+      "text": "You take your first steps onto the pier with the rest of the \nferry passengers, trying to get your land legs once again. \nThe passengers still chat casually as they walk off to their \ndestinations. You note one last little flirty wink from the full-\nfigured woman as she struts along confidently behind the \nwomen accompanying her, and you feel the two dark-suited \nmen push past you at a brisk pace, nudging you out of their \nway. Sanford gives you one last wave and a smile as he begins \ntending to the old rust-stained boat that is his pride and joy.\n",
+      "sourceLocation": "pdf:spans:[[10,314,376],[10,376,436],[10,436,498],[10,498,564],[10,564,622],[10,622,680],[10,680,741],[10,741,804],[10,804,868]]"
+    },
+    {
+      "id": "3:p2",
+      "kind": "body",
+      "text": "The last light of the sun is fading fast, and the fog is growing \nthick on the water now. The night is still young, but you would \nrather not be wandering around in the dark and fog of a town \nyou are unfamiliar with. Taking in your surroundings, you see \na sizable crowd jockeying for entrance into a lavish, modern-\nlooking building along the lakeside. A folding sign sits out \nfront, illuminated by a lantern. The words “ESTATE SALE \nTONIGHT” are written on it in large, bold letters.\n",
+      "sourceLocation": "pdf:spans:[[10,868,934],[10,934,999],[10,999,1061],[10,1061,1124],[10,1124,1186],[10,1186,1248],[10,1248,1305],[10,1305,1356]]"
+    },
+    {
+      "id": "3:p3",
+      "kind": "body",
+      "text": "While this seems to be the main attraction, you could also \nseek out somewhere to stay for the night and set about your \nwork in the morning.\n",
+      "sourceLocation": "pdf:spans:[[10,1356,1416],[10,1416,1477],[10,1477,1498]]"
+    },
+    {
+      "id": "3:p4",
+      "kind": "body",
+      "text": "If you have not done so already, calculate your secondary \nattributes as per page 7, Book T wo of the Call of Cthulhu Starter \nSet, or the summary on pages 34–35 of the Call of Cthulhu: \nKeeper Rulebook.\n",
+      "sourceLocation": "pdf:spans:[[10,1498,1557],[10,1557,1625],[10,1625,1685],[10,1685,1702]]"
+    },
+    {
+      "id": "3:p5",
+      "kind": "body",
+      "text": "• To visit the estate sale, go to 15.\n",
+      "sourceLocation": "pdf:spans:[[10,1702,1740]]"
+    },
+    {
+      "id": "3:p6",
+      "kind": "body",
+      "text": "• To find somewhere to stay for the night, go to 26.\n",
+      "sourceLocation": "pdf:spans:[[10,1740,1793]]"
+    },
+    {
+      "id": "3:p7",
+      "kind": "body",
+      "text": "(27, 36, 42, 56, 66, 89)\n",
+      "sourceLocation": "pdf:spans:[[10,1793,1818]]"
+    }
+  ]
+}

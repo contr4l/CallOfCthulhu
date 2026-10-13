@@ -1,0 +1,36 @@
+{
+  "id": "71",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "71:p0",
+      "kind": "heading",
+      "text": "71",
+      "sourceLocation": "pdf:visual:[[22,77]]"
+    },
+    {
+      "id": "71:p1",
+      "kind": "body",
+      "text": "You  rouse  Charlie,  Norman,  and  Sylvia.  As  they  yawn  and \nblink, you tell them what happened and demand their help.",
+      "sourceLocation": "pdf:visual:[[22,78],[22,79]]"
+    },
+    {
+      "id": "71:p2",
+      "kind": "body",
+      "text": "“No!” Charlie grabs you. “We must not seek the boy! He has heard \nthe call of the Great Wind-Walker. He is lost to you. We must flee!”",
+      "sourceLocation": "pdf:visual:[[22,80],[22,81]]"
+    },
+    {
+      "id": "71:p3",
+      "kind": "body",
+      "text": "To  insist  upon  pursuing  Bernard,  go  to  521.  To  take  Charlie’s \nadvice, go to 32.",
+      "sourceLocation": "pdf:visual:[[22,82],[22,83]]"
+    },
+    {
+      "id": "71:p4",
+      "kind": "trace",
+      "text": "(46)",
+      "sourceLocation": "pdf:visual:[[22,84]]"
+    }
+  ]
+}

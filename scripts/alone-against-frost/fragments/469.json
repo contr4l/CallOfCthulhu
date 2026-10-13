@@ -1,0 +1,54 @@
+{
+  "id": "469",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "469:p0",
+      "kind": "heading",
+      "text": "469",
+      "sourceLocation": "pdf:visual:[[82,57]]"
+    },
+    {
+      "id": "469:p1",
+      "kind": "body",
+      "text": "There is a tang of autumn in the air. This suggests that it will be \nan early fall—which worries you, as it means early snow in the \nNorthland. As you ponder this, a narrow but deep ravine cuts \nacross your way, and the rushing stream within seems too rapid \nto cross safely.",
+      "sourceLocation": "pdf:visual:[[82,58],[82,59],[82,60],[82,61],[82,62]]"
+    },
+    {
+      "id": "469:p2",
+      "kind": "body",
+      "text": "“Look,” says Norman, pointing at a tree that has fallen across \nthe ravine. “We can use that for a bridge.”",
+      "sourceLocation": "pdf:visual:[[82,63],[82,64]]"
+    },
+    {
+      "id": "469:p3",
+      "kind": "body",
+      "text": "Sylvia  pokes  at  it  with  her  stick  and  shakes  her  head. \n“It’s rotten. It might not hold our weight, even one at a time.” \nNorman seems petulant, but you support Sylvia. You make \ncamp in the vicinity.",
+      "sourceLocation": "pdf:visual:[[82,65],[82,66],[82,67],[82,68]]"
+    },
+    {
+      "id": "469:p4",
+      "kind": "body",
+      "text": "As  you  open  your  eyes  to  the  morning  light,  you  hear  a \ngreat cracking sound. It is immediately followed by Norman’s \nbaritone cry and Sylvia’s running feet.",
+      "sourceLocation": "pdf:visual:[[82,69],[82,70],[82,71]]"
+    },
+    {
+      "id": "469:p5",
+      "kind": "body",
+      "text": "Groggy, you race toward the sound and spot the students. \nNorman  hangs  over  the  edge  of  the  ravine,  prevented  from \nfalling by no more than Sylvia’s arm. The idiot! Despite your \nwarning,  he  tested  the  strength  of  the  tree-bridge,  and  it \ncollapsed. Whether you can prevent tragedy depends on how \nlong Sylvia can hold on.",
+      "sourceLocation": "pdf:visual:[[82,72],[82,73],[82,74],[82,75],[82,76],[82,77]]"
+    },
+    {
+      "id": "469:p6",
+      "kind": "body",
+      "text": "Make an opposed roll for Sylvia’s STR against Norman’s SIZ: if \nSylvia wins, go to 322; if Norman “wins,” go to 319.",
+      "sourceLocation": "pdf:visual:[[82,78],[82,79]]"
+    },
+    {
+      "id": "469:p7",
+      "kind": "trace",
+      "text": "(324, 600, 601)",
+      "sourceLocation": "pdf:visual:[[82,80]]"
+    }
+  ]
+}

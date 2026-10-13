@@ -1,0 +1,30 @@
+{
+  "id": "412",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "412:p0",
+      "kind": "heading",
+      "text": "412",
+      "sourceLocation": "pdf:visual:[[73,57]]"
+    },
+    {
+      "id": "412:p1",
+      "kind": "body",
+      "text": "The screams of your floundering companions are the last things \nyou hear before water fills your ears. The turbulence pummels \nyour body like a heavyweight boxer.",
+      "sourceLocation": "pdf:visual:[[73,58],[73,59],[73,60]]"
+    },
+    {
+      "id": "412:p2",
+      "kind": "body",
+      "text": "You must make three successful Swim rolls to get to shore. If you \nfail one, you begin to drown—you must now make a combined \nSwim and CON roll each round; for every failed CON roll, you \nsuffer 1D6 drowning damage. If you make three Swim rolls and \nsurvive,  you  make  it  to  shore,  go  to 415.  Otherwise,  you  have \ndrowned. The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[73,61],[73,62],[73,63],[73,64],[73,65],[73,66]]"
+    },
+    {
+      "id": "412:p3",
+      "kind": "trace",
+      "text": " (7, 32, 471)",
+      "sourceLocation": "pdf:visual:[[73,67]]"
+    }
+  ]
+}

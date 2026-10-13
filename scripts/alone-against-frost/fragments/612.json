@@ -1,0 +1,36 @@
+{
+  "id": "612",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "612:p0",
+      "kind": "heading",
+      "text": "612",
+      "sourceLocation": "pdf:visual:[[103,20]]"
+    },
+    {
+      "id": "612:p1",
+      "kind": "body",
+      "text": "You  duck  by  reflex  and  the  cat  passes  over  your  head.  Its \nhuge claws bury themselves in Bernard’s chest. It lunges for \nanother strike.",
+      "sourceLocation": "pdf:visual:[[103,23],[103,24],[103,26]]"
+    },
+    {
+      "id": "612:p2",
+      "kind": "body",
+      "text": "Bernard suffers 1D10 points of damage. You may fire once more \nat  the  cat.  If  you  have  now  inflicted  12  points  of  cumulative \ndamage, you kill it and may take its head for a trophy; record the \nkeyword BACKWATER. Otherwise, the cat slaughters Bernard \nand bounds away.",
+      "sourceLocation": "pdf:visual:[[103,28],[103,29],[103,30],[103,31],[103,32]]"
+    },
+    {
+      "id": "612:p3",
+      "kind": "body",
+      "text": "If Bernard survived, you may attempt First Aid to grant him \n1D3 hit points. Then, go to 613. If Bernard dies, go to 614.",
+      "sourceLocation": "pdf:visual:[[103,33],[103,34]]"
+    },
+    {
+      "id": "612:p4",
+      "kind": "trace",
+      "text": "(611, 615)",
+      "sourceLocation": "pdf:visual:[[103,35]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "329",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "329:p0",
+      "kind": "heading",
+      "text": "329",
+      "sourceLocation": "pdf:visual:[[63,2]]"
+    },
+    {
+      "id": "329:p1",
+      "kind": "body",
+      "text": "Instead of repelling the creatures out there, the fire serves as \na beacon to bring them in. The mat of twigs and brown pine \nneedles rustles with their strange tread. Odd shadows slip along \nthe cave walls.",
+      "sourceLocation": "pdf:visual:[[63,4],[63,6],[63,7],[63,9]]"
+    },
+    {
+      "id": "329:p2",
+      "kind": "body",
+      "text": "Go to 335.",
+      "sourceLocation": "pdf:visual:[[63,11]]"
+    },
+    {
+      "id": "329:p3",
+      "kind": "trace",
+      "text": "(298)",
+      "sourceLocation": "pdf:visual:[[63,12]]"
+    }
+  ]
+}

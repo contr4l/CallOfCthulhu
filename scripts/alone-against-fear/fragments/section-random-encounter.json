@@ -1,0 +1,158 @@
+{
+  "id": "section-random-encounter",
+  "paragraphs": [
+    {
+      "id": "section-random-encounter:p0000",
+      "kind": "body",
+      "text": "Random encounter table (roll d6, then another d6)\n",
+      "sourceLocation": "pdf:spans:[[39,22,72]]"
+    },
+    {
+      "id": "section-random-encounter:p0001",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[39,72,74]]"
+    },
+    {
+      "id": "section-random-encounter:p0002",
+      "kind": "body",
+      "text": "1,2) Roll on the Slashers table. Reroll any slasher that you\n",
+      "sourceLocation": "pdf:spans:[[39,74,135]]"
+    },
+    {
+      "id": "section-random-encounter:p0003",
+      "kind": "body",
+      "text": "have already defeated in the campaign. If all slashers have\n",
+      "sourceLocation": "pdf:spans:[[39,135,195]]"
+    },
+    {
+      "id": "section-random-encounter:p0004",
+      "kind": "body",
+      "text": "been defeated, treat as no encounter.\n",
+      "sourceLocation": "pdf:spans:[[39,195,233]]"
+    },
+    {
+      "id": "section-random-encounter:p0005",
+      "kind": "body",
+      "text": "3-6) Roll on the Witch Children table.\n",
+      "sourceLocation": "pdf:spans:[[39,233,272]]"
+    },
+    {
+      "id": "section-random-encounter:p0006",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[39,272,274]]"
+    },
+    {
+      "id": "section-random-encounter:p0007",
+      "kind": "body",
+      "text": "1-3) Roll on the Demonic Horror table.\n",
+      "sourceLocation": "pdf:spans:[[39,274,313]]"
+    },
+    {
+      "id": "section-random-encounter:p0008",
+      "kind": "body",
+      "text": "4-6) Roll on the Beasts table.\n",
+      "sourceLocation": "pdf:spans:[[39,313,344]]"
+    },
+    {
+      "id": "section-random-encounter:p0009",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[39,344,346]]"
+    },
+    {
+      "id": "section-random-encounter:p0010",
+      "kind": "body",
+      "text": "1,2) Roll on the Lab Horror table.\n",
+      "sourceLocation": "pdf:spans:[[39,346,381]]"
+    },
+    {
+      "id": "section-random-encounter:p0011",
+      "kind": "body",
+      "text": "3-5) Roll on the Undead table.\n",
+      "sourceLocation": "pdf:spans:[[39,381,412]]"
+    },
+    {
+      "id": "section-random-encounter:p0012",
+      "kind": "body",
+      "text": "6) Roll on the Unique Vampire table.\n",
+      "sourceLocation": "pdf:spans:[[39,412,449]]"
+    },
+    {
+      "id": "section-random-encounter:p0013",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[39,449,451]]"
+    },
+    {
+      "id": "section-random-encounter:p0014",
+      "kind": "body",
+      "text": "1-4) Roll on the Possessed table.\n",
+      "sourceLocation": "pdf:spans:[[39,451,485]]"
+    },
+    {
+      "id": "section-random-encounter:p0015",
+      "kind": "body",
+      "text": "5,6) Roll on the Living Dolls table.\n",
+      "sourceLocation": "pdf:spans:[[39,485,522]]"
+    },
+    {
+      "id": "section-random-encounter:p0016",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[39,522,524]]"
+    },
+    {
+      "id": "section-random-encounter:p0017",
+      "kind": "body",
+      "text": "1-5) Roll on the Ghosts table.\n",
+      "sourceLocation": "pdf:spans:[[39,524,555]]"
+    },
+    {
+      "id": "section-random-encounter:p0018",
+      "kind": "body",
+      "text": "6) Roll on the Aliens table.\n",
+      "sourceLocation": "pdf:spans:[[39,555,584]]"
+    },
+    {
+      "id": "section-random-encounter:p0019",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[39,584,586]]"
+    },
+    {
+      "id": "section-random-encounter:p0020",
+      "kind": "body",
+      "text": "1-3) Roll on the Unique Vampire table.\n",
+      "sourceLocation": "pdf:spans:[[39,586,625]]"
+    },
+    {
+      "id": "section-random-encounter:p0021",
+      "kind": "body",
+      "text": "4-6) Roll on the Unique Zombie table. When rolling on\n",
+      "sourceLocation": "pdf:spans:[[39,625,679]]"
+    },
+    {
+      "id": "section-random-encounter:p0022",
+      "kind": "body",
+      "text": "tables of Unique creatures, reroll any monster that was\n",
+      "sourceLocation": "pdf:spans:[[39,679,735]]"
+    },
+    {
+      "id": "section-random-encounter:p0023",
+      "kind": "body",
+      "text": "already killed. If all unique monsters have been killed,\n",
+      "sourceLocation": "pdf:spans:[[39,735,792]]"
+    },
+    {
+      "id": "section-random-encounter:p0024",
+      "kind": "body",
+      "text": "treat as no encounter.\n",
+      "sourceLocation": "pdf:spans:[[39,792,815]]"
+    }
+  ],
+  "sourcePages": [
+    39
+  ]
+}

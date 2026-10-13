@@ -1,0 +1,30 @@
+{
+  "id": "551",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "551:p0",
+      "kind": "heading",
+      "text": "551",
+      "sourceLocation": "pdf:visual:[[94,52]]"
+    },
+    {
+      "id": "551:p1",
+      "kind": "body",
+      "text": "You seek unusual animal life. You are successful.",
+      "sourceLocation": "pdf:visual:[[94,53]]"
+    },
+    {
+      "id": "551:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 273; if the result is odd, go \nto 483.",
+      "sourceLocation": "pdf:visual:[[94,54],[94,55]]"
+    },
+    {
+      "id": "551:p3",
+      "kind": "trace",
+      "text": "(275, 614, 627, 628, 635)",
+      "sourceLocation": "pdf:visual:[[94,56]]"
+    }
+  ]
+}

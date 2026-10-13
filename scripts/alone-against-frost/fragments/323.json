@@ -1,0 +1,30 @@
+{
+  "id": "323",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "323:p0",
+      "kind": "heading",
+      "text": "323",
+      "sourceLocation": "pdf:visual:[[62,23]]"
+    },
+    {
+      "id": "323:p1",
+      "kind": "body",
+      "text": "Off  to  one  side,  you  spot  a  small  geological  formation. You \ndrag Norman down behind it. The bleating, bawling stampede \npasses over and around you, several pairs of feet missing your \nheads by inches.",
+      "sourceLocation": "pdf:visual:[[62,24],[62,25],[62,26],[62,27]]"
+    },
+    {
+      "id": "323:p2",
+      "kind": "body",
+      "text": "Go to 278.",
+      "sourceLocation": "pdf:visual:[[62,28]]"
+    },
+    {
+      "id": "323:p3",
+      "kind": "trace",
+      "text": "(321)",
+      "sourceLocation": "pdf:visual:[[62,29]]"
+    }
+  ]
+}

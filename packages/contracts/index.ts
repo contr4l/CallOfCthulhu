@@ -83,6 +83,10 @@ export type StoryNode = {
   ending?: string;
 };
 export type CharacterPreset = {
+  profile?: CharacterProfile;
+  movement?: number;
+  build?: number;
+  specializations?: Record<string, string>;
   attributes?: Record<string, number>;
   mp?: number;
   damageBonus?: string;
@@ -130,7 +134,8 @@ export type CharacterTemplateCatalog = {
 export type SavedCharacter = { id: string; character: Character };
 export type Story = {
   creationPolicy?: "guided" | "fixed";
-  healthPolicy?: "static";
+  healthPolicy?: "static" | "tide";
+  spendLuck?: boolean;
   source?: { file: string; sha256: string; notes: string[] };
   id: string;
   version: string;
@@ -186,6 +191,8 @@ export type CheckResult = {
   target: number;
   roll: number;
   candidates: number[];
+  originalRoll?: number;
+  luckSpent?: number;
   success: boolean;
   grade: "critical" | "extreme" | "hard" | "regular" | "failure" | "fumble";
 };

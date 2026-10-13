@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "170"
+  ],
+  "text": [
+    "你在树林里跌跌撞撞地前行，在崎岖地面上重重倚靠受伤的腿。脚下地面高低不平又湿滑。你想必已经接近湖边，但尽管竭尽全力，还是找不到湖岸。",
+    "然而，湖岸却找到了你。当你在黑暗和浓雾中踉跄前行时，湖水水位开始上涨，脚下的土地很快变得泥泞不堪。起初只是有些不便，但没过多久，水就漫到了脚踝，然后是小腿，再到膝盖。水位没有停下的迹象。",
+    "你拖着受伤的腿前进。疼痛越来越剧烈，几乎难以忍受，但你仍在周围逐渐形成的沼泽中蹚水前行，强迫自己继续走。",
+    "直到你听见身后传来水花声——有什么东西在泥泞中跋涉，离你只有几英尺。你迅速回头，试图看清它，却发现它被阴影遮住，隐没在浓雾之中。无论那是什么，它似乎并不着急。它只是与你保持同样的速度，并没有追赶你。但如果你的腿撑不住……"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 170",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 170",
+      "text": [
+        "You stumble through the woods, leaning heavily on your injured leg on the rough terrain. The ground is uneven and slippery beneath your feet. You must be close to the lake but despite your best efforts, you’re unable to find the shore.",
+        "The shore does, however, find you. As you stagger through the darkness and mist, the lake’s water level begins to rise and the ground you’re on swiftly becomes waterlogged. At first, it’s only a minor inconvenience, but it doesn’t take long for the water to reach your ankles. Then your calves. Then your knees. It shows no sign of stopping.",
+        "You drag your wounded leg behind you. The pain grows until it’s almost unbearable but you keep sloshing through the swamp that’s forming all around you. You will yourself onward.",
+        "Until you hear the splashing behind you—something stomping through the muck, a few feet back. You quickly glance over your shoulder, trying to catch a glimpse of it, but it’s obscured by the shadows and shrouded by the fog. Whatever it is, it seems to be in no hurry. It’s keeping pace with you, not chasing you. But if your leg gives out…"
+      ]
+    }
+  }
+}

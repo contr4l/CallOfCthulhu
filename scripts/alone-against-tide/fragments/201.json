@@ -1,0 +1,48 @@
+{
+  "id": "201",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "201:p0",
+      "kind": "heading",
+      "text": "201\n",
+      "sourceLocation": "pdf:spans:[[64,26,30]]"
+    },
+    {
+      "id": "201:p1",
+      "kind": "body",
+      "text": "You gather up a pair of sticks and try to rub them together to \nmake a flame, as you’ve heard of others doing. Whether this is \nsimply a myth or the secret merely eludes you is irrelevant, as \nyou fail to start a fire.\n",
+      "sourceLocation": "pdf:spans:[[64,30,94],[64,94,158],[64,158,223],[64,223,249]]"
+    },
+    {
+      "id": "201:p2",
+      "kind": "body",
+      "text": "You eventually abandon the task and trudge on, following \nthe trail as best you can in the thick fog. The path begins to \nslope away from you. Pleased with your progress, you assume \nyou must be coming down from the hills and nearing your \ndestination. \n",
+      "sourceLocation": "pdf:spans:[[64,249,307],[64,307,371],[64,371,432],[64,432,489],[64,489,503]]"
+    },
+    {
+      "id": "201:p3",
+      "kind": "body",
+      "text": "You couldn’t be further from the truth. Having taken a \nwrong turn earlier, and without a light to guide you through \nthe darkness and fog, you’ve gotten completely turned around. \nYou now find yourself once more facing the town of Esbury.\n",
+      "sourceLocation": "pdf:spans:[[64,503,559],[64,559,621],[64,621,684],[64,684,743]]"
+    },
+    {
+      "id": "201:p4",
+      "kind": "body",
+      "text": "You have little time to express your frustration. As you stand \ndismayed in the middle of the road, an automobile comes \nbarreling out of the mist directly at you.\n",
+      "sourceLocation": "pdf:spans:[[64,743,807],[64,807,864],[64,864,907]]"
+    },
+    {
+      "id": "201:p5",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 191: if you fail, go to 221.\n",
+      "sourceLocation": "pdf:spans:[[64,909,981]]"
+    },
+    {
+      "id": "201:p6",
+      "kind": "body",
+      "text": "(174)\n",
+      "sourceLocation": "pdf:spans:[[64,981,987]]"
+    }
+  ]
+}

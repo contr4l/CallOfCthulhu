@@ -1,0 +1,54 @@
+{
+  "format": "coc-pdf-ocr-index@1",
+  "pages": [
+    {
+      "pdfPage": 79,
+      "path": "scripts/alone-against-tide/ocr/079.json",
+      "sha256": "905f74bc794940ed7eb7cbaf879b219ebd17383bc5be50175a35bd45f226cabd",
+      "words": 377,
+      "lowConfidenceWords": 138
+    },
+    {
+      "pdfPage": 80,
+      "path": "scripts/alone-against-tide/ocr/080.json",
+      "sha256": "cdc5df338ef97833c9e28b446dc8299754913845293e675ead9ebe21b6ce618a",
+      "words": 253,
+      "lowConfidenceWords": 19
+    },
+    {
+      "pdfPage": 81,
+      "path": "scripts/alone-against-tide/ocr/081.json",
+      "sha256": "5531e27791619c5969dd0d8d7dd1f1e3ef33b872d91ee3346b1c8f6c5d999e01",
+      "words": 387,
+      "lowConfidenceWords": 178
+    },
+    {
+      "pdfPage": 82,
+      "path": "scripts/alone-against-tide/ocr/082.json",
+      "sha256": "536f35cbf479760f209f229fea402538913c6e45f8af0900aa17135a6c5c86c3",
+      "words": 243,
+      "lowConfidenceWords": 17
+    },
+    {
+      "pdfPage": 83,
+      "path": "scripts/alone-against-tide/ocr/083.json",
+      "sha256": "9a109df0324523ae6132ece9da84a03aa0bbff358a87f659a051d002431c5a5f",
+      "words": 393,
+      "lowConfidenceWords": 145
+    },
+    {
+      "pdfPage": 84,
+      "path": "scripts/alone-against-tide/ocr/084.json",
+      "sha256": "b99a900f2e31de5ec7db77ffef5d890511cb030ea79d2a4fc338bb5ab98fb508",
+      "words": 126,
+      "lowConfidenceWords": 13
+    },
+    {
+      "pdfPage": 89,
+      "path": "scripts/alone-against-tide/ocr/089.json",
+      "sha256": "ca6513bf381b5b8a90a322c1117edfcb4e82c0bffc60bb4424f4c0c34d3ecf10",
+      "words": 0,
+      "lowConfidenceWords": 0
+    }
+  ]
+}

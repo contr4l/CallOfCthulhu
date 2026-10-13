@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "86"
+  ],
+  "text": [
+    "显然，其他人都没料到竟有人会为这尊粗陋的偶像付出如此荒唐的价钱。你仍不敢相信自己报出了那么高的价钱，但这件怪诞畸形的东西如今归你所有。僧侣和那些穿深色西装的男人怒视着你，不过其他人似乎并不介意，也没太在意，只是有几个人扬起眉毛，惊讶于竟有人愿为如此微不足道、古怪离奇的东西付出高价。不过，你看向阿米莉娅时，能看出她相当满意。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 86",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 86",
+      "text": [
+        "Clearly, none of the others expected anyone to pay such a ludicrous price for the crude idol. You still can’t believe how much money you offered for it, but the grotesque and misshapen thing is now yours. The monk and the men in dark suits stare daggers at you, but nobody else seems to mind or take much notice beyond a few raised eyebrows that anyone would pay such an excessive amount for such a trifling and outlandish thing. Still, when you look Amelia’s way, you can tell she is quite pleased."
+      ]
+    }
+  }
+}

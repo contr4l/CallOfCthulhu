@@ -1,0 +1,30 @@
+{
+  "id": "193",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "193:p0",
+      "kind": "heading",
+      "text": "193",
+      "sourceLocation": "pdf:visual:[[42,25]]"
+    },
+    {
+      "id": "193:p1",
+      "kind": "body",
+      "text": "Lost  in  thought,  you  jump  as  Sylvia  touches  your  elbow  to \nrelieve you. You check on the sleeper before turning in. His \ncondition seems be deteriorating by the hour.",
+      "sourceLocation": "pdf:visual:[[42,26],[42,27],[42,28]]"
+    },
+    {
+      "id": "193:p2",
+      "kind": "body",
+      "text": "Make a First Aid roll: if you succeed, go to 182; if you fail, go to 181.",
+      "sourceLocation": "pdf:visual:[[42,29]]"
+    },
+    {
+      "id": "193:p3",
+      "kind": "trace",
+      "text": "(179)",
+      "sourceLocation": "pdf:visual:[[42,30]]"
+    }
+  ]
+}

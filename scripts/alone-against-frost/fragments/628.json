@@ -1,0 +1,42 @@
+{
+  "id": "628",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "628:p0",
+      "kind": "heading",
+      "text": "628",
+      "sourceLocation": "pdf:visual:[[105,54]]"
+    },
+    {
+      "id": "628:p1",
+      "kind": "body",
+      "text": "“Yaaah!”  cries  Bernard.  The  beasts  drag  him  backward  and \nthrow him to the ground. They pummel him with rough clubs \nand large stones. He is clearly doomed.",
+      "sourceLocation": "pdf:visual:[[105,55],[105,56],[105,57]]"
+    },
+    {
+      "id": "628:p2",
+      "kind": "body",
+      "text": "Sylvia seems about to go back to help. You and Norman pull \nher away. While the ape-men are occupied, you flee to safety in \nthe meadowland below.",
+      "sourceLocation": "pdf:visual:[[105,58],[105,59],[105,60]]"
+    },
+    {
+      "id": "628:p3",
+      "kind": "body",
+      "text": "Heavyhearted over Bernard’s gruesome demise, you have a \ndecision to make.",
+      "sourceLocation": "pdf:visual:[[105,61],[105,62]]"
+    },
+    {
+      "id": "628:p4",
+      "kind": "body",
+      "text": "To explore the valley without Bernard, go to 551. To leave, go \nto 291.",
+      "sourceLocation": "pdf:visual:[[105,63],[105,64]]"
+    },
+    {
+      "id": "628:p5",
+      "kind": "trace",
+      "text": "(624)",
+      "sourceLocation": "pdf:visual:[[105,65]]"
+    }
+  ]
+}

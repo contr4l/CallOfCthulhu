@@ -1,0 +1,30 @@
+{
+  "id": "289",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "289:p0",
+      "kind": "heading",
+      "text": "289",
+      "sourceLocation": "pdf:visual:[[56,50]]"
+    },
+    {
+      "id": "289:p1",
+      "kind": "body",
+      "text": "You follow a gully up into oak-covered slopes. You notice an \nodd hircine odor. When you look up, you see that both rims \nare occupied.",
+      "sourceLocation": "pdf:visual:[[56,51],[56,52],[56,53]]"
+    },
+    {
+      "id": "289:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail it, lose 1D6 Sanity. If you suffer temporary \nor indefinite insanity, go to 310. If you remain in control, go to 309.",
+      "sourceLocation": "pdf:visual:[[56,54],[56,55]]"
+    },
+    {
+      "id": "289:p3",
+      "kind": "trace",
+      "text": "(276, 292)",
+      "sourceLocation": "pdf:visual:[[56,56]]"
+    }
+  ]
+}

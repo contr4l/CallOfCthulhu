@@ -1,0 +1,30 @@
+{
+  "id": "532",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "532:p0",
+      "kind": "heading",
+      "text": "532",
+      "sourceLocation": "pdf:visual:[[92,14]]"
+    },
+    {
+      "id": "532:p1",
+      "kind": "body",
+      "text": "Your party hurries from the megalithic wheel and hastens back \nto the riverside.",
+      "sourceLocation": "pdf:visual:[[92,15],[92,16]]"
+    },
+    {
+      "id": "532:p2",
+      "kind": "body",
+      "text": "If you have the keyword BAREFOOT, go to 458 if your party still \nhas five members, or 424 if you have lost someone. If you do not have \nthat keyword, go to 20 if your party still has five members, or 163 if \nyou have lost someone.",
+      "sourceLocation": "pdf:visual:[[92,17],[92,18],[92,19],[92,20]]"
+    },
+    {
+      "id": "532:p3",
+      "kind": "trace",
+      "text": "(450, 451, 452, 453)",
+      "sourceLocation": "pdf:visual:[[92,21]]"
+    }
+  ]
+}

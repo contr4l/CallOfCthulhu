@@ -1,0 +1,36 @@
+{
+  "id": "62",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "62:p0",
+      "kind": "heading",
+      "text": "62\n",
+      "sourceLocation": "pdf:spans:[[24,1909,1912]]"
+    },
+    {
+      "id": "62:p1",
+      "kind": "body",
+      "text": "You turn the hardened clay cylinders over in your hands, your \neyes falling on the large cracks running through both items. \nDespite this damage, their solid construction has led to the \ncylinders’ survival throughout the ages.\n",
+      "sourceLocation": "pdf:spans:[[24,1912,1975],[24,1975,2037],[24,2037,2099],[24,2099,2140]]"
+    },
+    {
+      "id": "62:p2",
+      "kind": "body",
+      "text": "The next most obvious quality is the strange writing plastered \nalong the sides of each cylinder. It’s quite remarkable in that it \ndoesn’t resemble any language known to you. Unfortunately, \nyou have no way of translating it.\n",
+      "sourceLocation": "pdf:spans:[[24,2140,2204],[24,2204,2272],[24,2272,2332],[24,2332,2367]]"
+    },
+    {
+      "id": "62:p3",
+      "kind": "body",
+      "text": "• Go to 32.\n",
+      "sourceLocation": "pdf:spans:[[24,2367,2379]]"
+    },
+    {
+      "id": "62:p4",
+      "kind": "body",
+      "text": "(32)\n",
+      "sourceLocation": "pdf:spans:[[24,2379,2384]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "60",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "60:p0",
+      "kind": "heading",
+      "text": "60\n",
+      "sourceLocation": "pdf:spans:[[24,931,934]]"
+    },
+    {
+      "id": "60:p1",
+      "kind": "body",
+      "text": "You approach the huddled group and introduce yourself to \nthem, stating that you recognize them from the ferry. The two \nmen from earlier appear annoyed at your presence and are \nvisibly irritated. “Scram man, we don’t know you. You got nothing \nto do with us.” The third man seems likewise bothered and \nfrowns at your intrusion.\n",
+      "sourceLocation": "pdf:spans:[[24,934,992],[24,992,1055],[24,1055,1113],[24,1113,1180],[24,1180,1239],[24,1239,1265]]"
+    },
+    {
+      "id": "60:p2",
+      "kind": "body",
+      "text": "They certainly make you feel unwelcome. Ignoring you in \nhopes that you’ll leave, the two men in suits turn their backs \nto you. You see the jacket of each suit shift oddly, as if it’s \nill-fitting.\n",
+      "sourceLocation": "pdf:spans:[[24,1265,1322],[24,1322,1386],[24,1386,1451],[24,1451,1464]]"
+    },
+    {
+      "id": "60:p3",
+      "kind": "body",
+      "text": "• Make a Spot Hidden roll: if you succeed, go to 28; if you fail, go \nto 40.\n",
+      "sourceLocation": "pdf:spans:[[24,1464,1534],[24,1534,1541]]"
+    },
+    {
+      "id": "60:p4",
+      "kind": "body",
+      "text": "(15, 17)\n",
+      "sourceLocation": "pdf:spans:[[24,1541,1550]]"
+    }
+  ]
+}

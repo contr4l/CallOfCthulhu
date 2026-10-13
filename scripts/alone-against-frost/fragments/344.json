@@ -1,0 +1,30 @@
+{
+  "id": "344",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "344:p0",
+      "kind": "heading",
+      "text": "344",
+      "sourceLocation": "pdf:visual:[[64,47]]"
+    },
+    {
+      "id": "344:p1",
+      "kind": "body",
+      "text": "You scramble higher into the tree. Just in time! The beasts leap, \ngrowl, and snarl, but your perch is secure. At last, they trek off \nacross the meadow. Your narrow escape emphasizes that you are \nill-equipped to explore this land.",
+      "sourceLocation": "pdf:visual:[[64,48],[64,49],[64,50],[64,51]]"
+    },
+    {
+      "id": "344:p2",
+      "kind": "body",
+      "text": "Go to 293.",
+      "sourceLocation": "pdf:visual:[[64,52]]"
+    },
+    {
+      "id": "344:p3",
+      "kind": "trace",
+      "text": "(308, 616)",
+      "sourceLocation": "pdf:visual:[[64,53]]"
+    }
+  ]
+}

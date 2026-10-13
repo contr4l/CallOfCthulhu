@@ -1,0 +1,60 @@
+{
+  "id": "106",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "106:p0",
+      "kind": "heading",
+      "text": "106\n",
+      "sourceLocation": "pdf:spans:[[35,2548,2552]]"
+    },
+    {
+      "id": "106:p1",
+      "kind": "body",
+      "text": "After getting dressed and eating the modest breakfast set out \nfor you, you’re ready to begin your day. You take a moment to \nconsider what that means for you.\n",
+      "sourceLocation": "pdf:spans:[[35,2552,2615],[35,2615,2678],[35,2678,2712]]"
+    },
+    {
+      "id": "106:p2",
+      "kind": "body",
+      "text": "Your mind turns to Prof. Harris. If you’re so inclined, you \nmight be able to investigate the circumstances of his death \nfurther. Considering that you don’t have his widow Amelia’s \naddress, you would have to start your search with the official \nreport filed with Officer Powell at the police station.\n",
+      "sourceLocation": "pdf:spans:[[35,2712,2773],[35,2773,2834],[35,2834,2895],[35,2895,2959],[35,2959,3015]]"
+    },
+    {
+      "id": "106:p3",
+      "kind": "body",
+      "text": "Alternatively, you could take this free time to look through \nyour belongings and examine any items you might have. The \nhotel owner has been in your room, so a check of your things \nmight be in order. Or perhaps you have some other reason to \nlook over your possessions.\n",
+      "sourceLocation": "pdf:spans:[[35,3015,3077],[35,3077,3136],[35,3136,3198],[35,3198,3259],[35,3259,3287]]"
+    },
+    {
+      "id": "106:p4",
+      "kind": "body",
+      "text": "Finally, if you feel that your business in Esbury is concluded, \nyou could always try to find Lance Sanford at the ferry.\n",
+      "sourceLocation": "pdf:spans:[[35,3287,3352],[35,3352,3409]]"
+    },
+    {
+      "id": "106:p5",
+      "kind": "body",
+      "text": "• To go to the police station, go to 11.\n",
+      "sourceLocation": "pdf:spans:[[35,3409,3450]]"
+    },
+    {
+      "id": "106:p6",
+      "kind": "body",
+      "text": "• To look over your items, go to 32.\n",
+      "sourceLocation": "pdf:spans:[[35,3450,3487]]"
+    },
+    {
+      "id": "106:p7",
+      "kind": "body",
+      "text": "• To go to the ferry, go to 153.\n",
+      "sourceLocation": "pdf:spans:[[35,3487,3520]]"
+    },
+    {
+      "id": "106:p8",
+      "kind": "body",
+      "text": "(9)",
+      "sourceLocation": "pdf:spans:[[35,3520,3523]]"
+    }
+  ]
+}

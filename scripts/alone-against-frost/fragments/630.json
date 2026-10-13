@@ -1,0 +1,30 @@
+{
+  "id": "630",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "630:p0",
+      "kind": "heading",
+      "text": "630",
+      "sourceLocation": "pdf:visual:[[105,78]]"
+    },
+    {
+      "id": "630:p1",
+      "kind": "body",
+      "text": "Walking through the meadowland with an eye for a trophy to \ntake back home, your group is startled by a vast shadow that \nglides across the grass around you. You glance up, imagining \nfrom its vast wingspan that it might be a surviving giant condor. \nIt is not a condor.",
+      "sourceLocation": "pdf:visual:[[105,79],[105,80],[105,81],[105,82],[105,83]]"
+    },
+    {
+      "id": "630:p2",
+      "kind": "body",
+      "text": "Make  a  Sanity  roll:  if  you  fail,  lose  1D6  Sanity;  if  you  retain \ncontrol, go to 631. If you suffer temporary insanity, go to 646. If you \nsuffer indefinite insanity, go to 364.",
+      "sourceLocation": "pdf:visual:[[105,84],[105,85],[105,86]]"
+    },
+    {
+      "id": "630:p3",
+      "kind": "trace",
+      "text": "(608)",
+      "sourceLocation": "pdf:visual:[[105,87]]"
+    }
+  ]
+}

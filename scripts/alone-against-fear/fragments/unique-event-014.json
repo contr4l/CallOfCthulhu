@@ -1,0 +1,92 @@
+{
+  "id": "unique-event-014",
+  "paragraphs": [
+    {
+      "id": "unique-event-014:p0000",
+      "kind": "body",
+      "text": "#14 - speeding train\n",
+      "sourceLocation": "pdf:spans:[[83,686,707]]"
+    },
+    {
+      "id": "unique-event-014:p0001",
+      "kind": "body",
+      "text": "You rush to the door and force it\n",
+      "sourceLocation": "pdf:spans:[[83,707,741]]"
+    },
+    {
+      "id": "unique-event-014:p0002",
+      "kind": "body",
+      "text": "open. The train is already picking\n",
+      "sourceLocation": "pdf:spans:[[83,741,776]]"
+    },
+    {
+      "id": "unique-event-014:p0003",
+      "kind": "body",
+      "text": "up speed. Save vs. L5 (add +1 if you\n",
+      "sourceLocation": "pdf:spans:[[83,776,813]]"
+    },
+    {
+      "id": "unique-event-014:p0004",
+      "kind": "body",
+      "text": "have the Agile Skill, or +2 if you\n",
+      "sourceLocation": "pdf:spans:[[83,813,848]]"
+    },
+    {
+      "id": "unique-event-014:p0005",
+      "kind": "body",
+      "text": "have it at the Expert level) to land\n",
+      "sourceLocation": "pdf:spans:[[83,848,885]]"
+    },
+    {
+      "id": "unique-event-014:p0006",
+      "kind": "body",
+      "text": "safely. If you fail, you lose 1 Life\n",
+      "sourceLocation": "pdf:spans:[[83,885,922]]"
+    },
+    {
+      "id": "unique-event-014:p0007",
+      "kind": "body",
+      "text": "and 1 item of your choice (but not\n",
+      "sourceLocation": "pdf:spans:[[83,922,957]]"
+    },
+    {
+      "id": "unique-event-014:p0008",
+      "kind": "body",
+      "text": "a cursed item or a Clown mask). If\n",
+      "sourceLocation": "pdf:spans:[[83,957,992]]"
+    },
+    {
+      "id": "unique-event-014:p0009",
+      "kind": "body",
+      "text": "you pass the roll, you land with\n",
+      "sourceLocation": "pdf:spans:[[83,992,1025]]"
+    },
+    {
+      "id": "unique-event-014:p0010",
+      "kind": "body",
+      "text": "nothing more than a few bruises.\n",
+      "sourceLocation": "pdf:spans:[[83,1025,1058]]"
+    },
+    {
+      "id": "unique-event-014:p0011",
+      "kind": "body",
+      "text": "The train zooms away, engulfed in\n",
+      "sourceLocation": "pdf:spans:[[83,1058,1092]]"
+    },
+    {
+      "id": "unique-event-014:p0012",
+      "kind": "body",
+      "text": "a cloud of blackness. Probably,\n",
+      "sourceLocation": "pdf:spans:[[83,1092,1124]]"
+    },
+    {
+      "id": "unique-event-014:p0013",
+      "kind": "body",
+      "text": "jumping off was a good choice.\n",
+      "sourceLocation": "pdf:spans:[[83,1124,1155]]"
+    }
+  ],
+  "sourcePages": [
+    83
+  ]
+}

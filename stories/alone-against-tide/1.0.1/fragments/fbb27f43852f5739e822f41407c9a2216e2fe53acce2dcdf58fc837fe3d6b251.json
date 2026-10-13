@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "57"
+  ],
+  "text": [
+    "你勉强挤出笑容，磕磕绊绊地说了句恭维话，女人笑了起来。“哎呀！你可真是个腼腆的人！面对我这样的漂亮女人，不知道说什么了吧？没关系，反正我也不会看上你。不过你可以留下来参加拍卖会。要是你买东西，我说不定会更喜欢你。”她朝你眨眨眼，转身走回舞台上的位置。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 57",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 57",
+      "text": [
+        "You manage a smile and stumble through a compliment and the woman laughs. “Oh my! Well, aren’t you the nervous sort? Don’t know what to say to a pretty woman like me, eh? That’s quite alright. I wouldn’t have you anyway. You’re welcome to stay for the sale though. I might like you better as a buyer.” She winks and turns around, walking back to her place on the stage."
+      ]
+    }
+  }
+}

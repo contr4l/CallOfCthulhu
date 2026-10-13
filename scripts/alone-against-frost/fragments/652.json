@@ -1,0 +1,48 @@
+{
+  "id": "652",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "652:p0",
+      "kind": "heading",
+      "text": "652",
+      "sourceLocation": "pdf:visual:[[108,42]]"
+    },
+    {
+      "id": "652:p1",
+      "kind": "body",
+      "text": "By the time you near the watery ledge that is the exit from \nthis place, the adrenaline rush of combat has faded to a deep \nweariness  and  you  have  to  drag  your  feet  to  keep  them  in \nmotion. Perhaps that is why you do not sense the wolf that has \nstalked you all this way.",
+      "sourceLocation": "pdf:visual:[[108,43],[108,44],[108,45],[108,46],[108,47]]"
+    },
+    {
+      "id": "652:p2",
+      "kind": "body",
+      "text": "Leading the party, you have already stepped past its hiding \nplace when it launches, snarling as it springs. Norman tumbles \nbackward, but the huge brute knocks Sylvia off her feet and \ntears out her neck.",
+      "sourceLocation": "pdf:visual:[[108,48],[108,49],[108,50],[108,51]]"
+    },
+    {
+      "id": "652:p3",
+      "kind": "body",
+      "text": "You  and  Norman  recover  quickly  and  leap  to  the  attack. \nTogether, you dispatch the wolf. But it is too late for Sylvia.",
+      "sourceLocation": "pdf:visual:[[108,52],[108,53]]"
+    },
+    {
+      "id": "652:p4",
+      "kind": "body",
+      "text": "You bury her within sight of the valley entrance.",
+      "sourceLocation": "pdf:visual:[[108,54]]"
+    },
+    {
+      "id": "652:p5",
+      "kind": "body",
+      "text": "Go to 278.",
+      "sourceLocation": "pdf:visual:[[108,55]]"
+    },
+    {
+      "id": "652:p6",
+      "kind": "trace",
+      "text": "(287)",
+      "sourceLocation": "pdf:visual:[[108,56]]"
+    }
+  ]
+}

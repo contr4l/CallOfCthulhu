@@ -1,0 +1,30 @@
+{
+  "id": "331",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "331:p0",
+      "kind": "heading",
+      "text": "331",
+      "sourceLocation": "pdf:visual:[[63,24]]"
+    },
+    {
+      "id": "331:p1",
+      "kind": "body",
+      "text": "As the pair of you starve, Norman’s strength gives out first. You \nwrap him in a ragged blanket and, discouraged, make one more \nattempt to find food.",
+      "sourceLocation": "pdf:visual:[[63,26],[63,27],[63,28]]"
+    },
+    {
+      "id": "331:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 327; if the result is odd, go \nto 328.",
+      "sourceLocation": "pdf:visual:[[63,29],[63,30]]"
+    },
+    {
+      "id": "331:p3",
+      "kind": "trace",
+      "text": "(297)",
+      "sourceLocation": "pdf:visual:[[63,31]]"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "225"
+  ],
+  "text": [
+    "你拿起手边能找到的东西当作武器——碰巧是一把刀，就放在曾经属于旅馆老板的晚餐旁。你用颤抖的双手紧握刀刃，门在巨大重物的撞击下弯曲、震动。",
+    "接着，门终于撑不住了。水涌进房间。但更糟的是堵在门口的那些身影。从黑暗与雾气中走进房间灯光里的，是一些四肢细长、身体鼓胀的异界生物。它们是绿色的——和它们出现的雾气一样，呈现病态的颜色。它们凸出的死寂双眼盯着你，笨拙地蹒跚向前。",
+    "你用刀剖开那些生物，像处理大鱼一样把它们开膛破肚，自己也浑身沾满了它们滴落的脓液。它们一个接一个从门里涌进来，仿佛永远也杀不完。",
+    "你渐渐看见自己的末日逼近。挥刀慢了一些，手臂多了几分酸痛，呼吸也更急促。你撑不了多久了。最后，你疲惫不堪，其中一只怪物趁隙闯入，把你撞倒。你在它身下踢打、挥砍、挣扎，而它用身体重量压住你。",
+    "水灌进你的肺里时，你最后看见的是那只夺走你性命的生物冰冷、毫无生气的双眼。",
+    "可惜，你还是遭逢厄运，如今已经死了；不过欢迎你重新开始冒险，尝试得到不同的结果。但眼下，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 225",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 225",
+      "text": [
+        "You arm yourself with whatever you find handy, which happens to be a knife left out next to what was once the hotel owner’s dinner. You clutch the blade in trembling hands as the door buckles and quakes under a great weight.",
+        "And then the door gives. Water rushes into the room. Worse than that, though, are the forms filling the doorway. Emerging from the darkness and mist into the light of the room are alien figures with lanky limbs and bulbous bodies. The beings are green—the same sickly color as the mist from which they emerge. They fix their bulging, dead eyes on you and lurch clumsily forward.",
+        "You carve the creatures open with your blade, gutting them like large fishes, and succeed in completely covering yourself in their dripping ichor. They stream through the door one by one, but they are seemingly endless in number.",
+        "You see your end coming slowly. A little less speed of the stroke. A little more soreness of the arm. A little more shortness of breath. You cannot keep them off for much longer. Eventually, you tire, and one of the creatures slips through and knocks you over. You kick, slash, and thrash beneath it as it traps you under its weight.",
+        "As the water fills your lungs, the last thing you see are the cold, lifeless eyes of the creature that brings about your demise. Unfortunately, you have met your doom and you are now dead, though you are welcome to begin the adventure again and attempt to reach a different outcome. But, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

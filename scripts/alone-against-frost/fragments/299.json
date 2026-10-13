@@ -1,0 +1,36 @@
+{
+  "id": "299",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "299:p0",
+      "kind": "heading",
+      "text": "299",
+      "sourceLocation": "pdf:visual:[[58,52]]"
+    },
+    {
+      "id": "299:p1",
+      "kind": "body",
+      "text": "The little man refuses to walk, so your party carries him. By \nnoon he appears to have fallen unconscious. You set up camp \nand try once more to feed your captive. He refuses; he seems to \nbe actually willing himself to die.",
+      "sourceLocation": "pdf:visual:[[58,53],[58,54],[58,55],[58,56]]"
+    },
+    {
+      "id": "299:p2",
+      "kind": "body",
+      "text": "By  morning  he  is  dead;  his  corpse  rots  rapidly.  Carrying  it \nbecomes  a  repugnant  prospect.  Even  the  bones  fall  apart  and \ncrumble to gray dust in only a few days. So much for your specimen.",
+      "sourceLocation": "pdf:visual:[[58,57],[58,58],[58,59]]"
+    },
+    {
+      "id": "299:p3",
+      "kind": "body",
+      "text": "To continue your homeward march, go to 158. To reverse course and \nexplore the North Hanninah Valley, go to 89.",
+      "sourceLocation": "pdf:visual:[[58,60],[58,61]]"
+    },
+    {
+      "id": "299:p4",
+      "kind": "trace",
+      "text": "(281)",
+      "sourceLocation": "pdf:visual:[[58,62]]"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "147"
+  ],
+  "text": [
+    "你再次穿过埃斯伯里雾气笼罩的街道，朝哈里斯家走去。你的脚踏上铺着石板的路面，四周建筑的墙壁把脚步声反射回来。除此之外，一切仍然安静而沉寂。",
+    "光线十分昏暗，且每过一秒就更暗一些。等你再次来到阿米莉娅·哈里斯家时，夜幕已经降临。",
+    "你走近房子时，突然僵在原地。一名穿红裙的女人从离你几英尺的地方经过——是阿米莉娅·哈里斯！她似乎没注意到你，一方面因为浓雾，另一方面也因为她看起来正沉浸在自己的思绪中。你看着她匆匆穿过浓雾，走进附近的教堂。",
+    "你可以进入哈里斯家搜查，也可以跟踪阿米莉娅，找她问话。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 147",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 147",
+      "text": [
+        "You make your way through the foggy streets of Esbury, heading once more to the Harris house. As your feet hit the road’s flagstones, you hear the sound of your footsteps reflected back by the walls of the buildings all around you. Otherwise, all remains quiet and sleepy.",
+        "The light is very dim and growing darker by the second. By the time you find yourself once more at Amelia Harris’ home, night has fallen.",
+        "As you approach the building, you freeze dead in your tracks as a woman in a red dress passes mere feet from you—Amelia Harris! She doesn’t seem to notice you, in part because of the fog but also because she looks lost in thought. You watch her move hurriedly through the mist and enter the nearby church.",
+        "You could choose to enter the Harris house and search the premises, or you could pursue Amelia for questioning."
+      ]
+    }
+  }
+}

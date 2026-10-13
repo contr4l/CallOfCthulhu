@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "17"
+  ],
+  "text": [
+    "你已经开始在埃斯伯里搜集情报。还想继续与人交谈吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 17",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 17",
+      "text": [
+        "You have begun gathering information in Esbury. Would you like to interact some more?"
+      ]
+    }
+  }
+}

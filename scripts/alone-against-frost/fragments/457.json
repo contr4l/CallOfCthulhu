@@ -1,0 +1,30 @@
+{
+  "id": "457",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "457:p0",
+      "kind": "heading",
+      "text": "457",
+      "sourceLocation": "pdf:visual:[[80,72]]"
+    },
+    {
+      "id": "457:p1",
+      "kind": "body",
+      "text": "Giving in to a primitive fear, you turn and dash from the rock \nwheel, exhorting your party to follow. Already edgy, they ask no \nquestions as they run along beside you.",
+      "sourceLocation": "pdf:visual:[[80,73],[80,74],[80,75]]"
+    },
+    {
+      "id": "457:p2",
+      "kind": "body",
+      "text": "If your party still has five members, go to 556. If you have lost one, \ngo to 513.",
+      "sourceLocation": "pdf:visual:[[80,76],[80,77]]"
+    },
+    {
+      "id": "457:p3",
+      "kind": "trace",
+      "text": "(448)",
+      "sourceLocation": "pdf:visual:[[80,78]]"
+    }
+  ]
+}

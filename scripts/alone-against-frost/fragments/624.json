@@ -1,0 +1,30 @@
+{
+  "id": "624",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "624:p0",
+      "kind": "heading",
+      "text": "624",
+      "sourceLocation": "pdf:visual:[[105,2]]"
+    },
+    {
+      "id": "624:p1",
+      "kind": "body",
+      "text": "The three of you bound after Bernard. Since he is hobbled, you \nquickly get ahead of him. The ape-men behind are incited by \nyour scent of fear and run after you. Despite their size and bulk, \nthey move swiftly. You will have to use the terrain against them.",
+      "sourceLocation": "pdf:visual:[[105,4],[105,6],[105,7],[105,9]]"
+    },
+    {
+      "id": "624:p2",
+      "kind": "body",
+      "text": "Make a Spot Hidden roll: if you succeed, go to 625; if you fail, go to 628.",
+      "sourceLocation": "pdf:visual:[[105,11]]"
+    },
+    {
+      "id": "624:p3",
+      "kind": "trace",
+      "text": "(623)",
+      "sourceLocation": "pdf:visual:[[105,12]]"
+    }
+  ]
+}

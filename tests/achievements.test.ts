@@ -311,7 +311,12 @@ test("all published endings have unique reserved display numbers", () => {
   }
   for (const story of productionStories("stories").values()) {
     for (const node of story.nodes) {
-      if (!node.ending && !node.program?.some((step) => step.kind === "end"))
+      if (
+        !node.ending &&
+        !node.program?.some(
+          (step) => step.kind === "end" && step.collect !== false,
+        )
+      )
         continue;
       assert.ok(
         endingNumbers[story.id]?.[node.id],

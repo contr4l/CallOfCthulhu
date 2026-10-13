@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "166"
+  ],
+  "text": [
+    "你屈服于恐慌，任由它席卷自己。那东西刚才想杀了你。它还在外面等着你。你若躲在这里，它会找到你。那东西既不自然，又邪恶。你不能留在这里。",
+    "你甚至顾不上警告其他人，也顾不上拿自己的东西。你只是深吸一口气，冲进迷雾。黑暗和浓雾让你什么也看不见。尽管如此，你还是拼命以双腿所能达到的最快速度奔跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 166",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 166",
+      "text": [
+        "You give in to your panic and let it wash over you. That thing was trying to kill you. It’s still out there, waiting for you. It will find you here if you try to hide. That unnatural and unholy thing. You cannot stay here.",
+        "You don’t even bother to warn anyone else or grab your things. You simply take a deep breath and rush into the mist. The darkness and fog make it so you can see absolutely nothing. But still, you desperately run as fast as your legs can carry you."
+      ]
+    }
+  }
+}

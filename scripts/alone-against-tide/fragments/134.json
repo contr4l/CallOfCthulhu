@@ -1,0 +1,42 @@
+{
+  "id": "134",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "134:p0",
+      "kind": "heading",
+      "text": "134\n",
+      "sourceLocation": "pdf:spans:[[43,3027,3031]]"
+    },
+    {
+      "id": "134:p1",
+      "kind": "body",
+      "text": "You exit your room and make your way to the hotel’s front \ndesk. The wiry-looking old woman stands next to the fireplace, \nstoking the coals to keep out the mist’s chill. As you approach \nher, she raises her eyebrows at you inquisitively but says nothing.\n",
+      "sourceLocation": "pdf:spans:[[43,3031,3090],[43,3090,3154],[43,3154,3219],[43,3219,3287]]"
+    },
+    {
+      "id": "134:p2",
+      "kind": "body",
+      "text": "You clear your throat and ask her if she saw anyone entering \nor leaving your room, or even just anyone unusual at the hotel. \nShe bites her lip for a minute before nodding quickly. She \ngrasps your wrist with a fierceness you would not have expected \nof her tiny frame. “The men had guns, I had to give them the keys. \nOne of them just left, but the other is still upstairs. I think he’s \nbeating that Indian man.” She looks at you nervously, almost \npleading for you to do something.\n",
+      "sourceLocation": "pdf:spans:[[43,3287,3349],[43,3349,3414],[43,3414,3474],[43,3474,3539],[43,3539,3607],[43,3607,3677],[43,3677,3739],[43,3739,3773]]"
+    },
+    {
+      "id": "134:p3",
+      "kind": "body",
+      "text": "• To deal with the man upstairs, go to 142.\n",
+      "sourceLocation": "pdf:spans:[[43,3773,3817]]"
+    },
+    {
+      "id": "134:p4",
+      "kind": "body",
+      "text": "• To pursue the man who left, go to 79.\n",
+      "sourceLocation": "pdf:spans:[[43,3817,3857]]"
+    },
+    {
+      "id": "134:p5",
+      "kind": "body",
+      "text": "(109)",
+      "sourceLocation": "pdf:spans:[[43,3857,3862]]"
+    }
+  ]
+}

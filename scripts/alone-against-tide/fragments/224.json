@@ -1,0 +1,42 @@
+{
+  "id": "224",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "224:p0",
+      "kind": "heading",
+      "text": "224\n",
+      "sourceLocation": "pdf:spans:[[72,26,30]]"
+    },
+    {
+      "id": "224:p1",
+      "kind": "body",
+      "text": "Try as you might, you cannot find any way to start a fire. You \nhave no lighter or matches on your person, and you know of no \ntricks that will help you. In the end, you give up and return to \nthe path.\n",
+      "sourceLocation": "pdf:spans:[[72,30,94],[72,94,157],[72,157,223],[72,223,233]]"
+    },
+    {
+      "id": "224:p2",
+      "kind": "body",
+      "text": "You wander along the trail, unsure of where you’re going. You \nmake sure to keep dirt and gravel beneath your feet, checking \nconstantly that it hasn’t given way to grass or water. You focus \nsolely on the placement of your steps, confident that you will \nreach your goal simply by putting one foot in front of the other.\n",
+      "sourceLocation": "pdf:spans:[[72,233,296],[72,296,359],[72,359,425],[72,425,489],[72,489,555]]"
+    },
+    {
+      "id": "224:p3",
+      "kind": "body",
+      "text": "Unfortunately, this also distracts your attention from your \nsurroundings.\n",
+      "sourceLocation": "pdf:spans:[[72,555,616],[72,616,630]]"
+    },
+    {
+      "id": "224:p4",
+      "kind": "body",
+      "text": "• Make a Listen roll: if you succeed, go to 190; if you fail, go to 212.\n",
+      "sourceLocation": "pdf:spans:[[72,632,705]]"
+    },
+    {
+      "id": "224:p5",
+      "kind": "body",
+      "text": "(175, 187)\n",
+      "sourceLocation": "pdf:spans:[[72,705,716]]"
+    }
+  ]
+}

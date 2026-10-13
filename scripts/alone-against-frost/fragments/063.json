@@ -1,0 +1,36 @@
+{
+  "id": "63",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "63:p0",
+      "kind": "heading",
+      "text": "63",
+      "sourceLocation": "pdf:visual:[[21,66]]"
+    },
+    {
+      "id": "63:p1",
+      "kind": "body",
+      "text": "It does not take much time to confirm your hypothesis that \nthousands of species survive unchanged in this gigantic box \ncanyon. There are weird shrubs and flowers, and beasts whose \nouter-world  ancestors  live  only  in  Africa  or  Asia—camels, \nrhinos, and elephants.",
+      "sourceLocation": "pdf:visual:[[21,67],[21,68],[21,69],[21,70],[21,71]]"
+    },
+    {
+      "id": "63:p2",
+      "kind": "body",
+      "text": "You can hardly believe it. Your Miskatonic colleagues will \ncertainly not believe it without conclusive physical evidence.",
+      "sourceLocation": "pdf:visual:[[21,72],[21,73]]"
+    },
+    {
+      "id": "63:p3",
+      "kind": "body",
+      "text": "Make a Natural World roll: if you succeed, go to 112; if you fail, go \nto 213.",
+      "sourceLocation": "pdf:visual:[[21,74],[21,75]]"
+    },
+    {
+      "id": "63:p4",
+      "kind": "trace",
+      "text": "(38, 312, 535)",
+      "sourceLocation": "pdf:visual:[[21,76]]"
+    }
+  ]
+}

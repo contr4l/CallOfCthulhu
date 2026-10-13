@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "107"
+  ],
+  "text": [
+    "你看见牢房栏杆外有一枚回形针。它想必是从鲍威尔警官桌上的某一摞文件里掉出来的。你把手伸过栏杆，拿起回形针，庆幸自己运气不错。你把回形针掰弯，当作临时开锁工具。抬头一看，鲍威尔警官仍背对着你，心不在焉地抽着雪茄。",
+    "你开始设法打开锁。牢门的锁很牢固，毕竟它就是为了把罪犯关在牢里而设计的；但它难不倒你。你花了些时间，终于感觉锁芯松动了。",
+    "你又看了一眼鲍威尔警官。他似乎完全没注意你。如果运气够好，你或许能在不惊动他的情况下溜出牢房。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 107",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 107",
+      "text": [
+        "You spot a paperclip lying just outside the bars of your cell. No doubt it fell off one of the stacks of documents on Officer Powell’s desk. You slip your hand between the bars and reach out to grab it, sighing with relief at your good fortune. You bend the paperclip to serve as an improvised lockpick. Glancing up, you see that Officer Powell is still turned away from you, puffing absentmindedly on his cigar.",
+        "You set to work trying to get the lock open. The lock is strong, as it’s meant to keep criminals safely behind bars, but it is no match for your skills. It takes you some time to finally get it open, but eventually you feel it give way.",
+        "You check on Officer Powell one more time. He seems to be paying you no attention. If your luck holds, you may be able to sneak out of the prison cell without him noticing."
+      ]
+    }
+  }
+}

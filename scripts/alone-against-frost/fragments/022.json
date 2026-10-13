@@ -1,0 +1,42 @@
+{
+  "id": "22",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "22:p0",
+      "kind": "heading",
+      "text": "22",
+      "sourceLocation": "pdf:visual:[[14,10]]"
+    },
+    {
+      "id": "22:p1",
+      "kind": "body",
+      "text": "A thorough search of the river fails to turn up your missing \nsupplies. The  canoe  is  beyond  repair  without  a  workshop—\nsomething you are unlikely to find in the wilderness.",
+      "sourceLocation": "pdf:visual:[[14,11],[14,12],[14,13]]"
+    },
+    {
+      "id": "22:p2",
+      "kind": "body",
+      "text": "The  weather  turns  against  you;  the  thunderheads  unleash \nlightning  and  stinging  torrents  of  cold  rain.  Charlie  returns \nfrom a survey, rain streaming from her braids. “A cave, Professor. \nA hundred paces in that direction.” ",
+      "sourceLocation": "pdf:visual:[[14,14],[14,15],[14,16],[14,17]]"
+    },
+    {
+      "id": "22:p3",
+      "kind": "body",
+      "text": "Your party is already soaked through by the time you reach \nthe cave, but its walls provide some respite from the lash of \nthe storm. With the canoe gone, the expedition is in jeopardy. \nIt took a long time to raise the resources for this one, and you \nhave already come so far.",
+      "sourceLocation": "pdf:visual:[[14,18],[14,19],[14,20],[14,21],[14,22]]"
+    },
+    {
+      "id": "22:p4",
+      "kind": "body",
+      "text": "Record the keyword BAREFOOT. To continue the expedition, go \nto 31. To build a raft and float back down the river to the West \nBranch, go to 51.",
+      "sourceLocation": "pdf:visual:[[14,23],[14,24],[14,25]]"
+    },
+    {
+      "id": "22:p5",
+      "kind": "trace",
+      "text": "(13)",
+      "sourceLocation": "pdf:visual:[[14,26]]"
+    }
+  ]
+}

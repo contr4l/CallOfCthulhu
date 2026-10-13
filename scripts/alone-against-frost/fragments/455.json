@@ -1,0 +1,36 @@
+{
+  "id": "455",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "455:p0",
+      "kind": "heading",
+      "text": "455",
+      "sourceLocation": "pdf:visual:[[80,44]]"
+    },
+    {
+      "id": "455:p1",
+      "kind": "body",
+      "text": "A hurricane blasts you from the temple of Ithaqua.It continues \noutside, roaring through the arch with a cold fury.",
+      "sourceLocation": "pdf:visual:[[80,45],[80,46]]"
+    },
+    {
+      "id": "455:p2",
+      "kind": "body",
+      "text": "You see your students, holding hats to heads and scrabbling \nfor purchase. The winds tear at them with a malignant scream. \nSylvia is the first to leave the ground, hair whipping around \nher face as she flails. Norman tries to fall prone, but his legs lift \nas his fingers try to grip the earth. Bernard is last, staring into \nyour eyes as he levitates. Their figures swirl into the sky like dry \nleaves in a dust devil. The sky darkens and fills with a crushing, \noppressive presence. A god from Beyond!",
+      "sourceLocation": "pdf:visual:[[80,47],[80,48],[80,49],[80,50],[80,51],[80,52],[80,53],[80,54]]"
+    },
+    {
+      "id": "455:p3",
+      "kind": "body",
+      "text": "Go to 264.",
+      "sourceLocation": "pdf:visual:[[80,55]]"
+    },
+    {
+      "id": "455:p4",
+      "kind": "trace",
+      "text": "(452, 453)",
+      "sourceLocation": "pdf:visual:[[80,56]]"
+    }
+  ]
+}

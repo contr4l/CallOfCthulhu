@@ -1,0 +1,42 @@
+{
+  "id": "448",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "448:p0",
+      "kind": "heading",
+      "text": "448",
+      "sourceLocation": "pdf:visual:[[78,42]]"
+    },
+    {
+      "id": "448:p1",
+      "kind": "body",
+      "text": "Astonishing! Who would have expected to see such a thing \nin this primitive land? It is a gigantic circle, over 200 feet in \ncircumference, made of boulders and huge slabs of limestone, \nplaced with great engineering skill to form a wheel. From the \ncenter of the wheel, 28 stone spokes radiate in precision to a \nwell-defined perimeter. At the center of the structure is what \nappears to be a small ceremonial building, shaped like a beehive.",
+      "sourceLocation": "pdf:visual:[[78,43],[78,44],[78,45],[78,46],[78,47],[78,48],[78,49]]"
+    },
+    {
+      "id": "448:p2",
+      "kind": "body",
+      "text": "Your  dizziness  increases  as  you  slide  down  the  slope  and \ncross the outer ring of stones. You begin to hear ringing in your \nears and a roll like the crash of distant waves, like the strike of \nmighty thunderbolts upon echoing mountainsides.",
+      "sourceLocation": "pdf:visual:[[78,50],[78,51],[78,52],[78,53]]"
+    },
+    {
+      "id": "448:p3",
+      "kind": "body",
+      "text": "Sylvia grips your arm. “Professor,” she says, “don’t go in there.” \nShe looks like she might vomit.",
+      "sourceLocation": "pdf:visual:[[78,54],[78,55]]"
+    },
+    {
+      "id": "448:p4",
+      "kind": "body",
+      "text": "To  leave  your  fainthearted  party  behind  and  go  inside  the  little \nbuilding, go to 449. To head back the way you came, make a Luck \nroll: if you succeed, go to 457; if you fail, go to 554.",
+      "sourceLocation": "pdf:visual:[[78,56],[78,57],[78,58]]"
+    },
+    {
+      "id": "448:p5",
+      "kind": "trace",
+      "text": "(435, 553)",
+      "sourceLocation": "pdf:visual:[[78,59]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "249",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "249:p0",
+      "kind": "heading",
+      "text": "249",
+      "sourceLocation": "pdf:visual:[[49,64]]"
+    },
+    {
+      "id": "249:p1",
+      "kind": "body",
+      "text": "They  flit  through  the  air,  grotesque  winged  silhouettes.  You \ncatch abhorrent details in the glow from the clearing: faces of \nfungus, bodies that wiggle and writhe.",
+      "sourceLocation": "pdf:visual:[[49,65],[49,66],[49,67]]"
+    },
+    {
+      "id": "249:p2",
+      "kind": "body",
+      "text": "Gain 1 point of Cthulhu Mythos. Make a Sanity roll: if you fail, \nlose 1D6 Sanity. Then, go to 253.",
+      "sourceLocation": "pdf:visual:[[49,68],[49,69]]"
+    },
+    {
+      "id": "249:p3",
+      "kind": "trace",
+      "text": "(248)",
+      "sourceLocation": "pdf:visual:[[49,70]]"
+    }
+  ]
+}

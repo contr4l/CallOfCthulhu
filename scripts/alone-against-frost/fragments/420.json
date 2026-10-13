@@ -1,0 +1,30 @@
+{
+  "id": "420",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "420:p0",
+      "kind": "heading",
+      "text": "420",
+      "sourceLocation": "pdf:visual:[[74,46]]"
+    },
+    {
+      "id": "420:p1",
+      "kind": "body",
+      "text": "Sylvia does not answer. Is she here? Is she asleep? You feel \nvery exposed.",
+      "sourceLocation": "pdf:visual:[[74,47],[74,48]]"
+    },
+    {
+      "id": "420:p2",
+      "kind": "body",
+      "text": "To abandon the search, go to 421. Otherwise, make a Stealth roll: if \nyou succeed, go to 422; if you fail, go to 390.",
+      "sourceLocation": "pdf:visual:[[74,49],[74,50]]"
+    },
+    {
+      "id": "420:p3",
+      "kind": "trace",
+      "text": "(393)",
+      "sourceLocation": "pdf:visual:[[74,51]]"
+    }
+  ]
+}

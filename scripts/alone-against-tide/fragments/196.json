@@ -1,0 +1,42 @@
+{
+  "id": "196",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "196:p0",
+      "kind": "heading",
+      "text": "196\n",
+      "sourceLocation": "pdf:spans:[[63,44,48]]"
+    },
+    {
+      "id": "196:p1",
+      "kind": "body",
+      "text": "On reaching the top of the stairs, you emerge into the belfry \nand find yourself looking down on the rapidly-flooding, fog-\nshrouded town. You glance out at the lake, which is no longer \ncovered by the fog. You see the surface swelling and falling \nstrangely beneath unnaturally massive waves, as well as the stars \nand gibbous moon reflected in the seething water.\n",
+      "sourceLocation": "pdf:spans:[[63,48,111],[63,111,172],[63,172,235],[63,235,297],[63,297,364],[63,364,414]]"
+    },
+    {
+      "id": "196:p2",
+      "kind": "body",
+      "text": "Finding yourself in relative safety, you finally have a moment \nto pause and reflect. You take a deep breath, bowing your head in \nthought— or, perhaps, prayer. Your mind is in a whirl but, eventually, \na single thought breaks through, determining your course of action.\n",
+      "sourceLocation": "pdf:spans:[[63,414,478],[63,478,545],[63,545,617],[63,617,685]]"
+    },
+    {
+      "id": "196:p3",
+      "kind": "body",
+      "text": "• If you know a ritual chant, now is the time you may choose to use it. \nCheck the entry number noted on your investigator sheet, then go to it.\n",
+      "sourceLocation": "pdf:spans:[[63,687,760],[63,760,832]]"
+    },
+    {
+      "id": "196:p4",
+      "kind": "body",
+      "text": "• Otherwise, go to 150.\n",
+      "sourceLocation": "pdf:spans:[[63,832,856]]"
+    },
+    {
+      "id": "196:p5",
+      "kind": "body",
+      "text": "(228, 237)\n",
+      "sourceLocation": "pdf:spans:[[63,856,867]]"
+    }
+  ]
+}

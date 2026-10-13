@@ -1,0 +1,36 @@
+{
+  "id": "358",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "358:p0",
+      "kind": "heading",
+      "text": "358",
+      "sourceLocation": "pdf:visual:[[66,20]]"
+    },
+    {
+      "id": "358:p1",
+      "kind": "body",
+      "text": "For  a  great  distance,  the  two  of  you  hear  the  ape-men  in \nthe  rocks  and  woods  behind  you,  smashing  through  the \nundergrowth. At last, all is quiet to the rear.",
+      "sourceLocation": "pdf:visual:[[66,21],[66,22],[66,23]]"
+    },
+    {
+      "id": "358:p2",
+      "kind": "body",
+      "text": "You and Norman exchange glances. Ashamed, the two of \nyou agree that rescuing Sylvia is beyond your power. With no \nheart to explore the valley under such a burden of guilt, you \ndecide to leave as soon as possible. ",
+      "sourceLocation": "pdf:visual:[[66,24],[66,25],[66,26],[66,27]]"
+    },
+    {
+      "id": "358:p3",
+      "kind": "body",
+      "text": "Go to 361.",
+      "sourceLocation": "pdf:visual:[[66,28]]"
+    },
+    {
+      "id": "358:p4",
+      "kind": "trace",
+      "text": "(354)",
+      "sourceLocation": "pdf:visual:[[66,29]]"
+    }
+  ]
+}

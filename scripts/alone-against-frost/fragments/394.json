@@ -1,0 +1,30 @@
+{
+  "id": "394",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "394:p0",
+      "kind": "heading",
+      "text": "394",
+      "sourceLocation": "pdf:visual:[[71,27]]"
+    },
+    {
+      "id": "394:p1",
+      "kind": "body",
+      "text": "“P–Professor?” The voice is unmistakably Sylvia’s. You calm her \nwith a whisper and she hugs you, overcome. She seems in good \nshape, considering. You explain that you must sneak away from \ncamp at once.",
+      "sourceLocation": "pdf:visual:[[71,28],[71,29],[71,30],[71,31]]"
+    },
+    {
+      "id": "394:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll for Norman, Sylvia, and yourself: if all three \nsucceed, go to 395; if any of you fail, go to 653.",
+      "sourceLocation": "pdf:visual:[[71,32],[71,33]]"
+    },
+    {
+      "id": "394:p3",
+      "kind": "trace",
+      "text": "(393, 422)",
+      "sourceLocation": "pdf:visual:[[71,34]]"
+    }
+  ]
+}

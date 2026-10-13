@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "42"
+  ],
+  "text": [
+    "你问桑福德自己的情况，他朝你露出灿烂的大笑容。“我在埃斯伯里住了很多年了，比那些有钱人发现这里、把它变成度假胜地还早。我父亲经营往返镇子的渡船，后来他年纪太大，干不动了，就把船交给我。我喜欢这里，无法想象住在别处。湖水清澈又干净，我想这就是游客这么多的原因。不过，这地方确实比我小时候发展多了。有时我会怀念以前的日子，但即便现在，我还是喜欢埃斯伯里。你也会喜欢这里的。”桑福德朝你眨眨眼。",
+    "你又和桑福德寒暄了几句，他便去继续引导船只进港。你和其他乘客闲聊、观赏风景，打发了一段时间。你注意到埃斯伯里湖岸边高耸的松树和倾斜的山坡。这些景色，以及远处的小镇，都隐约可见于渐浓的雾气中；你眯起眼，仍能看得清楚。",
+    "不久，你抵达埃斯伯里的栈桥，庆幸自己终于离开了水面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 42",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 42",
+      "text": [
+        "You ask Sanford about himself and he beams a big bright smile your way. “I’ve lived in Esbury for years, since back before all the rich folk found the place and turned it into their little vacation spot. My father owned the ferry to and from the town, and he passed it on to me when he got too old to do it himself anymore. I love it here. I can’t imagine living anywhere else. The lake is so clear and clean. I guess that’s why we get so many visitors. This place has definitely grown since I was younger, though. Sometimes I miss the way things were before, but I love Esbury all the same, even now. You’ll like it here, too.” Sanford winks at you.",
+        "You exchange a few more pleasantries with Sanford before he goes off to finish guiding the boat into port. You pass the time in casual conversation with the other passengers and in observing the scenery. You note the tall pines and the sloping hills along the lakeshore around Esbury. These features, and the small town beyond, are just visible through the growing mist, but squinting helps make them out to your satisfaction.",
+        "In time, you arrive on the pier at Esbury, grateful to be off the water."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "90",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "90:p0",
+      "kind": "heading",
+      "text": "90",
+      "sourceLocation": "pdf:visual:[[26,1]]"
+    },
+    {
+      "id": "90:p1",
+      "kind": "body",
+      "text": "After a long walk, you discover the canyon ends at a rock wall. \nHowever, a stream pours from a fissure in the wall. Once you \ndraw close, you glimpse a large valley beyond. The current is \nrather swift, but it may be possible to wade through to the \nother side.",
+      "sourceLocation": "pdf:visual:[[26,2],[26,3],[26,4],[26,5],[26,6]]"
+    },
+    {
+      "id": "90:p2",
+      "kind": "body",
+      "text": "To attempt to pass through the fissure, go to 91. To head back toward \nFort McDonald, go to 158.",
+      "sourceLocation": "pdf:visual:[[26,7],[26,8]]"
+    },
+    {
+      "id": "90:p3",
+      "kind": "trace",
+      "text": "(89, 604)",
+      "sourceLocation": "pdf:visual:[[26,9]]"
+    }
+  ]
+}

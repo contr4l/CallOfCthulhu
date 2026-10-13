@@ -1,0 +1,42 @@
+{
+  "id": "271",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "271:p0",
+      "kind": "heading",
+      "text": "271",
+      "sourceLocation": "pdf:visual:[[54,8]]"
+    },
+    {
+      "id": "271:p1",
+      "kind": "body",
+      "text": "Sylvia is on the ground, her neck torn open. She is beyond help. \nNorman struggles with a brute of a wolf. His hands and chest \nare covered in blood. If you have a rifle, you may fire at the wolf \nattacking Norman, or you may join Norman and fight hand-\nto-hand combat. ",
+      "sourceLocation": "pdf:visual:[[54,9],[54,10],[54,11],[54,12],[54,13]]"
+    },
+    {
+      "id": "271:p2",
+      "kind": "body",
+      "text": "Norman has already lost 6 hit points. The wolf has an attack of \n30% (15/6), deals 1D8+1D4 damage, and has 12 hit points left \nout of 15. ",
+      "sourceLocation": "pdf:visual:[[54,14],[54,15],[54,16]]"
+    },
+    {
+      "id": "271:p3",
+      "kind": "body",
+      "text": "If using a firearm, apply a penalty die to your attack roll; if you \nfumble the roll, you hit Norman. If joining the brawl against the \nwolf attacking Norman, you gain a bonus die to your attacks against \nthe wolf, as together with Norman you outnumber the beast. ",
+      "sourceLocation": "pdf:visual:[[54,17],[54,18],[54,19],[54,20]]"
+    },
+    {
+      "id": "271:p4",
+      "kind": "body",
+      "text": "If the wolf dies before Norman does, go to 270. Otherwise, if \nNorman dies, your rage drives off the diminished wolf pack and you \nmay bury the hapless students. Then, go to 365. ",
+      "sourceLocation": "pdf:visual:[[54,21],[54,22],[54,23]]"
+    },
+    {
+      "id": "271:p5",
+      "kind": "trace",
+      "text": "(307)",
+      "sourceLocation": "pdf:visual:[[54,24]]"
+    }
+  ]
+}

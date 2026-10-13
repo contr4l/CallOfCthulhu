@@ -1,0 +1,48 @@
+{
+  "id": "53",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "53:p0",
+      "kind": "heading",
+      "text": "53\n",
+      "sourceLocation": "pdf:spans:[[23,44,47]]"
+    },
+    {
+      "id": "53:p1",
+      "kind": "body",
+      "text": "The vase hits you squarely in the chest, shattering on impact. \nThe broken shards fly around you, some cutting your flesh. You \nare knocked off balance and tumble to the floor.\n",
+      "sourceLocation": "pdf:spans:[[23,47,111],[23,111,175],[23,175,224]]"
+    },
+    {
+      "id": "53:p2",
+      "kind": "body",
+      "text": "Seizing this opportunity, Amelia runs out the door as fast as \nher legs will carry her, calling for help as she does so.\n",
+      "sourceLocation": "pdf:spans:[[23,224,287],[23,287,345]]"
+    },
+    {
+      "id": "53:p3",
+      "kind": "body",
+      "text": "You could chase after her, or you could take this opportunity \nto explore the empty house. The choice is yours.\n",
+      "sourceLocation": "pdf:spans:[[23,345,408],[23,408,457]]"
+    },
+    {
+      "id": "53:p4",
+      "kind": "body",
+      "text": "• To explore the house, go to 7.\n",
+      "sourceLocation": "pdf:spans:[[23,457,490]]"
+    },
+    {
+      "id": "53:p5",
+      "kind": "body",
+      "text": "• To chase after Amelia, go to 141.\n",
+      "sourceLocation": "pdf:spans:[[23,490,526]]"
+    },
+    {
+      "id": "53:p6",
+      "kind": "body",
+      "text": "(68)\n",
+      "sourceLocation": "pdf:spans:[[23,526,531]]"
+    }
+  ]
+}

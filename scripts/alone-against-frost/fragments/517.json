@@ -1,0 +1,30 @@
+{
+  "id": "517",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "517:p0",
+      "kind": "heading",
+      "text": "517",
+      "sourceLocation": "pdf:visual:[[89,66]]"
+    },
+    {
+      "id": "517:p1",
+      "kind": "body",
+      "text": "The  fungoid  creatures  seem  content  to  kill  you  by  indirect \nfire; however, the close-set trees require them to draw near, \nwhere they are vulnerable. You have a good covered position. \nBut your fingers become numb with the cold, and ice creeps \ninto your eyes.",
+      "sourceLocation": "pdf:visual:[[89,67],[89,68],[89,69],[89,70],[89,71]]"
+    },
+    {
+      "id": "517:p2",
+      "kind": "body",
+      "text": "Roll 1D4+1. The result is the number of successful hits you must \nmake with your rifle to drive away your attackers. After each shot, \nyou must make a CON roll to remain conscious—on the first two \nCON  rolls,  gain  a  bonus  die;  the  second  two  CON  rolls  are  at \nRegular difficulty. Thereafter, you must take a penalty die. If you fail \nany CON roll, you lose consciousness go to 417. If you drive off the \ncreatures, go to 513.",
+      "sourceLocation": "pdf:visual:[[89,72],[89,73],[89,74],[89,75],[89,76],[89,77],[89,78]]"
+    },
+    {
+      "id": "517:p3",
+      "kind": "trace",
+      "text": "(515)",
+      "sourceLocation": "pdf:visual:[[89,79]]"
+    }
+  ]
+}

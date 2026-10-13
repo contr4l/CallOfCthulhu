@@ -36,6 +36,7 @@ test("ending and chapter collections open saved text without revealing locked ou
     has: page.getByRole("heading", { name: "收藏流程测试", exact: true }),
   });
   await expect(story).toContainText("1 / 3");
+  await expect(story).not.toContainText("版本");
   await expect(story).toContainText("尚有 2 份未知结局");
   await expect(story).not.toContainText("测试结局：loop");
   await story.getByRole("button", { name: /测试结局：home/ }).click();

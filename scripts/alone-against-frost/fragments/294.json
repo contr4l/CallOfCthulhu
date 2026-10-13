@@ -1,0 +1,36 @@
+{
+  "id": "294",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "294:p0",
+      "kind": "heading",
+      "text": "294",
+      "sourceLocation": "pdf:visual:[[58,1]]"
+    },
+    {
+      "id": "294:p1",
+      "kind": "body",
+      "text": "The sky darkens with building thunderheads. A roar splits the \nheavens, promising a heavy storm. You see a flash, and almost \nimmediately, an almighty crack that jolts the eardrums. “Wow!” \nsays Sylvia. “That must have hit somewhere nearby!”",
+      "sourceLocation": "pdf:visual:[[58,2],[58,3],[58,4],[58,5]]"
+    },
+    {
+      "id": "294:p2",
+      "kind": "body",
+      "text": "It did. Smoke rises from the dry brush up the hill.",
+      "sourceLocation": "pdf:visual:[[58,6]]"
+    },
+    {
+      "id": "294:p3",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 402; if the result is odd, go \nto 403.",
+      "sourceLocation": "pdf:visual:[[58,7],[58,8]]"
+    },
+    {
+      "id": "294:p4",
+      "kind": "trace",
+      "text": "(291)",
+      "sourceLocation": "pdf:visual:[[58,9]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "392",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "392:p0",
+      "kind": "heading",
+      "text": "392",
+      "sourceLocation": "pdf:visual:[[71,2]]"
+    },
+    {
+      "id": "392:p1",
+      "kind": "body",
+      "text": "You run like a lunatic until you think you are safe and then \nslump to the ground, exhausted.",
+      "sourceLocation": "pdf:visual:[[71,4],[71,6]]"
+    },
+    {
+      "id": "392:p2",
+      "kind": "body",
+      "text": "If you took damage in the fight, there is a chance of infection. Make \na CON roll: if you succeed, go to 343; if you fail, go to 342. If you \navoided any damage, go to 365.",
+      "sourceLocation": "pdf:visual:[[71,8],[71,9],[71,11]]"
+    },
+    {
+      "id": "392:p3",
+      "kind": "trace",
+      "text": "(391)",
+      "sourceLocation": "pdf:visual:[[71,12]]"
+    }
+  ]
+}

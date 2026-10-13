@@ -1,0 +1,60 @@
+{
+  "id": "171",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "171:p0",
+      "kind": "heading",
+      "text": "171\n",
+      "sourceLocation": "pdf:spans:[[55,44,48]]"
+    },
+    {
+      "id": "171:p1",
+      "kind": "body",
+      "text": "You quickly duck into the hotel, avoiding whoever or whatever \nelse is out there. You pause for a few moments to gather your \nthoughts.\n",
+      "sourceLocation": "pdf:spans:[[55,48,111],[55,111,174],[55,174,184]]"
+    },
+    {
+      "id": "171:p2",
+      "kind": "body",
+      "text": "Darkness has come and your job is not yet done. With \nperseverance, you may yet finish your task. The most obvious \nchoice is to resume the investigation.\n",
+      "sourceLocation": "pdf:spans:[[55,184,238],[55,238,300],[55,300,339]]"
+    },
+    {
+      "id": "171:p3",
+      "kind": "body",
+      "text": "Another potential course of action is to simply cut your \nlosses and leave. You could try to abandon Esbury on foot, and \nyou must admit that the idea is tempting despite being wholly \nimpractical. This place has not been good to you.\n",
+      "sourceLocation": "pdf:spans:[[55,339,397],[55,397,461],[55,461,524],[55,524,574]]"
+    },
+    {
+      "id": "171:p4",
+      "kind": "body",
+      "text": "Of course, you could always simply sleep on it—stay another \nnight in the hotel and hope to either continue your work or \nmove on in the morning. You aren’t certain why, but you feel \na vague sense of unease at the idea of spending a second night \nhere. You try to push the thought from your mind as you come \nto a firm decision.\n",
+      "sourceLocation": "pdf:spans:[[55,574,635],[55,635,696],[55,696,758],[55,758,822],[55,822,884],[55,884,904]]"
+    },
+    {
+      "id": "171:p5",
+      "kind": "body",
+      "text": "• To stay the night in the hotel, go to 137.\n",
+      "sourceLocation": "pdf:spans:[[55,904,949]]"
+    },
+    {
+      "id": "171:p6",
+      "kind": "body",
+      "text": "• To attempt to leave in the dead of night, go to 194.\n",
+      "sourceLocation": "pdf:spans:[[55,949,1004]]"
+    },
+    {
+      "id": "171:p7",
+      "kind": "body",
+      "text": "• To continue the investigation, go to 200.\n",
+      "sourceLocation": "pdf:spans:[[55,1004,1048]]"
+    },
+    {
+      "id": "171:p8",
+      "kind": "body",
+      "text": "(131, 135)\n",
+      "sourceLocation": "pdf:spans:[[55,1048,1059]]"
+    }
+  ]
+}

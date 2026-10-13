@@ -1,0 +1,30 @@
+{
+  "id": "216",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "216:p0",
+      "kind": "heading",
+      "text": "216",
+      "sourceLocation": "pdf:visual:[[45,71]]"
+    },
+    {
+      "id": "216:p1",
+      "kind": "body",
+      "text": "Your monumental discoveries within the lost valley of the Ram \nMountains will have to wait until you have better equipment \nand trained personnel to investigate it properly.",
+      "sourceLocation": "pdf:visual:[[45,72],[45,73],[45,74]]"
+    },
+    {
+      "id": "216:p2",
+      "kind": "body",
+      "text": "To return via the waterlogged fissure, go to 217. To search for a less \ndangerous exit, make a Luck roll: if you succeed, go to 293; if you \nfail, go to 483.",
+      "sourceLocation": "pdf:visual:[[45,75],[45,76],[45,77]]"
+    },
+    {
+      "id": "216:p3",
+      "kind": "trace",
+      "text": "(174, 275)",
+      "sourceLocation": "pdf:visual:[[45,78]]"
+    }
+  ]
+}

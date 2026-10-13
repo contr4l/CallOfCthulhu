@@ -1,0 +1,30 @@
+{
+  "id": "640",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "640:p0",
+      "kind": "heading",
+      "text": "640",
+      "sourceLocation": "pdf:visual:[[107,2]]"
+    },
+    {
+      "id": "640:p1",
+      "kind": "body",
+      "text": "The attacker changes its mind at the last minute and pulls up. \nYou watch it sail over the treetops, and then your group rushes \nto Bernard’s aid.",
+      "sourceLocation": "pdf:visual:[[107,4],[107,6],[107,7]]"
+    },
+    {
+      "id": "640:p2",
+      "kind": "body",
+      "text": "Go to 635.",
+      "sourceLocation": "pdf:visual:[[107,9]]"
+    },
+    {
+      "id": "640:p3",
+      "kind": "trace",
+      "text": "(638)",
+      "sourceLocation": "pdf:visual:[[107,11]]"
+    }
+  ]
+}

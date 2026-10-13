@@ -1,0 +1,42 @@
+{
+  "id": "43",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "43:p0",
+      "kind": "heading",
+      "text": "43",
+      "sourceLocation": "pdf:visual:[[17,74]]"
+    },
+    {
+      "id": "43:p1",
+      "kind": "body",
+      "text": "You and the others gather your gear in haste and place it in \nthe canoe with Bernard. Charlie revs up the motor, burning an \nextravagant amount of fuel in her eagerness to get away from \nthe haunted shore. With all eyes fixed on the forbidding banks \nof Headsman’s Glen, no one sees Bernard’s body quicken—\nuntil it is too late.",
+      "sourceLocation": "pdf:visual:[[17,75],[17,76],[17,77],[17,78],[17,79],[17,80]]"
+    },
+    {
+      "id": "43:p2",
+      "kind": "body",
+      "text": "Norman yells as the stricken youth springs at him, clawing \nwith his nails, snapping with his teeth, howling like an animal. \nHis lunatic struggle threatens to capsize the canoe!",
+      "sourceLocation": "pdf:visual:[[17,81],[17,82],[17,83]]"
+    },
+    {
+      "id": "43:p3",
+      "kind": "body",
+      "text": "You, Charlie, and Sylvia grab at Bernard together.",
+      "sourceLocation": "pdf:visual:[[17,84]]"
+    },
+    {
+      "id": "43:p4",
+      "kind": "body",
+      "text": "Make DEX rolls for Charlie, Sylvia, and yourself. Total the STR \nscores of everybody who succeeds. Use that total to make an opposed \nskill roll against Bernard’s insane strength of 93. If you overcome \nBernard, go to 44; if not, go to 45.",
+      "sourceLocation": "pdf:visual:[[17,85],[17,86],[17,87],[17,88]]"
+    },
+    {
+      "id": "43:p5",
+      "kind": "trace",
+      "text": "(40)",
+      "sourceLocation": "pdf:visual:[[17,89]]"
+    }
+  ]
+}

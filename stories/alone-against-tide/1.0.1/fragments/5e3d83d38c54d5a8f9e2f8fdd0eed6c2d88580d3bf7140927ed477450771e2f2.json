@@ -1,0 +1,34 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "123-lock",
+    "123"
+  ],
+  "text": [
+    "你把门推开，走进卧室。房间装饰奢华，风格非常女性化。床上放着几只大而柔软的枕头，床垫上散落着一团床单和毯子。",
+    "从房间的状况来看，即使在哈里斯教授去世前，这里似乎也主要属于阿米莉娅，而非哈里斯教授。她的个人物品占据了房间的大部分空间。梳妆台上放着化妆箱，旁边有一面手镜。衣橱门开着，里面挂满了各式各样的裙子和时髦衣服。已故哈里斯教授的衣服只占衣橱一个不起眼的小角落，被推到一旁，以免妨碍阿米莉娅的东西。",
+    "最令你惊讶的是床边有一小堆丢弃的男装，看起来是最近才留在那里的。与衣橱里的男装相比，这些衣服风格和尺码都不同，显然不属于哈里斯教授。",
+    "看到床头柜上约书亚的照片，你的猜测得到证实。那里还有半瓶威士忌，旁边放着两个杯子。",
+    "你还注意到床头柜后面的墙上嵌着一只保险箱。保险箱由密码锁封住，不过如果你愿意，或许能破解它。",
+    "房间里没有其他值得注意的东西。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 123",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 123",
+      "text": [
+        "You push the door aside and enter the bedroom. The room is lavishly decorated and very feminine. Large, soft pillows sit atop the bed and a tangle of sheets and blankets lie strewn across the mattress.",
+        "Judging by the state of the room, this space belonged more to Amelia than it did Prof. Harris, even before his death. The room is dominated by her personal effects. A makeup case sits on the dresser, with a hand mirror beside it. The door to the closet is open; the racks inside overflow with various dresses and fashionable outfits. The clothes belonging to the late Prof. Harris take up a small and innocuous corner of the closet, pushed far to the side so as to not get in the way of Amelia’s things.",
+        "The most surprising find you stumble upon is a small pile of discarded men’s clothing next to the bed. It seems to have been left there recently, and given the difference in style and size to the men’s clothes in the closet, it’s clear they don’t belong to Prof. Harris.",
+        "Your suspicion is confirmed when you see a photograph of Joshua on the nightstand. There’s also a half-empty bottle of whiskey there, with two glasses sitting next to it.",
+        "You also happen to notice a safe built into the wall, just behind the nightstand. A combination lock keeps it sealed, though if you were so inclined, you may be able to crack it.",
+        "There is little else of interest in the room."
+      ]
+    }
+  }
+}

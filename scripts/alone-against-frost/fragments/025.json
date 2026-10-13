@@ -1,0 +1,30 @@
+{
+  "id": "25",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "25:p0",
+      "kind": "heading",
+      "text": "25",
+      "sourceLocation": "pdf:visual:[[14,52]]"
+    },
+    {
+      "id": "25:p1",
+      "kind": "body",
+      "text": "By a miracle, you find the lost packs not far away, caught in a \ndrift pile. Charlie nods. You look at your graduate students and, \nfor the first time, wonder if they are ready for this.",
+      "sourceLocation": "pdf:visual:[[14,53],[14,54],[14,55]]"
+    },
+    {
+      "id": "25:p2",
+      "kind": "body",
+      "text": "Restore all the weapons you lost. To press ahead with the expedition, \ngo to 2. To turn back, go to 513.",
+      "sourceLocation": "pdf:visual:[[14,56],[14,57]]"
+    },
+    {
+      "id": "25:p3",
+      "kind": "trace",
+      "text": "(13)",
+      "sourceLocation": "pdf:visual:[[14,58]]"
+    }
+  ]
+}

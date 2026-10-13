@@ -1,0 +1,30 @@
+{
+  "id": "147",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "147:p0",
+      "kind": "heading",
+      "text": "147",
+      "sourceLocation": "pdf:visual:[[33,83]]"
+    },
+    {
+      "id": "147:p1",
+      "kind": "body",
+      "text": "Your heedless flight through the dark woods has shaken off \nyour pursuers. Now only Sylvia and Norman remain with you. \nYou look at their exhausted faces and vow to find a way out of \nthis accursed valley.",
+      "sourceLocation": "pdf:visual:[[33,84],[33,85],[33,86],[33,87]]"
+    },
+    {
+      "id": "147:p2",
+      "kind": "body",
+      "text": "Go to 54. ",
+      "sourceLocation": "pdf:visual:[[33,88]]"
+    },
+    {
+      "id": "147:p3",
+      "kind": "trace",
+      "text": "(113, 151, 574, 585)",
+      "sourceLocation": "pdf:visual:[[33,89]]"
+    }
+  ]
+}

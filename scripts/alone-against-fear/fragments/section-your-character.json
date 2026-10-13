@@ -1,0 +1,219 @@
+{
+  "id": "section-your-character",
+  "paragraphs": [
+    {
+      "id": "section-your-character:p0000",
+      "kind": "body",
+      "text": "Your Character\n",
+      "sourceLocation": "pdf:spans:[[8,1209,1224]]"
+    },
+    {
+      "id": "section-your-character:p0001",
+      "kind": "body",
+      "text": "Give your character a name and\n",
+      "sourceLocation": "pdf:spans:[[8,1224,1255]]"
+    },
+    {
+      "id": "section-your-character:p0002",
+      "kind": "body",
+      "text": "create a mental image of him or\n",
+      "sourceLocation": "pdf:spans:[[8,1255,1287]]"
+    },
+    {
+      "id": "section-your-character:p0003",
+      "kind": "body",
+      "text": "her. If nothing comes to your mind,\n",
+      "sourceLocation": "pdf:spans:[[8,1287,1323]]"
+    },
+    {
+      "id": "section-your-character:p0004",
+      "kind": "body",
+      "text": "just think of a character from your\n",
+      "sourceLocation": "pdf:spans:[[8,1323,1359]]"
+    },
+    {
+      "id": "section-your-character:p0005",
+      "kind": "body",
+      "text": "favorite TV series or movie.\n",
+      "sourceLocation": "pdf:spans:[[8,1359,1388]]"
+    },
+    {
+      "id": "section-your-character:p0006",
+      "kind": "body",
+      "text": "Character creation is simple, but if\n",
+      "sourceLocation": "pdf:spans:[[8,1388,1425]]"
+    },
+    {
+      "id": "section-your-character:p0007",
+      "kind": "body",
+      "text": "you want to jump straight into the\n",
+      "sourceLocation": "pdf:spans:[[8,1425,1460]]"
+    },
+    {
+      "id": "section-your-character:p0008",
+      "kind": "body",
+      "text": "action, you can use one of the\n",
+      "sourceLocation": "pdf:spans:[[8,1460,1491]]"
+    },
+    {
+      "id": "section-your-character:p0009",
+      "kind": "body",
+      "text": "ready character at the end of the\n",
+      "sourceLocation": "pdf:spans:[[8,1491,1525]]"
+    },
+    {
+      "id": "section-your-character:p0010",
+      "kind": "body",
+      "text": "book.\n",
+      "sourceLocation": "pdf:spans:[[8,1525,1531]]"
+    },
+    {
+      "id": "section-your-character:p0011",
+      "kind": "body",
+      "text": "Your character begins with:\n",
+      "sourceLocation": "pdf:spans:[[8,1531,1559]]"
+    },
+    {
+      "id": "section-your-character:p0012",
+      "kind": "body",
+      "text": "● Two statistics (Sanity and Life).\n",
+      "sourceLocation": "pdf:spans:[[8,1559,1595]]"
+    },
+    {
+      "id": "section-your-character:p0013",
+      "kind": "body",
+      "text": "● 2 Skills of your choice (NOT\n",
+      "sourceLocation": "pdf:spans:[[8,1595,1626]]"
+    },
+    {
+      "id": "section-your-character:p0014",
+      "kind": "body",
+      "text": "Arcane Skills).\n",
+      "sourceLocation": "pdf:spans:[[8,1626,1642]]"
+    },
+    {
+      "id": "section-your-character:p0015",
+      "kind": "body",
+      "text": "● 1 weapon from the Random\n",
+      "sourceLocation": "pdf:spans:[[8,1642,1669]]"
+    },
+    {
+      "id": "section-your-character:p0016",
+      "kind": "body",
+      "text": "Weapon table (p.20) and 1 knife.\n",
+      "sourceLocation": "pdf:spans:[[8,1669,1702]]"
+    },
+    {
+      "id": "section-your-character:p0017",
+      "kind": "body",
+      "text": "● 1 item from the  Random\n",
+      "sourceLocation": "pdf:spans:[[8,1702,1728]]"
+    },
+    {
+      "id": "section-your-character:p0018",
+      "kind": "body",
+      "text": "Objects table (p.22)  and 1 from\n",
+      "sourceLocation": "pdf:spans:[[8,1728,1761]]"
+    },
+    {
+      "id": "section-your-character:p0019",
+      "kind": "body",
+      "text": "the Useful Stuff table (p.25).\n",
+      "sourceLocation": "pdf:spans:[[8,1761,1792]]"
+    },
+    {
+      "id": "section-your-character:p0020",
+      "kind": "body",
+      "text": "Reroll duplicates.\n",
+      "sourceLocation": "pdf:spans:[[8,1792,1811]]"
+    },
+    {
+      "id": "section-your-character:p0021",
+      "kind": "body",
+      "text": " Life and Sanity are set at 8 each.\n",
+      "sourceLocation": "pdf:spans:[[8,1811,1847]]"
+    },
+    {
+      "id": "section-your-character:p0022",
+      "kind": "body",
+      "text": "You have 3 additional points to\n",
+      "sourceLocation": "pdf:spans:[[8,1847,1879]]"
+    },
+    {
+      "id": "section-your-character:p0023",
+      "kind": "body",
+      "text": "distribute to either stats as you see\n",
+      "sourceLocation": "pdf:spans:[[8,1879,1917]]"
+    },
+    {
+      "id": "section-your-character:p0024",
+      "kind": "body",
+      "text": "fit.",
+      "sourceLocation": "pdf:spans:[[8,1917,1921]]"
+    },
+    {
+      "id": "section-your-character:p0025",
+      "kind": "body",
+      "text": "For example, you could have\n",
+      "sourceLocation": "pdf:spans:[[10,22,50]]"
+    },
+    {
+      "id": "section-your-character:p0026",
+      "kind": "body",
+      "text": "Life 8 and Sanity 11, or Life 10\n",
+      "sourceLocation": "pdf:spans:[[10,50,83]]"
+    },
+    {
+      "id": "section-your-character:p0027",
+      "kind": "body",
+      "text": "and Sanity 9, or Life 11 and\n",
+      "sourceLocation": "pdf:spans:[[10,83,112]]"
+    },
+    {
+      "id": "section-your-character:p0028",
+      "kind": "body",
+      "text": "Sanity 8.\n",
+      "sourceLocation": "pdf:spans:[[10,112,122]]"
+    },
+    {
+      "id": "section-your-character:p0029",
+      "kind": "body",
+      "text": "You may also use the extra 3 points\n",
+      "sourceLocation": "pdf:spans:[[10,122,158]]"
+    },
+    {
+      "id": "section-your-character:p0030",
+      "kind": "body",
+      "text": "to gain an additional Skill or an\n",
+      "sourceLocation": "pdf:spans:[[10,158,192]]"
+    },
+    {
+      "id": "section-your-character:p0031",
+      "kind": "body",
+      "text": "additional roll on the Random\n",
+      "sourceLocation": "pdf:spans:[[10,192,222]]"
+    },
+    {
+      "id": "section-your-character:p0032",
+      "kind": "body",
+      "text": "Weapon table, the Random Object\n",
+      "sourceLocation": "pdf:spans:[[10,222,254]]"
+    },
+    {
+      "id": "section-your-character:p0033",
+      "kind": "body",
+      "text": "table, or the Useful Stuff table, your\n",
+      "sourceLocation": "pdf:spans:[[10,254,293]]"
+    },
+    {
+      "id": "section-your-character:p0034",
+      "kind": "body",
+      "text": "choice.\n",
+      "sourceLocation": "pdf:spans:[[10,293,301]]"
+    }
+  ],
+  "sourcePages": [
+    8,
+    10
+  ]
+}

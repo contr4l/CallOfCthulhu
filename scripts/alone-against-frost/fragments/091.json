@@ -1,0 +1,30 @@
+{
+  "id": "91",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "91:p0",
+      "kind": "heading",
+      "text": "91",
+      "sourceLocation": "pdf:visual:[[26,10]]"
+    },
+    {
+      "id": "91:p1",
+      "kind": "body",
+      "text": "You secure your gear and inch your way along a submerged \nledge, fighting against the rushing, knee-deep water. It narrows \nat the fissure, and there the hazard is greatest.",
+      "sourceLocation": "pdf:visual:[[26,11],[26,12],[26,13]]"
+    },
+    {
+      "id": "91:p2",
+      "kind": "body",
+      "text": "Make a DEX roll for Bernard: if he succeeds, go to 642; if he fails, \ngo to 643.",
+      "sourceLocation": "pdf:visual:[[26,14],[26,15]]"
+    },
+    {
+      "id": "91:p3",
+      "kind": "trace",
+      "text": "(90)",
+      "sourceLocation": "pdf:visual:[[26,16]]"
+    }
+  ]
+}

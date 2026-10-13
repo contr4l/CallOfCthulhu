@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "222"
+  ],
+  "text": [
+    "你准备离开哈里斯家，觉得自己在这里要办的事已经结束。你在门口停了一会儿，考虑下一步该做什么。你知道自己在哈里斯家待了很久，尽管浓雾让你看不清时间，你猜白昼所剩无几。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 222",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 222",
+      "text": [
+        "You get ready to leave the Harris household, as you feel your business here is concluded. You pause at the door a moment to consider what your next step should be. You know you spent a good deal of time at the Harris place, and though the fog prevents you from making out the time of day, you imagine there’s not much daylight left."
+      ]
+    }
+  }
+}

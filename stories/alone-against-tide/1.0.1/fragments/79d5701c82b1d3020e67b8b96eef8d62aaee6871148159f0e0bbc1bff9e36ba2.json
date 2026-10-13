@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "237"
+  ],
+  "text": [
+    "你迅速站起来，急忙躲开那可怕的东西。你的双脚重重踏过街上的石板，带着你远离怪物。你尽可能在最短时间内跑出最远的距离。你穿过许多街道和小巷，最后才觉得可以停下来重新判断处境。",
+    "此时，水已经涨到你的小腿，正迅速逼近膝盖。照这上涨速度，你没有时间继续搜查镇子。你必须顾好自己的安全，尤其是雾里还潜伏着那些怪东西。",
+    "你勉强透过雾气看出教堂的轮廓。没有其他切实可行的选择，去教堂钟楼躲避上涨潮水似乎是个好主意。你冲进安静的圣所，迅速开始爬楼梯，希望那里能救你一命。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 237",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 237",
+      "text": [
+        "You rise quickly and scurry out of the horrible thing’s way. Your feet pound against the street’s flagstones, carrying you far away from the creature. You cover as much distance as you can in as short a time as possible. You run down numerous streets and alleyways before you eventually feel comfortable enough to pause and reassess your situation.",
+        "By this point, the water has risen to your calves and is swiftly approaching knee-level. At the rate the water’s rising, you don’t have time to search the town any further. You must look to your self-preservation, especially with those strange things lurking in the fog.",
+        "You can just make out the church’s silhouette through the mist. With no other real options, the prospect of rising above the tide in the church’s belfry seems like a good idea. You rush inside the quiet holy space and quickly begin climbing the steps toward your hoped-for salvation."
+      ]
+    }
+  }
+}

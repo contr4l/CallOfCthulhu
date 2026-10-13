@@ -1,0 +1,36 @@
+{
+  "id": "579",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "579:p0",
+      "kind": "heading",
+      "text": "579",
+      "sourceLocation": "pdf:visual:[[99,2]]"
+    },
+    {
+      "id": "579:p1",
+      "kind": "body",
+      "text": "Once you have covered a few miles, the woman’s eyes clear and \nshe no longer wishes to be taken by the mysterious demons of \nthe forest. Grateful for her rescue, she speaks easily and you \ngain many stories and myths of the North Hanninah Valley.",
+      "sourceLocation": "pdf:visual:[[99,4],[99,6],[99,7],[99,9]]"
+    },
+    {
+      "id": "579:p2",
+      "kind": "body",
+      "text": "She is very curious about the towns of the white men and \nseems to have great knowledge of the landscape.",
+      "sourceLocation": "pdf:visual:[[99,10],[99,12]]"
+    },
+    {
+      "id": "579:p3",
+      "kind": "body",
+      "text": "If you want to end your journey, accompany her to 593. If you want \nto explore more, she will find her own way to Fort McDonald; go \nto 600.",
+      "sourceLocation": "pdf:visual:[[99,14],[99,15],[99,17]]"
+    },
+    {
+      "id": "579:p4",
+      "kind": "trace",
+      "text": "(578)",
+      "sourceLocation": "pdf:visual:[[99,18]]"
+    }
+  ]
+}

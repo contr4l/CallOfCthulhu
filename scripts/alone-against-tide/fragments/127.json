@@ -1,0 +1,36 @@
+{
+  "id": "127",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "127:p0",
+      "kind": "heading",
+      "text": "127\n",
+      "sourceLocation": "pdf:spans:[[42,420,424]]"
+    },
+    {
+      "id": "127:p1",
+      "kind": "body",
+      "text": "You turn your attention to Officer Powell and plead with him to \nrelease you. Initially, he pays you no mind. Eventually, however, \nyou mention that you’ll leave town if he lets you go, and that \nseems to seal the deal.\n",
+      "sourceLocation": "pdf:spans:[[42,424,489],[42,489,556],[42,556,620],[42,620,644]]"
+    },
+    {
+      "id": "127:p2",
+      "kind": "body",
+      "text": "“Having you out of the way makes my life a bit easier. Get the hell \nout of here before I change my mind. If I see you again, you’re getting \na bullet.” You do not hesitate to leave the cell as he unlocks it.\n",
+      "sourceLocation": "pdf:spans:[[42,644,713],[42,713,786],[42,786,853]]"
+    },
+    {
+      "id": "127:p3",
+      "kind": "body",
+      "text": "• Go to 122.\n",
+      "sourceLocation": "pdf:spans:[[42,853,866]]"
+    },
+    {
+      "id": "127:p4",
+      "kind": "body",
+      "text": "(65)\n",
+      "sourceLocation": "pdf:spans:[[42,866,871]]"
+    }
+  ]
+}

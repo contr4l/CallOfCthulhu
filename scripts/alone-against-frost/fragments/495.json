@@ -1,0 +1,30 @@
+{
+  "id": "495",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "495:p0",
+      "kind": "heading",
+      "text": "495",
+      "sourceLocation": "pdf:visual:[[86,37]]"
+    },
+    {
+      "id": "495:p1",
+      "kind": "body",
+      "text": "After the physical and mental ordeals of the last week, you are \nin terrible shape. Your tension causes an involuntary spasm, and \nyour leg jerks in the dry leaves. The murderous men call out \nshrilly and point your way. You must run for it.",
+      "sourceLocation": "pdf:visual:[[86,38],[86,39],[86,40],[86,41]]"
+    },
+    {
+      "id": "495:p2",
+      "kind": "body",
+      "text": "Go to 116.",
+      "sourceLocation": "pdf:visual:[[86,42]]"
+    },
+    {
+      "id": "495:p3",
+      "kind": "trace",
+      "text": "(494)",
+      "sourceLocation": "pdf:visual:[[86,43]]"
+    }
+  ]
+}

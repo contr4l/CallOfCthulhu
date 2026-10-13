@@ -1,0 +1,36 @@
+{
+  "id": "75",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "75:p0",
+      "kind": "heading",
+      "text": "75",
+      "sourceLocation": "pdf:visual:[[23,43]]"
+    },
+    {
+      "id": "75:p1",
+      "kind": "body",
+      "text": "Norman  and  Sylvia  follow  you  in  silence.  You  suspect  they \nthink you obsessive, for continuing after the loss of Bernard \nand Charlie. You do not try to explain yourself. ",
+      "sourceLocation": "pdf:visual:[[23,44],[23,45],[23,46]]"
+    },
+    {
+      "id": "75:p2",
+      "kind": "body",
+      "text": "Along your trek, you come upon a gorge and elect to follow it. \nA mile or so upstream, you find a crevice in the mountainside, \nthe  source  of  the  stream.  Since  the  creek  runs  rapidly  here, \nit will be hazardous to attempt to wade through in order to \nexplore the valley beyond.",
+      "sourceLocation": "pdf:visual:[[23,47],[23,48],[23,49],[23,50],[23,51]]"
+    },
+    {
+      "id": "75:p3",
+      "kind": "body",
+      "text": "22\nIf any of your party require healing, you may restore 1 hit point each. \nTo pitch camp and rest before retracing your course, go to 124. To try \nto wade into the hidden valley, go to 125.",
+      "sourceLocation": "pdf:visual:[[23,52],[23,54],[23,55],[23,56]]"
+    },
+    {
+      "id": "75:p4",
+      "kind": "trace",
+      "text": "(50, 58, 94, 181, 425, 600)",
+      "sourceLocation": "pdf:visual:[[23,57]]"
+    }
+  ]
+}

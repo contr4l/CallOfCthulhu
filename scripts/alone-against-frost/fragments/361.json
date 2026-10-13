@@ -1,0 +1,30 @@
+{
+  "id": "361",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "361:p0",
+      "kind": "heading",
+      "text": "361",
+      "sourceLocation": "pdf:visual:[[66,46]]"
+    },
+    {
+      "id": "361:p1",
+      "kind": "body",
+      "text": "The lost valley seems under a spell. You and Norman make it \nback to the watery fissure unmolested. The current gives you \nsome nervous moments, but you cross in safety.",
+      "sourceLocation": "pdf:visual:[[66,47],[66,48],[66,49]]"
+    },
+    {
+      "id": "361:p2",
+      "kind": "body",
+      "text": "Go to 279.",
+      "sourceLocation": "pdf:visual:[[66,50]]"
+    },
+    {
+      "id": "361:p3",
+      "kind": "trace",
+      "text": "(108, 112, 358, 360, 363, 369, 399, 641)",
+      "sourceLocation": "pdf:visual:[[66,51]]"
+    }
+  ]
+}

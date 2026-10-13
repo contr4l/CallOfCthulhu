@@ -1,0 +1,30 @@
+{
+  "id": "225",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "225:p0",
+      "kind": "heading",
+      "text": "225",
+      "sourceLocation": "pdf:visual:[[46,49]]"
+    },
+    {
+      "id": "225:p1",
+      "kind": "body",
+      "text": "You  quickly  confirm  your  discovery  of  a  redoubt  of \nunprecedented prehistoric survival. Animal tracks attributable \nto  no  modern  beast  of  the  North  abound  in  the  sand  and \nbubbly  mud;  however,  your  specialty  is  anthropology—your \npaleontological studies have been limited.",
+      "sourceLocation": "pdf:visual:[[46,50],[46,51],[46,52],[46,53],[46,54]]"
+    },
+    {
+      "id": "225:p2",
+      "kind": "body",
+      "text": "Make a Natural World roll: if you succeed, go to 269; if you fail, go \nto 275.",
+      "sourceLocation": "pdf:visual:[[46,55],[46,56]]"
+    },
+    {
+      "id": "225:p3",
+      "kind": "trace",
+      "text": "(174, 395)",
+      "sourceLocation": "pdf:visual:[[46,57]]"
+    }
+  ]
+}

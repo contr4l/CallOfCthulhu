@@ -1,0 +1,48 @@
+{
+  "id": "114",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "114:p0",
+      "kind": "heading",
+      "text": "114\n",
+      "sourceLocation": "pdf:spans:[[38,26,30]]"
+    },
+    {
+      "id": "114:p1",
+      "kind": "body",
+      "text": "You direct your attention away from any distractions and home \nin on the sounds around you. You hear the lapping of the water \non the pier nearby, and little else. The stillness is somewhat \nunsettling. There are no birds chirping, no people in the streets. \nExcept…\n",
+      "sourceLocation": "pdf:spans:[[38,30,93],[38,93,157],[38,157,221],[38,221,289],[38,289,297]]"
+    },
+    {
+      "id": "114:p2",
+      "kind": "body",
+      "text": "In the distance, you hear the faint echo of footsteps. They \nsound quite far off, and it would have been easy to miss them \nif you weren’t listening for them. Still, given how far away they \nseem to be, the footfalls must be heavy. They reverberate in \nquick succession, as if in a hurry. You set off in their direction.\n",
+      "sourceLocation": "pdf:spans:[[38,297,358],[38,358,421],[38,421,488],[38,488,550],[38,550,618]]"
+    },
+    {
+      "id": "114:p3",
+      "kind": "body",
+      "text": "You rush through the empty streets, pausing occasionally to \nlisten again for the footfalls of the person you’re pursuing. After \nsome time, you come upon a small plaza next to the town’s \nchurch. Unfortunately, it appears that your quarry has reached \ntheir destination, and is no doubt within one of the houses \naround the plaza. You have no way of knowing which one.\n",
+      "sourceLocation": "pdf:spans:[[38,618,679],[38,679,748],[38,748,807],[38,807,871],[38,871,932],[38,932,988]]"
+    },
+    {
+      "id": "114:p4",
+      "kind": "body",
+      "text": "You take a deep breath and decide to roll the dice. There are \nonly a handful of houses here, so you feel you have good odds \nof finding who you’re looking for.\n",
+      "sourceLocation": "pdf:spans:[[38,988,1051],[38,1051,1114],[38,1114,1149]]"
+    },
+    {
+      "id": "114:p5",
+      "kind": "body",
+      "text": "• Make a Luck roll: if you succeed, go to 165; if you fail, go to 149.\n",
+      "sourceLocation": "pdf:spans:[[38,1149,1220]]"
+    },
+    {
+      "id": "114:p6",
+      "kind": "body",
+      "text": "(79)\n",
+      "sourceLocation": "pdf:spans:[[38,1220,1225]]"
+    }
+  ]
+}

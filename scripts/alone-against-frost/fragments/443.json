@@ -1,0 +1,36 @@
+{
+  "id": "443",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "443:p0",
+      "kind": "heading",
+      "text": "443",
+      "sourceLocation": "pdf:visual:[[77,61]]"
+    },
+    {
+      "id": "443:p1",
+      "kind": "body",
+      "text": "Just when you expect Charlie to collapse dead from her wounds, \nshe stops struggling and raises herself to her knees. She cannot \nstand, for one of her legs has been torn off at mid-shin. For \nan instant, you suppose the blood-frenzied entity has departed, \nbut then you look back up at Charlie’s face.",
+      "sourceLocation": "pdf:visual:[[77,62],[77,63],[77,64],[77,65],[77,66]]"
+    },
+    {
+      "id": "443:p2",
+      "kind": "body",
+      "text": "She  has  no  eyes,  only  vacant  holes  in  her  head,  windows \nthrough  a  mask,  behind  which  swirls  something  red  and \nincandescent. As she kneels there, a mutilated ragdoll, wisps of \nvapor curl from her eye sockets.",
+      "sourceLocation": "pdf:visual:[[77,67],[77,68],[77,69],[77,70]]"
+    },
+    {
+      "id": "443:p3",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 444.",
+      "sourceLocation": "pdf:visual:[[77,71]]"
+    },
+    {
+      "id": "443:p4",
+      "kind": "trace",
+      "text": "(436)",
+      "sourceLocation": "pdf:visual:[[77,72]]"
+    }
+  ]
+}

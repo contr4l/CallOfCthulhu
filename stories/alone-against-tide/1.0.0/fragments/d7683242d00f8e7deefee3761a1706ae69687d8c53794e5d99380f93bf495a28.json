@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "7-lock",
+    "7"
+  ],
+  "text": [
+    "眼下没有迫在眉睫的危险，你可以自由查看哈里斯夫妇的家，不过还是得抓紧些，以免有人找来。你扫视所在的起居室，发现先前的冲突把这里弄得有些凌乱。",
+    "你望向入口处的门厅，那里堆满了箱子、板条箱和其他辨认不出的物件，上面都盖着防尘布。你把头探进隔壁房间，看到一间厨房和相连的餐厅，两处都收拾得一尘不染，只是家具寥寥。",
+    "你掀开入口处防尘布的一角，下面有各式家具和装饰品，还有一摞又一摞的书。其中许多是历史书籍和参考资料，有些还是哈里斯教授自己写的。此外还有大量科学和文学方面的通识著作，这倒符合一位博学之士的藏书。",
+    "你把防尘布重新盖好，觉得这里大概没有什么有价值的东西。于是你转而看向入口对面的楼梯。你上楼后看到两扇门，分列两侧。左边的门微微敞开，想必通往卧室。排除之后，右边那扇门肯定通往书房。门似乎锁着，而你先前搜查房子时没找到钥匙。只要给你足够时间，或许能把门弄开；但阿米莉娅或她的熟人可能很快就会回来，所以花太久尝试恐怕不明智。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 7",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 7",
+      "text": [
+        "With no immediate threat to yourself, you are free to explore the Harrises’ home, though you do so quickly in case someone comes looking. Glancing about the sitting room you are in, you find it’s in a bit of a mess from the earlier scuffle.",
+        "Glancing toward the entrance, you note the foyer, filled with boxes, crates, and other unidentifiable objects covered with dust sheets. You poke your head into the next room and find a kitchen and an adjacent dining room, both spotlessly maintained, though sparsely furnished.",
+        "Peeking beneath the dust sheets in the entryway, you find various items of furniture and décor, as well as stacks and stacks of books. Many of them are historical texts and reference materials, some of which were written by Prof. Harris himself. There is also a large number of general works of science and literature, as befits any well-educated man.",
+        "You place the cover back down, sensing that you will find nothing of value here. You turn your attention instead to the set of stairs opposite the entrance. You ascend the staircase and see two doors, one to either side of you. The door to your left is slightly ajar, and no doubt leads to the bedroom. By a process of elimination, the door to your right must lead to the study. It seems to be locked, and your earlier search of the house did not yield a key. With enough time, you might be able to get the door open, but it would probably be unwise to spend too long trying since Amelia or one of those close to her may return soon."
+      ]
+    }
+  }
+}

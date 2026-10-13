@@ -1,0 +1,36 @@
+{
+  "id": "445",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "445:p0",
+      "kind": "heading",
+      "text": "445",
+      "sourceLocation": "pdf:visual:[[78,9]]"
+    },
+    {
+      "id": "445:p1",
+      "kind": "body",
+      "text": "“What are you?” you demand. “Tell me your nature!”",
+      "sourceLocation": "pdf:visual:[[78,10]]"
+    },
+    {
+      "id": "445:p2",
+      "kind": "body",
+      "text": "The thing that was Charlie rasps, “You cannot compel me to \nspeak!” Her voice sounds like a sledge dragged over stones.",
+      "sourceLocation": "pdf:visual:[[78,11],[78,12]]"
+    },
+    {
+      "id": "445:p3",
+      "kind": "body",
+      "text": "To force her to speak, attempt a POW roll with a penalty die: if you \nsucceed, go to 447; if you fail, go to 446.",
+      "sourceLocation": "pdf:visual:[[78,13],[78,14]]"
+    },
+    {
+      "id": "445:p4",
+      "kind": "trace",
+      "text": "(444)",
+      "sourceLocation": "pdf:visual:[[78,15]]"
+    }
+  ]
+}

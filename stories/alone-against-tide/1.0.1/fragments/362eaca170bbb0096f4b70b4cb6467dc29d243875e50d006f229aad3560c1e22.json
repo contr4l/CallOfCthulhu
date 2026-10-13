@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "175"
+  ],
+  "text": [
+    "你涉水向前，感觉脚下的地面逐渐向下倾斜。你蹬水向前游，用宽阔而简单的划水动作，尽量以最少的力气游出尽可能远的距离。",
+    "浓雾中几乎什么也看不见，所以你尽量保持直线前进，希望现在游过的路线上没有隐藏的弯折。你在水中游了几分钟，终于到达对岸，看见小路从水中露出。",
+    "你爬出水面，抖掉身上大部分的水。你浑身污秽，湿透了，但至少又回到了小路上。",
+    "然而，你又冷又湿，黑暗和浓雾让辨路变得更加困难，尽管脚下还有小路。你决定生火，先烘干自己，再做一支火把驱散黑暗，好让自己找到前路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 175",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 175",
+      "text": [
+        "You wade forward, into the water, and feel the ground slope away beneath your feet. You kick off and swim forward using broad, simple strokes in an attempt to maximize the distance you move for the least amount of effort.",
+        "You can barely see anything in the fog, so you try to keep your course as straight as possible, hoping there are no hidden twists or curves in the path you now swim above. You glide through the water for several minutes, eventually reaching the opposite side, where you spot the path emerging from the water.",
+        "You clamber out of the water and shake off the worst of the wetness. You’re covered in filth and are soaked to the bone, but at least you’re on the path once more.",
+        "However, you are cold and wet, and the darkness and fog make navigating that much harder, despite the trail beneath your feet. You resolve to make a fire, so that you may first dry yourself, then make a torch to keep back the darkness so that you might find your way."
+      ]
+    }
+  }
+}

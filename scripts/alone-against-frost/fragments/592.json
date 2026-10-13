@@ -1,0 +1,30 @@
+{
+  "id": "592",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "592:p0",
+      "kind": "heading",
+      "text": "592",
+      "sourceLocation": "pdf:visual:[[100,43]]"
+    },
+    {
+      "id": "592:p1",
+      "kind": "body",
+      "text": "The men exchange glances. One of them lowers the muzzle of \nhis old-time rifle to the moss underfoot. Wary, you stand up \nand hail the hunting party with an upraised hand.",
+      "sourceLocation": "pdf:visual:[[100,44],[100,45],[100,46]]"
+    },
+    {
+      "id": "592:p2",
+      "kind": "body",
+      "text": "Go to 589.",
+      "sourceLocation": "pdf:visual:[[100,47]]"
+    },
+    {
+      "id": "592:p3",
+      "kind": "trace",
+      "text": "(590)",
+      "sourceLocation": "pdf:visual:[[100,48]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "50",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "50:p0",
+      "kind": "heading",
+      "text": "50\n",
+      "sourceLocation": "pdf:spans:[[22,2223,2226]]"
+    },
+    {
+      "id": "50:p1",
+      "kind": "body",
+      "text": "Despite the uneven terrain, you manage to keep your footing. \nYou fly over rock and root as fast as your legs will carry you, and \nyou cover much ground in a short amount of time.\n",
+      "sourceLocation": "pdf:spans:[[22,2226,2288],[22,2288,2357],[22,2357,2406]]"
+    },
+    {
+      "id": "50:p2",
+      "kind": "body",
+      "text": "Unfortunately, this reckless speed at which you’re traveling, \ncombined with the fog and cover of night, prevents you \nfrom noticing the ground giving way to a cliff edge. As your \nmomentum carries you forward toward the edge, you spot a \ntree standing several feet out beyond the cliff face. It’s too late \nto stop the fall, but perhaps you can control the landing.\n",
+      "sourceLocation": "pdf:spans:[[22,2406,2469],[22,2469,2525],[22,2525,2587],[22,2587,2645],[22,2645,2714],[22,2714,2773]]"
+    },
+    {
+      "id": "50:p3",
+      "kind": "body",
+      "text": "• Make a Jump roll: if you succeed, go to 167; if you fail, go to 232.\n",
+      "sourceLocation": "pdf:spans:[[22,2773,2844]]"
+    },
+    {
+      "id": "50:p4",
+      "kind": "body",
+      "text": "(183, 186)\n",
+      "sourceLocation": "pdf:spans:[[22,2844,2855]]"
+    }
+  ]
+}

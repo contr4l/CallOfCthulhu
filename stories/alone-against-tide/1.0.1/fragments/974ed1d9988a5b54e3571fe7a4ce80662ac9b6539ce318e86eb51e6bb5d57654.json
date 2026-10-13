@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "152"
+  ],
+  "text": [
+    "你和约书亚陷入殊死搏斗。你们都在为活命而战，拼命争夺那把能迅速结束冲突的手枪。",
+    "尽管你竭尽全力，还是输掉了这场搏斗。约书亚紧紧抓住枪，把枪口顶在你的胸口，连开数枪，结束了你的生命。你幸运地迅速死去。留在埃斯伯里的人可不会这么走运。你随时可以重新尝试这场故事；不过此刻，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 152",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 152",
+      "text": [
+        "You are locked in a desperate struggle with Joshua. Both of you are fighting for your life, scrambling to make use of the handgun that could so quickly put an end to the conflict.",
+        "Despite your best efforts, you lose the battle. Joshua clutches the gun tightly and rams it into your chest, pulling the trigger several times and ending your life. You have met a mercifully swift death. Those who remain in Esbury will not be so lucky. You may always attempt the story again but, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

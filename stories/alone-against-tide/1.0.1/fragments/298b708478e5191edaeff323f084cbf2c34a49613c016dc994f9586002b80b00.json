@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "27"
+  ],
+  "text": [
+    "摆渡人疑惑地挑起眉毛。“哈里斯教授？我其实说不上多少。我不太了解他，不过他看起来人挺不错。听说他去世了，我很难过。”",
+    "你委婉地追问他死亡的更多情况。桑福德皱起眉头，但还是回答：“鲍威尔警官说是自杀。我倾向于相信他，不过在我看来，哈里斯教授挺开心的。他在埃斯伯里过得很自在，和其他人一样。至少在他埋头研究的时候是这样。我记得是古印度史。我几周前和教授喝咖啡，他为这事絮叨了半天。我听不懂他说的一半内容，但不管是什么，确实让他兴奋得很。”",
+    "你又和桑福德寒暄了几句，他便去继续引导船只进港。你和其他乘客闲聊、观赏风景，打发了一段时间。你注意到埃斯伯里湖岸边高耸的松树和倾斜的山坡。这些景色，以及远处的小镇，都隐约可见于渐浓的雾气中；你眯起眼，仍能看得清楚。",
+    "不久，你抵达埃斯伯里的栈桥，庆幸自己终于离开了水面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 27",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 27",
+      "text": [
+        "The ferryman raises a questioning eyebrow at you. “Professor Harris? I can’t say much really. I didn’t know him all that well, but he seemed like a nice guy. I was sad to hear that he died.”",
+        "You gently press for more information about his death. Sanford frowns, but answers: “Officer Powell says it’s suicide. I’m inclined to believe him, but Professor Harris seemed happy enough to me. More than content to relax in Esbury like anyone else. In between his studies of course. Ancient Indian history, I think it was. I had coffee with the professor a few weeks ago and he talked my ear off about it. I couldn’t understand half of what he said, but he was quite excited by whatever it was.”",
+        "You exchange a few more pleasantries with Sanford before he goes off to finish guiding the boat into port. You pass the time in casual conversation with the other passengers and in observing the scenery. You note the tall pines and the sloping hills along the lakeshore around Esbury. These features, and the small town beyond, are just visible through the growing mist, but squinting helps make them out to your satisfaction.",
+        "In time, you arrive on the pier at Esbury, grateful to be off the water."
+      ]
+    }
+  }
+}

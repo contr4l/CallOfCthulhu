@@ -1,0 +1,30 @@
+{
+  "id": "200",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "200:p0",
+      "kind": "heading",
+      "text": "200",
+      "sourceLocation": "pdf:visual:[[43,17]]"
+    },
+    {
+      "id": "200:p1",
+      "kind": "body",
+      "text": "Each of the terrified little men leaps a foot off the ground and \ndashes off into the brush without a backward glance. You and \nthe others rush from cover and cut Bernard free.",
+      "sourceLocation": "pdf:visual:[[43,20],[43,21],[43,23]]"
+    },
+    {
+      "id": "200:p2",
+      "kind": "body",
+      "text": "Go to 131.",
+      "sourceLocation": "pdf:visual:[[43,25]]"
+    },
+    {
+      "id": "200:p3",
+      "kind": "trace",
+      "text": "(134)",
+      "sourceLocation": "pdf:visual:[[43,26]]"
+    }
+  ]
+}

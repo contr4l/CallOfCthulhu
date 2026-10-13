@@ -1,0 +1,30 @@
+{
+  "id": "11",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "11:p0",
+      "kind": "heading",
+      "text": "11",
+      "sourceLocation": "pdf:visual:[[11,60]]"
+    },
+    {
+      "id": "11:p1",
+      "kind": "body",
+      "text": "A little back from the shore, the faint stench of sulfur wafts out \nof the mouth of a narrow canyon. You have read about possible \nhot  springs  in  the  Hanninah  region.  It  is  very  tempting  to \nformally discover them.",
+      "sourceLocation": "pdf:visual:[[11,61],[11,62],[11,63],[11,64]]"
+    },
+    {
+      "id": "11:p2",
+      "kind": "body",
+      "text": "To stop and explore, go to 19. To continue on, go to 20.",
+      "sourceLocation": "pdf:visual:[[11,65]]"
+    },
+    {
+      "id": "11:p3",
+      "kind": "trace",
+      "text": "(5, 492)",
+      "sourceLocation": "pdf:visual:[[11,66]]"
+    }
+  ]
+}

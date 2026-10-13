@@ -1,0 +1,48 @@
+{
+  "id": "568",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "568:p0",
+      "kind": "heading",
+      "text": "568",
+      "sourceLocation": "pdf:visual:[[97,2]]"
+    },
+    {
+      "id": "568:p1",
+      "kind": "body",
+      "text": "The clever knots of the hunters foil your party’s best attempts. \nYou have no choice but to wait where you are as a long, cold \nnight begins.",
+      "sourceLocation": "pdf:visual:[[97,4],[97,6],[97,7]]"
+    },
+    {
+      "id": "568:p2",
+      "kind": "body",
+      "text": "Slumped  against  your  tree  in  the  half-light  of  dawn,  you \nopen your eyes to see a group of tiny figures watching you. They \nstand only as tall as your thigh. You wonder if you are dreaming.",
+      "sourceLocation": "pdf:visual:[[97,9],[97,10],[97,12]]"
+    },
+    {
+      "id": "568:p3",
+      "kind": "body",
+      "text": "The  group  has  pale  gray  skin  and  over-defined,  almost \nsculpted features. Their lack of color makes them seem inhuman. \nThey carry bows and cords with wooden balls attached—some \nsort  of  bolas?  They  wear  grotesque,  angular  ornamentation, \nmade from what you hope are animal bones.",
+      "sourceLocation": "pdf:visual:[[97,13],[97,15],[97,16],[97,18],[97,19]]"
+    },
+    {
+      "id": "568:p4",
+      "kind": "body",
+      "text": "They  cut  you  free  from  the  tree,  but  immobilize  you  for \ntransport.  Half-carrying,  half-dragging,  the  little  wild  men \nbustle your party away. You are chafed and bruised when they \nfinally pause in a clearing.",
+      "sourceLocation": "pdf:visual:[[97,21],[97,22],[97,24],[97,25]]"
+    },
+    {
+      "id": "568:p5",
+      "kind": "body",
+      "text": "Go to 210.",
+      "sourceLocation": "pdf:visual:[[97,27]]"
+    },
+    {
+      "id": "568:p6",
+      "kind": "trace",
+      "text": "(566)",
+      "sourceLocation": "pdf:visual:[[97,29]]"
+    }
+  ]
+}

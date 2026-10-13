@@ -1,0 +1,51 @@
+{
+  "pdfPage": 89,
+  "sourcePdfSha256": "6737a687a79c49ef36b0e13d98fa0536b5ab8724eb127312522126b46570a572",
+  "engine": "Tesseract",
+  "language": "eng",
+  "renderScaleMaxPixels": 1800,
+  "text": "nt ‘Aa\npean i\n\n",
+  "words": [
+    {
+      "text": "nt",
+      "confidence": 11.297741,
+      "bbox": [
+        486,
+        60,
+        38,
+        42
+      ]
+    },
+    {
+      "text": "‘Aa",
+      "confidence": 33.598743,
+      "bbox": [
+        530,
+        3,
+        91,
+        72
+      ]
+    },
+    {
+      "text": "pean",
+      "confidence": 24.073605,
+      "bbox": [
+        477,
+        42,
+        221,
+        163
+      ]
+    },
+    {
+      "text": "i",
+      "confidence": 68.94986,
+      "bbox": [
+        602,
+        8,
+        79,
+        114
+      ]
+    }
+  ],
+  "visualReview": "pending; OCR is not a faithful reconstruction"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "292",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "292:p0",
+      "kind": "heading",
+      "text": "292",
+      "sourceLocation": "pdf:visual:[[57,32]]"
+    },
+    {
+      "id": "292:p1",
+      "kind": "body",
+      "text": "You and Norman search for signs that Sylvia has gone this way. \nBut while your attention is on the tracks, you may be noticed.",
+      "sourceLocation": "pdf:visual:[[57,33],[57,34]]"
+    },
+    {
+      "id": "292:p2",
+      "kind": "body",
+      "text": "Make a combined Track and Luck roll: if you roll under or equal to \nboth, go to 290; if you fail both, go to 315; if you only succeed with \nTrack, go to 289; if you only succeed with Luck, go to 314.",
+      "sourceLocation": "pdf:visual:[[57,35],[57,36],[57,37]]"
+    },
+    {
+      "id": "292:p3",
+      "kind": "trace",
+      "text": "(277)",
+      "sourceLocation": "pdf:visual:[[57,38]]"
+    }
+  ]
+}

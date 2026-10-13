@@ -1,0 +1,36 @@
+{
+  "id": "369",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "369:p0",
+      "kind": "heading",
+      "text": "369",
+      "sourceLocation": "pdf:visual:[[67,42]]"
+    },
+    {
+      "id": "369:p1",
+      "kind": "body",
+      "text": "Your shins drag through the mud of the slough. The bird is also \nslowed, but the chase wears you down.",
+      "sourceLocation": "pdf:visual:[[67,43],[67,44]]"
+    },
+    {
+      "id": "369:p2",
+      "kind": "body",
+      "text": "Make a CON roll for both of you: if both succeed, your party outruns \nthe bird, go to 361; if either one fails, go to 367.",
+      "sourceLocation": "pdf:visual:[[67,45],[67,46]]"
+    },
+    {
+      "id": "369:p3",
+      "kind": "trace",
+      "text": "(315)",
+      "sourceLocation": "pdf:visual:[[67,47]]"
+    },
+    {
+      "id": "369:p4",
+      "kind": "body",
+      "text": "66",
+      "sourceLocation": "pdf:visual:[[67,48]]"
+    }
+  ]
+}

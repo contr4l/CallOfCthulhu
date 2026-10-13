@@ -1,0 +1,30 @@
+{
+  "id": "52",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "52:p0",
+      "kind": "heading",
+      "text": "52\n",
+      "sourceLocation": "pdf:spans:[[22,3672,3675]]"
+    },
+    {
+      "id": "52:p1",
+      "kind": "body",
+      "text": "The Brahmin’s robe is yours. Mr. Warren spent more than a \nfew minutes looking over the offers, but ultimately, it was your \nname he called. You claim your prize and fold it away into your \nbriefcase for safekeeping.\n",
+      "sourceLocation": "pdf:spans:[[22,3675,3734],[22,3734,3800],[22,3800,3865],[22,3865,3892]]"
+    },
+    {
+      "id": "52:p2",
+      "kind": "body",
+      "text": "• Reduce your Credit Rating by 2 percentiles. Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[22,3892,3948]]"
+    },
+    {
+      "id": "52:p3",
+      "kind": "body",
+      "text": "(30)",
+      "sourceLocation": "pdf:spans:[[22,3948,3952]]"
+    }
+  ]
+}

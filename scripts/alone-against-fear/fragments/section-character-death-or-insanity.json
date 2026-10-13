@@ -1,0 +1,56 @@
+{
+  "id": "section-character-death-or-insanity",
+  "paragraphs": [
+    {
+      "id": "section-character-death-or-insanity:p0000",
+      "kind": "body",
+      "text": "Character Death or Insanity\n",
+      "sourceLocation": "pdf:spans:[[6,96,124]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0001",
+      "kind": "body",
+      "text": "If your character is killed (goes to 0\n",
+      "sourceLocation": "pdf:spans:[[6,124,163]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0002",
+      "kind": "body",
+      "text": "Life) or becomes insane (goes to 0\n",
+      "sourceLocation": "pdf:spans:[[6,163,198]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0003",
+      "kind": "body",
+      "text": "Sanity), you lose the game and\n",
+      "sourceLocation": "pdf:spans:[[6,198,229]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0004",
+      "kind": "body",
+      "text": "must start over with a new\n",
+      "sourceLocation": "pdf:spans:[[6,229,256]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0005",
+      "kind": "body",
+      "text": "character. Do not feel bad if this\n",
+      "sourceLocation": "pdf:spans:[[6,256,291]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0006",
+      "kind": "body",
+      "text": "happens — it takes a combination\n",
+      "sourceLocation": "pdf:spans:[[6,291,324]]"
+    },
+    {
+      "id": "section-character-death-or-insanity:p0007",
+      "kind": "body",
+      "text": "of luck and sound decisions to win.\n",
+      "sourceLocation": "pdf:spans:[[6,324,360]]"
+    }
+  ],
+  "sourcePages": [
+    6
+  ]
+}

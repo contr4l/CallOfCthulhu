@@ -1,0 +1,36 @@
+{
+  "id": "102",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "102:p0",
+      "kind": "heading",
+      "text": "102",
+      "sourceLocation": "pdf:visual:[[27,64]]"
+    },
+    {
+      "id": "102:p1",
+      "kind": "body",
+      "text": "No  matter  what  it  looks  like,  this  thing  cannot  be  Bernard \nEbstein. Whether it is his mortal shell, possessed, you do not \nknow.  But  you  now  remember  what  you  heard  about  those \nchosen by Ithakwanni. Such a thing must be destroyed.",
+      "sourceLocation": "pdf:visual:[[27,65],[27,66],[27,67],[27,68]]"
+    },
+    {
+      "id": "102:p2",
+      "kind": "body",
+      "text": "But you, a rational academic, cannot think such thoughts. \nSurely you are unhinged even to consider them. ",
+      "sourceLocation": "pdf:visual:[[27,69],[27,70]]"
+    },
+    {
+      "id": "102:p3",
+      "kind": "body",
+      "text": "Go to 177.",
+      "sourceLocation": "pdf:visual:[[27,71]]"
+    },
+    {
+      "id": "102:p4",
+      "kind": "trace",
+      "text": "(101)",
+      "sourceLocation": "pdf:visual:[[27,72]]"
+    }
+  ]
+}

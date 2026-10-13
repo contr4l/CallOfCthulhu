@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "30-appraise",
+    "30-creditRating",
+    "30"
+  ],
+  "text": [
+    "那件仪式长袍吸引了你的注意，于是你决定出价。你在纸上签下名字，写出一个合乎情理的价格，再把投标单和其他人的放在一起。你等着沃伦先生宣布长袍由谁得标。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 30",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 30",
+      "text": [
+        "The ceremonial robe catches your eye, and you settle on placing a bid. You sign your name on a paper with a realistic price and put your submission in with the rest. You wait for Mr. Warren to call out the robe’s winner."
+      ]
+    }
+  }
+}

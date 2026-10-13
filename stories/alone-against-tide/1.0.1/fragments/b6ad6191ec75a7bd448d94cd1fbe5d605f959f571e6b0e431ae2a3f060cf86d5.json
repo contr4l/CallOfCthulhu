@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "37"
+  ],
+  "text": [
+    "你脱口向陌生人打招呼，试图让他感到受欢迎。他的脸扭曲成失望的神情，随后转过身去。你显然不知怎么惹恼了他，他不想再理你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 37",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 37",
+      "text": [
+        "You blurt out a greeting, trying to make the stranger feel welcome. His face contorts into a look of disappointment, and the man turns his back on you. You have clearly displeased him somehow, and he wants nothing more to do with you."
+      ]
+    }
+  }
+}

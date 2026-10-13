@@ -1,0 +1,36 @@
+{
+  "id": "51",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "51:p0",
+      "kind": "heading",
+      "text": "51",
+      "sourceLocation": "pdf:visual:[[19,79]]"
+    },
+    {
+      "id": "51:p1",
+      "kind": "body",
+      "text": "Two  days  of  work,  using  improvised  tools  and  methods, \nproduces  a  raft  fit  to  dare  the  rough  waters  of  the  lower \nHanninah. Your party loads its meager possessions and poles \nout into the hazardous channel.",
+      "sourceLocation": "pdf:visual:[[19,80],[19,81],[19,82],[19,83]]"
+    },
+    {
+      "id": "51:p2",
+      "kind": "body",
+      "text": "In  the  days  that  follow,  you  struggle  down  canyons  and \nrapids, but the raft holds. Perhaps you become overconfident, \nfor in a particularly formidable patch of whitewater, the raft \nbounces on a surge and then plunges bow-first.",
+      "sourceLocation": "pdf:visual:[[19,84],[19,85],[19,86],[19,87]]"
+    },
+    {
+      "id": "51:p3",
+      "kind": "body",
+      "text": "Go to 165. ",
+      "sourceLocation": "pdf:visual:[[19,88]]"
+    },
+    {
+      "id": "51:p4",
+      "kind": "trace",
+      "text": "(22, 155, 160, 460)",
+      "sourceLocation": "pdf:visual:[[19,89]]"
+    }
+  ]
+}

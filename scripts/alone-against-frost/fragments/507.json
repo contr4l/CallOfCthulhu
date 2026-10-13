@@ -1,0 +1,48 @@
+{
+  "id": "507",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "507:p0",
+      "kind": "heading",
+      "text": "507",
+      "sourceLocation": "pdf:visual:[[88,22]]"
+    },
+    {
+      "id": "507:p1",
+      "kind": "body",
+      "text": "A  ghastly  pink  fungoid-thing!  It  sees  you!  The  flyer  seems \nclumsy; it wobbles away while you dash into the deep forests. \nCan it track you through the canopy?",
+      "sourceLocation": "pdf:visual:[[88,23],[88,24],[88,25]]"
+    },
+    {
+      "id": "507:p2",
+      "kind": "body",
+      "text": "Suddenly you come upon a cave entrance. Its moss-felted \nrocks yawn open like a mouth and green teeth. You slip inside \nand huddle near the opening.",
+      "sourceLocation": "pdf:visual:[[88,26],[88,27],[88,28]]"
+    },
+    {
+      "id": "507:p3",
+      "kind": "body",
+      "text": "Peering  outside  you  see,  to  your  terror,  a  fungoid-thing \nwavering through the bushes through which you ran. Did it \nsee you?",
+      "sourceLocation": "pdf:visual:[[88,29],[88,30],[88,31]]"
+    },
+    {
+      "id": "507:p4",
+      "kind": "body",
+      "text": "Gain 1 point of Cthulhu Mythos. If you have a rifle, you may shoot \nat the alien; go to 508. If not, or if you prefer to remain quiet and \nmotionless, go to 414.",
+      "sourceLocation": "pdf:visual:[[88,32],[88,33],[88,34]]"
+    },
+    {
+      "id": "507:p5",
+      "kind": "trace",
+      "text": "(506)",
+      "sourceLocation": "pdf:visual:[[88,35]]"
+    },
+    {
+      "id": "507:p6",
+      "kind": "body",
+      "text": "87",
+      "sourceLocation": "pdf:visual:[[88,36]]"
+    }
+  ]
+}

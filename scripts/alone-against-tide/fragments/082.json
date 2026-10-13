@@ -1,0 +1,36 @@
+{
+  "id": "82",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "82:p0",
+      "kind": "heading",
+      "text": "82\n",
+      "sourceLocation": "pdf:spans:[[30,1465,1468]]"
+    },
+    {
+      "id": "82:p1",
+      "kind": "body",
+      "text": "You eye the barrel of the gun, weighing your chances. It doesn’t \nlook good, but you decide it beats the alternative. Your muscles \ntense, waiting to spring into action. You take a breath and go \nfor it.\n",
+      "sourceLocation": "pdf:spans:[[30,1468,1534],[30,1534,1600],[30,1600,1664],[30,1664,1672]]"
+    },
+    {
+      "id": "82:p2",
+      "kind": "body",
+      "text": "You miscalculated just how slim your chances were. You \nmanage to take one step before you hear the loud crack of \nthe revolver. You feel a round slam into your chest and then \nanother. You stumble back, clutching at your wounds, doubled \nover in agony. You look up just in time to see Powell looming \nover you before he smashes the butt of the gun over your head.\n",
+      "sourceLocation": "pdf:spans:[[30,1672,1728],[30,1728,1787],[30,1787,1849],[30,1849,1911],[30,1911,1974],[30,1974,2037]]"
+    },
+    {
+      "id": "82:p3",
+      "kind": "body",
+      "text": "In a daze, you look down at the pool of blood forming \naround you. Your limbs start to go numb. The pain starts to \nrecede and you feel yourself growing cold. You know that you’re \ngoing to die. The last thing you see is the glint of murder in the \npoliceman’s eyes.\nYou have died. Your visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[30,2037,2092],[30,2092,2153],[30,2153,2218],[30,2218,2286],[30,2286,2304],[30,2304,2358]]"
+    },
+    {
+      "id": "82:p4",
+      "kind": "body",
+      "text": "(20, 47, 146)\n",
+      "sourceLocation": "pdf:spans:[[30,2358,2372]]"
+    }
+  ]
+}

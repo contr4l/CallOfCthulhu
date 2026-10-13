@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "165"
+  ],
+  "text": [
+    "你走近房子，把手放在门把手上。你听见里面有人说话，便停下来等他们说完。你把耳朵贴在门上。谈话终于渐渐停息，你听见脚步声走远，消失在建筑深处。你觉得自己暂时不会立刻被发现，于是转动门把手，悄悄溜了进去。",
+    "你环顾四周，看到一间小客厅和厨房，公共区域两端各有一扇门。左边的门敞开着，你能看见一段通往地下的楼梯。右边的门关着。你猜那是通往卧室的门。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 165",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 165",
+      "text": [
+        "You approach the house and place your hand on the doorknob. You hear voices inside, so you pause, waiting for them to stop. You press your ear to the door. The conversation eventually fades and you hear footsteps walking away, vanishing into the depths of the building. Feeling satisfied that you won’t be spotted immediately, you turn the knob and creep inside.",
+        "Glancing about, you see a small living room and kitchen, with two doors at opposite ends of the common area. The door on your left is wide open and you can see a set of stairs leading down. The door on your right is closed. You assume it leads to the bedroom."
+      ]
+    }
+  }
+}

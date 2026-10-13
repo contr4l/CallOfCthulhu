@@ -1,0 +1,42 @@
+{
+  "id": "34",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "34:p0",
+      "kind": "heading",
+      "text": "34\n",
+      "sourceLocation": "pdf:spans:[[18,1986,1989]]"
+    },
+    {
+      "id": "34:p1",
+      "kind": "body",
+      "text": "Rather than single anyone or anything in particular out, you \nfeel it would be best to use your time to get a general impression \nand speak to multiple people to get their points of view.\n",
+      "sourceLocation": "pdf:spans:[[18,1989,2051],[18,2051,2119],[18,2119,2177]]"
+    },
+    {
+      "id": "34:p2",
+      "kind": "body",
+      "text": "Hearing the talk around the room, you come to understand \nthat most of the people who have gathered here are merely \ntreating this as a social event. However, there are a fair number \nof academics and collectors in attendance as well. Judging by \nthe relative wealth of the townsfolk, you imagine that there will \nbe a lot of bids placed on the items.\n",
+      "sourceLocation": "pdf:spans:[[18,2177,2235],[18,2235,2294],[18,2294,2361],[18,2361,2424],[18,2424,2491],[18,2491,2529]]"
+    },
+    {
+      "id": "34:p3",
+      "kind": "body",
+      "text": "While walking among the guests, you happen to notice a \npair of men conversing in hushed tones. They seem to be trying \nto avoid being overheard, but a keen ear might be able to catch \nwhat is being said.\n",
+      "sourceLocation": "pdf:spans:[[18,2529,2585],[18,2585,2649],[18,2649,2714],[18,2714,2734]]"
+    },
+    {
+      "id": "34:p4",
+      "kind": "body",
+      "text": "• Make a Listen roll: if you succeed, go to 2; if you fail, go to 44.\n",
+      "sourceLocation": "pdf:spans:[[18,2734,2804]]"
+    },
+    {
+      "id": "34:p5",
+      "kind": "body",
+      "text": "(15, 17)\n",
+      "sourceLocation": "pdf:spans:[[18,2804,2813]]"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "167"
+  ],
+  "text": [
+    "就在双脚离地前，你借势跃起，向前跳进树木枝叶的庇护之中。",
+    "树枝在冲击力下噼啪折断，但下面的枝条撑住了你，阻止你坠落。你并非毫发无伤，但幸好受的只是擦伤和瘀青，没有骨折。",
+    "你开始沿着树往下爬，小心翼翼地从一根树枝落到另一根树枝上。终于到了树下，你估量着自己下落的距离，确信自己刚刚躲过了一次致命坠落。",
+    "你气喘吁吁，浑身疼痛，拖着脚步在夜色中继续前行，希望能让自己离埃斯伯里更远一些。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 167",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 167",
+      "text": [
+        "Just before your feet leave the ground, you throw your momentum into a jump. You leap forward into the protective boughs of the tree.",
+        "Branches snap and break as they give way under the force of your impact, but those below hold, stopping your fall. You aren’t entirely without injury but the damage is, thankfully, just cuts and bruises rather than broken bones.",
+        "You begin making your way down the tree, dropping carefully from limb to limb. When you finally make it to the bottom and appraise the distance you’ve traveled downward, you’re certain you just avoided a lethal fall.",
+        "Winded and battered, you trudge on through the night, hoping to put even more distance between yourself and Esbury."
+      ]
+    }
+  }
+}

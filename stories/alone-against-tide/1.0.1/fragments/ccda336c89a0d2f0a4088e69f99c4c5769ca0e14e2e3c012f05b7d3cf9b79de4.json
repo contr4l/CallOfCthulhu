@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "12",
+    "12-woods"
+  ],
+  "text": [
+    "你坐进座位，把薄薄的公文包放在膝上，注意到其他乘客也都在为这趟短暂的湖上旅程安顿下来。你环顾四周，看见摆渡人走进船舱。你耐心坐着，等待引擎启动，同时听着周围闲聊的声音。你望向湖面，发现随着夜晚临近、气温下降，水面上开始浮起薄雾。",
+    "几分钟后，引擎噗噗作响地发动起来，渡船也猛地向前一颠。周围的人继续交谈，摆渡人也来到甲板上和大家待在一起。你不由得听见大部分谈话，内容却意外地平淡。船上将近有十二名乘客；他们大多只是想趁周末在埃斯伯里消费，享受这座湖畔小镇提供的各种商店和休闲活动。许多乘客看起来家境殷实，这在埃斯伯里很常见。",
+    "你注意到人群中有个女人神情古怪。她身材丰满，棕发棕眼，似乎正打量着你，欣赏你的外貌。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 12",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 12",
+      "text": [
+        "You settle into a seat with your thin briefcase resting on your lap, noticing that the rest of the passengers are likewise getting comfortable for the short trip across the lake. Glancing around, you catch sight of the ferryman entering the cabin. As you sit patiently and wait for the engine to come to life, you listen to the sounds of idle chatter around you. You look out across the water and notice a thin fog beginning to form over the surface of the water as the temperature drops with the approach of night.",
+        "After a few minutes, you hear the engine sputter into action and feel the ferry lurch forward. The conversations around you continue as the ferryman joins you all on deck. You can’t help overhearing most of the talk, though it’s surprisingly banal. There are almost a dozen passengers on the ferry; most of them are simply looking to spend their money during their weekend in Esbury and to enjoy the various shops and leisure activities the lakeside town has to offer. Many of the passengers seem to come from money, as is common in Esbury.",
+        "You notice a strange look from one of the women in the group. She has a full figure and brown hair and eyes. She seems to be looking you over, admiring your features."
+      ]
+    }
+  }
+}

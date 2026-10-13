@@ -1,0 +1,36 @@
+{
+  "id": "52",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "52:p0",
+      "kind": "heading",
+      "text": "52",
+      "sourceLocation": "pdf:visual:[[20,1]]"
+    },
+    {
+      "id": "52:p1",
+      "kind": "body",
+      "text": "After a fruitless search through the twilit bush, you and your \nstudents return to camp, to find that the canoe has disappeared. \nCharlie is gone, and she has taken some of the supplies.",
+      "sourceLocation": "pdf:visual:[[20,2],[20,3],[20,4]]"
+    },
+    {
+      "id": "52:p2",
+      "kind": "body",
+      "text": "The students exchange a look. You struggle to hide your own \ndismay. You must be strong for their sake.",
+      "sourceLocation": "pdf:visual:[[20,5],[20,6]]"
+    },
+    {
+      "id": "52:p3",
+      "kind": "body",
+      "text": "Record the keyword BAREFOOT. Go to 53.",
+      "sourceLocation": "pdf:visual:[[20,7]]"
+    },
+    {
+      "id": "52:p4",
+      "kind": "trace",
+      "text": "(24, 29)",
+      "sourceLocation": "pdf:visual:[[20,8]]"
+    }
+  ]
+}

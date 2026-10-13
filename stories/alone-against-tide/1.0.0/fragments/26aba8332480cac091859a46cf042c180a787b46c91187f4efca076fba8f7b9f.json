@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "215"
+  ],
+  "text": [
+    "你横穿街道冲进教堂，一路涉过不断上涨的积水。你砰地关上身后的门，沿着走道走向站在圣坛旁的佛教僧侣。",
+    "你走近时，看出那人惊魂未定。他睁大双眼，双手抓住一条长椅支撑自己，仍在颤抖。他盯着你看，开始用一种你听不懂的语言急促地说话。他停下来，接着又慌乱地说道：“我没想到你还能回来！你、你还好吗？你、你看见外面是什么了吗？”",
+    "你提到上涨的洪水，他用力摇头。“不是！是那些生物！在雾里！绿色的怪物！”你怀疑地挑起眉毛，他便领你走向门口。",
+    "他把门稍稍打开，你朝雾中望去。你确实看见了奇怪的东西：一个不完全像人的轮廓，在黑暗和浓雾中蹒跚移动。你还没来得及看清，僧侣就把你拽回房间，关上了门。但那东西已经注意到了你们，几秒钟后，门上便响起猛烈的撞击声。",
+    "“现在你看见了吧？它们冲我们来了！”他把你拉近，好低声说话，虽然语速依旧很急。“这就是我来这里的原因，朋友。我的寺院要我把遗物带回去，因为它们被邪恶之物诅咒了。寺院会对遗物举行仪式，驱除诅咒，但把它们留在别处并不安全。也许已经太迟了，但我知道咒语。来，和我一起念。我们会阻止这一切。”",
+    "他抓住你的手，把你拉到圣坛前。你放下装着物品的袋子，僧侣闭上眼睛，开始用一种怪异的语言念诵。“Y’hahyar nog nglui ah, Bokrug.”他缓慢而仔细地念出每个音节，让你可以自行决定是否跟着一起念。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 215",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 215",
+      "text": [
+        "You rush across the street and into the church, all the while splashing through the ever-rising water. You slam the door behind you and make your way down the aisle, toward the Buddhist monk standing beside the high altar.",
+        "As you approach him, you can see that the man looks shaken. His eyes are wide and his hands tremble as he holds onto one of the pews for support. He fixes his gaze upon you and starts speaking quickly in a language you don’t understand. He stops himself, then begins speaking frantically. “I did not think you would make it back! A-are you okay? D-did you see what is out there?”",
+        "You mention the rising water and he shakes his head vigorously. “No! The creatures! In the mist! The green monsters!” You raise a skeptical eyebrow, and he leads you to the door.",
+        "He cracks the door open slightly and you gaze out into the mists. You do, indeed, see something strange: a not entirely human silhouette shambling about in the darkness and the fog. Before you can get a better look, the monk yanks you back into the room and closes the door. But not before the thing notices, as a loud banging begins on the door mere seconds later.",
+        "“You see it now, yes? They come for us!” He draws you closer, pulling you in so he can speak in a hushed tone, though still in a hurried manner. “That is why I came here, friend. My temple wanted me to bring the relics back because they are cursed by evil things. My temple would perform rites over the relics to keep the curse away, but they are not safe elsewhere. It may be too late, but I know the words. Come, join me. We will stop this.”",
+        "He takes your hand and drags you to the altar. You set down the sack of things, and the monk closes his eyes and begins to speak in a strange tongue. “Y’hahyar nog nglui ah, Bokrug.” He utters each syllable slowly and carefully, giving you the chance to join with him if you so choose."
+      ]
+    }
+  }
+}

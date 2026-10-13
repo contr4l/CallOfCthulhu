@@ -1,0 +1,36 @@
+{
+  "id": "68",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "68:p0",
+      "kind": "heading",
+      "text": "68\n",
+      "sourceLocation": "pdf:spans:[[26,26,29]]"
+    },
+    {
+      "id": "68:p1",
+      "kind": "body",
+      "text": "You consider that the officer is merely unconscious and not \nrestrained, and that you should remedy that before he comes \nto. You pull down a curtain from the window, letting the sickly \ngreen light of the fog into the room. You take the length of \nfabric and bind Officer Powell’s hands. It’s crude, but it will \nhave to suffice.\n",
+      "sourceLocation": "pdf:spans:[[26,29,90],[26,90,151],[26,151,216],[26,216,278],[26,278,343],[26,343,360]]"
+    },
+    {
+      "id": "68:p2",
+      "kind": "body",
+      "text": "As you finish securing the knots, Amelia suddenly lunges for \na vase sitting next to her and hurls it at you.\n",
+      "sourceLocation": "pdf:spans:[[26,360,422],[26,422,470]]"
+    },
+    {
+      "id": "68:p3",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 91; if you fail, take 1D4 \ndamage. If you survive this, go to 53; however, if this reduces you to \nzero hit points, you have been killed by a decorative flower holder. \nYour visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[26,470,540],[26,540,612],[26,612,682],[26,682,721]]"
+    },
+    {
+      "id": "68:p4",
+      "kind": "body",
+      "text": "(39, 49, 76, 85, 99)\n",
+      "sourceLocation": "pdf:spans:[[26,721,742]]"
+    }
+  ]
+}

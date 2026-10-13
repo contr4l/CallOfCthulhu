@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "203"
+  ],
+  "text": [
+    "你屈膝蹲下，开始慢慢转动密码锁，仔细听咔嗒声，并凭感觉察觉猜中数字时转盘会轻微卡住。你重复这个过程几次，保险箱门终于几乎无声地吱呀一响，打开了。",
+    "保险箱里的东西不多。底层架子上有一叠文件：护照、出生证明和财务文件。你匆匆看过，没发现什么有趣的内容。它们都与阿米莉娅和威廉·哈里斯有关，因此这保险箱似乎自教授死后就没被打开过。旁边还放着一根小小的金条，重量略超过 2 磅（1 千克）。想到你为走到这一步费了不少功夫，便把金条放进口袋，作为补偿。",
+    "至少现在你不会空手离开了。你心满意足，房间里也没什么可看的了，于是离开继续前行。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 203",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 203",
+      "text": [
+        "You take a knee and begin twisting the combination lock slowly, listening for the sound of the clicks and feeling for the slight stopping of the dial with a successful guess of the number. You repeat this process a few times, and the safe door swings open with a barely perceptible creak.",
+        "The contents of the safe are fairly sparse. There is a stack of documents on the bottom shelf: passports, birth certificates, and financial papers. A quick look at them reveals nothing of interest. They’re tied to both Amelia and William Harris, so it appears as if this safe hasn’t been opened since the professor’s death. There’s also a solitary small gold bar, a little over 2 lbs. (1 kg) in weight, sitting off to one side. Considering the trouble you went through to get to this point, you place the gold bar in your pocket as compensation.",
+        "At least now you won’t be leaving empty-handed. Satisfied, and with nothing more to see in the room, you leave and move on."
+      ]
+    }
+  }
+}

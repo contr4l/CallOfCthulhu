@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "242"
+  ],
+  "text": [
+    "你完全不知道自己在看什么。这些字符奇怪而陌生，不属于任何你认识的文字。继续研究这件物品，也没有发现其他线索。",
+    "你在黑暗和浓雾中逗留，没注意到那些异界生物正在接近。它们包围了你，一起发动袭击——近十二只形态膨胀、双眼毫无生气的邪恶怪物。",
+    "它们迅速扑向你和你的同伴。尽管他带着武器，却只击倒了几只，就被它们制服，随后被扼死。你的下场也好不到哪里去；尽管竭力反抗，仍被那些生物抓住。",
+    "你一路踢打、尖叫，被它们拖过埃斯伯里的街道。它们把你带到一栋着火的建筑前，可怕的怪物将你扔进火里。你被活活烧死时，看见这些可憎的生物开始跳起令人不安的、蹒跚挪动的舞蹈。它们噘起的松垮嘴唇无声地赞颂着未知之神，你的灵魂被献祭给了它。",
+    "你死了，被活活烧死，作为献给一位旧日支配者的祭品。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 242",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 242",
+      "text": [
+        "You simply have no idea what you’re looking at. The characters are strange and unusual and they match no script known to you. Studying the rest of the object yields no other clues.",
+        "As you dally here in the darkness and mist, you don’t notice the otherworldly things’ approach. They surround you and strike together, nearly a dozen unholy abominations with distended forms and lifeless eyes.",
+        "They fall upon you and your companion swiftly. Though he is armed, he only manages to bring down a few of them before they subdue him, then strangle the life out of him. You fare little better, seized by the creatures despite your best efforts.",
+        "Kicking and screaming, you are hauled bodily through the streets of Esbury. They carry you to a burning building, where the horrid creatures feed you to the flames. As you burn alive, you see the abominable beings take up a shuffling dance of unnerving nature. Their pouting, flabby lips sing silent praises to their unknown god to which your soul is sacrificed. You have died, burned alive as an offering to one of the Great Old Ones. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

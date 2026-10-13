@@ -1,0 +1,48 @@
+{
+  "id": "4",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "4:p0",
+      "kind": "heading",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[10,1818,1820]]"
+    },
+    {
+      "id": "4:p1",
+      "kind": "body",
+      "text": "You choose your words carefully before replying, not wanting \nto give out sensitive information. You tell him that you’re with \nthe Police Department over in Boston, and that you’re working \na case. The ferryman scratches his head. “Boston, huh? And they \nsent you all the way out here? I imagine this has to do with Professor \nHarris’ death, but Officer Powell has that handled, I think.” The \nman shrugs and flashes another smile. “Ah, but I suppose it’s not \nmy place to pry.” He extends his hand to you, “I’m Lance Sanford, \nby the way, I think we skipped the introduction.”\n",
+      "sourceLocation": "pdf:spans:[[10,1820,1882],[10,1882,1948],[10,1948,2011],[10,2011,2076],[10,2076,2148],[10,2148,2215],[10,2215,2282],[10,2282,2349],[10,2349,2399]]"
+    },
+    {
+      "id": "4:p2",
+      "kind": "body",
+      "text": "• To inquire about Prof. Harris, go to 27.\n",
+      "sourceLocation": "pdf:spans:[[10,2399,2442]]"
+    },
+    {
+      "id": "4:p3",
+      "kind": "body",
+      "text": "• To inquire about Officer Powell, go to 36.\n",
+      "sourceLocation": "pdf:spans:[[10,2442,2487]]"
+    },
+    {
+      "id": "4:p4",
+      "kind": "body",
+      "text": "• To ask Lance Sanford about himself, go to 42.\n",
+      "sourceLocation": "pdf:spans:[[10,2487,2535]]"
+    },
+    {
+      "id": "4:p5",
+      "kind": "body",
+      "text": "• To pass the time waiting to arrive in Esbury, go to 56.\n",
+      "sourceLocation": "pdf:spans:[[10,2535,2593]]"
+    },
+    {
+      "id": "4:p6",
+      "kind": "body",
+      "text": "(80)\n",
+      "sourceLocation": "pdf:spans:[[10,2593,2598]]"
+    }
+  ]
+}

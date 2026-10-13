@@ -19,6 +19,13 @@ export function CheckExplanation({ result }: { result: CheckResult }) {
           )}
         </p>
       )}
+      {result.luckSpent !== undefined && (
+        <p>
+          {convert(
+            `原始骰点 ${result.originalRoll}；花费 ${result.luckSpent} 点幸运后调整为 ${result.roll}。`,
+          )}
+        </p>
+      )}
       <p className="check-comparison">
         <CheckOutcomeText text={`D100 · ${own.comparison}，`} />
         <span className={checkOutcomeClass(own.passed)}>
@@ -33,7 +40,7 @@ export function CheckExplanation({ result }: { result: CheckResult }) {
       {result.candidates.length > 1 && (
         <p>
           <CheckOutcomeText
-            text={`候选骰点 ${result.candidates.join(" / ")}；本次采用 ${result.roll}。`}
+            text={`候选骰点 ${result.candidates.join(" / ")}；原始采用 ${result.originalRoll ?? result.roll}。`}
           />
         </p>
       )}

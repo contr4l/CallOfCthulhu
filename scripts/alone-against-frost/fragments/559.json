@@ -1,0 +1,36 @@
+{
+  "id": "559",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "559:p0",
+      "kind": "heading",
+      "text": "559",
+      "sourceLocation": "pdf:visual:[[95,50]]"
+    },
+    {
+      "id": "559:p1",
+      "kind": "body",
+      "text": "You follow the trail for almost a mile and finally hear a mutter \nof voices. Crawling up to a mass of bearberry bushes, you part \nthem enough to see the other side.",
+      "sourceLocation": "pdf:visual:[[95,51],[95,52],[95,53]]"
+    },
+    {
+      "id": "559:p2",
+      "kind": "body",
+      "text": "There,  in  the  shadow  of  the  larches,  you  observe  several \nNative  people.  Anthropologically,  you  recognize  indicators \nof  the  Tsuut’ina,  apparently  a  very  isolated  group.  Their \nskin shirts, leggings, and woodland-style moccasins indicate \nminimal  contact  with  the  outside.  You  see  several  19th-\ncentury  rifles—some  only  single-shot  weapons—among \nthem. Charlie said something about outcasts—could this be \nthe group she mentioned?",
+      "sourceLocation": "pdf:visual:[[95,54],[95,55],[95,56],[95,57],[95,58],[95,59],[95,60],[95,61]]"
+    },
+    {
+      "id": "559:p3",
+      "kind": "body",
+      "text": "To stand up and greet the Tsuut’ina, go to 560. To stay where you \nare and watch a while longer, make a Stealth roll: if you succeed, go \nto 576; if you fail, go to 573.",
+      "sourceLocation": "pdf:visual:[[95,62],[95,63],[95,64]]"
+    },
+    {
+      "id": "559:p4",
+      "kind": "trace",
+      "text": "(558)",
+      "sourceLocation": "pdf:visual:[[95,65]]"
+    }
+  ]
+}

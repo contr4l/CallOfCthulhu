@@ -1,0 +1,30 @@
+{
+  "id": "374",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "374:p0",
+      "kind": "heading",
+      "text": "374",
+      "sourceLocation": "pdf:visual:[[68,6]]"
+    },
+    {
+      "id": "374:p1",
+      "kind": "body",
+      "text": "The Mounted Police will require that a coroner examine the \nhead to determine whether or not a murder has been committed. \nAfter all, the head might just be that of a particularly ugly or \ndeformed human, not the monkey-man you claim it to be.",
+      "sourceLocation": "pdf:visual:[[68,7],[68,8],[68,9],[68,10]]"
+    },
+    {
+      "id": "374:p2",
+      "kind": "body",
+      "text": "To consider another discovery first, go back to 529. To reveal the \nsasquatch head, make a Luck roll: if you succeed, go to 372; if you \nfail, go to 375.",
+      "sourceLocation": "pdf:visual:[[68,11],[68,12],[68,13]]"
+    },
+    {
+      "id": "374:p3",
+      "kind": "trace",
+      "text": "(529)",
+      "sourceLocation": "pdf:visual:[[68,14]]"
+    }
+  ]
+}

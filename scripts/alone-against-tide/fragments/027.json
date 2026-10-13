@@ -1,0 +1,48 @@
+{
+  "id": "27",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "27:p0",
+      "kind": "heading",
+      "text": "27\n",
+      "sourceLocation": "pdf:spans:[[17,44,47]]"
+    },
+    {
+      "id": "27:p1",
+      "kind": "body",
+      "text": "The ferryman raises a questioning eyebrow at you. “Professor \nHarris? I can’t say much really. I didn’t know him all that well, but \nhe seemed like a nice guy. I was sad to hear that he died.”\n",
+      "sourceLocation": "pdf:spans:[[17,47,109],[17,109,180],[17,180,240]]"
+    },
+    {
+      "id": "27:p2",
+      "kind": "body",
+      "text": "You gently press for more information about his death. \nSanford frowns, but answers: “Officer Powell says it’s suicide. I’m \ninclined to believe him, but Professor Harris seemed happy enough \nto me. More than content to relax in Esbury like anyone else. In \nbetween his studies of course. Ancient Indian history, I think it was. \nI had coffee with the professor a few weeks ago and he talked my ear \noff about it. I couldn’t understand half of what he said, but he was \nquite excited by whatever it was.”\n",
+      "sourceLocation": "pdf:spans:[[17,240,296],[17,296,365],[17,365,432],[17,432,498],[17,498,570],[17,570,640],[17,640,710],[17,710,745]]"
+    },
+    {
+      "id": "27:p3",
+      "kind": "body",
+      "text": "You exchange a few more pleasantries with Sanford before \nhe goes off to finish guiding the boat into port. You pass the \ntime in casual conversation with the other passengers and in \nobserving the scenery. You note the tall pines and the sloping \nhills along the lakeshore around Esbury. These features, and the \nsmall town beyond, are just visible through the growing mist, \nbut squinting helps make them out to your satisfaction.\n",
+      "sourceLocation": "pdf:spans:[[17,745,803],[17,803,867],[17,867,929],[17,929,993],[17,993,1059],[17,1059,1122],[17,1122,1178]]"
+    },
+    {
+      "id": "27:p4",
+      "kind": "body",
+      "text": "In time, you arrive on the pier at Esbury, grateful to be off  \nthe water.\n",
+      "sourceLocation": "pdf:spans:[[17,1178,1242],[17,1242,1253]]"
+    },
+    {
+      "id": "27:p5",
+      "kind": "body",
+      "text": "• Go to 3.\n",
+      "sourceLocation": "pdf:spans:[[17,1253,1264]]"
+    },
+    {
+      "id": "27:p6",
+      "kind": "body",
+      "text": "(4, 18, 23, 33, 41, 63, 71, 104)\n",
+      "sourceLocation": "pdf:spans:[[17,1264,1297]]"
+    }
+  ]
+}

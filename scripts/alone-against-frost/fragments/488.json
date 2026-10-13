@@ -1,0 +1,30 @@
+{
+  "id": "488",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "488:p0",
+      "kind": "heading",
+      "text": "488",
+      "sourceLocation": "pdf:visual:[[85,68]]"
+    },
+    {
+      "id": "488:p1",
+      "kind": "body",
+      "text": "You study the sasquatches, trying to discern their intentions.",
+      "sourceLocation": "pdf:visual:[[85,69]]"
+    },
+    {
+      "id": "488:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1–4, go to 487; if the result is 5–6, go \nto 489. ",
+      "sourceLocation": "pdf:visual:[[85,70],[85,71]]"
+    },
+    {
+      "id": "488:p3",
+      "kind": "trace",
+      "text": "(386)",
+      "sourceLocation": "pdf:visual:[[85,72]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "155",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "155:p0",
+      "kind": "heading",
+      "text": "155",
+      "sourceLocation": "pdf:visual:[[35,58]]"
+    },
+    {
+      "id": "155:p1",
+      "kind": "body",
+      "text": "Norman  and  Sylvia  watch  you,  aghast  at  the  thought  of \nabandoning  their  classmate.  But  you  cannot  afford  to  be \nsentimental. You are responsible for their well-being, too. ",
+      "sourceLocation": "pdf:visual:[[35,59],[35,60],[35,61]]"
+    },
+    {
+      "id": "155:p2",
+      "kind": "body",
+      "text": "If you have the keyword BAREFOOT, go to 51. If not, go to 32.",
+      "sourceLocation": "pdf:visual:[[35,62]]"
+    },
+    {
+      "id": "155:p3",
+      "kind": "trace",
+      "text": "(153)",
+      "sourceLocation": "pdf:visual:[[35,63]]"
+    }
+  ]
+}

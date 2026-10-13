@@ -1,0 +1,30 @@
+{
+  "id": "415",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "415:p0",
+      "kind": "heading",
+      "text": "415",
+      "sourceLocation": "pdf:visual:[[74,1]]"
+    },
+    {
+      "id": "415:p1",
+      "kind": "body",
+      "text": "You lie alone on the shore, the last survivor of your party.",
+      "sourceLocation": "pdf:visual:[[74,2]]"
+    },
+    {
+      "id": "415:p2",
+      "kind": "body",
+      "text": "If you took drowning damage, you may make a First Aid roll. If you \nsucceed, add 1D3 hit points. Then, go to 67.",
+      "sourceLocation": "pdf:visual:[[74,3],[74,4]]"
+    },
+    {
+      "id": "415:p3",
+      "kind": "trace",
+      "text": "(412)",
+      "sourceLocation": "pdf:visual:[[74,5]]"
+    }
+  ]
+}

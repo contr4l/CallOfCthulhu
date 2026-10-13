@@ -1,0 +1,36 @@
+{
+  "id": "555",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "555:p0",
+      "kind": "heading",
+      "text": "555",
+      "sourceLocation": "pdf:visual:[[95,11]]"
+    },
+    {
+      "id": "555:p1",
+      "kind": "body",
+      "text": "Only a few steps along the slope, Bernard moans and falls to \nthe earth. You hurry to help.\n—\n“Something hit me,” the youth begins, dazed. “It yiih!”",
+      "sourceLocation": "pdf:visual:[[95,14],[95,15],[95,17],[95,18]]"
+    },
+    {
+      "id": "555:p2",
+      "kind": "body",
+      "text": "He  touches  a  hand  to  his  cheek.  Hot  blood  flows  out \nbetween his fingers. “Quick, let’s get out of here!” you exclaim, \nhelping Bernard to his feet. It is hardly scientific, but in this \nplace, it feels like the right thing to do.",
+      "sourceLocation": "pdf:visual:[[95,19],[95,21],[95,22],[95,24]]"
+    },
+    {
+      "id": "555:p3",
+      "kind": "body",
+      "text": "Go to 437.",
+      "sourceLocation": "pdf:visual:[[95,26]]"
+    },
+    {
+      "id": "555:p4",
+      "kind": "trace",
+      "text": "(554)",
+      "sourceLocation": "pdf:visual:[[95,27]]"
+    }
+  ]
+}

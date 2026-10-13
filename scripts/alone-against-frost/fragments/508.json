@@ -1,0 +1,30 @@
+{
+  "id": "508",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "508:p0",
+      "kind": "heading",
+      "text": "508",
+      "sourceLocation": "pdf:visual:[[88,38]]"
+    },
+    {
+      "id": "508:p1",
+      "kind": "body",
+      "text": "Your rifle kicks as you fire at the alien horror.",
+      "sourceLocation": "pdf:visual:[[88,39]]"
+    },
+    {
+      "id": "508:p2",
+      "kind": "body",
+      "text": "Make your attack roll. If you hit and score at least 12 points of \ndamage  against  the  creature,  you  may  finish  it  off  while  it  lies \nstunned; go to 509. If you inflict less damage, it drops out of sight \nand you must take to your heels again; go to 510.",
+      "sourceLocation": "pdf:visual:[[88,40],[88,41],[88,42],[88,43]]"
+    },
+    {
+      "id": "508:p3",
+      "kind": "trace",
+      "text": "(507)",
+      "sourceLocation": "pdf:visual:[[88,44]]"
+    }
+  ]
+}

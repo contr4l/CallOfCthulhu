@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "23"
+  ],
+  "text": [
+    "你提起一位远在埃斯伯里的同事去世，说密斯卡托尼克大学派你来取回他的研究成果并带回学校。",
+    "男人叹了口气，缓缓点头。“你说的是哈里斯教授吧。他出这样的事真可惜，一直觉得他是个挺和善的人。鲍威尔警官说他们还在清理教授家里的残局。不过，要是你真想找资料，一些更值钱的东西今晚可能会在遗产拍卖会上卖掉。”男人低头看了看自己的手，随后又抬头看向你，向你伸出一只手。“总之，我叫兰斯，兰斯·桑福德。很高兴认识你，不过真希望不是在这种情况下，嗯？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 23",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 23",
+      "text": [
+        "You mention the passing of a distant colleague in Esbury and how you’ve been sent by Miskatonic to recover his work and bring it back to the university.",
+        "The man sighs and nods slowly. “You mean Professor Harris. Real shame what happened to him. Always seemed like such a nice man. Officer Powell says they’re still cleaning up the mess at the professor’s place. But some of the more valuable bits will probably be at the estate sale tonight, if you’re really wanting at it.” The man looks down at his hands for a moment, and then back at you as he extends one your way. “Anyway, I’m Lance. Lance Sanford. Pleased to meet you, but I wish it were under better circumstances, eh?”"
+      ]
+    }
+  }
+}

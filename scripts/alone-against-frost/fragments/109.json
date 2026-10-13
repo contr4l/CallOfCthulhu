@@ -1,0 +1,30 @@
+{
+  "id": "109",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "109:p0",
+      "kind": "heading",
+      "text": "109",
+      "sourceLocation": "pdf:visual:[[28,53]]"
+    },
+    {
+      "id": "109:p1",
+      "kind": "body",
+      "text": "At last, all is quiet. You know it is foolish to try to navigate the \nBig Woods after dark, so you sit down on a log and wait out the \nlast hour of the short subarctic night.",
+      "sourceLocation": "pdf:visual:[[28,54],[28,55],[28,56]]"
+    },
+    {
+      "id": "109:p2",
+      "kind": "body",
+      "text": "Make a Navigate roll; if you succeed, go to 142; if you fail, go to 48. ",
+      "sourceLocation": "pdf:visual:[[28,57]]"
+    },
+    {
+      "id": "109:p3",
+      "kind": "trace",
+      "text": "(62, 107)",
+      "sourceLocation": "pdf:visual:[[28,58]]"
+    }
+  ]
+}

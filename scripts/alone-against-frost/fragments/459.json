@@ -1,0 +1,30 @@
+{
+  "id": "459",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "459:p0",
+      "kind": "heading",
+      "text": "459",
+      "sourceLocation": "pdf:visual:[[81,13]]"
+    },
+    {
+      "id": "459:p1",
+      "kind": "body",
+      "text": "You spend individual time with each party member, sharing \nexperiences  from  other  field  trips.  Your  personal  touch  is \nenough  to  keep  spirits  up  for  a  few  more  days.  One  foggy \nmorning, Bernard and Norman call you down to the river to \nshare an incredible find: a large, strong canoe in need of a few \nminor repairs. There is no sign of its owner. Now you must \nmake an important decision.",
+      "sourceLocation": "pdf:visual:[[81,15],[81,17],[81,18],[81,20],[81,21],[81,23],[81,24]]"
+    },
+    {
+      "id": "459:p2",
+      "kind": "body",
+      "text": "To return downriver, go to 32. To proceed deeper into Hanninah \ncountry, go to 20.",
+      "sourceLocation": "pdf:visual:[[81,26],[81,28]]"
+    },
+    {
+      "id": "459:p3",
+      "kind": "trace",
+      "text": "(458)",
+      "sourceLocation": "pdf:visual:[[81,29]]"
+    }
+  ]
+}

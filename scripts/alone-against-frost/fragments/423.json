@@ -1,0 +1,30 @@
+{
+  "id": "423",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "423:p0",
+      "kind": "heading",
+      "text": "423",
+      "sourceLocation": "pdf:visual:[[75,28]]"
+    },
+    {
+      "id": "423:p1",
+      "kind": "body",
+      "text": "You raise the rifle at its brow ridge and fire. Your shot is point-blank.",
+      "sourceLocation": "pdf:visual:[[75,29]]"
+    },
+    {
+      "id": "423:p2",
+      "kind": "body",
+      "text": "Make your attack roll: if it succeeds and your shot inflicts 9 or more \npoints of damage, go to 373; if you miss or inflicts less damage, go \nto 376.",
+      "sourceLocation": "pdf:visual:[[75,30],[75,31],[75,32]]"
+    },
+    {
+      "id": "423:p3",
+      "kind": "trace",
+      "text": "(419)",
+      "sourceLocation": "pdf:visual:[[75,33]]"
+    }
+  ]
+}

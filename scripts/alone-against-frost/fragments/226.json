@@ -1,0 +1,36 @@
+{
+  "id": "226",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "226:p0",
+      "kind": "heading",
+      "text": "226",
+      "sourceLocation": "pdf:visual:[[46,58]]"
+    },
+    {
+      "id": "226:p1",
+      "kind": "body",
+      "text": "Determined  to  rescue  Sylvia  from  her  abductor,  you  and \nNorman draw on reserves of additional strength to force your \nway through the torrent. Afterward, weary from the ordeal, you \ncrawl from the stream and rest upon the black sand around it.",
+      "sourceLocation": "pdf:visual:[[46,59],[46,60],[46,61],[46,62]]"
+    },
+    {
+      "id": "226:p2",
+      "kind": "body",
+      "text": "When you catch your breath, you notice that the atmosphere \nis  more  like  Florida  than  Canada.  The  flora  is  completely \nstrange. Gone are the bearberries, the firs, the subarctic shrubs. \nTales come back to you, yarns of an enclave warmed by hot \nsprings and the Chinook winds. Could the legend be true? But \nfor now, Sylvia’s rescue is paramount.",
+      "sourceLocation": "pdf:visual:[[46,63],[46,64],[46,65],[46,66],[46,67],[46,68]]"
+    },
+    {
+      "id": "226:p3",
+      "kind": "body",
+      "text": "Make a Track roll: if you succeed, go to 276; if you fail, go to 277. ",
+      "sourceLocation": "pdf:visual:[[46,69]]"
+    },
+    {
+      "id": "226:p4",
+      "kind": "trace",
+      "text": "(188)",
+      "sourceLocation": "pdf:visual:[[46,70]]"
+    }
+  ]
+}

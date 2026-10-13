@@ -1,0 +1,30 @@
+{
+  "id": "588",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "588:p0",
+      "kind": "heading",
+      "text": "588",
+      "sourceLocation": "pdf:visual:[[100,5]]"
+    },
+    {
+      "id": "588:p1",
+      "kind": "body",
+      "text": "The hunters look up in surprise as you and your party come out \ninto the open. You raise a hand in peace.",
+      "sourceLocation": "pdf:visual:[[100,6],[100,7]]"
+    },
+    {
+      "id": "588:p2",
+      "kind": "body",
+      "text": "Make an Anthropology roll: if you succeed, go to 589; if you fail, \ngo to 560.",
+      "sourceLocation": "pdf:visual:[[100,8],[100,9]]"
+    },
+    {
+      "id": "588:p3",
+      "kind": "trace",
+      "text": "(587)",
+      "sourceLocation": "pdf:visual:[[100,10]]"
+    }
+  ]
+}

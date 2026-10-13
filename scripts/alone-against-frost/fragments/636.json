@@ -1,0 +1,30 @@
+{
+  "id": "636",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "636:p0",
+      "kind": "heading",
+      "text": "636",
+      "sourceLocation": "pdf:visual:[[106,47]]"
+    },
+    {
+      "id": "636:p1",
+      "kind": "body",
+      "text": "The cold blast did not hurt Bernard as badly as you feared. \nHelped  to  the  shelter  of  a  nearby  glade,  he  warms  up  and \nrecovers his strength. You can explore further. But can you risk \nthe return of the mysterious flying being?",
+      "sourceLocation": "pdf:visual:[[106,48],[106,49],[106,50],[106,51]]"
+    },
+    {
+      "id": "636:p2",
+      "kind": "body",
+      "text": "To explore the valley, go to 645. To leave it, go to 613.",
+      "sourceLocation": "pdf:visual:[[106,52]]"
+    },
+    {
+      "id": "636:p3",
+      "kind": "trace",
+      "text": "(634, 639)",
+      "sourceLocation": "pdf:visual:[[106,53]]"
+    }
+  ]
+}

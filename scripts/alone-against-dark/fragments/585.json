@@ -1,0 +1,18 @@
+{
+  "id": "585",
+  "document": "Alone Against the Dark Defying the Triumph of the Ice (A Solo Play Call of Cthulhu Mini Campaign) Chaosium Publication 23154 (Matthew Costello, Mike Mason, Petr Štovik etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "585:p0",
+      "kind": "heading",
+      "text": "585  \n",
+      "sourceLocation": "pdf:spans:[[90,2787,2793]]"
+    },
+    {
+      "id": "585:p1",
+      "kind": "body",
+      "text": "HOSPIT AL\nYou get tender loving care. Make a Luck roll: if failed, you gain \n1D3 hit points for the first day, and then 1 hit point each full \nday that you stay thereafter; if successful, you gain 2D3 hit points \nfor the first day, and then 1 hit point each full day that you stay \nthereafter. You may only regain hit points up to your normal \nstarting hit point amount.\nThen go to any location on your current location table:\n• Arkham Location Table.\n• New York Location Table.\n• Athens Location Table.\n• Egypt Location Table.\n• Bremen Location Table.\n• The Dark Sea, go to 480.\n• Antarctic Base Camp, go to 520.",
+      "sourceLocation": "pdf:spans:[[90,2787,3406]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "152",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "152:p0",
+      "kind": "heading",
+      "text": "152\n",
+      "sourceLocation": "pdf:spans:[[50,1248,1252]]"
+    },
+    {
+      "id": "152:p1",
+      "kind": "body",
+      "text": "You are locked in a desperate struggle with Joshua. Both of \nyou are fighting for your life, scrambling to make use of the \nhandgun that could so quickly put an end to the conflict.\n",
+      "sourceLocation": "pdf:spans:[[50,1252,1313],[50,1313,1376],[50,1376,1434]]"
+    },
+    {
+      "id": "152:p2",
+      "kind": "body",
+      "text": "Despite your best efforts, you lose the battle. Joshua clutches \nthe gun tightly and rams it into your chest, pulling the trigger \nseveral times and ending your life.\nYou have met a mercifully swift death. Those who remain in Esbury \nwill not be so lucky. You may always attempt the story again but, for \nnow, your visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[50,1434,1499],[50,1499,1565],[50,1565,1601],[50,1603,1670],[50,1670,1741],[50,1741,1786]]"
+    },
+    {
+      "id": "152:p3",
+      "kind": "body",
+      "text": "(112, 132)\n",
+      "sourceLocation": "pdf:spans:[[50,1786,1797]]"
+    }
+  ]
+}

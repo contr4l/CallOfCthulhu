@@ -1,0 +1,48 @@
+{
+  "id": "220",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "220:p0",
+      "kind": "heading",
+      "text": "220\n",
+      "sourceLocation": "pdf:spans:[[71,44,48]]"
+    },
+    {
+      "id": "220:p1",
+      "kind": "body",
+      "text": "Exhaustion overtakes you. You lean back, close your eyes, and \ndrift into a deep slumber.\n",
+      "sourceLocation": "pdf:spans:[[71,48,111],[71,111,138]]"
+    },
+    {
+      "id": "220:p2",
+      "kind": "body",
+      "text": "Your sleep is disturbed by strange and horrific dreams. You \nsee a shining city of marble, onyx, and lustrous gems. You see \nthis magnificent city in all its splendor, sitting next to a placid \nlake. And then, in an instant, it’s gone as the water rises up to \nswallow it. The lizard-thing of the idol, given life and power, \nsurges up from the water. The being eyes you with malicious \nsentience as the waters swell and consume you.\n",
+      "sourceLocation": "pdf:spans:[[71,138,199],[71,199,263],[71,263,332],[71,332,399],[71,399,464],[71,464,525],[71,525,572]]"
+    },
+    {
+      "id": "220:p3",
+      "kind": "body",
+      "text": "You exist in this state for what feels like an eternity, drifting \nthrough the sunken ruins alongside the horrible lizard-thing. \nIt eyes you closely, scrutinizing your every motion. But it never \nacts, merely watches you with checked malevolence. As you \nstare into its eyes, you begin to wish it would simply consume \nyou so you wouldn’t have to be under its watchful gaze any \nlonger. This becomes a maddening desire, and you find yourself \nwillingly swimming toward the thing. It opens its jaws to \nreceive you, revealing row after row of needle-like teeth. Just as \nyou’re about to offer yourself to the creature, you finally wake.\n",
+      "sourceLocation": "pdf:spans:[[71,572,639],[71,639,702],[71,702,769],[71,769,828],[71,828,892],[71,892,952],[71,952,1016],[71,1016,1075],[71,1075,1143],[71,1143,1209]]"
+    },
+    {
+      "id": "220:p4",
+      "kind": "body",
+      "text": "You find yourself dangling over the edge of the belfry, about \nto roll into the flooded town below and lose yourself in the \nwaters. You quickly pull back toward the center of the platform \nfor safety. Glancing back at the peaceful, flooded lake, you \nnotice a small group of boats floating amid the ruins, searching \nfor survivors. You quickly call out to them, and it isn’t long \nbefore you’re helped into a boat.\n",
+      "sourceLocation": "pdf:spans:[[71,1209,1272],[71,1272,1334],[71,1334,1399],[71,1399,1461],[71,1461,1527],[71,1527,1591],[71,1591,1625]]"
+    },
+    {
+      "id": "220:p5",
+      "kind": "body",
+      "text": "As you’re taken to shore, the authorities question you about \nwhat happened here. You explain what you can—the believable \nbits, at least. Once you make land, you’re quickly taken to \nBoston to recover. Over the next few days, you confer with the \nauthorities a few more times and find that you’re the incident’s \nonly survivor. You’re relieved to have escaped with your life, but \nthe memory of what happened there will haunt you forever.\nCongratulations, you have survived the horrific events of Alone \nAgainst the Tide. You may save this character for future use in \nanother Call of Cthulhu game, though you do lose 1D6 Sanity points \nas a result of the terrible things that occurred during this adventure. \nYour visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[71,1625,1687],[71,1687,1748],[71,1748,1809],[71,1809,1873],[71,1873,1939],[71,1939,2007],[71,2007,2065],[71,2067,2132],[71,2132,2197],[71,2197,2265],[71,2265,2338],[71,2338,2378]]"
+    },
+    {
+      "id": "220:p6",
+      "kind": "body",
+      "text": "(235)\n",
+      "sourceLocation": "pdf:spans:[[71,2378,2384]]"
+    }
+  ]
+}

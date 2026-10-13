@@ -1,0 +1,42 @@
+{
+  "id": "12",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "12:p0",
+      "kind": "heading",
+      "text": "12\n",
+      "sourceLocation": "pdf:spans:[[12,2064,2067]]"
+    },
+    {
+      "id": "12:p1",
+      "kind": "body",
+      "text": "You settle into a seat with your thin briefcase resting on \nyour lap, noticing that the rest of the passengers are likewise \ngetting comfortable for the short trip across the lake. Glancing \naround, you catch sight of the ferryman entering the cabin. As \nyou sit patiently and wait for the engine to come to life, you \nlisten to the sounds of idle chatter around you. You look out \nacross the water and notice a thin fog beginning to form over \nthe surface of the water as the temperature drops with the \napproach of night.\n",
+      "sourceLocation": "pdf:spans:[[12,2067,2127],[12,2127,2192],[12,2192,2258],[12,2258,2322],[12,2322,2386],[12,2386,2449],[12,2449,2512],[12,2512,2572],[12,2572,2591]]"
+    },
+    {
+      "id": "12:p2",
+      "kind": "body",
+      "text": "After a few minutes, you hear the engine sputter into action \nand feel the ferry lurch forward. The conversations around you \ncontinue as the ferryman joins you all on deck. You can’t help \noverhearing most of the talk, though it’s surprisingly banal. \nThere are almost a dozen passengers on the ferry; most of them \nare simply looking to spend their money during their weekend \nin Esbury and to enjoy the various shops and leisure activities \nthe lakeside town has to offer. Many of the passengers seem to \ncome from money, as is common in Esbury.\n",
+      "sourceLocation": "pdf:spans:[[12,2591,2653],[12,2653,2717],[12,2717,2781],[12,2781,2844],[12,2844,2908],[12,2908,2970],[12,2970,3035],[12,3035,3099],[12,3099,3140]]"
+    },
+    {
+      "id": "12:p3",
+      "kind": "body",
+      "text": "You notice a strange look from one of the women in the \ngroup. She has a full figure and brown hair and eyes. She seems \nto be looking you over, admiring your features.\nIf you are creating your own investigator—at the top of your \ninvestigator sheet, you will find spaces for eight characteristics: \nStrength (STR), Constitution (CON), Power (POW), Dexterity \n(DEX), Appearance (APP), Size (SIZ), Intelligence (INT), and \nEducation (EDU). Allocate the following values among your \ncharacteristics: 40, 50, 50, 50, 60, 60, 70, 80. When you’ve chosen \nwhich values to associate with each characteristic, write them in the \nlarge square beside the relevant characteristic. In the smaller squares \nnext to this, write an amount equal to half the characteristic value \nand an amount equal to one-fifth of the characteristic value. If \nyou need more information about what these characteristics mean, \nconsult Book Two, page 7 of the Call of Cthulhu Starter Set or \npages 30–31 of the Call of Cthulhu: Keeper Rulebook.\nIf you are using the pre-generated investigator, Dr. Woods—take a \nlook at how their characteristics have been assigned. The half and \nfifth values have already been calculated for you. If you need more \ninformation about what these characteristics mean, consult Book \nTwo, page 7 of the Call of Cthulhu Starter Set or pages 30–31 of \nthe Call of Cthulhu: Keeper Rulebook.\n",
+      "sourceLocation": "pdf:spans:[[12,3140,3196],[12,3196,3261],[12,3261,3309],[12,3309,3371],[12,3371,3440],[12,3440,3500],[12,3500,3562],[12,3562,3621],[12,3621,3690],[12,3690,3761],[12,3761,3834],[12,3834,3904],[12,3904,3970],[12,3970,4036],[12,4036,4100],[12,4100,4153],[12,4153,4220],[12,4220,4288],[12,4288,4357],[12,4357,4422],[12,4422,4488],[12,4488,4526]]"
+    },
+    {
+      "id": "12:p4",
+      "kind": "body",
+      "text": "• Go to 80.\n",
+      "sourceLocation": "pdf:spans:[[12,4526,4538]]"
+    },
+    {
+      "id": "12:p5",
+      "kind": "body",
+      "text": "(1)",
+      "sourceLocation": "pdf:spans:[[12,4538,4541]]"
+    }
+  ]
+}

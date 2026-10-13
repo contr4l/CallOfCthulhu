@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "128"
+  ],
+  "text": [
+    "你仔细查看这座不同寻常的祭坛。除了体积巨大外，最显眼的是表面镶嵌着许多宝石。它们呈黄绿色，即使在昏暗的房间里也闪闪发亮。",
+    "你还注意到物体侧面用粗笔画写着奇怪的文字。符号涂抹得乱七八糟，似乎写得很匆忙。仔细查看后，你发现原以为是颜料的东西其实是干涸的血迹。",
+    "虽然不能确定，但这件东西似乎与某场悲剧有关。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 128",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 128",
+      "text": [
+        "You examine the extraordinary altar. The most readily apparent feature, beyond its size, are the many gemstones set into its surface. They are of a greenish-yellow color and shine even in the half-light of the room.",
+        "You also notice strange lettering written in broad strokes along the object’s side. The symbols are smeared and sloppily done, suggesting they were written with some haste. What you had originally taken for paint is, upon closer examination, dried blood.",
+        "While you cannot be certain, it would appear that this item has been involved in some tragedy."
+      ]
+    }
+  }
+}

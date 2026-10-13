@@ -1,0 +1,36 @@
+{
+  "id": "589",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "589:p0",
+      "kind": "heading",
+      "text": "589",
+      "sourceLocation": "pdf:visual:[[100,11]]"
+    },
+    {
+      "id": "589:p1",
+      "kind": "body",
+      "text": "One  man,  who  seems  to  be  the  hunt  leader,  returns  your \ngreeting, his eyes wary. A brief exchange of questions gains you \nthe information that this group is part of a hunting party, as \nyou guessed. Their speech is a mixture of their native dialect \npeppered  with  English  words  for  your  benefit.  They  shun \ncontact with the white authorities and never go to the fort. \nThey do, however, admire your rifle.",
+      "sourceLocation": "pdf:visual:[[100,12],[100,13],[100,14],[100,15],[100,16],[100,17],[100,18]]"
+    },
+    {
+      "id": "589:p2",
+      "kind": "body",
+      "text": "If you wish to leave the wilderness, the group will guide you \nto within sight of Fort McDonald in exchange for your firearm.",
+      "sourceLocation": "pdf:visual:[[100,19],[100,20]]"
+    },
+    {
+      "id": "589:p3",
+      "kind": "body",
+      "text": "To  make  the  trade,  go  to  433.  To  thank  them  but  decline  and \ncontinue on your way, go to 513. ",
+      "sourceLocation": "pdf:visual:[[100,21],[100,22]]"
+    },
+    {
+      "id": "589:p4",
+      "kind": "trace",
+      "text": "(588, 592)",
+      "sourceLocation": "pdf:visual:[[100,23]]"
+    }
+  ]
+}

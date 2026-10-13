@@ -1,0 +1,30 @@
+{
+  "id": "199",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "199:p0",
+      "kind": "heading",
+      "text": "199",
+      "sourceLocation": "pdf:visual:[[43,2]]"
+    },
+    {
+      "id": "199:p1",
+      "kind": "body",
+      "text": "Few researchers have had to make such a desperate decision. It \nis natural that you hesitate. Alas, while you do, the man with \nthe  blade  swings  it  with  surprising  strength.  Bernard  barely \nmakes a sound. His head drops to the moss carpet beneath his \nbody and rolls aside.",
+      "sourceLocation": "pdf:visual:[[43,4],[43,6],[43,7],[43,9],[43,10]]"
+    },
+    {
+      "id": "199:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you succeed, go to 239; if you fail, lose 1D6 \nSanity and go to 238.",
+      "sourceLocation": "pdf:visual:[[43,12],[43,14]]"
+    },
+    {
+      "id": "199:p3",
+      "kind": "trace",
+      "text": "(133)",
+      "sourceLocation": "pdf:visual:[[43,15]]"
+    }
+  ]
+}

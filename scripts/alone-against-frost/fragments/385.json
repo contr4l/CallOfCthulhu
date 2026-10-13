@@ -1,0 +1,30 @@
+{
+  "id": "385",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "385:p0",
+      "kind": "heading",
+      "text": "385",
+      "sourceLocation": "pdf:visual:[[69,55]]"
+    },
+    {
+      "id": "385:p1",
+      "kind": "body",
+      "text": "You hit the water at a bad angle and swallow a mouthful of \nit.  Everything  becomes  murky.  You  cannot  be  sure  which \ndirection is up.",
+      "sourceLocation": "pdf:visual:[[69,56],[69,57],[69,58]]"
+    },
+    {
+      "id": "385:p2",
+      "kind": "body",
+      "text": "Take 1D8 in damage. Then, attempt a Hard Swim roll to reach \nthe shore—you may try multiple times, but each time you fail, you \nsuffer 1D3 damage. If you survive, go to 397. If you drown, the \nNadelmann Expedition is over. THE END. ",
+      "sourceLocation": "pdf:visual:[[69,59],[69,60],[69,61],[69,62]]"
+    },
+    {
+      "id": "385:p3",
+      "kind": "trace",
+      "text": "(383)",
+      "sourceLocation": "pdf:visual:[[69,63]]"
+    }
+  ]
+}

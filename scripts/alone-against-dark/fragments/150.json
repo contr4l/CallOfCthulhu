@@ -1,0 +1,18 @@
+{
+  "id": "150",
+  "document": "Alone Against the Dark Defying the Triumph of the Ice (A Solo Play Call of Cthulhu Mini Campaign) Chaosium Publication 23154 (Matthew Costello, Mike Mason, Petr Štovik etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "150:p0",
+      "kind": "heading",
+      "text": "150 \n",
+      "sourceLocation": "pdf:spans:[[32,1380,1385]]"
+    },
+    {
+      "id": "150:p1",
+      "kind": "body",
+      "text": "Y ou enter and cautiously turn on a light to see a room in proper \nprofessorial confusion. Scattered about are books of myths and \nfables, and there are bundles of clippings from various foreign \nnewspapers. For each hour you spend here, you can attempt \none roll for one of the following skills. Each skill may be tried \nonce daily.\nFor a successful Astronomy roll, go to 24.\nFor a successful Science (Cryptography) roll, go to 29.\nFor a successful Cthulhu Mythos roll, go to 121.\nFor a successful INT roll, go to 32.\nFor a successful Luck roll, go to 49. \nFor a successful Spot Hidden roll, go to 72. \nFinished? You may try a Stealth roll to sneak out, no matter \nwhat the hour; if you fail, go to 51. If you succeed, go to any \nArkham Location.\n(24, 29, 32, 51, 52, 53, 67, 68, 72, 121, 124, 188, 208, 212, 282)\n",
+      "sourceLocation": "pdf:spans:[[32,1380,2200]]"
+    }
+  ]
+}

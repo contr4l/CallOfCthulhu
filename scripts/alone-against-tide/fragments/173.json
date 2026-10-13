@@ -1,0 +1,48 @@
+{
+  "id": "173",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "173:p0",
+      "kind": "heading",
+      "text": "173\n",
+      "sourceLocation": "pdf:spans:[[55,1502,1506]]"
+    },
+    {
+      "id": "173:p1",
+      "kind": "body",
+      "text": "You cannot gather the courage to leave the safety you’ve found. \nStill, you won’t sit completely helpless. You pull a chair from the \nhotel’s common area and barricade the lobby door. You close the \nshutters on the windows. You gather what weapons you have on \nhand, and you wait, hypervigilant against what is to come.\n",
+      "sourceLocation": "pdf:spans:[[55,1506,1571],[55,1571,1640],[55,1640,1705],[55,1705,1767],[55,1767,1826]]"
+    },
+    {
+      "id": "173:p2",
+      "kind": "body",
+      "text": "For nearly an hour, you pace the common area nervously. You \nalmost talk yourself into believing that your earlier experience \nwas a hallucination until the water begins to seep in beneath \nthe door. Esbury is flooding. You seriously begin to question \nyour decision to remain, but you realize that it’s too late to \nchoose any alternatives at this point. You grit your teeth and \nprepare for the worst.\n",
+      "sourceLocation": "pdf:spans:[[55,1826,1887],[55,1887,1953],[55,1953,2016],[55,2016,2079],[55,2079,2143],[55,2143,2207],[55,2207,2230]]"
+    },
+    {
+      "id": "173:p3",
+      "kind": "body",
+      "text": "You’re about to head upstairs when you hear the pounding at \nthe door. Something is trying to force its way inside. You tighten \nyour grip on your weapon and prepare to stand and fight.\n",
+      "sourceLocation": "pdf:spans:[[55,2230,2291],[55,2291,2359],[55,2359,2416]]"
+    },
+    {
+      "id": "173:p4",
+      "kind": "body",
+      "text": "• If you have a gun, make a Firearms (Handgun) roll: if you succeed, \ngo to 217: if you fail, go to 192.\n",
+      "sourceLocation": "pdf:spans:[[55,2418,2488],[55,2488,2523]]"
+    },
+    {
+      "id": "173:p5",
+      "kind": "body",
+      "text": "• If you do not have a firearm, go to 225.\n",
+      "sourceLocation": "pdf:spans:[[55,2523,2566]]"
+    },
+    {
+      "id": "173:p6",
+      "kind": "body",
+      "text": "(83, 223)\n",
+      "sourceLocation": "pdf:spans:[[55,2566,2576]]"
+    }
+  ]
+}

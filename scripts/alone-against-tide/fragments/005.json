@@ -1,0 +1,66 @@
+{
+  "id": "5",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "5:p0",
+      "kind": "heading",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[10,2598,2600]]"
+    },
+    {
+      "id": "5:p1",
+      "kind": "body",
+      "text": "You call out to Joshua to explain himself, half expecting that \nhe will simply brush you off. Surprisingly, he turns in your \ndirection and steps toward you.\n",
+      "sourceLocation": "pdf:spans:[[10,2600,2664],[10,2664,2726],[10,2726,2758]]"
+    },
+    {
+      "id": "5:p2",
+      "kind": "body",
+      "text": "As Joshua moves closer to you, you can once again make \nout his features despite the fog. You see now that he is visibly \nred in the face and his eyes are bloodshot. He is clearly livid. \nHis hand darts beneath his coat and reemerges holding a Colt \nM1911, which he points directly at you while speaking in an \nagitated manner.\n",
+      "sourceLocation": "pdf:spans:[[10,2758,2814],[10,2814,2880],[10,2880,2946],[10,2946,3008],[10,3008,3069],[10,3069,3086]]"
+    },
+    {
+      "id": "5:p3",
+      "kind": "body",
+      "text": "“What the hell is your problem?! I threaten you and you come \nback for more?! Do you have a death wish?! Leave Amelia alone! \nI’ve been about this for far too long for you to wander into town and \nruin it for me!”\n",
+      "sourceLocation": "pdf:spans:[[10,3086,3148],[10,3148,3212],[10,3212,3283],[10,3283,3300]]"
+    },
+    {
+      "id": "5:p4",
+      "kind": "body",
+      "text": "He shoves you back and levels the gun at your face, looking \nyou dead in the eyes with sweat on his brow. He grits his teeth, \npanting and huffing for a second before holstering the gun and \nbracing himself against a nearby building.\n",
+      "sourceLocation": "pdf:spans:[[10,3300,3361],[10,3361,3427],[10,3427,3491],[10,3491,3534]]"
+    },
+    {
+      "id": "5:p5",
+      "kind": "body",
+      "text": "“Get the hell out of my sight. If I have to look at that goddam face \nof yours for one more second, I’ll put another hole in it.”\n",
+      "sourceLocation": "pdf:spans:[[10,3534,3604],[10,3604,3664]]"
+    },
+    {
+      "id": "5:p6",
+      "kind": "body",
+      "text": "You see no reason to further provoke Joshua, and you \nhurriedly leave him where he is.\n",
+      "sourceLocation": "pdf:spans:[[10,3664,3718],[10,3718,3751]]"
+    },
+    {
+      "id": "5:p7",
+      "kind": "body",
+      "text": "• To press on to the Harris house, go to 55.\n",
+      "sourceLocation": "pdf:spans:[[10,3751,3796]]"
+    },
+    {
+      "id": "5:p8",
+      "kind": "body",
+      "text": "• If you feel that this investigation is not worth the risk and want \nto return to the hotel, go to 122.\n",
+      "sourceLocation": "pdf:spans:[[10,3796,3866],[10,3866,3901]]"
+    },
+    {
+      "id": "5:p9",
+      "kind": "body",
+      "text": "(90)",
+      "sourceLocation": "pdf:spans:[[10,3901,3905]]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "617",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "617:p0",
+      "kind": "heading",
+      "text": "617",
+      "sourceLocation": "pdf:visual:[[103,62]]"
+    },
+    {
+      "id": "617:p1",
+      "kind": "body",
+      "text": "The valley opens into grassy meadows, upon which numerous \nherds of hoofed mammals graze—while predators skulk nearby, \nhoping to isolate one who is old, young, or sick.",
+      "sourceLocation": "pdf:visual:[[103,63],[103,64],[103,65]]"
+    },
+    {
+      "id": "617:p2",
+      "kind": "body",
+      "text": "Despite your limited background in paleontology, the sight \nof these creatures astonishes you. It does not require expertise \nto recognize that early varieties of horse, camel, and bison—as \nwell as elephant, rhinoceros, and beasts with no close modern \nrelative—exist here, now, as they did in earlier epochs.",
+      "sourceLocation": "pdf:visual:[[103,66],[103,67],[103,68],[103,69],[103,70]]"
+    },
+    {
+      "id": "617:p3",
+      "kind": "body",
+      "text": "A shape bounds out of the high grass in front of Bernard. \nYou glimpse a humpless camel about the size of a large deer, \ndoubtless flushed from the meadow by a carnivore. Impulsively, \nBernard lifts his rifle and fires. The beast gives a squeal of pain \nand lurches away. Rather than lose his kill and the trophy you \nrequire, Bernard bounds after it.",
+      "sourceLocation": "pdf:visual:[[103,71],[103,72],[103,73],[103,74],[103,75],[103,76]]"
+    },
+    {
+      "id": "617:p4",
+      "kind": "body",
+      "text": "He does not realize that his shot has fallen like a thunderclap \namong the animals of the plain. Their frightened cries echo \nthrough the air and they begin to stampede. Too late, Bernard \nrealizes that he stands in the path of a charging herd of long-\nhorned bison. He spins and races back the way he came.",
+      "sourceLocation": "pdf:visual:[[103,77],[103,78],[103,79],[103,80],[103,81]]"
+    },
+    {
+      "id": "617:p5",
+      "kind": "body",
+      "text": "Despite his danger, you cannot pause to help him. You are \nall in peril. Only the nearby woods afford refuge from the tide \nof horns, antlers, and hooves. The rest of you run for the trees, \nfeeling something like an earthquake beneath your soles.",
+      "sourceLocation": "pdf:visual:[[103,82],[103,83],[103,84],[103,85]]"
+    },
+    {
+      "id": "617:p6",
+      "kind": "body",
+      "text": "Make a DEX roll for Bernard: if he succeeds, go to 618; if he fails, \ngo to 619.",
+      "sourceLocation": "pdf:visual:[[103,86],[103,87]]"
+    },
+    {
+      "id": "617:p7",
+      "kind": "trace",
+      "text": "(608)",
+      "sourceLocation": "pdf:visual:[[103,88]]"
+    }
+  ]
+}

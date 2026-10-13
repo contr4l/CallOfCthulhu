@@ -1,0 +1,30 @@
+{
+  "id": "581",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "581:p0",
+      "kind": "heading",
+      "text": "581",
+      "sourceLocation": "pdf:visual:[[99,36]]"
+    },
+    {
+      "id": "581:p1",
+      "kind": "body",
+      "text": "Your party heeds the warning and ducks behind a large fallen tree. \nSeveral men emerge from the trees to the west. You recognize \nNative hunters—probably of the Tsuut’ina; however, their rifles \nare antique and their gear less sophisticated than the Tsuut’ina \nyou have met before. Charlie said something about an outcast \ngroup—could these be the hunters she mentioned?",
+      "sourceLocation": "pdf:visual:[[99,37],[99,38],[99,39],[99,40],[99,41],[99,42]]"
+    },
+    {
+      "id": "581:p2",
+      "kind": "body",
+      "text": "To stride out of cover and greet them, go to 560. To stay hidden, \nmake a Stealth roll for the least-stealthy member of the party: if \nsuccessful, go to 582; if failed, go to 584.",
+      "sourceLocation": "pdf:visual:[[99,43],[99,44],[99,45]]"
+    },
+    {
+      "id": "581:p3",
+      "kind": "trace",
+      "text": "(569)",
+      "sourceLocation": "pdf:visual:[[99,46]]"
+    }
+  ]
+}

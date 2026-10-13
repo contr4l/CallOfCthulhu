@@ -1,0 +1,54 @@
+{
+  "id": "164",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "164:p0",
+      "kind": "heading",
+      "text": "164\n",
+      "sourceLocation": "pdf:spans:[[53,44,48]]"
+    },
+    {
+      "id": "164:p1",
+      "kind": "body",
+      "text": "You hurry through the shrouded streets and take refuge in the \nchurch. The door creaks abominably as you enter, so there’s no \nchance of slipping in unnoticed.\n",
+      "sourceLocation": "pdf:spans:[[53,48,111],[53,111,175],[53,175,208]]"
+    },
+    {
+      "id": "164:p2",
+      "kind": "body",
+      "text": "You find yourself in a large chapel, with hand-carved pews \nflanking you on either side. These continue for several rows \nuntil they reach a pulpit from which the priest would normally \nconduct services. With the last of the fog-filtered daylight \nfading through the stained-glass windows, you are aware that \nthese are not the hours of a typical service. The church is open \nto the public during off-times, but the sole occupants are \nyourself and Amelia, who’s taken a seat in the front row and is \npraying with her head bowed.\n",
+      "sourceLocation": "pdf:spans:[[53,208,268],[53,268,330],[53,330,394],[53,394,456],[53,456,518],[53,518,584],[53,584,644],[53,644,709],[53,709,738]]"
+    },
+    {
+      "id": "164:p3",
+      "kind": "body",
+      "text": "She does not lift her gaze as you take a seat next to her. \nYou sit for a minute and allow her time to finish her prayers. \nYou need information from her, but you’re respectful of her \ndevotions.\n",
+      "sourceLocation": "pdf:spans:[[53,738,798],[53,798,862],[53,862,923],[53,923,934]]"
+    },
+    {
+      "id": "164:p4",
+      "kind": "body",
+      "text": "Finally, she opens her eyes and looks at you, sighing softly \nas she does so. She looks somewhat nervous, and the color \ndrains from her face. “W-what is it you want? You’re not \nsupposed to be here.”\n",
+      "sourceLocation": "pdf:spans:[[53,934,996],[53,996,1055],[53,1055,1113],[53,1113,1135]]"
+    },
+    {
+      "id": "164:p5",
+      "kind": "body",
+      "text": "• To press for more information about Prof. Harris’ death, go to 54.\n",
+      "sourceLocation": "pdf:spans:[[53,1137,1206]]"
+    },
+    {
+      "id": "164:p6",
+      "kind": "body",
+      "text": "• To ask about Joshua, go to 130.\n",
+      "sourceLocation": "pdf:spans:[[53,1206,1240]]"
+    },
+    {
+      "id": "164:p7",
+      "kind": "body",
+      "text": "(147)\n",
+      "sourceLocation": "pdf:spans:[[53,1240,1246]]"
+    }
+  ]
+}

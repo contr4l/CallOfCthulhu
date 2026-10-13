@@ -1,0 +1,18 @@
+{
+  "id": "101",
+  "document": "Alone Against the Dark Defying the Triumph of the Ice (A Solo Play Call of Cthulhu Mini Campaign) Chaosium Publication 23154 (Matthew Costello, Mike Mason, Petr Štovik etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "101:p0",
+      "kind": "heading",
+      "text": "101\n",
+      "sourceLocation": "pdf:spans:[[26,26,30]]"
+    },
+    {
+      "id": "101:p1",
+      "kind": "body",
+      "text": "MODERATE HOTEL\nThis hotel offers a clean room and a quiet night of sleep. If you \nspend a second night here, go to 26; otherwise, go to an Athens \nor Egypt location the following morning (as appropriate) on the \nAthens or Egypt Location Tables.\n(Athens Location or Egypt Location, as appropriate)\n",
+      "sourceLocation": "pdf:spans:[[26,26,327]]"
+    }
+  ]
+}

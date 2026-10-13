@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "71"
+  ],
+  "text": [
+    "你告诉那男人自己是来游玩的，不是来办事的。你朝他微笑，他也报以微笑。“和其他人一样啊？”他回答，“我可不怪你——埃斯伯里是个不错的小地方。湖上有许多活动：划船、钓鱼、游泳。镇子另一边还能露营。码头附近还有个不错的舞厅，不过今晚会关门，因为要拍卖哈里斯教授的遗物。你要是手头宽裕，也许会对拍卖感兴趣。”男人停了一会儿，似乎不确定该说什么，最后才伸出手，热情地笑了笑。“对了，我叫兰斯·桑福德，很高兴认识你。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 71",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 71",
+      "text": [
+        "You tell the man that you’re here on pleasure, not business. You smile at him and he smiles back. “Like so many others then, eh?” he replies. “Can’t say I blame you—Esbury is a nice little place. Lots to do here on the lake. Boating, fishing, swimming. And there’s some camping to be had on the other side of town. There’s also a nice dance hall close to the pier, but that will be closed for the night, what with that estate sale of Professor Harris’ things going on. That might interest you too, if you have a little extra money you’re looking to spend.” The man pauses for a moment, as if unsure of what to say, then finally extends his hand and smiles warmly. “I’m Lance Sanford, by the way. It’s a pleasure.”"
+      ]
+    }
+  }
+}

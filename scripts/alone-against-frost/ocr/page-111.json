@@ -1,0 +1,4196 @@
+{
+  "pdfPage": 111,
+  "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+  "renderDpi": 250,
+  "engine": "tesseract 5.5.0",
+  "language": "eng",
+  "pageSegmentationMode": 6,
+  "ocrText": "Ni aos EAA MVESTGATOS Ber at i CHARACTERISTICS ee ee j ie R Dr. L.C. Nadel NN , ——— eee oR 2 OO ——— 13 | (14) des 18 | if * Occupation Anthropologist, MU 42) ES 40) s\\ hee > sea____ CON | 88/47] APP_ 70/77) POW 80 (76) id Arkham, MA mace | ou vo 3 DU v0 se Birthplace —___ (14) Know 18 | Rate 0] 01 02 ae fos 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 2 facenat ts 04 os| 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 Zz Ecc _ |54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 a 0 07 08 09 10 77 78 79 @Q 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 | eee é§CTHOUL cD — FS 00 01 02 03 04 | > See Out ofLuck 01 02 03 04 05 06 07 05 06 O7 O8 o9 3 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 a ok oe a & 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53| 3 5; 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 ys @ 17 18 Ma | _77 78 79 80 81 82 83 843 86 87 88 89 90 91 92 93 94 95 96 97 98 99| =| 20 21 22 23 24! ee es INVESTICAIORIGRELSE = 5. C7 Accounting (05%) [ AB (7 hast alk(052) [BA C7 law (052) LB Fy Science (or = (77 Anthropology (01%) [ (77 Fighting (Brawl) (25%) [ B (71 Library Use (20%) [ B Oo [ CArhaeclegior) | [4g | fy Clecksmith orm — | FC Sleghtoftand ox | |} BE ROE, i mawatwerdtos [FY cofarmatcs) | 71 Cham (15%) | H (71 first Aid (30%) [| H (77 Navigate (10%) | H (77 Swim (20%) | H C7 Climb (20%) [ H 1 History (05%) LH (7 Occult (05%) | H CT Throw (20%) [| A Credit Rating (00%) C77 intimidate (15%) | A 1 Op.thMachine(ore)| |} CT Track (10%) [A Cahulhu Mythos(oo%) | |} 7 Jump (20%) [ A C7 Persuade (10%) [ o |B TF dedgettooy |) 0 A Orydcegiocy) $= 4 O LH 7 Drive Auto (20%) [ HB o [ 17 Psychoanalysis (01%) [ qo LH Weapon Regular Hard Extreme cis; Range Attacks =~ Ammo Mall, Unarmed idz + db - 1 : - Damage +1D4 Hatchet 1d6+1+4db : 1 : : Bonus Knife (Medium) 1d44+2+db fs 1 , : Build .30-06 Bolt-action Rifle 2d6+4 110 yds 1 5 100 =____ ke SSS A\\ ee i Ga.",
+  "words": [
+    {
+      "left": 56,
+      "top": 159,
+      "width": 69,
+      "height": 108,
+      "confidence": 29.088764,
+      "text": "Ni"
+    },
+    {
+      "left": 198,
+      "top": 149,
+      "width": 84,
+      "height": 24,
+      "confidence": 22.521301,
+      "text": "aos"
+    },
+    {
+      "left": 307,
+      "top": 146,
+      "width": 63,
+      "height": 33,
+      "confidence": 63.086529,
+      "text": "EAA"
+    },
+    {
+      "left": 396,
+      "top": 146,
+      "width": 218,
+      "height": 33,
+      "confidence": 0.0,
+      "text": "MVESTGATOS"
+    },
+    {
+      "left": 655,
+      "top": 164,
+      "width": 75,
+      "height": 42,
+      "confidence": 28.592081,
+      "text": "Ber"
+    },
+    {
+      "left": 761,
+      "top": 159,
+      "width": 35,
+      "height": 51,
+      "confidence": 37.171539,
+      "text": "at"
+    },
+    {
+      "left": 802,
+      "top": 144,
+      "width": 30,
+      "height": 58,
+      "confidence": 39.867306,
+      "text": "i"
+    },
+    {
+      "left": 844,
+      "top": 139,
+      "width": 589,
+      "height": 64,
+      "confidence": 46.885628,
+      "text": "CHARACTERISTICS"
+    },
+    {
+      "left": 1443,
+      "top": 159,
+      "width": 38,
+      "height": 41,
+      "confidence": 13.992167,
+      "text": "ee"
+    },
+    {
+      "left": 1512,
+      "top": 164,
+      "width": 74,
+      "height": 37,
+      "confidence": 21.019287,
+      "text": "ee"
+    },
+    {
+      "left": 2003,
+      "top": 166,
+      "width": 6,
+      "height": 22,
+      "confidence": 60.769508,
+      "text": "j"
+    },
+    {
+      "left": 2021,
+      "top": 159,
+      "width": 41,
+      "height": 108,
+      "confidence": 47.719345,
+      "text": "ie"
+    },
+    {
+      "left": 78,
+      "top": 214,
+      "width": 5,
+      "height": 6,
+      "confidence": 80.038712,
+      "text": "R"
+    },
+    {
+      "left": 287,
+      "top": 201,
+      "width": 32,
+      "height": 39,
+      "confidence": 89.988312,
+      "text": "Dr."
+    },
+    {
+      "left": 331,
+      "top": 214,
+      "width": 45,
+      "height": 22,
+      "confidence": 89.988312,
+      "text": "L.C."
+    },
+    {
+      "left": 418,
+      "top": 214,
+      "width": 37,
+      "height": 22,
+      "confidence": 96.050438,
+      "text": "Nadel"
+    },
+    {
+      "left": 666,
+      "top": 203,
+      "width": 15,
+      "height": 7,
+      "confidence": 0.0,
+      "text": "NN"
+    },
+    {
+      "left": 742,
+      "top": 202,
+      "width": 23,
+      "height": 8,
+      "confidence": 0.0,
+      "text": ","
+    },
+    {
+      "left": 1026,
+      "top": 200,
+      "width": 285,
+      "height": 12,
+      "confidence": 0.0,
+      "text": "———"
+    },
+    {
+      "left": 1339,
+      "top": 201,
+      "width": 243,
+      "height": 12,
+      "confidence": 53.164436,
+      "text": "eee"
+    },
+    {
+      "left": 2034,
+      "top": 199,
+      "width": 27,
+      "height": 31,
+      "confidence": 40.784058,
+      "text": "oR"
+    },
+    {
+      "left": 63,
+      "top": 291,
+      "width": 11,
+      "height": 5,
+      "confidence": 44.883301,
+      "text": "2"
+    },
+    {
+      "left": 194,
+      "top": 273,
+      "width": 53,
+      "height": 40,
+      "confidence": 0.0,
+      "text": "OO"
+    },
+    {
+      "left": 286,
+      "top": 268,
+      "width": 257,
+      "height": 83,
+      "confidence": 6.522942,
+      "text": "———"
+    },
+    {
+      "left": 868,
+      "top": 268,
+      "width": 55,
+      "height": 59,
+      "confidence": 41.327667,
+      "text": "13"
+    },
+    {
+      "left": 931,
+      "top": 268,
+      "width": 16,
+      "height": 59,
+      "confidence": 41.327667,
+      "text": "|"
+    },
+    {
+      "left": 1173,
+      "top": 272,
+      "width": 72,
+      "height": 43,
+      "confidence": 50.442093,
+      "text": "(14)"
+    },
+    {
+      "left": 1306,
+      "top": 293,
+      "width": 50,
+      "height": 25,
+      "confidence": 44.675068,
+      "text": "des"
+    },
+    {
+      "left": 1488,
+      "top": 268,
+      "width": 55,
+      "height": 60,
+      "confidence": 76.334778,
+      "text": "18"
+    },
+    {
+      "left": 1553,
+      "top": 268,
+      "width": 15,
+      "height": 60,
+      "confidence": 76.334778,
+      "text": "|"
+    },
+    {
+      "left": 2017,
+      "top": 284,
+      "width": 38,
+      "height": 32,
+      "confidence": 51.604942,
+      "text": "if"
+    },
+    {
+      "left": 90,
+      "top": 359,
+      "width": 12,
+      "height": 8,
+      "confidence": 0.0,
+      "text": "*"
+    },
+    {
+      "left": 193,
+      "top": 323,
+      "width": 159,
+      "height": 49,
+      "confidence": 96.86792,
+      "text": "Occupation"
+    },
+    {
+      "left": 369,
+      "top": 327,
+      "width": 186,
+      "height": 21,
+      "confidence": 96.506363,
+      "text": "Anthropologist,"
+    },
+    {
+      "left": 573,
+      "top": 327,
+      "width": 29,
+      "height": 21,
+      "confidence": 92.536438,
+      "text": "MU"
+    },
+    {
+      "left": 868,
+      "top": 323,
+      "width": 75,
+      "height": 60,
+      "confidence": 52.847233,
+      "text": "42)"
+    },
+    {
+      "left": 1169,
+      "top": 323,
+      "width": 75,
+      "height": 61,
+      "confidence": 20.249466,
+      "text": "ES"
+    },
+    {
+      "left": 1488,
+      "top": 323,
+      "width": 77,
+      "height": 61,
+      "confidence": 42.832985,
+      "text": "40)"
+    },
+    {
+      "left": 2022,
+      "top": 323,
+      "width": 32,
+      "height": 48,
+      "confidence": 0.0,
+      "text": "s\\"
+    },
+    {
+      "left": 192,
+      "top": 329,
+      "width": 53,
+      "height": 122,
+      "confidence": 17.995882,
+      "text": "hee"
+    },
+    {
+      "left": 279,
+      "top": 384,
+      "width": 72,
+      "height": 31,
+      "confidence": 31.472292,
+      "text": ">"
+    },
+    {
+      "left": 419,
+      "top": 384,
+      "width": 193,
+      "height": 41,
+      "confidence": 0.0,
+      "text": "sea____"
+    },
+    {
+      "left": 660,
+      "top": 359,
+      "width": 100,
+      "height": 38,
+      "confidence": 39.71489,
+      "text": "CON"
+    },
+    {
+      "left": 777,
+      "top": 329,
+      "width": 11,
+      "height": 122,
+      "confidence": 36.560284,
+      "text": "|"
+    },
+    {
+      "left": 808,
+      "top": 329,
+      "width": 143,
+      "height": 122,
+      "confidence": 36.560284,
+      "text": "88/47]"
+    },
+    {
+      "left": 977,
+      "top": 359,
+      "width": 89,
+      "height": 37,
+      "confidence": 45.809624,
+      "text": "APP_"
+    },
+    {
+      "left": 1102,
+      "top": 329,
+      "width": 154,
+      "height": 122,
+      "confidence": 22.811975,
+      "text": "70/77)"
+    },
+    {
+      "left": 1274,
+      "top": 333,
+      "width": 293,
+      "height": 96,
+      "confidence": 30.990692,
+      "text": "POW"
+    },
+    {
+      "left": 1418,
+      "top": 329,
+      "width": 41,
+      "height": 122,
+      "confidence": 30.990692,
+      "text": "80"
+    },
+    {
+      "left": 1489,
+      "top": 329,
+      "width": 82,
+      "height": 122,
+      "confidence": 31.28458,
+      "text": "(76)"
+    },
+    {
+      "left": 239,
+      "top": 442,
+      "width": 25,
+      "height": 28,
+      "confidence": 88.253777,
+      "text": "id"
+    },
+    {
+      "left": 347,
+      "top": 438,
+      "width": 101,
+      "height": 25,
+      "confidence": 96.494049,
+      "text": "Arkham,"
+    },
+    {
+      "left": 457,
+      "top": 439,
+      "width": 40,
+      "height": 21,
+      "confidence": 96.898064,
+      "text": "MA"
+    },
+    {
+      "left": 194,
+      "top": 445,
+      "width": 418,
+      "height": 27,
+      "confidence": 25.024986,
+      "text": "mace"
+    },
+    {
+      "left": 580,
+      "top": 389,
+      "width": 60,
+      "height": 180,
+      "confidence": 49.027824,
+      "text": "|"
+    },
+    {
+      "left": 678,
+      "top": 468,
+      "width": 65,
+      "height": 37,
+      "confidence": 39.525871,
+      "text": "ou"
+    },
+    {
+      "left": 805,
+      "top": 389,
+      "width": 45,
+      "height": 180,
+      "confidence": 47.457066,
+      "text": "vo"
+    },
+    {
+      "left": 895,
+      "top": 446,
+      "width": 15,
+      "height": 43,
+      "confidence": 46.510624,
+      "text": "3"
+    },
+    {
+      "left": 977,
+      "top": 459,
+      "width": 87,
+      "height": 39,
+      "confidence": 51.705379,
+      "text": "DU"
+    },
+    {
+      "left": 1105,
+      "top": 389,
+      "width": 45,
+      "height": 180,
+      "confidence": 52.164047,
+      "text": "v0"
+    },
+    {
+      "left": 1289,
+      "top": 446,
+      "width": 209,
+      "height": 89,
+      "confidence": 27.311029,
+      "text": "se"
+    },
+    {
+      "left": 194,
+      "top": 494,
+      "width": 134,
+      "height": 47,
+      "confidence": 80.62899,
+      "text": "Birthplace"
+    },
+    {
+      "left": 350,
+      "top": 494,
+      "width": 263,
+      "height": 47,
+      "confidence": 0.0,
+      "text": "—___"
+    },
+    {
+      "left": 868,
+      "top": 488,
+      "width": 77,
+      "height": 51,
+      "confidence": 46.484142,
+      "text": "(14)"
+    },
+    {
+      "left": 986,
+      "top": 492,
+      "width": 74,
+      "height": 42,
+      "confidence": 96.293457,
+      "text": "Know"
+    },
+    {
+      "left": 1169,
+      "top": 488,
+      "width": 51,
+      "height": 51,
+      "confidence": 81.188873,
+      "text": "18"
+    },
+    {
+      "left": 1232,
+      "top": 488,
+      "width": 14,
+      "height": 51,
+      "confidence": 91.999138,
+      "text": "|"
+    },
+    {
+      "left": 1296,
+      "top": 490,
+      "width": 66,
+      "height": 42,
+      "confidence": 95.205589,
+      "text": "Rate"
+    },
+    {
+      "left": 402,
+      "top": 630,
+      "width": 40,
+      "height": 24,
+      "confidence": 65.724609,
+      "text": "0]"
+    },
+    {
+      "left": 480,
+      "top": 631,
+      "width": 28,
+      "height": 22,
+      "confidence": 79.795349,
+      "text": "01"
+    },
+    {
+      "left": 557,
+      "top": 631,
+      "width": 31,
+      "height": 22,
+      "confidence": 49.808167,
+      "text": "02"
+    },
+    {
+      "left": 618,
+      "top": 597,
+      "width": 75,
+      "height": 60,
+      "confidence": 35.177643,
+      "text": "ae"
+    },
+    {
+      "left": 708,
+      "top": 621,
+      "width": 48,
+      "height": 25,
+      "confidence": 82.190437,
+      "text": "fos"
+    },
+    {
+      "left": 775,
+      "top": 625,
+      "width": 32,
+      "height": 21,
+      "confidence": 86.528488,
+      "text": "09"
+    },
+    {
+      "left": 828,
+      "top": 626,
+      "width": 29,
+      "height": 20,
+      "confidence": 86.528488,
+      "text": "10"
+    },
+    {
+      "left": 879,
+      "top": 626,
+      "width": 24,
+      "height": 20,
+      "confidence": 90.201202,
+      "text": "11"
+    },
+    {
+      "left": 930,
+      "top": 625,
+      "width": 28,
+      "height": 21,
+      "confidence": 90.221756,
+      "text": "12"
+    },
+    {
+      "left": 980,
+      "top": 625,
+      "width": 29,
+      "height": 21,
+      "confidence": 93.797043,
+      "text": "13"
+    },
+    {
+      "left": 1031,
+      "top": 625,
+      "width": 31,
+      "height": 21,
+      "confidence": 85.486969,
+      "text": "14"
+    },
+    {
+      "left": 1083,
+      "top": 625,
+      "width": 28,
+      "height": 21,
+      "confidence": 85.486969,
+      "text": "15"
+    },
+    {
+      "left": 1133,
+      "top": 625,
+      "width": 30,
+      "height": 21,
+      "confidence": 92.446404,
+      "text": "16"
+    },
+    {
+      "left": 1184,
+      "top": 625,
+      "width": 29,
+      "height": 21,
+      "confidence": 92.446404,
+      "text": "17"
+    },
+    {
+      "left": 1235,
+      "top": 625,
+      "width": 29,
+      "height": 21,
+      "confidence": 95.895645,
+      "text": "18"
+    },
+    {
+      "left": 1286,
+      "top": 626,
+      "width": 29,
+      "height": 20,
+      "confidence": 96.087013,
+      "text": "19"
+    },
+    {
+      "left": 1334,
+      "top": 625,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.087013,
+      "text": "20"
+    },
+    {
+      "left": 1385,
+      "top": 626,
+      "width": 27,
+      "height": 20,
+      "confidence": 96.824287,
+      "text": "21"
+    },
+    {
+      "left": 1435,
+      "top": 625,
+      "width": 32,
+      "height": 21,
+      "confidence": 95.334267,
+      "text": "22"
+    },
+    {
+      "left": 1486,
+      "top": 626,
+      "width": 32,
+      "height": 20,
+      "confidence": 96.976601,
+      "text": "23"
+    },
+    {
+      "left": 1537,
+      "top": 625,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.877716,
+      "text": "24"
+    },
+    {
+      "left": 1587,
+      "top": 625,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.844337,
+      "text": "25"
+    },
+    {
+      "left": 1639,
+      "top": 625,
+      "width": 31,
+      "height": 21,
+      "confidence": 95.864723,
+      "text": "26"
+    },
+    {
+      "left": 1689,
+      "top": 625,
+      "width": 32,
+      "height": 21,
+      "confidence": 95.864723,
+      "text": "27"
+    },
+    {
+      "left": 1740,
+      "top": 625,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.214073,
+      "text": "28"
+    },
+    {
+      "left": 1791,
+      "top": 626,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.459053,
+      "text": "29"
+    },
+    {
+      "left": 1842,
+      "top": 619,
+      "width": 81,
+      "height": 42,
+      "confidence": 33.125694,
+      "text": "30"
+    },
+    {
+      "left": 197,
+      "top": 649,
+      "width": 27,
+      "height": 37,
+      "confidence": 28.127903,
+      "text": "2"
+    },
+    {
+      "left": 246,
+      "top": 640,
+      "width": 144,
+      "height": 75,
+      "confidence": 0.0,
+      "text": "facenat"
+    },
+    {
+      "left": 408,
+      "top": 678,
+      "width": 29,
+      "height": 22,
+      "confidence": 43.781715,
+      "text": "ts"
+    },
+    {
+      "left": 480,
+      "top": 678,
+      "width": 33,
+      "height": 22,
+      "confidence": 71.976303,
+      "text": "04"
+    },
+    {
+      "left": 557,
+      "top": 678,
+      "width": 31,
+      "height": 22,
+      "confidence": 63.235096,
+      "text": "os|"
+    },
+    {
+      "left": 725,
+      "top": 663,
+      "width": 25,
+      "height": 20,
+      "confidence": 0.0,
+      "text": "31"
+    },
+    {
+      "left": 775,
+      "top": 663,
+      "width": 31,
+      "height": 20,
+      "confidence": 89.825111,
+      "text": "32"
+    },
+    {
+      "left": 827,
+      "top": 663,
+      "width": 29,
+      "height": 20,
+      "confidence": 93.229218,
+      "text": "33"
+    },
+    {
+      "left": 877,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 82.126053,
+      "text": "34"
+    },
+    {
+      "left": 928,
+      "top": 662,
+      "width": 30,
+      "height": 21,
+      "confidence": 82.126053,
+      "text": "35"
+    },
+    {
+      "left": 979,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 87.988937,
+      "text": "36"
+    },
+    {
+      "left": 1030,
+      "top": 662,
+      "width": 31,
+      "height": 21,
+      "confidence": 87.988937,
+      "text": "37"
+    },
+    {
+      "left": 1081,
+      "top": 663,
+      "width": 30,
+      "height": 20,
+      "confidence": 93.333344,
+      "text": "38"
+    },
+    {
+      "left": 1131,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 93.333344,
+      "text": "39"
+    },
+    {
+      "left": 1181,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 94.612328,
+      "text": "40"
+    },
+    {
+      "left": 1232,
+      "top": 662,
+      "width": 27,
+      "height": 21,
+      "confidence": 90.703743,
+      "text": "41"
+    },
+    {
+      "left": 1283,
+      "top": 663,
+      "width": 31,
+      "height": 20,
+      "confidence": 90.703743,
+      "text": "42"
+    },
+    {
+      "left": 1333,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 93.29998,
+      "text": "43"
+    },
+    {
+      "left": 1384,
+      "top": 646,
+      "width": 33,
+      "height": 58,
+      "confidence": 93.29998,
+      "text": "44"
+    },
+    {
+      "left": 1435,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 91.195305,
+      "text": "45"
+    },
+    {
+      "left": 1486,
+      "top": 663,
+      "width": 30,
+      "height": 20,
+      "confidence": 91.195305,
+      "text": "46"
+    },
+    {
+      "left": 1536,
+      "top": 662,
+      "width": 32,
+      "height": 21,
+      "confidence": 95.222916,
+      "text": "47"
+    },
+    {
+      "left": 1587,
+      "top": 646,
+      "width": 33,
+      "height": 58,
+      "confidence": 95.620346,
+      "text": "48"
+    },
+    {
+      "left": 1638,
+      "top": 663,
+      "width": 32,
+      "height": 20,
+      "confidence": 85.003799,
+      "text": "49"
+    },
+    {
+      "left": 1689,
+      "top": 662,
+      "width": 32,
+      "height": 21,
+      "confidence": 85.003799,
+      "text": "50"
+    },
+    {
+      "left": 1741,
+      "top": 663,
+      "width": 26,
+      "height": 20,
+      "confidence": 93.121315,
+      "text": "51"
+    },
+    {
+      "left": 1791,
+      "top": 662,
+      "width": 31,
+      "height": 21,
+      "confidence": 95.589134,
+      "text": "52"
+    },
+    {
+      "left": 1842,
+      "top": 662,
+      "width": 31,
+      "height": 21,
+      "confidence": 63.394493,
+      "text": "53"
+    },
+    {
+      "left": 1894,
+      "top": 646,
+      "width": 24,
+      "height": 43,
+      "confidence": 53.764763,
+      "text": "Zz"
+    },
+    {
+      "left": 196,
+      "top": 687,
+      "width": 181,
+      "height": 44,
+      "confidence": 38.055588,
+      "text": "Ecc"
+    },
+    {
+      "left": 653,
+      "top": 713,
+      "width": 13,
+      "height": 4,
+      "confidence": 25.296455,
+      "text": "_"
+    },
+    {
+      "left": 725,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 25.296455,
+      "text": "|54"
+    },
+    {
+      "left": 775,
+      "top": 699,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.199051,
+      "text": "55"
+    },
+    {
+      "left": 826,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 94.655838,
+      "text": "56"
+    },
+    {
+      "left": 877,
+      "top": 699,
+      "width": 31,
+      "height": 20,
+      "confidence": 94.655838,
+      "text": "57"
+    },
+    {
+      "left": 928,
+      "top": 699,
+      "width": 31,
+      "height": 21,
+      "confidence": 95.334343,
+      "text": "58"
+    },
+    {
+      "left": 978,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.334343,
+      "text": "59"
+    },
+    {
+      "left": 1029,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 96.671127,
+      "text": "60"
+    },
+    {
+      "left": 1080,
+      "top": 699,
+      "width": 26,
+      "height": 20,
+      "confidence": 95.868744,
+      "text": "61"
+    },
+    {
+      "left": 1131,
+      "top": 699,
+      "width": 31,
+      "height": 21,
+      "confidence": 95.868744,
+      "text": "62"
+    },
+    {
+      "left": 1182,
+      "top": 699,
+      "width": 30,
+      "height": 20,
+      "confidence": 95.87822,
+      "text": "63"
+    },
+    {
+      "left": 1232,
+      "top": 699,
+      "width": 33,
+      "height": 20,
+      "confidence": 96.509758,
+      "text": "64"
+    },
+    {
+      "left": 1283,
+      "top": 699,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.509758,
+      "text": "65"
+    },
+    {
+      "left": 1334,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 96.869812,
+      "text": "66"
+    },
+    {
+      "left": 1385,
+      "top": 699,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.859421,
+      "text": "67"
+    },
+    {
+      "left": 1435,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.983879,
+      "text": "68"
+    },
+    {
+      "left": 1486,
+      "top": 699,
+      "width": 33,
+      "height": 21,
+      "confidence": 95.867653,
+      "text": "69"
+    },
+    {
+      "left": 1537,
+      "top": 699,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.12677,
+      "text": "70"
+    },
+    {
+      "left": 1588,
+      "top": 699,
+      "width": 26,
+      "height": 20,
+      "confidence": 93.698746,
+      "text": "71"
+    },
+    {
+      "left": 1639,
+      "top": 699,
+      "width": 31,
+      "height": 21,
+      "confidence": 93.698746,
+      "text": "72"
+    },
+    {
+      "left": 1689,
+      "top": 699,
+      "width": 31,
+      "height": 20,
+      "confidence": 89.970161,
+      "text": "73"
+    },
+    {
+      "left": 1741,
+      "top": 699,
+      "width": 31,
+      "height": 21,
+      "confidence": 67.739235,
+      "text": "74"
+    },
+    {
+      "left": 1791,
+      "top": 699,
+      "width": 31,
+      "height": 20,
+      "confidence": 67.739235,
+      "text": "75"
+    },
+    {
+      "left": 1842,
+      "top": 699,
+      "width": 32,
+      "height": 20,
+      "confidence": 38.713539,
+      "text": "76"
+    },
+    {
+      "left": 192,
+      "top": 732,
+      "width": 38,
+      "height": 20,
+      "confidence": 84.723412,
+      "text": "a"
+    },
+    {
+      "left": 253,
+      "top": 725,
+      "width": 33,
+      "height": 21,
+      "confidence": 86.667,
+      "text": "0"
+    },
+    {
+      "left": 331,
+      "top": 725,
+      "width": 30,
+      "height": 21,
+      "confidence": 80.402153,
+      "text": "07"
+    },
+    {
+      "left": 405,
+      "top": 725,
+      "width": 32,
+      "height": 21,
+      "confidence": 88.798347,
+      "text": "08"
+    },
+    {
+      "left": 480,
+      "top": 725,
+      "width": 33,
+      "height": 21,
+      "confidence": 70.080978,
+      "text": "09"
+    },
+    {
+      "left": 560,
+      "top": 725,
+      "width": 29,
+      "height": 21,
+      "confidence": 95.739174,
+      "text": "10"
+    },
+    {
+      "left": 725,
+      "top": 735,
+      "width": 30,
+      "height": 21,
+      "confidence": 47.798214,
+      "text": "77"
+    },
+    {
+      "left": 775,
+      "top": 735,
+      "width": 32,
+      "height": 21,
+      "confidence": 47.798214,
+      "text": "78"
+    },
+    {
+      "left": 826,
+      "top": 735,
+      "width": 32,
+      "height": 21,
+      "confidence": 88.994751,
+      "text": "79"
+    },
+    {
+      "left": 873,
+      "top": 729,
+      "width": 31,
+      "height": 33,
+      "confidence": 81.401581,
+      "text": "@Q"
+    },
+    {
+      "left": 928,
+      "top": 736,
+      "width": 27,
+      "height": 20,
+      "confidence": 90.929039,
+      "text": "81"
+    },
+    {
+      "left": 978,
+      "top": 735,
+      "width": 32,
+      "height": 21,
+      "confidence": 90.929039,
+      "text": "82"
+    },
+    {
+      "left": 1029,
+      "top": 736,
+      "width": 31,
+      "height": 20,
+      "confidence": 92.787865,
+      "text": "83"
+    },
+    {
+      "left": 1081,
+      "top": 736,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.230354,
+      "text": "84"
+    },
+    {
+      "left": 1131,
+      "top": 735,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.439529,
+      "text": "85"
+    },
+    {
+      "left": 1182,
+      "top": 736,
+      "width": 32,
+      "height": 20,
+      "confidence": 96.439529,
+      "text": "86"
+    },
+    {
+      "left": 1232,
+      "top": 735,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.133568,
+      "text": "87"
+    },
+    {
+      "left": 1284,
+      "top": 735,
+      "width": 30,
+      "height": 21,
+      "confidence": 94.865089,
+      "text": "88"
+    },
+    {
+      "left": 1334,
+      "top": 735,
+      "width": 32,
+      "height": 21,
+      "confidence": 94.865089,
+      "text": "89"
+    },
+    {
+      "left": 1385,
+      "top": 736,
+      "width": 32,
+      "height": 20,
+      "confidence": 79.382347,
+      "text": "90"
+    },
+    {
+      "left": 1435,
+      "top": 736,
+      "width": 27,
+      "height": 20,
+      "confidence": 79.382347,
+      "text": "91"
+    },
+    {
+      "left": 1486,
+      "top": 735,
+      "width": 32,
+      "height": 21,
+      "confidence": 89.906349,
+      "text": "92"
+    },
+    {
+      "left": 1537,
+      "top": 736,
+      "width": 31,
+      "height": 20,
+      "confidence": 89.906349,
+      "text": "93"
+    },
+    {
+      "left": 1587,
+      "top": 721,
+      "width": 33,
+      "height": 55,
+      "confidence": 94.406929,
+      "text": "94"
+    },
+    {
+      "left": 1637,
+      "top": 721,
+      "width": 33,
+      "height": 55,
+      "confidence": 95.278481,
+      "text": "95"
+    },
+    {
+      "left": 1688,
+      "top": 735,
+      "width": 34,
+      "height": 35,
+      "confidence": 94.978661,
+      "text": "96"
+    },
+    {
+      "left": 1740,
+      "top": 735,
+      "width": 31,
+      "height": 21,
+      "confidence": 94.679062,
+      "text": "97"
+    },
+    {
+      "left": 1793,
+      "top": 735,
+      "width": 30,
+      "height": 21,
+      "confidence": 90.772545,
+      "text": "98"
+    },
+    {
+      "left": 1843,
+      "top": 735,
+      "width": 31,
+      "height": 36,
+      "confidence": 75.482445,
+      "text": "99"
+    },
+    {
+      "left": 1933,
+      "top": 770,
+      "width": 3,
+      "height": 2,
+      "confidence": 61.822235,
+      "text": "|"
+    },
+    {
+      "left": 192,
+      "top": 760,
+      "width": 402,
+      "height": 79,
+      "confidence": 23.041229,
+      "text": "eee"
+    },
+    {
+      "left": 913,
+      "top": 772,
+      "width": 450,
+      "height": 90,
+      "confidence": 24.163761,
+      "text": "é§CTHOUL"
+    },
+    {
+      "left": 1629,
+      "top": 773,
+      "width": 228,
+      "height": 50,
+      "confidence": 27.797136,
+      "text": "cD"
+    },
+    {
+      "left": 179,
+      "top": 863,
+      "width": 6,
+      "height": 4,
+      "confidence": 0.0,
+      "text": "—"
+    },
+    {
+      "left": 435,
+      "top": 854,
+      "width": 158,
+      "height": 34,
+      "confidence": 35.547218,
+      "text": "FS"
+    },
+    {
+      "left": 1541,
+      "top": 839,
+      "width": 33,
+      "height": 21,
+      "confidence": 94.36824,
+      "text": "00"
+    },
+    {
+      "left": 1616,
+      "top": 839,
+      "width": 28,
+      "height": 21,
+      "confidence": 94.36824,
+      "text": "01"
+    },
+    {
+      "left": 1689,
+      "top": 839,
+      "width": 33,
+      "height": 21,
+      "confidence": 72.059258,
+      "text": "02"
+    },
+    {
+      "left": 1763,
+      "top": 839,
+      "width": 32,
+      "height": 21,
+      "confidence": 95.811417,
+      "text": "03"
+    },
+    {
+      "left": 1837,
+      "top": 839,
+      "width": 33,
+      "height": 21,
+      "confidence": 71.586861,
+      "text": "04"
+    },
+    {
+      "left": 175,
+      "top": 902,
+      "width": 16,
+      "height": 5,
+      "confidence": 47.994034,
+      "text": "|"
+    },
+    {
+      "left": 221,
+      "top": 872,
+      "width": 35,
+      "height": 34,
+      "confidence": 43.626938,
+      "text": ">"
+    },
+    {
+      "left": 408,
+      "top": 860,
+      "width": 134,
+      "height": 46,
+      "confidence": 47.499512,
+      "text": "See"
+    },
+    {
+      "left": 850,
+      "top": 880,
+      "width": 50,
+      "height": 21,
+      "confidence": 88.427887,
+      "text": "Out"
+    },
+    {
+      "left": 912,
+      "top": 879,
+      "width": 93,
+      "height": 22,
+      "confidence": 88.427887,
+      "text": "ofLuck"
+    },
+    {
+      "left": 1062,
+      "top": 881,
+      "width": 27,
+      "height": 20,
+      "confidence": 80.809341,
+      "text": "01"
+    },
+    {
+      "left": 1113,
+      "top": 881,
+      "width": 32,
+      "height": 20,
+      "confidence": 96.200882,
+      "text": "02"
+    },
+    {
+      "left": 1164,
+      "top": 881,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.705025,
+      "text": "03"
+    },
+    {
+      "left": 1215,
+      "top": 881,
+      "width": 33,
+      "height": 20,
+      "confidence": 94.964264,
+      "text": "04"
+    },
+    {
+      "left": 1266,
+      "top": 880,
+      "width": 31,
+      "height": 21,
+      "confidence": 95.90052,
+      "text": "05"
+    },
+    {
+      "left": 1317,
+      "top": 881,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.395729,
+      "text": "06"
+    },
+    {
+      "left": 1367,
+      "top": 880,
+      "width": 32,
+      "height": 21,
+      "confidence": 95.395729,
+      "text": "07"
+    },
+    {
+      "left": 1541,
+      "top": 886,
+      "width": 32,
+      "height": 21,
+      "confidence": 90.813347,
+      "text": "05"
+    },
+    {
+      "left": 1616,
+      "top": 886,
+      "width": 32,
+      "height": 21,
+      "confidence": 76.600044,
+      "text": "06"
+    },
+    {
+      "left": 1689,
+      "top": 886,
+      "width": 33,
+      "height": 21,
+      "confidence": 76.600044,
+      "text": "O7"
+    },
+    {
+      "left": 1763,
+      "top": 886,
+      "width": 33,
+      "height": 21,
+      "confidence": 29.526949,
+      "text": "O8"
+    },
+    {
+      "left": 1837,
+      "top": 886,
+      "width": 33,
+      "height": 21,
+      "confidence": 80.095421,
+      "text": "o9"
+    },
+    {
+      "left": 1884,
+      "top": 847,
+      "width": 39,
+      "height": 81,
+      "confidence": 39.280899,
+      "text": "3"
+    },
+    {
+      "left": 249,
+      "top": 917,
+      "width": 33,
+      "height": 21,
+      "confidence": 96.653572,
+      "text": "08"
+    },
+    {
+      "left": 300,
+      "top": 917,
+      "width": 33,
+      "height": 21,
+      "confidence": 96.002396,
+      "text": "09"
+    },
+    {
+      "left": 353,
+      "top": 917,
+      "width": 29,
+      "height": 21,
+      "confidence": 94.310814,
+      "text": "10"
+    },
+    {
+      "left": 404,
+      "top": 917,
+      "width": 25,
+      "height": 21,
+      "confidence": 93.781326,
+      "text": "11"
+    },
+    {
+      "left": 455,
+      "top": 917,
+      "width": 29,
+      "height": 21,
+      "confidence": 93.781326,
+      "text": "12"
+    },
+    {
+      "left": 505,
+      "top": 917,
+      "width": 30,
+      "height": 21,
+      "confidence": 95.856575,
+      "text": "13"
+    },
+    {
+      "left": 557,
+      "top": 917,
+      "width": 29,
+      "height": 20,
+      "confidence": 86.837334,
+      "text": "14"
+    },
+    {
+      "left": 607,
+      "top": 917,
+      "width": 29,
+      "height": 21,
+      "confidence": 86.837334,
+      "text": "15"
+    },
+    {
+      "left": 658,
+      "top": 917,
+      "width": 30,
+      "height": 21,
+      "confidence": 94.784279,
+      "text": "16"
+    },
+    {
+      "left": 708,
+      "top": 917,
+      "width": 30,
+      "height": 21,
+      "confidence": 94.749573,
+      "text": "17"
+    },
+    {
+      "left": 760,
+      "top": 917,
+      "width": 30,
+      "height": 21,
+      "confidence": 95.878349,
+      "text": "18"
+    },
+    {
+      "left": 811,
+      "top": 917,
+      "width": 29,
+      "height": 21,
+      "confidence": 95.878349,
+      "text": "19"
+    },
+    {
+      "left": 860,
+      "top": 917,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.553322,
+      "text": "20"
+    },
+    {
+      "left": 911,
+      "top": 917,
+      "width": 26,
+      "height": 21,
+      "confidence": 96.905365,
+      "text": "21"
+    },
+    {
+      "left": 961,
+      "top": 917,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.875122,
+      "text": "22"
+    },
+    {
+      "left": 1012,
+      "top": 917,
+      "width": 30,
+      "height": 21,
+      "confidence": 96.91156,
+      "text": "23"
+    },
+    {
+      "left": 1062,
+      "top": 917,
+      "width": 33,
+      "height": 21,
+      "confidence": 96.93692,
+      "text": "24"
+    },
+    {
+      "left": 1114,
+      "top": 917,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.925461,
+      "text": "25"
+    },
+    {
+      "left": 1165,
+      "top": 917,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.086075,
+      "text": "26"
+    },
+    {
+      "left": 1215,
+      "top": 917,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.882744,
+      "text": "27"
+    },
+    {
+      "left": 1267,
+      "top": 917,
+      "width": 30,
+      "height": 21,
+      "confidence": 95.494896,
+      "text": "28"
+    },
+    {
+      "left": 1317,
+      "top": 917,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.313278,
+      "text": "29"
+    },
+    {
+      "left": 1368,
+      "top": 917,
+      "width": 31,
+      "height": 21,
+      "confidence": 96.313278,
+      "text": "30"
+    },
+    {
+      "left": 1544,
+      "top": 933,
+      "width": 30,
+      "height": 21,
+      "confidence": 42.485027,
+      "text": "a"
+    },
+    {
+      "left": 1619,
+      "top": 933,
+      "width": 25,
+      "height": 21,
+      "confidence": 35.121117,
+      "text": "ok"
+    },
+    {
+      "left": 1766,
+      "top": 933,
+      "width": 29,
+      "height": 21,
+      "confidence": 41.301262,
+      "text": "oe"
+    },
+    {
+      "left": 1840,
+      "top": 918,
+      "width": 47,
+      "height": 36,
+      "confidence": 28.007154,
+      "text": "a"
+    },
+    {
+      "left": 196,
+      "top": 945,
+      "width": 28,
+      "height": 36,
+      "confidence": 57.949554,
+      "text": "&"
+    },
+    {
+      "left": 249,
+      "top": 954,
+      "width": 27,
+      "height": 21,
+      "confidence": 95.781395,
+      "text": "31"
+    },
+    {
+      "left": 300,
+      "top": 954,
+      "width": 33,
+      "height": 21,
+      "confidence": 94.534042,
+      "text": "32"
+    },
+    {
+      "left": 352,
+      "top": 954,
+      "width": 30,
+      "height": 20,
+      "confidence": 92.295357,
+      "text": "33"
+    },
+    {
+      "left": 404,
+      "top": 954,
+      "width": 31,
+      "height": 21,
+      "confidence": 90.161049,
+      "text": "34"
+    },
+    {
+      "left": 453,
+      "top": 954,
+      "width": 30,
+      "height": 20,
+      "confidence": 90.161049,
+      "text": "35"
+    },
+    {
+      "left": 506,
+      "top": 954,
+      "width": 30,
+      "height": 20,
+      "confidence": 90.181587,
+      "text": "36"
+    },
+    {
+      "left": 555,
+      "top": 954,
+      "width": 30,
+      "height": 20,
+      "confidence": 93.275543,
+      "text": "37"
+    },
+    {
+      "left": 607,
+      "top": 954,
+      "width": 30,
+      "height": 20,
+      "confidence": 94.219131,
+      "text": "38"
+    },
+    {
+      "left": 656,
+      "top": 954,
+      "width": 32,
+      "height": 20,
+      "confidence": 87.131317,
+      "text": "39"
+    },
+    {
+      "left": 709,
+      "top": 954,
+      "width": 29,
+      "height": 21,
+      "confidence": 87.131317,
+      "text": "40"
+    },
+    {
+      "left": 757,
+      "top": 954,
+      "width": 28,
+      "height": 20,
+      "confidence": 92.03759,
+      "text": "41"
+    },
+    {
+      "left": 808,
+      "top": 954,
+      "width": 32,
+      "height": 21,
+      "confidence": 95.25666,
+      "text": "42"
+    },
+    {
+      "left": 859,
+      "top": 954,
+      "width": 31,
+      "height": 21,
+      "confidence": 94.116089,
+      "text": "43"
+    },
+    {
+      "left": 912,
+      "top": 937,
+      "width": 31,
+      "height": 58,
+      "confidence": 92.796417,
+      "text": "44"
+    },
+    {
+      "left": 960,
+      "top": 954,
+      "width": 32,
+      "height": 21,
+      "confidence": 92.705803,
+      "text": "45"
+    },
+    {
+      "left": 1013,
+      "top": 937,
+      "width": 30,
+      "height": 58,
+      "confidence": 88.713707,
+      "text": "46"
+    },
+    {
+      "left": 1062,
+      "top": 954,
+      "width": 32,
+      "height": 21,
+      "confidence": 88.713707,
+      "text": "47"
+    },
+    {
+      "left": 1115,
+      "top": 937,
+      "width": 31,
+      "height": 58,
+      "confidence": 94.363838,
+      "text": "48"
+    },
+    {
+      "left": 1164,
+      "top": 954,
+      "width": 32,
+      "height": 20,
+      "confidence": 75.506531,
+      "text": "49"
+    },
+    {
+      "left": 1216,
+      "top": 954,
+      "width": 31,
+      "height": 20,
+      "confidence": 75.506531,
+      "text": "50"
+    },
+    {
+      "left": 1267,
+      "top": 954,
+      "width": 25,
+      "height": 21,
+      "confidence": 88.964371,
+      "text": "51"
+    },
+    {
+      "left": 1317,
+      "top": 954,
+      "width": 31,
+      "height": 21,
+      "confidence": 88.964371,
+      "text": "52"
+    },
+    {
+      "left": 1368,
+      "top": 945,
+      "width": 78,
+      "height": 46,
+      "confidence": 55.018429,
+      "text": "53|"
+    },
+    {
+      "left": 1885,
+      "top": 945,
+      "width": 38,
+      "height": 43,
+      "confidence": 67.771599,
+      "text": "3"
+    },
+    {
+      "left": 192,
+      "top": 974,
+      "width": 40,
+      "height": 48,
+      "confidence": 58.47591,
+      "text": "5;"
+    },
+    {
+      "left": 250,
+      "top": 991,
+      "width": 33,
+      "height": 20,
+      "confidence": 84.875214,
+      "text": "54"
+    },
+    {
+      "left": 300,
+      "top": 991,
+      "width": 32,
+      "height": 20,
+      "confidence": 84.875214,
+      "text": "55"
+    },
+    {
+      "left": 352,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 95.569214,
+      "text": "56"
+    },
+    {
+      "left": 402,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.566483,
+      "text": "57"
+    },
+    {
+      "left": 453,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 93.30584,
+      "text": "58"
+    },
+    {
+      "left": 504,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 93.30584,
+      "text": "59"
+    },
+    {
+      "left": 554,
+      "top": 991,
+      "width": 30,
+      "height": 20,
+      "confidence": 96.18499,
+      "text": "60"
+    },
+    {
+      "left": 605,
+      "top": 991,
+      "width": 27,
+      "height": 20,
+      "confidence": 82.242172,
+      "text": "61"
+    },
+    {
+      "left": 655,
+      "top": 991,
+      "width": 32,
+      "height": 20,
+      "confidence": 94.60096,
+      "text": "62"
+    },
+    {
+      "left": 707,
+      "top": 991,
+      "width": 29,
+      "height": 20,
+      "confidence": 96.210449,
+      "text": "63"
+    },
+    {
+      "left": 756,
+      "top": 974,
+      "width": 32,
+      "height": 48,
+      "confidence": 96.210449,
+      "text": "64"
+    },
+    {
+      "left": 808,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.23877,
+      "text": "65"
+    },
+    {
+      "left": 859,
+      "top": 991,
+      "width": 33,
+      "height": 20,
+      "confidence": 96.250496,
+      "text": "66"
+    },
+    {
+      "left": 910,
+      "top": 991,
+      "width": 30,
+      "height": 20,
+      "confidence": 95.763794,
+      "text": "67"
+    },
+    {
+      "left": 960,
+      "top": 974,
+      "width": 32,
+      "height": 48,
+      "confidence": 93.288994,
+      "text": "68"
+    },
+    {
+      "left": 1012,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 94.443687,
+      "text": "69"
+    },
+    {
+      "left": 1063,
+      "top": 991,
+      "width": 31,
+      "height": 21,
+      "confidence": 94.532707,
+      "text": "70"
+    },
+    {
+      "left": 1114,
+      "top": 991,
+      "width": 26,
+      "height": 20,
+      "confidence": 94.532707,
+      "text": "71"
+    },
+    {
+      "left": 1165,
+      "top": 991,
+      "width": 30,
+      "height": 20,
+      "confidence": 95.734329,
+      "text": "72"
+    },
+    {
+      "left": 1215,
+      "top": 991,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.734329,
+      "text": "73"
+    },
+    {
+      "left": 1267,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 81.699409,
+      "text": "74"
+    },
+    {
+      "left": 1317,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 81.699409,
+      "text": "75"
+    },
+    {
+      "left": 1368,
+      "top": 991,
+      "width": 31,
+      "height": 20,
+      "confidence": 93.222504,
+      "text": "76"
+    },
+    {
+      "left": 1472,
+      "top": 978,
+      "width": 101,
+      "height": 53,
+      "confidence": 9.9121,
+      "text": "ys"
+    },
+    {
+      "left": 1614,
+      "top": 966,
+      "width": 40,
+      "height": 47,
+      "confidence": 71.815727,
+      "text": "@"
+    },
+    {
+      "left": 1692,
+      "top": 978,
+      "width": 30,
+      "height": 22,
+      "confidence": 57.562027,
+      "text": "17"
+    },
+    {
+      "left": 1766,
+      "top": 979,
+      "width": 30,
+      "height": 21,
+      "confidence": 65.660522,
+      "text": "18"
+    },
+    {
+      "left": 1840,
+      "top": 978,
+      "width": 78,
+      "height": 63,
+      "confidence": 14.799728,
+      "text": "Ma"
+    },
+    {
+      "left": 177,
+      "top": 1042,
+      "width": 2,
+      "height": 14,
+      "confidence": 30.765963,
+      "text": "|"
+    },
+    {
+      "left": 249,
+      "top": 1027,
+      "width": 32,
+      "height": 21,
+      "confidence": 30.765963,
+      "text": "_77"
+    },
+    {
+      "left": 300,
+      "top": 1027,
+      "width": 33,
+      "height": 21,
+      "confidence": 93.498947,
+      "text": "78"
+    },
+    {
+      "left": 352,
+      "top": 1027,
+      "width": 30,
+      "height": 20,
+      "confidence": 93.498947,
+      "text": "79"
+    },
+    {
+      "left": 402,
+      "top": 1027,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.70459,
+      "text": "80"
+    },
+    {
+      "left": 453,
+      "top": 1027,
+      "width": 26,
+      "height": 20,
+      "confidence": 96.903061,
+      "text": "81"
+    },
+    {
+      "left": 503,
+      "top": 1027,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.606598,
+      "text": "82"
+    },
+    {
+      "left": 555,
+      "top": 1027,
+      "width": 30,
+      "height": 20,
+      "confidence": 96.606598,
+      "text": "83"
+    },
+    {
+      "left": 605,
+      "top": 1022,
+      "width": 81,
+      "height": 31,
+      "confidence": 0.0,
+      "text": "843"
+    },
+    {
+      "left": 707,
+      "top": 1027,
+      "width": 32,
+      "height": 20,
+      "confidence": 93.409424,
+      "text": "86"
+    },
+    {
+      "left": 757,
+      "top": 1027,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.642334,
+      "text": "87"
+    },
+    {
+      "left": 808,
+      "top": 1027,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.713669,
+      "text": "88"
+    },
+    {
+      "left": 859,
+      "top": 1027,
+      "width": 32,
+      "height": 21,
+      "confidence": 96.039352,
+      "text": "89"
+    },
+    {
+      "left": 910,
+      "top": 1027,
+      "width": 32,
+      "height": 20,
+      "confidence": 95.676971,
+      "text": "90"
+    },
+    {
+      "left": 960,
+      "top": 1027,
+      "width": 28,
+      "height": 21,
+      "confidence": 95.355331,
+      "text": "91"
+    },
+    {
+      "left": 1012,
+      "top": 1027,
+      "width": 31,
+      "height": 21,
+      "confidence": 94.807533,
+      "text": "92"
+    },
+    {
+      "left": 1062,
+      "top": 1027,
+      "width": 32,
+      "height": 21,
+      "confidence": 94.724274,
+      "text": "93"
+    },
+    {
+      "left": 1116,
+      "top": 1027,
+      "width": 30,
+      "height": 21,
+      "confidence": 89.149788,
+      "text": "94"
+    },
+    {
+      "left": 1167,
+      "top": 1027,
+      "width": 28,
+      "height": 21,
+      "confidence": 89.149788,
+      "text": "95"
+    },
+    {
+      "left": 1218,
+      "top": 1027,
+      "width": 30,
+      "height": 21,
+      "confidence": 90.049721,
+      "text": "96"
+    },
+    {
+      "left": 1269,
+      "top": 1027,
+      "width": 28,
+      "height": 21,
+      "confidence": 89.224617,
+      "text": "97"
+    },
+    {
+      "left": 1320,
+      "top": 1027,
+      "width": 29,
+      "height": 21,
+      "confidence": 71.366791,
+      "text": "98"
+    },
+    {
+      "left": 1371,
+      "top": 1009,
+      "width": 60,
+      "height": 51,
+      "confidence": 71.366791,
+      "text": "99|"
+    },
+    {
+      "left": 1494,
+      "top": 1013,
+      "width": 26,
+      "height": 28,
+      "confidence": 21.272964,
+      "text": "=|"
+    },
+    {
+      "left": 1541,
+      "top": 1025,
+      "width": 33,
+      "height": 22,
+      "confidence": 21.272964,
+      "text": "20"
+    },
+    {
+      "left": 1616,
+      "top": 1025,
+      "width": 28,
+      "height": 22,
+      "confidence": 96.255096,
+      "text": "21"
+    },
+    {
+      "left": 1689,
+      "top": 1025,
+      "width": 33,
+      "height": 22,
+      "confidence": 95.689529,
+      "text": "22"
+    },
+    {
+      "left": 1763,
+      "top": 1025,
+      "width": 32,
+      "height": 22,
+      "confidence": 94.933136,
+      "text": "23"
+    },
+    {
+      "left": 1837,
+      "top": 1025,
+      "width": 50,
+      "height": 22,
+      "confidence": 71.054672,
+      "text": "24!"
+    },
+    {
+      "left": 181,
+      "top": 1073,
+      "width": 336,
+      "height": 49,
+      "confidence": 12.809296,
+      "text": "ee"
+    },
+    {
+      "left": 527,
+      "top": 1074,
+      "width": 132,
+      "height": 48,
+      "confidence": 0.0,
+      "text": "es"
+    },
+    {
+      "left": 702,
+      "top": 1071,
+      "width": 1238,
+      "height": 52,
+      "confidence": 0.0,
+      "text": "INVESTICAIORIGRELSE"
+    },
+    {
+      "left": 1402,
+      "top": 1042,
+      "width": 35,
+      "height": 105,
+      "confidence": 6.001368,
+      "text": "="
+    },
+    {
+      "left": 1472,
+      "top": 1042,
+      "width": 140,
+      "height": 105,
+      "confidence": 22.859402,
+      "text": "5."
+    },
+    {
+      "left": 188,
+      "top": 1146,
+      "width": 38,
+      "height": 35,
+      "confidence": 38.375164,
+      "text": "C7"
+    },
+    {
+      "left": 237,
+      "top": 1124,
+      "width": 123,
+      "height": 62,
+      "confidence": 68.159111,
+      "text": "Accounting"
+    },
+    {
+      "left": 370,
+      "top": 1145,
+      "width": 57,
+      "height": 33,
+      "confidence": 68.159111,
+      "text": "(05%)"
+    },
+    {
+      "left": 489,
+      "top": 1124,
+      "width": 38,
+      "height": 75,
+      "confidence": 84.356476,
+      "text": "["
+    },
+    {
+      "left": 557,
+      "top": 1124,
+      "width": 51,
+      "height": 75,
+      "confidence": 13.747778,
+      "text": "AB"
+    },
+    {
+      "left": 631,
+      "top": 1146,
+      "width": 38,
+      "height": 35,
+      "confidence": 34.65271,
+      "text": "(7"
+    },
+    {
+      "left": 677,
+      "top": 1124,
+      "width": 42,
+      "height": 61,
+      "confidence": 55.713455,
+      "text": "hast"
+    },
+    {
+      "left": 725,
+      "top": 1143,
+      "width": 108,
+      "height": 36,
+      "confidence": 45.349686,
+      "text": "alk(052)"
+    },
+    {
+      "left": 929,
+      "top": 1122,
+      "width": 122,
+      "height": 77,
+      "confidence": 27.296476,
+      "text": "[BA"
+    },
+    {
+      "left": 1075,
+      "top": 1146,
+      "width": 38,
+      "height": 35,
+      "confidence": 32.471001,
+      "text": "C7"
+    },
+    {
+      "left": 1120,
+      "top": 1120,
+      "width": 39,
+      "height": 66,
+      "confidence": 28.571949,
+      "text": "law"
+    },
+    {
+      "left": 1170,
+      "top": 1120,
+      "width": 59,
+      "height": 66,
+      "confidence": 39.700085,
+      "text": "(052)"
+    },
+    {
+      "left": 1368,
+      "top": 1116,
+      "width": 118,
+      "height": 83,
+      "confidence": 17.370167,
+      "text": "LB"
+    },
+    {
+      "left": 1519,
+      "top": 1146,
+      "width": 37,
+      "height": 35,
+      "confidence": 64.812027,
+      "text": "Fy"
+    },
+    {
+      "left": 1567,
+      "top": 1113,
+      "width": 80,
+      "height": 72,
+      "confidence": 68.716759,
+      "text": "Science"
+    },
+    {
+      "left": 1659,
+      "top": 1133,
+      "width": 54,
+      "height": 31,
+      "confidence": 36.495361,
+      "text": "(or"
+    },
+    {
+      "left": 1812,
+      "top": 1128,
+      "width": 115,
+      "height": 67,
+      "confidence": 55.598351,
+      "text": "="
+    },
+    {
+      "left": 184,
+      "top": 1208,
+      "width": 36,
+      "height": 47,
+      "confidence": 29.342356,
+      "text": "(77"
+    },
+    {
+      "left": 234,
+      "top": 1208,
+      "width": 150,
+      "height": 47,
+      "confidence": 96.019539,
+      "text": "Anthropology"
+    },
+    {
+      "left": 395,
+      "top": 1216,
+      "width": 56,
+      "height": 31,
+      "confidence": 90.299438,
+      "text": "(01%)"
+    },
+    {
+      "left": 489,
+      "top": 1194,
+      "width": 38,
+      "height": 75,
+      "confidence": 0.0,
+      "text": "["
+    },
+    {
+      "left": 631,
+      "top": 1216,
+      "width": 38,
+      "height": 34,
+      "confidence": 75.104836,
+      "text": "(77"
+    },
+    {
+      "left": 683,
+      "top": 1208,
+      "width": 78,
+      "height": 47,
+      "confidence": 92.758423,
+      "text": "Fighting"
+    },
+    {
+      "left": 771,
+      "top": 1208,
+      "width": 72,
+      "height": 47,
+      "confidence": 95.536018,
+      "text": "(Brawl)"
+    },
+    {
+      "left": 854,
+      "top": 1216,
+      "width": 52,
+      "height": 32,
+      "confidence": 96.758469,
+      "text": "(25%)"
+    },
+    {
+      "left": 929,
+      "top": 1194,
+      "width": 38,
+      "height": 75,
+      "confidence": 45.470779,
+      "text": "["
+    },
+    {
+      "left": 997,
+      "top": 1198,
+      "width": 51,
+      "height": 67,
+      "confidence": 26.218252,
+      "text": "B"
+    },
+    {
+      "left": 1071,
+      "top": 1211,
+      "width": 36,
+      "height": 47,
+      "confidence": 50.924858,
+      "text": "(71"
+    },
+    {
+      "left": 1121,
+      "top": 1211,
+      "width": 72,
+      "height": 47,
+      "confidence": 74.291817,
+      "text": "Library"
+    },
+    {
+      "left": 1204,
+      "top": 1211,
+      "width": 36,
+      "height": 47,
+      "confidence": 90.644005,
+      "text": "Use"
+    },
+    {
+      "left": 1247,
+      "top": 1220,
+      "width": 60,
+      "height": 30,
+      "confidence": 90.644005,
+      "text": "(20%)"
+    },
+    {
+      "left": 1368,
+      "top": 1194,
+      "width": 38,
+      "height": 75,
+      "confidence": 56.369061,
+      "text": "["
+    },
+    {
+      "left": 1436,
+      "top": 1198,
+      "width": 51,
+      "height": 67,
+      "confidence": 25.394135,
+      "text": "B"
+    },
+    {
+      "left": 1515,
+      "top": 1212,
+      "width": 41,
+      "height": 43,
+      "confidence": 52.950371,
+      "text": "Oo"
+    },
+    {
+      "left": 1808,
+      "top": 1194,
+      "width": 32,
+      "height": 75,
+      "confidence": 17.19532,
+      "text": "["
+    },
+    {
+      "left": 188,
+      "top": 1352,
+      "width": 249,
+      "height": 39,
+      "confidence": 0.0,
+      "text": "CArhaeclegior)"
+    },
+    {
+      "left": 488,
+      "top": 1332,
+      "width": 26,
+      "height": 76,
+      "confidence": 64.463882,
+      "text": "|"
+    },
+    {
+      "left": 631,
+      "top": 1354,
+      "width": 38,
+      "height": 36,
+      "confidence": 33.062153,
+      "text": "[4g"
+    },
+    {
+      "left": 929,
+      "top": 1333,
+      "width": 19,
+      "height": 75,
+      "confidence": 44.83075,
+      "text": "|"
+    },
+    {
+      "left": 933,
+      "top": 1337,
+      "width": 116,
+      "height": 67,
+      "confidence": 22.921553,
+      "text": "fy"
+    },
+    {
+      "left": 1075,
+      "top": 1354,
+      "width": 218,
+      "height": 36,
+      "confidence": 13.853159,
+      "text": "Clecksmith"
+    },
+    {
+      "left": 1241,
+      "top": 1333,
+      "width": 57,
+      "height": 75,
+      "confidence": 13.853159,
+      "text": "orm"
+    },
+    {
+      "left": 1329,
+      "top": 1333,
+      "width": 25,
+      "height": 75,
+      "confidence": 21.249075,
+      "text": "—"
+    },
+    {
+      "left": 1372,
+      "top": 1333,
+      "width": 32,
+      "height": 75,
+      "confidence": 69.996895,
+      "text": "|"
+    },
+    {
+      "left": 1435,
+      "top": 1337,
+      "width": 107,
+      "height": 67,
+      "confidence": 0.0,
+      "text": "FC"
+    },
+    {
+      "left": 1567,
+      "top": 1354,
+      "width": 226,
+      "height": 40,
+      "confidence": 24.402809,
+      "text": "Sleghtoftand"
+    },
+    {
+      "left": 1747,
+      "top": 1333,
+      "width": 39,
+      "height": 75,
+      "confidence": 11.149979,
+      "text": "ox"
+    },
+    {
+      "left": 1810,
+      "top": 1333,
+      "width": 38,
+      "height": 75,
+      "confidence": 47.229904,
+      "text": "|"
+    },
+    {
+      "left": 1879,
+      "top": 1333,
+      "width": 50,
+      "height": 75,
+      "confidence": 26.803822,
+      "text": "|}"
+    },
+    {
+      "left": 188,
+      "top": 1563,
+      "width": 281,
+      "height": 49,
+      "confidence": 29.418579,
+      "text": "BE"
+    },
+    {
+      "left": 631,
+      "top": 1546,
+      "width": 417,
+      "height": 66,
+      "confidence": 32.547806,
+      "text": "ROE,"
+    },
+    {
+      "left": 1090,
+      "top": 1563,
+      "width": 22,
+      "height": 35,
+      "confidence": 21.283688,
+      "text": "i"
+    },
+    {
+      "left": 1124,
+      "top": 1563,
+      "width": 219,
+      "height": 35,
+      "confidence": 0.0,
+      "text": "mawatwerdtos"
+    },
+    {
+      "left": 1372,
+      "top": 1546,
+      "width": 115,
+      "height": 66,
+      "confidence": 29.877342,
+      "text": "[FY"
+    },
+    {
+      "left": 1519,
+      "top": 1551,
+      "width": 278,
+      "height": 61,
+      "confidence": 0.0,
+      "text": "cofarmatcs)"
+    },
+    {
+      "left": 1812,
+      "top": 1546,
+      "width": 115,
+      "height": 66,
+      "confidence": 39.019905,
+      "text": "|"
+    },
+    {
+      "left": 188,
+      "top": 1633,
+      "width": 38,
+      "height": 35,
+      "confidence": 40.354301,
+      "text": "71"
+    },
+    {
+      "left": 238,
+      "top": 1629,
+      "width": 60,
+      "height": 47,
+      "confidence": 94.272675,
+      "text": "Cham"
+    },
+    {
+      "left": 316,
+      "top": 1640,
+      "width": 54,
+      "height": 32,
+      "confidence": 85.259003,
+      "text": "(15%)"
+    },
+    {
+      "left": 489,
+      "top": 1612,
+      "width": 37,
+      "height": 74,
+      "confidence": 18.836555,
+      "text": "|"
+    },
+    {
+      "left": 556,
+      "top": 1616,
+      "width": 52,
+      "height": 66,
+      "confidence": 77.098816,
+      "text": "H"
+    },
+    {
+      "left": 631,
+      "top": 1633,
+      "width": 38,
+      "height": 35,
+      "confidence": 63.851887,
+      "text": "(71"
+    },
+    {
+      "left": 675,
+      "top": 1629,
+      "width": 50,
+      "height": 45,
+      "confidence": 88.361435,
+      "text": "first"
+    },
+    {
+      "left": 732,
+      "top": 1635,
+      "width": 34,
+      "height": 29,
+      "confidence": 94.896355,
+      "text": "Aid"
+    },
+    {
+      "left": 772,
+      "top": 1639,
+      "width": 61,
+      "height": 31,
+      "confidence": 65.800301,
+      "text": "(30%)"
+    },
+    {
+      "left": 929,
+      "top": 1612,
+      "width": 44,
+      "height": 74,
+      "confidence": 60.826565,
+      "text": "[|"
+    },
+    {
+      "left": 996,
+      "top": 1616,
+      "width": 52,
+      "height": 66,
+      "confidence": 81.547813,
+      "text": "H"
+    },
+    {
+      "left": 1075,
+      "top": 1633,
+      "width": 38,
+      "height": 35,
+      "confidence": 52.218281,
+      "text": "(77"
+    },
+    {
+      "left": 1124,
+      "top": 1629,
+      "width": 88,
+      "height": 47,
+      "confidence": 94.49482,
+      "text": "Navigate"
+    },
+    {
+      "left": 1220,
+      "top": 1629,
+      "width": 56,
+      "height": 47,
+      "confidence": 94.49482,
+      "text": "(10%)"
+    },
+    {
+      "left": 1368,
+      "top": 1612,
+      "width": 44,
+      "height": 74,
+      "confidence": 78.388962,
+      "text": "|"
+    },
+    {
+      "left": 1435,
+      "top": 1616,
+      "width": 52,
+      "height": 66,
+      "confidence": 81.449081,
+      "text": "H"
+    },
+    {
+      "left": 1519,
+      "top": 1633,
+      "width": 37,
+      "height": 35,
+      "confidence": 61.801422,
+      "text": "(77"
+    },
+    {
+      "left": 1567,
+      "top": 1637,
+      "width": 57,
+      "height": 25,
+      "confidence": 95.850243,
+      "text": "Swim"
+    },
+    {
+      "left": 1630,
+      "top": 1637,
+      "width": 60,
+      "height": 30,
+      "confidence": 96.504608,
+      "text": "(20%)"
+    },
+    {
+      "left": 1808,
+      "top": 1612,
+      "width": 37,
+      "height": 74,
+      "confidence": 54.23867,
+      "text": "|"
+    },
+    {
+      "left": 1875,
+      "top": 1616,
+      "width": 52,
+      "height": 66,
+      "confidence": 76.762062,
+      "text": "H"
+    },
+    {
+      "left": 188,
+      "top": 1702,
+      "width": 38,
+      "height": 35,
+      "confidence": 39.724701,
+      "text": "C7"
+    },
+    {
+      "left": 238,
+      "top": 1706,
+      "width": 69,
+      "height": 27,
+      "confidence": 90.297485,
+      "text": "Climb"
+    },
+    {
+      "left": 312,
+      "top": 1708,
+      "width": 61,
+      "height": 30,
+      "confidence": 93.274315,
+      "text": "(20%)"
+    },
+    {
+      "left": 489,
+      "top": 1681,
+      "width": 37,
+      "height": 74,
+      "confidence": 61.277828,
+      "text": "["
+    },
+    {
+      "left": 556,
+      "top": 1685,
+      "width": 52,
+      "height": 66,
+      "confidence": 61.277828,
+      "text": "H"
+    },
+    {
+      "left": 627,
+      "top": 1684,
+      "width": 22,
+      "height": 64,
+      "confidence": 48.080566,
+      "text": "1"
+    },
+    {
+      "left": 682,
+      "top": 1708,
+      "width": 73,
+      "height": 36,
+      "confidence": 41.643974,
+      "text": "History"
+    },
+    {
+      "left": 760,
+      "top": 1708,
+      "width": 60,
+      "height": 33,
+      "confidence": 41.643974,
+      "text": "(05%)"
+    },
+    {
+      "left": 930,
+      "top": 1681,
+      "width": 119,
+      "height": 74,
+      "confidence": 62.975079,
+      "text": "LH"
+    },
+    {
+      "left": 1075,
+      "top": 1702,
+      "width": 38,
+      "height": 35,
+      "confidence": 38.45385,
+      "text": "(7"
+    },
+    {
+      "left": 1124,
+      "top": 1703,
+      "width": 76,
+      "height": 28,
+      "confidence": 65.205872,
+      "text": "Occult"
+    },
+    {
+      "left": 1206,
+      "top": 1706,
+      "width": 60,
+      "height": 32,
+      "confidence": 67.672256,
+      "text": "(05%)"
+    },
+    {
+      "left": 1368,
+      "top": 1681,
+      "width": 44,
+      "height": 74,
+      "confidence": 71.658463,
+      "text": "|"
+    },
+    {
+      "left": 1435,
+      "top": 1685,
+      "width": 52,
+      "height": 66,
+      "confidence": 77.829277,
+      "text": "H"
+    },
+    {
+      "left": 1519,
+      "top": 1702,
+      "width": 37,
+      "height": 35,
+      "confidence": 45.217113,
+      "text": "CT"
+    },
+    {
+      "left": 1564,
+      "top": 1682,
+      "width": 65,
+      "height": 59,
+      "confidence": 81.030388,
+      "text": "Throw"
+    },
+    {
+      "left": 1642,
+      "top": 1707,
+      "width": 56,
+      "height": 29,
+      "confidence": 93.302696,
+      "text": "(20%)"
+    },
+    {
+      "left": 1808,
+      "top": 1681,
+      "width": 37,
+      "height": 74,
+      "confidence": 45.756752,
+      "text": "[|"
+    },
+    {
+      "left": 1882,
+      "top": 1685,
+      "width": 45,
+      "height": 66,
+      "confidence": 17.547846,
+      "text": "A"
+    },
+    {
+      "left": 238,
+      "top": 1754,
+      "width": 70,
+      "height": 63,
+      "confidence": 93.594193,
+      "text": "Credit"
+    },
+    {
+      "left": 318,
+      "top": 1754,
+      "width": 63,
+      "height": 63,
+      "confidence": 74.550949,
+      "text": "Rating"
+    },
+    {
+      "left": 391,
+      "top": 1777,
+      "width": 60,
+      "height": 31,
+      "confidence": 74.550949,
+      "text": "(00%)"
+    },
+    {
+      "left": 631,
+      "top": 1772,
+      "width": 38,
+      "height": 35,
+      "confidence": 59.630592,
+      "text": "C77"
+    },
+    {
+      "left": 682,
+      "top": 1753,
+      "width": 108,
+      "height": 61,
+      "confidence": 68.621338,
+      "text": "intimidate"
+    },
+    {
+      "left": 799,
+      "top": 1778,
+      "width": 52,
+      "height": 32,
+      "confidence": 68.621338,
+      "text": "(15%)"
+    },
+    {
+      "left": 930,
+      "top": 1751,
+      "width": 37,
+      "height": 74,
+      "confidence": 76.881058,
+      "text": "|"
+    },
+    {
+      "left": 1004,
+      "top": 1755,
+      "width": 45,
+      "height": 66,
+      "confidence": 63.240543,
+      "text": "A"
+    },
+    {
+      "left": 1075,
+      "top": 1772,
+      "width": 21,
+      "height": 35,
+      "confidence": 26.004547,
+      "text": "1"
+    },
+    {
+      "left": 1121,
+      "top": 1750,
+      "width": 263,
+      "height": 75,
+      "confidence": 0.0,
+      "text": "Op.thMachine(ore)|"
+    },
+    {
+      "left": 1421,
+      "top": 1750,
+      "width": 69,
+      "height": 75,
+      "confidence": 10.533733,
+      "text": "|}"
+    },
+    {
+      "left": 1514,
+      "top": 1753,
+      "width": 35,
+      "height": 59,
+      "confidence": 45.380978,
+      "text": "CT"
+    },
+    {
+      "left": 1568,
+      "top": 1753,
+      "width": 55,
+      "height": 59,
+      "confidence": 41.187305,
+      "text": "Track"
+    },
+    {
+      "left": 1628,
+      "top": 1776,
+      "width": 57,
+      "height": 30,
+      "confidence": 41.187305,
+      "text": "(10%)"
+    },
+    {
+      "left": 1808,
+      "top": 1750,
+      "width": 120,
+      "height": 75,
+      "confidence": 55.939148,
+      "text": "[A"
+    },
+    {
+      "left": 238,
+      "top": 1820,
+      "width": 88,
+      "height": 75,
+      "confidence": 23.029972,
+      "text": "Cahulhu"
+    },
+    {
+      "left": 340,
+      "top": 1820,
+      "width": 142,
+      "height": 75,
+      "confidence": 46.853603,
+      "text": "Mythos(oo%)"
+    },
+    {
+      "left": 496,
+      "top": 1820,
+      "width": 13,
+      "height": 75,
+      "confidence": 73.525589,
+      "text": "|"
+    },
+    {
+      "left": 540,
+      "top": 1820,
+      "width": 69,
+      "height": 75,
+      "confidence": 0.0,
+      "text": "|}"
+    },
+    {
+      "left": 632,
+      "top": 1841,
+      "width": 37,
+      "height": 35,
+      "confidence": 40.964947,
+      "text": "7"
+    },
+    {
+      "left": 681,
+      "top": 1848,
+      "width": 52,
+      "height": 35,
+      "confidence": 88.375931,
+      "text": "Jump"
+    },
+    {
+      "left": 744,
+      "top": 1848,
+      "width": 60,
+      "height": 29,
+      "confidence": 83.249702,
+      "text": "(20%)"
+    },
+    {
+      "left": 930,
+      "top": 1820,
+      "width": 38,
+      "height": 75,
+      "confidence": 63.430943,
+      "text": "["
+    },
+    {
+      "left": 998,
+      "top": 1824,
+      "width": 50,
+      "height": 67,
+      "confidence": 31.549416,
+      "text": "A"
+    },
+    {
+      "left": 1071,
+      "top": 1822,
+      "width": 35,
+      "height": 59,
+      "confidence": 55.503342,
+      "text": "C7"
+    },
+    {
+      "left": 1120,
+      "top": 1822,
+      "width": 99,
+      "height": 59,
+      "confidence": 92.157387,
+      "text": "Persuade"
+    },
+    {
+      "left": 1228,
+      "top": 1822,
+      "width": 56,
+      "height": 59,
+      "confidence": 86.247086,
+      "text": "(10%)"
+    },
+    {
+      "left": 1368,
+      "top": 1820,
+      "width": 38,
+      "height": 75,
+      "confidence": 4.594345,
+      "text": "["
+    },
+    {
+      "left": 1518,
+      "top": 1841,
+      "width": 38,
+      "height": 35,
+      "confidence": 49.879765,
+      "text": "o"
+    },
+    {
+      "left": 1808,
+      "top": 1819,
+      "width": 119,
+      "height": 76,
+      "confidence": 47.36433,
+      "text": "|B"
+    },
+    {
+      "left": 188,
+      "top": 1980,
+      "width": 38,
+      "height": 36,
+      "confidence": 2.354946,
+      "text": "TF"
+    },
+    {
+      "left": 239,
+      "top": 1983,
+      "width": 190,
+      "height": 39,
+      "confidence": 0.0,
+      "text": "dedgettooy"
+    },
+    {
+      "left": 493,
+      "top": 1963,
+      "width": 115,
+      "height": 66,
+      "confidence": 0.0,
+      "text": "|)"
+    },
+    {
+      "left": 632,
+      "top": 1980,
+      "width": 37,
+      "height": 36,
+      "confidence": 43.006153,
+      "text": "0"
+    },
+    {
+      "left": 934,
+      "top": 1963,
+      "width": 114,
+      "height": 66,
+      "confidence": 9.223156,
+      "text": "A"
+    },
+    {
+      "left": 1075,
+      "top": 1980,
+      "width": 232,
+      "height": 46,
+      "confidence": 0.0,
+      "text": "Orydcegiocy)"
+    },
+    {
+      "left": 1345,
+      "top": 1957,
+      "width": 37,
+      "height": 86,
+      "confidence": 0.0,
+      "text": "$="
+    },
+    {
+      "left": 1446,
+      "top": 1963,
+      "width": 41,
+      "height": 66,
+      "confidence": 0.0,
+      "text": "4"
+    },
+    {
+      "left": 1519,
+      "top": 1980,
+      "width": 37,
+      "height": 36,
+      "confidence": 22.28104,
+      "text": "O"
+    },
+    {
+      "left": 1812,
+      "top": 1963,
+      "width": 115,
+      "height": 66,
+      "confidence": 75.572906,
+      "text": "LH"
+    },
+    {
+      "left": 188,
+      "top": 2051,
+      "width": 39,
+      "height": 34,
+      "confidence": 62.315216,
+      "text": "7"
+    },
+    {
+      "left": 239,
+      "top": 2056,
+      "width": 182,
+      "height": 30,
+      "confidence": 88.064888,
+      "text": "Drive"
+    },
+    {
+      "left": 310,
+      "top": 2044,
+      "width": 41,
+      "height": 54,
+      "confidence": 96.408691,
+      "text": "Auto"
+    },
+    {
+      "left": 364,
+      "top": 2056,
+      "width": 57,
+      "height": 30,
+      "confidence": 96.408691,
+      "text": "(20%)"
+    },
+    {
+      "left": 489,
+      "top": 2029,
+      "width": 38,
+      "height": 75,
+      "confidence": 87.375618,
+      "text": "["
+    },
+    {
+      "left": 557,
+      "top": 2029,
+      "width": 51,
+      "height": 75,
+      "confidence": 32.230793,
+      "text": "HB"
+    },
+    {
+      "left": 631,
+      "top": 2051,
+      "width": 38,
+      "height": 34,
+      "confidence": 77.164169,
+      "text": "o"
+    },
+    {
+      "left": 929,
+      "top": 2029,
+      "width": 38,
+      "height": 75,
+      "confidence": 17.509098,
+      "text": "["
+    },
+    {
+      "left": 1071,
+      "top": 2047,
+      "width": 33,
+      "height": 55,
+      "confidence": 53.916431,
+      "text": "17"
+    },
+    {
+      "left": 1125,
+      "top": 2047,
+      "width": 155,
+      "height": 55,
+      "confidence": 75.057693,
+      "text": "Psychoanalysis"
+    },
+    {
+      "left": 1291,
+      "top": 2060,
+      "width": 51,
+      "height": 29,
+      "confidence": 81.225693,
+      "text": "(01%)"
+    },
+    {
+      "left": 1368,
+      "top": 2029,
+      "width": 38,
+      "height": 75,
+      "confidence": 18.397379,
+      "text": "["
+    },
+    {
+      "left": 1515,
+      "top": 2047,
+      "width": 41,
+      "height": 55,
+      "confidence": 41.767418,
+      "text": "qo"
+    },
+    {
+      "left": 1808,
+      "top": 2029,
+      "width": 120,
+      "height": 75,
+      "confidence": 27.329569,
+      "text": "LH"
+    },
+    {
+      "left": 208,
+      "top": 2252,
+      "width": 104,
+      "height": 49,
+      "confidence": 96.531433,
+      "text": "Weapon"
+    },
+    {
+      "left": 497,
+      "top": 2255,
+      "width": 91,
+      "height": 42,
+      "confidence": 69.235672,
+      "text": "Regular"
+    },
+    {
+      "left": 626,
+      "top": 2255,
+      "width": 56,
+      "height": 30,
+      "confidence": 79.094147,
+      "text": "Hard"
+    },
+    {
+      "left": 722,
+      "top": 2260,
+      "width": 92,
+      "height": 26,
+      "confidence": 26.126446,
+      "text": "Extreme"
+    },
+    {
+      "left": 863,
+      "top": 2252,
+      "width": 104,
+      "height": 78,
+      "confidence": 50.22715,
+      "text": "cis;"
+    },
+    {
+      "left": 1043,
+      "top": 2259,
+      "width": 74,
+      "height": 39,
+      "confidence": 85.194427,
+      "text": "Range"
+    },
+    {
+      "left": 1173,
+      "top": 2255,
+      "width": 87,
+      "height": 33,
+      "confidence": 44.410278,
+      "text": "Attacks"
+    },
+    {
+      "left": 1294,
+      "top": 2251,
+      "width": 13,
+      "height": 51,
+      "confidence": 42.047249,
+      "text": "=~"
+    },
+    {
+      "left": 1320,
+      "top": 2260,
+      "width": 82,
+      "height": 26,
+      "confidence": 94.514984,
+      "text": "Ammo"
+    },
+    {
+      "left": 1477,
+      "top": 2254,
+      "width": 62,
+      "height": 32,
+      "confidence": 11.907644,
+      "text": "Mall,"
+    },
+    {
+      "left": 235,
+      "top": 2296,
+      "width": 122,
+      "height": 31,
+      "confidence": 96.132942,
+      "text": "Unarmed"
+    },
+    {
+      "left": 863,
+      "top": 2296,
+      "width": 43,
+      "height": 39,
+      "confidence": 55.34956,
+      "text": "idz"
+    },
+    {
+      "left": 917,
+      "top": 2310,
+      "width": 14,
+      "height": 15,
+      "confidence": 76.652695,
+      "text": "+"
+    },
+    {
+      "left": 963,
+      "top": 2296,
+      "width": 16,
+      "height": 31,
+      "confidence": 76.652695,
+      "text": "db"
+    },
+    {
+      "left": 1083,
+      "top": 2315,
+      "width": 8,
+      "height": 4,
+      "confidence": 36.545807,
+      "text": "-"
+    },
+    {
+      "left": 1221,
+      "top": 2309,
+      "width": 6,
+      "height": 17,
+      "confidence": 83.761147,
+      "text": "1"
+    },
+    {
+      "left": 1372,
+      "top": 2315,
+      "width": 8,
+      "height": 4,
+      "confidence": 62.795521,
+      "text": ":"
+    },
+    {
+      "left": 1503,
+      "top": 2315,
+      "width": 9,
+      "height": 4,
+      "confidence": 72.408394,
+      "text": "-"
+    },
+    {
+      "left": 1625,
+      "top": 2298,
+      "width": 122,
+      "height": 51,
+      "confidence": 96.915001,
+      "text": "Damage"
+    },
+    {
+      "left": 1786,
+      "top": 2320,
+      "width": 106,
+      "height": 37,
+      "confidence": 90.772041,
+      "text": "+1D4"
+    },
+    {
+      "left": 225,
+      "top": 2340,
+      "width": 95,
+      "height": 49,
+      "confidence": 96.963692,
+      "text": "Hatchet"
+    },
+    {
+      "left": 855,
+      "top": 2340,
+      "width": 129,
+      "height": 49,
+      "confidence": 41.022839,
+      "text": "1d6+1+4db"
+    },
+    {
+      "left": 1084,
+      "top": 2369,
+      "width": 8,
+      "height": 3,
+      "confidence": 44.818096,
+      "text": ":"
+    },
+    {
+      "left": 1222,
+      "top": 2358,
+      "width": 7,
+      "height": 21,
+      "confidence": 96.623703,
+      "text": "1"
+    },
+    {
+      "left": 1365,
+      "top": 2369,
+      "width": 8,
+      "height": 3,
+      "confidence": 0.0,
+      "text": ":"
+    },
+    {
+      "left": 1507,
+      "top": 2369,
+      "width": 9,
+      "height": 3,
+      "confidence": 26.716461,
+      "text": ":"
+    },
+    {
+      "left": 1641,
+      "top": 2343,
+      "width": 90,
+      "height": 29,
+      "confidence": 96.916687,
+      "text": "Bonus"
+    },
+    {
+      "left": 225,
+      "top": 2408,
+      "width": 61,
+      "height": 22,
+      "confidence": 96.810448,
+      "text": "Knife"
+    },
+    {
+      "left": 294,
+      "top": 2409,
+      "width": 119,
+      "height": 28,
+      "confidence": 96.919754,
+      "text": "(Medium)"
+    },
+    {
+      "left": 855,
+      "top": 2393,
+      "width": 129,
+      "height": 48,
+      "confidence": 45.7201,
+      "text": "1d44+2+db"
+    },
+    {
+      "left": 1079,
+      "top": 2393,
+      "width": 13,
+      "height": 48,
+      "confidence": 0.0,
+      "text": "fs"
+    },
+    {
+      "left": 1221,
+      "top": 2410,
+      "width": 8,
+      "height": 20,
+      "confidence": 95.155235,
+      "text": "1"
+    },
+    {
+      "left": 1365,
+      "top": 2420,
+      "width": 8,
+      "height": 4,
+      "confidence": 0.0,
+      "text": ","
+    },
+    {
+      "left": 1507,
+      "top": 2420,
+      "width": 9,
+      "height": 4,
+      "confidence": 10.320339,
+      "text": ":"
+    },
+    {
+      "left": 1647,
+      "top": 2421,
+      "width": 77,
+      "height": 32,
+      "confidence": 96.665001,
+      "text": "Build"
+    },
+    {
+      "left": 225,
+      "top": 2456,
+      "width": 60,
+      "height": 33,
+      "confidence": 86.65966,
+      "text": ".30-06"
+    },
+    {
+      "left": 295,
+      "top": 2456,
+      "width": 113,
+      "height": 33,
+      "confidence": 93.205696,
+      "text": "Bolt-action"
+    },
+    {
+      "left": 425,
+      "top": 2461,
+      "width": 47,
+      "height": 20,
+      "confidence": 96.914314,
+      "text": "Rifle"
+    },
+    {
+      "left": 879,
+      "top": 2460,
+      "width": 79,
+      "height": 22,
+      "confidence": 90.386887,
+      "text": "2d6+4"
+    },
+    {
+      "left": 1043,
+      "top": 2461,
+      "width": 42,
+      "height": 21,
+      "confidence": 96.509079,
+      "text": "110"
+    },
+    {
+      "left": 1107,
+      "top": 2460,
+      "width": 27,
+      "height": 22,
+      "confidence": 96.353455,
+      "text": "yds"
+    },
+    {
+      "left": 1221,
+      "top": 2461,
+      "width": 8,
+      "height": 21,
+      "confidence": 95.992851,
+      "text": "1"
+    },
+    {
+      "left": 1363,
+      "top": 2461,
+      "width": 12,
+      "height": 20,
+      "confidence": 88.603539,
+      "text": "5"
+    },
+    {
+      "left": 1491,
+      "top": 2461,
+      "width": 44,
+      "height": 21,
+      "confidence": 96.709015,
+      "text": "100"
+    },
+    {
+      "left": 104,
+      "top": 2540,
+      "width": 1014,
+      "height": 110,
+      "confidence": 0.0,
+      "text": "=____"
+    },
+    {
+      "left": 1951,
+      "top": 2572,
+      "width": 69,
+      "height": 47,
+      "confidence": 40.487892,
+      "text": "ke"
+    },
+    {
+      "left": 105,
+      "top": 2620,
+      "width": 1915,
+      "height": 60,
+      "confidence": 44.084923,
+      "text": "SSS"
+    },
+    {
+      "left": 107,
+      "top": 2669,
+      "width": 76,
+      "height": 32,
+      "confidence": 54.80262,
+      "text": "A\\"
+    },
+    {
+      "left": 189,
+      "top": 2679,
+      "width": 55,
+      "height": 24,
+      "confidence": 42.394958,
+      "text": "ee"
+    },
+    {
+      "left": 252,
+      "top": 2658,
+      "width": 39,
+      "height": 40,
+      "confidence": 45.050987,
+      "text": "i"
+    },
+    {
+      "left": 1833,
+      "top": 2659,
+      "width": 186,
+      "height": 44,
+      "confidence": 0.361223,
+      "text": "Ga."
+    }
+  ],
+  "renderSha256": "ccd61f75e2f25f8ae8e8429a0ca6fe9c5e894601f994640ee3d7e3c249de736f"
+}

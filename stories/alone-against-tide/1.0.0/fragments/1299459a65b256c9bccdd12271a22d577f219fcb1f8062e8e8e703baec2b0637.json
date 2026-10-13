@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "221"
+  ],
+  "text": [
+    "汽车猛地驶来，车灯穿透浓雾，照在你身上。司机丝毫没有减速的迹象，正不顾一切地驾驶，沿路颠簸前行，疯狂地左右转向。",
+    "你无法预料车辆这条反复无常的路线会怎么变化。你试图扑向一旁躲开它，但没能成功。",
+    "汽车迎面撞上了你。你当场丧命，许多骨头被撞得粉碎。",
+    "你死了。欢迎你重新尝试这个故事，希望得到不同的结果；但眼下，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 221",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 221",
+      "text": [
+        "The car shoots forward, and you’re caught in its headlights as they pierce through the fog. The driver doesn’t show any sign of slowing—they’re driving with reckless abandon, bounding along the road and swerving madly.",
+        "You’re unable to predict any pattern in the erratic route the vehicle takes. You try to throw yourself aside to avoid it, but you fail.",
+        "The car hits you head-on. Many of your bones shatter as you are killed on impact. You have died. You’re welcome to try the story again in hopes of a different outcome, but for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

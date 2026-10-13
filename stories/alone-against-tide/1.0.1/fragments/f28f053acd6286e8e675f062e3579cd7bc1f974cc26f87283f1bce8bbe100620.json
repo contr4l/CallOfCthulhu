@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "232"
+  ],
+  "text": [
+    "你的体重带着你继续向前，你翻滚着越过悬崖边缘。你竭力想稳住自己，但已经太迟了。坠落时，你尽可能减缓下坠速度，却几乎无法控制身体。你很快便坠地身亡。",
+    "你死了。可惜，你没能活着逃离这些恐怖；也许下次你会做得更好。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 232",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 232",
+      "text": [
+        "Your weight carries you forward, and you go tumbling over the edge of the cliff. You do your best to catch yourself, but it’s too late. As you fall, you do what you can to slow your descent, but you have precious little control over it. It’s a short fall to your swift and sudden death. You have died. Unfortunately, you couldn’t escape from the horrors alive, though perhaps you will do better on your next attempt. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "42",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "42:p0",
+      "kind": "heading",
+      "text": "42",
+      "sourceLocation": "pdf:visual:[[17,64]]"
+    },
+    {
+      "id": "42:p1",
+      "kind": "body",
+      "text": "This  time  you  realize  Charlie  is  talking  sense.  You  go  with \nNorman to Bernard’s tent to move the wretch to the canoe. \nWhen you throw open the flap, you discover Bernard is gone. \nHis  tracks  lead  down  to  the  Hanninah  and  vanish  at  the \nriverbank.  Your  hasty  search  turns  up  nothing.  It  seems  he \nwandered away in his delirium and drowned.",
+      "sourceLocation": "pdf:visual:[[17,65],[17,66],[17,67],[17,68],[17,69],[17,70]]"
+    },
+    {
+      "id": "42:p2",
+      "kind": "body",
+      "text": "Your group hurriedly packs the canoe.",
+      "sourceLocation": "pdf:visual:[[17,71]]"
+    },
+    {
+      "id": "42:p3",
+      "kind": "body",
+      "text": "Go to 32.",
+      "sourceLocation": "pdf:visual:[[17,72]]"
+    },
+    {
+      "id": "42:p4",
+      "kind": "trace",
+      "text": "(41)",
+      "sourceLocation": "pdf:visual:[[17,73]]"
+    }
+  ]
+}

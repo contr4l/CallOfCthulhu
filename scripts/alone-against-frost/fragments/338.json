@@ -1,0 +1,30 @@
+{
+  "id": "338",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "338:p0",
+      "kind": "heading",
+      "text": "338",
+      "sourceLocation": "pdf:visual:[[63,80]]"
+    },
+    {
+      "id": "338:p1",
+      "kind": "body",
+      "text": "Something crashes through the woods behind you. It does not \nsound like the Sylvia you knew.",
+      "sourceLocation": "pdf:visual:[[63,81],[63,82]]"
+    },
+    {
+      "id": "338:p2",
+      "kind": "body",
+      "text": "Make a Hard CON roll for Norman. Then, make a Regular CON \nroll for yourself. If you both succeed, go to 513. If you fail, go to 337. \nIf you succeed, but Norman fails, go to 336.",
+      "sourceLocation": "pdf:visual:[[64,1],[64,2],[64,3]]"
+    },
+    {
+      "id": "338:p3",
+      "kind": "trace",
+      "text": "(305)",
+      "sourceLocation": "pdf:visual:[[64,4]]"
+    }
+  ]
+}

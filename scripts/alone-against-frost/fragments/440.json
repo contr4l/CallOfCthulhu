@@ -1,0 +1,36 @@
+{
+  "id": "440",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "440:p0",
+      "kind": "heading",
+      "text": "440",
+      "sourceLocation": "pdf:visual:[[77,32]]"
+    },
+    {
+      "id": "440:p1",
+      "kind": "body",
+      "text": "Norman’s gruff cry becomes high-pitched as wounds rip open \nhis face and scalp. He goes down in a bloody haze. You are the \nonly one left, and your strength is failing.",
+      "sourceLocation": "pdf:visual:[[77,33],[77,34],[77,35]]"
+    },
+    {
+      "id": "440:p2",
+      "kind": "body",
+      "text": "Attempt a Regular POW roll with a bonus die: if you succeed, go to \n442; if you fail, go to 441.",
+      "sourceLocation": "pdf:visual:[[77,36],[77,37]]"
+    },
+    {
+      "id": "440:p3",
+      "kind": "trace",
+      "text": "(439)",
+      "sourceLocation": "pdf:visual:[[77,38]]"
+    },
+    {
+      "id": "440:p4",
+      "kind": "body",
+      "text": "76",
+      "sourceLocation": "pdf:visual:[[77,39]]"
+    }
+  ]
+}

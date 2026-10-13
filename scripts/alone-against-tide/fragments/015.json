@@ -1,0 +1,90 @@
+{
+  "id": "15",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "15:p0",
+      "kind": "heading",
+      "text": "15\n",
+      "sourceLocation": "pdf:spans:[[13,378,381]]"
+    },
+    {
+      "id": "15:p1",
+      "kind": "body",
+      "text": "Pushing through the crowd, you make your way toward the \nestate sale. Judging by the number of people packing into the \ndance hall, this seems to be quite the event.\n",
+      "sourceLocation": "pdf:spans:[[13,381,438],[13,438,501],[13,501,547]]"
+    },
+    {
+      "id": "15:p2",
+      "kind": "body",
+      "text": "Most of the people here are well-dressed, with conspicuous \namounts of jewelry and designer clothing on display. You see \na broad-shouldered man in a policeman’s uniform standing by \nthe door. He has a scarred yet clean-shaven face and a baton at \nhis side. His brow is furrowed in a serious expression and he \nwatches the commotion through narrow eyes.\n",
+      "sourceLocation": "pdf:spans:[[13,547,607],[13,607,669],[13,669,730],[13,730,795],[13,795,858],[13,858,901]]"
+    },
+    {
+      "id": "15:p3",
+      "kind": "body",
+      "text": "As you mingle with the assorted academics and collectors, \nyou notice a few other faces that stand out in the crowd.\n",
+      "sourceLocation": "pdf:spans:[[13,901,960],[13,960,1018]]"
+    },
+    {
+      "id": "15:p4",
+      "kind": "body",
+      "text": "Most immediately, you spot a man in flowing orange robes \nwith tawny skin. He seems more than a little out of place and is \ngarnering some odd looks from the other guests.\n",
+      "sourceLocation": "pdf:spans:[[13,1018,1076],[13,1076,1142],[13,1142,1190]]"
+    },
+    {
+      "id": "15:p5",
+      "kind": "body",
+      "text": "Glancing around further, you happen to notice the two dark-\nsuited gentlemen from earlier, standing in a corner toward the \nfront of the room, talking to a young dark-haired man in a \ndated yet elegant long coat. He is of a slight build and has \nrather sharp features; a thin wisp of a mustache hangs beneath \nhis nose.\n",
+      "sourceLocation": "pdf:spans:[[13,1190,1250],[13,1250,1314],[13,1314,1374],[13,1374,1436],[13,1436,1500],[13,1500,1510]]"
+    },
+    {
+      "id": "15:p6",
+      "kind": "body",
+      "text": "Most noticeable, though, is the rather attractive young \nwoman standing on stage at the front of the room next to a \nbespectacled old man. Long black hair cascades down her \nshoulders, accentuating her pale features and complementing \nher formal black dress. Occasionally, she and the older \ngentleman peek at objects hidden beneath white sheets—the \nsale items waiting to be displayed.\n",
+      "sourceLocation": "pdf:spans:[[13,1510,1567],[13,1567,1627],[13,1627,1684],[13,1684,1745],[13,1745,1802],[13,1802,1861],[13,1861,1897]]"
+    },
+    {
+      "id": "15:p7",
+      "kind": "body",
+      "text": "• To mingle with the crowd of guests, go to 34.\n",
+      "sourceLocation": "pdf:spans:[[13,1897,1945]]"
+    },
+    {
+      "id": "15:p8",
+      "kind": "body",
+      "text": "• To speak to the officer at the back of the room, go to 88.\n",
+      "sourceLocation": "pdf:spans:[[13,1945,2006]]"
+    },
+    {
+      "id": "15:p9",
+      "kind": "body",
+      "text": "• To approach the man in orange, go to 102.\n",
+      "sourceLocation": "pdf:spans:[[13,2006,2050]]"
+    },
+    {
+      "id": "15:p10",
+      "kind": "body",
+      "text": "• To introduce yourself to the dark-suited men, go to 60.\n",
+      "sourceLocation": "pdf:spans:[[13,2050,2108]]"
+    },
+    {
+      "id": "15:p11",
+      "kind": "body",
+      "text": "• To make your way toward the stage and the woman, go to 22.\n",
+      "sourceLocation": "pdf:spans:[[13,2108,2169]]"
+    },
+    {
+      "id": "15:p12",
+      "kind": "body",
+      "text": "• To leave the hall and go find a place to stay for the night, go to 26.\n",
+      "sourceLocation": "pdf:spans:[[13,2169,2242]]"
+    },
+    {
+      "id": "15:p13",
+      "kind": "body",
+      "text": "(3)\n",
+      "sourceLocation": "pdf:spans:[[13,2242,2246]]"
+    }
+  ]
+}

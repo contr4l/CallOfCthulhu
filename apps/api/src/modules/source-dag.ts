@@ -203,7 +203,9 @@ export function validateSourceFragments(
     }
     const terminal = fragment.paragraphs.some(
       (p) =>
-        p.kind === "body" && /^(?:the end\.|结局[。.]?)$/i.test(p.text.trim()),
+        p.kind === "body" &&
+        (/(?:^|\s)THE END[.!]?(?:\s|$)/.test(p.text) ||
+          /^(?:the end\.|结局[。.]?)$/i.test(p.text.trim())),
     );
     if (terminal !== node.terminal) fail("terminal mismatch");
   }

@@ -1,0 +1,34 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "227"
+  ],
+  "text": [
+    "你注视着班尤念完咒文，仿佛一副沉重的担子从他肩上卸下。你疑惑地看了他一会儿，才注意到门上的撞击声逐渐停了下来。你谨慎地走到门边，稍稍打开门，向外张望。",
+    "门一打开，一股水流旋转着涌进教堂，浸湿你的双腿和周围的地面，然后积在长椅之间。你望向街道，发现整个埃斯伯里都泡在齐腰深的水中，不过雾气已经消散，水位似乎也不再上涨。",
+    "班尤走到你身边，松了口气。“事情已经结束了。暂时我们安全了。离开这里时，我会把遗物带走。我们会阻止这种事再次发生。”",
+    "说完，班尤拿起圣坛旁装着物品的袋子，涉水走进洪水中。你不知道他要去哪里，但之后再也没有见过他。",
+    "后来，埃斯伯里被疏散。一些居民的尸体被发现，死因被定为溺水。部分居民声称在雾中看见了奇怪的东西，报纸则称这是异常洪水引发的大规模集体歇斯底里。一些居民被送进精神病院，不过许多人在洪水退去后回到了埃斯伯里。",
+    "你仍不完全清楚那里发生了什么，但你很清楚那并非完全自然。你尽力忘掉这一切，但记忆仍萦绕在心底。你再也没有回到埃斯伯里。",
+    "你在这场冒险中幸存下来；如果愿意，可以保存这个角色，以后继续使用。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 227",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 227",
+      "text": [
+        "You stare at Banyu as he completes his chant, and it’s as if a great weight has fallen from his shoulders. You look at him curiously for a moment before you notice the pounding at the door fades to a stop. Cautiously, you go to the door and crack it open a little, so you can look outside.",
+        "As the door swings open, a rush of water swirls into the church, soaking your legs and the floor around you, before pooling amid the church pews. Looking out into the streets, it appears that all of Esbury is awash with waist-deep water, though the fog has faded and the water doesn’t appear to be rising any further.",
+        "Banyu comes to join you and he breathes a sigh of relief. “It is done now. We will be safe for the moment. I will take the artifacts with me when I leave this place. We will prevent this from happening again.”",
+        "With that, Banyu gathers up the sack of items by the altar and wades out into the floodwater. You don’t know where he’s going, but you never see him again.",
+        "In time, Esbury is evacuated. The bodies of some residents are found, their deaths labeled as drowning. Some residents claim to have seen strange things in the mist, which the papers label as an outbreak of mass hysteria brought on by the anomalous flooding. Some residents are committed to mental institutions, though many return to Esbury when the water recedes.",
+        "You’re still not entirely sure what went on there, but you are fully aware that it wasn’t entirely natural. You do your best to forget it, but the memory still lingers in the back of your mind. You never return to Esbury. You have survived this adventure, and you may save this character to use at a later time, if you wish. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "96",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "96:p0",
+      "kind": "heading",
+      "text": "96\n",
+      "sourceLocation": "pdf:spans:[[34,26,29]]"
+    },
+    {
+      "id": "96:p1",
+      "kind": "body",
+      "text": "Joshua aims the gun at you, and you freeze in shock. The \nweapon goes off in his hand and the bullet whizzes through \nthe air, tearing open your left shoulder and throwing you back \nagainst the wall.\n",
+      "sourceLocation": "pdf:spans:[[34,29,87],[34,87,147],[34,147,211],[34,211,229]]"
+    },
+    {
+      "id": "96:p2",
+      "kind": "body",
+      "text": "You collapse in a heap, blood oozing from your wound. \nYou know it isn’t fatal, but that doesn’t make the pain any less. \nAs you struggle to fight through that pain, you find Joshua \nstanding over you. The look on his face is one of pure rage. It is \nthe last thing you see as you are clubbed into unconsciousness.\nGo to 138.\n",
+      "sourceLocation": "pdf:spans:[[34,229,284],[34,284,351],[34,351,412],[34,412,480],[34,480,544],[34,544,555]]"
+    },
+    {
+      "id": "96:p3",
+      "kind": "body",
+      "text": "(125, 140, 145)\n",
+      "sourceLocation": "pdf:spans:[[34,555,571]]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "46",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "46:p0",
+      "kind": "heading",
+      "text": "46",
+      "sourceLocation": "pdf:visual:[[18,18]]"
+    },
+    {
+      "id": "46:p1",
+      "kind": "body",
+      "text": "Leaving Bernard Ebstein on watch, your party turns in, each \nto their own small tent. You throw your eiderdown roll over a \nmat of branches and cover it with a sheet. Yawning, you take a \nlast look outside; the camp is bedded down and everything is \nin its place.",
+      "sourceLocation": "pdf:visual:[[18,19],[18,20],[18,21],[18,22],[18,23]]"
+    },
+    {
+      "id": "46:p2",
+      "kind": "body",
+      "text": "That night you dream of walking naked across a snowfield. \nYour shivering becomes more pronounced with every step you \ntake.  When  you  wake  in  your  sleeping  roll,  you  realize  the \ntemperature, at least, is no dream. Frigid branches crack outside, \ntossed by frosty gusts. But you hear something else: a breathy, \nchilling voice on the wind. It whispers two clear syllables, like \nancient wilderness given speech: “Eb-stein.”",
+      "sourceLocation": "pdf:visual:[[18,24],[18,25],[18,26],[18,27],[18,28],[18,29],[18,30]]"
+    },
+    {
+      "id": "46:p3",
+      "kind": "body",
+      "text": "You tell yourself it is only one of your companions calling \nthe graduate student. But it comes again, and you know it is no \nearthly sound: “Eb-stein!”",
+      "sourceLocation": "pdf:visual:[[18,31],[18,32],[18,33]]"
+    },
+    {
+      "id": "46:p4",
+      "kind": "body",
+      "text": "You rise, throw on your jacket, and seize your weapons. As \nyou lift the tent flap, you see Bernard at the camp’s edge, staring \ninto the woods. He gives an unintelligible shout and darts into \nthe blackness of the encroaching trees.",
+      "sourceLocation": "pdf:visual:[[18,34],[18,35],[18,36],[18,37]]"
+    },
+    {
+      "id": "46:p5",
+      "kind": "body",
+      "text": "To run after your student, go to 47; to rouse the rest of the party \nfirst, go to 71.",
+      "sourceLocation": "pdf:visual:[[18,38],[18,39]]"
+    },
+    {
+      "id": "46:p6",
+      "kind": "trace",
+      "text": "(21)",
+      "sourceLocation": "pdf:visual:[[18,40]]"
+    }
+  ]
+}

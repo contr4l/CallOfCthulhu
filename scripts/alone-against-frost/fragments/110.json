@@ -1,0 +1,30 @@
+{
+  "id": "110",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "110:p0",
+      "kind": "heading",
+      "text": "110",
+      "sourceLocation": "pdf:visual:[[28,59]]"
+    },
+    {
+      "id": "110:p1",
+      "kind": "body",
+      "text": "Your party struggles back the way they came, to reach Bernard. \nAs you watch him flail, the current tosses him backward and his \nhead is thrown against a pointed crag. You hear the sickening \ncrack of impact and see the tiny blossom of blood in the water. \nHe goes under, eyes wide, mouth hanging slack. As he sinks, \nthe  body  is  carried  away.  Norman  urges  pursuit,  but  Sylvia \nmeets your eyes and you both acknowledge the truth. It takes a \nmoment for her to convince Norman.",
+      "sourceLocation": "pdf:visual:[[28,60],[28,61],[28,62],[28,63],[28,64],[28,65],[28,66],[28,67]]"
+    },
+    {
+      "id": "110:p2",
+      "kind": "body",
+      "text": "To press on and enter the fissure, go to 125. To turn toward home, \ngo to 54.",
+      "sourceLocation": "pdf:visual:[[28,68],[28,69]]"
+    },
+    {
+      "id": "110:p3",
+      "kind": "trace",
+      "text": "(643)",
+      "sourceLocation": "pdf:visual:[[28,70]]"
+    }
+  ]
+}

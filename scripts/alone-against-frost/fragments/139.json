@@ -1,0 +1,60 @@
+{
+  "id": "139",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "139:p0",
+      "kind": "heading",
+      "text": "139",
+      "sourceLocation": "pdf:visual:[[32,43]]"
+    },
+    {
+      "id": "139:p1",
+      "kind": "body",
+      "text": "You calm Norman and Sylvia, trying to suppress the quaver in \nyour own voice. You explain that time alone in the wilderness \ncan change a man and the three of you will have to be patient \nwith Bernard.",
+      "sourceLocation": "pdf:visual:[[32,44],[32,45],[32,46],[32,47]]"
+    },
+    {
+      "id": "139:p2",
+      "kind": "body",
+      "text": "Sylvia ladles up a bowl of soup and offers it to the prodigal. \nHis face twists in horror and he bats the warm broth away, \nspilling it on the gray-green lichen.",
+      "sourceLocation": "pdf:visual:[[32,48],[32,49],[32,50]]"
+    },
+    {
+      "id": "139:p3",
+      "kind": "body",
+      "text": "“It’s… too cold to have hunger,” Bernard mumbles. “I will sleep.”",
+      "sourceLocation": "pdf:visual:[[32,51]]"
+    },
+    {
+      "id": "139:p4",
+      "kind": "body",
+      "text": "You ask Norman to fetch some bedding.",
+      "sourceLocation": "pdf:visual:[[32,52]]"
+    },
+    {
+      "id": "139:p5",
+      "kind": "body",
+      "text": "“No,” Bernard rumbles, “I will rest there.” He points to a dark \ncorner away from the fire. You say nothing and let him stretch \nout on the chill moss.",
+      "sourceLocation": "pdf:visual:[[32,53],[32,54],[32,55]]"
+    },
+    {
+      "id": "139:p6",
+      "kind": "body",
+      "text": "Perturbed by Bernard’s behavior, you keep an eye on him \nwhile you stand watch. The bandages on his feet bother you. \nIt is a long way back to Fort McDonald and you should have \nchanged them.",
+      "sourceLocation": "pdf:visual:[[32,56],[32,57],[32,58],[32,59]]"
+    },
+    {
+      "id": "139:p7",
+      "kind": "body",
+      "text": "To creep up on the sleeping student and examine his bandages, go to \n204. To leave him to rest in peace, finish your watch and go to 179. ",
+      "sourceLocation": "pdf:visual:[[32,60],[32,61]]"
+    },
+    {
+      "id": "139:p8",
+      "kind": "trace",
+      "text": "(101)",
+      "sourceLocation": "pdf:visual:[[32,62]]"
+    }
+  ]
+}

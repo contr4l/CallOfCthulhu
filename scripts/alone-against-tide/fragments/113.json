@@ -1,0 +1,36 @@
+{
+  "id": "113",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "113:p0",
+      "kind": "heading",
+      "text": "113\n",
+      "sourceLocation": "pdf:spans:[[37,2302,2306]]"
+    },
+    {
+      "id": "113:p1",
+      "kind": "body",
+      "text": "You let out a frightened scream as the creature lumbers toward \nyou. You panic and try to run but your legs fail you. You stumble \nand fall, tripping over yourself in your haste to escape.\n",
+      "sourceLocation": "pdf:spans:[[37,2306,2370],[37,2370,2437],[37,2437,2495]]"
+    },
+    {
+      "id": "113:p2",
+      "kind": "body",
+      "text": "As you tumble to the ground, the abominable being throws \nitself on top of you. Its long-fingered hands wrap around your \nthroat and begin choking the life out of you. The creature \nshakes you violently as it steadily throttles you to death.\n",
+      "sourceLocation": "pdf:spans:[[37,2495,2553],[37,2553,2617],[37,2617,2677],[37,2677,2737]]"
+    },
+    {
+      "id": "113:p3",
+      "kind": "body",
+      "text": "As you black out, the last thing you see are those horrible, \nlifeless eyes staring into your soul.\nYou have been killed by a being from another world. Though you are \nuncertain how this creature came to be here, it matters little now, as \nyour lifeless body adorns the streets of the lakeside town. Though you \nare free to start the adventure over and try again, for now, your visit \nto Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[37,2737,2799],[37,2799,2837],[37,2837,2905],[37,2905,2977],[37,2977,3049],[37,3049,3122],[37,3122,3150]]"
+    },
+    {
+      "id": "113:p4",
+      "kind": "body",
+      "text": "(162)\n",
+      "sourceLocation": "pdf:spans:[[37,3150,3156]]"
+    }
+  ]
+}

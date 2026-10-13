@@ -1,0 +1,30 @@
+{
+  "id": "130",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "130:p0",
+      "kind": "heading",
+      "text": "130",
+      "sourceLocation": "pdf:visual:[[31,55]]"
+    },
+    {
+      "id": "130:p1",
+      "kind": "body",
+      "text": "This is a rare opportunity in a lifetime dedicated to anthropology. \nHeart pounding, you stand up before this representative of an \nunknown  race,  your  hands  spread  in  a  peaceful  gesture. The \nlittle  man  lurches  in  surprise  and  then  darts  off,  trilling  an \nalarmed cry.",
+      "sourceLocation": "pdf:visual:[[31,56],[31,57],[31,58],[31,59],[31,60]]"
+    },
+    {
+      "id": "130:p2",
+      "kind": "body",
+      "text": "To follow the frightened primitive, go to 196. To clear out of the \narea before he returns with friends, go to 131.",
+      "sourceLocation": "pdf:visual:[[31,61],[31,62]]"
+    },
+    {
+      "id": "130:p3",
+      "kind": "trace",
+      "text": "(84)",
+      "sourceLocation": "pdf:visual:[[31,63]]"
+    }
+  ]
+}

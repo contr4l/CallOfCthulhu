@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "124"
+  ],
+  "text": [
+    "你把剩下的财物塞进薄薄的公文包，离开房间。你走下楼梯，没有理会其他房间里住客的动静。来到旅馆门口时，你从旁边的窗户向外窥视那令人作呕的浓雾。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 124",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 124",
+      "text": [
+        "You pack what remains of your belongings into your thin briefcase and leave your room behind. You descend the staircase, ignoring the sound of the other guests in their rooms. When you reach the establishment’s doorway, you peer out the nearby window and into the sickly fog."
+      ]
+    }
+  }
+}

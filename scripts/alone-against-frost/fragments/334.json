@@ -1,0 +1,30 @@
+{
+  "id": "334",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "334:p0",
+      "kind": "heading",
+      "text": "334",
+      "sourceLocation": "pdf:visual:[[63,48]]"
+    },
+    {
+      "id": "334:p1",
+      "kind": "body",
+      "text": "After minutes that feel like eternities, the steps depart. The owl \nhoots once more, the cicadas buzz. Even so, you do not relight \nthe fire for the rest of the night.",
+      "sourceLocation": "pdf:visual:[[63,49],[63,50],[63,51]]"
+    },
+    {
+      "id": "334:p2",
+      "kind": "body",
+      "text": "Go to 513.",
+      "sourceLocation": "pdf:visual:[[63,52]]"
+    },
+    {
+      "id": "334:p3",
+      "kind": "trace",
+      "text": "(333)",
+      "sourceLocation": "pdf:visual:[[63,53]]"
+    }
+  ]
+}

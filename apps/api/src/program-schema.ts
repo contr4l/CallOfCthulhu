@@ -21,6 +21,7 @@ const value = z.union([
 export const predicate: z.ZodType<Predicate> = z.lazy(() =>
   z.union([
     z.object({ flag: z.string(), equals: z.boolean() }).strict(),
+    z.object({ templateId: z.string().min(1) }).strict(),
     z.object({ all: z.array(predicate).min(1) }).strict(),
     z.object({ any: z.array(predicate).min(1) }).strict(),
     z.object({ not: predicate }).strict(),
@@ -108,7 +109,11 @@ const choice = z
   .strict();
 const allocation = z
   .object({
-    kind: z.enum(["attributes", "occupation", "interests"]),
+    kind: z.enum(["attributes", "occupation", "interests", "bonus"]),
+    count: z.number().int().min(1).max(50).optional(),
+    pool: z.number().int().positive().optional(),
+    includeCredit: z.boolean().optional(),
+    allowOccupation: z.boolean().optional(),
     specializations: z
       .record(
         z.string(),
@@ -118,6 +123,7 @@ const allocation = z
     values: z.array(z.number().int()).optional(),
     required: z.array(z.string()).optional(),
     optional: z.array(z.string()).optional(),
+    groups: z.array(z.array(z.string()).min(1)).optional(),
     extra: z.number().int().optional(),
     occupation: z.string().optional(),
     credit: z.number().int().optional(),
@@ -177,7 +183,13 @@ export const instruction: z.ZodType<Instruction> = z.discriminatedUnion(
         exhausted: z.string().optional(),
       })
       .strict(),
-    z.object({ kind: z.literal("end"), label: z.string() }).strict(),
+    z
+      .object({
+        kind: z.literal("end"),
+        label: z.string(),
+        collect: z.boolean().optional(),
+      })
+      .strict(),
     z
       .object({
         kind: z.literal("combat"),

@@ -1,0 +1,30 @@
+{
+  "id": "240",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "240:p0",
+      "kind": "heading",
+      "text": "240",
+      "sourceLocation": "pdf:visual:[[48,45]]"
+    },
+    {
+      "id": "240:p1",
+      "kind": "body",
+      "text": "You open fire on the depraved celebrants. As they rout into \nthe bush, you relish the sight of those who writhe wounded \non  the  mossy  ground.  “Professor!”  Sylvia  tugs  at  your  sleeve. \n“They’re coming around behind us!” You shove her hand away and \nempty your magazine toward the sounds approaching through \nthe thickets. Suddenly, you notice that your companions have \nfled. Not wanting to become separated, you dart after them, but \nchattering noises in your path force you to veer down a ravine.",
+      "sourceLocation": "pdf:visual:[[48,46],[48,47],[48,48],[48,49],[48,50],[48,51],[48,52],[48,53]]"
+    },
+    {
+      "id": "240:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 284; if the result is odd, go to 116.",
+      "sourceLocation": "pdf:visual:[[48,54]]"
+    },
+    {
+      "id": "240:p3",
+      "kind": "trace",
+      "text": "(203, 239)",
+      "sourceLocation": "pdf:visual:[[48,55]]"
+    }
+  ]
+}

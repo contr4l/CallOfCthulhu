@@ -1,0 +1,36 @@
+{
+  "id": "26",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "26:p0",
+      "kind": "heading",
+      "text": "26\n",
+      "sourceLocation": "pdf:spans:[[16,3055,3058]]"
+    },
+    {
+      "id": "26:p1",
+      "kind": "body",
+      "text": "While the estate sale seems interesting, you would feel more \nsecure with a roof over your head for the night. You pull \nsomeone out of the crowd and inquire as to where you can \nfind a room to rent. You’re directed a few blocks into town to \na modestly priced hotel a few buildings down from Esbury’s \npolice station.\n",
+      "sourceLocation": "pdf:spans:[[16,3058,3120],[16,3120,3179],[16,3179,3237],[16,3237,3301],[16,3301,3361],[16,3361,3377]]"
+    },
+    {
+      "id": "26:p2",
+      "kind": "body",
+      "text": "As you enter in from the cool night air, you’re greeted by \nthe heat of a roaring fire. The small front room feels stuffy and \ncramped. The bulk of the space is dominated by the large service \ncounter, behind which sits a wiry-looking wisp of a woman. She \nturns her wide eyes to you and asks your name, then quotes you \na price that’s more than fair. With the transaction complete, \nyou haul your thin briefcase up the stairs, unpack it, and settle \ninto your room for the night.\n",
+      "sourceLocation": "pdf:spans:[[16,3377,3437],[16,3437,3504],[16,3504,3570],[16,3570,3634],[16,3634,3698],[16,3698,3761],[16,3761,3828],[16,3828,3858]]"
+    },
+    {
+      "id": "26:p3",
+      "kind": "body",
+      "text": "• Go to 9. \n",
+      "sourceLocation": "pdf:spans:[[16,3858,3870]]"
+    },
+    {
+      "id": "26:p4",
+      "kind": "body",
+      "text": "(3, 15, 16, 17)",
+      "sourceLocation": "pdf:spans:[[16,3870,3885]]"
+    }
+  ]
+}

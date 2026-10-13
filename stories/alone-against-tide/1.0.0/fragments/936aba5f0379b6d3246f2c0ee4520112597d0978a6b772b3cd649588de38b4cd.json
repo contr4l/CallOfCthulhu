@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "161"
+  ],
+  "text": [
+    "无论你怎么努力，都打不开这扇门。你摆弄锁具，却无法让它移动分毫。你甚至试图用身体撞门，强行把门撞开。",
+    "你无奈地叹了口气，放弃了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 161",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 161",
+      "text": [
+        "Try as you might, you are unable to get the door open. No manner of fiddling with the lock will get it to budge. You even resort to force by attempting to throw your weight against the door.",
+        "With a sigh of resignation, you abandon your task."
+      ]
+    }
+  }
+}

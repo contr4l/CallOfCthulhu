@@ -1,0 +1,66 @@
+{
+  "id": "223",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "223:p0",
+      "kind": "heading",
+      "text": "223\n",
+      "sourceLocation": "pdf:spans:[[71,3439,3443]]"
+    },
+    {
+      "id": "223:p1",
+      "kind": "body",
+      "text": "You rush inside the nearby hotel and slam the door closed \nbehind you. You stay there for a moment, catching your breath \nas you try to come to terms with what you just saw.\n",
+      "sourceLocation": "pdf:spans:[[71,3443,3502],[71,3502,3565],[71,3565,3617]]"
+    },
+    {
+      "id": "223:p2",
+      "kind": "body",
+      "text": "You killed one, but judging by the sounds, there are more of \nthose disgusting, aberrant creatures out there. You don’t relish \nthe thought of dealing with them again.\n",
+      "sourceLocation": "pdf:spans:[[71,3617,3679],[71,3679,3745],[71,3745,3785]]"
+    },
+    {
+      "id": "223:p3",
+      "kind": "body",
+      "text": "You weigh your options. You could always simply hole up \nhere in the hotel, where it seems to be relatively safe.\n",
+      "sourceLocation": "pdf:spans:[[71,3785,3842],[71,3842,3899]]"
+    },
+    {
+      "id": "223:p4",
+      "kind": "body",
+      "text": "If you’re feeling brave of heart, you could confront the issue \nand see if you can find out what these things are and where \nthey’re coming from. Perhaps you could even stop them.\n",
+      "sourceLocation": "pdf:spans:[[71,3899,3963],[71,3963,4024],[71,4024,4079]]"
+    },
+    {
+      "id": "223:p5",
+      "kind": "body",
+      "text": "And if you’re willing to take a larger risk for the chance of \ngreater safety, you could flee into the woods. In the darkness \nand the fog, there’s little chance you’d be able to make it out, but \nif you could manage it, you’d be able to get far, far away from \nthis godforsaken town. The choice is yours.\n",
+      "sourceLocation": "pdf:spans:[[71,4079,4142],[71,4142,4206],[71,4206,4276],[71,4276,4341],[71,4341,4385]]"
+    },
+    {
+      "id": "223:p6",
+      "kind": "body",
+      "text": "• To remain in the hotel, go to 173.\n",
+      "sourceLocation": "pdf:spans:[[71,4387,4424]]"
+    },
+    {
+      "id": "223:p7",
+      "kind": "body",
+      "text": "• To investigate further, go to 200.\n",
+      "sourceLocation": "pdf:spans:[[71,4424,4461]]"
+    },
+    {
+      "id": "223:p8",
+      "kind": "body",
+      "text": "• To flee the horrors of Esbury, go to 166.\n",
+      "sourceLocation": "pdf:spans:[[71,4461,4505]]"
+    },
+    {
+      "id": "223:p9",
+      "kind": "body",
+      "text": "(177)",
+      "sourceLocation": "pdf:spans:[[71,4505,4510]]"
+    }
+  ]
+}

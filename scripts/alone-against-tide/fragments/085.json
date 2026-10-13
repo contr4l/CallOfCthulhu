@@ -1,0 +1,84 @@
+{
+  "id": "85",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "85:p0",
+      "kind": "heading",
+      "text": "85\n",
+      "sourceLocation": "pdf:spans:[[31,2775,2778]]"
+    },
+    {
+      "id": "85:p1",
+      "kind": "body",
+      "text": "You lower your weapon and adopt a soft tone of voice, reassuring \nher that you mean her no harm, that you were simply startled \nby the attempted arrest. You promise not to hurt her.\n",
+      "sourceLocation": "pdf:spans:[[31,2778,2844],[31,2844,2906],[31,2906,2960]]"
+    },
+    {
+      "id": "85:p2",
+      "kind": "body",
+      "text": "She cries throughout your speech, but eventually the \nwaterworks slow to a sniffle. Finally, she nods and accepts your \nexplanation, and even apologizes to you.\n",
+      "sourceLocation": "pdf:spans:[[31,2960,3014],[31,3014,3080],[31,3080,3121]]"
+    },
+    {
+      "id": "85:p3",
+      "kind": "body",
+      "text": "“I’m sorry. I never meant for any of this. Joshua sent that policeman \nafter you. He has the law in his pocket. Josh runs the bootlegging in \nEsbury, and he cuts Powell in on the profits in exchange for looking \nthe other way and helping keep everything secure.”\n",
+      "sourceLocation": "pdf:spans:[[31,3121,3192],[31,3192,3263],[31,3263,3333],[31,3333,3384]]"
+    },
+    {
+      "id": "85:p4",
+      "kind": "body",
+      "text": "She produces a handkerchief and dries her eyes. “Josh protects \nme. He loves me. He has for quite some time…”\n",
+      "sourceLocation": "pdf:spans:[[31,3384,3448],[31,3448,3494]]"
+    },
+    {
+      "id": "85:p5",
+      "kind": "body",
+      "text": "You press further, inquiring about the nature of their relationship, \nand how this relates to her husband’s death. She stares back at you \nblankly and takes a deep breath. “Josh and I have been intimate for a \nfew years. My husband was a good man, when he wasn’t obsessing over his \nwork. But he was sometimes away for so long, and paid so much attention \nto his books… I have needs. A woman my age shouldn’t be neglected. I met \nJosh through his whiskey business. He bootlegs for the whole town. One \nthing led to another and…” She smiles, dabbing at the last of the tears.\n",
+      "sourceLocation": "pdf:spans:[[31,3494,3564],[31,3564,3633],[31,3633,3704],[31,3704,3777],[31,3777,3850],[31,3850,3924],[31,3924,3996],[31,3996,4069]]"
+    },
+    {
+      "id": "85:p6",
+      "kind": "body",
+      "text": "“We were happy, even with William around. Recently though, \nJosh has been insistent that we get him out of the picture so that we \ncould be together. I didn’t like it, but I agreed. I let Josh take care of \nit. I just wanted it to be behind us and for us to be together. I told \nhim I wanted to sell everything and leave town. Just the two of us. I \nthink that was the first time I saw him angry. He never said why.”\n",
+      "sourceLocation": "pdf:spans:[[31,4069,4129],[31,4129,4200],[31,4200,4276],[31,4276,4348],[31,4348,4419],[31,4419,4486]]"
+    },
+    {
+      "id": "85:p7",
+      "kind": "body",
+      "text": "She looks down at her hands, trying to avoid your gaze. \n“You don’t have to worry about anything. We’ll leave town just as \nsoon as we can. I suggest you do the same.” She looks at Powell’s \nunconscious body lying on the floor.\n",
+      "sourceLocation": "pdf:spans:[[31,4486,4543],[31,4543,4610],[31,4610,4677],[31,4677,4714]]"
+    },
+    {
+      "id": "85:p8",
+      "kind": "body",
+      "text": "• To search the premises, go to 7.\n",
+      "sourceLocation": "pdf:spans:[[31,4714,4749]]"
+    },
+    {
+      "id": "85:p9",
+      "kind": "body",
+      "text": "• To tie up Officer Powell in case he wakes up, go to 68.\n",
+      "sourceLocation": "pdf:spans:[[31,4749,4807]]"
+    },
+    {
+      "id": "85:p10",
+      "kind": "body",
+      "text": "• To tie up Amelia, go to 125.\n",
+      "sourceLocation": "pdf:spans:[[31,4807,4838]]"
+    },
+    {
+      "id": "85:p11",
+      "kind": "body",
+      "text": "• To simply make good on your escape, go to 111.\n",
+      "sourceLocation": "pdf:spans:[[31,4838,4887]]"
+    },
+    {
+      "id": "85:p12",
+      "kind": "body",
+      "text": "(76, 99)\n",
+      "sourceLocation": "pdf:spans:[[31,4887,4896]]"
+    }
+  ]
+}

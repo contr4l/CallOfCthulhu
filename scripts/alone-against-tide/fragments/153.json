@@ -1,0 +1,54 @@
+{
+  "id": "153",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "153:p0",
+      "kind": "heading",
+      "text": "153\n",
+      "sourceLocation": "pdf:spans:[[50,1797,1801]]"
+    },
+    {
+      "id": "153:p1",
+      "kind": "body",
+      "text": "You pause to consider the strange green coloration of the fog \nand its incredible thickness. You wonder if it’s even safe to \nbe out on the water with visibility so limited. You decide to \nhead to the docks first to see if the ferry is still running before \nhauling all of your possessions down to the lakeshore.\n",
+      "sourceLocation": "pdf:spans:[[50,1801,1864],[50,1864,1927],[50,1927,1990],[50,1990,2059],[50,2059,2114]]"
+    },
+    {
+      "id": "153:p2",
+      "kind": "body",
+      "text": "You venture out into the cloying green mist and walk briskly \ntoward the docks. You arrive to find Sanford pacing the deck of his \nboat with a small flask in his hand. He stares out into the fog, lost in \nthought before you rouse him by inquiring about passage out of town.\n",
+      "sourceLocation": "pdf:spans:[[50,2114,2176],[50,2176,2245],[50,2245,2319],[50,2319,2388]]"
+    },
+    {
+      "id": "153:p3",
+      "kind": "body",
+      "text": "He confirms your fears. “Sorry, I can’t take her out like this. I \ncan barely see three feet in front of me. The lake is fairly tame, but I’d \nhave no way of telling where the shore is or if any other boats might \nbe out on the water. I like you, but it’s too dangerous. I just can’t \nrisk it. I’ve rarely seen a fog this thick. And this green… Never seen \nanything like it. I’m staying put.”\n",
+      "sourceLocation": "pdf:spans:[[50,2388,2455],[50,2455,2531],[50,2531,2602],[50,2602,2673],[50,2673,2745],[50,2745,2781]]"
+    },
+    {
+      "id": "153:p4",
+      "kind": "body",
+      "text": "You know that nothing you say could possibly convince him. \nResigned to your fate, you head back toward the rest of town.\n",
+      "sourceLocation": "pdf:spans:[[50,2781,2841],[50,2841,2903]]"
+    },
+    {
+      "id": "153:p5",
+      "kind": "body",
+      "text": "• To visit the police station, go to 11.\n",
+      "sourceLocation": "pdf:spans:[[50,2905,2946]]"
+    },
+    {
+      "id": "153:p6",
+      "kind": "body",
+      "text": "• To return to the hotel, go to 122.\n",
+      "sourceLocation": "pdf:spans:[[50,2946,2983]]"
+    },
+    {
+      "id": "153:p7",
+      "kind": "body",
+      "text": "(32, 106)\n",
+      "sourceLocation": "pdf:spans:[[50,2983,2993]]"
+    }
+  ]
+}

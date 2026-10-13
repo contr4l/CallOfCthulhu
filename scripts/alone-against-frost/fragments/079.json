@@ -1,0 +1,36 @@
+{
+  "id": "79",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "79:p0",
+      "kind": "heading",
+      "text": "79",
+      "sourceLocation": "pdf:visual:[[23,86]]"
+    },
+    {
+      "id": "79:p1",
+      "kind": "body",
+      "text": "The stranger stumbles backward under the bullet’s impact and \ncollapses  with  a  thunderstruck  grimace.  You  hurry  to  him. \nA  brief  examination  confirms  the  worst.  You  have  killed—\nmurdered—an  innocent  man,  probably  a  lost  woodsman  or \nprospector. You glance back at the horrified students.",
+      "sourceLocation": "pdf:visual:[[23,87],[23,88],[23,89],[23,90],[23,91]]"
+    },
+    {
+      "id": "79:p2",
+      "kind": "body",
+      "text": "If you get back to civilization, Sylvia and Norman will be \nobliged to recount what happened. Even if circumstances allow \na manslaughter plea, how many years will that mean in prison?",
+      "sourceLocation": "pdf:visual:[[24,1],[24,2],[24,3]]"
+    },
+    {
+      "id": "79:p3",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 97. ",
+      "sourceLocation": "pdf:visual:[[24,4]]"
+    },
+    {
+      "id": "79:p4",
+      "kind": "trace",
+      "text": "(78)",
+      "sourceLocation": "pdf:visual:[[24,5]]"
+    }
+  ]
+}

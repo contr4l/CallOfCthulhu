@@ -1,0 +1,42 @@
+{
+  "id": "121",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "121:p0",
+      "kind": "heading",
+      "text": "121\n",
+      "sourceLocation": "pdf:spans:[[40,1237,1241]]"
+    },
+    {
+      "id": "121:p1",
+      "kind": "body",
+      "text": "You wait for Joshua to strike, timing your reaction just right. \nHe drives forward with the point of the blade and you roll to \none side. The force of his lunge carries his blow through and he \nembeds the knife in the wall behind you, cursing as he does so.\n",
+      "sourceLocation": "pdf:spans:[[40,1241,1306],[40,1306,1369],[40,1369,1435],[40,1435,1499]]"
+    },
+    {
+      "id": "121:p2",
+      "kind": "body",
+      "text": "He lets go of the blade’s handle and turns to face you, balling \nup his fists and adopting a readied stance. He takes a few \nexperimental swings at you, which you handily dodge.\n",
+      "sourceLocation": "pdf:spans:[[40,1499,1564],[40,1564,1624],[40,1624,1677]]"
+    },
+    {
+      "id": "121:p3",
+      "kind": "body",
+      "text": "Still, you cannot simply keep avoiding him. You’ll have to \nsubdue him if you want to make it out of here, and judging by \nthe banging on the front door, you’ll have to do so quickly.\n",
+      "sourceLocation": "pdf:spans:[[40,1677,1737],[40,1737,1800],[40,1800,1861]]"
+    },
+    {
+      "id": "121:p4",
+      "kind": "body",
+      "text": "• Make a Fighting (Brawl) roll: if you succeed, go to 93; if you fail, \ntake 1D3 damage. If you survive this, go to 168; however, if this \nreduces you to zero hit points, you have been beaten to death. Your \nvisit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[40,1861,1933],[40,1933,2000],[40,2000,2069],[40,2069,2103]]"
+    },
+    {
+      "id": "121:p5",
+      "kind": "body",
+      "text": "(157)\n",
+      "sourceLocation": "pdf:spans:[[40,2103,2109]]"
+    }
+  ]
+}

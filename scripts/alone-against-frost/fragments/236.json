@@ -1,0 +1,30 @@
+{
+  "id": "236",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "236:p0",
+      "kind": "heading",
+      "text": "236",
+      "sourceLocation": "pdf:visual:[[48,13]]"
+    },
+    {
+      "id": "236:p1",
+      "kind": "body",
+      "text": "Through your watch, Norman lies quiet as a mannikin. You \nfinally wake Sylvia and turn in. Sometime before dawn, a cry \nbreaks your sleep. You raise your bleary head and peer across \nthe campsite.",
+      "sourceLocation": "pdf:visual:[[48,14],[48,15],[48,16],[48,17]]"
+    },
+    {
+      "id": "236:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 282. ",
+      "sourceLocation": "pdf:visual:[[48,18]]"
+    },
+    {
+      "id": "236:p3",
+      "kind": "trace",
+      "text": "(235)",
+      "sourceLocation": "pdf:visual:[[48,19]]"
+    }
+  ]
+}

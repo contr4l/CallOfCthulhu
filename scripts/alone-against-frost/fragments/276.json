@@ -1,0 +1,36 @@
+{
+  "id": "276",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "276:p0",
+      "kind": "heading",
+      "text": "276",
+      "sourceLocation": "pdf:visual:[[54,70]]"
+    },
+    {
+      "id": "276:p1",
+      "kind": "body",
+      "text": "By wading along a shallow stream, the creature nearly shakes \nyou off its trail, but you are too experienced to be foiled by \nsuch a trick. The pursuit takes you and Norman up into the \nhigh ground.",
+      "sourceLocation": "pdf:visual:[[54,71],[54,72],[54,73],[54,74]]"
+    },
+    {
+      "id": "276:p2",
+      "kind": "body",
+      "text": "The prints become fresher as you climb.",
+      "sourceLocation": "pdf:visual:[[54,75]]"
+    },
+    {
+      "id": "276:p3",
+      "kind": "body",
+      "text": "Make a Stealth roll: if you succeed, go to 290; if you fail, go to 289.",
+      "sourceLocation": "pdf:visual:[[54,76]]"
+    },
+    {
+      "id": "276:p4",
+      "kind": "trace",
+      "text": "(226, 484)",
+      "sourceLocation": "pdf:visual:[[54,77]]"
+    }
+  ]
+}

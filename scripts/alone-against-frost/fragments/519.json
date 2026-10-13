@@ -1,0 +1,30 @@
+{
+  "id": "519",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "519:p0",
+      "kind": "heading",
+      "text": "519",
+      "sourceLocation": "pdf:visual:[[90,1]]"
+    },
+    {
+      "id": "519:p1",
+      "kind": "body",
+      "text": "Far from being intimidated, the ape-men respond with angry \nwhistles and an avalanche of thrown stones. You pass out from \nthe blows, and the rocks keep coming down.",
+      "sourceLocation": "pdf:visual:[[90,2],[90,3],[90,4]]"
+    },
+    {
+      "id": "519:p2",
+      "kind": "body",
+      "text": "Take 2D6 damage. Go to 347. ",
+      "sourceLocation": "pdf:visual:[[90,5]]"
+    },
+    {
+      "id": "519:p3",
+      "kind": "trace",
+      "text": "(346, 539)",
+      "sourceLocation": "pdf:visual:[[90,6]]"
+    }
+  ]
+}

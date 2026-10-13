@@ -1,0 +1,30 @@
+{
+  "id": "540",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "540:p0",
+      "kind": "heading",
+      "text": "540",
+      "sourceLocation": "pdf:visual:[[93,38]]"
+    },
+    {
+      "id": "540:p1",
+      "kind": "body",
+      "text": "With a single misstep, Sylvia loses her footing and slides off \nthe submerged ledge into the fastest part of the stream. She \nthrashes in the deadly current, tossed against the rocks.",
+      "sourceLocation": "pdf:visual:[[93,39],[93,40],[93,41]]"
+    },
+    {
+      "id": "540:p2",
+      "kind": "body",
+      "text": "To remain on the bank, go to 542. To leap into the water, make a \ncombined STR and Swim roll. If both succeed, go to 541. If you fail \neither, go to 189. ",
+      "sourceLocation": "pdf:visual:[[93,42],[93,43],[93,44]]"
+    },
+    {
+      "id": "540:p3",
+      "kind": "trace",
+      "text": "(217)",
+      "sourceLocation": "pdf:visual:[[93,45]]"
+    }
+  ]
+}

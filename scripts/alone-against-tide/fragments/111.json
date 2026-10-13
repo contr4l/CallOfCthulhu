@@ -1,0 +1,42 @@
+{
+  "id": "111",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "111:p0",
+      "kind": "heading",
+      "text": "111\n",
+      "sourceLocation": "pdf:spans:[[37,890,894]]"
+    },
+    {
+      "id": "111:p1",
+      "kind": "body",
+      "text": "You leave the scuffle behind you, happy to put that business \nout of mind. You begin walking down the street at a brisk \npace, hoping to get some distance between yourself and the \nHarris house.\n",
+      "sourceLocation": "pdf:spans:[[37,894,956],[37,956,1015],[37,1015,1075],[37,1075,1089]]"
+    },
+    {
+      "id": "111:p2",
+      "kind": "body",
+      "text": "You continue along the path for a short distance before you \nhear the sound of heavy footsteps approaching you. Thanks to \nthe thick fog, you don’t think you’ve been spotted. You quickly \nduck into a nearby alley to let the traveler pass. The man moves \nby you at a quick jog, cursing under his breath. You recognize \nJoshua’s voice, and you feel certain that he’s connected to your \nattempted arrest.\n",
+      "sourceLocation": "pdf:spans:[[37,1089,1150],[37,1150,1212],[37,1212,1277],[37,1277,1343],[37,1343,1407],[37,1407,1473],[37,1473,1491]]"
+    },
+    {
+      "id": "111:p3",
+      "kind": "body",
+      "text": "Still, you realize that you don’t have many options to deal \nwith that right now. With this damnable fog keeping you from \nleaving on the ferry, the best thing you can do is head back to \nthe hotel and figure out what your next move is.\n",
+      "sourceLocation": "pdf:spans:[[37,1491,1552],[37,1552,1614],[37,1614,1679],[37,1679,1728]]"
+    },
+    {
+      "id": "111:p4",
+      "kind": "body",
+      "text": "• Go to 122.\n",
+      "sourceLocation": "pdf:spans:[[37,1728,1741]]"
+    },
+    {
+      "id": "111:p5",
+      "kind": "body",
+      "text": "(39, 49, 76, 85, 99)\n",
+      "sourceLocation": "pdf:spans:[[37,1741,1762]]"
+    }
+  ]
+}

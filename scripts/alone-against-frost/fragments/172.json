@@ -1,0 +1,30 @@
+{
+  "id": "172",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "172:p0",
+      "kind": "heading",
+      "text": "172",
+      "sourceLocation": "pdf:visual:[[38,66]]"
+    },
+    {
+      "id": "172:p1",
+      "kind": "body",
+      "text": "You hear something stir behind you, like an eruption in the \nsnow. You  turn  and  catch  a  flash  of  a  one-eyed,  wheel-like, \nrevolving entity following you. It pauses at the top of the rise.",
+      "sourceLocation": "pdf:visual:[[38,67],[38,68],[38,69]]"
+    },
+    {
+      "id": "172:p2",
+      "kind": "body",
+      "text": "Go to 169.",
+      "sourceLocation": "pdf:visual:[[38,70]]"
+    },
+    {
+      "id": "172:p3",
+      "kind": "trace",
+      "text": "(122)",
+      "sourceLocation": "pdf:visual:[[38,71]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "350",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "350:p0",
+      "kind": "heading",
+      "text": "350",
+      "sourceLocation": "pdf:visual:[[65,27]]"
+    },
+    {
+      "id": "350:p1",
+      "kind": "body",
+      "text": "The ape-men carry you and Norman like rolled-up carpets. It \nis not far to their encampment. “Professor!” Norman points. You \nfollow his gesture. Sylvia!",
+      "sourceLocation": "pdf:visual:[[65,28],[65,29],[65,30]]"
+    },
+    {
+      "id": "350:p2",
+      "kind": "body",
+      "text": "Make Sylvia’s Sanity roll: if she succeeds, go to 352; if she fails, go \nto 351.",
+      "sourceLocation": "pdf:visual:[[65,31],[65,32]]"
+    },
+    {
+      "id": "350:p3",
+      "kind": "trace",
+      "text": "(310, 349, 390)",
+      "sourceLocation": "pdf:visual:[[65,33]]"
+    }
+  ]
+}

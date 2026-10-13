@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "146"
+  ],
+  "text": [
+    "你尽可能轻手轻脚地溜出牢房。你已经走到门口将近一半，才发现自己还是不够小心。",
+    "鲍威尔迅速站起来，举枪对准你。他绝不打算让囚犯逃走。面对可能到来的死亡，你的战斗或逃跑反应接管了行动，你完全凭本能做出反应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 146",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 146",
+      "text": [
+        "You creep out of your cell as quietly as you can. You make it nearly halfway to the door before it turns out your best is not good enough.",
+        "Powell hurriedly rises to his feet and raises his gun at you. He has no intention of letting his prisoner escape. Your fight or flight response takes over, and you act solely on instinct when faced with your probable demise."
+      ]
+    }
+  }
+}

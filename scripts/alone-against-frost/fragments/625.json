@@ -1,0 +1,30 @@
+{
+  "id": "625",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "625:p0",
+      "kind": "heading",
+      "text": "625",
+      "sourceLocation": "pdf:visual:[[105,14]]"
+    },
+    {
+      "id": "625:p1",
+      "kind": "body",
+      "text": "You spy a narrow ledge that rounds a rocky outcrop. With help, \nBernard is able to navigate it. The ape-men, however, are a little \ntoo  bulky.  Grunting  in  frustration,  they  fall  back.  Your  party \ntraces a route back to the meadowland at the foot of the hill.",
+      "sourceLocation": "pdf:visual:[[105,17],[105,18],[105,20],[105,21]]"
+    },
+    {
+      "id": "625:p2",
+      "kind": "body",
+      "text": "To give up on the valley, go to 613. To continue exploring, go to 645.",
+      "sourceLocation": "pdf:visual:[[105,23]]"
+    },
+    {
+      "id": "625:p3",
+      "kind": "trace",
+      "text": "(624)",
+      "sourceLocation": "pdf:visual:[[105,25]]"
+    }
+  ]
+}

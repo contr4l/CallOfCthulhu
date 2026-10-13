@@ -1,0 +1,56 @@
+{
+  "id": "unique-event-007",
+  "paragraphs": [
+    {
+      "id": "unique-event-007:p0000",
+      "kind": "body",
+      "text": "#7 - Star of Ill Omen\n",
+      "sourceLocation": "pdf:spans:[[79,1579,1601]]"
+    },
+    {
+      "id": "unique-event-007:p0001",
+      "kind": "body",
+      "text": "A shooting star flares up in the sky.\n",
+      "sourceLocation": "pdf:spans:[[79,1601,1639]]"
+    },
+    {
+      "id": "unique-event-007:p0002",
+      "kind": "body",
+      "text": "You try to make a wish but your\n",
+      "sourceLocation": "pdf:spans:[[79,1639,1671]]"
+    },
+    {
+      "id": "unique-event-007:p0003",
+      "kind": "body",
+      "text": "thoughts are ominous. Save vs. L2\n",
+      "sourceLocation": "pdf:spans:[[79,1671,1705]]"
+    },
+    {
+      "id": "unique-event-007:p0004",
+      "kind": "body",
+      "text": "Fear. If you fail, lose 1 Sanity and\n",
+      "sourceLocation": "pdf:spans:[[79,1705,1742]]"
+    },
+    {
+      "id": "unique-event-007:p0005",
+      "kind": "body",
+      "text": "have -1 to Attack and Defense rolls\n",
+      "sourceLocation": "pdf:spans:[[79,1742,1778]]"
+    },
+    {
+      "id": "unique-event-007:p0006",
+      "kind": "body",
+      "text": "for your next combat. If you\n",
+      "sourceLocation": "pdf:spans:[[79,1778,1807]]"
+    },
+    {
+      "id": "unique-event-007:p0007",
+      "kind": "body",
+      "text": "succeed, carry on as normal.",
+      "sourceLocation": "pdf:spans:[[79,1807,1835]]"
+    }
+  ],
+  "sourcePages": [
+    79
+  ]
+}

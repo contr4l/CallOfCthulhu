@@ -1,0 +1,128 @@
+{
+  "id": "section-surprise",
+  "paragraphs": [
+    {
+      "id": "section-surprise:p0000",
+      "kind": "body",
+      "text": "Surprise\n",
+      "sourceLocation": "pdf:spans:[[32,314,323]]"
+    },
+    {
+      "id": "section-surprise:p0001",
+      "kind": "body",
+      "text": "When you fight, you always act first,\n",
+      "sourceLocation": "pdf:spans:[[32,323,361]]"
+    },
+    {
+      "id": "section-surprise:p0002",
+      "kind": "body",
+      "text": "unless the monster has a chance to\n",
+      "sourceLocation": "pdf:spans:[[32,361,396]]"
+    },
+    {
+      "id": "section-surprise:p0003",
+      "kind": "body",
+      "text": "surprise you. This is expressed as\n",
+      "sourceLocation": "pdf:spans:[[32,396,431]]"
+    },
+    {
+      "id": "section-surprise:p0004",
+      "kind": "body",
+      "text": "a 1 in 6, 2 in 6 etc. chance of\n",
+      "sourceLocation": "pdf:spans:[[32,431,463]]"
+    },
+    {
+      "id": "section-surprise:p0005",
+      "kind": "body",
+      "text": "surprise.\n",
+      "sourceLocation": "pdf:spans:[[32,463,473]]"
+    },
+    {
+      "id": "section-surprise:p0006",
+      "kind": "body",
+      "text": "Example: You meet a demon\n",
+      "sourceLocation": "pdf:spans:[[32,473,499]]"
+    },
+    {
+      "id": "section-surprise:p0007",
+      "kind": "body",
+      "text": "with a 2 in 6 chance of\n",
+      "sourceLocation": "pdf:spans:[[32,499,523]]"
+    },
+    {
+      "id": "section-surprise:p0008",
+      "kind": "body",
+      "text": "surprise. Roll d6.  On a 1 or 2,\n",
+      "sourceLocation": "pdf:spans:[[32,523,556]]"
+    },
+    {
+      "id": "section-surprise:p0009",
+      "kind": "body",
+      "text": "the monster takes you by\n",
+      "sourceLocation": "pdf:spans:[[32,556,581]]"
+    },
+    {
+      "id": "section-surprise:p0010",
+      "kind": "body",
+      "text": "surprise and acts first. On a\n",
+      "sourceLocation": "pdf:spans:[[32,581,611]]"
+    },
+    {
+      "id": "section-surprise:p0011",
+      "kind": "body",
+      "text": "3+, you go first.\n",
+      "sourceLocation": "pdf:spans:[[32,611,629]]"
+    },
+    {
+      "id": "section-surprise:p0012",
+      "kind": "body",
+      "text": "If you have the Danger Sense Skill,\n",
+      "sourceLocation": "pdf:spans:[[32,629,665]]"
+    },
+    {
+      "id": "section-surprise:p0013",
+      "kind": "body",
+      "text": "the monster’s chance of surprise, if\n",
+      "sourceLocation": "pdf:spans:[[32,665,702]]"
+    },
+    {
+      "id": "section-surprise:p0014",
+      "kind": "body",
+      "text": "any, is reduced by 1. So a monster\n",
+      "sourceLocation": "pdf:spans:[[32,702,737]]"
+    },
+    {
+      "id": "section-surprise:p0015",
+      "kind": "body",
+      "text": "with 1 in 6 chance of surprise has\n",
+      "sourceLocation": "pdf:spans:[[32,737,772]]"
+    },
+    {
+      "id": "section-surprise:p0016",
+      "kind": "body",
+      "text": "no chance to surprise you, and a\n",
+      "sourceLocation": "pdf:spans:[[32,772,805]]"
+    },
+    {
+      "id": "section-surprise:p0017",
+      "kind": "body",
+      "text": "monster with a 2 in 6 chance has\n",
+      "sourceLocation": "pdf:spans:[[32,805,838]]"
+    },
+    {
+      "id": "section-surprise:p0018",
+      "kind": "body",
+      "text": "only a 1 in 6 chance of surprising\n",
+      "sourceLocation": "pdf:spans:[[32,838,873]]"
+    },
+    {
+      "id": "section-surprise:p0019",
+      "kind": "body",
+      "text": "you.\n",
+      "sourceLocation": "pdf:spans:[[32,873,878]]"
+    }
+  ],
+  "sourcePages": [
+    32
+  ]
+}

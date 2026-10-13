@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "56"
+  ],
+  "text": [
+    "你又和桑福德寒暄了几句，他便去继续引导船只进港。你和其他乘客闲聊、观赏风景，打发了一段时间。你注意到埃斯伯里湖岸边高耸的松树和倾斜的山坡。这些景色，以及远处的小镇，都隐约可见于渐浓的雾气中；你眯起眼，仍能看得清楚。",
+    "不久，你抵达埃斯伯里的栈桥，庆幸自己终于离开了水面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 56",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 56",
+      "text": [
+        "You exchange a few more pleasantries with Sanford before he goes off to finish guiding the boat into port. You pass the time in casual conversation with the other passengers and in observing the scenery. You note the tall pines and the sloping hills along the lakeshore around Esbury. These features, and the small town beyond, are just visible through the growing mist, but squinting helps make them out to your satisfaction.",
+        "In time, you arrive on the pier at Esbury, grateful to be off the water."
+      ]
+    }
+  }
+}

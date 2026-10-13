@@ -1,0 +1,36 @@
+{
+  "id": "218",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "218:p0",
+      "kind": "heading",
+      "text": "218\n",
+      "sourceLocation": "pdf:spans:[[70,2359,2363]]"
+    },
+    {
+      "id": "218:p1",
+      "kind": "body",
+      "text": "You turn the hardened clay cylinders over in your hands, your \neyes falling on the large cracks running through both items. \nDespite this damage, their solid construction has led to the \ncylinders’ survival throughout the ages.\n",
+      "sourceLocation": "pdf:spans:[[70,2363,2426],[70,2426,2488],[70,2488,2550],[70,2550,2591]]"
+    },
+    {
+      "id": "218:p2",
+      "kind": "body",
+      "text": "The next most obvious quality is the strange writing that is \nplastered along the side of each cylinder. It’s quite remarkable \nin that it doesn’t resemble any language known to you. Using \nthe notes on the table, you attempt to translate it.\n",
+      "sourceLocation": "pdf:spans:[[70,2591,2653],[70,2653,2719],[70,2719,2781],[70,2781,2834]]"
+    },
+    {
+      "id": "218:p3",
+      "kind": "body",
+      "text": "• Make an Archaeology roll: if you succeed, go to 204; if you fail, you \nare unable to translate them and should go back to 210.\n",
+      "sourceLocation": "pdf:spans:[[70,2836,2909],[70,2909,2965]]"
+    },
+    {
+      "id": "218:p4",
+      "kind": "body",
+      "text": "(210)\n",
+      "sourceLocation": "pdf:spans:[[70,2965,2971]]"
+    }
+  ]
+}

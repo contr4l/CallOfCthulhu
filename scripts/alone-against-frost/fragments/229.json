@@ -1,0 +1,30 @@
+{
+  "id": "229",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "229:p0",
+      "kind": "heading",
+      "text": "229",
+      "sourceLocation": "pdf:visual:[[47,36]]"
+    },
+    {
+      "id": "229:p1",
+      "kind": "body",
+      "text": "You come to, your legs aching and bruised. The brush teems \nwith tiny men. Bernard is nowhere to be seen and the others \nhave been captured. Your thirst for academic glory may have \nimperiled all your lives.",
+      "sourceLocation": "pdf:visual:[[47,37],[47,38],[47,39],[47,40]]"
+    },
+    {
+      "id": "229:p2",
+      "kind": "body",
+      "text": "Go to 145.",
+      "sourceLocation": "pdf:visual:[[47,41]]"
+    },
+    {
+      "id": "229:p3",
+      "kind": "trace",
+      "text": "(228)",
+      "sourceLocation": "pdf:visual:[[47,42]]"
+    }
+  ]
+}

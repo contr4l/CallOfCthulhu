@@ -1,0 +1,36 @@
+{
+  "id": "434",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "434:p0",
+      "kind": "heading",
+      "text": "434",
+      "sourceLocation": "pdf:visual:[[76,38]]"
+    },
+    {
+      "id": "434:p1",
+      "kind": "body",
+      "text": "The five of you climb up a ridge and into the valley on the other \nside. Across its wide expanse, thin blue vapor clouds drift from \nthe nearby hot springs. Through the haze, the mountains beyond \nappear dreamlike and unreal. The springs bustle with waterfowl—\nmallard and butterball mostly, with the odd goldeneye. You can \nbe assured of a hearty supper for the next few days.",
+      "sourceLocation": "pdf:visual:[[76,39],[76,40],[76,41],[76,42],[76,43],[76,44]]"
+    },
+    {
+      "id": "434:p2",
+      "kind": "body",
+      "text": "Suddenly a butterball wobbles in the air and then drops like \na stone. A moment later, the same thing happens to a mallard \nin the same spot. You heard no shot. The range makes an arrow \nkill unlikely. What is happening down there?",
+      "sourceLocation": "pdf:visual:[[76,45],[76,46],[76,47],[76,48]]"
+    },
+    {
+      "id": "434:p3",
+      "kind": "body",
+      "text": "Record  the  keyword  TANGENT.  To  investigate,  go  to  435. \nOtherwise, you may ignore it: if you have the keyword BAREFOOT, \ngo to 458; if not, go to 20.",
+      "sourceLocation": "pdf:visual:[[76,49],[76,50],[76,51]]"
+    },
+    {
+      "id": "434:p4",
+      "kind": "trace",
+      "text": "(31, 497)",
+      "sourceLocation": "pdf:visual:[[76,52]]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "5"
+  ],
+  "text": [
+    "你喊住约书亚，要他解释一下，心里还以为他会直接把你打发走。出乎意料的是，他转向你，朝你走来。",
+    "约书亚走近后，尽管隔着雾气，你又能看清他的脸了。此刻你看见他的脸涨得通红，双眼布满血丝，显然怒不可遏。他的手猛地伸进外套，抽出一把柯尔特 M1911，直指着你，激动地吼道。",
+    "“你到底有什么毛病？！我都威胁你了，你还回来找死？！你活腻了吗？！离阿米莉娅远点！我为这事折腾了这么久，可不是让你突然闯进镇子来把一切都毁了！”",
+    "他把你推开，用枪指着你的脸，额头冒着汗，死死盯着你的眼睛。他咬紧牙关，喘着粗气，片刻后把枪收回枪套，靠在附近的一栋建筑上。",
+    "“滚出我的视线。再让我多看你那张该死的脸一秒钟，我就再给它开个洞。”",
+    "你看不出继续激怒约书亚有什么好处，便匆匆离开了他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 5",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 5",
+      "text": [
+        "You call out to Joshua to explain himself, half expecting that he will simply brush you off. Surprisingly, he turns in your direction and steps toward you.",
+        "As Joshua moves closer to you, you can once again make out his features despite the fog. You see now that he is visibly red in the face and his eyes are bloodshot. He is clearly livid. His hand darts beneath his coat and reemerges holding a Colt M1911, which he points directly at you while speaking in an agitated manner.",
+        "“What the hell is your problem?! I threaten you and you come back for more?! Do you have a death wish?! Leave Amelia alone! I’ve been about this for far too long for you to wander into town and ruin it for me!”",
+        "He shoves you back and levels the gun at your face, looking you dead in the eyes with sweat on his brow. He grits his teeth, panting and huffing for a second before holstering the gun and bracing himself against a nearby building.",
+        "“Get the hell out of my sight. If I have to look at that goddam face of yours for one more second, I’ll put another hole in it.”",
+        "You see no reason to further provoke Joshua, and you hurriedly leave him where he is."
+      ]
+    }
+  }
+}

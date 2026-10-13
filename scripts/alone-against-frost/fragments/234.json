@@ -1,0 +1,30 @@
+{
+  "id": "234",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "234:p0",
+      "kind": "heading",
+      "text": "234",
+      "sourceLocation": "pdf:visual:[[47,76]]"
+    },
+    {
+      "id": "234:p1",
+      "kind": "body",
+      "text": "You awaken alone. You are not at the campsite. Norman and \nSylvia are nowhere to be seen. Have you wandered away in \ndelirium? Such questions have little meaning now. You feel \naltered. Your  hunger  is  still  with  you,  but  it  has  become  a \ndarker craving.",
+      "sourceLocation": "pdf:visual:[[47,77],[47,78],[47,79],[47,80],[47,81]]"
+    },
+    {
+      "id": "234:p2",
+      "kind": "body",
+      "text": "Go to 162.",
+      "sourceLocation": "pdf:visual:[[47,82]]"
+    },
+    {
+      "id": "234:p3",
+      "kind": "trace",
+      "text": "(197)",
+      "sourceLocation": "pdf:visual:[[47,83]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "171",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "171:p0",
+      "kind": "heading",
+      "text": "171",
+      "sourceLocation": "pdf:visual:[[38,61]]"
+    },
+    {
+      "id": "171:p1",
+      "kind": "body",
+      "text": "Glad to have escaped the cold-killer, you rejoin your comrades \nin camp.",
+      "sourceLocation": "pdf:visual:[[38,62],[38,63]]"
+    },
+    {
+      "id": "171:p2",
+      "kind": "body",
+      "text": "Go to 649. ",
+      "sourceLocation": "pdf:visual:[[38,64]]"
+    },
+    {
+      "id": "171:p3",
+      "kind": "trace",
+      "text": "(122, 166, 168)",
+      "sourceLocation": "pdf:visual:[[38,65]]"
+    }
+  ]
+}

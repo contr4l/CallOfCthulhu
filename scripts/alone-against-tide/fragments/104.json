@@ -1,0 +1,54 @@
+{
+  "id": "104",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "104:p0",
+      "kind": "heading",
+      "text": "104\n",
+      "sourceLocation": "pdf:spans:[[35,1279,1283]]"
+    },
+    {
+      "id": "104:p1",
+      "kind": "body",
+      "text": "You tell the man that you’re a collector of antiquities, and that \nyou heard there’s going to be an estate sale of some items of \ninterest here. The ferryman nods slowly. “You heard right, friend. \nProfessor Harris’ things are being sold off by his widow, Amelia, \nat an estate sale tonight. Shame about what happened to him, but \nhis loss is your gain I suppose.” The ferryman hesitates a moment \nbefore extending a hand toward you in greeting. “I’m Lance \nSanford by the way. Pleased to make your acquaintance.”\n",
+      "sourceLocation": "pdf:spans:[[35,1283,1350],[35,1350,1413],[35,1413,1481],[35,1481,1548],[35,1548,1614],[35,1614,1681],[35,1681,1741],[35,1741,1797]]"
+    },
+    {
+      "id": "104:p2",
+      "kind": "body",
+      "text": "• To inquire about Prof. Harris, go to 27.\n",
+      "sourceLocation": "pdf:spans:[[35,1797,1840]]"
+    },
+    {
+      "id": "104:p3",
+      "kind": "body",
+      "text": "• To ask Lance Sanford about himself, go to 42.\n",
+      "sourceLocation": "pdf:spans:[[35,1840,1888]]"
+    },
+    {
+      "id": "104:p4",
+      "kind": "body",
+      "text": "• To ask about the estate sale, go to 66.\n",
+      "sourceLocation": "pdf:spans:[[35,1888,1930]]"
+    },
+    {
+      "id": "104:p5",
+      "kind": "body",
+      "text": "• To ask about the widow Amelia, go to 89.\n",
+      "sourceLocation": "pdf:spans:[[35,1930,1973]]"
+    },
+    {
+      "id": "104:p6",
+      "kind": "body",
+      "text": "• To pass the time waiting to arrive in Esbury, go to 56.\n",
+      "sourceLocation": "pdf:spans:[[35,1973,2031]]"
+    },
+    {
+      "id": "104:p7",
+      "kind": "body",
+      "text": "(80)\n",
+      "sourceLocation": "pdf:spans:[[35,2031,2036]]"
+    }
+  ]
+}

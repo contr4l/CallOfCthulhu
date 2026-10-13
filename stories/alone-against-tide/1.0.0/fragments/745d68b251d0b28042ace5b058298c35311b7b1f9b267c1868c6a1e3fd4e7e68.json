@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "99-persuade",
+    "99"
+  ],
+  "text": [
+    "你把武器转向阿米莉娅，大致对准她，逼问她把这一切解释清楚。",
+    "她开始哭泣，眼泪弄花了妆。她试着开口，却结结巴巴地说不出话，直到你威吓着朝她走近一步。她再次畏缩起来，开始脱口说出脑中第一个想到的事情。",
+    "“是约书亚！是他指使那个警察的！他、他保护我。他爱我……”她说着说着没了声音，瘫倒在地，哭成一团。",
+    "她此刻情绪太激动，无法再给你任何帮助。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 99",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 99",
+      "text": [
+        "You turn your weapon in Amelia’s general direction and demand that she explain the meaning of everything.",
+        "She begins to cry, the tears smearing her makeup. She tries to speak but ends up stuttering and stammering until you menacingly take a step in her direction. She cowers once more and begins blurting out the first thing that comes to mind.",
+        "“It was Joshua! He put the policeman up to it! H-he protects me. He loves me…” She trails off and falls to the floor in a weeping mess.",
+        "She is too upset to be of any further use to you at the moment."
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# OCR TSV keeps an empty final text field as a trailing tab.
+scripts/**/ocr/pages/*.tsv whitespace=-blank-at-eol

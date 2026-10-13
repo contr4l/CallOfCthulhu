@@ -1,0 +1,42 @@
+{
+  "id": "144",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "144:p0",
+      "kind": "heading",
+      "text": "144\n",
+      "sourceLocation": "pdf:spans:[[47,2644,2648]]"
+    },
+    {
+      "id": "144:p1",
+      "kind": "body",
+      "text": "You open the door but it catches a draft, slamming against the \nwall as you attempt to slip inside. The door rattles on its hinges \nand you hear the sound of footsteps pounding across the floor \nin another room.\n",
+      "sourceLocation": "pdf:spans:[[47,2648,2712],[47,2712,2780],[47,2780,2843],[47,2843,2860]]"
+    },
+    {
+      "id": "144:p2",
+      "kind": "body",
+      "text": "Your attempts to conceal yourself prove too slow as a pair of \nmen burst into the living room and lock their attention on you.\n",
+      "sourceLocation": "pdf:spans:[[47,2860,2923],[47,2923,2987]]"
+    },
+    {
+      "id": "144:p3",
+      "kind": "body",
+      "text": "They rush forward, and the larger of the two tries to tackle you.\n",
+      "sourceLocation": "pdf:spans:[[47,2987,3053]]"
+    },
+    {
+      "id": "144:p4",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 157; if you fail, go to 25.\n",
+      "sourceLocation": "pdf:spans:[[47,3055,3126]]"
+    },
+    {
+      "id": "144:p5",
+      "kind": "body",
+      "text": "(13, 160)\n",
+      "sourceLocation": "pdf:spans:[[47,3126,3136]]"
+    }
+  ]
+}

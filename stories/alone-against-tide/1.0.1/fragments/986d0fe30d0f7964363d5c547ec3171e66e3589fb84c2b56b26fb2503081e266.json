@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "211"
+  ],
+  "text": [
+    "你试图找个地方躲过洪水——一个地势足够高、不会被上涨的水淹没的地方。",
+    "由于黑暗和浓雾，你无法观察镇子的天际线来寻找这样的地点，只能依靠记忆。",
+    "你能想到附近唯一的地方就是教堂。如果情况变得最糟，你可以爬上钟楼躲避洪水。",
+    "你朝礼拜堂冲去。教堂坚实的灰色石墙从雾中显露出来，给你带来一丝安慰和安全感。你推开教堂厚重的双开门，溜了进去，又迅速关上门，希望至少能争取一些时间，阻止水渗进来。你冲向通往钟楼的楼梯，尽可能快地爬上去。",
+    "你很快俯瞰着埃斯伯里。小镇本身笼罩在雾中，但从这个高处，你可以越过雾气看到远处的湖泊。巨大的波浪起伏着，拍打通常平静的湖面；繁星与渐盈凸月在黑暗的背景下映照得格外明亮。",
+    "你终于暂时身处相对安全的地方，有片刻可以停下来思考。你深吸一口气，低头沉思——或许是在祈祷。你的思绪纷乱，但最后有一个念头浮现出来，决定了你接下来的行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 211",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 211",
+      "text": [
+        "You try to find somewhere you can wait out the flood— somewhere at a high elevation that won’t be consumed by the rising water.",
+        "Thanks to the darkness and the fog, you won’t be able to scan the town’s skyline to look for such a place and will, instead, have to rely on your memory.",
+        "The only place close that comes to mind would be the nearby church. If the worst should happen, you could climb up into the bell tower to wait out the flood.",
+        "You rush toward the house of worship. You see its solid gray stonework peeking out at you from the fog, providing a sense of comfort and security. You push open the church’s large double- doors and slip inside, quickly closing the doors behind you, in hopes they will at least buy you some time before the water seeps in. You rush to the stairs leading up to the bell tower and climb them as quickly as you can.",
+        "You soon find yourself looking out over Esbury. The town itself is shrouded in mist, but from this high vantage point, you can see over the fog to the lake beyond. Large, undulating waves break the surface of the normally placid waters, and the stars and gibbous moon are brightly reflected from the dark backdrop.",
+        "Finding yourself in relative safety, you finally have a moment to pause and reflect. You take a deep breath, bowing your head in thought—or, perhaps, prayer. Your mind is in a whirl but, eventually, a single thought breaks through, determining your course of action."
+      ]
+    }
+  }
+}

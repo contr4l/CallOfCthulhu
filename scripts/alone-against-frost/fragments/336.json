@@ -1,0 +1,30 @@
+{
+  "id": "336",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "336:p0",
+      "kind": "heading",
+      "text": "336",
+      "sourceLocation": "pdf:visual:[[63,61]]"
+    },
+    {
+      "id": "336:p1",
+      "kind": "body",
+      "text": "You run until you fall, utterly spent. When you look back, you \nhear and see nothing. You are safe for the moment. But, now, \nyou must face the Big Woods alone.",
+      "sourceLocation": "pdf:visual:[[63,62],[63,63],[63,64]]"
+    },
+    {
+      "id": "336:p2",
+      "kind": "body",
+      "text": "Go to 67.",
+      "sourceLocation": "pdf:visual:[[63,65]]"
+    },
+    {
+      "id": "336:p3",
+      "kind": "trace",
+      "text": "(187, 304, 330, 338, 339, 476, 485, 510)",
+      "sourceLocation": "pdf:visual:[[63,66]]"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "pdfPage": 49,
+  "sourcePdfSha256": "6737a687a79c49ef36b0e13d98fa0536b5ab8724eb127312522126b46570a572",
+  "engine": "Tesseract",
+  "language": "eng",
+  "renderScaleMaxPixels": 1800,
+  "text": "",
+  "words": [],
+  "visualReview": "pending; OCR is not a faithful reconstruction"
+}

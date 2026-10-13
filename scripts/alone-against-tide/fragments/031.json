@@ -1,0 +1,48 @@
+{
+  "id": "31",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "31:p0",
+      "kind": "heading",
+      "text": "31\n",
+      "sourceLocation": "pdf:spans:[[17,2207,2210]]"
+    },
+    {
+      "id": "31:p1",
+      "kind": "body",
+      "text": "You nod sympathetically. This woman is clearly uncomfortable \ntalking about her deceased husband, and anyone would want to \nput that behind them. You pause for a moment, trying to frame \nyour next question with a measure of sensitivity.\n",
+      "sourceLocation": "pdf:spans:[[17,2210,2272],[17,2272,2334],[17,2334,2397],[17,2397,2447]]"
+    },
+    {
+      "id": "31:p2",
+      "kind": "body",
+      "text": "You open your mouth to speak, but you are interrupted by a \nloud knock at the door. Amelia jumps up, startled, and stands \nthere for a moment in confusion as the pounding on the door \nresumes. “Police! Open the door!” Amelia’s face drains white as \nshe goes to answer the knock.\n",
+      "sourceLocation": "pdf:spans:[[17,2447,2507],[17,2507,2570],[17,2570,2631],[17,2631,2696],[17,2696,2726]]"
+    },
+    {
+      "id": "31:p3",
+      "kind": "body",
+      "text": "Your gut tells you something is wrong here. You feel uneasy \nabout the officer at the door. You tell yourself you’re being \nirrational and on edge, but you have some trouble fighting that \nfeeling. You have a few precious moments to react.\n",
+      "sourceLocation": "pdf:spans:[[17,2726,2787],[17,2787,2850],[17,2850,2915],[17,2915,2966]]"
+    },
+    {
+      "id": "31:p4",
+      "kind": "body",
+      "text": "• To ignore your instincts and wait, go to 47.\n",
+      "sourceLocation": "pdf:spans:[[17,2966,3013]]"
+    },
+    {
+      "id": "31:p5",
+      "kind": "body",
+      "text": "• To take this chance to hide, make a Stealth roll: if you succeed, go \nto 98; if you fail, go to 20.\n",
+      "sourceLocation": "pdf:spans:[[17,3013,3085],[17,3085,3115]]"
+    },
+    {
+      "id": "31:p6",
+      "kind": "body",
+      "text": "(55)",
+      "sourceLocation": "pdf:spans:[[17,3115,3119]]"
+    }
+  ]
+}

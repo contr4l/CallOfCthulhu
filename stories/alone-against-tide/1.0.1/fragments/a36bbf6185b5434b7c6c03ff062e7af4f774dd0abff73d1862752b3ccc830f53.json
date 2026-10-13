@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "153"
+  ],
+  "text": [
+    "你停下来思考浓雾奇怪的绿色，以及它惊人的浓厚程度。能见度如此有限，你不禁怀疑在湖上航行是否安全。你决定先去码头看看渡船是否还在运行，再把所有行李搬到湖边。",
+    "你走进令人窒息的绿色浓雾，快步朝码头走去。你到达时，桑福德正手拿小酒壶，在船甲板上来回踱步。他望着浓雾出神，直到你询问如何离开镇子，才回过神来。",
+    "他证实了你的担忧。“抱歉，这种天气我没法开船出去。我连前面三英尺都看不清。湖面平时还算平静，但我根本不知道岸边在哪里，也不知道湖上会不会有别的船。我喜欢你，但这太危险了，我不能冒险。我很少见到这么浓的雾。还有这绿色……从没见过这种东西。我哪儿也不去。”",
+    "你知道说什么都不可能说服他。你认命地朝镇上其他地方走回去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 153",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 153",
+      "text": [
+        "You pause to consider the strange green coloration of the fog and its incredible thickness. You wonder if it’s even safe to be out on the water with visibility so limited. You decide to head to the docks first to see if the ferry is still running before hauling all of your possessions down to the lakeshore.",
+        "You venture out into the cloying green mist and walk briskly toward the docks. You arrive to find Sanford pacing the deck of his boat with a small flask in his hand. He stares out into the fog, lost in thought before you rouse him by inquiring about passage out of town.",
+        "He confirms your fears. “Sorry, I can’t take her out like this. I can barely see three feet in front of me. The lake is fairly tame, but I’d have no way of telling where the shore is or if any other boats might be out on the water. I like you, but it’s too dangerous. I just can’t risk it. I’ve rarely seen a fog this thick. And this green… Never seen anything like it. I’m staying put.”",
+        "You know that nothing you say could possibly convince him. Resigned to your fate, you head back toward the rest of town."
+      ]
+    }
+  }
+}

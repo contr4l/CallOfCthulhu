@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "135"
+  ],
+  "text": [
+    "你跌跌撞撞地穿过埃斯伯里空荡荡的街道，摸索着走进浓雾。离开哈里斯家时，你注意到绿色浓雾上开始泛起暮色。幸好你知道目的地，于是朝自己下榻的旅馆走去，尽管黑夜即将降临。",
+    "路程花了些时间，你抵达目的地前夜幕已经降临。你接近旅馆时，被一阵可怕的声音吓得僵在原地。怪异的黏湿声在寂静的街道上回荡。",
+    "起初你因震惊而停留原地，随后出于好奇，想知道什么东西会发出如此奇怪的声音。",
+    "接着，令你沮丧的是，问题有了答案。一个令人恐惧的怪异生物从浓雾中现身：一团畸形、松垮的绿色肉块，腹部可怕地鼓胀隆起，四肢细长如枝。它的脸上长着巨大凸起的眼睛和撅起的松弛嘴唇，头上还有古怪的耳朵。",
+    "它朝你扑来时，你看清了这些奇怪特征。它唯一发出的声音，就是那令人不安的黏湿声。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 135",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 135",
+      "text": [
+        "You make your way through the empty streets of Esbury, stumbling through the dense fog. As you set out from the Harris household, you note a twilight tinge beginning to form over the green mist. Thankfully, you know your destination, and you point yourself toward the hotel where you’re staying, despite the threat of coming darkness.",
+        "The trip takes some time though, and night descends before you reach your destination. As you near the hotel, you freeze in response to a frightening noise. A strange squelching sound echoes through the otherwise silent streets.",
+        "At first, you linger from shock and surprise, but then out of curiosity, as you question what would make such an odd noise.",
+        "And then, to your dismay, your question is answered. Out of the mist emerges a frighteningly bizarre thing: a misshapen mass of sagging green flesh, its belly horribly distended and bloated, with limbs that are long and spindly. Its face is dominated by large, bulbous eyes and pouting, flabby lips, and its head is adorned with strange ears.",
+        "You take in all of these strange features as it lunges toward you. The only noise it makes is that unnerving squelching sound."
+      ]
+    }
+  }
+}

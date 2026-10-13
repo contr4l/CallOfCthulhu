@@ -1,0 +1,10 @@
+{
+  "id": "ocr-081",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceTextSha256": "991d42d2ca5cb9c2c67eb6f63fea5fa09d55060dfd800b195bf2e1488a22fdf8",
+  "text": "1920 年代调查员记录表（第 81 页）\n姓名栏 OCR 结果：“Nan bUery Woods”（低置信度，未核验；不据此断定姓名）。可辨识字段：玩家；职业：教授；年龄：40；性别栏 OCR 为“_Male”；居住地：Arkham, MA；出生地 OCR 为“Baston, MA”。这些字段和数值仅为 OCR 结果，未核实为角色属性。\n属性、幸运轨道、技能和武器数值的 OCR 识别存在大量低置信度错误。附上原始 OCR 转录以保留来源信息；其中数字、技能值、属性值与乱码均未核实，不应作为可用角色数据：\n【原始 OCR 转录】\n1920S ERA |NVESTIGATOR\nNan bUery Woods\nPlayer\nOccupation Professor\nAge 40 Sex _Male\nResidence Arkham, MA\nBirthplace Baston, MA\ni bs || Insane 01 02 03 04 05\n11:12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28\n31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 G69) 51 52 53\n54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74\n77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97\n4 : OutofLuck 01 02 03 04 05 06 07\n08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30\n\\s 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53}.\n=) 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76\nC7] Accounting (05%) | (77 hast alk(o5%) —\nCH Amhrepolegy(or%) | 60|28) 7 fighting Brow) (25%) | 45 |22) CJ libraryUse(a0%) | 40 —|\nCH Appraise (5%) Ko —) Fiisten 20%) —\nCH Archacclogy(orx) | 70/33) | CT tecksmith (ors) | 50 —\nTy M/k (05%) ale eR yacx (40 20) Mech, Repair (10%) —|\no = OF eh ain | C1 Medicine(or%) | 1 Stealth(20% |\noO 4o —) Ci Natural Werd(iox) | |} Suniraltiox) 50 [25)\nC7 Cham (15%) —| Di fist Aid 90%) —) Fr Navigate 1039 30 13) 7 swim (20%) —\nCF Climb (20%) \\ O tistory (09%) —} 1 Cccult (05% | 1 throw 20%)\nCredit Rating (00%) | 60 |39) 7) tntimidate 15%) —| C1 Op.tn Machine(or%)) |) Tack (0%) |\nCthulhu Mythos(oo%) | |) J Jump (20%) —| Cresadetox | 40 2°) —\n7 Dirguise(os%9 = Langage (Ores (or) 40 20) C7 Pilot (or) | o |\nC1 Dedge(halfony | 50 | OD rachclog ion | 50g) =\n71 Drive Auto (20%) /— 7 Psychoanalysis (o1%) | o —|\n7 Hee Repair (10%) 80 ae O7 Ride (05%) — o =\n“Tamed a dee db ;\nnarme z",
+  "notes": [
+    "该项为低置信度 OCR（178 个低置信度词）；未核验 OCR 细节均按原样保留。"
+  ]
+}

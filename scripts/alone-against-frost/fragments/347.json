@@ -1,0 +1,30 @@
+{
+  "id": "347",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "347:p0",
+      "kind": "heading",
+      "text": "347",
+      "sourceLocation": "pdf:visual:[[64,69]]"
+    },
+    {
+      "id": "347:p1",
+      "kind": "body",
+      "text": "You awaken in pain. It hurts even to turn your head. Norman’s \nbody decomposes beside you. You are covered in dried blood.",
+      "sourceLocation": "pdf:visual:[[64,70],[64,71]]"
+    },
+    {
+      "id": "347:p2",
+      "kind": "body",
+      "text": "Make a CON roll: if you succeed, go to 343; if you fail, go to 342.",
+      "sourceLocation": "pdf:visual:[[64,72]]"
+    },
+    {
+      "id": "347:p3",
+      "kind": "trace",
+      "text": "(307, 321, 355, 363, 371, 391, 406, 519, 616)",
+      "sourceLocation": "pdf:visual:[[64,73]]"
+    }
+  ]
+}

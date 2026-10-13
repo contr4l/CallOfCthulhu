@@ -1,0 +1,30 @@
+{
+  "id": "537",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "537:p0",
+      "kind": "heading",
+      "text": "537",
+      "sourceLocation": "pdf:visual:[[92,68]]"
+    },
+    {
+      "id": "537:p1",
+      "kind": "body",
+      "text": "As you grope for a handhold on the bank, Norman seizes you \nand pulls you to land.",
+      "sourceLocation": "pdf:visual:[[92,69],[92,70]]"
+    },
+    {
+      "id": "537:p2",
+      "kind": "body",
+      "text": "Either of you may make a First Aid roll. If you succeed, you regain \n1D3 hit points lost in the last entry. Go to 534. ",
+      "sourceLocation": "pdf:visual:[[92,71],[92,72]]"
+    },
+    {
+      "id": "537:p3",
+      "kind": "trace",
+      "text": "(536)",
+      "sourceLocation": "pdf:visual:[[92,73]]"
+    }
+  ]
+}

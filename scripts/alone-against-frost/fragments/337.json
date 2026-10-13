@@ -1,0 +1,42 @@
+{
+  "id": "337",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "337:p0",
+      "kind": "heading",
+      "text": "337",
+      "sourceLocation": "pdf:visual:[[63,67]]"
+    },
+    {
+      "id": "337:p1",
+      "kind": "body",
+      "text": "You cannot run any farther, but you feel the cold breath of the \nwind-walker on your back. It reaches out. You feel its grasp. It \nhas you!",
+      "sourceLocation": "pdf:visual:[[63,68],[63,69],[63,70]]"
+    },
+    {
+      "id": "337:p2",
+      "kind": "body",
+      "text": "You must fight for your life. ",
+      "sourceLocation": "pdf:visual:[[63,71]]"
+    },
+    {
+      "id": "337:p3",
+      "kind": "body",
+      "text": "The wind-walker has 3D6+6 hit points. Its icy attack has a 40% \n(20/8) chance to hit and deals 1D8+1D6 damage. Your own attacks \nsuffer a penalty die due to exhaustion. If the wind-walker overcomes \nyou, the Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[63,72],[63,73],[63,74],[63,75]]"
+    },
+    {
+      "id": "337:p4",
+      "kind": "body",
+      "text": "If  you  defeat  the  wind-walker,  gain  1D6  Sanity.  You  can \nattempt a First Aid roll to restore 1D3 hit points of damage taken \nin the fight. Then, go to 67. ",
+      "sourceLocation": "pdf:visual:[[63,76],[63,77],[63,78]]"
+    },
+    {
+      "id": "337:p5",
+      "kind": "trace",
+      "text": "(304, 338, 339)",
+      "sourceLocation": "pdf:visual:[[63,79]]"
+    }
+  ]
+}

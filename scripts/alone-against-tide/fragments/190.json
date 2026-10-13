@@ -1,0 +1,48 @@
+{
+  "id": "190",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "190:p0",
+      "kind": "heading",
+      "text": "190\n",
+      "sourceLocation": "pdf:spans:[[61,44,48]]"
+    },
+    {
+      "id": "190:p1",
+      "kind": "body",
+      "text": "You hear a sound in the distance. It grows louder, and you \nrecognize the unmistakable rumble of an automobile thundering \ntoward you. You move off the road, keeping a safe distance to one \nside but with the edge of the carriageway still in view.\n",
+      "sourceLocation": "pdf:spans:[[61,48,108],[61,108,171],[61,171,238],[61,238,295]]"
+    },
+    {
+      "id": "190:p2",
+      "kind": "body",
+      "text": "You hear a loud splash as the vehicle forces its way through \nthe flooded section of road. You shout at the car as it speeds past \nyou and on into the night. You doubt the driver heard you—and \nif they did, they have no intention of stopping to investigate.\n",
+      "sourceLocation": "pdf:spans:[[61,295,357],[61,357,426],[61,426,489],[61,489,553]]"
+    },
+    {
+      "id": "190:p3",
+      "kind": "body",
+      "text": "With a resigned sigh, you make your way back onto the \ncarriageway and continue walking. It is a long, arduous journey. \nYou follow the road for hours on end through the darkness and \nfog. Your feet blister and ache, and your eyelids droop from \nweariness. All the while, you fight against a gnawing, looming \nterror growing in the back of your mind.\n",
+      "sourceLocation": "pdf:spans:[[61,553,608],[61,608,674],[61,674,737],[61,737,799],[61,799,863],[61,863,904]]"
+    },
+    {
+      "id": "190:p4",
+      "kind": "body",
+      "text": "But despite all of this, you press on. You eventually stagger \nup to the dock on the far side of the lake and make it into your \ncar. Half asleep, you throw yourself behind the wheel and head \nfor home. Exhausted and unthinking, you drive on instinct. You \ndo manage to note that the fog is absent once you leave the lake \nbehind. The darkness is now your sole companion.\n",
+      "sourceLocation": "pdf:spans:[[61,904,967],[61,967,1033],[61,1033,1097],[61,1097,1161],[61,1161,1227],[61,1227,1276]]"
+    },
+    {
+      "id": "190:p5",
+      "kind": "body",
+      "text": "You settle down in Boston for the next few days in an attempt \nto recover from your experiences in Esbury and the long walk \nto safety. You try to put it all behind you but you find a rather \ndisturbing article in the morning newspaper a few days later. The \nresort town of Esbury is reported to have mysteriously flooded \nin the middle of the night, claiming the lives of all its residents \nas they slept. No reason is cited as to the cause of the flood, and \nno survivors, bodies, or debris are reported to have been found.\nYour visit to Esbury is over. You have survived by abandoning the \ntown to its fate. While you do not fully comprehend what went on \nthere, you’re relieved to have avoided your own demise. Still, the \nmemories of that night will haunt you for quite some time. You \nlose 1D8 Sanity points, but you may use this character in future \nadventures, if you wish. Congratulations on surviving Alone \nAgainst the Tide. THE END.\n",
+      "sourceLocation": "pdf:spans:[[61,1276,1339],[61,1339,1401],[61,1401,1468],[61,1468,1535],[61,1535,1599],[61,1599,1668],[61,1668,1737],[61,1737,1802],[61,1804,1871],[61,1871,1937],[61,1937,2005],[61,2005,2069],[61,2069,2135],[61,2135,2196],[61,2196,2223]]"
+    },
+    {
+      "id": "190:p6",
+      "kind": "body",
+      "text": "(224)\n",
+      "sourceLocation": "pdf:spans:[[61,2223,2229]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "365",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "365:p0",
+      "kind": "heading",
+      "text": "365",
+      "sourceLocation": "pdf:visual:[[67,2]]"
+    },
+    {
+      "id": "365:p1",
+      "kind": "body",
+      "text": "You cross the landscape of the lost world, little thinking of the \nhollow fame that will be yours if you can report it to civilization. \nGrief is your constant companion and the regret of your failure \nas a leader. You finally find the way out of the lost valley and \nleave it behind.",
+      "sourceLocation": "pdf:visual:[[67,4],[67,6],[67,7],[67,9],[67,10]]"
+    },
+    {
+      "id": "365:p2",
+      "kind": "body",
+      "text": "Go to 67.",
+      "sourceLocation": "pdf:visual:[[67,12]]"
+    },
+    {
+      "id": "365:p3",
+      "kind": "trace",
+      "text": "(271, 343, 356, 368, 384, 392, 397, 646)",
+      "sourceLocation": "pdf:visual:[[67,14]]"
+    }
+  ]
+}

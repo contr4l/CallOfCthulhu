@@ -1,0 +1,42 @@
+{
+  "id": "101",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "101:p0",
+      "kind": "heading",
+      "text": "101",
+      "sourceLocation": "pdf:visual:[[27,48]]"
+    },
+    {
+      "id": "101:p1",
+      "kind": "body",
+      "text": "You drop the gun, overwhelmed by how close you came to utter \ndisaster. Bernard takes a couple of oddly balanced steps forward. \nSomething about his stride is weird. Is he limping? You glance \ndown at his feet. They are hidden beneath a shapeless wrapping \nof rags from his shirt and jacket. Nagged by irrational doubts, \nbut trying to be logical, you urge him over to the fire.",
+      "sourceLocation": "pdf:visual:[[27,49],[27,50],[27,51],[27,52],[27,53],[27,54]]"
+    },
+    {
+      "id": "101:p2",
+      "kind": "body",
+      "text": "“Bernard…  is  that  really  you?”  Sylvia’s  voice  quavers.  The \nfigure chortles, his voice broken.",
+      "sourceLocation": "pdf:visual:[[27,55],[27,56]]"
+    },
+    {
+      "id": "101:p3",
+      "kind": "body",
+      "text": "Something  inside  you  cringes  as  he  walks  up  to  the  fire. \nHis skin is sallow; his features hang slack on his skull. For a \nmoment, you imagine something bestial is peering out through \nthe holes of a human mask. Intellectually, you want to accept \nthis person as Bernard. Emotionally, you are not so sure.",
+      "sourceLocation": "pdf:visual:[[27,57],[27,58],[27,59],[27,60],[27,61]]"
+    },
+    {
+      "id": "101:p4",
+      "kind": "body",
+      "text": "Make an Anthropology roll: if you succeed, go to 102; if you fail, go to 139.",
+      "sourceLocation": "pdf:visual:[[27,62]]"
+    },
+    {
+      "id": "101:p5",
+      "kind": "trace",
+      "text": "(95, 99, 138)",
+      "sourceLocation": "pdf:visual:[[27,63]]"
+    }
+  ]
+}

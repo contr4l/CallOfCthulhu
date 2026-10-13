@@ -1,0 +1,36 @@
+{
+  "id": "317",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "317:p0",
+      "kind": "heading",
+      "text": "317",
+      "sourceLocation": "pdf:visual:[[61,25]]"
+    },
+    {
+      "id": "317:p1",
+      "kind": "body",
+      "text": "You carefully retrace the route you took to enter the lost land \nand sense you are getting close to the rock wall exit. As you cross \na large meadow, an ominous howling arises from the tall grass.",
+      "sourceLocation": "pdf:visual:[[61,27],[61,29],[61,30]]"
+    },
+    {
+      "id": "317:p2",
+      "kind": "body",
+      "text": "Go to 288.",
+      "sourceLocation": "pdf:visual:[[61,31]]"
+    },
+    {
+      "id": "317:p3",
+      "kind": "trace",
+      "text": "(291)",
+      "sourceLocation": "pdf:visual:[[61,32]]"
+    },
+    {
+      "id": "317:p4",
+      "kind": "body",
+      "text": "60",
+      "sourceLocation": "pdf:visual:[[61,33]]"
+    }
+  ]
+}

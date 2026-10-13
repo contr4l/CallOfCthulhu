@@ -1,0 +1,30 @@
+{
+  "id": "650",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "650:p0",
+      "kind": "heading",
+      "text": "650",
+      "sourceLocation": "pdf:visual:[[108,18]]"
+    },
+    {
+      "id": "650:p1",
+      "kind": "body",
+      "text": "“One minute Bernard was lying by the fire, unconscious, like you left \nhim. The next minute he was gone,” Norman says. “We followed \nhis tracks to the river. As far as we can tell, they go in and don’t \ncome out.” A search of the area confirms his report. You can do \nnothing further.",
+      "sourceLocation": "pdf:visual:[[108,19],[108,20],[108,21],[108,22],[108,23]]"
+    },
+    {
+      "id": "650:p2",
+      "kind": "body",
+      "text": "To head back to the fort, go to 324. To continue exploring, despite \nthis, go to 600.",
+      "sourceLocation": "pdf:visual:[[108,24],[108,25]]"
+    },
+    {
+      "id": "650:p3",
+      "kind": "trace",
+      "text": "(649)",
+      "sourceLocation": "pdf:visual:[[108,26]]"
+    }
+  ]
+}

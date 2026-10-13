@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "180"
+  ],
+  "text": [
+    "不管你如何努力，都无法从约书亚手中夺下刀。他重重打了你一拳，打得你向后踉跄。转眼间，他已压在你身上。",
+    "约书亚盯着你的眼睛，带着邪恶的喜悦笑着，把冰冷的金属轻轻抵在你的喉咙上。接着，他的眼神变得呆滞，开始用一种怪异的语言说话。“Grah’n y’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.”他说得缓慢而单调，仿佛正极其专注地体会每个词的发音。",
+    "最后一个音节刚从他唇间落下，约书亚便拿起刀，狠狠抵住你的脖子。他动作流畅利落，一刀割开了你的喉咙。",
+    "你失血而死时，眼前浮现出不可能存在的幻象。眼前的世界融化消失，取而代之的是一座由大理石、缟玛瑙和璀璨宝石构成的辉煌城市。你看见这座宏伟城市尽显壮丽，坐落在平静的湖畔。随后转瞬之间，水位上涨，将它吞没，城市消失无踪。那尊蜥蜴形偶像的造物，在你的鲜血赋予它生命与力量后，从水中猛然升起。水势膨胀，将你吞噬，那存在以充满恶意的灵智注视着你。",
+    "你已被献祭给一位旧日支配者。你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 180",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 180",
+      "text": [
+        "Try as you might, you are unable to pry the blade from Joshua’s grasp. He manages to land a single, solid punch to your face that sends you reeling backward. In a moment, he’s on top of you.",
+        "Joshua locks eyes with you, smiling with wicked glee as he rests the cold metal lightly against your throat. Then his eyes glaze over as he begins speaking in a strange tongue. “Grah’n y’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.” He speaks each syllable in a slow and monotonous tone, as if he’s focusing very carefully on the sound of the words.",
+        "As the last syllable passes his lips, Joshua takes the knife and presses it sharply against your neck. With a single, smooth motion, he slits your throat.",
+        "As you bleed out, your eyes perceive impossible visions. The world before you melts away, replaced by a shining city of marble, onyx, and lustrous gems. You see this magnificent city in all its splendor, sitting next to a placid lake. And then, in an instant, it’s gone as the water rises up to swallow it. The lizard- thing of the idol, given life and power by your blood, surges up from the water. The being eyes you with malicious sentience as the waters swell and consume you. You have been offered up as a sacrifice to one of the Great Old Ones. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

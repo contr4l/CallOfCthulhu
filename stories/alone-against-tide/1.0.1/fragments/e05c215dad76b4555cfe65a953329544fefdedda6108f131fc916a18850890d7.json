@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "81"
+  ],
+  "text": [
+    "你注意到，仔细查看这些物品的人不止你一个。那名僧侣似乎也在仔细端详较为奇特的物品，而先前那两名穿深色西装的绅士似乎看中了那尊古怪的偶像。除此之外，还有其他宾客在桌边走动，偶尔停下来仔细看某件物品。宾客很多，投出的报价也不少。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 81",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 81",
+      "text": [
+        "You notice that you’re not the only one looking over the items with such interest. The monk appears to be closely scrutinizing the stranger items as well, and the dark-suited gentlemen from earlier seem to have taken a liking to the curious idol. Apart from this, various other guests wander around the tables, occasionally fixing on one in particular. There are many guests and a fair number of bids being placed."
+      ]
+    }
+  }
+}

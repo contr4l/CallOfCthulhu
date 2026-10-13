@@ -1,0 +1,30 @@
+{
+  "id": "265",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "265:p0",
+      "kind": "heading",
+      "text": "265",
+      "sourceLocation": "pdf:visual:[[53,20]]"
+    },
+    {
+      "id": "265:p1",
+      "kind": "body",
+      "text": "The diminutive gray warriors seize you and drag you away. They \nforce you to kneel between a pair of young birches and tie one \nwrist to each. Dread builds in your stomach as one approaches, \ncarrying a moon-shaped blade on a pole. The start of a chant \ncauses you to look around. Out of the corner of your eye, you \nsee the pole-blade flash. An icy pain sears your throat. Then, \nblackness comes.",
+      "sourceLocation": "pdf:visual:[[53,23],[53,24],[53,26],[53,27],[53,29],[53,30],[53,31]]"
+    },
+    {
+      "id": "265:p2",
+      "kind": "body",
+      "text": "Go to 417.",
+      "sourceLocation": "pdf:visual:[[53,32]]"
+    },
+    {
+      "id": "265:p3",
+      "kind": "trace",
+      "text": "(117, 211, 262)",
+      "sourceLocation": "pdf:visual:[[53,33]]"
+    }
+  ]
+}

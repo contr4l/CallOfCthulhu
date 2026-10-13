@@ -1,0 +1,36 @@
+{
+  "id": "418",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "418:p0",
+      "kind": "heading",
+      "text": "418",
+      "sourceLocation": "pdf:visual:[[74,30]]"
+    },
+    {
+      "id": "418:p1",
+      "kind": "body",
+      "text": "The board of inquiry dismisses the charges against you. You \nsettle back into the academic community.",
+      "sourceLocation": "pdf:visual:[[74,31],[74,32]]"
+    },
+    {
+      "id": "418:p2",
+      "kind": "body",
+      "text": "Go to 33.",
+      "sourceLocation": "pdf:visual:[[74,33]]"
+    },
+    {
+      "id": "418:p3",
+      "kind": "trace",
+      "text": "(83)",
+      "sourceLocation": "pdf:visual:[[74,34]]"
+    },
+    {
+      "id": "418:p4",
+      "kind": "body",
+      "text": "73",
+      "sourceLocation": "pdf:visual:[[74,35]]"
+    }
+  ]
+}

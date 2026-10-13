@@ -1,0 +1,26 @@
+{
+  "id": "section-character-sheet",
+  "paragraphs": [
+    {
+      "id": "section-character-sheet:p0000",
+      "kind": "body",
+      "text": "Character Sheet\n",
+      "sourceLocation": "pdf:spans:[[100,174,190]]"
+    },
+    {
+      "id": "section-character-sheet:p0001",
+      "kind": "body",
+      "text": "Injuries\n",
+      "sourceLocation": "pdf:spans:[[100,190,199]]"
+    },
+    {
+      "id": "section-character-sheet:p0002",
+      "kind": "body",
+      "text": " Mental scars\n",
+      "sourceLocation": "pdf:spans:[[100,199,213]]"
+    }
+  ],
+  "sourcePages": [
+    100
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "381",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "381:p0",
+      "kind": "heading",
+      "text": "381",
+      "sourceLocation": "pdf:visual:[[69,17]]"
+    },
+    {
+      "id": "381:p1",
+      "kind": "body",
+      "text": "Finally, the fight is over. You go out to check the bodies and \nfind them to be pink, fungoid crustaceans of great size. From the \nway they fought, they must have been intelligent indeed. Your \nscientific excitement rises. What specimens they will make!",
+      "sourceLocation": "pdf:visual:[[69,20],[69,21],[69,23],[69,24]]"
+    },
+    {
+      "id": "381:p2",
+      "kind": "body",
+      "text": "Unfortunately, a strange deterioration sets into the bodies. \nBy midday, there is nothing left of them but slime.",
+      "sourceLocation": "pdf:visual:[[69,26],[69,27]]"
+    },
+    {
+      "id": "381:p3",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity. Go to 513.",
+      "sourceLocation": "pdf:visual:[[69,29]]"
+    },
+    {
+      "id": "381:p4",
+      "kind": "trace",
+      "text": "(380, 479)",
+      "sourceLocation": "pdf:visual:[[69,30]]"
+    }
+  ]
+}

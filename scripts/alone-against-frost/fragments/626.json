@@ -1,0 +1,36 @@
+{
+  "id": "626",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "626:p0",
+      "kind": "heading",
+      "text": "626",
+      "sourceLocation": "pdf:visual:[[105,27]]"
+    },
+    {
+      "id": "626:p1",
+      "kind": "body",
+      "text": "The beast-men advance down the slopes, wary. They are fully \nupright,  human-like  despite  their  muscular  bulk  and  apish \ncrests. When they get close, you start to cough. Their stench \nis overwhelming.",
+      "sourceLocation": "pdf:visual:[[105,28],[105,29],[105,30],[105,31]]"
+    },
+    {
+      "id": "626:p2",
+      "kind": "body",
+      "text": "Your  years  of  training  suggest  techniques  to  pacify  and \nmollify the sasquatches.",
+      "sourceLocation": "pdf:visual:[[105,32],[105,33]]"
+    },
+    {
+      "id": "626:p3",
+      "kind": "body",
+      "text": "Make an Anthropology roll: if you succeed, go to 627; if you fail, \ngo to 629.",
+      "sourceLocation": "pdf:visual:[[105,34],[105,35]]"
+    },
+    {
+      "id": "626:p4",
+      "kind": "trace",
+      "text": "(623)",
+      "sourceLocation": "pdf:visual:[[105,36]]"
+    }
+  ]
+}

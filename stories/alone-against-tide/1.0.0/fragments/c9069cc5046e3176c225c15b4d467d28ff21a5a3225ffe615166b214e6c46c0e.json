@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "55"
+  ],
+  "text": [
+    "尽管约书亚劝阻你，你还是觉得应该亲自和阿米莉娅谈谈。你走到房子正面，观察周围环境。",
+    "从房子的外观能看出住户家境富裕，不过镇上大多数地方也都是如此。住宅正对面有一座小教堂，哈里斯夫妇似乎在自家设计中借鉴了那里的宗教图像。前门上方挂着一枚青铜十字架，两层楼的外墙排列着装饰性立柱。总的来说，建筑风格颇为巴洛克，屋檐下还有一对雕刻天使悠闲地倚卧，透过诡异的雾气依稀可见。",
+    "你敲门，在雾中等了一会儿，希望有人听见。最终，寡妇阿米莉娅出来开门，你如释重负。她穿着一身鲜红的裙子，与深红色口红相映衬，显然精心打扮过。她朝你微笑，邀请你进屋。房门通向宽敞的门厅，沿墙堆着各式板条箱和包裹。“只是卖掉几件比较普通的东西。别介意这里乱，搬运工还没来取走呢。”她牵起你的手，领你绕过成堆的物品，帮你在哈里斯教授遗留下来的物品之间找路。她带你来到一间摆满古董家具的小客厅，问你要不要喝咖啡。",
+    "你安顿下来，和她礼貌地寒暄几句后，便详细询问已故的哈里斯教授。",
+    "阿米莉娅夸张地叹了口气，低头看着自己的手。“我不知道你还想问威廉什么。我是在书房里发现他的，枪还在他嘴里。你还想知道什么？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 55",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 55",
+      "text": [
+        "Despite Joshua’s urgings, you feel compelled to speak to Amelia yourself. You approach the front of the house and note your surroundings.",
+        "The house’s exterior hints at the wealth of the occupants, but then again, so do most places in town. Directly across from the residence is a small church, whose religious iconography seems to have inspired the Harrises in the design of their own home. A bronze cross hangs over the front door, and decorative columns line the outside walls of the two-story house. All in all, the architectural style is somewhat baroque, complete with a pair of carved angels lounging beneath the eaves that are just visible through the strange haze.",
+        "You knock on the door and wait in the mist for a few moments, hoping for someone to hear you. Eventually, much to your relief, the widow Amelia answers the door. She’s wearing a bright red dress, which accents her deep crimson lipstick. She appears to have taken great care over her appearance. She flashes you a smile and invites you inside. The house opens into a large foyer, and you see various crates and bundles stacked high along the walls. “Just selling off a few of the more common things. Mind the mess, the porter hasn’t come for it yet.” She takes you by the hand to lead you past the stacks of items, helping you to pick your way through the deceased Prof. Harris’ assembled possessions. She takes you into a small drawing room full of antique furniture and offers you some coffee.",
+        "After settling in and exchanging a few well-mannered pleasantries, you ask in more detail about the late Prof. Harris.",
+        "Amelia sighs theatrically and looks down at her hands. “I can’t imagine what you want to ask about William. I found him in his study with the gun still in his mouth. What more could you want to know?”"
+      ]
+    }
+  }
+}

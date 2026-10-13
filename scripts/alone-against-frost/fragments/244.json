@@ -1,0 +1,30 @@
+{
+  "id": "244",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "244:p0",
+      "kind": "heading",
+      "text": "244",
+      "sourceLocation": "pdf:visual:[[49,11]]"
+    },
+    {
+      "id": "244:p1",
+      "kind": "body",
+      "text": "Running  blindly  through  the  wild  raspberry  whips,  Sylvia \nbecomes snared. You are able to catch and subdue her. Norman \ncomes up behind you.",
+      "sourceLocation": "pdf:visual:[[49,14],[49,15],[49,17]]"
+    },
+    {
+      "id": "244:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 324; if the result is odd, go to 245.",
+      "sourceLocation": "pdf:visual:[[49,19]]"
+    },
+    {
+      "id": "244:p3",
+      "kind": "trace",
+      "text": "(243)",
+      "sourceLocation": "pdf:visual:[[49,20]]"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "95"
+  ],
+  "text": [
+    "你被眼前的生物吓得心神不宁，胡乱朝它开火。你只想扣下扳机，把这东西彻底消灭。",
+    "可惜你的运气没那么好。你一枪接一枪地射击，却全都无害地偏离怪物。子弹消失在浓雾中。",
+    "你惊慌尖叫，那东西扑倒在你身上，把你压在地面，同时用细长而畸形的手指抓挠你的脸。那怪物的指甲划过你的脸，抓出了血。你无助地用枪托猛击它。",
+    "尽管你感觉自己对它肿胀身体上脆弱的肉造成了相当大的伤害，最终仍然不够。你依旧被压在它身下。它伏在你身上，用骨瘦如柴的手指慢慢剥下你脸上的皮肉。你拼命挣扎，每被钝钝的指甲划过一次便痛苦地尖叫，但你无能为力。你被这邪恶之物一点点折磨至死。你已经死亡。你可以重来一次，希望能有更好的结果；但此刻，你已被这座受诅咒的城镇中潜伏的恐怖吞噬。你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 95",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 95",
+      "text": [
+        "You fire wildly at the creature before you, unnerved by its presence. You want nothing more than to pull the trigger of your weapon and send this thing into oblivion.",
+        "Unfortunately, you have no such luck. You fire shot after shot, but they all fly harmlessly wide of the monstrosity. Your bullets are lost to the mist.",
+        "You panic and scream as the thing falls on you, pinning you to the ground while it digs at your face with its slender and misshapen fingers. The abomination’s fingernails rake across your face, drawing blood. You bash helplessly against the thing with the butt of your gun.",
+        "Even though you feel yourself doing considerable harm to the flimsy flesh of its swollen body, in the end, it’s just not enough. You remain trapped beneath its weight. It lays atop you, slowly stripping the flesh from your face with its bony fingers. You fight against it and scream in agony with every rake of its blunted fingernails, but there’s nothing you can do. You are gradually mauled to death by the unholy thing. You have died. You may try again and hope for a more favorable outcome, but for now, you have been claimed by whatever horrors lurk in this cursed town. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

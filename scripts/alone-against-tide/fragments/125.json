@@ -1,0 +1,42 @@
+{
+  "id": "125",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "125:p0",
+      "kind": "heading",
+      "text": "125\n",
+      "sourceLocation": "pdf:spans:[[41,1388,1392]]"
+    },
+    {
+      "id": "125:p1",
+      "kind": "body",
+      "text": "Amelia is too much of a liability to leave alone at the present \nmoment. You resolve to restrain her. You pull a dust sheet off  \nsome of the furniture in the entryway and use it to bind her \nto an armchair in the room. She struggles for a moment, but \nin her distraught state, she quickly sinks into resignation and \nceases to resist.\n",
+      "sourceLocation": "pdf:spans:[[41,1392,1457],[41,1457,1522],[41,1522,1584],[41,1584,1645],[41,1645,1710],[41,1710,1728]]"
+    },
+    {
+      "id": "125:p2",
+      "kind": "body",
+      "text": "As you finish securing the knots, the front door of the house \nflies open, rattling on its hinges. Dominating the doorway is \nJoshua, red-faced and furious. He has a gun in his right hand, \nwhich he quickly aims in your direction. \n",
+      "sourceLocation": "pdf:spans:[[41,1728,1791],[41,1791,1854],[41,1854,1918],[41,1918,1960]]"
+    },
+    {
+      "id": "125:p3",
+      "kind": "body",
+      "text": "You have just a second to hit the ground before he pulls the \ntrigger. Perhaps your reflexes are quick enough.\n",
+      "sourceLocation": "pdf:spans:[[41,44,106],[41,106,155]]"
+    },
+    {
+      "id": "125:p4",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 145; if you fail, take \n1D10+2 damage. If you survive this, go to 96; however, if this \nreduces you to zero hit points, you are dead. Your visit to Esbury \nis over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[41,157,224],[41,224,288],[41,288,356],[41,356,374]]"
+    },
+    {
+      "id": "125:p5",
+      "kind": "body",
+      "text": "(39, 49, 85, 99)\n",
+      "sourceLocation": "pdf:spans:[[41,374,391]]"
+    }
+  ]
+}

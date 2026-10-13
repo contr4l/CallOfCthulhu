@@ -1,0 +1,30 @@
+{
+  "id": "243",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "243:p0",
+      "kind": "heading",
+      "text": "243\n",
+      "sourceLocation": "pdf:spans:[[78,1164,1168]]"
+    },
+    {
+      "id": "243:p1",
+      "kind": "body",
+      "text": "You come to, only to find the hideous creature’s long-fingered \nhands wrapped around your throat, choking the life out of \nyou. The creature shakes you violently as it steadily throttles \nyou to death.\n",
+      "sourceLocation": "pdf:spans:[[78,1168,1232],[78,1232,1291],[78,1291,1356],[78,1356,1370]]"
+    },
+    {
+      "id": "243:p2",
+      "kind": "body",
+      "text": "As you black out for the second time, the last thing you see \nare those horrible, lifeless eyes staring into your soul.\nYou have been killed by a being from another world. Though you are \nuncertain how this creature came to be here, it matters little now, as \nyour lifeless body adorns the streets of the lakeside town. Though you \nare free to start the adventure over and try again, for now, your visit \nto Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[78,1370,1432],[78,1432,1490],[78,1490,1558],[78,1558,1630],[78,1630,1702],[78,1702,1775],[78,1775,1803]]"
+    },
+    {
+      "id": "243:p3",
+      "kind": "body",
+      "text": "(162)\n",
+      "sourceLocation": "pdf:spans:[[78,1803,1809]]"
+    }
+  ]
+}

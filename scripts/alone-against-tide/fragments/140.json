@@ -1,0 +1,36 @@
+{
+  "id": "140",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "140:p0",
+      "kind": "heading",
+      "text": "140\n",
+      "sourceLocation": "pdf:spans:[[46,3653,3657]]"
+    },
+    {
+      "id": "140:p1",
+      "kind": "body",
+      "text": "You turn around and leave the door closed behind you. Looking \ndown the stairs, you realize that you are not alone. Dominating \nthe entryway is Joshua, red-faced and furious. He has a gun in \nhis right hand, which he quickly aims in your direction. \n",
+      "sourceLocation": "pdf:spans:[[46,3657,3720],[46,3720,3785],[46,3785,3849],[46,3849,3907]]"
+    },
+    {
+      "id": "140:p2",
+      "kind": "body",
+      "text": "You have just a second to hit the ground before he pulls the \ntrigger. Perhaps your reflexes are quick enough.\n",
+      "sourceLocation": "pdf:spans:[[46,3907,3969],[46,3969,4018]]"
+    },
+    {
+      "id": "140:p3",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 132; if you fail, take \n1D10+2 damage. If you survive this, go to 96; however, if this \nreduces you to zero hit points, you are dead. Your visit to Esbury \nis over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[46,4020,4087],[46,4087,4151],[46,4151,4219],[46,4219,4237]]"
+    },
+    {
+      "id": "140:p4",
+      "kind": "body",
+      "text": "(75, 77, 87, 108, 118, 123)\n",
+      "sourceLocation": "pdf:spans:[[46,4237,4265]]"
+    }
+  ]
+}

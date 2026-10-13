@@ -1,0 +1,36 @@
+{
+  "id": "485",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "485:p0",
+      "kind": "heading",
+      "text": "485",
+      "sourceLocation": "pdf:visual:[[85,42]]"
+    },
+    {
+      "id": "485:p1",
+      "kind": "body",
+      "text": "Your  sudden  burst  of  speed  catches  the  sasquatches  by \nsurprise. You are faster than them, but your short legs will tire \nbefore theirs.",
+      "sourceLocation": "pdf:visual:[[85,43],[85,44],[85,45]]"
+    },
+    {
+      "id": "485:p2",
+      "kind": "body",
+      "text": "Make a CON roll to outdistance the creatures before you have to \nrest. If you succeed, go to 336. If not, you feel a hairy grip upon your \nshoulders—roll 1D10: if the result is even, go to 486; if the result \nis odd, go to 487.",
+      "sourceLocation": "pdf:visual:[[85,46],[85,47],[85,48],[85,49]]"
+    },
+    {
+      "id": "485:p3",
+      "kind": "trace",
+      "text": "(386, 426)",
+      "sourceLocation": "pdf:visual:[[85,50]]"
+    },
+    {
+      "id": "485:p4",
+      "kind": "body",
+      "text": "84",
+      "sourceLocation": "pdf:visual:[[85,51]]"
+    }
+  ]
+}

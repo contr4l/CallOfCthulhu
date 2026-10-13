@@ -1,0 +1,24 @@
+{
+  "id": "513",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "513:p0",
+      "kind": "heading",
+      "text": "513",
+      "sourceLocation": "pdf:visual:[[89,20]]"
+    },
+    {
+      "id": "513:p1",
+      "kind": "body",
+      "text": "It  is  time  to  decide  the  course  of  your  expedition.  Fort \nMcDonald lies within your reach, and you may go there to end \nyour experience in the North Hanninah. If you still have an \nappetite for exploration, you may take a short side trip or even \nstrike back out into the depths of the valley.",
+      "sourceLocation": "pdf:visual:[[89,23],[89,24],[89,26],[89,27],[89,29]]"
+    },
+    {
+      "id": "513:p2",
+      "kind": "body",
+      "text": "To return to Fort McDonald, go to 593. To take a side trip, go to \n594. If your party still has at least three members, you may return \nto the wilds; go to 425.\n(25, 67, 76, 111, 165, 182, 224, 232, 242, 297, 322, 334, 338, 377, \n379, 381, 411, 419, 427, 428, 457, 472, 476, 480, 509, 512, 514, \n517, 518, 543, 564, 567, 572, 577, 580, 587, 589, 591, 595, 596)",
+      "sourceLocation": "pdf:visual:[[89,30],[89,31],[89,32],[89,33],[89,34],[89,35]]"
+    }
+  ]
+}

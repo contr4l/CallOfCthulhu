@@ -1,0 +1,388 @@
+{
+  "id": "unique-event-009",
+  "paragraphs": [
+    {
+      "id": "unique-event-009:p0000",
+      "kind": "body",
+      "text": "#9. If you have already played it in this mission or do not want to\n",
+      "sourceLocation": "pdf:spans:[[48,1148,1216]]"
+    },
+    {
+      "id": "unique-event-009:p0001",
+      "kind": "body",
+      "text": "intervene, keep moving through town.\n",
+      "sourceLocation": "pdf:spans:[[48,1216,1253]]"
+    },
+    {
+      "id": "unique-event-009:p0002",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[48,1253,1255]]"
+    },
+    {
+      "id": "unique-event-009:p0003",
+      "kind": "body",
+      "text": "The farm is besieged by 2d6 L3 Zombies, Slow Undead, 1 Life point\n",
+      "sourceLocation": "pdf:spans:[[48,1255,1321]]"
+    },
+    {
+      "id": "unique-event-009:p0004",
+      "kind": "body",
+      "text": "each, damage 1. If you defeat the zombies, the farmers will give you\n",
+      "sourceLocation": "pdf:spans:[[48,1321,1390]]"
+    },
+    {
+      "id": "unique-event-009:p0005",
+      "kind": "body",
+      "text": "d6 Food points or d6 shotgun shells (choose) as a thank you.\n",
+      "sourceLocation": "pdf:spans:[[48,1390,1451]]"
+    },
+    {
+      "id": "unique-event-009:p0006",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[48,1451,1453]]"
+    },
+    {
+      "id": "unique-event-009:p0007",
+      "kind": "body",
+      "text": "Play unique event #10. If you already played that event during\n",
+      "sourceLocation": "pdf:spans:[[48,1453,1516]]"
+    },
+    {
+      "id": "unique-event-009:p0008",
+      "kind": "body",
+      "text": "this mission, roll on the Beasts table. You may avoid this\n",
+      "sourceLocation": "pdf:spans:[[48,1516,1575]]"
+    },
+    {
+      "id": "unique-event-009:p0009",
+      "kind": "body",
+      "text": "encounter by performing a successful Stealth roll against the\n",
+      "sourceLocation": "pdf:spans:[[48,1575,1637]]"
+    },
+    {
+      "id": "unique-event-009:p0010",
+      "kind": "body",
+      "text": "creature’s L. Add +1 if you have the Stealth Skill, and +2 if you have\n",
+      "sourceLocation": "pdf:spans:[[48,1637,1708]]"
+    },
+    {
+      "id": "unique-event-009:p0011",
+      "kind": "body",
+      "text": "Stealth (Expert).  If the roll fails, you must fight the creature. If you\n",
+      "sourceLocation": "pdf:spans:[[48,1708,1782]]"
+    },
+    {
+      "id": "unique-event-009:p0012",
+      "kind": "body",
+      "text": "defeat the creature, choose: 1) you gain d3 Food points; or 2) roll\n",
+      "sourceLocation": "pdf:spans:[[48,1782,1850]]"
+    },
+    {
+      "id": "unique-event-009:p0013",
+      "kind": "body",
+      "text": "once on the Useful Stuff table.",
+      "sourceLocation": "pdf:spans:[[48,1850,1881]]"
+    },
+    {
+      "id": "unique-event-009:p0014",
+      "kind": "body",
+      "text": "Haunted House table (d6)\n",
+      "sourceLocation": "pdf:spans:[[50,22,47]]"
+    },
+    {
+      "id": "unique-event-009:p0015",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[50,47,49]]"
+    },
+    {
+      "id": "unique-event-009:p0016",
+      "kind": "body",
+      "text": "Poltergeist. As you step inside, d6 objects fly at you. Defend against\n",
+      "sourceLocation": "pdf:spans:[[50,49,120]]"
+    },
+    {
+      "id": "unique-event-009:p0017",
+      "kind": "body",
+      "text": "each as if it were a level 3 attack. Find 1 random object from the Useful\n",
+      "sourceLocation": "pdf:spans:[[50,120,194]]"
+    },
+    {
+      "id": "unique-event-009:p0018",
+      "kind": "body",
+      "text": "Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[50,194,207]]"
+    },
+    {
+      "id": "unique-event-009:p0019",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[50,207,209]]"
+    },
+    {
+      "id": "unique-event-009:p0020",
+      "kind": "body",
+      "text": "The house is possessed by an evil entity. If you have the Faith Skill\n",
+      "sourceLocation": "pdf:spans:[[50,209,279]]"
+    },
+    {
+      "id": "unique-event-009:p0021",
+      "kind": "body",
+      "text": "and the Exorcism ritual, you may try to exorcise the house as an L5\n",
+      "sourceLocation": "pdf:spans:[[50,279,347]]"
+    },
+    {
+      "id": "unique-event-009:p0022",
+      "kind": "body",
+      "text": "Demon. If you fail the Exorcism attempt, lose 1 Sanity and 1 Life. If\n",
+      "sourceLocation": "pdf:spans:[[50,347,417]]"
+    },
+    {
+      "id": "unique-event-009:p0023",
+      "kind": "body",
+      "text": "you succeed, gain 1 XP. Loot: 1 random book (reroll if it is a book you\n",
+      "sourceLocation": "pdf:spans:[[50,417,489]]"
+    },
+    {
+      "id": "unique-event-009:p0024",
+      "kind": "body",
+      "text": "already possess).\n",
+      "sourceLocation": "pdf:spans:[[50,489,507]]"
+    },
+    {
+      "id": "unique-event-009:p0025",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[50,507,509]]"
+    },
+    {
+      "id": "unique-event-009:p0026",
+      "kind": "body",
+      "text": "This house had an impressive occult library . Roll twice on the\n",
+      "sourceLocation": "pdf:spans:[[50,509,573]]"
+    },
+    {
+      "id": "unique-event-009:p0027",
+      "kind": "body",
+      "text": "Random Book table. You may take one or both books (reroll\n",
+      "sourceLocation": "pdf:spans:[[50,573,631]]"
+    },
+    {
+      "id": "unique-event-009:p0028",
+      "kind": "body",
+      "text": "duplicates). When you leave, you are attacked by a random creature\n",
+      "sourceLocation": "pdf:spans:[[50,631,698]]"
+    },
+    {
+      "id": "unique-event-009:p0029",
+      "kind": "body",
+      "text": "from the Demonic Horrors table. If you took two books, the creature\n",
+      "sourceLocation": "pdf:spans:[[50,698,766]]"
+    },
+    {
+      "id": "unique-event-009:p0030",
+      "kind": "body",
+      "text": "will have +1 to its L.\n",
+      "sourceLocation": "pdf:spans:[[50,766,789]]"
+    },
+    {
+      "id": "unique-event-009:p0031",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[50,789,791]]"
+    },
+    {
+      "id": "unique-event-009:p0032",
+      "kind": "body",
+      "text": "The Rosen House (UNIQUE LOCATION). The Rosens were rumored\n",
+      "sourceLocation": "pdf:spans:[[50,791,850]]"
+    },
+    {
+      "id": "unique-event-009:p0033",
+      "kind": "body",
+      "text": "to be devil worshippers who kidnapped children for sacrifices. The\n",
+      "sourceLocation": "pdf:spans:[[50,850,917]]"
+    },
+    {
+      "id": "unique-event-009:p0034",
+      "kind": "body",
+      "text": "walls are covered with newspaper clippings and outside the house\n",
+      "sourceLocation": "pdf:spans:[[50,917,982]]"
+    },
+    {
+      "id": "unique-event-009:p0035",
+      "kind": "body",
+      "text": "there is a huge, ancient walnut tree where the Rosens were rumored\n",
+      "sourceLocation": "pdf:spans:[[50,982,1049]]"
+    },
+    {
+      "id": "unique-event-009:p0036",
+      "kind": "body",
+      "text": "to hang their victims. If you want to investigate, go to unique event\n",
+      "sourceLocation": "pdf:spans:[[50,1049,1119]]"
+    },
+    {
+      "id": "unique-event-009:p0037",
+      "kind": "body",
+      "text": "#9 - old man\n",
+      "sourceLocation": "pdf:spans:[[81,976,989]]"
+    },
+    {
+      "id": "unique-event-009:p0038",
+      "kind": "body",
+      "text": "You find an old man threatened by\n",
+      "sourceLocation": "pdf:spans:[[81,989,1023]]"
+    },
+    {
+      "id": "unique-event-009:p0039",
+      "kind": "body",
+      "text": "a single zombie. You easily\n",
+      "sourceLocation": "pdf:spans:[[81,1023,1051]]"
+    },
+    {
+      "id": "unique-event-009:p0040",
+      "kind": "body",
+      "text": "dispatch the undead and save the\n",
+      "sourceLocation": "pdf:spans:[[81,1051,1084]]"
+    },
+    {
+      "id": "unique-event-009:p0041",
+      "kind": "body",
+      "text": "man. He explains that all hell broke\n",
+      "sourceLocation": "pdf:spans:[[81,1084,1121]]"
+    },
+    {
+      "id": "unique-event-009:p0042",
+      "kind": "body",
+      "text": "loose “after the kids found that\n",
+      "sourceLocation": "pdf:spans:[[81,1121,1154]]"
+    },
+    {
+      "id": "unique-event-009:p0043",
+      "kind": "body",
+      "text": "witchery book. Books of the devil,\n",
+      "sourceLocation": "pdf:spans:[[81,1154,1189]]"
+    },
+    {
+      "id": "unique-event-009:p0044",
+      "kind": "body",
+      "text": "I tell you.” He tells you that a bunch\n",
+      "sourceLocation": "pdf:spans:[[81,1189,1228]]"
+    },
+    {
+      "id": "unique-event-009:p0045",
+      "kind": "body",
+      "text": "of children started to mess with\n",
+      "sourceLocation": "pdf:spans:[[81,1228,1261]]"
+    },
+    {
+      "id": "unique-event-009:p0046",
+      "kind": "body",
+      "text": "black magic almost one year ago.\n",
+      "sourceLocation": "pdf:spans:[[81,1261,1294]]"
+    },
+    {
+      "id": "unique-event-009:p0047",
+      "kind": "body",
+      "text": "“I warned their parents. Warned\n",
+      "sourceLocation": "pdf:spans:[[81,1294,1326]]"
+    },
+    {
+      "id": "unique-event-009:p0048",
+      "kind": "body",
+      "text": "their teachers. They did not listen.\n",
+      "sourceLocation": "pdf:spans:[[81,1326,1363]]"
+    },
+    {
+      "id": "unique-event-009:p0049",
+      "kind": "body",
+      "text": "First, cats started to disappear, and\n",
+      "sourceLocation": "pdf:spans:[[81,1363,1401]]"
+    },
+    {
+      "id": "unique-event-009:p0050",
+      "kind": "body",
+      "text": "then other children too. There was\n",
+      "sourceLocation": "pdf:spans:[[81,1401,1436]]"
+    },
+    {
+      "id": "unique-event-009:p0051",
+      "kind": "body",
+      "text": "one blonde child, Eliza, she was the\n",
+      "sourceLocation": "pdf:spans:[[81,1436,1473]]"
+    },
+    {
+      "id": "unique-event-009:p0052",
+      "kind": "body",
+      "text": "leader of that gang of little witches.\n",
+      "sourceLocation": "pdf:spans:[[81,1473,1512]]"
+    },
+    {
+      "id": "unique-event-009:p0053",
+      "kind": "body",
+      "text": "She had a big, creepy doll that\n",
+      "sourceLocation": "pdf:spans:[[81,1512,1544]]"
+    },
+    {
+      "id": "unique-event-009:p0054",
+      "kind": "body",
+      "text": "looked a bit like her. It was like she\n",
+      "sourceLocation": "pdf:spans:[[81,1544,1583]]"
+    },
+    {
+      "id": "unique-event-009:p0055",
+      "kind": "body",
+      "text": "was nodding to the doll all the\n",
+      "sourceLocation": "pdf:spans:[[81,1583,1615]]"
+    },
+    {
+      "id": "unique-event-009:p0056",
+      "kind": "body",
+      "text": "time, as if the doll talked to her and\n",
+      "sourceLocation": "pdf:spans:[[81,1615,1654]]"
+    },
+    {
+      "id": "unique-event-009:p0057",
+      "kind": "body",
+      "text": "give her directions. There was\n",
+      "sourceLocation": "pdf:spans:[[81,1654,1685]]"
+    },
+    {
+      "id": "unique-event-009:p0058",
+      "kind": "body",
+      "text": "another girl, a black girl, named\n",
+      "sourceLocation": "pdf:spans:[[81,1685,1719]]"
+    },
+    {
+      "id": "unique-event-009:p0059",
+      "kind": "body",
+      "text": "Josephine. I think she wanted out\n",
+      "sourceLocation": "pdf:spans:[[81,1719,1753]]"
+    },
+    {
+      "id": "unique-event-009:p0060",
+      "kind": "body",
+      "text": "and they killed her. “\n",
+      "sourceLocation": "pdf:spans:[[81,1753,1776]]"
+    },
+    {
+      "id": "unique-event-009:p0061",
+      "kind": "body",
+      "text": "After his story, the man walks\n",
+      "sourceLocation": "pdf:spans:[[81,1776,1807]]"
+    },
+    {
+      "id": "unique-event-009:p0062",
+      "kind": "body",
+      "text": "away. Gain 1 Clue.\n",
+      "sourceLocation": "pdf:spans:[[81,1807,1826]]"
+    }
+  ],
+  "sourcePages": [
+    48,
+    50,
+    81
+  ]
+}

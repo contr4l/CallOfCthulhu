@@ -1,0 +1,36 @@
+{
+  "id": "515",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "515:p0",
+      "kind": "heading",
+      "text": "515",
+      "sourceLocation": "pdf:visual:[[89,48]]"
+    },
+    {
+      "id": "515:p1",
+      "kind": "body",
+      "text": "A  bolt  of  freezing  energy  streaks  over  your  head. The  dank \nstone wall behind you shatters and chunks of ice-covered rock \nrain down. You feel the temperature of your hiding place fall \n20  degrees.  You  peer  outside.  Several  of  the  pink  creatures \nwaddle through the undergrowth toward you. Another raises \nits weapon and fires. Your face and fingers begin to freeze.",
+      "sourceLocation": "pdf:visual:[[89,49],[89,50],[89,51],[89,52],[89,53],[89,54]]"
+    },
+    {
+      "id": "515:p2",
+      "kind": "body",
+      "text": "In a few minutes, the cave will be impossibly cold.",
+      "sourceLocation": "pdf:visual:[[89,55]]"
+    },
+    {
+      "id": "515:p3",
+      "kind": "body",
+      "text": "If you are armed, you may try to drive off the aliens with gunfire: go \nto 517. To make a run for it, go to 330.",
+      "sourceLocation": "pdf:visual:[[89,56],[89,57]]"
+    },
+    {
+      "id": "515:p4",
+      "kind": "trace",
+      "text": "(414)",
+      "sourceLocation": "pdf:visual:[[89,58]]"
+    }
+  ]
+}

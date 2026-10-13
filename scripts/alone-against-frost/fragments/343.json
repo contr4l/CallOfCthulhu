@@ -1,0 +1,36 @@
+{
+  "id": "343",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "343:p0",
+      "kind": "heading",
+      "text": "343",
+      "sourceLocation": "pdf:visual:[[64,39]]"
+    },
+    {
+      "id": "343:p1",
+      "kind": "body",
+      "text": "You spy a moldy fruit on a tree near your sickbed. With a great \neffort, you crawl over and drag it from the branch. It tastes \nappalling, but you choke it down and then pass out.",
+      "sourceLocation": "pdf:visual:[[64,40],[64,41],[64,42]]"
+    },
+    {
+      "id": "343:p2",
+      "kind": "body",
+      "text": "There must have been something beneficial in the fruit, for \nwhen you wake, your head is clearer and you have new energy.",
+      "sourceLocation": "pdf:visual:[[64,43],[64,44]]"
+    },
+    {
+      "id": "343:p3",
+      "kind": "body",
+      "text": "Gain 1D3 hit points and go to 365.",
+      "sourceLocation": "pdf:visual:[[64,45]]"
+    },
+    {
+      "id": "343:p4",
+      "kind": "trace",
+      "text": "(347, 392)",
+      "sourceLocation": "pdf:visual:[[64,46]]"
+    }
+  ]
+}

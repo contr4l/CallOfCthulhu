@@ -1,0 +1,30 @@
+{
+  "id": "353",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "353:p0",
+      "kind": "heading",
+      "text": "353",
+      "sourceLocation": "pdf:visual:[[65,59]]"
+    },
+    {
+      "id": "353:p1",
+      "kind": "body",
+      "text": "The shrill, piercing screams of the sasquatches bounce off the \nrocks as you rapidly fire several rounds above their heads.",
+      "sourceLocation": "pdf:visual:[[65,60],[65,61]]"
+    },
+    {
+      "id": "353:p2",
+      "kind": "body",
+      "text": "Attempt a Luck roll: if you succeed, go to 500; if you fail, go to 354.",
+      "sourceLocation": "pdf:visual:[[65,62]]"
+    },
+    {
+      "id": "353:p3",
+      "kind": "trace",
+      "text": "(311)",
+      "sourceLocation": "pdf:visual:[[65,63]]"
+    }
+  ]
+}

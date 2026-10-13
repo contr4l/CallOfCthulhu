@@ -1,0 +1,36 @@
+{
+  "id": "197",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "197:p0",
+      "kind": "heading",
+      "text": "197",
+      "sourceLocation": "pdf:visual:[[42,52]]"
+    },
+    {
+      "id": "197:p1",
+      "kind": "body",
+      "text": "Starvation sets in. Day after day, the two students stagger after \nyou like wan ghosts. The hungry, inactive nights are the worst of \nall. As the three of you lie in misery on beds of cut boughs, you \nbegin to believe there is a presence in camp—a thing of spirit \nthat cannot be seen or touched.",
+      "sourceLocation": "pdf:visual:[[42,53],[42,54],[42,55],[42,56],[42,57]]"
+    },
+    {
+      "id": "197:p2",
+      "kind": "body",
+      "text": "The temperature drops precipitously, frosting the needles of \nthe tamaracks around you.",
+      "sourceLocation": "pdf:visual:[[42,58],[42,59]]"
+    },
+    {
+      "id": "197:p3",
+      "kind": "body",
+      "text": "Make a POW roll for each member of your party: first yourself, \nthen Norman, then Sylvia. If your roll fails, go to 234. If Norman’s \nroll fails, go to 235. If Sylvia’s roll fails, go to 237. If all three rolls \nsucceed, go to 198.",
+      "sourceLocation": "pdf:visual:[[42,60],[42,61],[42,62],[42,63]]"
+    },
+    {
+      "id": "197:p4",
+      "kind": "trace",
+      "text": "(132, 471)",
+      "sourceLocation": "pdf:visual:[[42,64]]"
+    }
+  ]
+}

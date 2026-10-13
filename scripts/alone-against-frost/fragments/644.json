@@ -1,0 +1,36 @@
+{
+  "id": "644",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "644:p0",
+      "kind": "heading",
+      "text": "644",
+      "sourceLocation": "pdf:visual:[[107,43]]"
+    },
+    {
+      "id": "644:p1",
+      "kind": "body",
+      "text": "You notice that the sasquatches regard Sylvia differently from \nyou and Norman. They let her out of the overhang and allow \nher to wander around the camp. You encourage her to go. The \nsasquatch cubs approach her, shy or playful.",
+      "sourceLocation": "pdf:visual:[[107,44],[107,45],[107,46],[107,47]]"
+    },
+    {
+      "id": "644:p2",
+      "kind": "body",
+      "text": "When Sylvia returns to you and Norman, you wonder if this \nstate of affairs can be turned to your advantage.",
+      "sourceLocation": "pdf:visual:[[107,48],[107,49]]"
+    },
+    {
+      "id": "644:p3",
+      "kind": "body",
+      "text": "Make an INT roll: if you succeed, go to 387; if you fail, go to 389.",
+      "sourceLocation": "pdf:visual:[[107,50]]"
+    },
+    {
+      "id": "644:p4",
+      "kind": "trace",
+      "text": "(629)",
+      "sourceLocation": "pdf:visual:[[107,51]]"
+    }
+  ]
+}

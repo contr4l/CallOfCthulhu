@@ -1,0 +1,54 @@
+{
+  "id": "135",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "135:p0",
+      "kind": "heading",
+      "text": "135\n",
+      "sourceLocation": "pdf:spans:[[44,26,30]]"
+    },
+    {
+      "id": "135:p1",
+      "kind": "body",
+      "text": "You make your way through the empty streets of Esbury, \nstumbling through the dense fog. As you set out from the \nHarris household, you note a twilight tinge beginning to form \nover the green mist. Thankfully, you know your destination, \nand you point yourself toward the hotel where you’re staying, \ndespite the threat of coming darkness.\n",
+      "sourceLocation": "pdf:spans:[[44,30,86],[44,86,144],[44,144,207],[44,207,268],[44,268,331],[44,331,370]]"
+    },
+    {
+      "id": "135:p2",
+      "kind": "body",
+      "text": "The trip takes some time though, and night descends before \nyou reach your destination. As you near the hotel, you freeze \nin response to a frightening noise. A strange squelching sound \nechoes through the otherwise silent streets.\n",
+      "sourceLocation": "pdf:spans:[[44,370,430],[44,430,493],[44,493,557],[44,557,602]]"
+    },
+    {
+      "id": "135:p3",
+      "kind": "body",
+      "text": "At first, you linger from shock and surprise, but then out of \ncuriosity, as you question what would make such an odd noise.\n",
+      "sourceLocation": "pdf:spans:[[44,602,665],[44,665,727]]"
+    },
+    {
+      "id": "135:p4",
+      "kind": "body",
+      "text": "And then, to your dismay, your question is answered. Out \nof the mist emerges a frighteningly bizarre thing: a misshapen \nmass of sagging green flesh, its belly horribly distended \nand bloated, with limbs that are long and spindly. Its face is \ndominated by large, bulbous eyes and pouting, flabby lips, and \nits head is adorned with strange ears.\n",
+      "sourceLocation": "pdf:spans:[[44,727,785],[44,785,849],[44,849,908],[44,908,972],[44,972,1036],[44,1036,1075]]"
+    },
+    {
+      "id": "135:p5",
+      "kind": "body",
+      "text": "You take in all of these strange features as it lunges toward \nyou. The only noise it makes is that unnerving squelching sound.\n",
+      "sourceLocation": "pdf:spans:[[44,1075,1138],[44,1138,1203]]"
+    },
+    {
+      "id": "135:p6",
+      "kind": "body",
+      "text": "• Make a DEX roll: if you succeed, go to 171; if you fail, go to 162.\n",
+      "sourceLocation": "pdf:spans:[[44,1205,1275]]"
+    },
+    {
+      "id": "135:p7",
+      "kind": "body",
+      "text": "(222)\n",
+      "sourceLocation": "pdf:spans:[[44,1275,1281]]"
+    }
+  ]
+}

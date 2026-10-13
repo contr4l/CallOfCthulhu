@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "87"
+  ],
+  "text": [
+    "你随身带着一根发夹，正是为了应付这种情况。你摸索着摆弄了好一阵锁，试图让锁芯弹子归位。尽管竭尽全力，这把锁仍然纹丝不动。你正考虑放弃开锁、改为撞门时，房子的前门突然砰地打开，门扇在铰链上剧烈摇晃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 87",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 87",
+      "text": [
+        "You carry a bobby pin on you for just such an occasion. You fumble with the lock for quite some time, trying to force the tumblers into place. Despite your best efforts, the lock is stubborn and unwilling to move. As you contemplate giving up on the lock and trying to break the door down, the front door of the house flies open, rattling on its hinges."
+      ]
+    }
+  }
+}

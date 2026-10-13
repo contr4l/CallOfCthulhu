@@ -1,0 +1,36 @@
+{
+  "id": "35",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "35:p0",
+      "kind": "heading",
+      "text": "35",
+      "sourceLocation": "pdf:visual:[[16,21]]"
+    },
+    {
+      "id": "35:p1",
+      "kind": "body",
+      "text": "You  manage  to  calm  down  the  distraught  guide.  “You  speak \nthe truth, Professor,” she says. “My people tell these stories to our \nchildren. But I am… rational, like you.” After a few moments, \nshe draws closer and lowers her voice. “The tracks are like some I \nsaw when I was a girl. The night before, a child of our village had \nvanished.” A hint of fear returns to her eyes. “They say that when \nsomeone is taken by the Little Ones—the puk-woogies—they do not \ncome back. Or worse, they do come back. But they are not the same.”",
+      "sourceLocation": "pdf:visual:[[16,22],[16,23],[16,24],[16,25],[16,26],[16,27],[16,28],[16,29]]"
+    },
+    {
+      "id": "35:p2",
+      "kind": "body",
+      "text": "Although  skeptical,  you  listen  to  Charlie’s  stories  with \npatience. Talking it out has helped your guide, and she is fit \nto go on.",
+      "sourceLocation": "pdf:visual:[[16,30],[16,31],[16,32]]"
+    },
+    {
+      "id": "35:p3",
+      "kind": "body",
+      "text": "Go to 10.",
+      "sourceLocation": "pdf:visual:[[16,33]]"
+    },
+    {
+      "id": "35:p4",
+      "kind": "trace",
+      "text": "(17)",
+      "sourceLocation": "pdf:visual:[[16,34]]"
+    }
+  ]
+}

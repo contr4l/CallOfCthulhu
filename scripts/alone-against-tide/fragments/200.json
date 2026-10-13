@@ -1,0 +1,42 @@
+{
+  "id": "200",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "200:p0",
+      "kind": "heading",
+      "text": "200\n",
+      "sourceLocation": "pdf:spans:[[63,3041,3045]]"
+    },
+    {
+      "id": "200:p1",
+      "kind": "body",
+      "text": "You collect yourself and step out into the mist, determined to \nget to the bottom of this. The fog is thick, and night has fallen. \nAt this stage, you have few—if any—leads to investigate. While \nthis is far from ideal, your best option seems to be patrolling \nthe streets, looking for something out of the ordinary—more so \nthan what you’ve already seen.\n",
+      "sourceLocation": "pdf:spans:[[63,3045,3109],[63,3109,3177],[63,3177,3241],[63,3241,3306],[63,3306,3370],[63,3370,3401]]"
+    },
+    {
+      "id": "200:p2",
+      "kind": "body",
+      "text": "You begin cautiously walking down the streets, making sure \nto keep up a brisk pace and an open ear for anything that might \nbe lurking in the mist. The streets are eerily silent except for \nyour own footsteps.\n",
+      "sourceLocation": "pdf:spans:[[63,3401,3461],[63,3461,3526],[63,3526,3592],[63,3592,3612]]"
+    },
+    {
+      "id": "200:p3",
+      "kind": "body",
+      "text": "You pass houses and places of business. Little seems to stand \nout at first, but with a bit of persistence and luck, you may just \nfind something.\n",
+      "sourceLocation": "pdf:spans:[[63,3612,3675],[63,3675,3743],[63,3743,3759]]"
+    },
+    {
+      "id": "200:p4",
+      "kind": "body",
+      "text": "• Make a Luck roll: if you succeed, go to 238; if you fail, go to 169.\n",
+      "sourceLocation": "pdf:spans:[[63,3761,3832]]"
+    },
+    {
+      "id": "200:p5",
+      "kind": "body",
+      "text": "(83, 171, 177, 223)\n",
+      "sourceLocation": "pdf:spans:[[63,3832,3852]]"
+    }
+  ]
+}

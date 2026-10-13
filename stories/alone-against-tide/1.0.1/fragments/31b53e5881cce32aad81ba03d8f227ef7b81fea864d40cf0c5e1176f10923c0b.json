@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "102"
+  ],
+  "text": [
+    "你走近那个古怪的男人。他看起来饱经旅行、疲惫不堪，长长的橙色僧袍与新英格兰金融精英所穿的精致西装和礼服形成鲜明对比。他显然与这里格格不入。",
+    "你张口想说话，却发现他正目不转睛地盯着你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 102",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 102",
+      "text": [
+        "You approach the strange man. He seems well-traveled and weary, and his long, orange robes are a stark contrast to the fine suits and dresses of the New England financial elite. He seems decidedly out of place.",
+        "You open your mouth as if to speak and find him staring intensely at you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "168"
+  ],
+  "text": [
+    "你挥拳打向约书亚。你打中了他几下，力道不轻；他也以牙还牙，打了你好几次。看来这场斗殴还要持续一阵子才会分出胜负。",
+    "可惜，时间不站在你这边。你继续向约书亚出拳时，房门突然被撞开，另一个男人朝你冲来。他和约书亚联手把你打昏了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 168",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 168",
+      "text": [
+        "You swing at Joshua. You manage to land a few solid blows but you get as good as you give, with him hitting you several times as well. It seems like this brawl could go on for some time before a winner is decided.",
+        "Unfortunately for you, time is not on your side. As you continue to strike out against Joshua, the door of the house bursts open and the other man charges you. Together, he and Joshua beat you into unconsciousness."
+      ]
+    }
+  }
+}

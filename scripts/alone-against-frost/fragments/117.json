@@ -1,0 +1,30 @@
+{
+  "id": "117",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "117:p0",
+      "kind": "heading",
+      "text": "117",
+      "sourceLocation": "pdf:visual:[[30,13]]"
+    },
+    {
+      "id": "117:p1",
+      "kind": "body",
+      "text": "You hear a whirring sound. Something bangs into your shins \nand yanks your feet from beneath you. A bolas! You hit the \nground face-first. The little men seize you, bind you, and carry \nyou away.",
+      "sourceLocation": "pdf:visual:[[30,14],[30,15],[30,16],[30,17]]"
+    },
+    {
+      "id": "117:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 263; if the result is odd, go \nto 265. ",
+      "sourceLocation": "pdf:visual:[[30,18],[30,19]]"
+    },
+    {
+      "id": "117:p3",
+      "kind": "trace",
+      "text": "(116)",
+      "sourceLocation": "pdf:visual:[[30,20]]"
+    }
+  ]
+}

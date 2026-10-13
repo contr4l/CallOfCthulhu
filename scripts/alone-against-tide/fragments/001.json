@@ -1,0 +1,30 @@
+{
+  "id": "1",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "1:p0",
+      "kind": "heading",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[9,365,367]]"
+    },
+    {
+      "id": "1:p1",
+      "kind": "body",
+      "text": "The sun sinks low on the horizon as you board the ferry \nheaded across the lake to Esbury. As you set foot on the \nboat, the ferryman greets you with a wide smile and a cheery \nwave. He stands by the gangplank as you pass, welcoming \nthe other passengers as he removes his cap to scratch at his \nbalding head. His pudgy figure fills his well-worn suit. He \nlooks a little awkward, but he seems a rather pleasant sort. \nLeaving the man behind you, you take a seat toward the \nprow, eyes fixed on your destination.\n",
+      "sourceLocation": "pdf:spans:[[9,367,424],[9,424,482],[9,482,544],[9,544,601],[9,601,663],[9,663,724],[9,724,786],[9,786,842],[9,842,880]]"
+    },
+    {
+      "id": "1:p2",
+      "kind": "body",
+      "text": "• Go to 12.\n",
+      "sourceLocation": "pdf:spans:[[9,880,892]]"
+    },
+    {
+      "id": "1:p3",
+      "kind": "body",
+      "text": "(Beginning)\n",
+      "sourceLocation": "pdf:spans:[[9,892,904]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "83",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "83:p0",
+      "kind": "heading",
+      "text": "83",
+      "sourceLocation": "pdf:visual:[[24,38]]"
+    },
+    {
+      "id": "83:p1",
+      "kind": "body",
+      "text": "The verdict of the Canadian authorities counts in your favor, \nbut the parents of your students rise up in arms and force a \nthorough review of your case. They impute that you are an \nincompetent crank willing to risk innocent lives to pursue off-\nthe-wall theories. Your standing in the scientific community \nis imperiled.",
+      "sourceLocation": "pdf:visual:[[24,39],[24,40],[24,41],[24,42],[24,43],[24,44]]"
+    },
+    {
+      "id": "83:p2",
+      "kind": "body",
+      "text": "You stand on your record. Make an Anthropology roll: if you succeed, \ngo to 418; if you fail, go to 214.",
+      "sourceLocation": "pdf:visual:[[24,45],[24,46]]"
+    },
+    {
+      "id": "83:p3",
+      "kind": "trace",
+      "text": "(430)",
+      "sourceLocation": "pdf:visual:[[24,47]]"
+    }
+  ]
+}

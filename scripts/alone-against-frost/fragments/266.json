@@ -1,0 +1,36 @@
+{
+  "id": "266",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "266:p0",
+      "kind": "heading",
+      "text": "266",
+      "sourceLocation": "pdf:visual:[[53,34]]"
+    },
+    {
+      "id": "266:p1",
+      "kind": "body",
+      "text": "An  exercise  of  incredible  willpower  has  leashed  the  demon \nin you for a few precious moments. You know what you must \ndo. You stride into the camp, making no attempt to hide your \nmonstrous feet. The men in the camp—the hunters—reach for \ntheir rifles. The abhorrent cast of your features and the deformed \nstumps beneath you freeze them in superstitious awe. All you \ncan manage are a few peals of bitter laughter. You must restrain \nyourself long enough to allow the hunters to gather their wits.",
+      "sourceLocation": "pdf:visual:[[53,35],[53,36],[53,37],[53,38],[53,39],[53,40],[53,41],[53,42]]"
+    },
+    {
+      "id": "266:p2",
+      "kind": "body",
+      "text": "Attempt a Hard POW roll: if you succeed, go to 285; if you fail, go \nto 267.",
+      "sourceLocation": "pdf:visual:[[53,43],[53,44]]"
+    },
+    {
+      "id": "266:p3",
+      "kind": "trace",
+      "text": "(215)",
+      "sourceLocation": "pdf:visual:[[53,45]]"
+    },
+    {
+      "id": "266:p4",
+      "kind": "body",
+      "text": "52",
+      "sourceLocation": "pdf:visual:[[53,46]]"
+    }
+  ]
+}

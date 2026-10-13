@@ -1,0 +1,32 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "208"
+  ],
+  "text": [
+    "你在埃斯伯里雾蒙蒙的街道上飞奔，气喘吁吁地想要逃离这座被神遗弃的小镇。你在绿色雾气中漫无目的地奔跑，只想尽可能快地逃离。",
+    "你穿过弯弯曲曲的小巷和开阔的街道——在浓雾中，两者几乎没有区别。奔跑时，你遇到了那只同样可怕、膨胀畸形的怪物。它步履蹒跚地朝你走来，但你快得多。",
+    "然而，你绕过一个弯道时发现前面还有一只。你赶紧改变方向，却又发现更多那种东西挡住去路。一大群邪恶可怖的生物蹒跚着朝你走来。你惊慌失措，连忙寻找逃生路线。",
+    "可惜，你找不到任何逃生路线。那些可怕的东西不断逼近。你被困住了。它们很快便伸手抓住你，不顾你的抗拒，用手指抓过你的皮肤，再用松软肉质的双手扼住你的喉咙。",
+    "你最后看见的，是其中一只生物腐烂凸出的眼睛，它正把你的生命挤出身体。",
+    "你死了。如果愿意，可以再试一次；但眼下，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 208",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 208",
+      "text": [
+        "You sprint through the foggy streets of Esbury, breathing heavily as you try to abandon this godforsaken town. You move in no particular direction through the green mist, simply running away as fast as you can.",
+        "You follow twisting and turning alleys and open streets—in the dense fog, you can discern little difference. As you run, you encounter that same horrible, distended monstrosity. It lumbers toward you but you are much too quick for it.",
+        "But then you round a bend in the road and find another one. You quickly change your heading, only to find yet more of the things blocking your path. A whole multitude of the horrendous, vile creatures shamble toward you. You panic and quickly look for an escape route.",
+        "Unfortunately, none present themselves. The horrible things close in. You are trapped. They soon lay arms upon you, and despite your protests, they rake their fingers across your skin and strangle you with their fleshy, flabby hands.",
+        "The last sight you see is the putrid, bulging eyes of one of the creatures as it squeezes the life from you. You have died. If you like, you may try again, but for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

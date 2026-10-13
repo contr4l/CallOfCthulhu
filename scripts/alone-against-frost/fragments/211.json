@@ -1,0 +1,36 @@
+{
+  "id": "211",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "211:p0",
+      "kind": "heading",
+      "text": "211",
+      "sourceLocation": "pdf:visual:[[44,53]]"
+    },
+    {
+      "id": "211:p1",
+      "kind": "body",
+      "text": "The men force Norman and Sylvia, in turn, to kneel between \ntwo small trees, and affix one wrist per tree. Then they dance \nin grotesque glee. The light at the focus of their ritual shifts \nbetween  colors. The  movements  continue  until  you  notice  a \ndwarf who holds a crescent blade on a handle. When the dance \nends and the participants begin to leap and shriek, the blade \nwielder approaches Norman.",
+      "sourceLocation": "pdf:visual:[[44,54],[44,55],[44,56],[44,57],[44,58],[44,59],[44,60]]"
+    },
+    {
+      "id": "211:p2",
+      "kind": "body",
+      "text": "You shriek as the blade is swung and Norman’s head is struck \noff. Sylvia turns white and faints. Her head is severed while she \nis still unconscious.",
+      "sourceLocation": "pdf:visual:[[44,61],[44,62],[44,63]]"
+    },
+    {
+      "id": "211:p3",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 263; if the result is odd, go \nto 265. ",
+      "sourceLocation": "pdf:visual:[[44,64],[44,65]]"
+    },
+    {
+      "id": "211:p4",
+      "kind": "trace",
+      "text": "(145)",
+      "sourceLocation": "pdf:visual:[[44,66]]"
+    }
+  ]
+}

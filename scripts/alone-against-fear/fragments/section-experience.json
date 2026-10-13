@@ -1,0 +1,188 @@
+{
+  "id": "section-experience",
+  "paragraphs": [
+    {
+      "id": "section-experience:p0000",
+      "kind": "body",
+      "text": "Experience\n",
+      "sourceLocation": "pdf:spans:[[11,462,473]]"
+    },
+    {
+      "id": "section-experience:p0001",
+      "kind": "body",
+      "text": "You gain experience points (XP)\n",
+      "sourceLocation": "pdf:spans:[[11,473,505]]"
+    },
+    {
+      "id": "section-experience:p0002",
+      "kind": "body",
+      "text": "when you destroy monsters and in\n",
+      "sourceLocation": "pdf:spans:[[11,505,538]]"
+    },
+    {
+      "id": "section-experience:p0003",
+      "kind": "body",
+      "text": "other situations described in the\n",
+      "sourceLocation": "pdf:spans:[[11,538,572]]"
+    },
+    {
+      "id": "section-experience:p0004",
+      "kind": "body",
+      "text": "text. In general, you receive 1 XP\n",
+      "sourceLocation": "pdf:spans:[[11,572,607]]"
+    },
+    {
+      "id": "section-experience:p0005",
+      "kind": "body",
+      "text": "every time you win a combat\n",
+      "sourceLocation": "pdf:spans:[[11,607,635]]"
+    },
+    {
+      "id": "section-experience:p0006",
+      "kind": "body",
+      "text": "encounter. Winning means\n",
+      "sourceLocation": "pdf:spans:[[11,635,660]]"
+    },
+    {
+      "id": "section-experience:p0007",
+      "kind": "body",
+      "text": "defeating the opponent through\n",
+      "sourceLocation": "pdf:spans:[[11,660,691]]"
+    },
+    {
+      "id": "section-experience:p0008",
+      "kind": "body",
+      "text": "combat, magic, or exorcism. If you\n",
+      "sourceLocation": "pdf:spans:[[11,691,726]]"
+    },
+    {
+      "id": "section-experience:p0009",
+      "kind": "body",
+      "text": "run away, you do not get any XP for\n",
+      "sourceLocation": "pdf:spans:[[11,726,762]]"
+    },
+    {
+      "id": "section-experience:p0010",
+      "kind": "body",
+      "text": "that encounter. Some encounters\n",
+      "sourceLocation": "pdf:spans:[[11,762,794]]"
+    },
+    {
+      "id": "section-experience:p0011",
+      "kind": "body",
+      "text": "with more powerful enemies are\n",
+      "sourceLocation": "pdf:spans:[[11,794,825]]"
+    },
+    {
+      "id": "section-experience:p0012",
+      "kind": "body",
+      "text": "worth 2 XP. You may also gain XP\n",
+      "sourceLocation": "pdf:spans:[[11,825,858]]"
+    },
+    {
+      "id": "section-experience:p0013",
+      "kind": "body",
+      "text": "in other situations, for example\n",
+      "sourceLocation": "pdf:spans:[[11,858,891]]"
+    },
+    {
+      "id": "section-experience:p0014",
+      "kind": "body",
+      "text": "when completing a mission.\n",
+      "sourceLocation": "pdf:spans:[[11,891,918]]"
+    },
+    {
+      "id": "section-experience:p0015",
+      "kind": "body",
+      "text": "You may keep the XP or spend\n",
+      "sourceLocation": "pdf:spans:[[11,918,947]]"
+    },
+    {
+      "id": "section-experience:p0016",
+      "kind": "body",
+      "text": "them as soon as you have\n",
+      "sourceLocation": "pdf:spans:[[11,947,972]]"
+    },
+    {
+      "id": "section-experience:p0017",
+      "kind": "body",
+      "text": "enough to buy new Skills.  Each\n",
+      "sourceLocation": "pdf:spans:[[11,972,1004]]"
+    },
+    {
+      "id": "section-experience:p0018",
+      "kind": "body",
+      "text": "Skill has an XP cost in parentheses,\n",
+      "sourceLocation": "pdf:spans:[[11,1004,1041]]"
+    },
+    {
+      "id": "section-experience:p0019",
+      "kind": "body",
+      "text": "showing how many XP you must\n",
+      "sourceLocation": "pdf:spans:[[11,1041,1070]]"
+    },
+    {
+      "id": "section-experience:p0020",
+      "kind": "body",
+      "text": "spend to gain that Skill. You may\n",
+      "sourceLocation": "pdf:spans:[[11,1070,1104]]"
+    },
+    {
+      "id": "section-experience:p0021",
+      "kind": "body",
+      "text": "also spend XP to bring a Skill you\n",
+      "sourceLocation": "pdf:spans:[[11,1104,1139]]"
+    },
+    {
+      "id": "section-experience:p0022",
+      "kind": "body",
+      "text": "already have to Expert level.\n",
+      "sourceLocation": "pdf:spans:[[11,1139,1169]]"
+    },
+    {
+      "id": "section-experience:p0023",
+      "kind": "body",
+      "text": "You may keep some unspent XP to\n",
+      "sourceLocation": "pdf:spans:[[11,1169,1201]]"
+    },
+    {
+      "id": "section-experience:p0024",
+      "kind": "body",
+      "text": "learn Arcane Skills when the\n",
+      "sourceLocation": "pdf:spans:[[11,1201,1230]]"
+    },
+    {
+      "id": "section-experience:p0025",
+      "kind": "body",
+      "text": "chance to do so appears. You may\n",
+      "sourceLocation": "pdf:spans:[[11,1230,1263]]"
+    },
+    {
+      "id": "section-experience:p0026",
+      "kind": "body",
+      "text": "learn Arcane Skills only when you\n",
+      "sourceLocation": "pdf:spans:[[11,1263,1297]]"
+    },
+    {
+      "id": "section-experience:p0027",
+      "kind": "body",
+      "text": "comply with their prerequisites,\n",
+      "sourceLocation": "pdf:spans:[[11,1297,1330]]"
+    },
+    {
+      "id": "section-experience:p0028",
+      "kind": "body",
+      "text": "such as reading certain books or\n",
+      "sourceLocation": "pdf:spans:[[11,1330,1363]]"
+    },
+    {
+      "id": "section-experience:p0029",
+      "kind": "body",
+      "text": "performing a ritual.\n",
+      "sourceLocation": "pdf:spans:[[11,1363,1384]]"
+    }
+  ],
+  "sourcePages": [
+    11
+  ]
+}

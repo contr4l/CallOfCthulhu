@@ -1,0 +1,36 @@
+{
+  "id": "609",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "609:p0",
+      "kind": "heading",
+      "text": "609",
+      "sourceLocation": "pdf:visual:[[102,58]]"
+    },
+    {
+      "id": "609:p1",
+      "kind": "body",
+      "text": "The heat of the valley tires Sylvia. You let her rest and ask \nBernard  to  keep  her  company  while  you  and  Norman \ncontinue scouting.",
+      "sourceLocation": "pdf:visual:[[102,59],[102,60],[102,61]]"
+    },
+    {
+      "id": "609:p2",
+      "kind": "body",
+      "text": "About two hours later, the pair of you return to an appalling \nsight. Bernard lies dead in the grove where you left him, his \nhead broken by a blunt object. A bloodied piece of wood lies \nbeside the body. Frantically you search for Sylvia, but she is \nnot to be found. Instead, you find some footprints—those of \na giant.",
+      "sourceLocation": "pdf:visual:[[102,62],[102,63],[102,64],[102,65],[102,66],[102,67]]"
+    },
+    {
+      "id": "609:p3",
+      "kind": "body",
+      "text": "To lead Norman out of the valley, go to 278. To follow the tracks in \nhopes of finding Sylvia, go to 484.",
+      "sourceLocation": "pdf:visual:[[102,68],[102,69]]"
+    },
+    {
+      "id": "609:p4",
+      "kind": "trace",
+      "text": "(645)",
+      "sourceLocation": "pdf:visual:[[102,70]]"
+    }
+  ]
+}

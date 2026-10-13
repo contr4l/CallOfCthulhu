@@ -1,0 +1,30 @@
+{
+  "id": "29",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "29:p0",
+      "kind": "heading",
+      "text": "29",
+      "sourceLocation": "pdf:visual:[[15,39]]"
+    },
+    {
+      "id": "29:p1",
+      "kind": "body",
+      "text": "“No!” shouts the distraught Charlie. “You do not understand! We \nmust leave this valley at once! It is madness to stay!”",
+      "sourceLocation": "pdf:visual:[[15,40],[15,41]]"
+    },
+    {
+      "id": "29:p2",
+      "kind": "body",
+      "text": "To accept defeat and go home, go to 32. To let the superstitious guide \nsulk in camp while you lead the others in a search, go to 52. ",
+      "sourceLocation": "pdf:visual:[[15,42],[15,43]]"
+    },
+    {
+      "id": "29:p3",
+      "kind": "trace",
+      "text": "(15, 27)",
+      "sourceLocation": "pdf:visual:[[15,44]]"
+    }
+  ]
+}

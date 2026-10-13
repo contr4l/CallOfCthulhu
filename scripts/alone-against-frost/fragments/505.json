@@ -1,0 +1,36 @@
+{
+  "id": "505",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "505:p0",
+      "kind": "heading",
+      "text": "505",
+      "sourceLocation": "pdf:visual:[[88,5]]"
+    },
+    {
+      "id": "505:p1",
+      "kind": "body",
+      "text": "Sickened by what you saw, you flee into the heavy undergrowth \nand  keep  going  until  you  are  far,  far  away  from  the  cursed \nhollow. When your strength fails, you lie down and stare into \nthe sky.",
+      "sourceLocation": "pdf:visual:[[88,6],[88,7],[88,8],[88,9]]"
+    },
+    {
+      "id": "505:p2",
+      "kind": "body",
+      "text": "There can be only one explanation. Your experiences within \nthis valley have been creations of your imagination. Perhaps you \nhave breathed in some strange spore, or a natural hallucinogen \nhas leached into the water supply. The thought brings you an \nodd peace, and you surrender to oblivion.",
+      "sourceLocation": "pdf:visual:[[88,10],[88,11],[88,12],[88,13],[88,14]]"
+    },
+    {
+      "id": "505:p3",
+      "kind": "body",
+      "text": "Go to 161.",
+      "sourceLocation": "pdf:visual:[[88,15]]"
+    },
+    {
+      "id": "505:p4",
+      "kind": "trace",
+      "text": "(504)",
+      "sourceLocation": "pdf:visual:[[88,16]]"
+    }
+  ]
+}

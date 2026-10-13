@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "61"
+  ],
+  "text": [
+    "你扫视这些物品，但并不擅长鉴定古物。就你所能判断，一切看起来都和实际情况以及沃伦先生所说的一样。",
+    "不过，你查看笔记本时注意到里面既有个人记录，也有学术发现。这很可能是了解哈里斯教授情况的重要资料。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 61",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 61",
+      "text": [
+        "You glance over the items but you do not have an eye for antiquities. As near as you can tell, everything is as it appears to be and as Mr. Warren claims.",
+        "Still, as you look over the notebook, you notice it contains personal accounts as well as academic findings. It will likely be a good source of information regarding Prof. Harris."
+      ]
+    }
+  }
+}

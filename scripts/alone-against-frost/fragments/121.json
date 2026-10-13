@@ -1,0 +1,30 @@
+{
+  "id": "121",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "121:p0",
+      "kind": "heading",
+      "text": "121",
+      "sourceLocation": "pdf:visual:[[30,51]]"
+    },
+    {
+      "id": "121:p1",
+      "kind": "body",
+      "text": "Gritting your teeth and steeling your heart, you sink to your \nhands and knees, and crawl to the top of the rise like a forest \nlynx. You peer over the top and see the thing that has attacked \nBernard.",
+      "sourceLocation": "pdf:visual:[[30,52],[30,53],[30,54],[30,55]]"
+    },
+    {
+      "id": "121:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 166. ",
+      "sourceLocation": "pdf:visual:[[30,56]]"
+    },
+    {
+      "id": "121:p3",
+      "kind": "trace",
+      "text": "(69)",
+      "sourceLocation": "pdf:visual:[[30,57]]"
+    }
+  ]
+}

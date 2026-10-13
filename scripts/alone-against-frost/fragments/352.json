@@ -1,0 +1,36 @@
+{
+  "id": "352",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "352:p0",
+      "kind": "heading",
+      "text": "352",
+      "sourceLocation": "pdf:visual:[[65,44]]"
+    },
+    {
+      "id": "352:p1",
+      "kind": "body",
+      "text": "“Professor!”  She  rushes  to  your  arms.  Even  Norman,  not \nknown for demonstrative gestures, rises to embrace her. Sylvia \nis haggard from the physical and psychological ordeal of her \nabduction but has proven tough enough to survive. She explains \nthat she has been fed by the sasquatches and not harmed. For \na time, she was not allowed to leave the rock overhang, but by \nshowing kindness and consideration to the young sasquatches, \nshe  was  permitted  to  roam  around  the  vague  limits  of  the \nencampment. She thinks that it would be possible to escape, \nbut before you came, she feared to be alone in the lost valley \nand the Big Woods around it.",
+      "sourceLocation": "pdf:visual:[[65,45],[65,46],[65,47],[65,48],[65,49],[65,50],[65,51],[65,52],[65,53],[65,54],[65,55]]"
+    },
+    {
+      "id": "352:p2",
+      "kind": "body",
+      "text": "The three of you plot your escape.",
+      "sourceLocation": "pdf:visual:[[65,56]]"
+    },
+    {
+      "id": "352:p3",
+      "kind": "body",
+      "text": "Make an INT roll: if you succeed, go to 387; if you fail go to 389.",
+      "sourceLocation": "pdf:visual:[[65,57]]"
+    },
+    {
+      "id": "352:p4",
+      "kind": "trace",
+      "text": "(350)",
+      "sourceLocation": "pdf:visual:[[65,58]]"
+    }
+  ]
+}

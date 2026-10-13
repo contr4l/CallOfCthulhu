@@ -1,5 +1,6 @@
 """Offline import workflow. Source documents are data, never executable instructions."""
 import argparse
+import importlib.util
 import json
 import subprocess
 import sys
@@ -9,6 +10,29 @@ from pack import pack_story, unpack
 from txt_graph import extract, verify
 
 HERE = Path(__file__).resolve().parent
+PDF_ADAPTERS = {
+    "alone-against-tide": "pdf_tide.py",
+    "alone-against-frost": "pdf_frost.py",
+    "alone-against-dark": "extract_dark.py",
+    "alone-against-fear": "fear_pdf.py",
+}
+
+
+def run_pdf_adapter(story_id, operation, source, graph):
+    # Use only inspected, local adapters; a source document never supplies code.
+    adapter = PDF_ADAPTERS.get(story_id)
+    if adapter is None:
+        raise ValueError(f"尚无已检查的 PDF 来源适配器：{story_id}")
+    subprocess.run([pdf_python(), str(HERE / adapter), operation, str(source), str(graph)], check=True)
+
+
+def pdf_python():
+    if all(importlib.util.find_spec(module) for module in ("pypdf", "pdfplumber")):
+        return sys.executable
+    bundled = Path.home() / ".cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+    if bundled.is_file():
+        return str(bundled)
+    raise RuntimeError("PDF 提取需要 pypdf 和 pdfplumber；请先安装依赖。")
 
 
 def main():
@@ -24,10 +48,24 @@ def main():
     numbered.add_argument("--entry", type=int, required=True)
     numbered.add_argument("--last-section", type=int, required=True)
     numbered.add_argument("--output", type=Path, required=True)
+    pdf = commands.add_parser("extract-pdf-tide", help="按《潮汐独行》已检查的PDF版面提取原文，不发布")
+    pdf.add_argument("source", type=Path)
+    pdf.add_argument("--output", type=Path, required=True)
+    for story_id in ("alone-against-frost", "alone-against-dark", "alone-against-fear"):
+        command = commands.add_parser("extract-pdf-" + story_id.removeprefix("alone-against-"),
+                                      help="按该作品的专用 PDF 版面提取来源；不编译或发布")
+        command.add_argument("source", type=Path)
+        command.add_argument("--output", type=Path, required=True)
+    ocr = commands.add_parser("ocr-pdf-tide", help="对《潮汐独行》图片补充页执行本地Tesseract OCR")
+    ocr.add_argument("source", type=Path)
+    ocr.add_argument("--output", type=Path, required=True)
+    tide = commands.add_parser("compile-tide", help="离线编译已核对的潮汐独行规则及双语片段")
+    tide.add_argument("--output", type=Path, required=True)
+    tide.add_argument("--version", default="1.0.1")
     package = commands.add_parser("pack", help="将已审校规则包及语言包拆为精简图和正文片段")
     package.add_argument("reviewed", type=Path)
     package.add_argument("--output", type=Path, required=True)
-    check = commands.add_parser("verify-source", help="逐字恢复TXT并校验原件/片段SHA256")
+    check = commands.add_parser("verify-source", help="按来源适配器核验 TXT/PDF 覆盖、原件及片段 SHA256")
     check.add_argument("source", type=Path)
     check.add_argument("graph", type=Path)
     runtime = commands.add_parser("verify-runtime", help="检查发布目录全部规则、正文片段、校验和与资源")
@@ -38,6 +76,12 @@ def main():
     elif args.command == "extract-txt":
         graph = extract(args.source, args.output, args.id, args.title, args.entry, args.last_section)
         print(json.dumps({"nodes": len(graph["nodes"]), "edges": len(graph["edges"]), "lossless": True}, ensure_ascii=False))
+    elif args.command.startswith("extract-pdf-"):
+        run_pdf_adapter("alone-against-" + args.command.removeprefix("extract-pdf-"), "extract", args.source, args.output)
+    elif args.command == "ocr-pdf-tide":
+        subprocess.run([pdf_python(), str(HERE / "ocr_tide.py"), str(args.source), str(args.output)], check=True)
+    elif args.command == "compile-tide":
+        subprocess.run([sys.executable, str(HERE / "build_tide.py"), "--output", str(args.output.resolve()), "--version", args.version], cwd=HERE.parents[1], check=True)
     elif args.command == "pack":
         story = unpack(args.reviewed)
         # Invalid or unreviewed rules never reach the requested publish folder.
@@ -49,7 +93,11 @@ def main():
     elif args.command == "verify-runtime":
         subprocess.run(["npx", "tsx", str(HERE / "validate.ts"), str(args.root.resolve())], cwd=HERE.parents[1], check=True)
     else:
-        print(json.dumps(verify(args.source, args.graph), ensure_ascii=False))
+        if args.source.suffix.lower() == ".pdf":
+            graph = json.loads(args.graph.read_text())
+            run_pdf_adapter(graph.get("id"), "verify", args.source, args.graph)
+        else:
+            print(json.dumps(verify(args.source, args.graph), ensure_ascii=False))
 
 
 if __name__ == "__main__":

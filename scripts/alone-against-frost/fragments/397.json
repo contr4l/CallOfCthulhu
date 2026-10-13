@@ -1,0 +1,30 @@
+{
+  "id": "397",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "397:p0",
+      "kind": "heading",
+      "text": "397",
+      "sourceLocation": "pdf:visual:[[71,60]]"
+    },
+    {
+      "id": "397:p1",
+      "kind": "body",
+      "text": "You  crawl  up  on  the  beach,  your  body  aching  from  the \npunishing high dive. It takes you a long time to catch your \nbreath. Surely your captors must think you have been killed \nby the terrifying leap.",
+      "sourceLocation": "pdf:visual:[[71,61],[71,62],[71,63],[71,64]]"
+    },
+    {
+      "id": "397:p2",
+      "kind": "body",
+      "text": "You may attempt a First Aid roll; if you succeed, restore 1D3 hit \npoints. Then, go to 365.",
+      "sourceLocation": "pdf:visual:[[71,65],[71,66]]"
+    },
+    {
+      "id": "397:p3",
+      "kind": "trace",
+      "text": "(385)",
+      "sourceLocation": "pdf:visual:[[71,67]]"
+    }
+  ]
+}

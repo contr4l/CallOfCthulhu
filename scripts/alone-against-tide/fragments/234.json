@@ -1,0 +1,30 @@
+{
+  "id": "234",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "234:p0",
+      "kind": "heading",
+      "text": "234\n",
+      "sourceLocation": "pdf:spans:[[75,44,48]]"
+    },
+    {
+      "id": "234:p1",
+      "kind": "body",
+      "text": "A thought takes shape in your mind and clarity takes hold. But \nthe thought is not your own. You see visions of the strange \nreptilian beast, that detestable water lizard. You stare into its \neyes, hypnotized, as it hisses at you, beckoning you forward. \nYou heed its call.\n",
+      "sourceLocation": "pdf:spans:[[75,48,112],[75,112,173],[75,173,240],[75,240,303],[75,303,322]]"
+    },
+    {
+      "id": "234:p2",
+      "kind": "body",
+      "text": "Your feet move you forward, carrying you over the edge of \nthe belfry and into the water below. You don’t thrash about. You \ndon’t swim. Or struggle. Or resist. You simply sink, welcomed \ninto the risen water’s embrace.\nYou have died, led to your demise by the will of Bokrug, the great \nwater lizard. The Great Old One has ensured that doom has come \nto the little lakeside town. There are no survivors. Eventually, the \nidol will be found, and the process will begin again. But this is of no \nconcern to you. Your visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[75,322,381],[75,381,447],[75,447,510],[75,510,542],[75,542,610],[75,610,674],[75,674,744],[75,744,817],[75,817,873]]"
+    },
+    {
+      "id": "234:p3",
+      "kind": "body",
+      "text": "(205, 219)\n",
+      "sourceLocation": "pdf:spans:[[75,873,884]]"
+    }
+  ]
+}

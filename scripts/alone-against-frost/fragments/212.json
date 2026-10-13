@@ -1,0 +1,36 @@
+{
+  "id": "212",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "212:p0",
+      "kind": "heading",
+      "text": "212",
+      "sourceLocation": "pdf:visual:[[44,67]]"
+    },
+    {
+      "id": "212:p1",
+      "kind": "body",
+      "text": "The answer is as you fear. Charlie is asking for her death. She \nherself told you that one who becomes a wind-walker has a \nheart of ice—and melting that heart slays the monster.",
+      "sourceLocation": "pdf:visual:[[44,68],[44,69],[44,70]]"
+    },
+    {
+      "id": "212:p2",
+      "kind": "body",
+      "text": "Charlie trembles, tottering on her charred stumps of feet. \nShe is battling with the demon in her soul, giving you time \nto act. But the humanity in her face is fading. Her eyes shine \nwith a cold light. Still unsure, you lift a stiff, blazing brand \nfrom the fire.",
+      "sourceLocation": "pdf:visual:[[44,71],[44,72],[44,73],[44,74],[44,75]]"
+    },
+    {
+      "id": "212:p3",
+      "kind": "body",
+      "text": "Make an opposed roll, matching your DEX against Charlie’s DEX. \nIf you win, go to 651. If not, go to 141.",
+      "sourceLocation": "pdf:visual:[[44,76],[44,77]]"
+    },
+    {
+      "id": "212:p4",
+      "kind": "trace",
+      "text": "(209)",
+      "sourceLocation": "pdf:visual:[[44,78]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "584",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "584:p0",
+      "kind": "heading",
+      "text": "584",
+      "sourceLocation": "pdf:visual:[[99,63]]"
+    },
+    {
+      "id": "584:p1",
+      "kind": "body",
+      "text": "A bee darts up and bounces off the face of a party member, \nwho instinctively swats at it, making a noise that the passing \nwarriors cannot fail to notice. Your stealthy approach has failed.",
+      "sourceLocation": "pdf:visual:[[99,64],[99,65],[99,66]]"
+    },
+    {
+      "id": "584:p2",
+      "kind": "body",
+      "text": "If you step out to greet the group peacefully, go to 561. If you try to \nrun for it, go to 585. If you still have rifles and wish to display them \nas a warning, go to 590.",
+      "sourceLocation": "pdf:visual:[[99,67],[99,68],[99,69]]"
+    },
+    {
+      "id": "584:p3",
+      "kind": "trace",
+      "text": "(581)",
+      "sourceLocation": "pdf:visual:[[99,70]]"
+    }
+  ]
+}

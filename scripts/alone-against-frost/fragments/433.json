@@ -1,0 +1,36 @@
+{
+  "id": "433",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "433:p0",
+      "kind": "heading",
+      "text": "433",
+      "sourceLocation": "pdf:visual:[[76,27]]"
+    },
+    {
+      "id": "433:p1",
+      "kind": "body",
+      "text": "After so many days on the river and nights in the woods, it feels \nstrange to sit in a stifling room and answer questions about \nyour conduct.",
+      "sourceLocation": "pdf:visual:[[76,28],[76,29],[76,30]]"
+    },
+    {
+      "id": "433:p2",
+      "kind": "body",
+      "text": "If you have lost any members of your party or have confirmed their \ndeath, multiply the number of such losses by 15. This is your Liability \nScore. Roll 1D100: if the result is greater than your liability score, \ngo to 530; if the result is equal or less to your liability score, go to 531.",
+      "sourceLocation": "pdf:visual:[[76,31],[76,32],[76,33],[76,34]]"
+    },
+    {
+      "id": "433:p3",
+      "kind": "trace",
+      "text": "(161, 429, 589, 593)",
+      "sourceLocation": "pdf:visual:[[76,35]]"
+    },
+    {
+      "id": "433:p4",
+      "kind": "body",
+      "text": "75",
+      "sourceLocation": "pdf:visual:[[76,36]]"
+    }
+  ]
+}

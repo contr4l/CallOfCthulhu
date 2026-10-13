@@ -1,0 +1,30 @@
+{
+  "id": "530",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "530:p0",
+      "kind": "heading",
+      "text": "530",
+      "sourceLocation": "pdf:visual:[[92,1]]"
+    },
+    {
+      "id": "530:p1",
+      "kind": "body",
+      "text": "When your report of your party’s misfortunes is analyzed by \nthe Canadian authorities, they absolve you of any wrongdoing \nor neglect.",
+      "sourceLocation": "pdf:visual:[[92,2],[92,3],[92,4]]"
+    },
+    {
+      "id": "530:p2",
+      "kind": "body",
+      "text": "Go to 529.",
+      "sourceLocation": "pdf:visual:[[92,5]]"
+    },
+    {
+      "id": "530:p3",
+      "kind": "trace",
+      "text": "(433)",
+      "sourceLocation": "pdf:visual:[[92,6]]"
+    }
+  ]
+}

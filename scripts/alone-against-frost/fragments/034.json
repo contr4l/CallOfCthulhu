@@ -1,0 +1,54 @@
+{
+  "id": "34",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "34:p0",
+      "kind": "heading",
+      "text": "34",
+      "sourceLocation": "pdf:visual:[[16,1]]"
+    },
+    {
+      "id": "34:p1",
+      "kind": "body",
+      "text": "Your party makes good progress, but then more trouble strikes \nas the craft rakes a sharp, submerged object. The river spurts \nthrough a gash in the bottom. Your party manages to get the \nsupplies and the wreck to shore.",
+      "sourceLocation": "pdf:visual:[[16,2],[16,3],[16,4],[16,5]]"
+    },
+    {
+      "id": "34:p2",
+      "kind": "body",
+      "text": "You take the opportunity to chow down on squirrel stew. \nSuddenly, you hear a rattle among the iron utensils. You and \nthe others stare at the vessels shuddering, spinning around on \nthe flat boulder on which they sit, tipping and bouncing to \nthe ground.",
+      "sourceLocation": "pdf:visual:[[16,6],[16,7],[16,8],[16,9],[16,10]]"
+    },
+    {
+      "id": "34:p3",
+      "kind": "body",
+      "text": "“An earthquake?” Norman ventures. You shake your head. The \nwater is untroubled in the stream and the trees are still. On a \nhunch, you take the compass out of your pocket. The needle is \ngyrating so wildly you fear it will break.",
+      "sourceLocation": "pdf:visual:[[16,11],[16,12],[16,13],[16,14]]"
+    },
+    {
+      "id": "34:p4",
+      "kind": "body",
+      "text": "“A magnetic disturbance?” Sylvia suggests.",
+      "sourceLocation": "pdf:visual:[[16,15]]"
+    },
+    {
+      "id": "34:p5",
+      "kind": "body",
+      "text": "“Ithakwanni!”  Charlie’s  fingers  grip  the  earth.  “The  Great \nWind-Walker is near!” She looks ready to desert you.",
+      "sourceLocation": "pdf:visual:[[16,16],[16,17]]"
+    },
+    {
+      "id": "34:p6",
+      "kind": "body",
+      "text": "Make a Psychoanalysis roll: if you succeed, go to 62; if you fail, go \nto 61.",
+      "sourceLocation": "pdf:visual:[[16,18],[16,19]]"
+    },
+    {
+      "id": "34:p7",
+      "kind": "trace",
+      "text": "(411)",
+      "sourceLocation": "pdf:visual:[[16,20]]"
+    }
+  ]
+}

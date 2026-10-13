@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "67"
+  ],
+  "text": [
+    "你不想拿自由冒险，悄悄溜进雾中。踏上外面的石板路时，你竖起衣领，希望多少能遮掩身份。你快步沿街走去，想尽量拉开自己和哈里斯家的距离。",
+    "沿着小路走了一小段后，你听见沉重的脚步声正朝你逼近。浓雾让你觉得自己还没被发现。你迅速躲进附近的小巷，让来人先过去。那男人快步从你身边跑过，嘴里咒骂着。你认出了约书亚的声音，确信他和试图逮捕你的事有关。",
+    "不过，你意识到眼下能做的并不多。警察正在追捕你，这该死的雾又让渡船无法离开。最好的选择是回旅馆躲起来，或想好下一步该怎么办。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 67",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 67",
+      "text": [
+        "Not wanting to take any chances with your freedom, you slip quietly out into the mist. As you step onto the stone pavement outside, you turn your collar up, hoping it might provide you with some semblance of anonymity. You begin walking down the street at a brisk pace, hoping to put some distance between yourself and the Harris house.",
+        "You continue along the path for a short distance before you hear the sound of heavy footsteps approaching you. Thanks to the thick fog, you don’t think you’ve been spotted. You quickly duck into a nearby alley to let the traveler pass. The man moves by you at a quick jog, cursing under his breath. You recognize Joshua’s voice, and you feel certain that he’s connected to your attempted arrest.",
+        "Still, you realize that you don’t have many options to deal with that right now. With the law after you and this damnable fog keeping you from leaving on the ferry, the best thing you can do is head back to the hotel and either lie low there or figure out what your next move is."
+      ]
+    }
+  }
+}

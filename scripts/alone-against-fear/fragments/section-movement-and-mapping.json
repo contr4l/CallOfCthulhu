@@ -1,0 +1,308 @@
+{
+  "id": "section-movement-and-mapping",
+  "paragraphs": [
+    {
+      "id": "section-movement-and-mapping:p0000",
+      "kind": "body",
+      "text": "Movement and Mapping\n",
+      "sourceLocation": "pdf:spans:[[37,524,545]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0001",
+      "kind": "body",
+      "text": "You move through a town\n",
+      "sourceLocation": "pdf:spans:[[37,545,569]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0002",
+      "kind": "body",
+      "text": "represented by a chart with 30\n",
+      "sourceLocation": "pdf:spans:[[37,569,600]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0003",
+      "kind": "body",
+      "text": "boxes, each representing a part of\n",
+      "sourceLocation": "pdf:spans:[[37,600,635]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0004",
+      "kind": "body",
+      "text": "town. You start in a box of your\n",
+      "sourceLocation": "pdf:spans:[[37,635,668]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0005",
+      "kind": "body",
+      "text": "choice and each turn may move\n",
+      "sourceLocation": "pdf:spans:[[37,668,698]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0006",
+      "kind": "body",
+      "text": "from any box to any neighboring\n",
+      "sourceLocation": "pdf:spans:[[37,698,730]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0007",
+      "kind": "body",
+      "text": "box. This represents roughly 2\n",
+      "sourceLocation": "pdf:spans:[[37,730,761]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0008",
+      "kind": "body",
+      "text": "hours of walking. You do not have\n",
+      "sourceLocation": "pdf:spans:[[37,761,795]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0009",
+      "kind": "body",
+      "text": "to roll for content for the first box.\n",
+      "sourceLocation": "pdf:spans:[[37,795,834]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0010",
+      "kind": "body",
+      "text": "Every time you move in a new box,\n",
+      "sourceLocation": "pdf:spans:[[37,834,868]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0011",
+      "kind": "body",
+      "text": "number it (1, 2, 3 etc) in the small\n",
+      "sourceLocation": "pdf:spans:[[37,868,905]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0012",
+      "kind": "body",
+      "text": "white circle at the bottom right of\n",
+      "sourceLocation": "pdf:spans:[[37,905,941]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0013",
+      "kind": "body",
+      "text": "the box. This helps to keep track of\n",
+      "sourceLocation": "pdf:spans:[[37,941,978]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0014",
+      "kind": "body",
+      "text": "time, food consumption (normally,\n",
+      "sourceLocation": "pdf:spans:[[37,978,1012]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0015",
+      "kind": "body",
+      "text": "1 Food every 5 boxes) and the\n",
+      "sourceLocation": "pdf:spans:[[37,1012,1042]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0016",
+      "kind": "body",
+      "text": "duration of game effects that last\n",
+      "sourceLocation": "pdf:spans:[[37,1042,1077]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0017",
+      "kind": "body",
+      "text": "for a limited number of boxes.\n",
+      "sourceLocation": "pdf:spans:[[37,1077,1108]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0018",
+      "kind": "body",
+      "text": "When you enter a new box, roll\n",
+      "sourceLocation": "pdf:spans:[[37,1108,1139]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0019",
+      "kind": "body",
+      "text": "on the Town Exploration table to\n",
+      "sourceLocation": "pdf:spans:[[37,1139,1172]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0020",
+      "kind": "body",
+      "text": "determine what is in that box.\n",
+      "sourceLocation": "pdf:spans:[[37,1172,1203]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0021",
+      "kind": "body",
+      "text": "Each result lets you roll on the\n",
+      "sourceLocation": "pdf:spans:[[37,1203,1236]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0022",
+      "kind": "body",
+      "text": "appropriate table to determine\n",
+      "sourceLocation": "pdf:spans:[[37,1236,1267]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0023",
+      "kind": "body",
+      "text": "what you encounter. For example,\n",
+      "sourceLocation": "pdf:spans:[[37,1267,1300]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0024",
+      "kind": "body",
+      "text": "if the Town Exploration table gives\n",
+      "sourceLocation": "pdf:spans:[[37,1300,1336]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0025",
+      "kind": "body",
+      "text": "you a House result, you roll on the\n",
+      "sourceLocation": "pdf:spans:[[37,1336,1372]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0026",
+      "kind": "body",
+      "text": "House table. In some cases, you\n",
+      "sourceLocation": "pdf:spans:[[37,1372,1404]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0027",
+      "kind": "body",
+      "text": "are given a choice: just follow your\n",
+      "sourceLocation": "pdf:spans:[[37,1404,1441]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0028",
+      "kind": "body",
+      "text": "gut instinct.  Annotate in the box\n",
+      "sourceLocation": "pdf:spans:[[37,1441,1476]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0029",
+      "kind": "body",
+      "text": "what is there (house, place of\n",
+      "sourceLocation": "pdf:spans:[[37,1476,1507]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0030",
+      "kind": "body",
+      "text": "worship, any encounters, etc.). The\n",
+      "sourceLocation": "pdf:spans:[[37,1507,1543]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0031",
+      "kind": "body",
+      "text": "layout of the town will thus be\n",
+      "sourceLocation": "pdf:spans:[[37,1543,1575]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0032",
+      "kind": "body",
+      "text": "discovered a little at a time as you\n",
+      "sourceLocation": "pdf:spans:[[37,1575,1612]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0033",
+      "kind": "body",
+      "text": "move through its landmarks and\n",
+      "sourceLocation": "pdf:spans:[[37,1612,1643]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0034",
+      "kind": "body",
+      "text": "neighborhoods. Rolls on sub tables\n",
+      "sourceLocation": "pdf:spans:[[37,1643,1678]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0035",
+      "kind": "body",
+      "text": "will give you side quests, goals, or\n",
+      "sourceLocation": "pdf:spans:[[37,1678,1715]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0036",
+      "kind": "body",
+      "text": "ask you to make choices.\n",
+      "sourceLocation": "pdf:spans:[[37,1715,1740]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0037",
+      "kind": "body",
+      "text": "If you visit all the boxes on a paper\n",
+      "sourceLocation": "pdf:spans:[[37,1740,1778]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0038",
+      "kind": "body",
+      "text": "sheet and you haven’t completed\n",
+      "sourceLocation": "pdf:spans:[[37,1778,1810]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0039",
+      "kind": "body",
+      "text": "your mission yet, just attach a new\n",
+      "sourceLocation": "pdf:spans:[[37,1810,1846]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0040",
+      "kind": "body",
+      "text": "paper sheet and continue there.\n",
+      "sourceLocation": "pdf:spans:[[37,1846,1878]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0041",
+      "kind": "body",
+      "text": "Generally, a single sheet is enough\n",
+      "sourceLocation": "pdf:spans:[[37,1878,1914]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0042",
+      "kind": "body",
+      "text": "to complete a mission, but there is\n",
+      "sourceLocation": "pdf:spans:[[37,1914,1950]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0043",
+      "kind": "body",
+      "text": "no limit to the number of sheets\n",
+      "sourceLocation": "pdf:spans:[[37,1950,1983]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0044",
+      "kind": "body",
+      "text": "that you can use in a campaign (a\n",
+      "sourceLocation": "pdf:spans:[[37,1983,2017]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0045",
+      "kind": "body",
+      "text": "series of connected missions).\n",
+      "sourceLocation": "pdf:spans:[[37,2017,2048]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0046",
+      "kind": "body",
+      "text": "If you are an artist, you may sketch\n",
+      "sourceLocation": "pdf:spans:[[37,2048,2085]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0047",
+      "kind": "body",
+      "text": "outlines of houses, parks and other\n",
+      "sourceLocation": "pdf:spans:[[37,2085,2121]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0048",
+      "kind": "body",
+      "text": "features in the boxes, but this is\n",
+      "sourceLocation": "pdf:spans:[[37,2121,2156]]"
+    },
+    {
+      "id": "section-movement-and-mapping:p0049",
+      "kind": "body",
+      "text": "not required.",
+      "sourceLocation": "pdf:spans:[[37,2156,2169]]"
+    }
+  ],
+  "sourcePages": [
+    37
+  ]
+}

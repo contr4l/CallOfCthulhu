@@ -1,0 +1,36 @@
+{
+  "id": "8",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "8:p0",
+      "kind": "heading",
+      "text": "8\n",
+      "sourceLocation": "pdf:spans:[[11,2278,2280]]"
+    },
+    {
+      "id": "8:p1",
+      "kind": "body",
+      "text": "You look the idol over. It is made of a sea-green stone and \nchiseled in the likeness of a water lizard of some sort. The \nsculpture is grotesque and hideous, and the very depiction \nof the lizard-like creature unnerves you. Still, the work is \nextremely well-preserved and unquestionably ancient.\n",
+      "sourceLocation": "pdf:spans:[[11,2280,2341],[11,2341,2403],[11,2403,2463],[11,2463,2525],[11,2525,2578]]"
+    },
+    {
+      "id": "8:p2",
+      "kind": "body",
+      "text": "You feel uncomfortable staring at the alien-looking thing for \nlong, so you stow it away under the bed and out of sight.\n",
+      "sourceLocation": "pdf:spans:[[11,2578,2641],[11,2641,2699]]"
+    },
+    {
+      "id": "8:p3",
+      "kind": "body",
+      "text": "• Go to 32.\n",
+      "sourceLocation": "pdf:spans:[[11,2699,2711]]"
+    },
+    {
+      "id": "8:p4",
+      "kind": "body",
+      "text": "(32)\n",
+      "sourceLocation": "pdf:spans:[[11,2711,2716]]"
+    }
+  ]
+}

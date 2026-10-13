@@ -1,0 +1,30 @@
+{
+  "id": "545",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "545:p0",
+      "kind": "heading",
+      "text": "545",
+      "sourceLocation": "pdf:visual:[[93,80]]"
+    },
+    {
+      "id": "545:p1",
+      "kind": "body",
+      "text": "You examine your map to the gold deposit. It has no scientific \nvalue. But a fortune in gold could finance as many expeditions \nas you wish.",
+      "sourceLocation": "pdf:visual:[[93,81],[93,82],[93,83]]"
+    },
+    {
+      "id": "545:p2",
+      "kind": "body",
+      "text": "To  consider  another  discovery  first,  go  back  to  529.  If  you  have \nthe  keyword  RESONATE,  go  to  546.  If  you  have  the  keyword \nCHARCOAL, make a Navigate roll: if you succeed, go to 183; if \nyou fail, go to 429. ",
+      "sourceLocation": "pdf:visual:[[93,84],[93,85],[93,86],[93,87]]"
+    },
+    {
+      "id": "545:p3",
+      "kind": "trace",
+      "text": "(529)",
+      "sourceLocation": "pdf:visual:[[93,88]]"
+    }
+  ]
+}

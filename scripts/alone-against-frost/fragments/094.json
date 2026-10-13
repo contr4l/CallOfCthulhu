@@ -1,0 +1,42 @@
+{
+  "id": "94",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "94:p0",
+      "kind": "heading",
+      "text": "94",
+      "sourceLocation": "pdf:visual:[[26,39]]"
+    },
+    {
+      "id": "94:p1",
+      "kind": "body",
+      "text": "The wolverine’s claws and teeth rip into Bernard’s body. His \nanguished cry tears at your heart. As man and beast wrestle on \nthe earth, you put a slug into the animal’s lumpish body. But \nthe damage is done.",
+      "sourceLocation": "pdf:visual:[[26,40],[26,41],[26,42],[26,43]]"
+    },
+    {
+      "id": "94:p2",
+      "kind": "body",
+      "text": "Dragging the beast away from Bernard’s neck, you see blood \nspilling from multiple wounds. You call Norman and Sylvia and \nwork together into the twilight. But your concerted efforts are not \nenough to stop the bleeding. Bernard lingers all night, incoherent \nand semi-conscious, but at dawn’s first ray he gives up the ghost.",
+      "sourceLocation": "pdf:visual:[[26,44],[26,45],[26,46],[26,47],[26,48]]"
+    },
+    {
+      "id": "94:p3",
+      "kind": "body",
+      "text": "You must decide whether to honor Bernard by continuing \nthe expedition—or to turn back because of this tragedy. The \nother students look to you for leadership.",
+      "sourceLocation": "pdf:visual:[[26,49],[26,50],[26,51]]"
+    },
+    {
+      "id": "94:p4",
+      "kind": "body",
+      "text": "To continue, go to 75. If you are discouraged, go to 54.",
+      "sourceLocation": "pdf:visual:[[26,52]]"
+    },
+    {
+      "id": "94:p5",
+      "kind": "trace",
+      "text": "(60)",
+      "sourceLocation": "pdf:visual:[[26,53]]"
+    }
+  ]
+}

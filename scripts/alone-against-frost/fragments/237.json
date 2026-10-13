@@ -1,0 +1,36 @@
+{
+  "id": "237",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "237:p0",
+      "kind": "heading",
+      "text": "237",
+      "sourceLocation": "pdf:visual:[[48,20]]"
+    },
+    {
+      "id": "237:p1",
+      "kind": "body",
+      "text": "Sylvia falls into convulsions. She cries out, her hands beating \nat the air, as if trying to drive away an invisible attacker. You \nand Norman battle to subdue her. As you struggle, the young \nwoman goes limp and slips into unconsciousness.",
+      "sourceLocation": "pdf:visual:[[48,21],[48,22],[48,23],[48,24]]"
+    },
+    {
+      "id": "237:p2",
+      "kind": "body",
+      "text": "All your efforts fail to awaken her. Weak as he is, Norman \nhelps you make a dry bed for her and builds up the fire. He \nseems volatile, and you spend some time with him, drawing \nout everyday campus stories from his time as a custodian. The \nprocess seems to settle him. ",
+      "sourceLocation": "pdf:visual:[[48,25],[48,26],[48,27],[48,28],[48,29]]"
+    },
+    {
+      "id": "237:p3",
+      "kind": "body",
+      "text": "Go to 283.",
+      "sourceLocation": "pdf:visual:[[48,30]]"
+    },
+    {
+      "id": "237:p4",
+      "kind": "trace",
+      "text": "(197, 245)",
+      "sourceLocation": "pdf:visual:[[48,31]]"
+    }
+  ]
+}

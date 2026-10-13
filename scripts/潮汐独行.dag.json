@@ -1,0 +1,5684 @@
+{
+  "format": "coc-story-graph@2",
+  "id": "alone-against-tide",
+  "title": "Alone Against the Tide",
+  "language": "en",
+  "entry": "1",
+  "runtimePlayable": false,
+  "source": {
+    "filename": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "sha256": "668c89c837f6325564163f07cd7d73f77da90066101dffd03bed30a2f17fb448",
+    "size": 24997613
+  },
+  "supplements": {
+    "path": "alone-against-tide/fragments/supplements.json",
+    "sha256": "e557231ab43fbbaa2e84ccd1efc44487bd7da5c2d80da6f84c3ab56bb03fffc5"
+  },
+  "nodes": [
+    {
+      "id": "1",
+      "fragment": {
+        "path": "alone-against-tide/fragments/001.json",
+        "sha256": "e0fd6051f10ad35e02f0a94700bb1bad162f119cf8bd45cb3f5c38822ff0174d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "2",
+      "fragment": {
+        "path": "alone-against-tide/fragments/002.json",
+        "sha256": "aa33228d236488f8ebc4eba45e75d9893009c43f02e50e0badd138093a984fc9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "3",
+      "fragment": {
+        "path": "alone-against-tide/fragments/003.json",
+        "sha256": "d6d421addaefb1bb9d908c503ee74fa7bf706a8c693fa799ab8756a2f80780f0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "4",
+      "fragment": {
+        "path": "alone-against-tide/fragments/004.json",
+        "sha256": "868d3a1df20465a6e61399ef9243f05c36c4645881cefd52df0aabee4c1fdc03"
+      },
+      "terminal": false
+    },
+    {
+      "id": "5",
+      "fragment": {
+        "path": "alone-against-tide/fragments/005.json",
+        "sha256": "6227a0cd46661038c9eded3b9e7c63792ecaf6b15a3aa82adfcf6ecc2fdfe527"
+      },
+      "terminal": false
+    },
+    {
+      "id": "6",
+      "fragment": {
+        "path": "alone-against-tide/fragments/006.json",
+        "sha256": "a0c29c9196610842ef5437d38c1193a3e95e56ca00f21453b415eb8e38409b34"
+      },
+      "terminal": false
+    },
+    {
+      "id": "7",
+      "fragment": {
+        "path": "alone-against-tide/fragments/007.json",
+        "sha256": "bb6e53f7f0caffef548ba69667244c0b5ff0a16052ec9c65e41114a6bacf3e6d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "8",
+      "fragment": {
+        "path": "alone-against-tide/fragments/008.json",
+        "sha256": "13a73d5f555f3c49189fdbeef53c7bb3b6eb6c4fe47d47ed5b9c447860d687b2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "9",
+      "fragment": {
+        "path": "alone-against-tide/fragments/009.json",
+        "sha256": "1b18930d1c8483061644a3d791c0caeb956f68bd6dc2bc542343327ffe803b53"
+      },
+      "terminal": false
+    },
+    {
+      "id": "10",
+      "fragment": {
+        "path": "alone-against-tide/fragments/010.json",
+        "sha256": "c9f0d2e3634dfcc370ac24b01679cce306cbc0831e2038f72b9c001a128abf5a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "11",
+      "fragment": {
+        "path": "alone-against-tide/fragments/011.json",
+        "sha256": "7cd1f8ad9e8f20f3e1f1f9d851d230e8020dfea56c7ad77a96d6d48e81624c7c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "12",
+      "fragment": {
+        "path": "alone-against-tide/fragments/012.json",
+        "sha256": "77f228e2ddb81eaf81d49a5161b0890fb5a5dd7caff777c3c852ac37607821da"
+      },
+      "terminal": false
+    },
+    {
+      "id": "13",
+      "fragment": {
+        "path": "alone-against-tide/fragments/013.json",
+        "sha256": "dacd12f6ffc4584ce1414280fa66e41e90342d35047bd5c89dccd049cb906391"
+      },
+      "terminal": false
+    },
+    {
+      "id": "14",
+      "fragment": {
+        "path": "alone-against-tide/fragments/014.json",
+        "sha256": "6d5c92ca83c1bbf70ebbf0d2c3eb77dbcb52a29d7e66980cb84d0db0f12513a4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "15",
+      "fragment": {
+        "path": "alone-against-tide/fragments/015.json",
+        "sha256": "5bc7c7da4741dfe73a491a4ea41b6f90d8fd3f4e7867cd489da6f8663b03ef7a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "16",
+      "fragment": {
+        "path": "alone-against-tide/fragments/016.json",
+        "sha256": "0841ca9305569c0c353f8d07ff32eebebae0c0590c3056e1883fa1142b44686f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "17",
+      "fragment": {
+        "path": "alone-against-tide/fragments/017.json",
+        "sha256": "c53d1a0ea7d77d6da1eeaef27c7135c5f9860fe654d62256efa05ef66e545b89"
+      },
+      "terminal": false
+    },
+    {
+      "id": "18",
+      "fragment": {
+        "path": "alone-against-tide/fragments/018.json",
+        "sha256": "c2f0159c10a34b0f4fb215ec99d148fa41008e1c8b293ad11e2caf2b5d930e80"
+      },
+      "terminal": false
+    },
+    {
+      "id": "19",
+      "fragment": {
+        "path": "alone-against-tide/fragments/019.json",
+        "sha256": "a7061884112fdec8071b2088a122a7b74079addcf92ffff86a4a4a88506255d9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "20",
+      "fragment": {
+        "path": "alone-against-tide/fragments/020.json",
+        "sha256": "6ac52b4bd46ad6a93a40897c1cf7bbae2515d8cd342d64b2a4b659aa5ba38b3c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "21",
+      "fragment": {
+        "path": "alone-against-tide/fragments/021.json",
+        "sha256": "3d158f7c13111cd3f30af654a9058300cee1691e51023d4ca2a235e028f189c8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "22",
+      "fragment": {
+        "path": "alone-against-tide/fragments/022.json",
+        "sha256": "14253c078a5d9f2bafe41d7aa87118d097797d7b23d7ec6a6cb3226887949f25"
+      },
+      "terminal": false
+    },
+    {
+      "id": "23",
+      "fragment": {
+        "path": "alone-against-tide/fragments/023.json",
+        "sha256": "47031316fdf2d0eec2df6a1376737354c86709b140d0ff8c13ffd5e755620902"
+      },
+      "terminal": false
+    },
+    {
+      "id": "24",
+      "fragment": {
+        "path": "alone-against-tide/fragments/024.json",
+        "sha256": "0a39dc762a1cb88b811c144962b9938e507ff108e3fbe968d6d514d2a2554823"
+      },
+      "terminal": false
+    },
+    {
+      "id": "25",
+      "fragment": {
+        "path": "alone-against-tide/fragments/025.json",
+        "sha256": "d75c3a38ede9b7d195b7b331948638a5a3bc80f38e9754eed813219540c548c4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "26",
+      "fragment": {
+        "path": "alone-against-tide/fragments/026.json",
+        "sha256": "02aafa068eef4be56b43506349ef134aa9854a294d9569043e0ca2937e50eb98"
+      },
+      "terminal": false
+    },
+    {
+      "id": "27",
+      "fragment": {
+        "path": "alone-against-tide/fragments/027.json",
+        "sha256": "d32b273da2d6d7f94ba76149461d7fc1c10abf7aef76bf5976051b8540c3c85a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "28",
+      "fragment": {
+        "path": "alone-against-tide/fragments/028.json",
+        "sha256": "22aaa7f58171d4a0232160ff72e1247fa260a71289cc719dd99a5cd7909a1b58"
+      },
+      "terminal": false
+    },
+    {
+      "id": "29",
+      "fragment": {
+        "path": "alone-against-tide/fragments/029.json",
+        "sha256": "a600a687bb023b40c17d94c2004f050f28b9e5f63ac9313229032e89bb93010a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "30",
+      "fragment": {
+        "path": "alone-against-tide/fragments/030.json",
+        "sha256": "cd15f775bea902d09b2900c9383e7cbed009a9de5b3761ede73d2fc972abe448"
+      },
+      "terminal": false
+    },
+    {
+      "id": "31",
+      "fragment": {
+        "path": "alone-against-tide/fragments/031.json",
+        "sha256": "acb3114c4f1b76de295fdc377c7c2ce2db12d031097f37606e39b59412d23b01"
+      },
+      "terminal": false
+    },
+    {
+      "id": "32",
+      "fragment": {
+        "path": "alone-against-tide/fragments/032.json",
+        "sha256": "04122b9e95b5a7ed54c4c9de75823c08932412e8c19505625bb0490b408cc791"
+      },
+      "terminal": false
+    },
+    {
+      "id": "33",
+      "fragment": {
+        "path": "alone-against-tide/fragments/033.json",
+        "sha256": "19e7fc983457ec14d06c2dccf4c72ac396116235a37f89ded2d103720756e278"
+      },
+      "terminal": false
+    },
+    {
+      "id": "34",
+      "fragment": {
+        "path": "alone-against-tide/fragments/034.json",
+        "sha256": "e605ddecea056392061cd86205f0f97a06a8ef4eca56ebdd568b757785efc63f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "35",
+      "fragment": {
+        "path": "alone-against-tide/fragments/035.json",
+        "sha256": "2e40b9c3fe93addd00fa78151188185d2cc57ad295a958ca5a54d547be9a9203"
+      },
+      "terminal": false
+    },
+    {
+      "id": "36",
+      "fragment": {
+        "path": "alone-against-tide/fragments/036.json",
+        "sha256": "8728d1ca87bc6199f46b31ab4b7aa73535ab9221dfe9638ef7c73c463f4a16c1"
+      },
+      "terminal": false
+    },
+    {
+      "id": "37",
+      "fragment": {
+        "path": "alone-against-tide/fragments/037.json",
+        "sha256": "e1bc6fe61cfd363e5551a2f58c942999482a008faa53cd5221a7e8de42bf1a61"
+      },
+      "terminal": false
+    },
+    {
+      "id": "38",
+      "fragment": {
+        "path": "alone-against-tide/fragments/038.json",
+        "sha256": "e1b56c8b74c5c5d2c33017b857ee7cbf8ebabcceb2b59389f2fab26b1bdb4179"
+      },
+      "terminal": false
+    },
+    {
+      "id": "39",
+      "fragment": {
+        "path": "alone-against-tide/fragments/039.json",
+        "sha256": "4b99c7efe2f44ca5c91e9349976f32bb6a39cc599489df6d52cea288cf717881"
+      },
+      "terminal": false
+    },
+    {
+      "id": "40",
+      "fragment": {
+        "path": "alone-against-tide/fragments/040.json",
+        "sha256": "7d32e18a10c75a38fc958c1262ada89af1a76546a656009f0e212c6d885cffb5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "41",
+      "fragment": {
+        "path": "alone-against-tide/fragments/041.json",
+        "sha256": "267e048843b38faf39de230fc3bbb85fa1ce21cb19111e263a5dc954183d67c9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "42",
+      "fragment": {
+        "path": "alone-against-tide/fragments/042.json",
+        "sha256": "c7d2c9a6773e76f0b9c57d06b82554038f02f7a4763e8b93ad6c46d5d0a78c41"
+      },
+      "terminal": false
+    },
+    {
+      "id": "43",
+      "fragment": {
+        "path": "alone-against-tide/fragments/043.json",
+        "sha256": "ddf034ce8d9da80f9dfaf65aa51a7a55a16011c0b00c9bf278c91b2f624c30c7"
+      },
+      "terminal": false
+    },
+    {
+      "id": "44",
+      "fragment": {
+        "path": "alone-against-tide/fragments/044.json",
+        "sha256": "c9660560f435d965b56b1d7c1967b9bbcc3c6e5d900d36084e7f922d31d74416"
+      },
+      "terminal": false
+    },
+    {
+      "id": "45",
+      "fragment": {
+        "path": "alone-against-tide/fragments/045.json",
+        "sha256": "714211aac5e3e766b6e88455d138611c646fd77f609c12c589e06eff9fcfc573"
+      },
+      "terminal": false
+    },
+    {
+      "id": "46",
+      "fragment": {
+        "path": "alone-against-tide/fragments/046.json",
+        "sha256": "6700945c10d496295914b22aec38cbe2e2e1cb15df3a138c6ad383d17cc1e8ad"
+      },
+      "terminal": false
+    },
+    {
+      "id": "47",
+      "fragment": {
+        "path": "alone-against-tide/fragments/047.json",
+        "sha256": "4424d5d55ee3c794b8ed5007dd5cbd07966e1b89763095c277373fcc8cddc254"
+      },
+      "terminal": false
+    },
+    {
+      "id": "48",
+      "fragment": {
+        "path": "alone-against-tide/fragments/048.json",
+        "sha256": "20424b8dff096a771f74972b0697ddaa3c3d1c83624abf95242e88f0016ccfe6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "49",
+      "fragment": {
+        "path": "alone-against-tide/fragments/049.json",
+        "sha256": "4bc0781037c3b866f5848662cf6c3579aa58c38aa3183cde93b51e68704f71fc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "50",
+      "fragment": {
+        "path": "alone-against-tide/fragments/050.json",
+        "sha256": "0ca90bf80945b338627f9c5912c89e2c9a7bba0fedc32a8f253c7b9940c5400e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "51",
+      "fragment": {
+        "path": "alone-against-tide/fragments/051.json",
+        "sha256": "3cb01e03beb630e6f576650531a1385668ca834756674ed5e55a5ec570abdd6a"
+      },
+      "terminal": true
+    },
+    {
+      "id": "52",
+      "fragment": {
+        "path": "alone-against-tide/fragments/052.json",
+        "sha256": "af661e120f3ed021222fc4212139d020d35dc723902d896c5b3003b103030705"
+      },
+      "terminal": false
+    },
+    {
+      "id": "53",
+      "fragment": {
+        "path": "alone-against-tide/fragments/053.json",
+        "sha256": "621ac744f24336d03d3766efaaa5733f656b2eaf6075b8f5ede13a83e7283f6a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "54",
+      "fragment": {
+        "path": "alone-against-tide/fragments/054.json",
+        "sha256": "66e2ddf1a05fd8df1b76f863a945aab32181bdfe64eea7d2153b6b35dc388852"
+      },
+      "terminal": false
+    },
+    {
+      "id": "55",
+      "fragment": {
+        "path": "alone-against-tide/fragments/055.json",
+        "sha256": "24e57d0cf2e9f67b9df916c05db5a443bc6acf7bd1443d161c3022eda82dafb7"
+      },
+      "terminal": false
+    },
+    {
+      "id": "56",
+      "fragment": {
+        "path": "alone-against-tide/fragments/056.json",
+        "sha256": "7705cb58b23bce087fc5a33d488dd3e179182fe4b5a14aaa9e4a49b1eb06205e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "57",
+      "fragment": {
+        "path": "alone-against-tide/fragments/057.json",
+        "sha256": "230e7715966402576c38bd88548b4e1df34aa92766b060f7c61ce0914869c429"
+      },
+      "terminal": false
+    },
+    {
+      "id": "58",
+      "fragment": {
+        "path": "alone-against-tide/fragments/058.json",
+        "sha256": "f81562a516585dbea022e6e805ce051c5a2093a49f49d88499ea8f8cfdb1e193"
+      },
+      "terminal": false
+    },
+    {
+      "id": "59",
+      "fragment": {
+        "path": "alone-against-tide/fragments/059.json",
+        "sha256": "60769666699cec40ecfd62bde1dfa2e4670019b3a71179b5cad9ea95fcac33b6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "60",
+      "fragment": {
+        "path": "alone-against-tide/fragments/060.json",
+        "sha256": "c2bca63ea4b1d951585b8fddfef8ae6ea58cafdca75dc1e54c61163446d311f0"
+      },
+      "terminal": false
+    },
+    {
+      "id": "61",
+      "fragment": {
+        "path": "alone-against-tide/fragments/061.json",
+        "sha256": "5caba68e0f105817bca2d481e33ecfc79ec692f04592de6d484652c728c0e9b6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "62",
+      "fragment": {
+        "path": "alone-against-tide/fragments/062.json",
+        "sha256": "90170788238941e18cbece51e5d85d315331b345b4c2b76d6564e47f13364720"
+      },
+      "terminal": false
+    },
+    {
+      "id": "63",
+      "fragment": {
+        "path": "alone-against-tide/fragments/063.json",
+        "sha256": "b6885a42e25c7eb1d7b151f7079d7b5ca9658a70f247a2ac3ea0e7b69a673922"
+      },
+      "terminal": false
+    },
+    {
+      "id": "64",
+      "fragment": {
+        "path": "alone-against-tide/fragments/064.json",
+        "sha256": "08cc36aad5c4a8242d9cc80de4904d2760cb3f47bcf1e8164e12682aeeb0b286"
+      },
+      "terminal": false
+    },
+    {
+      "id": "65",
+      "fragment": {
+        "path": "alone-against-tide/fragments/065.json",
+        "sha256": "11b4c09aaa150b8f5f6706adb71e69e2ac73c2ec9b82c87517bb4c0416982150"
+      },
+      "terminal": false
+    },
+    {
+      "id": "66",
+      "fragment": {
+        "path": "alone-against-tide/fragments/066.json",
+        "sha256": "062410f816e5f0020b43b2a117c54f957a5422c45f17790d1880ae0a832971c4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "67",
+      "fragment": {
+        "path": "alone-against-tide/fragments/067.json",
+        "sha256": "4951ea94062ddab73d8106f4e067141059277a37a8ebd8497f67ac3032e5ee74"
+      },
+      "terminal": false
+    },
+    {
+      "id": "68",
+      "fragment": {
+        "path": "alone-against-tide/fragments/068.json",
+        "sha256": "255ecadb837b932223c1a4969ca6b4394d7b0896ce02d2f53a1d37f7cf5bc5f2"
+      },
+      "terminal": true
+    },
+    {
+      "id": "69",
+      "fragment": {
+        "path": "alone-against-tide/fragments/069.json",
+        "sha256": "a463b3bd081408d9f175e73d1ffed9cfd8c6af0f43594b235a694f1fbbbefb62"
+      },
+      "terminal": true
+    },
+    {
+      "id": "70",
+      "fragment": {
+        "path": "alone-against-tide/fragments/070.json",
+        "sha256": "ee4b5fd20fc8a9eb2e100b2588319c148ccd3b736bbfaf09bb08f1d253fc7e59"
+      },
+      "terminal": false
+    },
+    {
+      "id": "71",
+      "fragment": {
+        "path": "alone-against-tide/fragments/071.json",
+        "sha256": "4db7ec77fbdfc0f4b35b0ebfeef18fd3ab33ad049a7354a9bbede892458aded8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "72",
+      "fragment": {
+        "path": "alone-against-tide/fragments/072.json",
+        "sha256": "d755a4320e45e22d97381b5b3ee5e03c4e0824c82c293acfbd3c35491dfb0a31"
+      },
+      "terminal": false
+    },
+    {
+      "id": "73",
+      "fragment": {
+        "path": "alone-against-tide/fragments/073.json",
+        "sha256": "38210d68fb820d4229be871ac057d560831eacc2513a9f86197ad09e1a59d798"
+      },
+      "terminal": false
+    },
+    {
+      "id": "74",
+      "fragment": {
+        "path": "alone-against-tide/fragments/074.json",
+        "sha256": "9fdfdfe41f3e9d9b3312c72ddc4d309bcc86ecb264d9357fe268288653a75474"
+      },
+      "terminal": false
+    },
+    {
+      "id": "75",
+      "fragment": {
+        "path": "alone-against-tide/fragments/075.json",
+        "sha256": "ea7aba6238eb577a99c7250b4820bd772197fd4ad90aa3f824916d52061ba395"
+      },
+      "terminal": false
+    },
+    {
+      "id": "76",
+      "fragment": {
+        "path": "alone-against-tide/fragments/076.json",
+        "sha256": "72e30b392f43fe52a2ba9dbcb2111c8049ffc14728845d039d8aec176f2d4cc5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "77",
+      "fragment": {
+        "path": "alone-against-tide/fragments/077.json",
+        "sha256": "b4838092a8cefbb98b1242454923f7c075dde407a06c4ccf6b00d8b80e663dc8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "78",
+      "fragment": {
+        "path": "alone-against-tide/fragments/078.json",
+        "sha256": "96c17420fc0729b9834e7c9924271bd7c4d1b98860011ab4daca9275c4031ca8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "79",
+      "fragment": {
+        "path": "alone-against-tide/fragments/079.json",
+        "sha256": "545ddebf57ba3ff494afc651f819f69fc1a0e3b79b99f484c87301a393b88f78"
+      },
+      "terminal": false
+    },
+    {
+      "id": "80",
+      "fragment": {
+        "path": "alone-against-tide/fragments/080.json",
+        "sha256": "0925c57426f0ce7a04bbfdbea1553d40b19bcfeff139de95cf877f51b1ff2235"
+      },
+      "terminal": false
+    },
+    {
+      "id": "81",
+      "fragment": {
+        "path": "alone-against-tide/fragments/081.json",
+        "sha256": "bcafc328ee8bda47a0a2b6cecf344ffd6f7cf20d27e2602f545a45b585d1d29b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "82",
+      "fragment": {
+        "path": "alone-against-tide/fragments/082.json",
+        "sha256": "cd6025eb21b4754c28b3cd5441fc236b0cea49d3857400f8a18e155494548b54"
+      },
+      "terminal": true
+    },
+    {
+      "id": "83",
+      "fragment": {
+        "path": "alone-against-tide/fragments/083.json",
+        "sha256": "fa4ab1e804d8e6e3105979f2a84606a666ac39ff9fd8a44490559c5c065c5879"
+      },
+      "terminal": false
+    },
+    {
+      "id": "84",
+      "fragment": {
+        "path": "alone-against-tide/fragments/084.json",
+        "sha256": "7cc863ecc591d0589d379c6f527bb5d20f36e345d0736f7f8759c368dbe86e0f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "85",
+      "fragment": {
+        "path": "alone-against-tide/fragments/085.json",
+        "sha256": "0f8e8d8006345e8556838d08d2651b18ae5b041470465096cda05a527ffd6d5d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "86",
+      "fragment": {
+        "path": "alone-against-tide/fragments/086.json",
+        "sha256": "f73f808539f241e050ebfeb4afc7fbc5d8c4e6d3ff9e6a7e1d775656682c87cf"
+      },
+      "terminal": false
+    },
+    {
+      "id": "87",
+      "fragment": {
+        "path": "alone-against-tide/fragments/087.json",
+        "sha256": "31dab8471b64f1e434944ce3555245e1518ebe8fd19ed478f6baf484b3934589"
+      },
+      "terminal": false
+    },
+    {
+      "id": "88",
+      "fragment": {
+        "path": "alone-against-tide/fragments/088.json",
+        "sha256": "1756b28cb5bfbbbd4db84d980de37a9a9137dd45600878b3752d620c9cda75cd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "89",
+      "fragment": {
+        "path": "alone-against-tide/fragments/089.json",
+        "sha256": "549d3b6f2d8c95e75a19846220fcbaaa00a37a7148ffe68c31e845bc8b360223"
+      },
+      "terminal": false
+    },
+    {
+      "id": "90",
+      "fragment": {
+        "path": "alone-against-tide/fragments/090.json",
+        "sha256": "bc41846cbedc92254c44b715a6959b4c92009c5e9e05b07b7712c3d7ea96cdb5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "91",
+      "fragment": {
+        "path": "alone-against-tide/fragments/091.json",
+        "sha256": "a4815f29efd6f6cb1814900cd2b99d6443ed5ead30e4a48895e5f10d60bc47e5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "92",
+      "fragment": {
+        "path": "alone-against-tide/fragments/092.json",
+        "sha256": "f96780b3959b47e319d5c70f83a70036197e4e7958606bb29b2b802f82ce5167"
+      },
+      "terminal": false
+    },
+    {
+      "id": "93",
+      "fragment": {
+        "path": "alone-against-tide/fragments/093.json",
+        "sha256": "de2ea69d65882df556c1b407ec8becaae6353ea9a4cd6a44386a19907b06dcba"
+      },
+      "terminal": false
+    },
+    {
+      "id": "94",
+      "fragment": {
+        "path": "alone-against-tide/fragments/094.json",
+        "sha256": "9d1f8a2973b183b3eae98adc24175074be4eeff25e0e19fc26051cca9187e803"
+      },
+      "terminal": false
+    },
+    {
+      "id": "95",
+      "fragment": {
+        "path": "alone-against-tide/fragments/095.json",
+        "sha256": "03b5bb28fcda864a91658c6868693c33042763c21e9276f3ad6a5f335855277d"
+      },
+      "terminal": true
+    },
+    {
+      "id": "96",
+      "fragment": {
+        "path": "alone-against-tide/fragments/096.json",
+        "sha256": "9948391371e731d07cda54f91d771623999e7d11a88e4dd3483f527dfbbb1251"
+      },
+      "terminal": false
+    },
+    {
+      "id": "97",
+      "fragment": {
+        "path": "alone-against-tide/fragments/097.json",
+        "sha256": "8c8840bcff886c58ff45c6280df3b73203611d653711a02e9136a32c7142f15f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "98",
+      "fragment": {
+        "path": "alone-against-tide/fragments/098.json",
+        "sha256": "9b98314316853a370103d367d763b1c5295aa7ffccd469785bc4768b982eef32"
+      },
+      "terminal": false
+    },
+    {
+      "id": "99",
+      "fragment": {
+        "path": "alone-against-tide/fragments/099.json",
+        "sha256": "d79d6251f7adda7e55a23bc5e3fade29adae298694ff2301a08d4c523db1bdb6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "100",
+      "fragment": {
+        "path": "alone-against-tide/fragments/100.json",
+        "sha256": "d35d2ca674143fb2c7c00164ea11ca431745cd39852ffc499fa4efcf16441c31"
+      },
+      "terminal": false
+    },
+    {
+      "id": "101",
+      "fragment": {
+        "path": "alone-against-tide/fragments/101.json",
+        "sha256": "e9958b4ba7946fd0ee612128c24a78567a28c01d8fbbb492491d1626816c38c8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "102",
+      "fragment": {
+        "path": "alone-against-tide/fragments/102.json",
+        "sha256": "0e749414cebfe1037a1cbf1413b4ed2326d870d98fe0e4c0c5b4d2a156ec4256"
+      },
+      "terminal": false
+    },
+    {
+      "id": "103",
+      "fragment": {
+        "path": "alone-against-tide/fragments/103.json",
+        "sha256": "685e62454aaadf6a007d5d1bc87ffcc008d648bbbacec17ca4794e43c2faa362"
+      },
+      "terminal": false
+    },
+    {
+      "id": "104",
+      "fragment": {
+        "path": "alone-against-tide/fragments/104.json",
+        "sha256": "23bb51f2fef1057be8a24c2ddbf2eb8853fb7638f4f3b16ca418b9f4b4e7b71e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "105",
+      "fragment": {
+        "path": "alone-against-tide/fragments/105.json",
+        "sha256": "9c23aad4055d31cf20d83b1f3763e5ffa1e80547cf959c5945abc336103bb390"
+      },
+      "terminal": false
+    },
+    {
+      "id": "106",
+      "fragment": {
+        "path": "alone-against-tide/fragments/106.json",
+        "sha256": "469307de50c269f6fb0500366c53ecf05abab4544746bd2bda8508b16ba5931a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "107",
+      "fragment": {
+        "path": "alone-against-tide/fragments/107.json",
+        "sha256": "d34c6a1ab471ba16b4f47cbe239a27f8c87e494ba6e03dc3f0c2e55ff266e4f9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "108",
+      "fragment": {
+        "path": "alone-against-tide/fragments/108.json",
+        "sha256": "72f04d72ab28af5cf1eb36bddc950114b72f6f5071f33bb1c5c2949362b002cd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "109",
+      "fragment": {
+        "path": "alone-against-tide/fragments/109.json",
+        "sha256": "d8f4b8725dd4ac5a1c915a845e4e78932aa8af2d882c836bb201f857ba14e515"
+      },
+      "terminal": false
+    },
+    {
+      "id": "110",
+      "fragment": {
+        "path": "alone-against-tide/fragments/110.json",
+        "sha256": "28e1fa77c027c5a861eca676bac9befce9520594cdb5486f5e0c801afeca19d4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "111",
+      "fragment": {
+        "path": "alone-against-tide/fragments/111.json",
+        "sha256": "dbe9e8191ba482975b7d0979272847c09e8810ddcd0ef5de5decd5e452760c72"
+      },
+      "terminal": false
+    },
+    {
+      "id": "112",
+      "fragment": {
+        "path": "alone-against-tide/fragments/112.json",
+        "sha256": "599ddc9a05a0e0229bea528268cb930d6233f4633385a442bb19de01ac0a6407"
+      },
+      "terminal": false
+    },
+    {
+      "id": "113",
+      "fragment": {
+        "path": "alone-against-tide/fragments/113.json",
+        "sha256": "b55424e084d4a320190c8d31f58a012c7ec161f3f4c8d99b5671cf71421dcece"
+      },
+      "terminal": true
+    },
+    {
+      "id": "114",
+      "fragment": {
+        "path": "alone-against-tide/fragments/114.json",
+        "sha256": "4dfec42d290d7667a8ed5225411904853840a0a497065f7eb320066e9e147506"
+      },
+      "terminal": false
+    },
+    {
+      "id": "115",
+      "fragment": {
+        "path": "alone-against-tide/fragments/115.json",
+        "sha256": "36b5069990b53ba96454224488649b52a7904b45a027946ffb747388ea2b6f42"
+      },
+      "terminal": false
+    },
+    {
+      "id": "116",
+      "fragment": {
+        "path": "alone-against-tide/fragments/116.json",
+        "sha256": "e6c7a6e4d83560c2deb3a377b014a3f04dc0488af8946f7e22a11453a5fc8ac5"
+      },
+      "terminal": true
+    },
+    {
+      "id": "117",
+      "fragment": {
+        "path": "alone-against-tide/fragments/117.json",
+        "sha256": "59e69bb0c58b9933c4a635b6526c2ff6dac4ed2aff440afa04bad075d4a1fcea"
+      },
+      "terminal": true
+    },
+    {
+      "id": "118",
+      "fragment": {
+        "path": "alone-against-tide/fragments/118.json",
+        "sha256": "4eca6aeff9a6cecfaf20c4c56244f3f8d0e00c534a63675c0393e62a6882fcb3"
+      },
+      "terminal": false
+    },
+    {
+      "id": "119",
+      "fragment": {
+        "path": "alone-against-tide/fragments/119.json",
+        "sha256": "b1c16a1fdeb326660d098485bc9f4127aee2d50df1e7cc5ca59637c04bb0eee8"
+      },
+      "terminal": true
+    },
+    {
+      "id": "120",
+      "fragment": {
+        "path": "alone-against-tide/fragments/120.json",
+        "sha256": "6a076affb758c4470d5c4eeeb6f24c4b284913de9dff87d4569b27dc44dfb27f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "121",
+      "fragment": {
+        "path": "alone-against-tide/fragments/121.json",
+        "sha256": "3a8a3c1febf7c837a0133cb653287d7cb556017eef8bdbb452d26da9e5115150"
+      },
+      "terminal": true
+    },
+    {
+      "id": "122",
+      "fragment": {
+        "path": "alone-against-tide/fragments/122.json",
+        "sha256": "f4174627aa4e5c32e6cd09df482dec3706eca0020d5511ac19561131646139d2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "123",
+      "fragment": {
+        "path": "alone-against-tide/fragments/123.json",
+        "sha256": "40019659da9eb2c15960846d170fe113dd808ff09d51c3a719479197f282477e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "124",
+      "fragment": {
+        "path": "alone-against-tide/fragments/124.json",
+        "sha256": "6bc585d8bc73b862ee0721c9575dd09eb2425fc160e33265354d7b17df183865"
+      },
+      "terminal": false
+    },
+    {
+      "id": "125",
+      "fragment": {
+        "path": "alone-against-tide/fragments/125.json",
+        "sha256": "030ebb8020c424299ccc97e557175c86f84f40d151cdaa316aace0112b877f9c"
+      },
+      "terminal": true
+    },
+    {
+      "id": "126",
+      "fragment": {
+        "path": "alone-against-tide/fragments/126.json",
+        "sha256": "ef705fd0b7bd590ed4636c586dd1ce4851ec9f0e1a8d766d95027012f0be4952"
+      },
+      "terminal": false
+    },
+    {
+      "id": "127",
+      "fragment": {
+        "path": "alone-against-tide/fragments/127.json",
+        "sha256": "8227d872d375cf9e089365440119926cc854418db4abc50e5d9c7041ae0f5371"
+      },
+      "terminal": false
+    },
+    {
+      "id": "128",
+      "fragment": {
+        "path": "alone-against-tide/fragments/128.json",
+        "sha256": "955511a1d9b1a0de75c92dab89687215ccc69e68ec5d18e1742aa556f0f5d6d2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "129",
+      "fragment": {
+        "path": "alone-against-tide/fragments/129.json",
+        "sha256": "a6412c7b5169433ada1e809bf4cd3bff210c9fc49e4137af2047037b6307ba38"
+      },
+      "terminal": false
+    },
+    {
+      "id": "130",
+      "fragment": {
+        "path": "alone-against-tide/fragments/130.json",
+        "sha256": "a9e5af2f4450cf26d260bd88ff7a808ab7a53ae30bde84bd0c57671aa2872081"
+      },
+      "terminal": false
+    },
+    {
+      "id": "131",
+      "fragment": {
+        "path": "alone-against-tide/fragments/131.json",
+        "sha256": "abe088e2b319203d7cd2c42184c98b9b7615d2c4aebfe569e820e62f1b96e628"
+      },
+      "terminal": false
+    },
+    {
+      "id": "132",
+      "fragment": {
+        "path": "alone-against-tide/fragments/132.json",
+        "sha256": "f4e5a7e3d08c8337dbb1097666e2365f61ec22bef516ae398f52933bd100ce3b"
+      },
+      "terminal": true
+    },
+    {
+      "id": "133",
+      "fragment": {
+        "path": "alone-against-tide/fragments/133.json",
+        "sha256": "3398c9caa475b788b534e9e9cde5fac117bb3a7803ee23d4969d26d4d943ba55"
+      },
+      "terminal": false
+    },
+    {
+      "id": "134",
+      "fragment": {
+        "path": "alone-against-tide/fragments/134.json",
+        "sha256": "16af6f4feb64424196c8b5e52b3001785955d696167f5674d5df88fc09e76b8c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "135",
+      "fragment": {
+        "path": "alone-against-tide/fragments/135.json",
+        "sha256": "08a27b080a46b3997a421f6f88f22a85ad092d98fdfc1b5336d9b2f5de67711a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "136",
+      "fragment": {
+        "path": "alone-against-tide/fragments/136.json",
+        "sha256": "25ea7d8c35da9ee04fc8d9464763f53ba5c4d919838d4c370e6e784c7b6b1b3c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "137",
+      "fragment": {
+        "path": "alone-against-tide/fragments/137.json",
+        "sha256": "87ac4690a45b3fbb50f174f32117bd357d8fe8a590518da2e5042289bf629c3d"
+      },
+      "terminal": true
+    },
+    {
+      "id": "138",
+      "fragment": {
+        "path": "alone-against-tide/fragments/138.json",
+        "sha256": "e9eb97a49cc4a32d1f6beff63ded293613d29e97b632f8018e4d0e75ac7640be"
+      },
+      "terminal": false
+    },
+    {
+      "id": "139",
+      "fragment": {
+        "path": "alone-against-tide/fragments/139.json",
+        "sha256": "1b0e48f6bc4c16929b259668944120290d80fa086a64a26bd83f20a47bf5e8f6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "140",
+      "fragment": {
+        "path": "alone-against-tide/fragments/140.json",
+        "sha256": "d52eab5443398292355f96ab042c6996646608f71e12aff387609e79e8bcc485"
+      },
+      "terminal": true
+    },
+    {
+      "id": "141",
+      "fragment": {
+        "path": "alone-against-tide/fragments/141.json",
+        "sha256": "9c643aeec634a22ace293352c6c0d925157a04d74aad240bca49de38db24e8cc"
+      },
+      "terminal": true
+    },
+    {
+      "id": "142",
+      "fragment": {
+        "path": "alone-against-tide/fragments/142.json",
+        "sha256": "dfb523f2a7b0f9371e5a6efa102f7e5db8e7c93ffa77207aaf978b36aa659355"
+      },
+      "terminal": true
+    },
+    {
+      "id": "143",
+      "fragment": {
+        "path": "alone-against-tide/fragments/143.json",
+        "sha256": "0a9c019e1f3073bd043748a834a33e6acf6a5fa95a49ce87fd1ffb249849604b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "144",
+      "fragment": {
+        "path": "alone-against-tide/fragments/144.json",
+        "sha256": "c17c456dec5a78b0f28ca0af7cdea66183abe3fe58a652e74a57fb1ee81b078b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "145",
+      "fragment": {
+        "path": "alone-against-tide/fragments/145.json",
+        "sha256": "f0f4bed3de1bf7c13d04cbbb2c71af460f8962fd07ab08f369bb4ca56d08d1de"
+      },
+      "terminal": true
+    },
+    {
+      "id": "146",
+      "fragment": {
+        "path": "alone-against-tide/fragments/146.json",
+        "sha256": "39b565810ed6febf83cf5d8ad185b04c764f1dbd349d587eabc30b24e7ea59cd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "147",
+      "fragment": {
+        "path": "alone-against-tide/fragments/147.json",
+        "sha256": "05664498cb0aefee73cc5fbc36b4c56549c1073f1c223afdd779381bac12ffa5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "148",
+      "fragment": {
+        "path": "alone-against-tide/fragments/148.json",
+        "sha256": "306233ef4a7259f8b9e400741ddeaa691adf311488958ce85e84f42e6662bf85"
+      },
+      "terminal": false
+    },
+    {
+      "id": "149",
+      "fragment": {
+        "path": "alone-against-tide/fragments/149.json",
+        "sha256": "4931af515a87e6cbc4d2400e1bf7e2260f256feec4caf765b4b2d6cfcf926db7"
+      },
+      "terminal": false
+    },
+    {
+      "id": "150",
+      "fragment": {
+        "path": "alone-against-tide/fragments/150.json",
+        "sha256": "e12f7b9d10f4aab3074a295b7e441c1c070f7f7bcb6ea440fe460c279576dbf2"
+      },
+      "terminal": true
+    },
+    {
+      "id": "151",
+      "fragment": {
+        "path": "alone-against-tide/fragments/151.json",
+        "sha256": "a6c9bc843f22e609ee0387a2ed1a279217dd303642dc23ebdab910780cf24964"
+      },
+      "terminal": false
+    },
+    {
+      "id": "152",
+      "fragment": {
+        "path": "alone-against-tide/fragments/152.json",
+        "sha256": "732c755d5a2e4b8455f53f383f9dac2805502ef7667151875355130e6adb180f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "153",
+      "fragment": {
+        "path": "alone-against-tide/fragments/153.json",
+        "sha256": "5e5d221a8d74645d3465d9af5e5d652187ce41cae19a020a052735143188dd67"
+      },
+      "terminal": false
+    },
+    {
+      "id": "154",
+      "fragment": {
+        "path": "alone-against-tide/fragments/154.json",
+        "sha256": "1f1b395c617c22093cc17911c632ff363561b46e673303ac0e301a417e8446b5"
+      },
+      "terminal": false
+    },
+    {
+      "id": "155",
+      "fragment": {
+        "path": "alone-against-tide/fragments/155.json",
+        "sha256": "179fdecda6b9a21d4b115488d7f5f03c789151391ed78f17f4427435fe13425b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "156",
+      "fragment": {
+        "path": "alone-against-tide/fragments/156.json",
+        "sha256": "44961094c5dd58ac0ff7b95f8ed39f6e577df3e7153d2a6b80b62d59283c9f85"
+      },
+      "terminal": false
+    },
+    {
+      "id": "157",
+      "fragment": {
+        "path": "alone-against-tide/fragments/157.json",
+        "sha256": "45d883e36443243135006a829e84c1cffc8296184c7865e3aede138f9f635a0b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "158",
+      "fragment": {
+        "path": "alone-against-tide/fragments/158.json",
+        "sha256": "83f2db9662fdc6416ee3158738e8845ab9e9eaa1f61efa2009cb5a854b802621"
+      },
+      "terminal": false
+    },
+    {
+      "id": "159",
+      "fragment": {
+        "path": "alone-against-tide/fragments/159.json",
+        "sha256": "801989a9333dd37b13ae55eb35f083139b4fd049993dba99ca3a72de6852cc1c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "160",
+      "fragment": {
+        "path": "alone-against-tide/fragments/160.json",
+        "sha256": "43828be9415ae6f0c9fbe0e039b5cd4901dcd37ab6141bcec134ebbb56b71475"
+      },
+      "terminal": false
+    },
+    {
+      "id": "161",
+      "fragment": {
+        "path": "alone-against-tide/fragments/161.json",
+        "sha256": "144ff4131e198c90aa1bcdb7143808e594c8a5f27993f5b8f9ccbe5429589a58"
+      },
+      "terminal": false
+    },
+    {
+      "id": "162",
+      "fragment": {
+        "path": "alone-against-tide/fragments/162.json",
+        "sha256": "fafbafc93c77b6f5544ea552204edbf96587afe034b195b78dd7b19516509263"
+      },
+      "terminal": false
+    },
+    {
+      "id": "163",
+      "fragment": {
+        "path": "alone-against-tide/fragments/163.json",
+        "sha256": "4d5ae97b2f22ae14447b1e638eb9da4e2a3017029ab48acd421797e09632d493"
+      },
+      "terminal": false
+    },
+    {
+      "id": "164",
+      "fragment": {
+        "path": "alone-against-tide/fragments/164.json",
+        "sha256": "71a708cf26e4a943641cf082ec0a26aa4cf4687976d2851d40aada0797f6d85f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "165",
+      "fragment": {
+        "path": "alone-against-tide/fragments/165.json",
+        "sha256": "93519fda91c126fed710e7f4ecfbf55447138c72372e3b005e7de0789800d699"
+      },
+      "terminal": false
+    },
+    {
+      "id": "166",
+      "fragment": {
+        "path": "alone-against-tide/fragments/166.json",
+        "sha256": "6b179a71b65f6b4ffc972b9b729a275a7f8cb0a33863eb58ed1b93da94dc056f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "167",
+      "fragment": {
+        "path": "alone-against-tide/fragments/167.json",
+        "sha256": "f33ae75f0803063c3f7a6bafebf5589d25873d79db187ad1e776fed19f9e369f"
+      },
+      "terminal": false
+    },
+    {
+      "id": "168",
+      "fragment": {
+        "path": "alone-against-tide/fragments/168.json",
+        "sha256": "0fc2e01a7fb83139b6a95d090bc5dfe061892c116f84a6fbbb35fcc42d7cd50e"
+      },
+      "terminal": false
+    },
+    {
+      "id": "169",
+      "fragment": {
+        "path": "alone-against-tide/fragments/169.json",
+        "sha256": "dbbb32790e758d394f5ff79597967a0dd37ca0abb0850e8acabe970ebeafffb4"
+      },
+      "terminal": true
+    },
+    {
+      "id": "170",
+      "fragment": {
+        "path": "alone-against-tide/fragments/170.json",
+        "sha256": "7cb001491e68732b50ac5d78dc7494f3b70deaf5df48ede26a1e7e5c0361f6c4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "171",
+      "fragment": {
+        "path": "alone-against-tide/fragments/171.json",
+        "sha256": "7e32a88a862d8a1a79902c8410f4da0140a08e790da3202bc8c865a95b0e27a8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "172",
+      "fragment": {
+        "path": "alone-against-tide/fragments/172.json",
+        "sha256": "964a1330ea44c88dd043d3d239d342ab8078b376b1ddaa8d3b59ccc76ba0b36c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "173",
+      "fragment": {
+        "path": "alone-against-tide/fragments/173.json",
+        "sha256": "7eb82f6e2689355802defee1b11ca8144c6cc12cd2bfc750cb994e759d513600"
+      },
+      "terminal": false
+    },
+    {
+      "id": "174",
+      "fragment": {
+        "path": "alone-against-tide/fragments/174.json",
+        "sha256": "0a3c433e05e92418a8b25ad6533b8f1aa98b4278ec453910f2dd3e2980010f68"
+      },
+      "terminal": false
+    },
+    {
+      "id": "175",
+      "fragment": {
+        "path": "alone-against-tide/fragments/175.json",
+        "sha256": "da02c8614cd9706fed2746a735dd1feb0440089ec231ceb730b9b609f226fbcd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "176",
+      "fragment": {
+        "path": "alone-against-tide/fragments/176.json",
+        "sha256": "fede1f876fe1b25893f032226b3d3651017bcc40fa8216cf9e3ac8dd2dce5024"
+      },
+      "terminal": true
+    },
+    {
+      "id": "177",
+      "fragment": {
+        "path": "alone-against-tide/fragments/177.json",
+        "sha256": "1761726f5b84dc414d883fbed351ccbd5344f73411ab4c8ae98be408c24e14cc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "178",
+      "fragment": {
+        "path": "alone-against-tide/fragments/178.json",
+        "sha256": "6f9dc08b9dde251bb522496a3dae7482bff74a98295105963f968a6bc519c7b8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "179",
+      "fragment": {
+        "path": "alone-against-tide/fragments/179.json",
+        "sha256": "273787aa92e2542407e5af541a99390f860eb39d723fdd6ef0c532eded20bc4c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "180",
+      "fragment": {
+        "path": "alone-against-tide/fragments/180.json",
+        "sha256": "25a8fb983afa8e0916c3c350a4b5deed7635c3c0cd8840ecd0c8dbaf3b48cc2f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "181",
+      "fragment": {
+        "path": "alone-against-tide/fragments/181.json",
+        "sha256": "1f46c11e61cf4d35f485f72e41d73ab2914c17233803e475abbe444b8a15ce3a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "182",
+      "fragment": {
+        "path": "alone-against-tide/fragments/182.json",
+        "sha256": "2da76ba4703fa455eeb122fd9223c9a833828d4575a4f621e7a5198047fcb9cd"
+      },
+      "terminal": true
+    },
+    {
+      "id": "183",
+      "fragment": {
+        "path": "alone-against-tide/fragments/183.json",
+        "sha256": "72876fa244031de83e45310226df3ca4ee6017e6e70076f50b1f046f3b8068b8"
+      },
+      "terminal": false
+    },
+    {
+      "id": "184",
+      "fragment": {
+        "path": "alone-against-tide/fragments/184.json",
+        "sha256": "506004c158f7ce2f840081bb6ce1f9181601684a832d328eaa963b0840c1491d"
+      },
+      "terminal": true
+    },
+    {
+      "id": "185",
+      "fragment": {
+        "path": "alone-against-tide/fragments/185.json",
+        "sha256": "a951270b3183d98ea9bdc98c8e27399ac6cd6aca436604911bc17855b5e4f728"
+      },
+      "terminal": false
+    },
+    {
+      "id": "186",
+      "fragment": {
+        "path": "alone-against-tide/fragments/186.json",
+        "sha256": "dcb91cae6961813b9e9bc6702ca4e763e0739ec9fade019793283554d06e275d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "187",
+      "fragment": {
+        "path": "alone-against-tide/fragments/187.json",
+        "sha256": "b556d957ec4b99292e12c437c661d1a5a2800c50bdfc08cea646459365aaa0b9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "188",
+      "fragment": {
+        "path": "alone-against-tide/fragments/188.json",
+        "sha256": "b18717eba47b5f565453552e650a8fd874bdfb64e3fb4c351573bf572eae002d"
+      },
+      "terminal": false
+    },
+    {
+      "id": "189",
+      "fragment": {
+        "path": "alone-against-tide/fragments/189.json",
+        "sha256": "2508e9ef21257b1f8013959108f26ee996e3a17f45893c7af81cc31c6c75db02"
+      },
+      "terminal": false
+    },
+    {
+      "id": "190",
+      "fragment": {
+        "path": "alone-against-tide/fragments/190.json",
+        "sha256": "abdb29e01a6a399dbbef5fadf525b4002f0ff568a129bd3701aca723bcf77e49"
+      },
+      "terminal": true
+    },
+    {
+      "id": "191",
+      "fragment": {
+        "path": "alone-against-tide/fragments/191.json",
+        "sha256": "ae4960f507007c43e814731cb1592ed4d73491783508f68e534e13c4f58c76c9"
+      },
+      "terminal": false
+    },
+    {
+      "id": "192",
+      "fragment": {
+        "path": "alone-against-tide/fragments/192.json",
+        "sha256": "a2f9170e5b4a1379e606464070b0c367c1e48277450332f4151b49d1d0bd9f9a"
+      },
+      "terminal": true
+    },
+    {
+      "id": "193",
+      "fragment": {
+        "path": "alone-against-tide/fragments/193.json",
+        "sha256": "7e0b4697d07e41ba01e49b2b2f7b5201c3671edda26bf2c2a7d07fedfe014ce0"
+      },
+      "terminal": true
+    },
+    {
+      "id": "194",
+      "fragment": {
+        "path": "alone-against-tide/fragments/194.json",
+        "sha256": "be36a3ba233335c1fa0114ad56917dd433b029fe6adc93d24e756c4af76d4cee"
+      },
+      "terminal": false
+    },
+    {
+      "id": "195",
+      "fragment": {
+        "path": "alone-against-tide/fragments/195.json",
+        "sha256": "b51c61ffde7815f71c032a2054a018be25311feba767f271af82c0aa85d51c8c"
+      },
+      "terminal": false
+    },
+    {
+      "id": "196",
+      "fragment": {
+        "path": "alone-against-tide/fragments/196.json",
+        "sha256": "e6d11d978269f315e58c4bc4f8de4bc99de9807f9cf96f9a6058b9be1db95782"
+      },
+      "terminal": false
+    },
+    {
+      "id": "197",
+      "fragment": {
+        "path": "alone-against-tide/fragments/197.json",
+        "sha256": "6a8feb1e43f10b3d0fecc4c484bfefaed6b1c9fd17212ac5fb5c267df987474f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "198",
+      "fragment": {
+        "path": "alone-against-tide/fragments/198.json",
+        "sha256": "4662337ab782d7bdca20d8b5bbbf3405899b81e39f96ba82552b1bc3347ba692"
+      },
+      "terminal": true
+    },
+    {
+      "id": "199",
+      "fragment": {
+        "path": "alone-against-tide/fragments/199.json",
+        "sha256": "b043f11987b1247f297bcdc42a57873f82cbb2effbd317d364e2ac45a5446b28"
+      },
+      "terminal": true
+    },
+    {
+      "id": "200",
+      "fragment": {
+        "path": "alone-against-tide/fragments/200.json",
+        "sha256": "f8053cabc23786ddc2e22b71180e1bef33f4fbbdd4dd9d4f5232d4c6cf0630cc"
+      },
+      "terminal": false
+    },
+    {
+      "id": "201",
+      "fragment": {
+        "path": "alone-against-tide/fragments/201.json",
+        "sha256": "1593018e9a6137818e733fd956b518b3ebfc879342f4c3bf3fce0bca432944f2"
+      },
+      "terminal": false
+    },
+    {
+      "id": "202",
+      "fragment": {
+        "path": "alone-against-tide/fragments/202.json",
+        "sha256": "829474ea787878fbafb2800e2dd4cda14dfedb236ddd890b64fc2e0eade4e392"
+      },
+      "terminal": false
+    },
+    {
+      "id": "203",
+      "fragment": {
+        "path": "alone-against-tide/fragments/203.json",
+        "sha256": "207a0089aebf3f0e44e7d94062f3f33e9cffaf163d38d41a74276e55ccd5f6f4"
+      },
+      "terminal": false
+    },
+    {
+      "id": "204",
+      "fragment": {
+        "path": "alone-against-tide/fragments/204.json",
+        "sha256": "80024d2061f65dcd0784095a4a0cc0d9d48e4de151c145e99dd3c40d62949651"
+      },
+      "terminal": false
+    },
+    {
+      "id": "205",
+      "fragment": {
+        "path": "alone-against-tide/fragments/205.json",
+        "sha256": "f377ff0b1006fa55dbd2c66b27ab2bc7c6baebe89ce7b91e3dd0e6b481e53e94"
+      },
+      "terminal": false
+    },
+    {
+      "id": "206",
+      "fragment": {
+        "path": "alone-against-tide/fragments/206.json",
+        "sha256": "9d97eab7c9e59956dda07aa16fb58a953e4c40e8ae72657888bff8b6d5549698"
+      },
+      "terminal": true
+    },
+    {
+      "id": "207",
+      "fragment": {
+        "path": "alone-against-tide/fragments/207.json",
+        "sha256": "431d585be9179a6e303c847e04e993406569db7bcac0317c4e02c2d0a25420df"
+      },
+      "terminal": false
+    },
+    {
+      "id": "208",
+      "fragment": {
+        "path": "alone-against-tide/fragments/208.json",
+        "sha256": "38cfde5420f7e383fd0f7090f7fcef23025a240d46a2a88f02810543bb9e1c42"
+      },
+      "terminal": true
+    },
+    {
+      "id": "209",
+      "fragment": {
+        "path": "alone-against-tide/fragments/209.json",
+        "sha256": "1fb650aa57f576653618aa6c2355f56b8a777beb7eec77659ab2c2c2119c8d5a"
+      },
+      "terminal": true
+    },
+    {
+      "id": "210",
+      "fragment": {
+        "path": "alone-against-tide/fragments/210.json",
+        "sha256": "dc26214b9619e6b2ba2217303eee3c8f581fbd416799029524046ea8f2d1352b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "211",
+      "fragment": {
+        "path": "alone-against-tide/fragments/211.json",
+        "sha256": "8c9a093786bce54972305eb328421a3fdd796c4ed080b25ac664da54e1a874be"
+      },
+      "terminal": false
+    },
+    {
+      "id": "212",
+      "fragment": {
+        "path": "alone-against-tide/fragments/212.json",
+        "sha256": "c98824c99a03d6a6711a2a3574a96561f92d2be16804cb08ccec25b706b22b4b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "213",
+      "fragment": {
+        "path": "alone-against-tide/fragments/213.json",
+        "sha256": "58584488277bc8108d7814e14e5997de1160cbf251524c095c5785b764c38f52"
+      },
+      "terminal": true
+    },
+    {
+      "id": "214",
+      "fragment": {
+        "path": "alone-against-tide/fragments/214.json",
+        "sha256": "acda3b8b731eda8c64f4dd84e9a6e1e5d7c6b95692af589e82b7bc184b908358"
+      },
+      "terminal": false
+    },
+    {
+      "id": "215",
+      "fragment": {
+        "path": "alone-against-tide/fragments/215.json",
+        "sha256": "d762aecaaf22d281dabd365174d2a22cad4ba1a07eadf0e7f2f56daf8916fc65"
+      },
+      "terminal": false
+    },
+    {
+      "id": "216",
+      "fragment": {
+        "path": "alone-against-tide/fragments/216.json",
+        "sha256": "8ca2b6525a46cfbf4f9b659b7b482c668f9d012c21af13507e9ca843205dcaf6"
+      },
+      "terminal": false
+    },
+    {
+      "id": "217",
+      "fragment": {
+        "path": "alone-against-tide/fragments/217.json",
+        "sha256": "ae539495c9443eb4247b9b5a685faf63a07f5fe2b56da3689922afeaecac85f8"
+      },
+      "terminal": true
+    },
+    {
+      "id": "218",
+      "fragment": {
+        "path": "alone-against-tide/fragments/218.json",
+        "sha256": "2b97d3d05a4786b554313be60576b71164f41673b08c0cb43a2d4c48e7fdc486"
+      },
+      "terminal": false
+    },
+    {
+      "id": "219",
+      "fragment": {
+        "path": "alone-against-tide/fragments/219.json",
+        "sha256": "2ed5067168b8a64e019fde267735905f6c6ef99887fa7a7d4fb8ba103d0d9749"
+      },
+      "terminal": false
+    },
+    {
+      "id": "220",
+      "fragment": {
+        "path": "alone-against-tide/fragments/220.json",
+        "sha256": "84a71e52e0daf48abe57c65541bd439429a2fb4dafe8b1e9036d71b4ff91d8c6"
+      },
+      "terminal": true
+    },
+    {
+      "id": "221",
+      "fragment": {
+        "path": "alone-against-tide/fragments/221.json",
+        "sha256": "6807f095c3bb4a40bc8f8c50596bd9c50e06744fa65d6664a35d360ee5009596"
+      },
+      "terminal": true
+    },
+    {
+      "id": "222",
+      "fragment": {
+        "path": "alone-against-tide/fragments/222.json",
+        "sha256": "25ab1e978835faa2865628b65dbe2656166dbc2bb2eaa823d0b8fc38347889eb"
+      },
+      "terminal": false
+    },
+    {
+      "id": "223",
+      "fragment": {
+        "path": "alone-against-tide/fragments/223.json",
+        "sha256": "7ef5b21d9b1ec12298583a033da0c4a2ea567144a0ecf1b6f1d222bdf6df363b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "224",
+      "fragment": {
+        "path": "alone-against-tide/fragments/224.json",
+        "sha256": "d867aea50579f33e30e5839a3f3ccb8d2a2e4ba0bb2b0c96c5d932beccb61131"
+      },
+      "terminal": false
+    },
+    {
+      "id": "225",
+      "fragment": {
+        "path": "alone-against-tide/fragments/225.json",
+        "sha256": "605bf3914ae253af53277ed29db593d0f43be3a2a2485efe13657cf4f242f61c"
+      },
+      "terminal": true
+    },
+    {
+      "id": "226",
+      "fragment": {
+        "path": "alone-against-tide/fragments/226.json",
+        "sha256": "081ffae32214e132d421f746f1c1d755f831e5a400564fa3662602271c1d45d1"
+      },
+      "terminal": true
+    },
+    {
+      "id": "227",
+      "fragment": {
+        "path": "alone-against-tide/fragments/227.json",
+        "sha256": "10ec73acf1b0b372633bdd911cc408c7aa7f4857bb4b8f015b4b48d6fccf3314"
+      },
+      "terminal": true
+    },
+    {
+      "id": "228",
+      "fragment": {
+        "path": "alone-against-tide/fragments/228.json",
+        "sha256": "25c6a3ea803fba0c1cfd8c0acd6943bf099d08961fd21e5be5a9fe99dc2604bd"
+      },
+      "terminal": false
+    },
+    {
+      "id": "229",
+      "fragment": {
+        "path": "alone-against-tide/fragments/229.json",
+        "sha256": "5a471d671a01b308f5aa722970642e420170546d74bf6ff8046054279227d13b"
+      },
+      "terminal": false
+    },
+    {
+      "id": "230",
+      "fragment": {
+        "path": "alone-against-tide/fragments/230.json",
+        "sha256": "2fd63fa046c63c80a0490d6aa584d7ec19c5436db3962bd3a24979c49273d737"
+      },
+      "terminal": false
+    },
+    {
+      "id": "231",
+      "fragment": {
+        "path": "alone-against-tide/fragments/231.json",
+        "sha256": "d49ed21f92d3d7fc72a79b5e1ecbdbde39375a7f4088bfaac7eb5d1ec5046628"
+      },
+      "terminal": true
+    },
+    {
+      "id": "232",
+      "fragment": {
+        "path": "alone-against-tide/fragments/232.json",
+        "sha256": "a67d6a3a809d450ddbd172d16bc9645de8e53fbfb7fa5c0ec39ef58a64c572dd"
+      },
+      "terminal": true
+    },
+    {
+      "id": "233",
+      "fragment": {
+        "path": "alone-against-tide/fragments/233.json",
+        "sha256": "6a3cd4b703fbb76ce94e81681acd1bd21db127141490fcc8a4895364bef2e77a"
+      },
+      "terminal": true
+    },
+    {
+      "id": "234",
+      "fragment": {
+        "path": "alone-against-tide/fragments/234.json",
+        "sha256": "ba6ddeacfd84d45d1c1235403cdf353edd386316079bf841ba57d4ffd52c78eb"
+      },
+      "terminal": true
+    },
+    {
+      "id": "235",
+      "fragment": {
+        "path": "alone-against-tide/fragments/235.json",
+        "sha256": "532b807f056b400fad158efd96694670b70139506f31caa2841634df4a8ce5ab"
+      },
+      "terminal": false
+    },
+    {
+      "id": "236",
+      "fragment": {
+        "path": "alone-against-tide/fragments/236.json",
+        "sha256": "73d9639e6ffdeb6c114ccef3a55e436cd5c1204796553eeaa9e136c63dcf1ffd"
+      },
+      "terminal": true
+    },
+    {
+      "id": "237",
+      "fragment": {
+        "path": "alone-against-tide/fragments/237.json",
+        "sha256": "6ada050731a0ca710bd4b5150edf1a052e82bde70efffbaaef4d7af83f71bf85"
+      },
+      "terminal": false
+    },
+    {
+      "id": "238",
+      "fragment": {
+        "path": "alone-against-tide/fragments/238.json",
+        "sha256": "d9002b93099dbb205c8baa651c199722765e2d89d6801b5d1930ac7a46594b4a"
+      },
+      "terminal": false
+    },
+    {
+      "id": "239",
+      "fragment": {
+        "path": "alone-against-tide/fragments/239.json",
+        "sha256": "9cc260d5c7784aa77c1040b392ac2aa0f66ab6a5b6d15c12ac4498a3551305b9"
+      },
+      "terminal": true
+    },
+    {
+      "id": "240",
+      "fragment": {
+        "path": "alone-against-tide/fragments/240.json",
+        "sha256": "3ffdb4f53f09a60e7114e8b2f23cc049b72d18a74f6d6ddb17d4bd147d35af71"
+      },
+      "terminal": false
+    },
+    {
+      "id": "241",
+      "fragment": {
+        "path": "alone-against-tide/fragments/241.json",
+        "sha256": "4871b683503a6cbc006ef18e821dfa4477de265c61793caa9eeadd7f4fa5416f"
+      },
+      "terminal": true
+    },
+    {
+      "id": "242",
+      "fragment": {
+        "path": "alone-against-tide/fragments/242.json",
+        "sha256": "9d8352c9279344c154bca1ed803967beba9d4d0d230b134d8d2afd0fcfd68be7"
+      },
+      "terminal": true
+    },
+    {
+      "id": "243",
+      "fragment": {
+        "path": "alone-against-tide/fragments/243.json",
+        "sha256": "d93507865c0e6872b02083f7e98242c89870c6188545c352b516acf5dfa8d203"
+      },
+      "terminal": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "1",
+      "target": "12",
+      "paragraphId": "1:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e1",
+      "source": "2",
+      "target": "17",
+      "paragraphId": "2:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e2",
+      "source": "3",
+      "target": "15",
+      "paragraphId": "3:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 28
+    },
+    {
+      "id": "e3",
+      "source": "3",
+      "target": "26",
+      "paragraphId": "3:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 43
+    },
+    {
+      "id": "e4",
+      "source": "4",
+      "target": "27",
+      "paragraphId": "4:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e5",
+      "source": "4",
+      "target": "36",
+      "paragraphId": "4:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e6",
+      "source": "4",
+      "target": "42",
+      "paragraphId": "4:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e7",
+      "source": "4",
+      "target": "56",
+      "paragraphId": "4:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e8",
+      "source": "5",
+      "target": "55",
+      "paragraphId": "5:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e9",
+      "source": "5",
+      "target": "122",
+      "paragraphId": "5:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 94
+    },
+    {
+      "id": "e10",
+      "source": "6",
+      "target": "100",
+      "paragraphId": "6:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 58
+    },
+    {
+      "id": "e11",
+      "source": "6",
+      "target": "14",
+      "paragraphId": "6:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 83
+    },
+    {
+      "id": "e12",
+      "source": "7",
+      "target": "123",
+      "paragraphId": "7:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e13",
+      "source": "7",
+      "target": "108",
+      "paragraphId": "7:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e14",
+      "source": "7",
+      "target": "75",
+      "paragraphId": "7:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 86
+    },
+    {
+      "id": "e15",
+      "source": "7",
+      "target": "108",
+      "paragraphId": "7:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 171
+    },
+    {
+      "id": "e16",
+      "source": "7",
+      "target": "87",
+      "paragraphId": "7:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 195
+    },
+    {
+      "id": "e17",
+      "source": "8",
+      "target": "32",
+      "paragraphId": "8:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e18",
+      "source": "9",
+      "target": "106",
+      "paragraphId": "9:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e19",
+      "source": "10",
+      "target": "147",
+      "paragraphId": "10:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e20",
+      "source": "10",
+      "target": "122",
+      "paragraphId": "10:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e21",
+      "source": "10",
+      "target": "124",
+      "paragraphId": "10:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e22",
+      "source": "11",
+      "target": "46",
+      "paragraphId": "11:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 41
+    },
+    {
+      "id": "e23",
+      "source": "11",
+      "target": "101",
+      "paragraphId": "11:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 64
+    },
+    {
+      "id": "e24",
+      "source": "12",
+      "target": "80",
+      "paragraphId": "12:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e25",
+      "source": "13",
+      "target": "165",
+      "paragraphId": "13:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 39
+    },
+    {
+      "id": "e26",
+      "source": "13",
+      "target": "144",
+      "paragraphId": "13:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 63
+    },
+    {
+      "id": "e27",
+      "source": "13",
+      "target": "215",
+      "paragraphId": "13:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 166
+    },
+    {
+      "id": "e28",
+      "source": "14",
+      "target": "81",
+      "paragraphId": "14:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e29",
+      "source": "15",
+      "target": "34",
+      "paragraphId": "15:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e30",
+      "source": "15",
+      "target": "88",
+      "paragraphId": "15:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 51
+    },
+    {
+      "id": "e31",
+      "source": "15",
+      "target": "102",
+      "paragraphId": "15:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e32",
+      "source": "15",
+      "target": "60",
+      "paragraphId": "15:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e33",
+      "source": "15",
+      "target": "22",
+      "paragraphId": "15:p11",
+      "evidence": "printed-prose-number",
+      "textOffset": 51
+    },
+    {
+      "id": "e34",
+      "source": "15",
+      "target": "26",
+      "paragraphId": "15:p12",
+      "evidence": "printed-prose-number",
+      "textOffset": 63
+    },
+    {
+      "id": "e35",
+      "source": "16",
+      "target": "26",
+      "paragraphId": "16:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e36",
+      "source": "17",
+      "target": "35",
+      "paragraphId": "17:p1",
+      "evidence": "printed-prose-number",
+      "textOffset": 279
+    },
+    {
+      "id": "e37",
+      "source": "17",
+      "target": "34",
+      "paragraphId": "17:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e38",
+      "source": "17",
+      "target": "88",
+      "paragraphId": "17:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 51
+    },
+    {
+      "id": "e39",
+      "source": "17",
+      "target": "102",
+      "paragraphId": "17:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e40",
+      "source": "17",
+      "target": "60",
+      "paragraphId": "17:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e41",
+      "source": "17",
+      "target": "22",
+      "paragraphId": "17:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 51
+    },
+    {
+      "id": "e42",
+      "source": "17",
+      "target": "26",
+      "paragraphId": "17:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 63
+    },
+    {
+      "id": "e43",
+      "source": "18",
+      "target": "27",
+      "paragraphId": "18:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e44",
+      "source": "18",
+      "target": "36",
+      "paragraphId": "18:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e45",
+      "source": "18",
+      "target": "42",
+      "paragraphId": "18:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e46",
+      "source": "18",
+      "target": "66",
+      "paragraphId": "18:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e47",
+      "source": "18",
+      "target": "89",
+      "paragraphId": "18:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e48",
+      "source": "18",
+      "target": "56",
+      "paragraphId": "18:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e49",
+      "source": "19",
+      "target": "81",
+      "paragraphId": "19:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 46
+    },
+    {
+      "id": "e50",
+      "source": "20",
+      "target": "65",
+      "paragraphId": "20:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 17
+    },
+    {
+      "id": "e51",
+      "source": "20",
+      "target": "82",
+      "paragraphId": "20:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e52",
+      "source": "21",
+      "target": "179",
+      "paragraphId": "21:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 30
+    },
+    {
+      "id": "e53",
+      "source": "21",
+      "target": "136",
+      "paragraphId": "21:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 19
+    },
+    {
+      "id": "e54",
+      "source": "21",
+      "target": "151",
+      "paragraphId": "21:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 28
+    },
+    {
+      "id": "e55",
+      "source": "22",
+      "target": "43",
+      "paragraphId": "22:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e56",
+      "source": "22",
+      "target": "57",
+      "paragraphId": "22:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 60
+    },
+    {
+      "id": "e57",
+      "source": "23",
+      "target": "27",
+      "paragraphId": "23:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e58",
+      "source": "23",
+      "target": "36",
+      "paragraphId": "23:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e59",
+      "source": "23",
+      "target": "42",
+      "paragraphId": "23:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e60",
+      "source": "23",
+      "target": "66",
+      "paragraphId": "23:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e61",
+      "source": "23",
+      "target": "56",
+      "paragraphId": "23:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e62",
+      "source": "24",
+      "target": "38",
+      "paragraphId": "24:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 147
+    },
+    {
+      "id": "e63",
+      "source": "24",
+      "target": "73",
+      "paragraphId": "24:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 170
+    },
+    {
+      "id": "e64",
+      "source": "25",
+      "target": "138",
+      "paragraphId": "25:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e65",
+      "source": "26",
+      "target": "9",
+      "paragraphId": "26:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e66",
+      "source": "27",
+      "target": "3",
+      "paragraphId": "27:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e67",
+      "source": "28",
+      "target": "17",
+      "paragraphId": "28:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e68",
+      "source": "29",
+      "target": "17",
+      "paragraphId": "29:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e69",
+      "source": "30",
+      "target": "52",
+      "paragraphId": "30:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 58
+    },
+    {
+      "id": "e70",
+      "source": "30",
+      "target": "48",
+      "paragraphId": "30:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 82
+    },
+    {
+      "id": "e71",
+      "source": "31",
+      "target": "47",
+      "paragraphId": "31:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e72",
+      "source": "31",
+      "target": "98",
+      "paragraphId": "31:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 68
+    },
+    {
+      "id": "e73",
+      "source": "31",
+      "target": "20",
+      "paragraphId": "31:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 92
+    },
+    {
+      "id": "e74",
+      "source": "32",
+      "target": "74",
+      "paragraphId": "32:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 76
+    },
+    {
+      "id": "e75",
+      "source": "32",
+      "target": "62",
+      "paragraphId": "32:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 85
+    },
+    {
+      "id": "e76",
+      "source": "32",
+      "target": "128",
+      "paragraphId": "32:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 74
+    },
+    {
+      "id": "e77",
+      "source": "32",
+      "target": "8",
+      "paragraphId": "32:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 73
+    },
+    {
+      "id": "e78",
+      "source": "32",
+      "target": "11",
+      "paragraphId": "32:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 31
+    },
+    {
+      "id": "e79",
+      "source": "32",
+      "target": "153",
+      "paragraphId": "32:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e80",
+      "source": "33",
+      "target": "27",
+      "paragraphId": "33:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e81",
+      "source": "33",
+      "target": "36",
+      "paragraphId": "33:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e82",
+      "source": "33",
+      "target": "42",
+      "paragraphId": "33:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e83",
+      "source": "33",
+      "target": "66",
+      "paragraphId": "33:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e84",
+      "source": "33",
+      "target": "89",
+      "paragraphId": "33:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e85",
+      "source": "33",
+      "target": "56",
+      "paragraphId": "33:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e86",
+      "source": "34",
+      "target": "2",
+      "paragraphId": "34:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e87",
+      "source": "34",
+      "target": "44",
+      "paragraphId": "34:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 60
+    },
+    {
+      "id": "e88",
+      "source": "35",
+      "target": "70",
+      "paragraphId": "35:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e89",
+      "source": "36",
+      "target": "3",
+      "paragraphId": "36:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e90",
+      "source": "37",
+      "target": "17",
+      "paragraphId": "37:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e91",
+      "source": "38",
+      "target": "81",
+      "paragraphId": "38:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 46
+    },
+    {
+      "id": "e92",
+      "source": "39",
+      "target": "7",
+      "paragraphId": "39:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e93",
+      "source": "39",
+      "target": "68",
+      "paragraphId": "39:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e94",
+      "source": "39",
+      "target": "125",
+      "paragraphId": "39:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 20
+    },
+    {
+      "id": "e95",
+      "source": "39",
+      "target": "111",
+      "paragraphId": "39:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e96",
+      "source": "40",
+      "target": "17",
+      "paragraphId": "40:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e97",
+      "source": "41",
+      "target": "27",
+      "paragraphId": "41:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e98",
+      "source": "41",
+      "target": "36",
+      "paragraphId": "41:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e99",
+      "source": "41",
+      "target": "42",
+      "paragraphId": "41:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e100",
+      "source": "41",
+      "target": "56",
+      "paragraphId": "41:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e101",
+      "source": "42",
+      "target": "3",
+      "paragraphId": "42:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e102",
+      "source": "43",
+      "target": "17",
+      "paragraphId": "43:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e103",
+      "source": "44",
+      "target": "17",
+      "paragraphId": "44:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e104",
+      "source": "45",
+      "target": "81",
+      "paragraphId": "45:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e105",
+      "source": "46",
+      "target": "90",
+      "paragraphId": "46:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e106",
+      "source": "46",
+      "target": "122",
+      "paragraphId": "46:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e107",
+      "source": "47",
+      "target": "65",
+      "paragraphId": "47:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 17
+    },
+    {
+      "id": "e108",
+      "source": "47",
+      "target": "76",
+      "paragraphId": "47:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 138
+    },
+    {
+      "id": "e109",
+      "source": "47",
+      "target": "82",
+      "paragraphId": "47:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 162
+    },
+    {
+      "id": "e110",
+      "source": "48",
+      "target": "81",
+      "paragraphId": "48:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e111",
+      "source": "49",
+      "target": "7",
+      "paragraphId": "49:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e112",
+      "source": "49",
+      "target": "68",
+      "paragraphId": "49:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e113",
+      "source": "49",
+      "target": "125",
+      "paragraphId": "49:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 20
+    },
+    {
+      "id": "e114",
+      "source": "49",
+      "target": "111",
+      "paragraphId": "49:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e115",
+      "source": "50",
+      "target": "167",
+      "paragraphId": "50:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 36
+    },
+    {
+      "id": "e116",
+      "source": "50",
+      "target": "232",
+      "paragraphId": "50:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 60
+    },
+    {
+      "id": "e117",
+      "source": "51",
+      "target": "174",
+      "paragraphId": "51:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e118",
+      "source": "51",
+      "target": "139",
+      "paragraphId": "51:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 100
+    },
+    {
+      "id": "e119",
+      "source": "52",
+      "target": "81",
+      "paragraphId": "52:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 46
+    },
+    {
+      "id": "e120",
+      "source": "53",
+      "target": "7",
+      "paragraphId": "53:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e121",
+      "source": "53",
+      "target": "141",
+      "paragraphId": "53:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 25
+    },
+    {
+      "id": "e122",
+      "source": "54",
+      "target": "7",
+      "paragraphId": "54:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e123",
+      "source": "54",
+      "target": "122",
+      "paragraphId": "54:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e124",
+      "source": "54",
+      "target": "158",
+      "paragraphId": "54:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e125",
+      "source": "55",
+      "target": "126",
+      "paragraphId": "55:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 42
+    },
+    {
+      "id": "e126",
+      "source": "55",
+      "target": "31",
+      "paragraphId": "55:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 66
+    },
+    {
+      "id": "e127",
+      "source": "56",
+      "target": "3",
+      "paragraphId": "56:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e128",
+      "source": "57",
+      "target": "17",
+      "paragraphId": "57:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e129",
+      "source": "58",
+      "target": "64",
+      "paragraphId": "58:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 58
+    },
+    {
+      "id": "e130",
+      "source": "58",
+      "target": "94",
+      "paragraphId": "58:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 82
+    },
+    {
+      "id": "e131",
+      "source": "59",
+      "target": "81",
+      "paragraphId": "59:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e132",
+      "source": "60",
+      "target": "28",
+      "paragraphId": "60:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 43
+    },
+    {
+      "id": "e133",
+      "source": "60",
+      "target": "40",
+      "paragraphId": "60:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 66
+    },
+    {
+      "id": "e134",
+      "source": "61",
+      "target": "81",
+      "paragraphId": "61:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e135",
+      "source": "62",
+      "target": "32",
+      "paragraphId": "62:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e136",
+      "source": "63",
+      "target": "27",
+      "paragraphId": "63:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e137",
+      "source": "63",
+      "target": "36",
+      "paragraphId": "63:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e138",
+      "source": "63",
+      "target": "42",
+      "paragraphId": "63:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e139",
+      "source": "63",
+      "target": "66",
+      "paragraphId": "63:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e140",
+      "source": "63",
+      "target": "89",
+      "paragraphId": "63:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e141",
+      "source": "63",
+      "target": "56",
+      "paragraphId": "63:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e142",
+      "source": "64",
+      "target": "81",
+      "paragraphId": "64:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 46
+    },
+    {
+      "id": "e143",
+      "source": "65",
+      "target": "84",
+      "paragraphId": "65:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e144",
+      "source": "65",
+      "target": "107",
+      "paragraphId": "65:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 63
+    },
+    {
+      "id": "e145",
+      "source": "65",
+      "target": "84",
+      "paragraphId": "65:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 88
+    },
+    {
+      "id": "e146",
+      "source": "65",
+      "target": "127",
+      "paragraphId": "65:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 81
+    },
+    {
+      "id": "e147",
+      "source": "65",
+      "target": "84",
+      "paragraphId": "65:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 105
+    },
+    {
+      "id": "e148",
+      "source": "66",
+      "target": "3",
+      "paragraphId": "66:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e149",
+      "source": "67",
+      "target": "122",
+      "paragraphId": "67:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e150",
+      "source": "68",
+      "target": "91",
+      "paragraphId": "68:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e151",
+      "source": "68",
+      "target": "53",
+      "paragraphId": "68:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 99
+    },
+    {
+      "id": "e152",
+      "source": "70",
+      "target": "45",
+      "paragraphId": "70:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 66
+    },
+    {
+      "id": "e153",
+      "source": "70",
+      "target": "61",
+      "paragraphId": "70:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 90
+    },
+    {
+      "id": "e154",
+      "source": "71",
+      "target": "27",
+      "paragraphId": "71:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e155",
+      "source": "71",
+      "target": "42",
+      "paragraphId": "71:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e156",
+      "source": "71",
+      "target": "66",
+      "paragraphId": "71:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e157",
+      "source": "71",
+      "target": "56",
+      "paragraphId": "71:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e158",
+      "source": "72",
+      "target": "17",
+      "paragraphId": "72:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e159",
+      "source": "73",
+      "target": "81",
+      "paragraphId": "73:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e160",
+      "source": "74",
+      "target": "32",
+      "paragraphId": "74:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e161",
+      "source": "75",
+      "target": "140",
+      "paragraphId": "75:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e162",
+      "source": "76",
+      "target": "49",
+      "paragraphId": "76:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 109
+    },
+    {
+      "id": "e163",
+      "source": "76",
+      "target": "99",
+      "paragraphId": "76:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 133
+    },
+    {
+      "id": "e164",
+      "source": "76",
+      "target": "85",
+      "paragraphId": "76:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 73
+    },
+    {
+      "id": "e165",
+      "source": "76",
+      "target": "39",
+      "paragraphId": "76:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 96
+    },
+    {
+      "id": "e166",
+      "source": "76",
+      "target": "7",
+      "paragraphId": "76:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e167",
+      "source": "76",
+      "target": "68",
+      "paragraphId": "76:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e168",
+      "source": "76",
+      "target": "111",
+      "paragraphId": "76:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e169",
+      "source": "77",
+      "target": "140",
+      "paragraphId": "77:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e170",
+      "source": "78",
+      "target": "160",
+      "paragraphId": "78:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e171",
+      "source": "79",
+      "target": "114",
+      "paragraphId": "79:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e172",
+      "source": "79",
+      "target": "131",
+      "paragraphId": "79:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 62
+    },
+    {
+      "id": "e173",
+      "source": "80",
+      "target": "104",
+      "paragraphId": "80:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 29
+    },
+    {
+      "id": "e174",
+      "source": "80",
+      "target": "18",
+      "paragraphId": "80:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e175",
+      "source": "80",
+      "target": "71",
+      "paragraphId": "80:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e176",
+      "source": "80",
+      "target": "33",
+      "paragraphId": "80:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e177",
+      "source": "80",
+      "target": "63",
+      "paragraphId": "80:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e178",
+      "source": "80",
+      "target": "4",
+      "paragraphId": "80:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e179",
+      "source": "80",
+      "target": "41",
+      "paragraphId": "80:p11",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e180",
+      "source": "80",
+      "target": "23",
+      "paragraphId": "80:p12",
+      "evidence": "printed-prose-number",
+      "textOffset": 64
+    },
+    {
+      "id": "e181",
+      "source": "81",
+      "target": "24",
+      "paragraphId": "81:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e182",
+      "source": "81",
+      "target": "103",
+      "paragraphId": "81:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e183",
+      "source": "81",
+      "target": "58",
+      "paragraphId": "81:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e184",
+      "source": "81",
+      "target": "6",
+      "paragraphId": "81:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 25
+    },
+    {
+      "id": "e185",
+      "source": "81",
+      "target": "30",
+      "paragraphId": "81:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e186",
+      "source": "81",
+      "target": "92",
+      "paragraphId": "81:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 30
+    },
+    {
+      "id": "e187",
+      "source": "81",
+      "target": "16",
+      "paragraphId": "81:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 64
+    },
+    {
+      "id": "e188",
+      "source": "83",
+      "target": "173",
+      "paragraphId": "83:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 40
+    },
+    {
+      "id": "e189",
+      "source": "83",
+      "target": "166",
+      "paragraphId": "83:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e190",
+      "source": "83",
+      "target": "200",
+      "paragraphId": "83:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e191",
+      "source": "85",
+      "target": "7",
+      "paragraphId": "85:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e192",
+      "source": "85",
+      "target": "68",
+      "paragraphId": "85:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e193",
+      "source": "85",
+      "target": "125",
+      "paragraphId": "85:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 20
+    },
+    {
+      "id": "e194",
+      "source": "85",
+      "target": "111",
+      "paragraphId": "85:p11",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e195",
+      "source": "86",
+      "target": "81",
+      "paragraphId": "86:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 47
+    },
+    {
+      "id": "e196",
+      "source": "87",
+      "target": "140",
+      "paragraphId": "87:p1",
+      "evidence": "printed-prose-number",
+      "textOffset": 359
+    },
+    {
+      "id": "e197",
+      "source": "88",
+      "target": "105",
+      "paragraphId": "88:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 42
+    },
+    {
+      "id": "e198",
+      "source": "88",
+      "target": "29",
+      "paragraphId": "88:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 66
+    },
+    {
+      "id": "e199",
+      "source": "89",
+      "target": "3",
+      "paragraphId": "89:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e200",
+      "source": "90",
+      "target": "5",
+      "paragraphId": "90:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 25
+    },
+    {
+      "id": "e201",
+      "source": "90",
+      "target": "55",
+      "paragraphId": "90:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 40
+    },
+    {
+      "id": "e202",
+      "source": "90",
+      "target": "122",
+      "paragraphId": "90:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 47
+    },
+    {
+      "id": "e203",
+      "source": "91",
+      "target": "7",
+      "paragraphId": "91:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e204",
+      "source": "91",
+      "target": "141",
+      "paragraphId": "91:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 25
+    },
+    {
+      "id": "e205",
+      "source": "92",
+      "target": "86",
+      "paragraphId": "92:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 155
+    },
+    {
+      "id": "e206",
+      "source": "92",
+      "target": "154",
+      "paragraphId": "92:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 178
+    },
+    {
+      "id": "e207",
+      "source": "93",
+      "target": "156",
+      "paragraphId": "93:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e208",
+      "source": "93",
+      "target": "202",
+      "paragraphId": "93:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 28
+    },
+    {
+      "id": "e209",
+      "source": "94",
+      "target": "81",
+      "paragraphId": "94:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e210",
+      "source": "96",
+      "target": "138",
+      "paragraphId": "96:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 315
+    },
+    {
+      "id": "e211",
+      "source": "97",
+      "target": "13",
+      "paragraphId": "97:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e212",
+      "source": "98",
+      "target": "67",
+      "paragraphId": "98:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e213",
+      "source": "98",
+      "target": "110",
+      "paragraphId": "98:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e214",
+      "source": "99",
+      "target": "85",
+      "paragraphId": "99:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 73
+    },
+    {
+      "id": "e215",
+      "source": "99",
+      "target": "39",
+      "paragraphId": "99:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 96
+    },
+    {
+      "id": "e216",
+      "source": "99",
+      "target": "7",
+      "paragraphId": "99:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e217",
+      "source": "99",
+      "target": "68",
+      "paragraphId": "99:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e218",
+      "source": "99",
+      "target": "125",
+      "paragraphId": "99:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 57
+    },
+    {
+      "id": "e219",
+      "source": "99",
+      "target": "111",
+      "paragraphId": "99:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e220",
+      "source": "100",
+      "target": "81",
+      "paragraphId": "100:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 46
+    },
+    {
+      "id": "e221",
+      "source": "101",
+      "target": "90",
+      "paragraphId": "101:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 31
+    },
+    {
+      "id": "e222",
+      "source": "101",
+      "target": "122",
+      "paragraphId": "101:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e223",
+      "source": "102",
+      "target": "72",
+      "paragraphId": "102:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 45
+    },
+    {
+      "id": "e224",
+      "source": "102",
+      "target": "37",
+      "paragraphId": "102:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 69
+    },
+    {
+      "id": "e225",
+      "source": "103",
+      "target": "19",
+      "paragraphId": "103:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 147
+    },
+    {
+      "id": "e226",
+      "source": "103",
+      "target": "59",
+      "paragraphId": "103:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 170
+    },
+    {
+      "id": "e227",
+      "source": "104",
+      "target": "27",
+      "paragraphId": "104:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e228",
+      "source": "104",
+      "target": "42",
+      "paragraphId": "104:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e229",
+      "source": "104",
+      "target": "66",
+      "paragraphId": "104:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e230",
+      "source": "104",
+      "target": "89",
+      "paragraphId": "104:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e231",
+      "source": "104",
+      "target": "56",
+      "paragraphId": "104:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e232",
+      "source": "105",
+      "target": "17",
+      "paragraphId": "105:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e233",
+      "source": "106",
+      "target": "11",
+      "paragraphId": "106:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 31
+    },
+    {
+      "id": "e234",
+      "source": "106",
+      "target": "32",
+      "paragraphId": "106:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e235",
+      "source": "106",
+      "target": "153",
+      "paragraphId": "106:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e236",
+      "source": "107",
+      "target": "10",
+      "paragraphId": "107:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 39
+    },
+    {
+      "id": "e237",
+      "source": "107",
+      "target": "146",
+      "paragraphId": "107:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 62
+    },
+    {
+      "id": "e238",
+      "source": "108",
+      "target": "235",
+      "paragraphId": "108:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 165
+    },
+    {
+      "id": "e239",
+      "source": "108",
+      "target": "140",
+      "paragraphId": "108:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e240",
+      "source": "109",
+      "target": "134",
+      "paragraphId": "109:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e241",
+      "source": "109",
+      "target": "148",
+      "paragraphId": "109:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 34
+    },
+    {
+      "id": "e242",
+      "source": "109",
+      "target": "124",
+      "paragraphId": "109:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 17
+    },
+    {
+      "id": "e243",
+      "source": "110",
+      "target": "123",
+      "paragraphId": "110:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e244",
+      "source": "110",
+      "target": "108",
+      "paragraphId": "110:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e245",
+      "source": "110",
+      "target": "75",
+      "paragraphId": "110:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 86
+    },
+    {
+      "id": "e246",
+      "source": "110",
+      "target": "108",
+      "paragraphId": "110:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 171
+    },
+    {
+      "id": "e247",
+      "source": "110",
+      "target": "87",
+      "paragraphId": "110:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 195
+    },
+    {
+      "id": "e248",
+      "source": "111",
+      "target": "122",
+      "paragraphId": "111:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e249",
+      "source": "112",
+      "target": "143",
+      "paragraphId": "112:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e250",
+      "source": "112",
+      "target": "152",
+      "paragraphId": "112:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 73
+    },
+    {
+      "id": "e251",
+      "source": "114",
+      "target": "165",
+      "paragraphId": "114:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 36
+    },
+    {
+      "id": "e252",
+      "source": "114",
+      "target": "149",
+      "paragraphId": "114:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 60
+    },
+    {
+      "id": "e253",
+      "source": "115",
+      "target": "133",
+      "paragraphId": "115:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e254",
+      "source": "115",
+      "target": "180",
+      "paragraphId": "115:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 73
+    },
+    {
+      "id": "e255",
+      "source": "118",
+      "target": "140",
+      "paragraphId": "118:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e256",
+      "source": "119",
+      "target": "175",
+      "paragraphId": "119:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 36
+    },
+    {
+      "id": "e257",
+      "source": "119",
+      "target": "18",
+      "paragraphId": "119:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 100
+    },
+    {
+      "id": "e258",
+      "source": "120",
+      "target": "179",
+      "paragraphId": "120:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 30
+    },
+    {
+      "id": "e259",
+      "source": "120",
+      "target": "151",
+      "paragraphId": "120:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 41
+    },
+    {
+      "id": "e260",
+      "source": "121",
+      "target": "93",
+      "paragraphId": "121:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e261",
+      "source": "121",
+      "target": "168",
+      "paragraphId": "121:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 110
+    },
+    {
+      "id": "e262",
+      "source": "122",
+      "target": "109",
+      "paragraphId": "122:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 25
+    },
+    {
+      "id": "e263",
+      "source": "122",
+      "target": "142",
+      "paragraphId": "122:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 18
+    },
+    {
+      "id": "e264",
+      "source": "123",
+      "target": "77",
+      "paragraphId": "123:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 71
+    },
+    {
+      "id": "e265",
+      "source": "123",
+      "target": "118",
+      "paragraphId": "123:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 94
+    },
+    {
+      "id": "e266",
+      "source": "123",
+      "target": "140",
+      "paragraphId": "123:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 21
+    },
+    {
+      "id": "e267",
+      "source": "124",
+      "target": "158",
+      "paragraphId": "124:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e268",
+      "source": "125",
+      "target": "145",
+      "paragraphId": "125:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e269",
+      "source": "125",
+      "target": "96",
+      "paragraphId": "125:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 103
+    },
+    {
+      "id": "e270",
+      "source": "126",
+      "target": "47",
+      "paragraphId": "126:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e271",
+      "source": "126",
+      "target": "98",
+      "paragraphId": "126:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 68
+    },
+    {
+      "id": "e272",
+      "source": "126",
+      "target": "20",
+      "paragraphId": "126:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 92
+    },
+    {
+      "id": "e273",
+      "source": "127",
+      "target": "122",
+      "paragraphId": "127:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e274",
+      "source": "128",
+      "target": "32",
+      "paragraphId": "128:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e275",
+      "source": "129",
+      "target": "138",
+      "paragraphId": "129:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e276",
+      "source": "130",
+      "target": "7",
+      "paragraphId": "130:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e277",
+      "source": "130",
+      "target": "160",
+      "paragraphId": "130:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e278",
+      "source": "130",
+      "target": "122",
+      "paragraphId": "130:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e279",
+      "source": "130",
+      "target": "158",
+      "paragraphId": "130:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e280",
+      "source": "131",
+      "target": "171",
+      "paragraphId": "131:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e281",
+      "source": "131",
+      "target": "162",
+      "paragraphId": "131:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e282",
+      "source": "132",
+      "target": "21",
+      "paragraphId": "132:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 247
+    },
+    {
+      "id": "e283",
+      "source": "132",
+      "target": "152",
+      "paragraphId": "132:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 309
+    },
+    {
+      "id": "e284",
+      "source": "133",
+      "target": "210",
+      "paragraphId": "133:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e285",
+      "source": "133",
+      "target": "181",
+      "paragraphId": "133:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e286",
+      "source": "134",
+      "target": "142",
+      "paragraphId": "134:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e287",
+      "source": "134",
+      "target": "79",
+      "paragraphId": "134:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 30
+    },
+    {
+      "id": "e288",
+      "source": "135",
+      "target": "171",
+      "paragraphId": "135:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e289",
+      "source": "135",
+      "target": "162",
+      "paragraphId": "135:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e290",
+      "source": "136",
+      "target": "131",
+      "paragraphId": "136:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e291",
+      "source": "138",
+      "target": "115",
+      "paragraphId": "138:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e292",
+      "source": "138",
+      "target": "69",
+      "paragraphId": "138:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e293",
+      "source": "139",
+      "target": "229",
+      "paragraphId": "139:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 40
+    },
+    {
+      "id": "e294",
+      "source": "139",
+      "target": "170",
+      "paragraphId": "139:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 64
+    },
+    {
+      "id": "e295",
+      "source": "140",
+      "target": "132",
+      "paragraphId": "140:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e296",
+      "source": "140",
+      "target": "96",
+      "paragraphId": "140:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 103
+    },
+    {
+      "id": "e297",
+      "source": "141",
+      "target": "112",
+      "paragraphId": "141:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e298",
+      "source": "141",
+      "target": "155",
+      "paragraphId": "141:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 103
+    },
+    {
+      "id": "e299",
+      "source": "142",
+      "target": "97",
+      "paragraphId": "142:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 100
+    },
+    {
+      "id": "e300",
+      "source": "142",
+      "target": "129",
+      "paragraphId": "142:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 162
+    },
+    {
+      "id": "e301",
+      "source": "142",
+      "target": "78",
+      "paragraphId": "142:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 110
+    },
+    {
+      "id": "e302",
+      "source": "142",
+      "target": "129",
+      "paragraphId": "142:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 172
+    },
+    {
+      "id": "e303",
+      "source": "143",
+      "target": "151",
+      "paragraphId": "143:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e304",
+      "source": "143",
+      "target": "136",
+      "paragraphId": "143:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e305",
+      "source": "144",
+      "target": "157",
+      "paragraphId": "144:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e306",
+      "source": "144",
+      "target": "25",
+      "paragraphId": "144:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e307",
+      "source": "145",
+      "target": "120",
+      "paragraphId": "145:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 50
+    },
+    {
+      "id": "e308",
+      "source": "145",
+      "target": "96",
+      "paragraphId": "145:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 116
+    },
+    {
+      "id": "e309",
+      "source": "146",
+      "target": "82",
+      "paragraphId": "146:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e310",
+      "source": "147",
+      "target": "7",
+      "paragraphId": "147:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 29
+    },
+    {
+      "id": "e311",
+      "source": "147",
+      "target": "164",
+      "paragraphId": "147:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 20
+    },
+    {
+      "id": "e312",
+      "source": "148",
+      "target": "131",
+      "paragraphId": "148:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e313",
+      "source": "149",
+      "target": "131",
+      "paragraphId": "149:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e314",
+      "source": "151",
+      "target": "156",
+      "paragraphId": "151:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e315",
+      "source": "151",
+      "target": "202",
+      "paragraphId": "151:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 28
+    },
+    {
+      "id": "e316",
+      "source": "153",
+      "target": "11",
+      "paragraphId": "153:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 31
+    },
+    {
+      "id": "e317",
+      "source": "153",
+      "target": "122",
+      "paragraphId": "153:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e318",
+      "source": "154",
+      "target": "81",
+      "paragraphId": "154:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e319",
+      "source": "155",
+      "target": "138",
+      "paragraphId": "155:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e320",
+      "source": "156",
+      "target": "210",
+      "paragraphId": "156:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e321",
+      "source": "156",
+      "target": "181",
+      "paragraphId": "156:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e322",
+      "source": "157",
+      "target": "121",
+      "paragraphId": "157:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e323",
+      "source": "157",
+      "target": "176",
+      "paragraphId": "157:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e324",
+      "source": "158",
+      "target": "119",
+      "paragraphId": "158:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 40
+    },
+    {
+      "id": "e325",
+      "source": "158",
+      "target": "51",
+      "paragraphId": "158:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 64
+    },
+    {
+      "id": "e326",
+      "source": "159",
+      "target": "184",
+      "paragraphId": "159:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e327",
+      "source": "159",
+      "target": "233",
+      "paragraphId": "159:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e328",
+      "source": "160",
+      "target": "165",
+      "paragraphId": "160:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 39
+    },
+    {
+      "id": "e329",
+      "source": "160",
+      "target": "144",
+      "paragraphId": "160:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 63
+    },
+    {
+      "id": "e330",
+      "source": "161",
+      "target": "222",
+      "paragraphId": "161:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e331",
+      "source": "162",
+      "target": "177",
+      "paragraphId": "162:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 77
+    },
+    {
+      "id": "e332",
+      "source": "162",
+      "target": "95",
+      "paragraphId": "162:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 100
+    },
+    {
+      "id": "e333",
+      "source": "162",
+      "target": "177",
+      "paragraphId": "162:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 154
+    },
+    {
+      "id": "e334",
+      "source": "162",
+      "target": "95",
+      "paragraphId": "162:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 178
+    },
+    {
+      "id": "e335",
+      "source": "162",
+      "target": "177",
+      "paragraphId": "162:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 120
+    },
+    {
+      "id": "e336",
+      "source": "162",
+      "target": "95",
+      "paragraphId": "162:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 146
+    },
+    {
+      "id": "e337",
+      "source": "162",
+      "target": "177",
+      "paragraphId": "162:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 155
+    },
+    {
+      "id": "e338",
+      "source": "162",
+      "target": "95",
+      "paragraphId": "162:p10",
+      "evidence": "printed-prose-number",
+      "textOffset": 179
+    },
+    {
+      "id": "e339",
+      "source": "162",
+      "target": "243",
+      "paragraphId": "162:p11",
+      "evidence": "printed-prose-number",
+      "textOffset": 44
+    },
+    {
+      "id": "e340",
+      "source": "162",
+      "target": "83",
+      "paragraphId": "162:p12",
+      "evidence": "printed-prose-number",
+      "textOffset": 89
+    },
+    {
+      "id": "e341",
+      "source": "162",
+      "target": "113",
+      "paragraphId": "162:p12",
+      "evidence": "printed-prose-number",
+      "textOffset": 112
+    },
+    {
+      "id": "e342",
+      "source": "162",
+      "target": "83",
+      "paragraphId": "162:p14",
+      "evidence": "printed-prose-number",
+      "textOffset": 104
+    },
+    {
+      "id": "e343",
+      "source": "162",
+      "target": "113",
+      "paragraphId": "162:p14",
+      "evidence": "printed-prose-number",
+      "textOffset": 127
+    },
+    {
+      "id": "e344",
+      "source": "162",
+      "target": "83",
+      "paragraphId": "162:p15",
+      "evidence": "printed-prose-number",
+      "textOffset": 92
+    },
+    {
+      "id": "e345",
+      "source": "162",
+      "target": "113",
+      "paragraphId": "162:p15",
+      "evidence": "printed-prose-number",
+      "textOffset": 115
+    },
+    {
+      "id": "e346",
+      "source": "163",
+      "target": "185",
+      "paragraphId": "163:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 102
+    },
+    {
+      "id": "e347",
+      "source": "163",
+      "target": "209",
+      "paragraphId": "163:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 126
+    },
+    {
+      "id": "e348",
+      "source": "164",
+      "target": "54",
+      "paragraphId": "164:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e349",
+      "source": "164",
+      "target": "130",
+      "paragraphId": "164:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 23
+    },
+    {
+      "id": "e350",
+      "source": "165",
+      "target": "156",
+      "paragraphId": "165:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 27
+    },
+    {
+      "id": "e351",
+      "source": "165",
+      "target": "202",
+      "paragraphId": "165:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 28
+    },
+    {
+      "id": "e352",
+      "source": "166",
+      "target": "186",
+      "paragraphId": "166:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e353",
+      "source": "166",
+      "target": "208",
+      "paragraphId": "166:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e354",
+      "source": "167",
+      "target": "184",
+      "paragraphId": "167:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e355",
+      "source": "167",
+      "target": "198",
+      "paragraphId": "167:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e356",
+      "source": "168",
+      "target": "138",
+      "paragraphId": "168:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e357",
+      "source": "169",
+      "target": "228",
+      "paragraphId": "169:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e358",
+      "source": "169",
+      "target": "214",
+      "paragraphId": "169:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 98
+    },
+    {
+      "id": "e359",
+      "source": "170",
+      "target": "163",
+      "paragraphId": "170:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e360",
+      "source": "170",
+      "target": "193",
+      "paragraphId": "170:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e361",
+      "source": "171",
+      "target": "137",
+      "paragraphId": "171:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 34
+    },
+    {
+      "id": "e362",
+      "source": "171",
+      "target": "194",
+      "paragraphId": "171:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 44
+    },
+    {
+      "id": "e363",
+      "source": "171",
+      "target": "200",
+      "paragraphId": "171:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e364",
+      "source": "172",
+      "target": "222",
+      "paragraphId": "172:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e365",
+      "source": "173",
+      "target": "217",
+      "paragraphId": "173:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 70
+    },
+    {
+      "id": "e366",
+      "source": "173",
+      "target": "192",
+      "paragraphId": "173:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 94
+    },
+    {
+      "id": "e367",
+      "source": "173",
+      "target": "225",
+      "paragraphId": "173:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e368",
+      "source": "174",
+      "target": "189",
+      "paragraphId": "174:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 139
+    },
+    {
+      "id": "e369",
+      "source": "174",
+      "target": "201",
+      "paragraphId": "174:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 164
+    },
+    {
+      "id": "e370",
+      "source": "175",
+      "target": "206",
+      "paragraphId": "175:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 139
+    },
+    {
+      "id": "e371",
+      "source": "175",
+      "target": "224",
+      "paragraphId": "175:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 164
+    },
+    {
+      "id": "e372",
+      "source": "177",
+      "target": "223",
+      "paragraphId": "177:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 42
+    },
+    {
+      "id": "e373",
+      "source": "177",
+      "target": "166",
+      "paragraphId": "177:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 46
+    },
+    {
+      "id": "e374",
+      "source": "177",
+      "target": "200",
+      "paragraphId": "177:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 76
+    },
+    {
+      "id": "e375",
+      "source": "178",
+      "target": "235",
+      "paragraphId": "178:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 164
+    },
+    {
+      "id": "e376",
+      "source": "178",
+      "target": "210",
+      "paragraphId": "178:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e377",
+      "source": "179",
+      "target": "207",
+      "paragraphId": "179:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 24
+    },
+    {
+      "id": "e378",
+      "source": "179",
+      "target": "188",
+      "paragraphId": "179:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e379",
+      "source": "179",
+      "target": "161",
+      "paragraphId": "179:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 86
+    },
+    {
+      "id": "e380",
+      "source": "181",
+      "target": "211",
+      "paragraphId": "181:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 68
+    },
+    {
+      "id": "e381",
+      "source": "181",
+      "target": "194",
+      "paragraphId": "181:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 36
+    },
+    {
+      "id": "e382",
+      "source": "183",
+      "target": "50",
+      "paragraphId": "183:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e383",
+      "source": "183",
+      "target": "197",
+      "paragraphId": "183:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 58
+    },
+    {
+      "id": "e384",
+      "source": "185",
+      "target": "191",
+      "paragraphId": "185:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e385",
+      "source": "185",
+      "target": "221",
+      "paragraphId": "185:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e386",
+      "source": "186",
+      "target": "50",
+      "paragraphId": "186:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e387",
+      "source": "187",
+      "target": "206",
+      "paragraphId": "187:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 139
+    },
+    {
+      "id": "e388",
+      "source": "187",
+      "target": "224",
+      "paragraphId": "187:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 164
+    },
+    {
+      "id": "e389",
+      "source": "188",
+      "target": "235",
+      "paragraphId": "188:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 165
+    },
+    {
+      "id": "e390",
+      "source": "188",
+      "target": "222",
+      "paragraphId": "188:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e391",
+      "source": "189",
+      "target": "184",
+      "paragraphId": "189:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e392",
+      "source": "189",
+      "target": "198",
+      "paragraphId": "189:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e393",
+      "source": "191",
+      "target": "213",
+      "paragraphId": "191:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 70
+    },
+    {
+      "id": "e394",
+      "source": "191",
+      "target": "226",
+      "paragraphId": "191:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 94
+    },
+    {
+      "id": "e395",
+      "source": "191",
+      "target": "231",
+      "paragraphId": "191:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e396",
+      "source": "194",
+      "target": "183",
+      "paragraphId": "194:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e397",
+      "source": "194",
+      "target": "199",
+      "paragraphId": "194:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e398",
+      "source": "195",
+      "target": "210",
+      "paragraphId": "195:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e399",
+      "source": "196",
+      "target": "150",
+      "paragraphId": "196:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 13
+    },
+    {
+      "id": "e400",
+      "source": "200",
+      "target": "238",
+      "paragraphId": "200:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 36
+    },
+    {
+      "id": "e401",
+      "source": "200",
+      "target": "169",
+      "paragraphId": "200:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 60
+    },
+    {
+      "id": "e402",
+      "source": "201",
+      "target": "191",
+      "paragraphId": "201:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e403",
+      "source": "201",
+      "target": "221",
+      "paragraphId": "201:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e404",
+      "source": "202",
+      "target": "156",
+      "paragraphId": "202:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 31
+    },
+    {
+      "id": "e405",
+      "source": "202",
+      "target": "181",
+      "paragraphId": "202:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e406",
+      "source": "203",
+      "target": "222",
+      "paragraphId": "203:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e407",
+      "source": "204",
+      "target": "210",
+      "paragraphId": "204:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 55
+    },
+    {
+      "id": "e408",
+      "source": "205",
+      "target": "219",
+      "paragraphId": "205:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e409",
+      "source": "205",
+      "target": "234",
+      "paragraphId": "205:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e410",
+      "source": "207",
+      "target": "203",
+      "paragraphId": "207:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 71
+    },
+    {
+      "id": "e411",
+      "source": "207",
+      "target": "172",
+      "paragraphId": "207:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 95
+    },
+    {
+      "id": "e412",
+      "source": "207",
+      "target": "222",
+      "paragraphId": "207:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 21
+    },
+    {
+      "id": "e413",
+      "source": "210",
+      "target": "240",
+      "paragraphId": "210:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 40
+    },
+    {
+      "id": "e414",
+      "source": "210",
+      "target": "218",
+      "paragraphId": "210:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 47
+    },
+    {
+      "id": "e415",
+      "source": "210",
+      "target": "230",
+      "paragraphId": "210:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 47
+    },
+    {
+      "id": "e416",
+      "source": "210",
+      "target": "195",
+      "paragraphId": "210:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e417",
+      "source": "210",
+      "target": "202",
+      "paragraphId": "210:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e418",
+      "source": "210",
+      "target": "181",
+      "paragraphId": "210:p9",
+      "evidence": "printed-prose-number",
+      "textOffset": 22
+    },
+    {
+      "id": "e419",
+      "source": "211",
+      "target": "150",
+      "paragraphId": "211:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 13
+    },
+    {
+      "id": "e420",
+      "source": "212",
+      "target": "159",
+      "paragraphId": "212:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e421",
+      "source": "212",
+      "target": "182",
+      "paragraphId": "212:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e422",
+      "source": "214",
+      "target": "237",
+      "paragraphId": "214:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 35
+    },
+    {
+      "id": "e423",
+      "source": "214",
+      "target": "117",
+      "paragraphId": "214:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 59
+    },
+    {
+      "id": "e424",
+      "source": "215",
+      "target": "227",
+      "paragraphId": "215:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e425",
+      "source": "215",
+      "target": "236",
+      "paragraphId": "215:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 54
+    },
+    {
+      "id": "e426",
+      "source": "216",
+      "target": "116",
+      "paragraphId": "216:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 111
+    },
+    {
+      "id": "e427",
+      "source": "216",
+      "target": "242",
+      "paragraphId": "216:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 135
+    },
+    {
+      "id": "e428",
+      "source": "218",
+      "target": "204",
+      "paragraphId": "218:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 44
+    },
+    {
+      "id": "e429",
+      "source": "218",
+      "target": "210",
+      "paragraphId": "218:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 113
+    },
+    {
+      "id": "e430",
+      "source": "219",
+      "target": "239",
+      "paragraphId": "219:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e431",
+      "source": "219",
+      "target": "234",
+      "paragraphId": "219:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 48
+    },
+    {
+      "id": "e432",
+      "source": "222",
+      "target": "151",
+      "paragraphId": "222:p2",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e433",
+      "source": "222",
+      "target": "135",
+      "paragraphId": "222:p3",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e434",
+      "source": "223",
+      "target": "173",
+      "paragraphId": "223:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e435",
+      "source": "223",
+      "target": "200",
+      "paragraphId": "223:p7",
+      "evidence": "printed-prose-number",
+      "textOffset": 26
+    },
+    {
+      "id": "e436",
+      "source": "223",
+      "target": "166",
+      "paragraphId": "223:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 33
+    },
+    {
+      "id": "e437",
+      "source": "224",
+      "target": "190",
+      "paragraphId": "224:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 38
+    },
+    {
+      "id": "e438",
+      "source": "224",
+      "target": "212",
+      "paragraphId": "224:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 62
+    },
+    {
+      "id": "e439",
+      "source": "228",
+      "target": "196",
+      "paragraphId": "228:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e440",
+      "source": "229",
+      "target": "191",
+      "paragraphId": "229:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 37
+    },
+    {
+      "id": "e441",
+      "source": "229",
+      "target": "221",
+      "paragraphId": "229:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 61
+    },
+    {
+      "id": "e442",
+      "source": "230",
+      "target": "178",
+      "paragraphId": "230:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 44
+    },
+    {
+      "id": "e443",
+      "source": "230",
+      "target": "210",
+      "paragraphId": "230:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 133
+    },
+    {
+      "id": "e444",
+      "source": "235",
+      "target": "205",
+      "paragraphId": "235:p5",
+      "evidence": "printed-prose-number",
+      "textOffset": 32
+    },
+    {
+      "id": "e445",
+      "source": "235",
+      "target": "220",
+      "paragraphId": "235:p6",
+      "evidence": "printed-prose-number",
+      "textOffset": 13
+    },
+    {
+      "id": "e446",
+      "source": "237",
+      "target": "196",
+      "paragraphId": "237:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    },
+    {
+      "id": "e447",
+      "source": "238",
+      "target": "216",
+      "paragraphId": "238:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 40
+    },
+    {
+      "id": "e448",
+      "source": "238",
+      "target": "241",
+      "paragraphId": "238:p4",
+      "evidence": "printed-prose-number",
+      "textOffset": 64
+    },
+    {
+      "id": "e449",
+      "source": "240",
+      "target": "210",
+      "paragraphId": "240:p8",
+      "evidence": "printed-prose-number",
+      "textOffset": 2
+    }
+  ],
+  "issues": [
+    {
+      "kind": "unmapped-text-layer-glyph",
+      "pdfPage": 4,
+      "count": 252,
+      "resolution": "retain raw glyph; translate prose with annotated review"
+    },
+    {
+      "kind": "unmapped-text-layer-glyph",
+      "pdfPage": 5,
+      "count": 4,
+      "resolution": "retain raw glyph; translate prose with annotated review"
+    },
+    {
+      "kind": "text-stream-differs-from-column-reading-order",
+      "pdfPage": 13,
+      "resolution": "body ordered by left/right column and vertical glyph position"
+    },
+    {
+      "kind": "text-stream-differs-from-column-reading-order",
+      "pdfPage": 19,
+      "resolution": "body ordered by left/right column and vertical glyph position"
+    },
+    {
+      "kind": "text-stream-differs-from-column-reading-order",
+      "pdfPage": 41,
+      "resolution": "body ordered by left/right column and vertical glyph position"
+    },
+    {
+      "kind": "unmapped-text-layer-glyph",
+      "pdfPage": 87,
+      "count": 1,
+      "resolution": "retain raw glyph; translate prose with annotated review"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "7:p4"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "122:p1"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "145:p2"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "179:p4"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "202:p4"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "202:p5"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "224:p1"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "227:p5"
+    },
+    {
+      "kind": "dynamic-return-or-prose-review",
+      "paragraphId": "227:p6"
+    },
+    {
+      "kind": "unreviewed-runtime-rules",
+      "note": "Printed edges and end markers require separate review of conditions, combat, creation and persistence."
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "51"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "68"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "119"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "121"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "125"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "132"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "140"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "141"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "142"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "145"
+    },
+    {
+      "kind": "conditional-end-marker",
+      "nodeId": "169"
+    }
+  ]
+}

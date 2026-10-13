@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "122"
+  ],
+  "text": [
+    "你觉得眼下最好这么做，于是回到旅馆房间。你把钥匙插进锁里，门随即打开，眼前的景象令你大吃一惊。",
+    "你的房间被翻得乱七八糟。床被掀翻，床单被扔得到处都是。梳妆柜的抽屉全被拉出来，里面的东西也被倒空。你的公文包敞开着躺在地上。所有值钱的东西都不见了。你在遗产拍卖会上可能得到的物品不再属于你，除了基本必需品之外，你带来的其他东西也都不见了。",
+    "窗户大开着，绿色的浓雾飘进房间。你关上窗户挡住寒意，努力克服震惊，开始收拾房间。这时，隔壁房间传来喧闹而激烈的打斗声。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 122",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 122",
+      "text": [
+        "Feeling that it’s the best course of action right now, you return to your room at the hotel. You turn the key in the lock and your door swings open to reveal a startling scene.",
+        "Your room has been ransacked. The bed is overturned, and the covers are strewn about. The dresser drawers have all been pulled out and emptied. Your briefcase lies open on the floor. Anything of value you had is gone. Anything you may have gained from the estate sale is longer in your possession, and anything you brought with you beyond the basic essentials is likewise missing.",
+        "The window hangs open, letting the greenish mist into the room. You close it to keep out the chill and begin to set things straight while you overcome the shock of what has happened. As you consider your options, the sounds of a loud and violent commotion drift in from the room next door."
+      ]
+    }
+  }
+}

@@ -231,8 +231,7 @@ for (const plan of routes) {
       expect(
         collections
           .find(
-            (s: { storyId: string; version: string }) =>
-              s.storyId === "alone-against-static" && s.version === "1.2.0",
+            (s: { storyId: string }) => s.storyId === "alone-against-static",
           )
           .endings.entries.some((e: { id: string }) => e.id === plan.endingId),
       ).toBeTruthy();

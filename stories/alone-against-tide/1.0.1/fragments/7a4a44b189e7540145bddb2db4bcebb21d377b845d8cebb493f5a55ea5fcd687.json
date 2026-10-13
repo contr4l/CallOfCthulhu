@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "151"
+  ],
+  "text": [
+    "你穿过埃斯伯里的街道，不时走近一栋房子，核对门牌与要找的地址，以确认自己的位置。",
+    "过了一会儿，你抵达约书亚家。你把钥匙插进锁里，开门走进一处小起居空间。",
+    "环顾四周，你看见紧凑的客厅和厨房。公共区域两端各有一扇门。左边的门敞开着，可以看见一段通往楼下的楼梯。右边的门关着，你猜那是卧室。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 151",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 151",
+      "text": [
+        "You make your way through Esbury’s streets, confirming your whereabouts every so often by approaching a building to check the address against the location you’re searching for.",
+        "After some time, you arrive at Joshua’s house. You insert the key in the lock and open the door into a small living area.",
+        "Glancing around, you see a compact living room and kitchen. There are two doors at opposite ends of the common area. The door to your left is wide open and you can see a set of stairs leading down. The door to your right is closed. You assume it leads to the bedroom."
+      ]
+    }
+  }
+}

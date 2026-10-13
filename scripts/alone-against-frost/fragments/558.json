@@ -1,0 +1,36 @@
+{
+  "id": "558",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "558:p0",
+      "kind": "heading",
+      "text": "558",
+      "sourceLocation": "pdf:visual:[[95,40]]"
+    },
+    {
+      "id": "558:p1",
+      "kind": "body",
+      "text": "You  notice  light  tracks  through  the  woods.  On  closer \nexamination,  you  think  they  were  left  by  moccasin-clad \nhumans. You guess that the travelers are Indigenous people—\nprobably one that has had little contact with traders.",
+      "sourceLocation": "pdf:visual:[[95,41],[95,42],[95,43],[95,44]]"
+    },
+    {
+      "id": "558:p2",
+      "kind": "body",
+      "text": "To follow the tracks, go to 559. To attempt to avoid the travelers, \ngo to 572.",
+      "sourceLocation": "pdf:visual:[[95,45],[95,46]]"
+    },
+    {
+      "id": "558:p3",
+      "kind": "trace",
+      "text": "(557)",
+      "sourceLocation": "pdf:visual:[[95,47]]"
+    },
+    {
+      "id": "558:p4",
+      "kind": "body",
+      "text": "94",
+      "sourceLocation": "pdf:visual:[[95,48]]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "186",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "186:p0",
+      "kind": "heading",
+      "text": "186",
+      "sourceLocation": "pdf:visual:[[40,54]]"
+    },
+    {
+      "id": "186:p1",
+      "kind": "body",
+      "text": "A monstrous paw knocks the rifle from your grasp. You leap \nback. The wind-walker roars, shaking the earth beneath your \nboots. It lunges at you.",
+      "sourceLocation": "pdf:visual:[[40,55],[40,56],[40,57]]"
+    },
+    {
+      "id": "186:p2",
+      "kind": "body",
+      "text": "Equip a melee weapon. If you have nothing, you may improvise a \nclub from a fallen branch. The wind-walker strikes first. Its attack \nis 40% (20/8) and it deals 1D8+1D6 damage. It has 17 hit points. \nPhysical damage cannot kill this monster, but if it is reduced to fewer \nthan 3 hit points, it will flee.",
+      "sourceLocation": "pdf:visual:[[40,58],[40,59],[40,60],[40,61],[40,62]]"
+    },
+    {
+      "id": "186:p3",
+      "kind": "body",
+      "text": "After two combat rounds, make a Sanity roll each for Norman \nand Sylvia. If either fails the roll, they faint at the sight of the wind-\nwalker. If either succeeds, the student can help you fight.",
+      "sourceLocation": "pdf:visual:[[40,63],[40,64],[40,65]]"
+    },
+    {
+      "id": "186:p4",
+      "kind": "body",
+      "text": "If  you  defeat  or  banish  the  wind-walker,  gain  1D6  Sanity \nand then go to 224. If the beast overcomes you, the Nadelmann \nExpedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[40,66],[40,67],[40,68]]"
+    },
+    {
+      "id": "186:p5",
+      "kind": "trace",
+      "text": "(184)",
+      "sourceLocation": "pdf:visual:[[40,69]]"
+    },
+    {
+      "id": "186:p6",
+      "kind": "body",
+      "text": "40",
+      "sourceLocation": "pdf:visual:[[41,13]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "416",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "416:p0",
+      "kind": "heading",
+      "text": "416",
+      "sourceLocation": "pdf:visual:[[74,6]]"
+    },
+    {
+      "id": "416:p1",
+      "kind": "body",
+      "text": "One of your party sneezes and the startled man immediately \nstreaks off, his shrill cries loud enough to arouse the whole forest.",
+      "sourceLocation": "pdf:visual:[[74,7],[74,8]]"
+    },
+    {
+      "id": "416:p2",
+      "kind": "body",
+      "text": "To pursue him, go to 196. To flee the area, go to 131.",
+      "sourceLocation": "pdf:visual:[[74,9]]"
+    },
+    {
+      "id": "416:p3",
+      "kind": "trace",
+      "text": "(129)",
+      "sourceLocation": "pdf:visual:[[74,10]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "300",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "300:p0",
+      "kind": "heading",
+      "text": "300",
+      "sourceLocation": "pdf:visual:[[58,63]]"
+    },
+    {
+      "id": "300:p1",
+      "kind": "body",
+      "text": "“If  we  release  him,  he’ll  return  with  his  people.”  Bernard  may \nbe right. But you are the expedition leader and will be held \nresponsible for your actions toward other cultures.",
+      "sourceLocation": "pdf:visual:[[58,64],[58,65],[58,66]]"
+    },
+    {
+      "id": "300:p2",
+      "kind": "body",
+      "text": "You unbind the little man and stand back. With surprising \nspeed, he dashes away through the trees. You urge your party in \nthe opposite direction.",
+      "sourceLocation": "pdf:visual:[[58,67],[58,68],[58,69]]"
+    },
+    {
+      "id": "300:p3",
+      "kind": "body",
+      "text": "Make a Luck roll: if you fail, go to 85; if you succeed and want to continue \nexploring, go to 89; alternatively, if you want to head for home, go to 158.",
+      "sourceLocation": "pdf:visual:[[58,70],[58,71]]"
+    },
+    {
+      "id": "300:p4",
+      "kind": "trace",
+      "text": "(281)",
+      "sourceLocation": "pdf:visual:[[58,72]]"
+    }
+  ]
+}

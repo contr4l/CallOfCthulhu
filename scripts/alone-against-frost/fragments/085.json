@@ -1,0 +1,30 @@
+{
+  "id": "85",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "85:p0",
+      "kind": "heading",
+      "text": "85",
+      "sourceLocation": "pdf:visual:[[25,2]]"
+    },
+    {
+      "id": "85:p1",
+      "kind": "body",
+      "text": "Bernard yelps in alarm. You turn toward the shout and see him \nin  the  grip  of  imp-like  men  whose  figures  are  but  shadows \nunder the big trees. One of them flashes a blade.",
+      "sourceLocation": "pdf:visual:[[25,4],[25,6],[25,7]]"
+    },
+    {
+      "id": "85:p2",
+      "kind": "body",
+      "text": "To abandon Bernard and flee with Norman and Sylvia, go to 113. \nTo shoot at the tiny men, go to 135.",
+      "sourceLocation": "pdf:visual:[[25,9],[25,11]]"
+    },
+    {
+      "id": "85:p3",
+      "kind": "trace",
+      "text": "(56, 59, 89, 230, 231, 300)",
+      "sourceLocation": "pdf:visual:[[25,12]]"
+    }
+  ]
+}

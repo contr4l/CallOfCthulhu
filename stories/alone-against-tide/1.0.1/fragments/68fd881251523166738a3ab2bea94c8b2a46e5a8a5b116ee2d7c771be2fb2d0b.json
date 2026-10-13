@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "182"
+  ],
+  "text": [
+    "你慢了一秒。你连忙想躲开车辆，但它迅速加速；司机在雾中看不见你，也没有试图避让。",
+    "车辆全速撞上了你。冲击使你的骨头粉碎，你当场毙命。",
+    "尽管你差点逃脱，遗憾的是你现在还是死了。你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 182",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 182",
+      "text": [
+        "You are a second too late. You scramble to get out of the vehicle’s way, but it accelerates rapidly, making no attempt to avoid you as the driver can’t see you in the fog.",
+        "It strikes you at full speed. Your bones shatter on impact, killing you instantly. Though you nearly escaped, you are, unfortunately, now dead. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

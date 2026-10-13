@@ -1,0 +1,42 @@
+{
+  "id": "187",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "187:p0",
+      "kind": "heading",
+      "text": "187\n",
+      "sourceLocation": "pdf:spans:[[60,26,30]]"
+    },
+    {
+      "id": "187:p1",
+      "kind": "body",
+      "text": "You can barely see anything in the fog, so you try to keep your \ncourse as straight as possible, hoping there are no hidden twists \nor curves in the path. You wade further into the muck then begin \nswimming. You splash through the water for several minutes \nbefore running into trouble. Something cuts your leg—presumably \na submerged fallen branch or log. Splintered and broken, it digs \ndeep enough to open a wound. Eventually, you reach the opposite \nside, where you spot the path emerging from the water.\n",
+      "sourceLocation": "pdf:spans:[[60,30,95],[60,95,162],[60,162,228],[60,228,288],[60,288,353],[60,353,419],[60,419,484],[60,484,539]]"
+    },
+    {
+      "id": "187:p2",
+      "kind": "body",
+      "text": "You clamber out of the water and shake off the worst of the \nwetness. You’re covered in filth and are soaked to the bone, but \nat least you’re on the path once more.\n",
+      "sourceLocation": "pdf:spans:[[60,539,600],[60,600,666],[60,666,705]]"
+    },
+    {
+      "id": "187:p3",
+      "kind": "body",
+      "text": "However, you are cold and wet, and the darkness and fog \nmake navigating that much harder, despite the trail beneath \nyour feet. You resolve to make a fire, so that you may first dry \nyourself, then make a torch to keep back the darkness so that \nyou might find your way.\n",
+      "sourceLocation": "pdf:spans:[[60,705,762],[60,762,823],[60,823,889],[60,889,952],[60,952,977]]"
+    },
+    {
+      "id": "187:p4",
+      "kind": "body",
+      "text": "• Make a Survival roll (the specialization isn’t important, as making \na fire is among the most basic of survival skills): if you succeed, go \nto 206; if you fail, go to 224.\n",
+      "sourceLocation": "pdf:spans:[[60,979,1050],[60,1050,1122],[60,1122,1154]]"
+    },
+    {
+      "id": "187:p5",
+      "kind": "body",
+      "text": "(119)\n",
+      "sourceLocation": "pdf:spans:[[60,1154,1160]]"
+    }
+  ]
+}

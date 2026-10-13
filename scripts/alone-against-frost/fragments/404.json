@@ -1,0 +1,36 @@
+{
+  "id": "404",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "404:p0",
+      "kind": "heading",
+      "text": "404",
+      "sourceLocation": "pdf:visual:[[72,37]]"
+    },
+    {
+      "id": "404:p1",
+      "kind": "body",
+      "text": "Your party chances upon a cave deep enough to shelter you \nfrom the smoke and heat on the surface. For over a day, the fire \ntraps you underground.",
+      "sourceLocation": "pdf:visual:[[72,38],[72,39],[72,40]]"
+    },
+    {
+      "id": "404:p2",
+      "kind": "body",
+      "text": "When  you  finally  emerge,  you  see  a  charred,  devastated \nlandscape. The probable damage to the valley’s unique flora and \nfauna sickens you. Over a carpet of smoldering embers and ash, \nthrough endless stands of whitened spikes and blackened logs, \nyou make your way to the fissure by which you now leave the \nlost land.",
+      "sourceLocation": "pdf:visual:[[72,41],[72,42],[72,43],[72,44],[72,45],[72,46]]"
+    },
+    {
+      "id": "404:p3",
+      "kind": "body",
+      "text": "Go to 324.",
+      "sourceLocation": "pdf:visual:[[72,47]]"
+    },
+    {
+      "id": "404:p4",
+      "kind": "trace",
+      "text": "(403)",
+      "sourceLocation": "pdf:visual:[[72,48]]"
+    }
+  ]
+}

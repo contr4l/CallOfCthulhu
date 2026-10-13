@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "78"
+  ],
+  "text": [
+    "你不想拿这种人冒险，便拔出手枪，朝他背后开了一枪。子弹穿透他的身体，伤口开始渗血。他低头看了看自己的胸口，又回头看向你；失血很快让他支撑不住，他倒在地上，身下汇成一滩自己的鲜血。",
+    "僧侣的橙色长袍溅上了大量血迹，眼前这般残酷的暴力令他惊骇不已。",
+    "他闭上眼睛，平静却严厉地对你说：“那人确实误入歧途，但罪不至死。走，离开这里。”",
+    "这反应和你预想的不太一样，但他的语气不容商量。你把武器收回枪套，走进旅馆大厅。旅馆老板娘握住你的手，和你握了握。“我想你也是不得已才这么做。虽然不好受，但我猜当时你也别无选择。”她停顿了一会儿，用手捋了捋灰白的头发。“你要找另一个人的话，我想我听见他说要去教堂边上约书亚家。他可能也牵涉其中，小心点。”",
+    "没有其他线索，你采纳她的建议，走进雾气中，快步朝镇子另一头赶去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 78",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 78",
+      "text": [
+        "You don’t want to take any chances with a man like this. You draw your handgun and fire off a round into the man’s back. It tears through him and blood begins to ooze from his wound. He looks down at his chest and then back at you before the blood loss gets to him and he sinks to the ground in a puddle of his own blood.",
+        "The monk, his orange robes splattered with a noticeable amount of blood, looks mortified at the sight of such brutal violence.",
+        "He closes his eyes before calmly but sternly speaking to you: “The man was misguided, but he did not deserve to die. Go. Leave from here.”",
+        "This isn’t necessarily the reaction you expected, but his tone leaves no room for discussion. You holster your weapon and exit into the hotel lobby. The woman who owns the establishment takes your hand and shakes it. “I guess you did what had to be done. It’s not pleasant, but I doubt you were left with any other choice.” She pauses for a moment, running a hand through her graying hair. “If you’re looking for the other one, I think I heard him say something about going down to Joshua’s place by the church. He might be involved in some way, so be careful.”",
+        "With no other leads, you take her advice and step out into the haze, walking briskly toward the far end of town."
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "496",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "496:p0",
+      "kind": "heading",
+      "text": "496",
+      "sourceLocation": "pdf:visual:[[86,44]]"
+    },
+    {
+      "id": "496:p1",
+      "kind": "body",
+      "text": "As you wander alone along the bank of the river, a thin drizzle \nchills you. You notice a cave opening and duck into it for shelter.",
+      "sourceLocation": "pdf:visual:[[86,45],[86,46]]"
+    },
+    {
+      "id": "496:p2",
+      "kind": "body",
+      "text": "You stop short one pace in. The stench coming out of the cave \nis overpowering. You sense heavy breathing in the darkness. \nSuddenly the inhabitants step into the gray light.",
+      "sourceLocation": "pdf:visual:[[86,47],[86,48],[86,49]]"
+    },
+    {
+      "id": "496:p3",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 426. ",
+      "sourceLocation": "pdf:visual:[[86,50]]"
+    },
+    {
+      "id": "496:p4",
+      "kind": "trace",
+      "text": "(67)",
+      "sourceLocation": "pdf:visual:[[86,51]]"
+    }
+  ]
+}

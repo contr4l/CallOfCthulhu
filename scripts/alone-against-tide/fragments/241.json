@@ -1,0 +1,36 @@
+{
+  "id": "241",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "241:p0",
+      "kind": "heading",
+      "text": "241\n",
+      "sourceLocation": "pdf:spans:[[77,3547,3551]]"
+    },
+    {
+      "id": "241:p1",
+      "kind": "body",
+      "text": "You try to calm the man, who’s in a deep state of panic. You \ndo your best to talk him down but he will not slow his pace to \nlisten to you. You hurry along, trying to get him to stop and \nspeak with you for just a moment, but the fear has taken hold \nof him totally and completely.\n",
+      "sourceLocation": "pdf:spans:[[77,3551,3613],[77,3613,3677],[77,3677,3740],[77,3740,3803],[77,3803,3834]]"
+    },
+    {
+      "id": "241:p2",
+      "kind": "body",
+      "text": "You try to block his path physically, rushing round in front of \nhim to cut him off. He doesn’t take kindly to this. Too late, you \nrealize your mistake. There’s madness in his eyes, and he raises \nhis gun to fire at you for daring to be an obstacle to his escape.\n",
+      "sourceLocation": "pdf:spans:[[77,3834,3899],[77,3899,3966],[77,3966,4032],[77,4032,4099]]"
+    },
+    {
+      "id": "241:p3",
+      "kind": "body",
+      "text": "At this range, there’s no hope of you getting out of the \nway in time. The man fires once into your chest then steps \nover you to continue his flight from this place, leaving you \nbleeding on the ground. You lie helpless on the flooding \nstreets, bleeding heavily.\nMercifully, you pass out from the blood loss so you don’t know what \nit is that finally claims your life. Perhaps you bled out. Perhaps the \nwater rose even further and you drowned. Or perhaps a worse fate \nbefell you. Whatever the case may be, you have died. Your visit to \nEsbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[77,4099,4157],[77,4157,4217],[77,4217,4279],[77,4279,4337],[77,4337,4364],[77,4364,4433],[77,4433,4505],[77,4505,4571],[77,4571,4639],[77,4639,4664]]"
+    },
+    {
+      "id": "241:p4",
+      "kind": "body",
+      "text": "(238)",
+      "sourceLocation": "pdf:spans:[[77,4664,4669]]"
+    }
+  ]
+}

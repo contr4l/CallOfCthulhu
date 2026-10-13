@@ -1,0 +1,36 @@
+{
+  "id": "341",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "341:p0",
+      "kind": "heading",
+      "text": "341",
+      "sourceLocation": "pdf:visual:[[64,21]]"
+    },
+    {
+      "id": "341:p1",
+      "kind": "body",
+      "text": "You bury Norman’s body, all too aware that you persuaded him \nto follow you on this expedition.",
+      "sourceLocation": "pdf:visual:[[64,22],[64,23]]"
+    },
+    {
+      "id": "341:p2",
+      "kind": "body",
+      "text": "Putting aside that thought, you return to the dead ape-man \nin the cave. It is an incredible specimen.",
+      "sourceLocation": "pdf:visual:[[64,24],[64,25]]"
+    },
+    {
+      "id": "341:p3",
+      "kind": "body",
+      "text": "You may attempt a First Aid roll: if you succeed, you may regain \n1D3 hit points lost in the last encounter. If you wish to take the \ncreature’s head, record the keyword STOCKHOUSE. Then, go \nto 377.",
+      "sourceLocation": "pdf:visual:[[64,26],[64,27],[64,28],[64,29]]"
+    },
+    {
+      "id": "341:p4",
+      "kind": "trace",
+      "text": "(376)",
+      "sourceLocation": "pdf:visual:[[64,30]]"
+    }
+  ]
+}

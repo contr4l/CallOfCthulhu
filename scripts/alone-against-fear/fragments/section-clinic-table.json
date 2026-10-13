@@ -1,0 +1,206 @@
+{
+  "id": "section-clinic-table",
+  "paragraphs": [
+    {
+      "id": "section-clinic-table:p0000",
+      "kind": "body",
+      "text": "clinic table (d6)\n",
+      "sourceLocation": "pdf:spans:[[45,22,40]]"
+    },
+    {
+      "id": "section-clinic-table:p0001",
+      "kind": "body",
+      "text": "1 Roll on the Haunted House table.\n",
+      "sourceLocation": "pdf:spans:[[45,40,75]]"
+    },
+    {
+      "id": "section-clinic-table:p0002",
+      "kind": "body",
+      "text": "2  You meet helpful paramedic. Heal 2 Life and gain 1 first aid\n",
+      "sourceLocation": "pdf:spans:[[45,75,139]]"
+    },
+    {
+      "id": "section-clinic-table:p0003",
+      "kind": "body",
+      "text": "kit from the random object table.\n",
+      "sourceLocation": "pdf:spans:[[45,139,173]]"
+    },
+    {
+      "id": "section-clinic-table:p0004",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[45,173,175]]"
+    },
+    {
+      "id": "section-clinic-table:p0005",
+      "kind": "body",
+      "text": "A small medical studio is attacked by 3d6 L3 Zombies (Slow\n",
+      "sourceLocation": "pdf:spans:[[45,175,234]]"
+    },
+    {
+      "id": "section-clinic-table:p0006",
+      "kind": "body",
+      "text": "Undead). You may ignore them or fight them. If you defeat\n",
+      "sourceLocation": "pdf:spans:[[45,234,292]]"
+    },
+    {
+      "id": "section-clinic-table:p0007",
+      "kind": "body",
+      "text": "them, you may collect 1 first aid kit from the random object\n",
+      "sourceLocation": "pdf:spans:[[45,292,353]]"
+    },
+    {
+      "id": "section-clinic-table:p0008",
+      "kind": "body",
+      "text": "table and d6 doses of painkillers from the Useful Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[45,353,416]]"
+    },
+    {
+      "id": "section-clinic-table:p0009",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[45,416,418]]"
+    },
+    {
+      "id": "section-clinic-table:p0010",
+      "kind": "body",
+      "text": "Safe House. You find an area that is easy to defend. You may\n",
+      "sourceLocation": "pdf:spans:[[45,418,479]]"
+    },
+    {
+      "id": "section-clinic-table:p0011",
+      "kind": "body",
+      "text": "heal up to 2 Sanity and 4 Life every time you visit this place.\n",
+      "sourceLocation": "pdf:spans:[[45,479,543]]"
+    },
+    {
+      "id": "section-clinic-table:p0012",
+      "kind": "body",
+      "text": "You do not have to roll for random encounters every time you\n",
+      "sourceLocation": "pdf:spans:[[45,543,604]]"
+    },
+    {
+      "id": "section-clinic-table:p0013",
+      "kind": "body",
+      "text": "visit this Safe House. If there are already 3 Safe Houses in play\n",
+      "sourceLocation": "pdf:spans:[[45,604,670]]"
+    },
+    {
+      "id": "section-clinic-table:p0014",
+      "kind": "body",
+      "text": "when you roll this result, you create a new Safe House but the\n",
+      "sourceLocation": "pdf:spans:[[45,670,733]]"
+    },
+    {
+      "id": "section-clinic-table:p0015",
+      "kind": "body",
+      "text": "Safe House closest to your current location is no longer a Safe\n",
+      "sourceLocation": "pdf:spans:[[45,733,797]]"
+    },
+    {
+      "id": "section-clinic-table:p0016",
+      "kind": "body",
+      "text": "House. To determine which is closest, just count the number\n",
+      "sourceLocation": "pdf:spans:[[45,797,857]]"
+    },
+    {
+      "id": "section-clinic-table:p0017",
+      "kind": "body",
+      "text": "of boxes on the town map that you should cross to reach that\n",
+      "sourceLocation": "pdf:spans:[[45,857,918]]"
+    },
+    {
+      "id": "section-clinic-table:p0018",
+      "kind": "body",
+      "text": "location. If there are two Safe Houses at the same distance,\n",
+      "sourceLocation": "pdf:spans:[[45,918,979]]"
+    },
+    {
+      "id": "section-clinic-table:p0019",
+      "kind": "body",
+      "text": "choose randomly. When you visit the location that is no longer\n",
+      "sourceLocation": "pdf:spans:[[45,979,1042]]"
+    },
+    {
+      "id": "section-clinic-table:p0020",
+      "kind": "body",
+      "text": "a Safe House, you must roll a 1 in 6 chance of a random\n",
+      "sourceLocation": "pdf:spans:[[45,1042,1098]]"
+    },
+    {
+      "id": "section-clinic-table:p0021",
+      "kind": "body",
+      "text": "encounter, just like for any already visited area.\n",
+      "sourceLocation": "pdf:spans:[[45,1098,1149]]"
+    },
+    {
+      "id": "section-clinic-table:p0022",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[45,1149,1151]]"
+    },
+    {
+      "id": "section-clinic-table:p0023",
+      "kind": "body",
+      "text": "Psychiatric Ward. You may explore it or move along. If you\n",
+      "sourceLocation": "pdf:spans:[[45,1151,1210]]"
+    },
+    {
+      "id": "section-clinic-table:p0024",
+      "kind": "body",
+      "text": "explore it, you may perform TWO Search rolls. However, as\n",
+      "sourceLocation": "pdf:spans:[[45,1210,1268]]"
+    },
+    {
+      "id": "section-clinic-table:p0025",
+      "kind": "body",
+      "text": "soon as you apply the result of your second Search roll, you\n",
+      "sourceLocation": "pdf:spans:[[45,1268,1329]]"
+    },
+    {
+      "id": "section-clinic-table:p0026",
+      "kind": "body",
+      "text": "must also pass a L6 Stealth roll. If you fail, roll on the Slasher\n",
+      "sourceLocation": "pdf:spans:[[45,1329,1396]]"
+    },
+    {
+      "id": "section-clinic-table:p0027",
+      "kind": "body",
+      "text": "table. If the Search rolls triggers an encounter, also roll on the\n",
+      "sourceLocation": "pdf:spans:[[45,1396,1463]]"
+    },
+    {
+      "id": "section-clinic-table:p0028",
+      "kind": "body",
+      "text": "Slasher table. If you collect any Clues in the psychiatric ward,\n",
+      "sourceLocation": "pdf:spans:[[45,1463,1528]]"
+    },
+    {
+      "id": "section-clinic-table:p0029",
+      "kind": "body",
+      "text": "you must perform a Save vs. L3 Fear for each Clue gained or\n",
+      "sourceLocation": "pdf:spans:[[45,1528,1588]]"
+    },
+    {
+      "id": "section-clinic-table:p0030",
+      "kind": "body",
+      "text": "lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[45,1588,1603]]"
+    },
+    {
+      "id": "section-clinic-table:p0031",
+      "kind": "body",
+      "text": "6 Play event #29 from the list of events at the end of this\n",
+      "sourceLocation": "pdf:spans:[[45,1603,1663]]"
+    },
+    {
+      "id": "section-clinic-table:p0032",
+      "kind": "body",
+      "text": "book.",
+      "sourceLocation": "pdf:spans:[[45,1663,1668]]"
+    }
+  ],
+  "sourcePages": [
+    45
+  ]
+}

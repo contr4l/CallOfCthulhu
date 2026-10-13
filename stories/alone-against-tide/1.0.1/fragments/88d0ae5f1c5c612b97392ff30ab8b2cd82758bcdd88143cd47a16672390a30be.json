@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "66"
+  ],
+  "text": [
+    "遗产拍卖会引起了你的兴趣，于是你询问更多情况。桑福德告诉了你。“阿米莉娅·哈里斯正在卖掉已故丈夫收藏的一部分。她需要钱，也对教授研究的古印度那些东西没什么兴趣。不过有些人感兴趣，比如收藏家、学者之类。她丈夫去世后不久就放出消息，过去几天一直有人陆续赶来。你要是想买点什么，拍卖会今晚就在码头边的舞厅举行。”",
+    "你又和桑福德寒暄了几句，他便去继续引导船只进港。你和其他乘客闲聊、观赏风景，打发了一段时间。你注意到埃斯伯里湖岸边高耸的松树和倾斜的山坡。这些景色，以及远处的小镇，都隐约可见于渐浓的雾气中；你眯起眼，仍能看得清楚。不久，你抵达埃斯伯里的栈桥，庆幸自己终于离开了水面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 66",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 66",
+      "text": [
+        "The mention of an estate sale grabs your interest and you ask for some more information. Sanford obliges. “Amelia Harris is selling off some of her late husband’s collection. She could use the money and doesn’t really have an interest in that ancient Indian stuff the professor studied. But some folks do—collectors, academics, that sort of thing. She put the word out not long after her husband died. People have been trickling in for it the past few days. If you’re looking to get your hands on something, it’s going on tonight at the dance hall by the pier.”",
+        "You exchange a few more pleasantries with Sanford before he goes off to finish guiding the boat into port. You pass the time in casual conversation with the other passengers and in observing the scenery. You note the tall pines and the sloping hills along the lakeshore around Esbury. These features, and the small town beyond, are just visible through the growing mist, but squinting helps make them out to your satisfaction. In time, you arrive on the pier at Esbury, grateful to be off the water."
+      ]
+    }
+  }
+}

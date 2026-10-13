@@ -1,0 +1,36 @@
+{
+  "id": "157",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "157:p0",
+      "kind": "heading",
+      "text": "157",
+      "sourceLocation": "pdf:visual:[[37,2]]"
+    },
+    {
+      "id": "157:p1",
+      "kind": "body",
+      "text": "You and your students outdistance the alien miners. Fortunately, \nthey do not seem to be very swift across the ground. You slip \ninto a small clearing and discuss your next course of action. “We \nhave to go back for Charlie!” Bernard insists.",
+      "sourceLocation": "pdf:visual:[[37,4],[37,6],[37,7],[37,9]]"
+    },
+    {
+      "id": "157:p2",
+      "kind": "body",
+      "text": "You and Norman exchange knowing, guilty glances. It is \nclear your prime responsibility is to your students, and you \ncannot  endanger  them  further.  Sylvia  takes  Bernard  aside \nfor a quiet conversation. When they return, he cannot meet \nyour eyes.",
+      "sourceLocation": "pdf:visual:[[37,10],[37,12],[37,13],[37,15],[37,16]]"
+    },
+    {
+      "id": "157:p3",
+      "kind": "body",
+      "text": "If you have the keyword BAREFOOT, go to 158. If not, go to 163. ",
+      "sourceLocation": "pdf:visual:[[37,18]]"
+    },
+    {
+      "id": "157:p4",
+      "kind": "trace",
+      "text": "(148)",
+      "sourceLocation": "pdf:visual:[[37,20]]"
+    }
+  ]
+}

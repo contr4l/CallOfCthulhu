@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "32"
+  ],
+  "text": [
+    "你粗略检查了随身物品，没有发现任何异常。所有东西都和你离开时一样。既然你已经在这里检查，不妨趁机仔细看看在遗产拍卖会上买来的物品。",
+    "如果你已经满足好奇心，也可以离开，去别处探索。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 32",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 32",
+      "text": [
+        "A cursory inspection of your personal belongings reveals that nothing is amiss. All of your possessions are just as you left them. While you are here looking things over, you can take this opportunity to more closely scrutinize items bought at the estate sale.",
+        "Alternatively, you may leave and go explore elsewhere if your curiosity is satisfied."
+      ]
+    }
+  }
+}

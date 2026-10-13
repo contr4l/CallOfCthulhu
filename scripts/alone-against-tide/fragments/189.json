@@ -1,0 +1,36 @@
+{
+  "id": "189",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "189:p0",
+      "kind": "heading",
+      "text": "189\n",
+      "sourceLocation": "pdf:spans:[[60,3762,3766]]"
+    },
+    {
+      "id": "189:p1",
+      "kind": "body",
+      "text": "You gather some suitably dry wood then reach into your pocket \nfor the small book of matches you always carry on your person, \njust for situations like this.\n",
+      "sourceLocation": "pdf:spans:[[60,3766,3829],[60,3829,3893],[60,3893,3924]]"
+    },
+    {
+      "id": "189:p2",
+      "kind": "body",
+      "text": "You fumble around for quite some time, keeping to the road \nas best as you can, before successfully lighting your makeshift \ntorch. As you walk along, your torch illuminates a signpost \nfurther along the trail. Investigating the sign more closely, you \nfind that the trail splits ahead. If you keep to this path as you’d \nintended, you’ll loop back around to Esbury. So, instead, you \ntake a smaller trail that branches off to the side, marching along \ninto the night.\n",
+      "sourceLocation": "pdf:spans:[[60,3924,3984],[60,3984,4049],[60,4049,4110],[60,4110,4177],[60,4177,4246],[60,4246,4309],[60,4309,4377],[60,4377,4393]]"
+    },
+    {
+      "id": "189:p3",
+      "kind": "body",
+      "text": "• Make a CON roll: if you succeed, go to 184; if you fail, go to 198.\n",
+      "sourceLocation": "pdf:spans:[[60,4395,4465]]"
+    },
+    {
+      "id": "189:p4",
+      "kind": "body",
+      "text": "(174)",
+      "sourceLocation": "pdf:spans:[[60,4465,4470]]"
+    }
+  ]
+}

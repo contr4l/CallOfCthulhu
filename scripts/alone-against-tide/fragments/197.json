@@ -1,0 +1,30 @@
+{
+  "id": "197",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "197:p0",
+      "kind": "heading",
+      "text": "197\n",
+      "sourceLocation": "pdf:spans:[[63,867,871]]"
+    },
+    {
+      "id": "197:p1",
+      "kind": "body",
+      "text": "You run on for some distance, dashing between the trees in \nthe forests around Esbury. You stumble through the darkness \nand fog, half-tripping over roots and rocks. Eventually, you lose \nyour footing and crash into a boulder.\n",
+      "sourceLocation": "pdf:spans:[[63,871,931],[63,931,992],[63,992,1059],[63,1059,1098]]"
+    },
+    {
+      "id": "197:p2",
+      "kind": "body",
+      "text": "Your head slams against the rock, knocking you out. You \nhave no idea what happens next as you never wake up.\nYou have died. You don’t know if it was the fall, or the rising waters, \nor the strange monsters that took your life, but your visit to Esbury \nis over. Better luck next time. THE END.\n",
+      "sourceLocation": "pdf:spans:[[63,1098,1155],[63,1155,1208],[63,1210,1283],[63,1283,1354],[63,1354,1395]]"
+    },
+    {
+      "id": "197:p3",
+      "kind": "body",
+      "text": "(183)\n",
+      "sourceLocation": "pdf:spans:[[63,1395,1401]]"
+    }
+  ]
+}

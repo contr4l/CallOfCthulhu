@@ -1,0 +1,30 @@
+{
+  "id": "335",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "335:p0",
+      "kind": "heading",
+      "text": "335",
+      "sourceLocation": "pdf:visual:[[63,54]]"
+    },
+    {
+      "id": "335:p1",
+      "kind": "body",
+      "text": "You hear an unearthly crackle. A blast of cold sweeps through \nthe  darkness  and  numbs  one  side  of  your  face.  Norman \nscrambles away into the depths of the cave.",
+      "sourceLocation": "pdf:visual:[[63,55],[63,56],[63,57]]"
+    },
+    {
+      "id": "335:p2",
+      "kind": "body",
+      "text": "To fight it out with the bizarre intruders, go to 380. To bolt from \nthe cave and abandon Norman, go to 330.",
+      "sourceLocation": "pdf:visual:[[63,58],[63,59]]"
+    },
+    {
+      "id": "335:p3",
+      "kind": "trace",
+      "text": "(329, 333)",
+      "sourceLocation": "pdf:visual:[[63,60]]"
+    }
+  ]
+}

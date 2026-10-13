@@ -1,0 +1,30 @@
+{
+  "id": "122",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "122:p0",
+      "kind": "heading",
+      "text": "122",
+      "sourceLocation": "pdf:visual:[[30,58]]"
+    },
+    {
+      "id": "122:p1",
+      "kind": "body",
+      "text": "It’s no use; your fear has gotten the better of you. You are not \nthinking about Bernard when, with a faint whimper, you slide \ndown  the  rise,  your  eyes  burning  with  tears,  hoping  against \nhope that the thing on the other side will let you get away.",
+      "sourceLocation": "pdf:visual:[[30,59],[30,60],[30,61],[30,62]]"
+    },
+    {
+      "id": "122:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 171; if failed, go to 172.",
+      "sourceLocation": "pdf:visual:[[30,63]]"
+    },
+    {
+      "id": "122:p3",
+      "kind": "trace",
+      "text": "(69)",
+      "sourceLocation": "pdf:visual:[[30,64]]"
+    }
+  ]
+}

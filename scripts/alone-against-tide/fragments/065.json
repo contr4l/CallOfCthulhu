@@ -1,0 +1,60 @@
+{
+  "id": "65",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "65:p0",
+      "kind": "heading",
+      "text": "65\n",
+      "sourceLocation": "pdf:spans:[[25,1275,1278]]"
+    },
+    {
+      "id": "65:p1",
+      "kind": "body",
+      "text": "The officer is armed and angry, so you decide it’s probably best \nnot to resist. You’re escorted out of the house at gunpoint and \ninto the sickly green fog. Amelia neither says nor does anything \nas you pass. She simply stares at you as you go.\n",
+      "sourceLocation": "pdf:spans:[[25,1278,1344],[25,1344,1409],[25,1409,1475],[25,1475,1524]]"
+    },
+    {
+      "id": "65:p2",
+      "kind": "body",
+      "text": "On the street, just outside the Harris property, you spot \nJoshua, grinning madly. His eyes meet yours and his smile gets \njust a bit wider. He put Officer Powell up to this. He’s not even \ntrying to hide it. That still doesn’t explain why, but at least you \nknow for a certainty that Joshua is not friendly to you, and that \nhe has Powell in his pocket.\n",
+      "sourceLocation": "pdf:spans:[[25,1524,1583],[25,1583,1647],[25,1647,1714],[25,1714,1783],[25,1783,1850],[25,1850,1879]]"
+    },
+    {
+      "id": "65:p3",
+      "kind": "body",
+      "text": "You mull this over as you’re marched through the misty \nstreets and taken to the police station. You’re ushered into the \ndim and dingy room and shoved into a closet-sized cell on the \nfar wall. Officer Powell turns the key in the lock, sealing you in \nthe cell. He settles into his seat and pays you no further mind \nas he begins puffing on a cigar.\n",
+      "sourceLocation": "pdf:spans:[[25,1879,1935],[25,1935,2001],[25,2001,2064],[25,2064,2132],[25,2132,2197],[25,2197,2230]]"
+    },
+    {
+      "id": "65:p4",
+      "kind": "body",
+      "text": "He seems to have no intention of letting you go any time soon.\n",
+      "sourceLocation": "pdf:spans:[[25,2230,2293]]"
+    },
+    {
+      "id": "65:p5",
+      "kind": "body",
+      "text": "• To wait the night in the cell, go to 84.\n",
+      "sourceLocation": "pdf:spans:[[25,2293,2336]]"
+    },
+    {
+      "id": "65:p6",
+      "kind": "body",
+      "text": "• To attempt an escape, make a Locksmith roll: if you succeed, go to \n107; if you fail, go to 84.\n",
+      "sourceLocation": "pdf:spans:[[25,2336,2406],[25,2406,2434]]"
+    },
+    {
+      "id": "65:p7",
+      "kind": "body",
+      "text": "• To try to convince him to let you out, make a Fast Talk roll: if you \nsucceed, go to 127; if you fail, go to 84.\n",
+      "sourceLocation": "pdf:spans:[[25,2434,2506],[25,2506,2549]]"
+    },
+    {
+      "id": "65:p8",
+      "kind": "body",
+      "text": "(20, 47)\n",
+      "sourceLocation": "pdf:spans:[[25,2549,2558]]"
+    }
+  ]
+}

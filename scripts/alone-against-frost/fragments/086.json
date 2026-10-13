@@ -1,0 +1,30 @@
+{
+  "id": "86",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "86:p0",
+      "kind": "heading",
+      "text": "86",
+      "sourceLocation": "pdf:visual:[[25,14]]"
+    },
+    {
+      "id": "86:p1",
+      "kind": "body",
+      "text": "Your  party  advances  silently,  and  you  see  movement  ahead. \nWhen shapes emerge from the evergreens, you see that one \nof them is Bernard, carried upon the shoulders of three short \ngray figures.",
+      "sourceLocation": "pdf:visual:[[25,17],[25,18],[25,20],[25,21]]"
+    },
+    {
+      "id": "86:p2",
+      "kind": "body",
+      "text": "To follow the bearers and their captive, go to 133. To shout to scare \nthem off, go to 134. To shoot at the bearers, go to 135.",
+      "sourceLocation": "pdf:visual:[[25,23],[25,25]]"
+    },
+    {
+      "id": "86:p3",
+      "kind": "trace",
+      "text": "(59)",
+      "sourceLocation": "pdf:visual:[[25,26]]"
+    }
+  ]
+}

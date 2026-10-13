@@ -1,0 +1,42 @@
+{
+  "id": "69",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "69:p0",
+      "kind": "heading",
+      "text": "69\n",
+      "sourceLocation": "pdf:spans:[[26,742,745]]"
+    },
+    {
+      "id": "69:p1",
+      "kind": "body",
+      "text": "Joshua removes the blade from your face and walks across the \nroom. He lifts the hideous idol from its spot amid the dusty \nrelics and places it on the floor in front of you as you struggle in \nvain against the thick ropes that bind you.\n",
+      "sourceLocation": "pdf:spans:[[26,745,807],[26,807,869],[26,869,939],[26,939,983]]"
+    },
+    {
+      "id": "69:p2",
+      "kind": "body",
+      "text": "You glance at the grotesque statue, and then fix your gaze on \nJoshua as you squirm and twist beneath the ropes. Joshua locks \neyes with you, smiling with wicked glee as he rests the cold \nmetal lightly against your throat. Then his eyes glaze over as he \nbegins speaking in a strange tongue. “Grah’n y’hah ngnw ronog \nBokrug stell’bsna, phlegeth ep throd ron.” He speaks each syllable \nin a slow and monotonous tone, as if he’s focusing very carefully \non the sound of the words.\n",
+      "sourceLocation": "pdf:spans:[[26,983,1046],[26,1046,1110],[26,1110,1172],[26,1172,1239],[26,1239,1302],[26,1302,1370],[26,1370,1437],[26,1437,1464]]"
+    },
+    {
+      "id": "69:p3",
+      "kind": "body",
+      "text": "As the last syllable passes his lips, Joshua takes the knife \nand presses it sharply against your neck. With a single, smooth \nmotion, he slits your throat.\n",
+      "sourceLocation": "pdf:spans:[[26,1464,1526],[26,1526,1591],[26,1591,1621]]"
+    },
+    {
+      "id": "69:p4",
+      "kind": "body",
+      "text": "As you bleed out, your eyes perceive impossible visions. \nThe world before you melts away, replaced by a shining city of \nmarble, onyx, and lustrous gems. You see this magnificent city \nin all its splendor, sitting next to a placid lake. And then, in an \ninstant, it’s gone as the water rises up to swallow it. The lizard-\nthing of the idol, given life and power by your blood, surges up \nfrom the water. The being eyes you with malicious sentience as \nthe waters swell and consume you.\nYou have been offered up as a sacrifice to one of the Great Old Ones. \nYour visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[26,1621,1679],[26,1679,1743],[26,1743,1807],[26,1807,1876],[26,1876,1944],[26,1944,2010],[26,2010,2074],[26,2074,2108],[26,2108,2179],[26,2179,2218]]"
+    },
+    {
+      "id": "69:p5",
+      "kind": "body",
+      "text": "(138)\n",
+      "sourceLocation": "pdf:spans:[[26,2218,2224]]"
+    }
+  ]
+}

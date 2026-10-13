@@ -1,0 +1,30 @@
+{
+  "id": "195",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "195:p0",
+      "kind": "heading",
+      "text": "195",
+      "sourceLocation": "pdf:visual:[[42,38]]"
+    },
+    {
+      "id": "195:p1",
+      "kind": "body",
+      "text": "Your party is stealthy enough to remain unnoticed by the small \ngray figures.",
+      "sourceLocation": "pdf:visual:[[42,39],[42,40]]"
+    },
+    {
+      "id": "195:p2",
+      "kind": "body",
+      "text": "To head back toward civilization, go to 158. To press forward, go \nto 604.",
+      "sourceLocation": "pdf:visual:[[42,41],[42,42]]"
+    },
+    {
+      "id": "195:p3",
+      "kind": "trace",
+      "text": "(129, 131)",
+      "sourceLocation": "pdf:visual:[[42,43]]"
+    }
+  ]
+}

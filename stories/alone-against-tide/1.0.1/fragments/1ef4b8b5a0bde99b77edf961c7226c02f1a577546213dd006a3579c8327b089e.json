@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "117"
+  ],
+  "text": [
+    "你试图翻滚躲开那头蹒跚而来的怪物，却慢了一步。它扑到你身上，细长的手指缠住你的喉咙。那东西扼杀了你的生命，你坠入死亡的黑暗。你已经死亡。如果愿意，你可以重新尝试这场冒险，争取不同的结果。不过此刻，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 117",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 117",
+      "text": [
+        "You attempt to roll out of the way of the lumbering monstrosity, but are too slow. It throws itself on top of you and its long, slender fingers wrap themselves around your throat. The thing chokes the life from your body and you slip away, into the blackness of death. You have died. If you wish, you may attempt the adventure again and try for a different outcome. But, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

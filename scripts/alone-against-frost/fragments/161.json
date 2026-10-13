@@ -1,0 +1,42 @@
+{
+  "id": "161",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "161:p0",
+      "kind": "heading",
+      "text": "161",
+      "sourceLocation": "pdf:visual:[[37,50]]"
+    },
+    {
+      "id": "161:p1",
+      "kind": "body",
+      "text": "When your senses clear, you find yourself wrapped in heavy \npelts, confined, surrounded by dark presences. You cry out, but \nstrong hands steady you. A deep voice speaks: “We found you \nwandering in the woods. Rest. Soon we shall reach the fort. You’ll \nbe safe there.”",
+      "sourceLocation": "pdf:visual:[[37,51],[37,52],[37,53],[37,54],[37,55]]"
+    },
+    {
+      "id": "161:p2",
+      "kind": "body",
+      "text": "Your rescuers are Tsuut’ina hunters. You lie in the bottom \nof a canoe while they paddle downstream. You rest quietly, too \nweak to ask questions.",
+      "sourceLocation": "pdf:visual:[[37,56],[37,57],[37,58]]"
+    },
+    {
+      "id": "161:p3",
+      "kind": "body",
+      "text": "As they promise, you eventually reach Fort McDonald. The \nMounties give you warm clothes and a hot meal before asking \nwhat happened to your companions.",
+      "sourceLocation": "pdf:visual:[[37,59],[37,60],[37,61]]"
+    },
+    {
+      "id": "161:p4",
+      "kind": "body",
+      "text": "Go to 433. ",
+      "sourceLocation": "pdf:visual:[[37,62]]"
+    },
+    {
+      "id": "161:p5",
+      "kind": "trace",
+      "text": "(120, 505)",
+      "sourceLocation": "pdf:visual:[[37,63]]"
+    }
+  ]
+}

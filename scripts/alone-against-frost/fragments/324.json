@@ -1,0 +1,30 @@
+{
+  "id": "324",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "324:p0",
+      "kind": "heading",
+      "text": "324",
+      "sourceLocation": "pdf:visual:[[62,30]]"
+    },
+    {
+      "id": "324:p1",
+      "kind": "body",
+      "text": "You and the two students travel over trackless woods on short \nrations. From day to day, the air cools as the short summer \ndeclines into the rugged subarctic autumn. ",
+      "sourceLocation": "pdf:visual:[[62,31],[62,32],[62,33]]"
+    },
+    {
+      "id": "324:p2",
+      "kind": "body",
+      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo follow the river, go to 470. To scale a ridge, go to 469. To thread ",
+      "sourceLocation": "pdf:visual:[[62,34],[62,35]]"
+    },
+    {
+      "id": "324:p3",
+      "kind": "body",
+      "text": "61\nthrough light woodland, go to 218. To penetrate deeper into the \nforest, go to 557. To concentrate on finding supplies, make a Luck \nroll: if you succeed, go to 654; if you fail, go to 132.\n(45, 50, 53, 54, 76, 137, 142, 217, 244, 245, 293, 322, 404, 425, \n442, 465, 533, 594, 599, 650)",
+      "sourceLocation": "pdf:visual:[[62,36],[62,38],[62,39],[62,40],[62,41],[62,42]]"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "141-death",
+    "141-wounded",
+    "141"
+  ],
+  "text": [
+    "现在放阿米莉娅离开风险太大，于是你决定追到街上。你刚走出门不到五步，就发现自己正与约书亚对峙。他一眨不眨地举枪瞄准你，脸上的神情清楚表明他真会开枪。你只有片刻时间反应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 141",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 141",
+      "text": [
+        "It’s too risky to let Amelia go right now, so you decide to pursue her into the street. You don’t get more than five steps from the door before you find yourself staring Joshua down. Unblinking, he raises a gun at you, and the look on his face shows that he clearly intends to use it. You have only a moment to react."
+      ]
+    }
+  }
+}

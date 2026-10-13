@@ -1,0 +1,36 @@
+{
+  "id": "19",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "19:p0",
+      "kind": "heading",
+      "text": "19",
+      "sourceLocation": "pdf:visual:[[13,37]]"
+    },
+    {
+      "id": "19:p1",
+      "kind": "body",
+      "text": "You  tie  the  canoe  to  the  bank  and  lead  your  party  up  the \ncanyon. A warm stream runs along its floor, and the rocks along \nthe edges are heavily caked with precipitated minerals of white, \ngray, and yellow hues.",
+      "sourceLocation": "pdf:visual:[[13,38],[13,39],[13,40],[13,41]]"
+    },
+    {
+      "id": "19:p2",
+      "kind": "body",
+      "text": "The farther you advance between its narrow banks, the more \ndesolate the scene. The vegetation struggles in youth and goes \nto an early death. Gray dust coats the brittle sticks of strangled \nsaplings. You kneel over a stone furred with yellow-and-white \ncrystals and scrape a sample of the deposits into a small glass \nvial with your hunting knife. You suppose that they are nothing \nremarkable, though this is not your area of expertise. Finally, \nyou snap a few photos of the scene with your box camera.",
+      "sourceLocation": "pdf:visual:[[13,42],[13,43],[13,44],[13,45],[13,46],[13,47],[13,48],[13,49]]"
+    },
+    {
+      "id": "19:p3",
+      "kind": "body",
+      "text": "To explore further up the canyon, go to 64. To return to your canoe \nand continue upriver, go to 20. ",
+      "sourceLocation": "pdf:visual:[[13,50],[13,51]]"
+    },
+    {
+      "id": "19:p4",
+      "kind": "trace",
+      "text": "(11)",
+      "sourceLocation": "pdf:visual:[[13,52]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "387",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "387:p0",
+      "kind": "heading",
+      "text": "387",
+      "sourceLocation": "pdf:visual:[[69,73]]"
+    },
+    {
+      "id": "387:p1",
+      "kind": "body",
+      "text": "Sylvia points out that the brush around the sasquatch camp is \nvery dry. You form a plan. She will take the matches from your \ncoat pocket, cross the camp and duck into the thickets, where \nshe will start a diversionary blaze. It ought to be a good trick \nsince it seems the sasquatches have no knowledge of fire.",
+      "sourceLocation": "pdf:visual:[[69,74],[69,75],[69,76],[69,77],[69,78]]"
+    },
+    {
+      "id": "387:p2",
+      "kind": "body",
+      "text": "Make a Luck roll for Sylvia: if it succeeds, go to 401; if it fails, \ngo to 388.",
+      "sourceLocation": "pdf:visual:[[69,79],[69,80]]"
+    },
+    {
+      "id": "387:p3",
+      "kind": "trace",
+      "text": "(352, 644)",
+      "sourceLocation": "pdf:visual:[[69,81]]"
+    }
+  ]
+}

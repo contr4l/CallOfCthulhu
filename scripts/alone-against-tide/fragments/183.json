@@ -1,0 +1,42 @@
+{
+  "id": "183",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "183:p0",
+      "kind": "heading",
+      "text": "183\n",
+      "sourceLocation": "pdf:spans:[[58,398,402]]"
+    },
+    {
+      "id": "183:p1",
+      "kind": "body",
+      "text": "You yank your hand free of the cold, clammy grasp and find \nit damp and covered in mucous. You shake the worst of the \ndisgusting substance off as you rush to get away from whatever \nit was that grabbed you. Fortunately, the thing’s exact form and \nfeatures were concealed by the fog and the darkness, but this \ndoesn’t stop your imagination from running wild.\n",
+      "sourceLocation": "pdf:spans:[[58,402,462],[58,462,521],[58,521,585],[58,585,651],[58,651,714],[58,714,763]]"
+    },
+    {
+      "id": "183:p2",
+      "kind": "body",
+      "text": "Thankfully, your feet also run wild. Moving as fast as your \nlegs can carry you, you press on through shrouded streets as \nmore of the hazy, hideous things peer out at you, all mercifully \nmasked by the mist. You rush past them, not wanting to find \nout what they are but knowing full well they’re not human. \nFinally, you make your way to the edge of town.\n",
+      "sourceLocation": "pdf:spans:[[58,763,824],[58,824,886],[58,886,952],[58,952,1013],[58,1013,1073],[58,1073,1121]]"
+    },
+    {
+      "id": "183:p3",
+      "kind": "body",
+      "text": "You don’t even bother with the trail. Navigating in this low \nlevel of visibility would be nearly impossible even if you weren’t \nbeing actively chased by otherworldly horrors. You simply rush \ninto the forest, stumbling past branches and over roots and rocks. \nIf you can keep your footing, you may just be able to put enough \ndistance between yourself and the cursed town behind you.\n",
+      "sourceLocation": "pdf:spans:[[58,1121,1183],[58,1183,1251],[58,1251,1315],[58,1315,1383],[58,1383,1449],[58,1449,1507]]"
+    },
+    {
+      "id": "183:p4",
+      "kind": "body",
+      "text": "• Make a DEX roll: if you succeed, go to 50; if you fail, go to 197.\n",
+      "sourceLocation": "pdf:spans:[[58,1509,1578]]"
+    },
+    {
+      "id": "183:p5",
+      "kind": "body",
+      "text": "(194)\n",
+      "sourceLocation": "pdf:spans:[[58,1578,1584]]"
+    }
+  ]
+}

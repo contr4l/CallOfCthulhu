@@ -1,0 +1,35 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "148"
+  ],
+  "text": [
+    "你走进浓雾，希望能在镇上找到一个人，为你提供更多信息。",
+    "可惜镇子几乎空无一人；浓雾遮蔽视线，大家都宁愿待在屋里。你游荡了一个多小时，才遇到一名正匆匆从镇上杂货店回家的绅士。你拦住他，追问情况。",
+    "他看起来很紧张，说自己不想在“这该死的吓人浓雾”里多待一刻。你向他保证只会占用几分钟，那男人便答应尽力回答你的问题。",
+    "你询问哈里斯教授的情况，那人忧郁地点点头。“死了。他们说是自杀。我不太相信。教授是个好人，只要有他的那些东西，他就很开心。我们私下说，我觉得他遗孀也有份。她对他来说有点太年轻了，而且似乎不怎么喜欢他。她总是朝别的男人看，你懂我的意思吧。他一死，她就把他的东西全卖了，这还不够说明问题吗？”你默默消化这些新消息，心里衡量其可信度，同时继续追问。",
+    "你问起哈里斯教授的东西，那绅士挠了挠头。“从印度来的老物件。我不太了解。我偶尔听他提到过，说大多是宗教用品。时不时有人来想看看，他那些访客通常都不太高兴地离开。我不知道为什么。”",
+    "说到这里，那人开始局促不安，问能不能走。你判断他没有更多信息了，便让他离开。",
+    "有了这些新消息，你动身去找阿米莉娅，猜想她应该在家。你在街上走了一阵，太阳越沉越低。天色越来越暗，能见度也越来越差，你很快就在埃斯伯里的建筑间迷了路。最后你来到旅馆门口。你停下来，以这处地标辨认方向，直到听起来像是脚步声的声音打断了思绪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 148",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 148",
+      "text": [
+        "You step out into the fog, hoping to find someone in town who can give you a little more information.",
+        "Unfortunately, the town seems to be largely deserted, as people prefer to remain inside with the thick mist obscuring sight. You wander for a little more than an hour before you find someone moving quickly home from the town’s grocery store. You stop the gentleman and press him for answers.",
+        "He appears nervous and says he doesn’t want to be out in the “Damn scary fog” any longer than he has to. You assure him it will only take a few moments, and the man agrees to answer your questions as best he can.",
+        "You ask about Prof. Harris and the man nods somberly. “Dead. Suicide they say. I don’t really know if I buy it. The professor was a good man. And happy too, so long as he had his things. Between you and me, I think his widow had something to do with it. She was a bit young for him, and didn’t seem to be too fond of him, neither. Her eyes tended to wander, if you catch my meaning. And she goes and sells all his things when he dies, so that’s sort of telling, ain’t it?” You take in the new information silently, weighing the credibility of it in your head as you inquire further.",
+        "You ask about Prof. Harris’ things and the gentleman scratches his head. “Old stuff from India. I don’t know much about it. I heard him talk about it from time to time—said it was mostly religious things. Every once in a while, he’d get a visitor wanting to look at them. They usually left upset. Can’t say why.”",
+        "At this, the man begins shifting uncomfortably and asks if he can go. You decide he has no more to offer you and you allow him to leave.",
+        "Armed with this new information, you set out to find Amelia, assuming her to be at her home. You wander through the streets for a while as the sun sinks lower and lower. The growing darkness exacerbates the lack of visibility, and you are soon lost among Esbury’s buildings. Eventually, you find yourself in front of the hotel. You stop and use this landmark to orient yourself until your thoughts are disturbed by what sounds like footsteps."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "518",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "518:p0",
+      "kind": "heading",
+      "text": "518",
+      "sourceLocation": "pdf:visual:[[89,80]]"
+    },
+    {
+      "id": "518:p1",
+      "kind": "body",
+      "text": "Undisturbed, you hide in the cave all night. Toward dawn, you \ndoze a little. In the morning you continue your journey.",
+      "sourceLocation": "pdf:visual:[[89,81],[89,82]]"
+    },
+    {
+      "id": "518:p2",
+      "kind": "body",
+      "text": "Go to 513.",
+      "sourceLocation": "pdf:visual:[[89,83]]"
+    },
+    {
+      "id": "518:p3",
+      "kind": "trace",
+      "text": "(414)",
+      "sourceLocation": "pdf:visual:[[89,84]]"
+    }
+  ]
+}

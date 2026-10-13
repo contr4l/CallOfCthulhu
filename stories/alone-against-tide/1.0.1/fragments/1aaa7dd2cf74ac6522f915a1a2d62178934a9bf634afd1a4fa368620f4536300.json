@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "101"
+  ],
+  "text": [
+    "你试图说服警官，表示自己有特别充分的理由查看档案，但他根本不在乎。“滚开，外地人，你挡着我抽烟了。想调查那个死人，就去找他的遗孀。她家在镇子北边，就在教堂旁边。显眼得很，不可能找不到。”",
+    "鲍威尔警官眼下不会再帮你了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 101",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 101",
+      "text": [
+        "You try to convince the officer that you have a particularly good reason for needing access to the file, but he simply doesn’t care. “Scram, stranger, you’re ruining my smoke. If you want to dig at the dead guy, go bother his widow. Her place is over on the north side of town, right next to the church. Can’t damn well miss it.”",
+        "Officer Powell will be of no more help at this time."
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "115"
+  ],
+  "text": [
+    "你开始慌乱，拼命挣扎。幸好绳索松开了。约书亚听见绳子崩断的声音在墙壁间回荡，吓了一跳，本能地向后跃开。",
+    "你本能地采取行动。你不假思索地冲向他，试图夺下他手里的刀。你知道要活下来，就必须控制这把武器；尤其门外还有另一个持械的人。",
+    "你抓住约书亚的前臂，不让他用刀袭击你。你试图把刀从他手中撬出来，同时用膝盖和手肘戳打他，绝望地希望能把刀从他手里夺过来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 115",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 115",
+      "text": [
+        "You struggle against your bonds as you begin to panic. Mercifully, they give way. Joshua is shocked by the sound of snapping rope echoing off the walls and he jumps away from you on pure reflex.",
+        "You act on instinct. Without thinking, you rush toward him, attempting to wrestle the knife from his grasp. You know that you need to be the one in control of the weapon if you’re going to survive this, especially as there’s another armed man just outside the door.",
+        "You grasp Joshua’s forearm, preventing him from attacking you with the knife. You then try to pry it from his hand even as you jab and strike at him with knees and elbows, hoping desperately that you can snatch the blade from his grip."
+      ]
+    }
+  }
+}

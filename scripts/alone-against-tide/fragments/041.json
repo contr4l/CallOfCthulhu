@@ -1,0 +1,48 @@
+{
+  "id": "41",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "41:p0",
+      "kind": "heading",
+      "text": "41\n",
+      "sourceLocation": "pdf:spans:[[20,186,189]]"
+    },
+    {
+      "id": "41:p1",
+      "kind": "body",
+      "text": "You choose your words carefully before replying, not wanting \nto give out sensitive information. You tell him that you’re with \nan investigative service in Boston, and that you’re working a \ncase. The ferryman scratches his head. “Boston, huh? And they \nsent you all the way out here? I imagine this has to do with Professor \nHarris’ death, but Officer Powell has that handled, I think.” The \nman shrugs and flashes another smile. “Ah, but I suppose it’s not \nmy place to pry.” He extends his hand to you “I’m Lance Sanford, \nby the way, I think we skipped the introduction.”\n",
+      "sourceLocation": "pdf:spans:[[20,189,251],[20,251,317],[20,317,380],[20,380,443],[20,443,515],[20,515,582],[20,582,649],[20,649,715],[20,715,765]]"
+    },
+    {
+      "id": "41:p2",
+      "kind": "body",
+      "text": "• To inquire about Prof. Harris, go to 27.\n",
+      "sourceLocation": "pdf:spans:[[20,765,808]]"
+    },
+    {
+      "id": "41:p3",
+      "kind": "body",
+      "text": "• To inquire about Officer Powell, go to 36.\n",
+      "sourceLocation": "pdf:spans:[[20,808,853]]"
+    },
+    {
+      "id": "41:p4",
+      "kind": "body",
+      "text": "• To ask Lance Sanford about himself, go to 42.\n",
+      "sourceLocation": "pdf:spans:[[20,853,901]]"
+    },
+    {
+      "id": "41:p5",
+      "kind": "body",
+      "text": "• To pass the time waiting to arrive in Esbury, go to 56.\n",
+      "sourceLocation": "pdf:spans:[[20,901,959]]"
+    },
+    {
+      "id": "41:p6",
+      "kind": "body",
+      "text": "(80)\n",
+      "sourceLocation": "pdf:spans:[[20,959,964]]"
+    }
+  ]
+}

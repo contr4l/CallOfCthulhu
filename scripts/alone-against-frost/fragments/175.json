@@ -1,0 +1,30 @@
+{
+  "id": "175",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "175:p0",
+      "kind": "heading",
+      "text": "175",
+      "sourceLocation": "pdf:visual:[[39,37]]"
+    },
+    {
+      "id": "175:p1",
+      "kind": "body",
+      "text": "You urge Sylvia to bring hot soup for the stranger. While you \nstand looking at him, unease builds in your stomach. His face is \nrepulsive and oddly proportioned.",
+      "sourceLocation": "pdf:visual:[[39,38],[39,39],[39,40]]"
+    },
+    {
+      "id": "175:p2",
+      "kind": "body",
+      "text": "Make an Anthropology roll: if you succeed, go to 176, if you fail, \ngo to 179. ",
+      "sourceLocation": "pdf:visual:[[39,41],[39,42]]"
+    },
+    {
+      "id": "175:p3",
+      "kind": "trace",
+      "text": "(77)",
+      "sourceLocation": "pdf:visual:[[39,43]]"
+    }
+  ]
+}

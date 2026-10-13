@@ -1,0 +1,30 @@
+{
+  "id": "54",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "54:p0",
+      "kind": "heading",
+      "text": "54",
+      "sourceLocation": "pdf:visual:[[20,15]]"
+    },
+    {
+      "id": "54:p1",
+      "kind": "body",
+      "text": "The  forage  so  far  has  been  adequate  to  sustain  the  three  of \nyou, but it is no small undertaking to march over more than \na hundred miles of virgin wilderness. Sometimes, the banks of \nthe North Hanninah are too swampy or too sheer to follow. \nYour party must cross canyons and deep woods without losing \nits bearing.",
+      "sourceLocation": "pdf:visual:[[20,16],[20,17],[20,18],[20,19],[20,20],[20,21]]"
+    },
+    {
+      "id": "54:p2",
+      "kind": "body",
+      "text": "Go to 324.",
+      "sourceLocation": "pdf:visual:[[20,22]]"
+    },
+    {
+      "id": "54:p3",
+      "kind": "trace",
+      "text": "(57, 58, 94, 110, 124, 132, 140, 147, 156, 651)",
+      "sourceLocation": "pdf:visual:[[20,23]]"
+    }
+  ]
+}

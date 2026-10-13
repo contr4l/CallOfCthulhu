@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "10"
+  ],
+  "text": [
+    "你悄无声息地溜出牢房，贴着地面伏低身子。鲍威尔正在翻阅文件，心满意足地抽着雪茄，完全没有察觉你越狱了。",
+    "紧张地熬过几分钟后，你终于一点点挪到了建筑入口。你把门推开一道刚好能出去的缝，溜出去后又把门关上。",
+    "此刻你站在昏暗潮湿的雾气中。你看见最后一缕夕阳照亮头顶的雾霭，但雾气和渐浓的暮色严重遮蔽了你的视线。",
+    "刚刚逃出来，你不宜在这里逗留。你权衡着接下来的选择：可以直面问题，回哈里斯家寻找线索；也可以回旅馆整理思绪；或者干脆把这一切抛在脑后，离开小镇。现在太晚、雾也太浓，渡船无法运行，但你知道湖边还有些蜿蜒的小路。你得在黑暗中步行赶路，虽说这选择不太愉快，但终究还是个选择。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 10",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 10",
+      "text": [
+        "You slip silently out of your cell and press low to the ground. Powell is reading over his documents and puffing away contentedly at his cigar. He doesn’t notice your breakout.",
+        "After several tense minutes, you manage to inch your way toward the building’s entrance. You crack the door open just enough to escape, closing it behind you as you exit.",
+        "You now stand amid the dim, dank fog. You note the last of the sun’s rays illuminating the mist above you, but your vision is largely obscured by both the haze and the growing darkness.",
+        "Given your recent escape, it would not be wise to linger here. You weigh your options. You could address the problem head- on by returning to the Harris house to look for clues. You might also consider returning to the hotel to gather your thoughts. Or you could simply put this all behind you and skip town. It’s too late and too foggy for the ferry to be operational, but you know there are smaller side roads that wind around the lake. You’d have to make the journey on foot and in the dark, but an unpleasant option is still an option."
+      ]
+    }
+  }
+}

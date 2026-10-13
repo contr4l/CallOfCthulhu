@@ -1,0 +1,42 @@
+{
+  "id": "203",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "203:p0",
+      "kind": "heading",
+      "text": "203\n",
+      "sourceLocation": "pdf:spans:[[64,3350,3354]]"
+    },
+    {
+      "id": "203:p1",
+      "kind": "body",
+      "text": "You take a knee and begin twisting the combination lock slowly, \nlistening for the sound of the clicks and feeling for the slight \nstopping of the dial with a successful guess of the number. You \nrepeat this process a few times, and the safe door swings open \nwith a barely perceptible creak.\n",
+      "sourceLocation": "pdf:spans:[[64,3354,3419],[64,3419,3485],[64,3485,3550],[64,3550,3614],[64,3614,3647]]"
+    },
+    {
+      "id": "203:p2",
+      "kind": "body",
+      "text": "The contents of the safe are fairly sparse. There is a stack \nof documents on the bottom shelf: passports, birth certificates, \nand financial papers. A quick look at them reveals nothing of \ninterest. They’re tied to both Amelia and William Harris, so it \nappears as if this safe hasn’t been opened since the professor’s \ndeath. There’s also a solitary small gold bar, a little over 2 lbs. (1 \nkg) in weight, sitting off to one side. Considering the trouble \nyou went through to get to this point, you place the gold bar in \nyour pocket as compensation.\n",
+      "sourceLocation": "pdf:spans:[[64,3647,3709],[64,3709,3775],[64,3775,3838],[64,3838,3903],[64,3903,3969],[64,3969,4041],[64,4041,4106],[64,4106,4172],[64,4172,4201]]"
+    },
+    {
+      "id": "203:p3",
+      "kind": "body",
+      "text": "At least now you won’t be leaving empty-handed. \nSatisfied, and with nothing more to see in the room, you \nleave and move on.\n",
+      "sourceLocation": "pdf:spans:[[64,4201,4250],[64,4250,4308],[64,4308,4327]]"
+    },
+    {
+      "id": "203:p4",
+      "kind": "body",
+      "text": "• Go to 222.\n",
+      "sourceLocation": "pdf:spans:[[64,4327,4340]]"
+    },
+    {
+      "id": "203:p5",
+      "kind": "body",
+      "text": "(207)",
+      "sourceLocation": "pdf:spans:[[64,4340,4345]]"
+    }
+  ]
+}

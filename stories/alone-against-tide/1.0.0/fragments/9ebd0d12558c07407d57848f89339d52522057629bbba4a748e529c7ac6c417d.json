@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "3"
+  ],
+  "text": [
+    "你和其他渡船乘客一起踏上栈桥，迈出头几步，努力重新适应陆地。乘客们仍随意地聊着天，朝各自的目的地走去。你注意到那个丰满女人最后又朝你抛来一个调情的媚眼，随后自信地迈着步子跟在陪同她的女人们身后。那两名穿深色西装的男子则快步从你身边挤过，把你撞到一旁。桑福德最后朝你挥挥手，笑了笑，随后开始照料那艘锈迹斑斑的旧船——那是他的心头骄傲。",
+    "太阳最后的余晖正在迅速消退，湖面上的雾气此刻也愈发浓厚。夜色尚早，但你不想在自己不熟悉的小镇里摸黑穿行。环顾四周，你看见湖畔一栋外观奢华、颇具现代风格的建筑前，人群正拥挤着争相入内。门外立着一块折叠招牌，由一盏提灯照亮，上面用醒目的大字写着：“今晚拍卖遗产”。",
+    "那里似乎是眼下最热闹的地方，不过你也可以先找个地方过夜，明早再开始办事。",
+    "如果你还没有这样做，请按照《克苏鲁的呼唤入门套装》第二册第 7 页，或《克苏鲁的呼唤：守秘人规则书》第 34–35 页，计算你的次要属性。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 3",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 3",
+      "text": [
+        "You take your first steps onto the pier with the rest of the ferry passengers, trying to get your land legs once again. The passengers still chat casually as they walk off to their destinations. You note one last little flirty wink from the full- figured woman as she struts along confidently behind the women accompanying her, and you feel the two dark-suited men push past you at a brisk pace, nudging you out of their way. Sanford gives you one last wave and a smile as he begins tending to the old rust-stained boat that is his pride and joy.",
+        "The last light of the sun is fading fast, and the fog is growing thick on the water now. The night is still young, but you would rather not be wandering around in the dark and fog of a town you are unfamiliar with. Taking in your surroundings, you see a sizable crowd jockeying for entrance into a lavish, modern- looking building along the lakeside. A folding sign sits out front, illuminated by a lantern. The words “ESTATE SALE TONIGHT” are written on it in large, bold letters.",
+        "While this seems to be the main attraction, you could also seek out somewhere to stay for the night and set about your work in the morning.",
+        "If you have not done so already, calculate your secondary attributes as per page 7, Book T wo of the Call of Cthulhu Starter Set, or the summary on pages 34–35 of the Call of Cthulhu: Keeper Rulebook."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "6",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "6:p0",
+      "kind": "heading",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[11,44,46]]"
+    },
+    {
+      "id": "6:p1",
+      "kind": "body",
+      "text": "You feel that the information in the journal is essential to your \ninterests, and you cannot help but make a bid. You place your \npaper with the others and hope that Mr. Warren calls your \nname when the amounts are compared.\n",
+      "sourceLocation": "pdf:spans:[[11,46,113],[11,113,176],[11,176,235],[11,235,271]]"
+    },
+    {
+      "id": "6:p2",
+      "kind": "body",
+      "text": "• Make an Appraise or Credit Rating roll: if you succeed, go to 100; \nif you fail, go to 14.\n",
+      "sourceLocation": "pdf:spans:[[11,271,341],[11,341,364]]"
+    },
+    {
+      "id": "6:p3",
+      "kind": "body",
+      "text": "(81)\n",
+      "sourceLocation": "pdf:spans:[[11,364,369]]"
+    }
+  ]
+}

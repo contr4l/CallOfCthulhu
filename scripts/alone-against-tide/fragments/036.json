@@ -1,0 +1,42 @@
+{
+  "id": "36",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "36:p0",
+      "kind": "heading",
+      "text": "36\n",
+      "sourceLocation": "pdf:spans:[[19,3370,3373]]"
+    },
+    {
+      "id": "36:p1",
+      "kind": "body",
+      "text": "You ask about Officer Powell, and Sanford gives you a \nguarded response. “He’s the law in Esbury. Certainly, knows \nwhat he’s doing, since he handles the town on his own. Truth be \ntold, though, he can be a little intimidating. He’s a big man, and \nnot somebody you’d want to find yourself on the wrong side of. \nI think he gets it from his days in the war. I don’t have cause to \ntalk to him much, though.”\n",
+      "sourceLocation": "pdf:spans:[[19,3373,3428],[19,3428,3489],[19,3489,3554],[19,3554,3622],[19,3622,3686],[19,3686,3754],[19,3754,3781]]"
+    },
+    {
+      "id": "36:p2",
+      "kind": "body",
+      "text": "You exchange a few more pleasantries with Sanford before \nhe goes off to finish guiding the boat into port. You pass the \ntime in casual conversation with the other passengers and in observing the scenery. You note the tall pines and the sloping \nhills along the lakeshore around Esbury. These features, and the \nsmall town beyond, are just visible through the growing mist, \nbut squinting helps make them out to your satisfaction.\n",
+      "sourceLocation": "pdf:spans:[[19,3781,3839],[19,3839,3903],[19,3903,3964],[19,44,108],[19,108,174],[19,174,237],[19,237,293]]"
+    },
+    {
+      "id": "36:p3",
+      "kind": "body",
+      "text": "In time, you arrive on the pier at Esbury, grateful to be off  \nthe water.\n",
+      "sourceLocation": "pdf:spans:[[19,293,357],[19,357,368]]"
+    },
+    {
+      "id": "36:p4",
+      "kind": "body",
+      "text": "• Go to 3.\n",
+      "sourceLocation": "pdf:spans:[[19,368,379]]"
+    },
+    {
+      "id": "36:p5",
+      "kind": "body",
+      "text": "(4, 18, 23, 33, 41, 63)\n",
+      "sourceLocation": "pdf:spans:[[19,379,403]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "26",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "26:p0",
+      "kind": "heading",
+      "text": "26",
+      "sourceLocation": "pdf:visual:[[15,2]]"
+    },
+    {
+      "id": "26:p1",
+      "kind": "body",
+      "text": "The argumentative style that serves you so well at Miskatonic \nUniversity does not wash with your Native guide. Charlie nods \nat your words but makes no response, and you become weary \nof trying. Eventually, you let her deal with it in her own way.",
+      "sourceLocation": "pdf:visual:[[15,4],[15,6],[15,7],[15,9]]"
+    },
+    {
+      "id": "26:p2",
+      "kind": "body",
+      "text": "“I do not feel like sleep tonight, Professor,” she says. “I will take \nthe next watch.”",
+      "sourceLocation": "pdf:visual:[[15,10],[15,12]]"
+    },
+    {
+      "id": "26:p3",
+      "kind": "body",
+      "text": "Something about her tone disturbs you. Make a Psychology roll: if \nyou succeed, go to 410;  if you fail, go to 409.",
+      "sourceLocation": "pdf:visual:[[15,14],[15,15]]"
+    },
+    {
+      "id": "26:p4",
+      "kind": "trace",
+      "text": "(17)",
+      "sourceLocation": "pdf:visual:[[15,17]]"
+    }
+  ]
+}

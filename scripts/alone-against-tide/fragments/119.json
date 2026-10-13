@@ -1,0 +1,60 @@
+{
+  "id": "119",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "119:p0",
+      "kind": "heading",
+      "text": "119\n",
+      "sourceLocation": "pdf:spans:[[39,2610,2614]]"
+    },
+    {
+      "id": "119:p1",
+      "kind": "body",
+      "text": "Judging by the direction you’ve been traveling, the path on \nthe right seems as if it should be the correct one. You leave \nthe crossroads behind and put one foot in front of the other, \nplodding silently down the foggy path.\n",
+      "sourceLocation": "pdf:spans:[[39,2614,2675],[39,2675,2738],[39,2738,2801],[39,2801,2840]]"
+    },
+    {
+      "id": "119:p2",
+      "kind": "body",
+      "text": "You feel the elevation begin to change beneath your feet. You \nare sloping downward now, presumably following a trail that \nwinds along the length of the lake.\n",
+      "sourceLocation": "pdf:spans:[[39,2840,2903],[39,2903,2964],[39,2964,3000]]"
+    },
+    {
+      "id": "119:p3",
+      "kind": "body",
+      "text": "Your suspicions are soon confirmed, as the ground beneath \nyour feet becomes increasingly waterlogged. It isn’t long before \nyour shoes are covered in mud, and water begins to rise around \nyour feet as you slog through the marshy ground.\n",
+      "sourceLocation": "pdf:spans:[[39,3000,3059],[39,3059,3125],[39,3125,3189],[39,3189,3238]]"
+    },
+    {
+      "id": "119:p4",
+      "kind": "body",
+      "text": "Suddenly, the water level rises sharply. You feel it surge up \nto your calf, and then to your knee. As you wade through the \nmuck, you find yourself hoping that the water level will recede \nthe further forward you go.\n",
+      "sourceLocation": "pdf:spans:[[39,3238,3301],[39,3301,3363],[39,3363,3428],[39,3428,3456]]"
+    },
+    {
+      "id": "119:p5",
+      "kind": "body",
+      "text": "It doesn’t. As you slosh onward, the water rises to your waist \nand shows no sign of getting any shallower.\n",
+      "sourceLocation": "pdf:spans:[[39,3456,3520],[39,3520,3564]]"
+    },
+    {
+      "id": "119:p6",
+      "kind": "body",
+      "text": "You feel confident that the road ahead is the correct one, and \nthat the area is flooded. You will have to swim into the fog and \nhope to reach the other side of this unexpected inlet if you are \nto make your way out of here.\n",
+      "sourceLocation": "pdf:spans:[[39,3564,3628],[39,3628,3694],[39,3694,3760],[39,3760,3790]]"
+    },
+    {
+      "id": "119:p7",
+      "kind": "body",
+      "text": "• Make a Swim roll: if you succeed, go to 175; if you fail, lose 1 hit \npoint. If you survive this, go to 18; however, if this reduces you to \nzero hit points, your leg gets caught on a branch hidden beneath the \nwater and you drown. Your visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[39,3790,3862],[39,3862,3933],[39,3933,4003],[39,4003,4063]]"
+    },
+    {
+      "id": "119:p8",
+      "kind": "body",
+      "text": "(158)",
+      "sourceLocation": "pdf:spans:[[39,4063,4068]]"
+    }
+  ]
+}

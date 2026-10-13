@@ -1,0 +1,54 @@
+{
+  "id": "185",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "185:p0",
+      "kind": "heading",
+      "text": "185\n",
+      "sourceLocation": "pdf:spans:[[59,1982,1986]]"
+    },
+    {
+      "id": "185:p1",
+      "kind": "body",
+      "text": "Your fear spurs you on. You drag your injured leg behind you as \nyou wade through the water until you finally kick off and begin \nswimming properly.\n",
+      "sourceLocation": "pdf:spans:[[59,1986,2051],[59,2051,2116],[59,2116,2135]]"
+    },
+    {
+      "id": "185:p2",
+      "kind": "body",
+      "text": "You splash through the murky water for a fair distance before \nmaking it to a patch of drier ground. Mercifully, you don’t hear \nthe sounds of pursuit. \n",
+      "sourceLocation": "pdf:spans:[[59,2135,2198],[59,2198,2264],[59,2264,2288]]"
+    },
+    {
+      "id": "185:p3",
+      "kind": "body",
+      "text": "You don’t wait around for your pursuer to reappear. Though \nthoroughly pained, you limp along, trying to regain your \nbearings. Ultimately, you decide to trust your gut. You pick a \ndirection and start walking. Before long, you come upon a trail \nand feel relatively confident that you’ve made the correct choice.\n",
+      "sourceLocation": "pdf:spans:[[59,2288,2348],[59,2348,2406],[59,2406,2470],[59,2470,2535],[59,2535,2602]]"
+    },
+    {
+      "id": "185:p4",
+      "kind": "body",
+      "text": "You couldn’t be more wrong. Having taken a wrong turn \nearlier, and without any sort of reference point, you’ve gotten \ncompletely turned around. You now find yourself once more \nfacing the town of Esbury.\n",
+      "sourceLocation": "pdf:spans:[[59,2602,2657],[59,2657,2722],[59,2722,2781],[59,2781,2808]]"
+    },
+    {
+      "id": "185:p5",
+      "kind": "body",
+      "text": "You have little time to express your frustration. As you stand \ndismayed in the middle of the road, an automobile comes \nbarreling out of the mist, directly at you.\n",
+      "sourceLocation": "pdf:spans:[[59,2808,2872],[59,2872,2929],[59,2929,2973]]"
+    },
+    {
+      "id": "185:p6",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 191; if you fail, go to 221.\n",
+      "sourceLocation": "pdf:spans:[[59,2975,3047]]"
+    },
+    {
+      "id": "185:p7",
+      "kind": "body",
+      "text": "(163)\n",
+      "sourceLocation": "pdf:spans:[[59,3047,3053]]"
+    }
+  ]
+}

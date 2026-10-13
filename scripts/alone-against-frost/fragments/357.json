@@ -1,0 +1,36 @@
+{
+  "id": "357",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "357:p0",
+      "kind": "heading",
+      "text": "357",
+      "sourceLocation": "pdf:visual:[[66,8]]"
+    },
+    {
+      "id": "357:p1",
+      "kind": "body",
+      "text": "You look into Sylvia’s waxen face. An emptiness has replaced \nthe vitality in her eyes. Her dark auburn hair is streaked with \nwhite. She looks at the pair of you without recognition. Her \nordeal has destroyed her mind.",
+      "sourceLocation": "pdf:visual:[[66,9],[66,10],[66,11],[66,12]]"
+    },
+    {
+      "id": "357:p2",
+      "kind": "body",
+      "text": "You lead her away from the sasquatch camp. She follows with \npassive, mechanical steps. When, the next day, you reach the \nswift-flowing stream that leads through the fissure to the other \nworld, she falls into the churning rapids. Not even attempting \nto swim, she is swept along like a wooden doll.",
+      "sourceLocation": "pdf:visual:[[66,13],[66,14],[66,15],[66,16],[66,17]]"
+    },
+    {
+      "id": "357:p3",
+      "kind": "body",
+      "text": "Go to 542.",
+      "sourceLocation": "pdf:visual:[[66,18]]"
+    },
+    {
+      "id": "357:p4",
+      "kind": "trace",
+      "text": "(192, 398, 500)",
+      "sourceLocation": "pdf:visual:[[66,19]]"
+    }
+  ]
+}

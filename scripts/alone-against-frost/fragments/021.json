@@ -1,0 +1,54 @@
+{
+  "id": "21",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "21:p0",
+      "kind": "heading",
+      "text": "21",
+      "sourceLocation": "pdf:visual:[[13,68]]"
+    },
+    {
+      "id": "21:p1",
+      "kind": "body",
+      "text": "Following another day of fruitless exploration along the floor \nof the valley, your party fixes a hearty supper of stone-baked \nbiscuits, jerky, and beans. Gnats and mosquitoes swarm close, \nbut  the  smoke  from  your  fire  drives  the  worst  of  the  pests \naway. While you eat, you notice Charlie has withdrawn from \nthe group. You attempt to include her by asking if she has any \ncampfire songs or hair-raising stories. ",
+      "sourceLocation": "pdf:visual:[[13,69],[13,70],[13,71],[13,72],[13,73],[13,74],[13,75]]"
+    },
+    {
+      "id": "21:p2",
+      "kind": "body",
+      "text": "“It is bad luck to speak of such things,” she grunts. “The woods do \nnot like to be mocked.”",
+      "sourceLocation": "pdf:visual:[[13,76],[13,77]]"
+    },
+    {
+      "id": "21:p3",
+      "kind": "body",
+      "text": "She gets to her feet and scans the perimeter of the camp, \nsniffing the air. You raise an eyebrow.",
+      "sourceLocation": "pdf:visual:[[13,78],[13,79]]"
+    },
+    {
+      "id": "21:p4",
+      "kind": "body",
+      "text": "“Moose,” she says, before you can frame your question. “It is \nnothing. It is time we went to bed.”",
+      "sourceLocation": "pdf:visual:[[14,1],[14,2]]"
+    },
+    {
+      "id": "21:p5",
+      "kind": "body",
+      "text": "You draw in a deep breath, scenting nothing but the food, the \nsmoke, and the fresh odor of the river. Nonetheless, Charlie’s \nmanner has affected your party’s mood and they are ready to \ncall it a day.",
+      "sourceLocation": "pdf:visual:[[14,3],[14,4],[14,5],[14,6]]"
+    },
+    {
+      "id": "21:p6",
+      "kind": "body",
+      "text": "To take the first watch yourself, go to 40. To trust it to Bernard, go \nto 46. ",
+      "sourceLocation": "pdf:visual:[[14,7],[14,8]]"
+    },
+    {
+      "id": "21:p7",
+      "kind": "trace",
+      "text": "(20)",
+      "sourceLocation": "pdf:visual:[[14,9]]"
+    }
+  ]
+}

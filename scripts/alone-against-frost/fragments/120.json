@@ -1,0 +1,36 @@
+{
+  "id": "120",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "120:p0",
+      "kind": "heading",
+      "text": "120",
+      "sourceLocation": "pdf:visual:[[30,43]]"
+    },
+    {
+      "id": "120:p1",
+      "kind": "body",
+      "text": "You  dig  for  reserves  of  will  and  find  a  primitive  survival \ninstinct. Abruptly, the pressure falls away and you are able to \nget to your feet.",
+      "sourceLocation": "pdf:visual:[[30,44],[30,45],[30,46]]"
+    },
+    {
+      "id": "120:p2",
+      "kind": "body",
+      "text": "You still face death by hunger.",
+      "sourceLocation": "pdf:visual:[[30,47]]"
+    },
+    {
+      "id": "120:p3",
+      "kind": "body",
+      "text": "Make a Hard POW roll: if you succeed, go to 161; if you fail, go \nto 68.",
+      "sourceLocation": "pdf:visual:[[30,48],[30,49]]"
+    },
+    {
+      "id": "120:p4",
+      "kind": "trace",
+      "text": "(119)",
+      "sourceLocation": "pdf:visual:[[30,50]]"
+    }
+  ]
+}

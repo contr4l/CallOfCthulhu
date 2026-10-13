@@ -1,0 +1,30 @@
+{
+  "id": "309",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "309:p0",
+      "kind": "heading",
+      "text": "309",
+      "sourceLocation": "pdf:visual:[[59,81]]"
+    },
+    {
+      "id": "309:p1",
+      "kind": "body",
+      "text": "Huge, ape-like figures—at least a score of them! They appear \nexcited, waving clubs and rocks in their huge paws. Hemmed \nin the gully, you feel very vulnerable.",
+      "sourceLocation": "pdf:visual:[[59,82],[59,83],[59,84]]"
+    },
+    {
+      "id": "309:p2",
+      "kind": "body",
+      "text": "To fire a shot to scare them off, go to 346. To remain calm, go to 348.",
+      "sourceLocation": "pdf:visual:[[59,85]]"
+    },
+    {
+      "id": "309:p3",
+      "kind": "trace",
+      "text": "(289)",
+      "sourceLocation": "pdf:visual:[[59,86]]"
+    }
+  ]
+}

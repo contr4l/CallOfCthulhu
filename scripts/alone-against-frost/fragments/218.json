@@ -1,0 +1,30 @@
+{
+  "id": "218",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "218:p0",
+      "kind": "heading",
+      "text": "218",
+      "sourceLocation": "pdf:visual:[[45,88]]"
+    },
+    {
+      "id": "218:p1",
+      "kind": "body",
+      "text": "One lazy morning, you range along a birch-shaded brook with \nNorman and Sylvia, spear-fishing. Something twangs into the \npapery bark beside your head. You glance at it and see that it is \na small dart of some kind. Immediately a shrill series of whoops \nrings from the foliage. You are under attack by people—people \nonly three feet tall!",
+      "sourceLocation": "pdf:visual:[[45,89],[45,90],[45,91],[45,92],[45,93],[45,94]]"
+    },
+    {
+      "id": "218:p2",
+      "kind": "body",
+      "text": "Go to 113.",
+      "sourceLocation": "pdf:visual:[[45,95]]"
+    },
+    {
+      "id": "218:p3",
+      "kind": "trace",
+      "text": "(324, 600, 601)",
+      "sourceLocation": "pdf:visual:[[45,96]]"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "213"
+  ],
+  "text": [
+    "你迅速伸手去拿身旁的枪。你朝那东西大致所在的方向举枪，扣下扳机开火。枪声震碎了夜空的寂静。想必子弹击中了那生物，因为它的抓握松开了；你还清楚听见它跌进水里，溅起一声水响。",
+    "你转身想逃，却发现自己正面对一张怪异的绿色类人生物面孔：凸出的双眼和松垮的脸。你下意识开枪，那东西也向后跌进水里。",
+    "它刚跌入上涨的洪水，另一只手就抓住了你，这次抓住的是肩膀；还有一只手在摸索着抓你的腿。你朝雾中又打出两发子弹。那些手再次松开，你短暂地重获自由。",
+    "你环顾四周。每个方向的雾中都有一个身影。你急忙给武器重新装弹，开始射击，希望用枪火轰出一条安全通路。",
+    "你用一阵枪火击倒了好几只怪物，但周围的水仍在迅速上涨。你打光了最后一颗子弹，随后试图逃跑，并把枪当作临时棍棒，试图强行闯出去。",
+    "可惜，这些生物还是压倒了你。它们把你拖下去，按在水中，任上涨的洪水夺走你的性命。",
+    "你死了。你英勇奋战，还让许多怪异恐怖之物与你一同葬身，但这仍不足以救下你或这座镇子。你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 213",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 213",
+      "text": [
+        "You quickly reach for the firearm at your side. You point the gun in the thing’s general direction, pull the trigger, and fire. The sound of the gunshot overwhelms the silence of the night air. Presumably, the bullet strikes the creature, as its grip slackens and you hear a distinct splash as it tumbles to the ground.",
+        "You turn to flee but find yourself face-to-face with the bulging eyes and flabby face of a strange, green, vaguely humanoid monstrosity. On impulse, you fire and the thing goes tumbling backward into the water as well.",
+        "No sooner does it fall into the rising flood than another hand grips you, this time by the shoulder, as another gropes for your leg. You empty two more rounds into the mist. The hands go slack once more, and you are freed for a brief moment.",
+        "You direct your attention about you. In every direction, you see a figure in the mist. You hastily reload your weapon and begin firing, hoping to carve out a safe passage with your gunfire.",
+        "You manage to bring down several of the creatures in a hail of gunfire while the water continues to rise rapidly around you. You spend your last bullet, then try to make a run for it, using the gun as a makeshift club as you attempt to force you way out.",
+        "Unfortunately, the creatures overwhelm you. You are dragged down, held under the water, and claimed by the rising flood. You have died. You fought valiantly and took many of the strange horrors to the grave with you, but this was not enough to save yourself or the town. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

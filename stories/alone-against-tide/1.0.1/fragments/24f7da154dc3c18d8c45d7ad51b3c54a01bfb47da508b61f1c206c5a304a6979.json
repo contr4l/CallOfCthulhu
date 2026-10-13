@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "142-death",
+    "142-wounded",
+    "142",
+    "142-brawl",
+    "142-gun"
+  ],
+  "text": [
+    "你担心有人可能身处险境，也可能这场骚乱与房间被盗有关，于是赶紧前去查看。",
+    "你发现隔壁房间的门开着，里面有个高大、看着眼熟的男人，穿着深色西装。他正俯视着倒在地上、遍体鳞伤的佛教僧侣。显然那个穿西装的男人刚刚痛打了他一顿。",
+    "穿西装的男人背对着你，你猜他还没发现你。运气好的话，你可以趁他不备，迅速制服他。",
+    "另外，如果你在埃斯伯里期间拿到过枪，也可以诉诸致命武力。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 142",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 142",
+      "text": [
+        "Fearing that someone might be in danger, or perhaps that this commotion is somehow related to the theft from your room, you rush to investigate.",
+        "You find the adjacent room’s door open, and inside you discover a large and familiar-looking man in a dark suit. He looms over the prone body of a beaten and bloodied Buddhist monk. The man in the suit has clearly worked him over.",
+        "The suited man has his back to you, and you doubt you’ve been noticed yet. With a little luck, you might be able to get the drop on him and subdue him quickly.",
+        "Alternatively, if you have come into possession of a firearm during your stay in Esbury, you could always resort to lethal force."
+      ]
+    }
+  }
+}

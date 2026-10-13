@@ -1,0 +1,54 @@
+{
+  "id": "227",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "227:p0",
+      "kind": "heading",
+      "text": "227\n",
+      "sourceLocation": "pdf:spans:[[73,44,48]]"
+    },
+    {
+      "id": "227:p1",
+      "kind": "body",
+      "text": "You stare at Banyu as he completes his chant, and it’s as if a \ngreat weight has fallen from his shoulders. You look at him \ncuriously for a moment before you notice the pounding at the \ndoor fades to a stop. Cautiously, you go to the door and crack it \nopen a little, so you can look outside.\n",
+      "sourceLocation": "pdf:spans:[[73,48,112],[73,112,173],[73,173,235],[73,235,302],[73,302,342]]"
+    },
+    {
+      "id": "227:p2",
+      "kind": "body",
+      "text": "As the door swings open, a rush of water swirls into the \nchurch, soaking your legs and the floor around you, before \npooling amid the church pews. Looking out into the streets, \nit appears that all of Esbury is awash with waist-deep water, \nthough the fog has faded and the water doesn’t appear to be \nrising any further.\n",
+      "sourceLocation": "pdf:spans:[[73,342,400],[73,400,460],[73,460,521],[73,521,584],[73,584,645],[73,645,665]]"
+    },
+    {
+      "id": "227:p3",
+      "kind": "body",
+      "text": "Banyu comes to join you and he breathes a sigh of relief. \n“It is done now. We will be safe for the moment. I will take the \nartifacts with me when I leave this place. We will prevent this from \nhappening again.”\n",
+      "sourceLocation": "pdf:spans:[[73,665,724],[73,724,790],[73,790,860],[73,860,878]]"
+    },
+    {
+      "id": "227:p4",
+      "kind": "body",
+      "text": "With that, Banyu gathers up the sack of items by the altar \nand wades out into the floodwater. You don’t know where he’s \ngoing, but you never see him again.\n",
+      "sourceLocation": "pdf:spans:[[73,878,938],[73,938,1000],[73,1000,1036]]"
+    },
+    {
+      "id": "227:p5",
+      "kind": "body",
+      "text": "In time, Esbury is evacuated. The bodies of some residents are \nfound, their deaths labeled as drowning. Some residents claim \nto have seen strange things in the mist, which the papers label \nas an outbreak of mass hysteria brought on by the anomalous \nflooding. Some residents are committed to mental institutions, \nthough many return to Esbury when the water recedes.\n",
+      "sourceLocation": "pdf:spans:[[73,1036,1100],[73,1100,1163],[73,1163,1228],[73,1228,1289],[73,1289,1353],[73,1353,1406]]"
+    },
+    {
+      "id": "227:p6",
+      "kind": "body",
+      "text": "You’re still not entirely sure what went on there, but you are \nfully aware that it wasn’t entirely natural. You do your best to \nforget it, but the memory still lingers in the back of your mind. \nYou never return to Esbury.\nYou have survived this adventure, and you may save this character \nto use at a later time, if you wish. Your visit to Esbury is over. \nTHE END. \n",
+      "sourceLocation": "pdf:spans:[[73,1406,1470],[73,1470,1536],[73,1536,1603],[73,1603,1631],[73,1633,1700],[73,1700,1768],[73,1768,1778]]"
+    },
+    {
+      "id": "227:p7",
+      "kind": "body",
+      "text": "(215)\n",
+      "sourceLocation": "pdf:spans:[[73,1778,1784]]"
+    }
+  ]
+}

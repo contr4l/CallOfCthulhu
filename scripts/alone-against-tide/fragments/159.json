@@ -1,0 +1,36 @@
+{
+  "id": "159",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "159:p0",
+      "kind": "heading",
+      "text": "159\n",
+      "sourceLocation": "pdf:spans:[[51,3580,3584]]"
+    },
+    {
+      "id": "159:p1",
+      "kind": "body",
+      "text": "You throw yourself out of the way of the careening automobile \nas it swerves back and forth across the road. You let it pass \nbefore you finally rise and brush off the worst of the mud.\n",
+      "sourceLocation": "pdf:spans:[[51,3584,3647],[51,3647,3710],[51,3710,3770]]"
+    },
+    {
+      "id": "159:p2",
+      "kind": "body",
+      "text": "As annoyed and frightened as you are by what just occurred, \nit dawns on you that this was a good thing—it confirms the \ndirection you should be going. You follow the car, marching \nsilently and purposefully on.\n",
+      "sourceLocation": "pdf:spans:[[51,3770,3831],[51,3831,3891],[51,3891,3952],[51,3952,3982]]"
+    },
+    {
+      "id": "159:p3",
+      "kind": "body",
+      "text": "• Make a CON roll: if you succeed, go to 184; if you fail, go to 233.\n",
+      "sourceLocation": "pdf:spans:[[51,3984,4054]]"
+    },
+    {
+      "id": "159:p4",
+      "kind": "body",
+      "text": "(212)",
+      "sourceLocation": "pdf:spans:[[51,4054,4059]]"
+    }
+  ]
+}

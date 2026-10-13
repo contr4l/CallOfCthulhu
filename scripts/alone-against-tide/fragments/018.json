@@ -1,0 +1,66 @@
+{
+  "id": "18",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "18:p0",
+      "kind": "heading",
+      "text": "18\n",
+      "sourceLocation": "pdf:spans:[[15,44,47]]"
+    },
+    {
+      "id": "18:p1",
+      "kind": "body",
+      "text": "You tell the ferryman you’re an author working on a new novel \nthat you’ve been researching for some time. You mention how \nyou were planning to consult with Prof. Harris here in Esbury \nabout some historical background information for your writing.\n",
+      "sourceLocation": "pdf:spans:[[15,47,110],[15,110,171],[15,171,234],[15,234,297]]"
+    },
+    {
+      "id": "18:p2",
+      "kind": "body",
+      "text": "The ferryman looks at you quizzically. “Professor Harris? \nDidn’t you hear? He’s dead. About a week ago. Officer Powell could \ntell you more. Or his widow, Amelia. She’ll be hosting an estate sale \nfor some of the Professor’s things tonight. Poor thing, she really needs \nthe windfall, especially in a town like Esbury. Might be you could \npick up some of his notes for cheap and do the research yourself.” The \nman shrugs, clearly not wanting to dwell on buying the items \nof a dead man. He extends his hand in a friendly gesture, trying \nto change the subject. “I’m Lance Sanford by the way. Pleasure to \nmeet you.”\n",
+      "sourceLocation": "pdf:spans:[[15,297,356],[15,356,424],[15,424,495],[15,495,569],[15,569,637],[15,637,709],[15,709,771],[15,771,837],[15,837,904],[15,904,915]]"
+    },
+    {
+      "id": "18:p3",
+      "kind": "body",
+      "text": "• To inquire about Prof. Harris, go to 27.\n",
+      "sourceLocation": "pdf:spans:[[15,915,958]]"
+    },
+    {
+      "id": "18:p4",
+      "kind": "body",
+      "text": "• To inquire about Officer Powell, go to 36.\n",
+      "sourceLocation": "pdf:spans:[[15,958,1003]]"
+    },
+    {
+      "id": "18:p5",
+      "kind": "body",
+      "text": "• To ask Lance Sanford about himself, go to 42.\n",
+      "sourceLocation": "pdf:spans:[[15,1003,1051]]"
+    },
+    {
+      "id": "18:p6",
+      "kind": "body",
+      "text": "• To ask about the estate sale, go to 66.\n",
+      "sourceLocation": "pdf:spans:[[15,1051,1093]]"
+    },
+    {
+      "id": "18:p7",
+      "kind": "body",
+      "text": "• To ask about the widow Amelia, go to 89.\n",
+      "sourceLocation": "pdf:spans:[[15,1093,1136]]"
+    },
+    {
+      "id": "18:p8",
+      "kind": "body",
+      "text": "• To pass the time waiting to arrive in Esbury, go to 56.\n",
+      "sourceLocation": "pdf:spans:[[15,1136,1194]]"
+    },
+    {
+      "id": "18:p9",
+      "kind": "body",
+      "text": "(80)\n",
+      "sourceLocation": "pdf:spans:[[15,1194,1199]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "400",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "400:p0",
+      "kind": "heading",
+      "text": "400",
+      "sourceLocation": "pdf:visual:[[72,1]]"
+    },
+    {
+      "id": "400:p1",
+      "kind": "body",
+      "text": "Rocks strike around you, embedding themselves in the earth. \nThe ape-men—sasquatches—are so high above you that their \nmissiles impact with fearsome velocity.",
+      "sourceLocation": "pdf:visual:[[72,2],[72,3],[72,4]]"
+    },
+    {
+      "id": "400:p2",
+      "kind": "body",
+      "text": "To try to rush through the hail of rocks, go to 406. To hold your \nposition and try to frighten off the sasquatch with gunfire, go to \n539. To retreat into the valley and only return once the ape-men \nhave gone, go to 291.",
+      "sourceLocation": "pdf:visual:[[72,5],[72,6],[72,7],[72,8]]"
+    },
+    {
+      "id": "400:p3",
+      "kind": "trace",
+      "text": "(371)",
+      "sourceLocation": "pdf:visual:[[72,9]]"
+    }
+  ]
+}

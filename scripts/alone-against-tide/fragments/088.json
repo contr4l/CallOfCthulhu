@@ -1,0 +1,36 @@
+{
+  "id": "88",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "88:p0",
+      "kind": "heading",
+      "text": "88\n",
+      "sourceLocation": "pdf:spans:[[32,408,411]]"
+    },
+    {
+      "id": "88:p1",
+      "kind": "body",
+      "text": "You turn around and backtrack toward the entrance to the \nballroom. Something about the officer by the door catches your \nattention and holds it. He gives off a commanding presence and \nhis eyes bore into you intensely as you make your way over to him.\n",
+      "sourceLocation": "pdf:spans:[[32,411,469],[32,469,533],[32,533,597],[32,597,664]]"
+    },
+    {
+      "id": "88:p2",
+      "kind": "body",
+      "text": "As you move within earshot, he rests his hand on his baton \nand clears his throat. “I really hope there isn’t going to be any sort \nof problem, citizen. I wouldn’t want to see anyone getting hurt \ntonight.” His hand does not move from his baton.\n",
+      "sourceLocation": "pdf:spans:[[32,664,724],[32,724,796],[32,796,861],[32,861,910]]"
+    },
+    {
+      "id": "88:p3",
+      "kind": "body",
+      "text": "• Make a Psychology roll: if you succeed, go to 105; if you fail, go \nto 29.\n",
+      "sourceLocation": "pdf:spans:[[32,910,980],[32,980,987]]"
+    },
+    {
+      "id": "88:p4",
+      "kind": "body",
+      "text": "(15, 17)\n",
+      "sourceLocation": "pdf:spans:[[32,987,996]]"
+    }
+  ]
+}

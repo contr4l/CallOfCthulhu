@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "234"
+  ],
+  "text": [
+    "一个念头在你脑海中成形，思绪也变得清晰。但那不是你自己的念头。你看见那只奇怪的爬行动物——那只可憎的水蜥蜴——的幻象。你被催眠般凝视着它的双眼；它朝你嘶嘶作响，召唤你向前。你听从了它的召唤。",
+    "你的双脚带着你向前，越过钟楼边缘，坠入下方的水中。你没有挣扎，没有游泳，也没有反抗。你只是沉下去，接受上涨的水拥抱你。 你死了。伟大的水蜥蜴博克鲁格以其意志引导你走向灭亡。旧日支配者确保毁灭降临这座湖畔小镇。无人生还。最终，那尊偶像会被发现，一切将重新开始。但这与你无关了。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 234",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 234",
+      "text": [
+        "A thought takes shape in your mind and clarity takes hold. But the thought is not your own. You see visions of the strange reptilian beast, that detestable water lizard. You stare into its eyes, hypnotized, as it hisses at you, beckoning you forward. You heed its call.",
+        "Your feet move you forward, carrying you over the edge of the belfry and into the water below. You don’t thrash about. You don’t swim. Or struggle. Or resist. You simply sink, welcomed into the risen water’s embrace. You have died, led to your demise by the will of Bokrug, the great water lizard. The Great Old One has ensured that doom has come to the little lakeside town. There are no survivors. Eventually, the idol will be found, and the process will begin again. But this is of no concern to you. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

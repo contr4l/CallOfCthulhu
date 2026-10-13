@@ -1,0 +1,42 @@
+{
+  "id": "565",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "565:p0",
+      "kind": "heading",
+      "text": "565",
+      "sourceLocation": "pdf:visual:[[96,56]]"
+    },
+    {
+      "id": "565:p1",
+      "kind": "body",
+      "text": "It takes a long time to get free of your bindings. When you \nfinally  do,  full  night  is  upon  the  forest  and  the  wolves  are \nbaying a threatening chorus. Norman finds a natural shelter in \na rock formation and you make the agonized decision to wait \nfor first light.",
+      "sourceLocation": "pdf:visual:[[96,57],[96,58],[96,59],[96,60],[96,61]]"
+    },
+    {
+      "id": "565:p2",
+      "kind": "body",
+      "text": "With the dawn, you can follow your trail back to the place \nwhere you left Sylvia.",
+      "sourceLocation": "pdf:visual:[[96,62],[96,63]]"
+    },
+    {
+      "id": "565:p3",
+      "kind": "body",
+      "text": "The  rawhide  cords  are  broken,  snapped  by  a  strength  far \ngreater than hers. The tracks that lead away from the tree are \nconsiderably larger than yours.",
+      "sourceLocation": "pdf:visual:[[96,64],[96,65],[96,66]]"
+    },
+    {
+      "id": "565:p4",
+      "kind": "body",
+      "text": "To follow the tracks, go to 128. To give Sylvia up for lost, go to 279.",
+      "sourceLocation": "pdf:visual:[[96,67]]"
+    },
+    {
+      "id": "565:p5",
+      "kind": "trace",
+      "text": "(563)",
+      "sourceLocation": "pdf:visual:[[96,68]]"
+    }
+  ]
+}

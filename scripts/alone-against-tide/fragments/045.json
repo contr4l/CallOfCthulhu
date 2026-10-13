@@ -1,0 +1,36 @@
+{
+  "id": "45",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "45:p0",
+      "kind": "heading",
+      "text": "45\n",
+      "sourceLocation": "pdf:spans:[[21,1192,1195]]"
+    },
+    {
+      "id": "45:p1",
+      "kind": "body",
+      "text": "You examine the items with a trained eye. The crown and \nceremonial robe are obviously authentic and typical of what you \nwould expect. They are in great condition and would certainly \nfetch a good price, though they are no rarer than any other \nantiquity. Likewise, Prof. Harris’ journal seems like it would be \nof value to a scholar, though a few delicate cursory page turns \nshow that it contains personal accounts and travelogues as well \nas historically relevant information. This is likely a good source \nof information on Prof. Harris himself.\n",
+      "sourceLocation": "pdf:spans:[[21,1195,1252],[21,1252,1317],[21,1317,1380],[21,1380,1441],[21,1441,1508],[21,1508,1573],[21,1573,1638],[21,1638,1706],[21,1706,1746]]"
+    },
+    {
+      "id": "45:p2",
+      "kind": "body",
+      "text": "However, the other items present are noticeably different. \nThe altar and clay cylinders bear a similar script, and both show \ncomparable signs of aging and wear. Given this, they are unlikely \nto be fabrications, but they are unlike more traditional finds from \nancient India. A close inspection of the lizard idol leads you to \nbelieve it is likewise verifiably authentic. Though the workmanship \nis strange and unnatural and clearly nothing like anything you’ve \nseen from ancient India or elsewhere, it doesn’t bear any signs of \nwork from modern tools or influence from modern styles either.\n",
+      "sourceLocation": "pdf:spans:[[21,1746,1806],[21,1806,1873],[21,1873,1940],[21,1940,2009],[21,2009,2076],[21,2076,2145],[21,2145,2212],[21,2212,2280],[21,2280,2343]]"
+    },
+    {
+      "id": "45:p3",
+      "kind": "body",
+      "text": "• Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[21,2343,2355]]"
+    },
+    {
+      "id": "45:p4",
+      "kind": "body",
+      "text": "(70)\n",
+      "sourceLocation": "pdf:spans:[[21,2355,2360]]"
+    }
+  ]
+}

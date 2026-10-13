@@ -1,0 +1,42 @@
+{
+  "id": "580",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "580:p0",
+      "kind": "heading",
+      "text": "580",
+      "sourceLocation": "pdf:visual:[[99,20]]"
+    },
+    {
+      "id": "580:p1",
+      "kind": "body",
+      "text": "The woman remains sullen and angry. Norman suggests tying \nher up for her own safety. Sylvia silences him with a glare and \noffers the woman some of your food.",
+      "sourceLocation": "pdf:visual:[[99,23],[99,24],[99,26]]"
+    },
+    {
+      "id": "580:p2",
+      "kind": "body",
+      "text": "You are shaken awake in the small hours during Norman’s \nwatch. “I’m sorry, Professor. The girl’s gone. I checked on her not five \nminutes ago. She must have been absolutely silent.”",
+      "sourceLocation": "pdf:visual:[[99,27],[99,29],[99,30]]"
+    },
+    {
+      "id": "580:p3",
+      "kind": "body",
+      "text": "You are not going to intercept a stealthy local in the woods at \nnight. And it’s unlikely you could find that clearing again. You \nshrug and go back to sleep.",
+      "sourceLocation": "pdf:visual:[[99,31],[99,32],[99,33]]"
+    },
+    {
+      "id": "580:p4",
+      "kind": "body",
+      "text": "Go to 513.",
+      "sourceLocation": "pdf:visual:[[99,34]]"
+    },
+    {
+      "id": "580:p5",
+      "kind": "trace",
+      "text": "(578)",
+      "sourceLocation": "pdf:visual:[[99,35]]"
+    }
+  ]
+}

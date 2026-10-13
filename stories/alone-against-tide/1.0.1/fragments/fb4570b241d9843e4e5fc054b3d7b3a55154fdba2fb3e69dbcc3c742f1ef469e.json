@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "106"
+  ],
+  "text": [
+    "你穿好衣服，吃过为你准备的简单早餐，准备开始新的一天。你停下来想了想，这一天对你意味着什么。",
+    "你想到哈里斯教授。如果你愿意，可以进一步调查他的死因。考虑到你还不知道他的遗孀阿米莉娅住在哪里，调查只能从警察局开始，向鲍威尔警官查阅正式报告。",
+    "或者，你也可以利用空闲时间检查自己的行李，看看带着什么东西。旅馆老板进过你的房间，因此检查物品或许是有必要的。也可能你另有理由想看看自己的财物。",
+    "最后，如果你觉得自己在埃斯伯里的事情已经办完，也可以去渡口找兰斯·桑福德。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 106",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 106",
+      "text": [
+        "After getting dressed and eating the modest breakfast set out for you, you’re ready to begin your day. You take a moment to consider what that means for you.",
+        "Your mind turns to Prof. Harris. If you’re so inclined, you might be able to investigate the circumstances of his death further. Considering that you don’t have his widow Amelia’s address, you would have to start your search with the official report filed with Officer Powell at the police station.",
+        "Alternatively, you could take this free time to look through your belongings and examine any items you might have. The hotel owner has been in your room, so a check of your things might be in order. Or perhaps you have some other reason to look over your possessions.",
+        "Finally, if you feel that your business in Esbury is concluded, you could always try to find Lance Sanford at the ferry."
+      ]
+    }
+  }
+}

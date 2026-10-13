@@ -1,0 +1,30 @@
+{
+  "id": "472",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "472:p0",
+      "kind": "heading",
+      "text": "472",
+      "sourceLocation": "pdf:visual:[[83,29]]"
+    },
+    {
+      "id": "472:p1",
+      "kind": "body",
+      "text": "The canoe is the answer to your problems. After you pass a \nseries of rapids, the game and wild fruits become much more \ncommon. You continue on swiftly day by day, until a rock holes \nthe canoe’s bottom, forcing you to abandon it. However, you \nhave already reached frequently traveled trails.",
+      "sourceLocation": "pdf:visual:[[83,30],[83,31],[83,32],[83,33],[83,34]]"
+    },
+    {
+      "id": "472:p2",
+      "kind": "body",
+      "text": "Go to 513.",
+      "sourceLocation": "pdf:visual:[[83,35]]"
+    },
+    {
+      "id": "472:p3",
+      "kind": "trace",
+      "text": "(471)",
+      "sourceLocation": "pdf:visual:[[83,36]]"
+    }
+  ]
+}

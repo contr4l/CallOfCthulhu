@@ -1,0 +1,30 @@
+{
+  "id": "12",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "12:p0",
+      "kind": "heading",
+      "text": "12",
+      "sourceLocation": "pdf:visual:[[11,67]]"
+    },
+    {
+      "id": "12:p1",
+      "kind": "body",
+      "text": "Your four companions manage to hold onto the battered canoe. \nThe current carries them to a drift-strewn sandbar. Charlie gets \nthe students to safety as you fight the rushing water. Thick with \ndebris, it tosses you around.",
+      "sourceLocation": "pdf:visual:[[11,68],[11,69],[11,70],[11,71]]"
+    },
+    {
+      "id": "12:p2",
+      "kind": "body",
+      "text": "Make a Swim roll. If you succeed, go to 13. If you fail, take 1D6 \ndamage,  then  go  to  13.  If  you  fumble  the  roll,  you  are  swept  to \nyour  death  in  the  churning  waters  of  the  North  Hanninah. The \nNadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[12,1],[12,2],[12,3],[12,4]]"
+    },
+    {
+      "id": "12:p3",
+      "kind": "trace",
+      "text": "(7)",
+      "sourceLocation": "pdf:visual:[[12,5]]"
+    }
+  ]
+}

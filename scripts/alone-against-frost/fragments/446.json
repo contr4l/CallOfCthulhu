@@ -1,0 +1,42 @@
+{
+  "id": "446",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "446:p0",
+      "kind": "heading",
+      "text": "446",
+      "sourceLocation": "pdf:visual:[[78,16]]"
+    },
+    {
+      "id": "446:p1",
+      "kind": "body",
+      "text": "The possessed ruin of Charlie gives an inhuman scream and \ngrabs her hatchet. With the speed of a rabid puma, she springs \nat your frightened party.",
+      "sourceLocation": "pdf:visual:[[78,17],[78,18],[78,19]]"
+    },
+    {
+      "id": "446:p2",
+      "kind": "body",
+      "text": "Make a Psychology roll for each member of your party. Anybody \nwho succeeds may snap off a shot at point-blank range (granting \na bonus die). Afterward, you must fight Charlie with any other \nweapons on hand.",
+      "sourceLocation": "pdf:visual:[[78,20],[78,21],[78,22],[78,23]]"
+    },
+    {
+      "id": "446:p3",
+      "kind": "body",
+      "text": "Charlie attacks with 35% (17/7) skill, dealing 2D6+1 damage. \nShe targets Bernard first, and then you. Her possessed body continues \nto fight beyond mortal limits—treat her as having 28 hit points.",
+      "sourceLocation": "pdf:visual:[[78,24],[78,25],[78,26]]"
+    },
+    {
+      "id": "446:p4",
+      "kind": "body",
+      "text": "If you destroy the body of your doomed guide, the survivors must get \naway as fast as possible, before the entity selects a new victim. Go to 442.",
+      "sourceLocation": "pdf:visual:[[78,27],[78,28]]"
+    },
+    {
+      "id": "446:p5",
+      "kind": "trace",
+      "text": "(445)",
+      "sourceLocation": "pdf:visual:[[78,29]]"
+    }
+  ]
+}

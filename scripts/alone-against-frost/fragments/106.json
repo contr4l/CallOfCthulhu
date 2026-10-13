@@ -1,0 +1,30 @@
+{
+  "id": "106",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "106:p0",
+      "kind": "heading",
+      "text": "106",
+      "sourceLocation": "pdf:visual:[[28,17]]"
+    },
+    {
+      "id": "106:p1",
+      "kind": "body",
+      "text": "You draw a stiff, burning brand from the campfire and then \ncreep up behind the supposed “monster.” When he begins to \nturn his head, you strike.",
+      "sourceLocation": "pdf:visual:[[28,18],[28,19],[28,20]]"
+    },
+    {
+      "id": "106:p2",
+      "kind": "body",
+      "text": "The  wind-walker’s  DEX  is  15.  Make  an  opposed  DEX  roll  to \ndetermine the outcome of your attack. If you win the roll, go to 140. \nIf you lose, go to 141.",
+      "sourceLocation": "pdf:visual:[[28,21],[28,22],[28,23]]"
+    },
+    {
+      "id": "106:p3",
+      "kind": "trace",
+      "text": "(177)",
+      "sourceLocation": "pdf:visual:[[28,24]]"
+    }
+  ]
+}

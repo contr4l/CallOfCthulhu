@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "156"
+  ],
+  "text": [
+    "你小心翼翼地走下楼梯，脚下的台阶吱呀作响。抵达底部后，你发现自己身处一间阴冷、布满灰尘的地下室，唯一的光源是天花板上摇摇欲坠、忽明忽暗的一只昏暗灯泡。空气中隐约有雪茄烟味。",
+    "你注意到对面有一张旧桌子，上面放着一堆奇怪的东西：一对破裂的陶土圆筒、一座镶嵌宝石、刻着古怪涂写的祭坛、一摞文件，还有一尊海绿色石像，形状像某种蜥蜴生物，看上去十分邪异。桌子后面有一台蒸馏器和其他私酒设备。",
+    "你可以查看在这里发现的物品，也可以不管地下室，直接离开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 156",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 156",
+      "text": [
+        "You cautiously descend the stairs, which creak beneath your feet. When you reach the bottom, you find yourself in a dank and dusty basement, illuminated by a single dim and flickering bulb that dangles precariously from the ceiling. The room smells faintly of cigar smoke.",
+        "You notice an old table across from you, on which sits a strange collection of items: a pair of cracked clay cylinders, a gemstone-studded altar with curious scrawls, a stack of papers, and an unnatural looking idol of sea-green stone fashioned in the shape of a lizard-like creature. Behind the table is a still and other bootlegging equipment.",
+        "You might consider looking over the items you have found here, or you could simply leave the basement alone."
+      ]
+    }
+  }
+}

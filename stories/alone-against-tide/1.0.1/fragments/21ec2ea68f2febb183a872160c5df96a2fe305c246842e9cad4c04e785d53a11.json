@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "192"
+  ],
+  "text": [
+    "门向内摆开，在铰链上哐当作响。那个膨胀、畸形的东西蹒跚地走进房间。它毫无生气的凸眼盯着你，腐臭的嘴无声地一张一合。",
+    "你面对这只异界生物时，双手抖得厉害。你的目光来回游移，先盯着它，再看向它身后堵满门口的、更多同类。你再也无法直视那东西，只好闭上眼睛胡乱开火。",
+    "你再次睁眼时，看见那怪物身后墙上有一个弹孔。你打偏了。你来不及镇定下来再开一枪，那只怪物便猛扑过来，把你按倒在地。",
+    "它用开裂破碎的指甲抓开你的喉咙，嘴里无声地念叨着对黑暗之神的赞颂。",
+    "你死了。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 192",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 192",
+      "text": [
+        "The door swings inward, rattling on its hinges. The bulbous, misshapen thing lumbers into the room. Its lifeless, bulging eyes fix on you while its putrid mouth opens and closes silently.",
+        "Your hands shake abominably as you come face-to-face with the alien creature. Your eyes dart back and forth, staring first at it and then at the multitude of others like it that clog the doorway behind it. You cannot bring yourself to stare at the thing any longer, so you close your eyes and fire wildly.",
+        "When you open your eyes again, you see the bullet hole in the wall behind the creature. You missed. You don’t have time to collect your nerves for another shot as the monstrous thing throws itself at you and pins you to the ground.",
+        "With its cracked and broken fingernails, it claws open your throat as it wordlessly mouths praise to its dark god. You are dead. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

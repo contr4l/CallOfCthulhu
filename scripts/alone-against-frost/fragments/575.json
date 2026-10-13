@@ -1,0 +1,30 @@
+{
+  "id": "575",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "575:p0",
+      "kind": "heading",
+      "text": "575",
+      "sourceLocation": "pdf:visual:[[97,79]]"
+    },
+    {
+      "id": "575:p1",
+      "kind": "body",
+      "text": "Shots  ring  out  behind  you.  As  slugs  thump  into  the  mossy \nearth ahead, one of you stumbles. In an instant, the hunters are \non every side.",
+      "sourceLocation": "pdf:visual:[[97,80],[97,81],[97,82]]"
+    },
+    {
+      "id": "575:p2",
+      "kind": "body",
+      "text": "Go to 561.",
+      "sourceLocation": "pdf:visual:[[97,83]]"
+    },
+    {
+      "id": "575:p3",
+      "kind": "trace",
+      "text": "(574, 585)",
+      "sourceLocation": "pdf:visual:[[97,84]]"
+    }
+  ]
+}

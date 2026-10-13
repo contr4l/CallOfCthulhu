@@ -1,0 +1,30 @@
+{
+  "id": "32",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "32:p0",
+      "kind": "heading",
+      "text": "32",
+      "sourceLocation": "pdf:visual:[[15,68]]"
+    },
+    {
+      "id": "32:p1",
+      "kind": "body",
+      "text": "Charlie  works  the  motor  and  the  rest  of  your  group  pitch \nin  with  paddles.  You  spend  a  peaceful  first  day  returning \ndownriver.  The  next  day  out,  a  downpour  turns  the  water \nsavage, whisking you around a cliff-bound bend and down a \nmile-long sequence of rapids.",
+      "sourceLocation": "pdf:visual:[[15,69],[15,70],[15,71],[15,72],[15,73]]"
+    },
+    {
+      "id": "32:p2",
+      "kind": "body",
+      "text": "Make a Pilot (Boat) roll: if you succeed, go to 411; if you fail, go \nto 412.",
+      "sourceLocation": "pdf:visual:[[15,74],[15,75]]"
+    },
+    {
+      "id": "32:p3",
+      "kind": "trace",
+      "text": "(23, 24, 29, 42, 44, 71, 73, 74, 155, 459, 523, 526)",
+      "sourceLocation": "pdf:visual:[[15,76]]"
+    }
+  ]
+}

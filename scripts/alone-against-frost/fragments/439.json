@@ -1,0 +1,30 @@
+{
+  "id": "439",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "439:p0",
+      "kind": "heading",
+      "text": "439",
+      "sourceLocation": "pdf:visual:[[77,24]]"
+    },
+    {
+      "id": "439:p1",
+      "kind": "body",
+      "text": "Sylvia  screams,  her  eyes  wide,  as  deep  wounds  open  in  her \nhands and neck. By the time she falls, it seems like a mercy. \nDesperate, you run on, gasping for air.",
+      "sourceLocation": "pdf:visual:[[77,26],[77,27],[77,28]]"
+    },
+    {
+      "id": "439:p2",
+      "kind": "body",
+      "text": "Attempt a Regular POW roll for Norman: if he succeeds, go to 442; \nif he fails, go to 440.",
+      "sourceLocation": "pdf:visual:[[77,29],[77,30]]"
+    },
+    {
+      "id": "439:p3",
+      "kind": "trace",
+      "text": "(438)",
+      "sourceLocation": "pdf:visual:[[77,31]]"
+    }
+  ]
+}

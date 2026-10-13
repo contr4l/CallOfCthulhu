@@ -1,0 +1,30 @@
+{
+  "id": "84",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "84:p0",
+      "kind": "heading",
+      "text": "84",
+      "sourceLocation": "pdf:visual:[[24,48]]"
+    },
+    {
+      "id": "84:p1",
+      "kind": "body",
+      "text": "Some old field instinct leads you to whisper a warning to the \nstudents, who dart into the undergrowth. To your surprise, a \ntiny man treads lightly out of the woody growth. He is barely \nthree feet tall and thin of limb. His features seem exaggerated, \nand if you were not so close you might think he was wearing \na  wooden  mask.  His  skin  is  a  strange  pale  gray.  Is  he  the \nanthropological discovery your expedition seeks?",
+      "sourceLocation": "pdf:visual:[[24,49],[24,50],[24,51],[24,52],[24,53],[24,54],[24,55]]"
+    },
+    {
+      "id": "84:p2",
+      "kind": "body",
+      "text": "To hide until it is all clear, go to 129. To stand up and make contact, \ngo to 130.",
+      "sourceLocation": "pdf:visual:[[24,56],[24,57]]"
+    },
+    {
+      "id": "84:p3",
+      "kind": "trace",
+      "text": "(56, 163, 498)",
+      "sourceLocation": "pdf:visual:[[24,58]]"
+    }
+  ]
+}

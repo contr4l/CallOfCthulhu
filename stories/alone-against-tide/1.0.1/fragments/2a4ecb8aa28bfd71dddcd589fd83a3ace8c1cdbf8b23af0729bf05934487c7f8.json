@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "236"
+  ],
+  "text": [
+    "班尤念诵咒文时进入高度专注的状态。你看见他脸上满是绝望的希望，同时也感到他相对平静的外表下正滋生着恐惧。咒文念完后，他望向门口，屏住呼吸。",
+    "门上的撞击声停了一会儿，随后又更加猛烈地响起。班尤的脸上满是震惊和恐惧。“咒文没用……我们完了。”他极度惊恐地跪倒在地，门随即碎裂，膨胀的绿色生物开始挤进来。",
+    "你尽力抵挡它们，但随着水位在你周围上涨，它们最终还是压倒了你。它们没有立刻杀死你，而是抓住你和班尤，带着你们沿埃斯伯里被淹的街道走去。最后，它们在一栋着火的房子前停下，把你们扔进火里，随后围着火焰跳舞，动作怪异而非人；它们无声的嘴唇赞颂着那可憎的神：伟大的水蜥蜴博克鲁格。",
+    "你死了。你最终被献祭给一位旧日支配者。死亡很少有比这更糟的方式。你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 236",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 236",
+      "text": [
+        "Banyu enters a state of hyper-focus as he conducts his chant. You see the look of desperate hope on his face while also sensing the budding terror beneath his relatively calm exterior. As his chant ceases, he stares toward the door, holding his breath.",
+        "The banging at the door pauses for a moment, then resumes with renewed vigor. Banyu’s face is full of shock and fear. “The chant did not work… We are doomed.” He drops to his knees in abject horror as the door splinters open and bloated green creatures begin squeezing themselves through the gap.",
+        "You do your best to fend them off, but as the water rises around you, they eventually overwhelm you. They don’t kill you right away. Instead, they seize you and Banyu and carry you off down the flooded streets of Esbury. Eventually, they stop before a building that has been set ablaze. They feed you to the flames and begin to dance around the fire, moving with strange, unearthly motions while their silent lips sing praise to their detestable god: Bokrug, the great water lizard. You have died. Your ultimate fate was as a sacrifice to one of the Great Old Ones. There are few worse ways to die. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

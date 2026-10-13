@@ -1,0 +1,30 @@
+{
+  "id": "104",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "104:p0",
+      "kind": "heading",
+      "text": "104",
+      "sourceLocation": "pdf:visual:[[28,1]]"
+    },
+    {
+      "id": "104:p1",
+      "kind": "body",
+      "text": "Your party rounds a bend and comes face-to-face with horror.",
+      "sourceLocation": "pdf:visual:[[28,2]]"
+    },
+    {
+      "id": "104:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 468.",
+      "sourceLocation": "pdf:visual:[[28,3]]"
+    },
+    {
+      "id": "104:p3",
+      "kind": "trace",
+      "text": "(64)",
+      "sourceLocation": "pdf:visual:[[28,4]]"
+    }
+  ]
+}

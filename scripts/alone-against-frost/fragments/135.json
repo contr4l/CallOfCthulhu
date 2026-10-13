@@ -1,0 +1,30 @@
+{
+  "id": "135",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "135:p0",
+      "kind": "heading",
+      "text": "135",
+      "sourceLocation": "pdf:visual:[[32,12]]"
+    },
+    {
+      "id": "135:p1",
+      "kind": "body",
+      "text": "The night erupts with gunfire.",
+      "sourceLocation": "pdf:visual:[[32,13]]"
+    },
+    {
+      "id": "135:p2",
+      "kind": "body",
+      "text": "Each of your party who has a rifle may fire at normal range, using \nthe appropriate Firearms skill. Everybody may attempt a DEX roll \nand, if successful, may make a second shot. If your party scores two \nhits, go to 202. If they score less, go to 201. ",
+      "sourceLocation": "pdf:visual:[[32,14],[32,15],[32,16],[32,17]]"
+    },
+    {
+      "id": "135:p3",
+      "kind": "trace",
+      "text": "(85, 86, 133)",
+      "sourceLocation": "pdf:visual:[[32,18]]"
+    }
+  ]
+}

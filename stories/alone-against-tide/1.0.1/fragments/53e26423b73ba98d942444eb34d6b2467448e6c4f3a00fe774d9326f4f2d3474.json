@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "54"
+  ],
+  "text": [
+    "你问起哈里斯教授的死因和事情经过，心里担心自己已经知道答案。阿米莉娅深吸一口气后回答：“是约书亚杀了他。”",
+    "你继续追问他们的关系，以及这和她丈夫的死有什么关系。她茫然地看着你，深吸一口气。“我和乔什亲密交往好几年了。我丈夫是个好人，只是总把心思放在工作上。他有时一走就是很久，还成天盯着那些书……我也有需求。像我这个年纪的女人不该被冷落。我是通过他的威士忌生意认识乔什的。他给全镇经营私酒。之后就……顺理成章了。”她微笑着，似乎陷入了回忆。",
+    "“威廉还在的时候，我们也过得很开心。不过最近，乔什坚持要把他从我们之间除掉，这样我们才能在一起。我不喜欢这个主意，但还是答应了，让乔什去处理。我只想让这事过去，和他在一起。我告诉他，我想卖掉所有东西，离开小镇，只要我们两个人。我想那是我第一次看见他发怒。他从没说过为什么。”",
+    "她低头看着自己的手，试图避开你的目光。“你不用担心什么。我们会尽快离开小镇，我建议你也这么做。”",
+    "她最后看了你一眼，皱起眉头。“我可能没那么爱他，但我不想再谈亡夫的死。你若非要追查，尽管搜我的房子。门没锁，不会给你添麻烦。现在别来烦我。”她站起身走到祭坛旁，跪下祈祷，忘记了你的存在。你明白该离开了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 54",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 54",
+      "text": [
+        "You ask about Prof. Harris’ death and how it came to happen, fearing that you already know the answer to your inquiries. Amelia takes a deep breath before answering, “Joshua killed him.”",
+        "You press further, asking about the nature of their relationship, and how this relates to her husband’s death. She stares back at you blankly and takes a deep breath. “Josh and I have been intimate for a few years. My husband was a good man, when he wasn’t obsessing over his work. But he was sometimes away for so long, and paid so much attention to his books… I have needs. A woman my age shouldn’t be neglected. I met Josh through his whiskey business. He bootlegs for the whole town. One thing led to another and…” She smiles, looking lost in thought.",
+        "“We were happy, even with William around. Recently though, Josh had been insistent that we get him out of the picture so that we could be together. I didn’t like it, but I agreed. I let Josh take care of it. I just wanted it to be behind us and for us to be together. I told him I wanted to sell everything and leave town. Just the two of us. I think that was the first time I saw him angry. He never said why.”",
+        "She looks down at her hands, trying to avoid your gaze. “You don’t have to worry about anything. We’ll leave town just as soon as we can. I suggest you do the same.”",
+        "She looks at you one last time and frowns. “I may not have loved him especially, but I don’t want to discuss my late husband’s death any further. If you simply must dig into it, feel free to search my home. I left the door unlocked, so it shouldn’t give you any trouble. Now leave me alone.” She stands and walks over to the altar. She kneels and begins to pray, forgetting your presence. You take your cue to leave."
+      ]
+    }
+  }
+}

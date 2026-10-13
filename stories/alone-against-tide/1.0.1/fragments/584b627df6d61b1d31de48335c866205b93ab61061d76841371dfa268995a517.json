@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "129"
+  ],
+  "text": [
+    "你朝那人走近一步。他听见你靠近，猛地转过身来，惊叫一声，胡乱挥拳。",
+    "他的拳头打中你的胸口，把你击倒在地。他扑到你身上，一拳接一拳地打你。你举起双臂挡住他狂暴攻击中最猛烈的部分。混乱中，你抬头看见僧侣跑出了房间。",
+    "最后，那个穿西装的男人抓住你的衣领，开始把你狠狠往地上摔。没挨几下，你便失去了意识。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 129",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 129",
+      "text": [
+        "You take a step toward the man. He hears your approach and rounds on you, swinging wildly with a shout of surprise.",
+        "His fist catches you in the chest and sends you sprawling backward. He throws himself on top of you, landing blow after blow with his fists. You raise your arms to fend off the worst of his fury as he works you over. Amid the confusion, you glance up to see the monk running out of the room.",
+        "Finally, the man in the suit grabs you by the collar and begins slamming you violently against the floor. It takes only a few such blows before you lose consciousness."
+      ]
+    }
+  }
+}

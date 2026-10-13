@@ -1,0 +1,74 @@
+{
+  "id": "section-attack-and-defense-rolls",
+  "paragraphs": [
+    {
+      "id": "section-attack-and-defense-rolls:p0000",
+      "kind": "body",
+      "text": "Attack and Defense Rolls\n",
+      "sourceLocation": "pdf:spans:[[8,892,917]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0001",
+      "kind": "body",
+      "text": "Combat rolls follow the same\n",
+      "sourceLocation": "pdf:spans:[[8,917,946]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0002",
+      "kind": "body",
+      "text": "procedure. The target number that\n",
+      "sourceLocation": "pdf:spans:[[8,946,980]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0003",
+      "kind": "body",
+      "text": "you must roll to hit or defend from\n",
+      "sourceLocation": "pdf:spans:[[8,980,1016]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0004",
+      "kind": "body",
+      "text": "an opponent is the opponent’s L.\n",
+      "sourceLocation": "pdf:spans:[[8,1016,1049]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0005",
+      "kind": "body",
+      "text": "Example: You fight an L3\n",
+      "sourceLocation": "pdf:spans:[[8,1049,1074]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0006",
+      "kind": "body",
+      "text": "zombie. On your turn, you\n",
+      "sourceLocation": "pdf:spans:[[8,1074,1100]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0007",
+      "kind": "body",
+      "text": "can hit the zombie by rolling\n",
+      "sourceLocation": "pdf:spans:[[8,1100,1130]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0008",
+      "kind": "body",
+      "text": "a 3+ on d6. On the zombie’s\n",
+      "sourceLocation": "pdf:spans:[[8,1130,1158]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0009",
+      "kind": "body",
+      "text": "turn, you dodge its attacks by\n",
+      "sourceLocation": "pdf:spans:[[8,1158,1189]]"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p0010",
+      "kind": "body",
+      "text": "rolling a 3+ on d6.\n",
+      "sourceLocation": "pdf:spans:[[8,1189,1209]]"
+    }
+  ],
+  "sourcePages": [
+    8
+  ]
+}

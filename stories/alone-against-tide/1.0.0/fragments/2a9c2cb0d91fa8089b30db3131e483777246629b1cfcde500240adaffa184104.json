@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "110-lock",
+    "110"
+  ],
+  "text": [
+    "你把注意力转向入口对面的楼梯。你沿楼梯上楼，看见左右两侧各有一扇门。左边的门虚掩着，想必通向卧室。排除之后，右边的门一定通向书房。门似乎锁着，而你没有钥匙。若花些时间，也许能把门打开，但最好不要耗时太久，以免有人前来查看。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 110",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 110",
+      "text": [
+        "You turn your attention to the set of stairs opposite the entrance. You ascend the staircase and see two doors, one to either side of you. The door to your left is slightly ajar, and no doubt leads to the bedroom. By a process of elimination, the door to your right must lead to the study. It seems to be locked and you don’t have a key. With enough time, you might be able to get the door open, but it would probably be unwise to spend too long trying, since someone may come to investigate."
+      ]
+    }
+  }
+}

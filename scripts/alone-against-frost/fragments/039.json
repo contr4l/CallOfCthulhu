@@ -1,0 +1,36 @@
+{
+  "id": "39",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "39:p0",
+      "kind": "heading",
+      "text": "39",
+      "sourceLocation": "pdf:visual:[[16,58]]"
+    },
+    {
+      "id": "39:p1",
+      "kind": "body",
+      "text": "When you come to, you are lying on a hard bed of pebbles \nbeside a small, deeply incised stream. Suddenly, your head is \nfilled with visions of the terrors you have encountered. You sit \nbolt upright, scanning the dense, skeletal stands of aspen and \npaper birch on either side of the ravine. As far as you can tell, \nyou are alone and in no immediate danger.",
+      "sourceLocation": "pdf:visual:[[16,59],[16,60],[16,61],[16,62],[16,63],[16,64]]"
+    },
+    {
+      "id": "39:p2",
+      "kind": "body",
+      "text": "You check your weapons and find nothing but your hunting \nknife, still in its sheath. You decide to stay where you are until \nmorning, in the faint hope that someone will find you. By the \ntime the mists are burned off by the morning sun, you give up \nthat hope. You are on your own.",
+      "sourceLocation": "pdf:visual:[[16,65],[16,66],[16,67],[16,68],[16,69]]"
+    },
+    {
+      "id": "39:p3",
+      "kind": "body",
+      "text": "Go to 67.",
+      "sourceLocation": "pdf:visual:[[16,70]]"
+    },
+    {
+      "id": "39:p4",
+      "kind": "trace",
+      "text": "(72, 264)",
+      "sourceLocation": "pdf:visual:[[16,71]]"
+    }
+  ]
+}

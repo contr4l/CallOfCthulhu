@@ -1,0 +1,36 @@
+{
+  "id": "51",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "51:p0",
+      "kind": "heading",
+      "text": "51\n",
+      "sourceLocation": "pdf:spans:[[22,2855,2858]]"
+    },
+    {
+      "id": "51:p1",
+      "kind": "body",
+      "text": "You pick a path and head down it, figuring that your odds are \nas equally likely to be right or wrong here. As you continue \nwalking, you notice the mist becomes even more obscuring. The \nfading light and the hint of darkness compound the lack of \nvisibility.\n",
+      "sourceLocation": "pdf:spans:[[22,2858,2921],[22,2921,2983],[22,2983,3046],[22,3046,3106],[22,3106,3118]]"
+    },
+    {
+      "id": "51:p2",
+      "kind": "body",
+      "text": "You notice the trail now rises steeply as it winds its way away \nfrom Esbury. You take this as a good sign since it means you’re \nfarther from the lake shore. While you’re smiling at your good \nfortune, you fail to spot the muddy patch of ground that causes \nyou to slip and go stumbling toward the edge of a cliff.\n",
+      "sourceLocation": "pdf:spans:[[22,3118,3183],[22,3183,3248],[22,3248,3312],[22,3312,3377],[22,3377,3434]]"
+    },
+    {
+      "id": "51:p3",
+      "kind": "body",
+      "text": "• Make a Climb roll: if you succeed, go to 174; if you fail, take 1D6 \ndamage. If you survive this, go to 139; however, if this reduces \nyou to zero hit points, you have fallen to your death. Your visit to \nEsbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[22,3434,3505],[22,3505,3571],[22,3571,3641],[22,3641,3666]]"
+    },
+    {
+      "id": "51:p4",
+      "kind": "body",
+      "text": "(158)\n",
+      "sourceLocation": "pdf:spans:[[22,3666,3672]]"
+    }
+  ]
+}

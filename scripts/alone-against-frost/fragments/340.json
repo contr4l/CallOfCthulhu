@@ -1,0 +1,30 @@
+{
+  "id": "340",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "340:p0",
+      "kind": "heading",
+      "text": "340",
+      "sourceLocation": "pdf:visual:[[64,12]]"
+    },
+    {
+      "id": "340:p1",
+      "kind": "body",
+      "text": "You break free of the pack, which tears at the bodies of your \nhapless students. That grisly diversion allows you to get a good \nhead start before a few of the predators break off to give chase. \nCan you keep going until they lose interest?",
+      "sourceLocation": "pdf:visual:[[64,13],[64,14],[64,15],[64,16]]"
+    },
+    {
+      "id": "340:p2",
+      "kind": "body",
+      "text": "Make a CON roll. If you have fewer than half your original hit \npoints, you must take a penalty die. If you succeed, go to 356. If you \nfail, the Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[64,17],[64,18],[64,19]]"
+    },
+    {
+      "id": "340:p3",
+      "kind": "trace",
+      "text": "(307)",
+      "sourceLocation": "pdf:visual:[[64,20]]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "113"
+  ],
+  "text": [
+    "你惊恐地尖叫，看着那怪物蹒跚地朝你走来。你慌忙想逃，双腿却不听使唤。你急着逃跑，结果绊倒自己，摔在地上。",
+    "你翻倒在地时，那可憎的生物扑到你身上。它长着手指的双手箍住你的喉咙，开始扼杀你的生命。它一边死死掐住你，一边猛烈摇晃你，直到你被活活掐死。",
+    "你失去意识前，最后看到的是那双可怕而空洞的眼睛，直直望进你的灵魂。你被一个来自异世界的生物杀死了。你不知道这怪物为何会出现在这里，但此刻这已无关紧要，因为你的尸体成了湖畔小镇街道上的装饰。你可以重新开始这场冒险，再试一次；但此刻，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 113",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 113",
+      "text": [
+        "You let out a frightened scream as the creature lumbers toward you. You panic and try to run but your legs fail you. You stumble and fall, tripping over yourself in your haste to escape.",
+        "As you tumble to the ground, the abominable being throws itself on top of you. Its long-fingered hands wrap around your throat and begin choking the life out of you. The creature shakes you violently as it steadily throttles you to death.",
+        "As you black out, the last thing you see are those horrible, lifeless eyes staring into your soul. You have been killed by a being from another world. Though you are uncertain how this creature came to be here, it matters little now, as your lifeless body adorns the streets of the lakeside town. Though you are free to start the adventure over and try again, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

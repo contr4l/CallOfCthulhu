@@ -1,0 +1,30 @@
+{
+  "id": "380",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "380:p0",
+      "kind": "heading",
+      "text": "380",
+      "sourceLocation": "pdf:visual:[[69,2]]"
+    },
+    {
+      "id": "380:p1",
+      "kind": "body",
+      "text": "Your party exchanges salvos with the strange entities. It seems \nthey must come quite close to use the full effect of their cold-\nbeam projectors.",
+      "sourceLocation": "pdf:visual:[[69,4],[69,6],[69,7]]"
+    },
+    {
+      "id": "380:p2",
+      "kind": "body",
+      "text": "Each of you with a rifle may fire 3 times at normal range before you \nbecome too numb from the indirect fire of the alien weapons. If you \nscore 3 hits between the two of you, go to 381. If you do not, you are \nrendered unconscious; go to 417.",
+      "sourceLocation": "pdf:visual:[[69,9],[69,11],[69,12],[69,14]]"
+    },
+    {
+      "id": "380:p3",
+      "kind": "trace",
+      "text": "(335, 475, 478, 479)",
+      "sourceLocation": "pdf:visual:[[69,15]]"
+    }
+  ]
+}

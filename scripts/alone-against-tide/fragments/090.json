@@ -1,0 +1,54 @@
+{
+  "id": "90",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "90:p0",
+      "kind": "heading",
+      "text": "90\n",
+      "sourceLocation": "pdf:spans:[[32,2119,2122]]"
+    },
+    {
+      "id": "90:p1",
+      "kind": "body",
+      "text": "You walk into town, toward the Harris address. Even knowing \nthe location, it’s difficult for you to find your way due to your \nunfamiliarity with the town and the density of the peculiar \ngreen mist. As a result, it’s some time before you arrive at the \nHarris house.\n",
+      "sourceLocation": "pdf:spans:[[32,2122,2183],[32,2183,2250],[32,2250,2311],[32,2311,2377],[32,2377,2391]]"
+    },
+    {
+      "id": "90:p2",
+      "kind": "body",
+      "text": "As you approach the building, a man steps out of the fog, \nblocking your path. He is young and thin, with rather angular \nfeatures and the faint hint of a mustache atop his lip. He’s \ndressed in a dark suit and stares at you from beneath a flat cap.\n",
+      "sourceLocation": "pdf:spans:[[32,2391,2450],[32,2450,2513],[32,2513,2575],[32,2575,2641]]"
+    },
+    {
+      "id": "90:p3",
+      "kind": "body",
+      "text": "“You’re an unwelcome surprise. I don’t know what you’re looking \nfor, but you won’t find it here.” Your eyes betray you as you glance at \nthe Harris house. The man scowls visibly. “Why don’t you leave the \npoor widow alone, you creep? If you want to bother her, you’re going \nto have to go through old Joshua here, capiche?” His hand brushes \nbeneath his coat as if searching for something, but then he stops \nhimself. He pauses for a moment, looking you over once more \nbefore spitting on the ground at your feet and turning away.\n",
+      "sourceLocation": "pdf:spans:[[32,2641,2706],[32,2706,2779],[32,2779,2847],[32,2847,2917],[32,2917,2984],[32,2984,3051],[32,3051,3112],[32,3112,3173]]"
+    },
+    {
+      "id": "90:p4",
+      "kind": "body",
+      "text": "• To call out to Joshua, go to 5.\n",
+      "sourceLocation": "pdf:spans:[[32,3173,3207]]"
+    },
+    {
+      "id": "90:p5",
+      "kind": "body",
+      "text": "• To make your way to the Harris house, go to 55.\n",
+      "sourceLocation": "pdf:spans:[[32,3207,3257]]"
+    },
+    {
+      "id": "90:p6",
+      "kind": "body",
+      "text": "• To heed his warning and return to the hotel, go to 122.\n",
+      "sourceLocation": "pdf:spans:[[32,3257,3315]]"
+    },
+    {
+      "id": "90:p7",
+      "kind": "body",
+      "text": "(46, 101)\n",
+      "sourceLocation": "pdf:spans:[[32,3315,3325]]"
+    }
+  ]
+}

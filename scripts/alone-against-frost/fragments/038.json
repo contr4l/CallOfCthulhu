@@ -1,0 +1,30 @@
+{
+  "id": "38",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "38:p0",
+      "kind": "heading",
+      "text": "38",
+      "sourceLocation": "pdf:visual:[[16,52]]"
+    },
+    {
+      "id": "38:p1",
+      "kind": "body",
+      "text": "Grim-faced over the loss of Sylvia, you and Norman confer and \nagree you must pursue this astonishing opportunity. You head \ninto the heart of the hidden valley. ",
+      "sourceLocation": "pdf:visual:[[16,53],[16,54],[16,55]]"
+    },
+    {
+      "id": "38:p2",
+      "kind": "body",
+      "text": "Go to 63.",
+      "sourceLocation": "pdf:visual:[[16,56]]"
+    },
+    {
+      "id": "38:p3",
+      "kind": "trace",
+      "text": "(277, 483, 528)",
+      "sourceLocation": "pdf:visual:[[16,57]]"
+    }
+  ]
+}

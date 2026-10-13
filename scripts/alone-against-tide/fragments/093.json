@@ -1,0 +1,48 @@
+{
+  "id": "93",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "93:p0",
+      "kind": "heading",
+      "text": "93\n",
+      "sourceLocation": "pdf:spans:[[33,44,47]]"
+    },
+    {
+      "id": "93:p1",
+      "kind": "body",
+      "text": "As before, you sense Joshua’s frustration and realize that patience \nis the better course of action. You wait for him to swing. He \nthrows his full weight behind the blow and you easily move aside \nand shove him forward, using his momentum against him.\n",
+      "sourceLocation": "pdf:spans:[[33,47,116],[33,116,179],[33,179,245],[33,245,300]]"
+    },
+    {
+      "id": "93:p2",
+      "kind": "body",
+      "text": "You send him crashing into the wall. He drops to the floor, \nthoroughly dazed by the force of the impact.\n",
+      "sourceLocation": "pdf:spans:[[33,300,361],[33,361,406]]"
+    },
+    {
+      "id": "93:p3",
+      "kind": "body",
+      "text": "You hurry to the front door and barricade it with a chair, \nbuying you time to move about the house freely. Glancing \nabout, you see a small living room and kitchen, and two doors \nat opposite ends of the common area. The door on your left is \nwide open, and you can see a set of stairs leading down. The \ndoor on your right is closed. You assume it leads to the bedroom.\n",
+      "sourceLocation": "pdf:spans:[[33,406,466],[33,466,524],[33,524,587],[33,587,650],[33,650,712],[33,712,778]]"
+    },
+    {
+      "id": "93:p4",
+      "kind": "body",
+      "text": "• To head down the stairs, go to 156.\n",
+      "sourceLocation": "pdf:spans:[[33,778,816]]"
+    },
+    {
+      "id": "93:p5",
+      "kind": "body",
+      "text": "• To head into the bedroom, go to 202.\n",
+      "sourceLocation": "pdf:spans:[[33,816,855]]"
+    },
+    {
+      "id": "93:p6",
+      "kind": "body",
+      "text": "(121)\n",
+      "sourceLocation": "pdf:spans:[[33,855,861]]"
+    }
+  ]
+}

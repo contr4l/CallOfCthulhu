@@ -1,0 +1,60 @@
+{
+  "id": "109",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "109:p0",
+      "kind": "heading",
+      "text": "109\n",
+      "sourceLocation": "pdf:spans:[[36,3556,3560]]"
+    },
+    {
+      "id": "109:p1",
+      "kind": "body",
+      "text": "You hear the clattering and banging in the next room and \npointedly ignore it. Whatever may be going on there, it doesn’t \ninvolve you. You finish setting things straight and take a deep \nbreath, pondering your options.\n",
+      "sourceLocation": "pdf:spans:[[36,3560,3618],[36,3618,3683],[36,3683,3748],[36,3748,3780]]"
+    },
+    {
+      "id": "109:p2",
+      "kind": "body",
+      "text": "You have precious few. You could see if the hotel owner saw \nanyone coming and going. The establishment is small, and they \nwould likely notice anything going on. Maybe that way you \ncould set about recovering your lost belongings.\n",
+      "sourceLocation": "pdf:spans:[[36,3780,3841],[36,3841,3904],[36,3904,3963],[36,3963,4012]]"
+    },
+    {
+      "id": "109:p3",
+      "kind": "body",
+      "text": "Another option is to continue your investigation surrounding \nthe late Prof. Harris and his artifacts. You could go into town to \ngather more information.\n",
+      "sourceLocation": "pdf:spans:[[36,4012,4074],[36,4074,4142],[36,4142,4167]]"
+    },
+    {
+      "id": "109:p4",
+      "kind": "body",
+      "text": "Alternatively, you could always just cut your losses and leave. \nThe ferry won’t be running with the fog as dense as it is, but \nyou could set out into the woods and try circling the lake. This \nwould take several hours of walking through the wilderness in \nthe mist, but with a little luck, you might be able to make it \nback to the road by nightfall.\n",
+      "sourceLocation": "pdf:spans:[[36,4167,4232],[36,4232,4296],[36,4296,4362],[36,4362,4425],[36,4425,4489],[36,4489,4520]]"
+    },
+    {
+      "id": "109:p5",
+      "kind": "body",
+      "text": "• To search for your belongings, go to 134.\n",
+      "sourceLocation": "pdf:spans:[[36,4520,4564]]"
+    },
+    {
+      "id": "109:p6",
+      "kind": "body",
+      "text": "• To continue your investigation, go to 148.\n",
+      "sourceLocation": "pdf:spans:[[36,4564,4609]]"
+    },
+    {
+      "id": "109:p7",
+      "kind": "body",
+      "text": "• To leave town, go to 124.\n",
+      "sourceLocation": "pdf:spans:[[36,4609,4637]]"
+    },
+    {
+      "id": "109:p8",
+      "kind": "body",
+      "text": "(122)",
+      "sourceLocation": "pdf:spans:[[36,4637,4642]]"
+    }
+  ]
+}

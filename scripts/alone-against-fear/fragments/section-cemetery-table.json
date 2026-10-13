@@ -1,0 +1,110 @@
+{
+  "id": "section-cemetery-table",
+  "paragraphs": [
+    {
+      "id": "section-cemetery-table:p0000",
+      "kind": "body",
+      "text": "cemetery table (d6)\n",
+      "sourceLocation": "pdf:spans:[[43,708,728]]"
+    },
+    {
+      "id": "section-cemetery-table:p0001",
+      "kind": "body",
+      "text": "1 Roll on the Undead table.\n",
+      "sourceLocation": "pdf:spans:[[43,728,756]]"
+    },
+    {
+      "id": "section-cemetery-table:p0002",
+      "kind": "body",
+      "text": "2 You meet helpful people. Heal 1 Life.\n",
+      "sourceLocation": "pdf:spans:[[43,756,796]]"
+    },
+    {
+      "id": "section-cemetery-table:p0003",
+      "kind": "body",
+      "text": "3 Roll on the Unique Zombie table.\n",
+      "sourceLocation": "pdf:spans:[[43,796,831]]"
+    },
+    {
+      "id": "section-cemetery-table:p0004",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[43,831,833]]"
+    },
+    {
+      "id": "section-cemetery-table:p0005",
+      "kind": "body",
+      "text": "Safe House. You find an area that is easy to defend. You may\n",
+      "sourceLocation": "pdf:spans:[[43,833,894]]"
+    },
+    {
+      "id": "section-cemetery-table:p0006",
+      "kind": "body",
+      "text": "heal up to 2 Sanity and 4 Life every time you visit this place.\n",
+      "sourceLocation": "pdf:spans:[[43,894,958]]"
+    },
+    {
+      "id": "section-cemetery-table:p0007",
+      "kind": "body",
+      "text": "You do not have to roll for random encounters every time you\n",
+      "sourceLocation": "pdf:spans:[[43,958,1019]]"
+    },
+    {
+      "id": "section-cemetery-table:p0008",
+      "kind": "body",
+      "text": "visit this Safe House. If there are already 3 Safe Houses in play\n",
+      "sourceLocation": "pdf:spans:[[43,1019,1085]]"
+    },
+    {
+      "id": "section-cemetery-table:p0009",
+      "kind": "body",
+      "text": "when you roll this result, you create a new Safe House but the\n",
+      "sourceLocation": "pdf:spans:[[43,1085,1148]]"
+    },
+    {
+      "id": "section-cemetery-table:p0010",
+      "kind": "body",
+      "text": "Safe House closest to your current location is no longer a Safe\n",
+      "sourceLocation": "pdf:spans:[[43,1148,1212]]"
+    },
+    {
+      "id": "section-cemetery-table:p0011",
+      "kind": "body",
+      "text": "House. To determine which is closest, count the number of\n",
+      "sourceLocation": "pdf:spans:[[43,1212,1270]]"
+    },
+    {
+      "id": "section-cemetery-table:p0012",
+      "kind": "body",
+      "text": "boxes on the town map that you should cross to reach that\n",
+      "sourceLocation": "pdf:spans:[[43,1270,1328]]"
+    },
+    {
+      "id": "section-cemetery-table:p0013",
+      "kind": "body",
+      "text": "location. If there are two Safe Houses at the same distance,\n",
+      "sourceLocation": "pdf:spans:[[43,1328,1389]]"
+    },
+    {
+      "id": "section-cemetery-table:p0014",
+      "kind": "body",
+      "text": "choose randomly.\n",
+      "sourceLocation": "pdf:spans:[[43,1389,1406]]"
+    },
+    {
+      "id": "section-cemetery-table:p0015",
+      "kind": "body",
+      "text": "5 Roll on the Unique Vampire table.\n",
+      "sourceLocation": "pdf:spans:[[43,1406,1442]]"
+    },
+    {
+      "id": "section-cemetery-table:p0016",
+      "kind": "body",
+      "text": "6 Roll on the Ghost table.",
+      "sourceLocation": "pdf:spans:[[43,1442,1468]]"
+    }
+  ],
+  "sourcePages": [
+    43
+  ]
+}

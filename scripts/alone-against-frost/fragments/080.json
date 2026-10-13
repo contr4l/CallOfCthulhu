@@ -1,0 +1,30 @@
+{
+  "id": "80",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "80:p0",
+      "kind": "heading",
+      "text": "80",
+      "sourceLocation": "pdf:visual:[[24,6]]"
+    },
+    {
+      "id": "80:p1",
+      "kind": "body",
+      "text": "The man is exhausted. But your clumsy attempt could wake \nthe dead.",
+      "sourceLocation": "pdf:visual:[[24,7],[24,8]]"
+    },
+    {
+      "id": "80:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1–4, go to 219; if the result is 5–6, go \nto 180. ",
+      "sourceLocation": "pdf:visual:[[24,9],[24,10]]"
+    },
+    {
+      "id": "80:p3",
+      "kind": "trace",
+      "text": "(178)",
+      "sourceLocation": "pdf:visual:[[24,11]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "597",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "597:p0",
+      "kind": "heading",
+      "text": "597",
+      "sourceLocation": "pdf:visual:[[101,22]]"
+    },
+    {
+      "id": "597:p1",
+      "kind": "body",
+      "text": "Despite the risks and your weakened condition, you diverge \nfrom the direct route to Fort McDonald, determined to explore \nas much of the valley as possible before you quit.",
+      "sourceLocation": "pdf:visual:[[101,24],[101,26],[101,27]]"
+    },
+    {
+      "id": "597:p2",
+      "kind": "body",
+      "text": "To strike deep into the forest, go to 501. To hug the tree line, go to \n494. To explore rocky environs, go to 427. To stick to the river, make \na Luck roll: if you succeed, go to 126; if you fail, go to 119.",
+      "sourceLocation": "pdf:visual:[[101,29],[101,30],[101,31]]"
+    },
+    {
+      "id": "597:p3",
+      "kind": "trace",
+      "text": "(594)",
+      "sourceLocation": "pdf:visual:[[101,32]]"
+    }
+  ]
+}

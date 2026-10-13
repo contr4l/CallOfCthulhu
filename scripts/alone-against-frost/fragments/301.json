@@ -1,0 +1,30 @@
+{
+  "id": "301",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "301:p0",
+      "kind": "heading",
+      "text": "301",
+      "sourceLocation": "pdf:visual:[[58,73]]"
+    },
+    {
+      "id": "301:p1",
+      "kind": "body",
+      "text": "You grab your rifle and fire point-blank into the chest of the \nmonster that was once your research assistant.",
+      "sourceLocation": "pdf:visual:[[58,74],[58,75]]"
+    },
+    {
+      "id": "301:p2",
+      "kind": "body",
+      "text": "If you hit, go to 302. If you miss, go to 339.",
+      "sourceLocation": "pdf:visual:[[58,76]]"
+    },
+    {
+      "id": "301:p3",
+      "kind": "trace",
+      "text": "(303, 305)",
+      "sourceLocation": "pdf:visual:[[58,77]]"
+    }
+  ]
+}

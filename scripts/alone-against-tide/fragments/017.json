@@ -1,0 +1,60 @@
+{
+  "id": "17",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "17:p0",
+      "kind": "heading",
+      "text": "17\n",
+      "sourceLocation": "pdf:spans:[[14,495,498]]"
+    },
+    {
+      "id": "17:p1",
+      "kind": "body",
+      "text": "You have begun gathering information in Esbury. Would you \nlike to interact some more?\nYou may now select another option from those listed. Do not repeat a \nchoice already selected. Once you have chosen three options from the \nlist below (or before, if you are ready to move on) go to 35. Note that \nselecting to leave the hall will make you ineligible to make further \nselections from this list.\n",
+      "sourceLocation": "pdf:spans:[[14,498,557],[14,557,585],[14,585,655],[14,655,725],[14,725,798],[14,798,868],[14,868,895]]"
+    },
+    {
+      "id": "17:p2",
+      "kind": "body",
+      "text": "• To mingle with the crowd of guests, go to 34.\n",
+      "sourceLocation": "pdf:spans:[[14,895,943]]"
+    },
+    {
+      "id": "17:p3",
+      "kind": "body",
+      "text": "• To speak to the officer at the back of the room, go to 88.\n",
+      "sourceLocation": "pdf:spans:[[14,943,1004]]"
+    },
+    {
+      "id": "17:p4",
+      "kind": "body",
+      "text": "• To approach the man in orange, go to 102.\n",
+      "sourceLocation": "pdf:spans:[[14,1004,1048]]"
+    },
+    {
+      "id": "17:p5",
+      "kind": "body",
+      "text": "• To introduce yourself to the dark-suited men, go to 60.\n",
+      "sourceLocation": "pdf:spans:[[14,1048,1106]]"
+    },
+    {
+      "id": "17:p6",
+      "kind": "body",
+      "text": "• To make your way toward the stage and the woman, go to 22.\n",
+      "sourceLocation": "pdf:spans:[[14,1106,1167]]"
+    },
+    {
+      "id": "17:p7",
+      "kind": "body",
+      "text": "• To leave the hall and go find a place to stay for the night, go to 26.\n",
+      "sourceLocation": "pdf:spans:[[14,1167,1240]]"
+    },
+    {
+      "id": "17:p8",
+      "kind": "body",
+      "text": "(2, 28, 29, 37, 40, 43, 44, 57, 72, 105)\n",
+      "sourceLocation": "pdf:spans:[[14,1240,1281]]"
+    }
+  ]
+}

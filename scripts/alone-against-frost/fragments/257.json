@@ -1,0 +1,30 @@
+{
+  "id": "257",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "257:p0",
+      "kind": "heading",
+      "text": "257",
+      "sourceLocation": "pdf:visual:[[51,43]]"
+    },
+    {
+      "id": "257:p1",
+      "kind": "body",
+      "text": "There is no hope of rescue. One of your party must escape \nyour bonds.",
+      "sourceLocation": "pdf:visual:[[51,44],[51,45]]"
+    },
+    {
+      "id": "257:p2",
+      "kind": "body",
+      "text": "Attempt a Hard DEX roll for each party member. If anyone succeeds, \nyour party is released; go to 224. If everybody fails, go to 258.",
+      "sourceLocation": "pdf:visual:[[51,46],[51,47]]"
+    },
+    {
+      "id": "257:p3",
+      "kind": "trace",
+      "text": "(256, 261)",
+      "sourceLocation": "pdf:visual:[[51,48]]"
+    }
+  ]
+}

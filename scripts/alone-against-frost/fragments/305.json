@@ -1,0 +1,36 @@
+{
+  "id": "305",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "305:p0",
+      "kind": "heading",
+      "text": "305",
+      "sourceLocation": "pdf:visual:[[59,34]]"
+    },
+    {
+      "id": "305:p1",
+      "kind": "body",
+      "text": "“No!” Sylvia rasps. Her face is the misshapen echo of a girl from \nlong  ago,  analyzing  a  thorny  paper  in  a  Miskatonic  tutorial \nroom. But her voice is that of a demon. “Come no closer. It is in \nme and I will take you. Run! I… crave...”",
+      "sourceLocation": "pdf:visual:[[59,35],[59,36],[59,37],[59,38]]"
+    },
+    {
+      "id": "305:p2",
+      "kind": "body",
+      "text": "You glance at Norman. To your surprise, he speeds away in \nblind terror. If you hesitate, you may never find him again.",
+      "sourceLocation": "pdf:visual:[[59,39],[59,40]]"
+    },
+    {
+      "id": "305:p3",
+      "kind": "body",
+      "text": "To try to talk Sylvia out of her madness, go to 306. To try to shoot \nher, go to 301. To pursue Norman, go to 338.",
+      "sourceLocation": "pdf:visual:[[59,41],[59,42]]"
+    },
+    {
+      "id": "305:p4",
+      "kind": "trace",
+      "text": "(283)",
+      "sourceLocation": "pdf:visual:[[59,43]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "59"
+  ],
+  "text": [
+    "沃伦先生慢慢斟酌各个姓名和报价，随后喊道：“德克斯特·詹姆斯。”先前那名穿深色西装的男子上前领走祭坛。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 59",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 59",
+      "text": [
+        "Mr. Warren takes his time mulling over the names and figures before calling out the name of a “Dexter James.” One of the dark-suited men from earlier comes forward to claim the altar."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "224",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "224:p0",
+      "kind": "heading",
+      "text": "224",
+      "sourceLocation": "pdf:visual:[[46,42]]"
+    },
+    {
+      "id": "224:p1",
+      "kind": "body",
+      "text": "After so narrow an escape, you and the students are anxious, \neven desperate, to get home. The going becomes easier and you \nprogress without incident. Perhaps you have paid your debt to \nthe gods of the forest.",
+      "sourceLocation": "pdf:visual:[[46,43],[46,44],[46,45],[46,46]]"
+    },
+    {
+      "id": "224:p2",
+      "kind": "body",
+      "text": "Go to 513.",
+      "sourceLocation": "pdf:visual:[[46,47]]"
+    },
+    {
+      "id": "224:p3",
+      "kind": "trace",
+      "text": "(185, 186, 250, 257)",
+      "sourceLocation": "pdf:visual:[[46,48]]"
+    }
+  ]
+}

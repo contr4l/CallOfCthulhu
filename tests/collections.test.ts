@@ -1,7 +1,14 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { randomUUID } from "node:crypto";
-import { mkdtempSync, rmSync } from "node:fs";
+import {
+  cpSync,
+  mkdtempSync,
+  mkdirSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { DatabaseSync } from "node:sqlite";
@@ -104,7 +111,7 @@ test("collections deduplicate across runs, hide locked text, enforce ownership a
     assert.ok(!JSON.stringify(before).includes("测试结局：loop"));
     assert.ok(!JSON.stringify(before).includes("测试结局：rescue"));
     const q =
-      "/api/collections/entry?storyId=collection-fixture&version=1.0.0&kind=endings&id=home";
+      "/api/collections/entry?storyId=collection-fixture&kind=endings&id=home";
     const detail = await app.inject({ url: q, cookies });
     assert.equal(detail.statusCode, 200);
     assert.equal(detail.json().scene.ending, "测试结局：home");
@@ -152,6 +159,63 @@ test("collections deduplicate across runs, hide locked text, enforce ownership a
       },
     });
     assert.deepEqual(await read(), before);
+  } finally {
+    await app.close();
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test("collection progress merges every content version into the latest story", async () => {
+  const dir = mkdtempSync(join(tmpdir(), "coc-collection-versions-")),
+    storyRoot = join(dir, "stories"),
+    source = "tests/fixtures/stories/collection-fixture/1.0.0/story.json",
+    first = join(storyRoot, "collection-fixture", "1.0.0"),
+    latest = join(storyRoot, "collection-fixture", "1.1.0"),
+    databasePath = join(dir, "game.sqlite");
+  mkdirSync(first, { recursive: true });
+  mkdirSync(latest, { recursive: true });
+  cpSync(source, join(first, "story.json"));
+  const next = JSON.parse(readFileSync(source, "utf8"));
+  next.version = "1.1.0";
+  writeFileSync(join(latest, "story.json"), JSON.stringify(next));
+  const app = await buildApp({ storyRoot, databasePath, dice: (min) => min });
+  try {
+    const cookies = await account(app, "跨版本收集玩家");
+    let old = await create(app, cookies);
+    for (const actionId of ["talk", "continue", "step"])
+      old = await action(app, cookies, old, actionId);
+    const db = new DatabaseSync(databasePath);
+    db.prepare("UPDATE runs SET story_version='1.0.0' WHERE id=?").run(
+      old.runId,
+    );
+    db.close();
+    let current = await create(app, cookies);
+    for (const actionId of ["talk", "continue", "step"])
+      current = await action(app, cookies, current, actionId);
+
+    const collections = (
+      await app.inject({ url: "/api/collections", cookies })
+    ).json();
+    assert.equal(collections.length, 1);
+    assert.equal(collections[0].storyId, "collection-fixture");
+    assert.equal(collections[0].version, undefined);
+    assert.equal(collections[0].endings.entries.length, 1);
+    assert.equal(collections[0].endings.entries[0].visits, 2);
+    const detail = await app.inject({
+      url: "/api/collections/entry?storyId=collection-fixture&kind=endings&id=home",
+      cookies,
+    });
+    assert.equal(detail.statusCode, 200, detail.body);
+    assert.equal(detail.json().scene.ending, "测试结局：home");
+    assert.equal(
+      (
+        await app.inject({
+          url: "/api/collections/entry?storyId=collection-fixture&version=1.0.0&kind=endings&id=home",
+          cookies,
+        })
+      ).statusCode,
+      400,
+    );
   } finally {
     await app.close();
     rmSync(dir, { recursive: true, force: true });

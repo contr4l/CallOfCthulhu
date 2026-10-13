@@ -1,0 +1,36 @@
+{
+  "id": "214",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "214:p0",
+      "kind": "heading",
+      "text": "214\n",
+      "sourceLocation": "pdf:spans:[[69,44,48]]"
+    },
+    {
+      "id": "214:p1",
+      "kind": "body",
+      "text": "The thing takes a swipe at you, connecting solidly with your \nbody. The force behind the blow throws you off balance and \nyou’re sent sprawling backward a few feet into the middle of \nthe road. The thing continues to lumber toward you.\n",
+      "sourceLocation": "pdf:spans:[[69,48,110],[69,110,170],[69,170,232],[69,232,284]]"
+    },
+    {
+      "id": "214:p2",
+      "kind": "body",
+      "text": "If you can rise to your feet and move quickly, you may yet be able \nto outrun it. If not, you shudder to think what fate may befall you.\n",
+      "sourceLocation": "pdf:spans:[[69,284,352],[69,352,421]]"
+    },
+    {
+      "id": "214:p3",
+      "kind": "body",
+      "text": "• Make a DEX roll: if you succeed, go to 237; if you fail, go to 117.\n",
+      "sourceLocation": "pdf:spans:[[69,423,493]]"
+    },
+    {
+      "id": "214:p4",
+      "kind": "body",
+      "text": "(169)\n",
+      "sourceLocation": "pdf:spans:[[69,493,499]]"
+    }
+  ]
+}

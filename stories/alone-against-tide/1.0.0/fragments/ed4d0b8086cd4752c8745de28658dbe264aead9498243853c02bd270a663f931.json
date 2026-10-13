@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "1"
+  ],
+  "text": [
+    "夕阳低垂在地平线上，你登上了驶往湖对岸埃斯伯里的渡船。你踏上船时，摆渡人咧嘴笑着，愉快地向你挥手致意。他站在舷梯旁，你从他身边经过时，他摘下帽子挠了挠渐渐秃顶的脑袋，同时欢迎其他乘客。他圆滚滚的身子撑满了那套穿旧了的西装。看上去有些笨拙，不过似乎是个相当和善的人。你把他留在身后，在船头附近找了个座位坐下，目光始终落在目的地上。",
+    "（开场）"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 1",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 1",
+      "text": [
+        "The sun sinks low on the horizon as you board the ferry headed across the lake to Esbury. As you set foot on the boat, the ferryman greets you with a wide smile and a cheery wave. He stands by the gangplank as you pass, welcoming the other passengers as he removes his cap to scratch at his balding head. His pudgy figure fills his well-worn suit. He looks a little awkward, but he seems a rather pleasant sort. Leaving the man behind you, you take a seat toward the prow, eyes fixed on your destination.",
+        "(Beginning)"
+      ]
+    }
+  }
+}

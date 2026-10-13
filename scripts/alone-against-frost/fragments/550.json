@@ -1,0 +1,30 @@
+{
+  "id": "550",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "550:p0",
+      "kind": "heading",
+      "text": "550",
+      "sourceLocation": "pdf:visual:[[94,47]]"
+    },
+    {
+      "id": "550:p1",
+      "kind": "body",
+      "text": "The result of your madness is very unfortunate.",
+      "sourceLocation": "pdf:visual:[[94,48]]"
+    },
+    {
+      "id": "550:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1–4, go to 548; if the result is 5–6, go \nto 215.",
+      "sourceLocation": "pdf:visual:[[94,49],[94,50]]"
+    },
+    {
+      "id": "550:p3",
+      "kind": "trace",
+      "text": "(364)",
+      "sourceLocation": "pdf:visual:[[94,51]]"
+    }
+  ]
+}

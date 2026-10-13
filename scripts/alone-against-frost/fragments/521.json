@@ -1,0 +1,30 @@
+{
+  "id": "521",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "521:p0",
+      "kind": "heading",
+      "text": "521",
+      "sourceLocation": "pdf:visual:[[90,22]]"
+    },
+    {
+      "id": "521:p1",
+      "kind": "body",
+      "text": "Charlie’s fevered eyes bore into yours. Bernard’s disappearance \nhas awakened a powerful terror within her. How can you get \nthrough to your superstitious guide?",
+      "sourceLocation": "pdf:visual:[[90,23],[90,24],[90,25]]"
+    },
+    {
+      "id": "521:p2",
+      "kind": "body",
+      "text": "Attempt a Regular Persuade or Hard Psychoanalysis roll (your \nchoice). If you succeed, go to 522; fail, and go to 123.",
+      "sourceLocation": "pdf:visual:[[90,26],[90,27]]"
+    },
+    {
+      "id": "521:p3",
+      "kind": "trace",
+      "text": "(71, 73, 74)",
+      "sourceLocation": "pdf:visual:[[90,28]]"
+    }
+  ]
+}

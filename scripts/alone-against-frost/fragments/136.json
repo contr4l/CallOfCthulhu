@@ -1,0 +1,36 @@
+{
+  "id": "136",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "136:p0",
+      "kind": "heading",
+      "text": "136",
+      "sourceLocation": "pdf:visual:[[32,19]]"
+    },
+    {
+      "id": "136:p1",
+      "kind": "body",
+      "text": "The rage you feel has awakened something primitive in you, for \nyou track as you never have before. You follow the trail until you \nsee a soft glow breaking through the young trees ahead. ",
+      "sourceLocation": "pdf:visual:[[32,20],[32,21],[32,22]]"
+    },
+    {
+      "id": "136:p2",
+      "kind": "body",
+      "text": "Your party crawls forward, rifles carried in the crooks of your \narms, until you overlook the source of the glow.",
+      "sourceLocation": "pdf:visual:[[32,23],[32,24]]"
+    },
+    {
+      "id": "136:p3",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 203.",
+      "sourceLocation": "pdf:visual:[[32,25]]"
+    },
+    {
+      "id": "136:p4",
+      "kind": "trace",
+      "text": "(87)",
+      "sourceLocation": "pdf:visual:[[32,26]]"
+    }
+  ]
+}

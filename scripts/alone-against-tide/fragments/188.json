@@ -1,0 +1,66 @@
+{
+  "id": "188",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "188:p0",
+      "kind": "heading",
+      "text": "188\n",
+      "sourceLocation": "pdf:spans:[[60,1160,1164]]"
+    },
+    {
+      "id": "188:p1",
+      "kind": "body",
+      "text": "You reach into your pocket and produce the bobby pin you \ncarry on you for just such an occasion. You insert it into the \nlock and fumble with it for a few minutes. It sticks and strains, \nand for a few terrible seconds you fear that it will break in the \nlock. And then the tumblers give, and the door clicks open.\n",
+      "sourceLocation": "pdf:spans:[[60,1164,1222],[60,1222,1286],[60,1286,1353],[60,1353,1420],[60,1420,1480]]"
+    },
+    {
+      "id": "188:p2",
+      "kind": "body",
+      "text": "You push your way into the small study and find the room \nmuch as you expected. The door opens across from a window, \nwhich lets in the pale, greenish light of the mist. This illuminates \nthe room, which is adorned primarily with mostly-empty \nbookcases. There are also several glass display cases throughout \nthe room, but these are similarly empty. At the far end of the \nroom, just beneath the window, is a desk, still littered with the \nprofessor’s blood-soaked papers.\n",
+      "sourceLocation": "pdf:spans:[[60,1480,1538],[60,1538,1598],[60,1598,1668],[60,1668,1724],[60,1724,1790],[60,1790,1854],[60,1854,1921],[60,1921,1954]]"
+    },
+    {
+      "id": "188:p3",
+      "kind": "body",
+      "text": "Searching through the desk drawers, you find stacks of \nnotes and various personal items. Buried in the bottom drawer, \nyou find an impossibly old scrap of papyrus pressed into a \nglass frame. All across the ancient document are strange and \nunusual scrawls. As you pick it up to inspect it, you notice a \nsheet of paper lightly attached to the back of the frame, bearing \nthe same scrawls as the papyrus, but with annotations in its \nmargins. Presumably, this is a translation of the papyrus’ text.\n",
+      "sourceLocation": "pdf:spans:[[60,1954,2010],[60,2010,2074],[60,2074,2134],[60,2134,2196],[60,2196,2260],[60,2260,2327],[60,2327,2389],[60,2389,2454]]"
+    },
+    {
+      "id": "188:p4",
+      "kind": "body",
+      "text": "As you read it over, you marvel at the impossibility of its \ncontent. The papyrus purports to be written by a priest of an \nunknown city by the name of “Ilarnek.” In this account, the \npriest records observations of an odd and ugly race of beings \nwho once lived upon a lake in the forgotten land of Mnar. The \ndocument goes into great detail about the fire rituals of these \nstrange creatures, and speaks of the haunting dances they would \nperform in the light of the flames beneath the gibbous moon—\nand always under the watchful gaze of a sea-green stone idol, \nchiseled in the likeness of a great lizard.\n",
+      "sourceLocation": "pdf:spans:[[60,2454,2515],[60,2515,2578],[60,2578,2639],[60,2639,2702],[60,2702,2765],[60,2765,2830],[60,2830,2895],[60,2895,2956],[60,2956,3019],[60,3019,3063]]"
+    },
+    {
+      "id": "188:p5",
+      "kind": "body",
+      "text": "The priest’s writings go on to mention rituals used to ward off \nthe influence of that detestable creature; rituals performed by \nhumans. The text for the ritual in the annotation is untranslated \nand simply rendered in standard characters, so that it reads: \n“Y’hahyar nog nglui ah, Bokrug.” The strange phrase sticks in \nyour mind.\n",
+      "sourceLocation": "pdf:spans:[[60,3063,3128],[60,3128,3193],[60,3193,3260],[60,3260,3323],[60,3323,3386],[60,3386,3397]]"
+    },
+    {
+      "id": "188:p6",
+      "kind": "body",
+      "text": "You pause for a moment to consider the implications. You \ncarefully detach the translation, fold it up, and put it in your \npocket as evidence, before exiting the study.\n",
+      "sourceLocation": "pdf:spans:[[60,3397,3455],[60,3455,3521],[60,3521,3567]]"
+    },
+    {
+      "id": "188:p7",
+      "kind": "body",
+      "text": "• You have learned a ritual chant. Note it on your investigator sheet \nas “Ritual Chant: Entry 235.” When prompted, you may choose to \nuse this chant. If you do so, go to 235.\n",
+      "sourceLocation": "pdf:spans:[[60,3567,3638],[60,3638,3702],[60,3702,3743]]"
+    },
+    {
+      "id": "188:p8",
+      "kind": "body",
+      "text": "• Go to 222.\n",
+      "sourceLocation": "pdf:spans:[[60,3743,3756]]"
+    },
+    {
+      "id": "188:p9",
+      "kind": "body",
+      "text": "(179)\n",
+      "sourceLocation": "pdf:spans:[[60,3756,3762]]"
+    }
+  ]
+}

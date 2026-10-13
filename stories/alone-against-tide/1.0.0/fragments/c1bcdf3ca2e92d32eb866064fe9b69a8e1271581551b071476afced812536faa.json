@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "112"
+  ],
+  "text": [
+    "你向旁边翻滚，紧贴门框，急忙躲开约书亚开枪瞄准的位置。他低声咒骂，再次举枪对准你。不过，两枪之间稍纵即逝的停顿已经足够。你的本能接管了行动，你猛扑向他，试图夺下他的武器。",
+    "你用冲撞的力道把他撞倒在地。你和他扭打起来，拼命抓住那把枪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 112",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 112",
+      "text": [
+        "You roll to the side and press yourself up against the door frame, hastily dodging away from the spot Joshua shoots at. He curses under his breath as he levels the gun at you yet again. However, the slight pause between shots is all you need. Your instincts take over and you lunge at him, attempting to wrestle the weapon from him.",
+        "You knock him over with the force of your tackle. You grapple with him, clutching desperately for the gun."
+      ]
+    }
+  }
+}

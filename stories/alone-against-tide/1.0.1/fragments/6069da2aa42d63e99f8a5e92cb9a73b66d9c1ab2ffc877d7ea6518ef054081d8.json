@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "199"
+  ],
+  "text": [
+    "无论你怎么努力，都无法挣脱那东西对你手臂的钳制。它把你越拉越近，直到你看清它可怕的非人形态。它的身体膨胀畸形，四肢细长，面容骇人。它的皮肤和那非自然雾气一样，呈现病态的绿色。",
+    "那东西把你拉倒在地。你听见更多同类发出的黏液吧唧脚步声。它们将你团团围住时，你挣扎着想站起来，但无路可逃。你尽力反抗，可最终，它们的身体像一波柔软松垮的肉浪般扑向你，抓挠挤压，夺走你的性命。",
+    "你死了，性命被侍奉可怖之神的怪物夺走。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 199",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 199",
+      "text": [
+        "Try as you might, you’re unable to break the thing’s grip on your arm. It pulls you in closer and closer until you can see its horrible, inhuman form. Its body is bulging and misshapen, with long slender limbs and a hideous face. Its skin is the same sickly green color as the unnatural mist.",
+        "The thing pulls you to the ground. You hear the squelching steps of many more like it. You struggle to rise as they surround you, but there is no escape. You fight back as best you can, but eventually, their bodies crash upon you like a fleshy, flabby wave that scratches and squeezes the life from your body. You have died, your life claimed by strange things in service to their horrible god. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

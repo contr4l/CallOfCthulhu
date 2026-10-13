@@ -1,0 +1,30 @@
+{
+  "id": "143",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "143:p0",
+      "kind": "heading",
+      "text": "143",
+      "sourceLocation": "pdf:visual:[[33,28]]"
+    },
+    {
+      "id": "143:p1",
+      "kind": "body",
+      "text": "A streak of cold stabs past you, leaving a frosty mist in the air \nlike a flashlight beam through fog. Even the near miss leaves \na rime of frosty needles on your cheek and hair. You throw a \nquick  glance  over  your  shoulder  and  see  the  pink  creatures \nwith objects of twisted metal in their claws, evidently weapons. \nNorman and Sylvia have made the safety of the bend ahead. \nThat leaves you, Bernard, and Charlie to get clear. But the track \nis wide open and you are too far behind.",
+      "sourceLocation": "pdf:visual:[[33,29],[33,30],[33,31],[33,32],[33,33],[33,34],[33,35],[33,36]]"
+    },
+    {
+      "id": "143:p2",
+      "kind": "body",
+      "text": "Make a Dodge roll: if you fail, go to 332; if you succeed, make a \nDodge roll  for  Charlie  and  Bernard.  If  both  fail,  go  to  150.  If \nonly Charlie fails, go to 148. If only Bernard fails, go to 149. If \neverybody succeeds, repeat the process. Someone is certain to get hit. \nThe only question is who.",
+      "sourceLocation": "pdf:visual:[[33,37],[33,38],[33,39],[33,40],[33,41]]"
+    },
+    {
+      "id": "143:p3",
+      "kind": "trace",
+      "text": "(70, 115, 252, 468)",
+      "sourceLocation": "pdf:visual:[[33,42]]"
+    }
+  ]
+}

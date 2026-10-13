@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "29"
+  ],
+  "text": [
+    "那名警官看起来相当警觉。最好别去打扰他，让他做好自己的工作。他显然不需要、也不想要你的任何帮助。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 29",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 29",
+      "text": [
+        "The officer seems rather alert and vigilant. It would probably be best not to bother him and let him do his job. He clearly does not need or want your help in any way."
+      ]
+    }
+  }
+}

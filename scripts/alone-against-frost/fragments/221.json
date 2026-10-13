@@ -1,0 +1,30 @@
+{
+  "id": "221",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "221:p0",
+      "kind": "heading",
+      "text": "221",
+      "sourceLocation": "pdf:visual:[[46,12]]"
+    },
+    {
+      "id": "221:p1",
+      "kind": "body",
+      "text": "Your  hearing  is  dulled  by  exhaustion,  so  you  have  no \nwarning before powerful hands grab you from behind. As \nyou drop your rifle and seize the hands that hold you, you \nare astonished by their icy surface. Suddenly, you remember \nthe wind-walker legend.",
+      "sourceLocation": "pdf:visual:[[46,13],[46,14],[46,15],[46,16],[46,17]]"
+    },
+    {
+      "id": "221:p2",
+      "kind": "body",
+      "text": "The attacker has you physically restrained. You must break free. \nEach turn you may use your Fighting (Brawl) skill to attempt \nan opposed skill roll against their Fighting (Brawl) skill of 90% \n(45/18). If you fail, take 1D6 damage. If you break the attacker’s \ngrip before you die, go to 222. If not, the Nadelmann Expedition \nis over. THE END.",
+      "sourceLocation": "pdf:visual:[[46,18],[46,19],[46,20],[46,21],[46,22],[46,23]]"
+    },
+    {
+      "id": "221:p3",
+      "kind": "trace",
+      "text": "(194)",
+      "sourceLocation": "pdf:visual:[[46,24]]"
+    }
+  ]
+}

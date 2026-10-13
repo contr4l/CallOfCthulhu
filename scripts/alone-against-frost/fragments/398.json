@@ -1,0 +1,30 @@
+{
+  "id": "398",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "398:p0",
+      "kind": "heading",
+      "text": "398",
+      "sourceLocation": "pdf:visual:[[71,68]]"
+    },
+    {
+      "id": "398:p1",
+      "kind": "body",
+      "text": "You  think  of  Sylvia’s  keen  intellect,  her  loyalty,  and  her \npersistence  despite  the  doom  that  has  seemed  to  dog  this \nexpedition. While life remains within her, you cannot abandon \nher to these creatures. You lead her by hand through the camp \nof sleeping sasquatches.",
+      "sourceLocation": "pdf:visual:[[71,69],[71,70],[71,71],[71,72],[71,73]]"
+    },
+    {
+      "id": "398:p2",
+      "kind": "body",
+      "text": "Make  a  Stealth  roll  for  every  party  member.  Sylvia’s  Stealth  is \ncurrently 15%. If everyone succeeds, go to 357. If anyone misses, go \nto 390.",
+      "sourceLocation": "pdf:visual:[[71,74],[71,75],[71,76]]"
+    },
+    {
+      "id": "398:p3",
+      "kind": "trace",
+      "text": "(396)",
+      "sourceLocation": "pdf:visual:[[71,77]]"
+    }
+  ]
+}

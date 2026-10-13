@@ -1,0 +1,42 @@
+{
+  "id": "42",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "42:p0",
+      "kind": "heading",
+      "text": "42\n",
+      "sourceLocation": "pdf:spans:[[20,964,967]]"
+    },
+    {
+      "id": "42:p1",
+      "kind": "body",
+      "text": "You ask Sanford about himself and he beams a big bright smile \nyour way. “I’ve lived in Esbury for years, since back before all the \nrich folk found the place and turned it into their little vacation spot. \nMy father owned the ferry to and from the town, and he passed it \non to me when he got too old to do it himself anymore. I love it here. \nI can’t imagine living anywhere else. The lake is so clear and clean. \nI guess that’s why we get so many visitors. This place has definitely \ngrown since I was younger, though. Sometimes I miss the way things \nwere before, but I love Esbury all the same, even now. You’ll like it \nhere, too.” Sanford winks at you.\n",
+      "sourceLocation": "pdf:spans:[[20,967,1030],[20,1030,1100],[20,1100,1174],[20,1174,1240],[20,1240,1312],[20,1312,1383],[20,1383,1454],[20,1454,1522],[20,1522,1593],[20,1593,1627]]"
+    },
+    {
+      "id": "42:p2",
+      "kind": "body",
+      "text": "You exchange a few more pleasantries with Sanford before \nhe goes off to finish guiding the boat into port. You pass the \ntime in casual conversation with the other passengers and in \nobserving the scenery. You note the tall pines and the sloping \nhills along the lakeshore around Esbury. These features, and the \nsmall town beyond, are just visible through the growing mist, \nbut squinting helps make them out to your satisfaction.\n",
+      "sourceLocation": "pdf:spans:[[20,1627,1685],[20,1685,1749],[20,1749,1811],[20,1811,1875],[20,1875,1941],[20,1941,2004],[20,2004,2060]]"
+    },
+    {
+      "id": "42:p3",
+      "kind": "body",
+      "text": "In time, you arrive on the pier at Esbury, grateful to be off  \nthe water.\n",
+      "sourceLocation": "pdf:spans:[[20,2060,2124],[20,2124,2135]]"
+    },
+    {
+      "id": "42:p4",
+      "kind": "body",
+      "text": "• Go to 3.\n",
+      "sourceLocation": "pdf:spans:[[20,2135,2146]]"
+    },
+    {
+      "id": "42:p5",
+      "kind": "body",
+      "text": "(4, 18, 23, 33, 41, 63, 71, 104)\n",
+      "sourceLocation": "pdf:spans:[[20,2146,2179]]"
+    }
+  ]
+}

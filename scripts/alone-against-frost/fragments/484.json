@@ -1,0 +1,30 @@
+{
+  "id": "484",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "484:p0",
+      "kind": "heading",
+      "text": "484",
+      "sourceLocation": "pdf:visual:[[85,37]]"
+    },
+    {
+      "id": "484:p1",
+      "kind": "body",
+      "text": "Hoisting the supplies to your shoulders, you follow the trail of \nSylvia’s abductor. ",
+      "sourceLocation": "pdf:visual:[[85,38],[85,39]]"
+    },
+    {
+      "id": "484:p2",
+      "kind": "body",
+      "text": "Make a Track roll: if you succeed, go to 276; if you fail, go to 277.",
+      "sourceLocation": "pdf:visual:[[85,40]]"
+    },
+    {
+      "id": "484:p3",
+      "kind": "trace",
+      "text": "(483, 609)",
+      "sourceLocation": "pdf:visual:[[85,41]]"
+    }
+  ]
+}

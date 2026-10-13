@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "154"
+  ],
+  "text": [
+    "尽管你为偶像出了一笔不小的价钱，最终公布的报价却高得离谱，轻易超过你出价的两倍。沃伦先生仔细眯眼看着纸条，随后宣布这个惊人的价格和一个陌生的名字：“班尤。”穿橙色僧袍的僧侣收下雕像，脸上露出兴奋神色，周围响起困惑的低语。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 154",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 154",
+      "text": [
+        "Though you put a sizeable bid in for the idol, a truly outrageous sum is called, easily twice what you offered. Mr. Warren squints hard at the paper before calling out the staggering price and an unfamiliar-sounding name: “Banyu.” Confused whispers break out as the orange-robed monk collects the statue with a look of excitement on his face."
+      ]
+    }
+  }
+}

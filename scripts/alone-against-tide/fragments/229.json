@@ -1,0 +1,54 @@
+{
+  "id": "229",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "229:p0",
+      "kind": "heading",
+      "text": "229\n",
+      "sourceLocation": "pdf:spans:[[73,2816,2820]]"
+    },
+    {
+      "id": "229:p1",
+      "kind": "body",
+      "text": "Though you’ve fallen, you realize that you’re not completely \nwithout landmarks. If you follow the cliff above you, you may \njust be able to find the point where the elevation changes, and \nin doing so find your way back to the path. You limp forward in \npain, making sure to keep the cliff face on your left.\n",
+      "sourceLocation": "pdf:spans:[[73,2820,2882],[73,2882,2945],[73,2945,3010],[73,3010,3075],[73,3075,3130]]"
+    },
+    {
+      "id": "229:p2",
+      "kind": "body",
+      "text": "You follow the cliff wall despite the fog, at points navigating \npurely by keeping your hand in contact with the rock face, \noccasionally stopping to lean against it for support in your \ninjured state. Eventually, you manage to find the trail again, \ncrying out in relief at your apparent turn of good fortune.\n",
+      "sourceLocation": "pdf:spans:[[73,3130,3195],[73,3195,3255],[73,3255,3317],[73,3317,3381],[73,3381,3441]]"
+    },
+    {
+      "id": "229:p3",
+      "kind": "body",
+      "text": "You move along the path for what must be an hour until \nyou see a distant light piercing the fog. You rush toward it, not \ncaring that you’re putting weight on your damaged leg, only to \nfind yourself standing face-to-face with a brick wall.\n",
+      "sourceLocation": "pdf:spans:[[73,3441,3497],[73,3497,3564],[73,3564,3628],[73,3628,3683]]"
+    },
+    {
+      "id": "229:p4",
+      "kind": "body",
+      "text": "Peering through the fog, you find that you’ve somehow \ngotten turned around and are back in Esbury. You cry out in \nfrustration.\n",
+      "sourceLocation": "pdf:spans:[[73,3683,3738],[73,3738,3799],[73,3799,3812]]"
+    },
+    {
+      "id": "229:p5",
+      "kind": "body",
+      "text": "Suddenly, you hear the revving of an engine. A car comes \nhurtling toward you as you stand, despairing, in the middle of \nthe road.\n",
+      "sourceLocation": "pdf:spans:[[73,3812,3870],[73,3870,3934],[73,3934,3944]]"
+    },
+    {
+      "id": "229:p6",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 191; if you fail, go to 221.\n",
+      "sourceLocation": "pdf:spans:[[73,3946,4018]]"
+    },
+    {
+      "id": "229:p7",
+      "kind": "body",
+      "text": "(139)\n",
+      "sourceLocation": "pdf:spans:[[73,4018,4024]]"
+    }
+  ]
+}

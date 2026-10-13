@@ -1,0 +1,30 @@
+{
+  "id": "141",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "141:p0",
+      "kind": "heading",
+      "text": "141",
+      "sourceLocation": "pdf:visual:[[33,2]]"
+    },
+    {
+      "id": "141:p1",
+      "kind": "body",
+      "text": "The  wind-walker  is  too  fast  for  you.  It  swats  away  your \nsmoldering weapon and stands up. Those eyes freeze your blood. ",
+      "sourceLocation": "pdf:visual:[[33,4],[33,6]]"
+    },
+    {
+      "id": "141:p2",
+      "kind": "body",
+      "text": "Go to 127.",
+      "sourceLocation": "pdf:visual:[[33,8]]"
+    },
+    {
+      "id": "141:p3",
+      "kind": "trace",
+      "text": "(106, 205, 212)",
+      "sourceLocation": "pdf:visual:[[33,9]]"
+    }
+  ]
+}

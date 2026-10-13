@@ -1,0 +1,36 @@
+{
+  "id": "16",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "16:p0",
+      "kind": "heading",
+      "text": "16\n",
+      "sourceLocation": "pdf:spans:[[14,26,29]]"
+    },
+    {
+      "id": "16:p1",
+      "kind": "body",
+      "text": "Your business here is completed. You see the crowd staring \ncovetously at the newly acquired items and you spot Amelia \nlooking smug and satisfied with a leather bag full of cash. Mr. \nWarren begins to clear away the tables while Officer Powell \nstands by the door and directs people out of the building and \ninto the ever-thickening fog.\n",
+      "sourceLocation": "pdf:spans:[[14,29,89],[14,89,149],[14,149,214],[14,214,275],[14,275,338],[14,338,368]]"
+    },
+    {
+      "id": "16:p2",
+      "kind": "body",
+      "text": "Though some seem content to stay and socialize, you feel \nthat it would be best to go bed down for the night.\n",
+      "sourceLocation": "pdf:spans:[[14,368,426],[14,426,478]]"
+    },
+    {
+      "id": "16:p3",
+      "kind": "body",
+      "text": "• Go to 26.\n",
+      "sourceLocation": "pdf:spans:[[14,478,490]]"
+    },
+    {
+      "id": "16:p4",
+      "kind": "body",
+      "text": "(81)\n",
+      "sourceLocation": "pdf:spans:[[14,490,495]]"
+    }
+  ]
+}

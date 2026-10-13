@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "194"
+  ],
+  "text": [
+    "你受够了这个地方。你再也不想和埃斯伯里扯上关系；你原本打算在这里办的事也不值得再耗费时间。你收拾好东西，走进浓雾。",
+    "你在黑暗与迷雾中大步前行，保持着轻快的速度。你尽可能迅速地沿街道和小巷穿行，朝镇子边缘赶去。",
+    "突然，有什么东西伸手抓住你的手臂，像老虎钳一样紧紧箍住。你惊慌起来，试图挣脱。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 194",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 194",
+      "text": [
+        "You are through with this place. You want nothing more to do with Esbury, and whatever business you intended to carry out here is no longer worth your time. You gather your things and set out into the fog.",
+        "You keep up a brisk pace as you stride through the darkness and the mist. You move with all due haste, winding your way down streets and through alleyways as you make for the edge of town.",
+        "Suddenly, something reaches out and grabs your arm, wrapping it tightly in a vicelike grip. You panic and try to pull away."
+      ]
+    }
+  }
+}

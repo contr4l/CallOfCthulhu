@@ -89,6 +89,10 @@ export function createCharacter(
     mp?: number;
     damageBonus?: string;
     templateId?: string;
+    movement?: number;
+    build?: number;
+    profile?: Character["profile"];
+    specializations?: Record<string, string>;
   },
   luck: number,
 ): Character {
@@ -97,6 +101,12 @@ export function createCharacter(
     ...(preset.mp !== undefined ? { mp: preset.mp } : {}),
     ...(preset.damageBonus ? { damageBonus: preset.damageBonus } : {}),
     ...(preset.templateId ? { templateId: preset.templateId } : {}),
+    ...(preset.movement !== undefined ? { movement: preset.movement } : {}),
+    ...(preset.build !== undefined ? { build: preset.build } : {}),
+    ...(preset.profile ? { profile: { ...preset.profile } } : {}),
+    ...(preset.specializations
+      ? { specializations: { ...preset.specializations } }
+      : {}),
     name,
     occupation: preset.occupation,
     hp: preset.hp,

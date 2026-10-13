@@ -1,0 +1,36 @@
+{
+  "id": "230",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "230:p0",
+      "kind": "heading",
+      "text": "230",
+      "sourceLocation": "pdf:visual:[[47,43]]"
+    },
+    {
+      "id": "230:p1",
+      "kind": "body",
+      "text": "You  become  entangled  in  the  undergrowth  while  the  gray \nfigure  speeds  nimbly  on  to  freedom.  When  he  reaches  his \npeople, they may hide from your expedition. But they also may \nform a vengeful war party.",
+      "sourceLocation": "pdf:visual:[[47,44],[47,45],[47,46],[47,47]]"
+    },
+    {
+      "id": "230:p2",
+      "kind": "body",
+      "text": "To press on and search them out, go to 85. To flee their territory, go \nto 231.",
+      "sourceLocation": "pdf:visual:[[47,48],[47,49]]"
+    },
+    {
+      "id": "230:p3",
+      "kind": "trace",
+      "text": "(196)",
+      "sourceLocation": "pdf:visual:[[47,50]]"
+    },
+    {
+      "id": "230:p4",
+      "kind": "body",
+      "text": "46",
+      "sourceLocation": "pdf:visual:[[47,51]]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "55",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "55:p0",
+      "kind": "heading",
+      "text": "55\n",
+      "sourceLocation": "pdf:spans:[[23,2437,2440]]"
+    },
+    {
+      "id": "55:p1",
+      "kind": "body",
+      "text": "Despite Joshua’s urgings, you feel compelled to speak to Amelia \nyourself. You approach the front of the house and note your \nsurroundings.\n",
+      "sourceLocation": "pdf:spans:[[23,2440,2505],[23,2505,2566],[23,2566,2580]]"
+    },
+    {
+      "id": "55:p2",
+      "kind": "body",
+      "text": "The house’s exterior hints at the wealth of the occupants, but \nthen again, so do most places in town. Directly across from \nthe residence is a small church, whose religious iconography \nseems to have inspired the Harrises in the design of their own \nhome. A bronze cross hangs over the front door, and decorative \ncolumns line the outside walls of the two-story house. All in \nall, the architectural style is somewhat baroque, complete with \na pair of carved angels lounging beneath the eaves that are just \nvisible through the strange haze.\n",
+      "sourceLocation": "pdf:spans:[[23,2580,2644],[23,2644,2705],[23,2705,2767],[23,2767,2831],[23,2831,2895],[23,2895,2958],[23,2958,3023],[23,3023,3089],[23,3089,3123]]"
+    },
+    {
+      "id": "55:p3",
+      "kind": "body",
+      "text": "You knock on the door and wait in the mist for a few \nmoments, hoping for someone to hear you. Eventually, much to \nyour relief, the widow Amelia answers the door. She’s wearing \na bright red dress, which accents her deep crimson lipstick. \nShe appears to have taken great care over her appearance. She \nflashes you a smile and invites you inside. The house opens into \na large foyer, and you see various crates and bundles stacked \nhigh along the walls. “Just selling off a few of the more common \nthings. Mind the mess, the porter hasn’t come for it yet.” She takes \nyou by the hand to lead you past the stacks of items, helping you \nto pick your way through the deceased Prof. Harris’ assembled \npossessions. She takes you into a small drawing room full of \nantique furniture and offers you some coffee.\n",
+      "sourceLocation": "pdf:spans:[[23,3123,3177],[23,3177,3239],[23,3239,3302],[23,3302,3364],[23,3364,3427],[23,3427,3493],[23,3493,3556],[23,3556,3622],[23,3622,3692],[23,3692,3759],[23,3759,3822],[23,3822,3884],[23,3884,3930]]"
+    },
+    {
+      "id": "55:p4",
+      "kind": "body",
+      "text": "After settling in and exchanging a few well-mannered \npleasantries, you ask in more detail about the late Prof. Harris.\n",
+      "sourceLocation": "pdf:spans:[[23,3930,3984],[23,3984,4050]]"
+    },
+    {
+      "id": "55:p5",
+      "kind": "body",
+      "text": "Amelia sighs theatrically and looks down at her hands. “I \ncan’t imagine what you want to ask about William. I found him \nin his study with the gun still in his mouth. What more could you \nwant to know?”\n",
+      "sourceLocation": "pdf:spans:[[23,4050,4109],[23,4109,4172],[23,4172,4239],[23,4239,4254]]"
+    },
+    {
+      "id": "55:p6",
+      "kind": "body",
+      "text": "• Make a Psychology roll: if you succeed, go to 126; if you fail, go \nto 31.\n",
+      "sourceLocation": "pdf:spans:[[23,4254,4324],[23,4324,4331]]"
+    },
+    {
+      "id": "55:p7",
+      "kind": "body",
+      "text": "(5, 90)\n",
+      "sourceLocation": "pdf:spans:[[23,4331,4339]]"
+    }
+  ]
+}

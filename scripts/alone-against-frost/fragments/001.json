@@ -1,0 +1,72 @@
+{
+  "id": "1",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "1:p0",
+      "kind": "heading",
+      "text": "1",
+      "sourceLocation": "pdf:visual:[[10,1]]"
+    },
+    {
+      "id": "1:p1",
+      "kind": "body",
+      "text": "After a few days on the West Branch of the Mackenzie, the \nstuffy corridors of Miskatonic University seem very far away. \nSun stipples the water, from the glare of midday to the gentle \nburn of sunset. Caribou gaze at you from the shore; ahead, a \nheron drags an unfortunate stickleback from the shallows. It \nwould feel like a vacation, were it not for the relentless demand \nof the paddle.",
+      "sourceLocation": "pdf:visual:[[10,2],[10,3],[10,4],[10,5],[10,6],[10,7],[10,8]]"
+    },
+    {
+      "id": "1:p2",
+      "kind": "body",
+      "text": "Each day makes the students more adept at keeping time \nwith you and Charlie. Your supply of gasoline is limited, so you \nrun the outboard motor as seldom as possible. Sun and wind \ngrant Bernard the outdoor complexion he desires. ",
+      "sourceLocation": "pdf:visual:[[10,9],[10,10],[10,11],[10,12]]"
+    },
+    {
+      "id": "1:p3",
+      "kind": "body",
+      "text": "You locate the tributary one evening, just as the light begins \nto fail. Next day, you launch into the North Hanninah. The \nRam Mountains loom in the distance, through a heat haze. At \nthis latitude, the summer nights are so short that darkness gives \nthe waterways no time to cool. Norman wipes sweat from the \nback of his head.",
+      "sourceLocation": "pdf:visual:[[10,13],[10,14],[10,15],[10,16],[10,17],[10,18]]"
+    },
+    {
+      "id": "1:p4",
+      "kind": "body",
+      "text": "The  North  Hanninah  is  a  rougher  river  than  the  West \nBranch.  Its  floodplain  is  obstructed  by  sandbars,  hills  of \ndriftwood,  shingle  islands,  and  forests  of  dead  trees  rooted \nin the mud. The current points all of them downstream, like \narrows warning you to turn back. ",
+      "sourceLocation": "pdf:visual:[[10,19],[10,20],[10,21],[10,22],[10,23]]"
+    },
+    {
+      "id": "1:p5",
+      "kind": "body",
+      "text": "Sylvia turns to your guide. “Charlie? Does your people live in \nthis area?”",
+      "sourceLocation": "pdf:visual:[[10,24],[10,25]]"
+    },
+    {
+      "id": "1:p6",
+      "kind": "body",
+      "text": "Charlie grunts and watches the water. For a moment it seems \nshe will not answer. Then, she looks at Sylvia. “At one time. Now, \nonly outcasts. We will avoid them.”",
+      "sourceLocation": "pdf:visual:[[10,26],[10,27],[10,28]]"
+    },
+    {
+      "id": "1:p7",
+      "kind": "body",
+      "text": "Sylvia frowns. “Why are they…?” ",
+      "sourceLocation": "pdf:visual:[[10,29]]"
+    },
+    {
+      "id": "1:p8",
+      "kind": "body",
+      "text": "But  Charlie  raises  a  hand.  From  ahead,  slowly  building, \nyou  hear  the  roar  of  rushing  water. “This is the place of the \nsplitting water,” she says. “Here, the river is alive. Each day it \nmakes itself new.”",
+      "sourceLocation": "pdf:visual:[[10,30],[10,31],[10,32],[10,33]]"
+    },
+    {
+      "id": "1:p9",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 2; if you fail, go to 3.",
+      "sourceLocation": "pdf:visual:[[10,34]]"
+    },
+    {
+      "id": "1:p10",
+      "kind": "trace",
+      "text": "(Beginning)",
+      "sourceLocation": "pdf:visual:[[10,35]]"
+    }
+  ]
+}

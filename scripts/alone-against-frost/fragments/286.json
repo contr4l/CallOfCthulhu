@@ -1,0 +1,48 @@
+{
+  "id": "286",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "286:p0",
+      "kind": "heading",
+      "text": "286",
+      "sourceLocation": "pdf:visual:[[56,14]]"
+    },
+    {
+      "id": "286:p1",
+      "kind": "body",
+      "text": "You warn Sylvia and Norman to get ready. Your party takes \nposition behind a bush heavy with orchid-like blossoms and \nwaits for the yelping beasts.",
+      "sourceLocation": "pdf:visual:[[56,15],[56,16],[56,17]]"
+    },
+    {
+      "id": "286:p2",
+      "kind": "body",
+      "text": "Moments  later,  they  burst  into  view—incredible  canines \nwhich  resemble  reconstructed  museum  specimens  of  dire \nwolves. You hear a sudden intake of breath from both students. \nHave you put them in mortal danger? It’s too late to run.",
+      "sourceLocation": "pdf:visual:[[56,18],[56,19],[56,20],[56,21]]"
+    },
+    {
+      "id": "286:p3",
+      "kind": "body",
+      "text": "There are 2D6 wolves. Each member of your party with a rifle may \nfire twice before the wolves are upon you. Do not calculate damage; \nany successful hit drops one of the pack.",
+      "sourceLocation": "pdf:visual:[[56,22],[56,23],[56,24]]"
+    },
+    {
+      "id": "286:p4",
+      "kind": "body",
+      "text": "If your party has hit at least half the wolves, the pack retreats; \ngo to 287. Otherwise, note how many wolves remain, and then go \nto 307.",
+      "sourceLocation": "pdf:visual:[[56,25],[56,26],[56,27]]"
+    },
+    {
+      "id": "286:p5",
+      "kind": "trace",
+      "text": "(273)",
+      "sourceLocation": "pdf:visual:[[56,28]]"
+    },
+    {
+      "id": "286:p6",
+      "kind": "body",
+      "text": "55",
+      "sourceLocation": "pdf:visual:[[56,29]]"
+    }
+  ]
+}

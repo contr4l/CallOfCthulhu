@@ -1,0 +1,30 @@
+{
+  "id": "633",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "633:p0",
+      "kind": "heading",
+      "text": "633",
+      "sourceLocation": "pdf:visual:[[106,18]]"
+    },
+    {
+      "id": "633:p1",
+      "kind": "body",
+      "text": "The  mortally  wounded  flyer  makes  a  rapid  corkscrew  spiral \nand crashes into the meadow grass. Your party approaches and \nexamines its uncanny, mangled form. You sever a few parts to \nserve as trophies and hurry to leave the valley. Before you reach \nthe exit, however, you discover that the creature’s limbs have \ndeteriorated to a slimy ichor in your packs.",
+      "sourceLocation": "pdf:visual:[[106,19],[106,20],[106,21],[106,22],[106,23],[106,24]]"
+    },
+    {
+      "id": "633:p2",
+      "kind": "body",
+      "text": "Gain 1 point of Cthulhu Mythos. Each party member gains 1D6 \nSanity. To leave the valley, go to 613. To search more, go to 645.",
+      "sourceLocation": "pdf:visual:[[106,25],[106,26]]"
+    },
+    {
+      "id": "633:p3",
+      "kind": "trace",
+      "text": "(632)",
+      "sourceLocation": "pdf:visual:[[106,27]]"
+    }
+  ]
+}

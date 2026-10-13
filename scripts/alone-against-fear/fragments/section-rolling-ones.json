@@ -1,0 +1,68 @@
+{
+  "id": "section-rolling-ones",
+  "paragraphs": [
+    {
+      "id": "section-rolling-ones:p0000",
+      "kind": "body",
+      "text": "Rolling Ones\n",
+      "sourceLocation": "pdf:spans:[[32,22,35]]"
+    },
+    {
+      "id": "section-rolling-ones:p0001",
+      "kind": "body",
+      "text": "When you roll a 1 on a Defense roll,\n",
+      "sourceLocation": "pdf:spans:[[32,35,72]]"
+    },
+    {
+      "id": "section-rolling-ones:p0002",
+      "kind": "body",
+      "text": "roll again, and if the second result\n",
+      "sourceLocation": "pdf:spans:[[32,72,109]]"
+    },
+    {
+      "id": "section-rolling-ones:p0003",
+      "kind": "body",
+      "text": "is a 1, you must either take one\n",
+      "sourceLocation": "pdf:spans:[[32,109,142]]"
+    },
+    {
+      "id": "section-rolling-ones:p0004",
+      "kind": "body",
+      "text": "additional point of damage, skip\n",
+      "sourceLocation": "pdf:spans:[[32,142,175]]"
+    },
+    {
+      "id": "section-rolling-ones:p0005",
+      "kind": "body",
+      "text": "your next attack, or destroy your\n",
+      "sourceLocation": "pdf:spans:[[32,175,209]]"
+    },
+    {
+      "id": "section-rolling-ones:p0006",
+      "kind": "body",
+      "text": "main weapon (your choice;\n",
+      "sourceLocation": "pdf:spans:[[32,209,235]]"
+    },
+    {
+      "id": "section-rolling-ones:p0007",
+      "kind": "body",
+      "text": "obviously, you cannot choose to\n",
+      "sourceLocation": "pdf:spans:[[32,235,267]]"
+    },
+    {
+      "id": "section-rolling-ones:p0008",
+      "kind": "body",
+      "text": "destroy a weapon if you are fighting\n",
+      "sourceLocation": "pdf:spans:[[32,267,304]]"
+    },
+    {
+      "id": "section-rolling-ones:p0009",
+      "kind": "body",
+      "text": "unarmed).\n",
+      "sourceLocation": "pdf:spans:[[32,304,314]]"
+    }
+  ],
+  "sourcePages": [
+    32
+  ]
+}

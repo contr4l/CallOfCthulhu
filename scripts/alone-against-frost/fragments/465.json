@@ -1,0 +1,42 @@
+{
+  "id": "465",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "465:p0",
+      "kind": "heading",
+      "text": "465",
+      "sourceLocation": "pdf:visual:[[82,1]]"
+    },
+    {
+      "id": "465:p1",
+      "kind": "body",
+      "text": "You break Bernard’s grip and throw him to the ground while \nNorman sees to Sylvia. You brace for a renewed  attack,  but \ninstead,  the  mutilated  student  leaps  to  his  feet  and,  with \nstartling haste, dashes for the river.",
+      "sourceLocation": "pdf:visual:[[82,2],[82,3],[82,4],[82,5]]"
+    },
+    {
+      "id": "465:p2",
+      "kind": "body",
+      "text": "You  hesitate,  torn  between  firing  at  him,  following  him, \nor checking on Sylvia. At the water’s edge, Bernard jumps in \nheadfirst and does not emerge.",
+      "sourceLocation": "pdf:visual:[[82,6],[82,7],[82,8]]"
+    },
+    {
+      "id": "465:p3",
+      "kind": "body",
+      "text": "You go to Sylvia and Norman. Her lips are blue.",
+      "sourceLocation": "pdf:visual:[[82,9]]"
+    },
+    {
+      "id": "465:p4",
+      "kind": "body",
+      "text": "Attempt a First Aid roll: if you succeed, you may restore 1D3 hit \npoints to Sylvia. Then, go to 324.",
+      "sourceLocation": "pdf:visual:[[82,10],[82,11]]"
+    },
+    {
+      "id": "465:p5",
+      "kind": "trace",
+      "text": "(464)",
+      "sourceLocation": "pdf:visual:[[82,12]]"
+    }
+  ]
+}

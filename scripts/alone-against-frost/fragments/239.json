@@ -1,0 +1,30 @@
+{
+  "id": "239",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "239:p0",
+      "kind": "heading",
+      "text": "239",
+      "sourceLocation": "pdf:visual:[[48,39]]"
+    },
+    {
+      "id": "239:p1",
+      "kind": "body",
+      "text": "In numb silence you watch Bernard’s headless trunk bleed into \nthe earth.",
+      "sourceLocation": "pdf:visual:[[48,40],[48,41]]"
+    },
+    {
+      "id": "239:p2",
+      "kind": "body",
+      "text": "To fire down upon the murderers, go to 240. To remain in hiding, \ngo to 248.",
+      "sourceLocation": "pdf:visual:[[48,42],[48,43]]"
+    },
+    {
+      "id": "239:p3",
+      "kind": "trace",
+      "text": "(199)",
+      "sourceLocation": "pdf:visual:[[48,44]]"
+    }
+  ]
+}

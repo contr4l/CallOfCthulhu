@@ -1,0 +1,60 @@
+{
+  "id": "13",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "13:p0",
+      "kind": "heading",
+      "text": "13\n",
+      "sourceLocation": "pdf:spans:[[13,2246,2249]]"
+    },
+    {
+      "id": "13:p1",
+      "kind": "body",
+      "text": "Banyu, the Buddhist monk, chats casually with you as you walk \nthrough the fog. You both note that the light is beginning to dim \nthrough the mist, and this becomes the topic of conversation \nfor a few minutes. “It will be even harder to see soon. I would not \nlike to be out and about any longer than we must. This fog is most \nunusual. Is this hue common here?”\n",
+      "sourceLocation": "pdf:spans:[[13,2249,2312],[13,2312,2379],[13,2379,2441],[13,2441,2510],[13,2510,2578],[13,2578,2613]]"
+    },
+    {
+      "id": "13:p2",
+      "kind": "body",
+      "text": "You respond that the greenish color of the fog is highly \nunusual, and he seems mildly perturbed. “I have seen nothing \nlike it at my temple in India, either.”\n",
+      "sourceLocation": "pdf:spans:[[13,2613,2671],[13,2671,2733],[13,2733,2773]]"
+    },
+    {
+      "id": "13:p3",
+      "kind": "body",
+      "text": "The conversation continues like this for some time, until \nfinally, you arrive at your destination. The place in question is a \nsmall house located on the edge of town, near the church.\n",
+      "sourceLocation": "pdf:spans:[[13,2773,2832],[13,2832,2901],[13,2901,2959]]"
+    },
+    {
+      "id": "13:p4",
+      "kind": "body",
+      "text": "Banyu informs you that he has no intention of going inside, \nas he knows it may result in violence and he is opposed to \nphysical conflict. He shoots you a quick glance and then goes \nto stand by the church.\n",
+      "sourceLocation": "pdf:spans:[[13,2959,3020],[13,3020,3080],[13,3080,3143],[13,3143,3167]]"
+    },
+    {
+      "id": "13:p5",
+      "kind": "body",
+      "text": "You try the door and find it unlocked. You have no doubt \nthat the men inside will be armed, so you slip in quietly, hoping \nto avoid notice.\n",
+      "sourceLocation": "pdf:spans:[[13,3167,3225],[13,3225,3292],[13,3292,3309]]"
+    },
+    {
+      "id": "13:p6",
+      "kind": "body",
+      "text": "• Make a Stealth roll: if you succeed, go to 165; if you fail, go to 144.\n",
+      "sourceLocation": "pdf:spans:[[13,3309,3383]]"
+    },
+    {
+      "id": "13:p7",
+      "kind": "body",
+      "text": "• Note down “Meet Banyu: Entry 215” on your investigator sheet. \nLater, you may be prompted to visit Banyu if you know where to \nmeet him. At that time, you may then go to 215.\n",
+      "sourceLocation": "pdf:spans:[[13,3383,3448],[13,3448,3512],[13,3512,3560]]"
+    },
+    {
+      "id": "13:p8",
+      "kind": "body",
+      "text": "(97)\n",
+      "sourceLocation": "pdf:spans:[[13,3560,3565]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "283",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "283:p0",
+      "kind": "heading",
+      "text": "283",
+      "sourceLocation": "pdf:visual:[[55,68]]"
+    },
+    {
+      "id": "283:p1",
+      "kind": "body",
+      "text": "“Professor!” Norman’s alarmed voice drags you from sleep. “Look!”",
+      "sourceLocation": "pdf:visual:[[55,69]]"
+    },
+    {
+      "id": "283:p2",
+      "kind": "body",
+      "text": "Sylvia is no longer comatose. She squats on her blanket, her \nface hideously twisted.",
+      "sourceLocation": "pdf:visual:[[55,70],[55,71]]"
+    },
+    {
+      "id": "283:p3",
+      "kind": "body",
+      "text": "Make a Hard POW roll for Sylvia: if she succeeds, go to 305; if she \nfails, go to 306.",
+      "sourceLocation": "pdf:visual:[[55,72],[55,73]]"
+    },
+    {
+      "id": "283:p4",
+      "kind": "trace",
+      "text": "(237)",
+      "sourceLocation": "pdf:visual:[[55,74]]"
+    }
+  ]
+}

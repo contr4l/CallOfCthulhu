@@ -1,0 +1,30 @@
+{
+  "id": "189",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "189:p0",
+      "kind": "heading",
+      "text": "189",
+      "sourceLocation": "pdf:visual:[[41,45]]"
+    },
+    {
+      "id": "189:p1",
+      "kind": "body",
+      "text": "Your strength fails and an eddy sweeps you off into the fastest \npart of the stream. You are battered on the rocks and plunged \ninto deep water. Your vision becomes murky.",
+      "sourceLocation": "pdf:visual:[[41,46],[41,47],[41,48]]"
+    },
+    {
+      "id": "189:p2",
+      "kind": "body",
+      "text": "You are underwater for 1D6 rounds. Each round, make a CON roll to \nhold your breath; if you fail, you begin to drown—on that and every \nsubsequent round you suffer 1D3 damage. If you are still alive when \nyou surface, attempt a Swim roll. If you succeed with the Swim roll, go \nto 191. If you fail the Swim roll, try to hold your breath with a CON \nroll; if you fail, you suffer 1D3 damage and are drowning—you have \none last chance to escape watery death with a combined Swim and \nCON roll, but if either fails, you are dead. THE END.",
+      "sourceLocation": "pdf:visual:[[41,49],[41,50],[41,51],[41,52],[41,53],[41,54],[41,55],[41,56]]"
+    },
+    {
+      "id": "189:p3",
+      "kind": "trace",
+      "text": "(188, 217, 227, 540)",
+      "sourceLocation": "pdf:visual:[[41,57]]"
+    }
+  ]
+}

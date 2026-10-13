@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "21"
+  ],
+  "text": [
+    "约书亚怒气冲冲地站在你面前，高举双拳。你灵机一动，抬起双脚，猛踹他的胸口。你使出全力把他踹开，他从楼梯上滚了下去。",
+    "你听见约书亚滚下台阶时接连发出的撞击声。他滚到底后瘫倒在地，显然受了伤。他的呻吟声表明他处于半昏迷状态。你自信地走到他身旁，最后又踢了一脚，让他彻底失去意识。",
+    "阿米莉娅看到这一幕吓坏了，跑到街上逃离现场。你迅速搜查约书亚的口袋，找到他的钱包，里面有他的身份证件和住址。搜查另一边口袋时，你还发现了一把房门钥匙。",
+    "眼下有几个显而易见的选择：继续搜查房子、追赶阿米莉娅，或者前往约书亚家。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 21",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 21",
+      "text": [
+        "As Joshua towers over you, fists raised in rage, an idea crosses your mind. You pull both of your feet up and drive them into his chest. You kick him back with all your might, sending him tumbling down the stairs.",
+        "You hear several thumps and thuds as Joshua rolls down the steps. When he reaches the bottom, he lays there, sprawled out and clearly injured. His groans betray his semiconscious state, and you walk over to him confidently. With one final kick, you send him over the edge into unconsciousness.",
+        "Amelia is mortified at the sight. She runs out into the street, fleeing the scene. You quickly search Joshua’s pockets and find his wallet, which includes his identification—with an address. A search of his other pocket reveals a house key.",
+        "Several options are immediately apparent. You can continue searching the house, leave in pursuit of Amelia, or make your way to Joshua’s home."
+      ]
+    }
+  }
+}

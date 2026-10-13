@@ -1,0 +1,36 @@
+{
+  "id": "296",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "296:p0",
+      "kind": "heading",
+      "text": "296",
+      "sourceLocation": "pdf:visual:[[58,17]]"
+    },
+    {
+      "id": "296:p1",
+      "kind": "body",
+      "text": "The  threatening  chorus  of  howls  out  in  the  pine  forest  has \nNorman jumpy. You decide to halt at a cave for the night and \ntake advantage of its protection against predators.",
+      "sourceLocation": "pdf:visual:[[58,18],[58,19],[58,20]]"
+    },
+    {
+      "id": "296:p2",
+      "kind": "body",
+      "text": "The two of you build a fire in the entrance and settle down \ninside  your  ragged  blankets.  As  you  drift  toward  sleep,  you \nbecome conscious of something breathing at the back of the \ncave, something huge. You alert Norman. Then, you hear it stir. \nIts odor rises to press upon you, a sickening stench you can \nhardly bear.",
+      "sourceLocation": "pdf:visual:[[58,21],[58,22],[58,23],[58,24],[58,25],[58,26]]"
+    },
+    {
+      "id": "296:p3",
+      "kind": "body",
+      "text": "To shoot at the unseen creature, go to 325. To wait and see what \nhappens, go to 326.",
+      "sourceLocation": "pdf:visual:[[58,27],[58,28]]"
+    },
+    {
+      "id": "296:p4",
+      "kind": "trace",
+      "text": "(279)",
+      "sourceLocation": "pdf:visual:[[58,29]]"
+    }
+  ]
+}

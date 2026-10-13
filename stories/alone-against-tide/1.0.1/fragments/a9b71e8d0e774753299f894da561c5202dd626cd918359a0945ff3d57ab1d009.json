@@ -1,0 +1,34 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "239"
+  ],
+  "text": [
+    "你伸手进口袋，取出那根小金条。你朝雕像走去时，脑海中响起一声爬行动物般的嘶鸣，压倒一切，令人窒息，令你从心底震颤。你本能地用另一只手抱住头，试图压住越来越剧烈的头痛。",
+    "你发现自己站在偶像上方。你把金条高举过头，猛地砸向石像。金子一碰到海绿色石头，偶像便碎成好几块。石像裂开时，你脑中的嘶吼声减弱了，但大脑仍在阵阵抽痛。精神上的折磨令你筋疲力尽，很快便进入深沉无梦的睡眠。",
+    "你终于醒来时，当局正把你拉上一艘船；他们是来调查洪水的。你不知道自己在那里待了多久，但他们把你送到湖对岸，最后又送往波士顿，在那里你得到了急需的休息，度过了几天。",
+    "你在波士顿时，埃斯伯里发生的事登上了报纸。据报道，突发洪水令整座镇子措手不及，幸存者寥寥无几。不过水位如今开始下降，人们正在寻找尸体并打捞财物。",
+    "埃斯伯里被洪水吞没了，但你没有。你得知了幕后神秘存在的一些情况，并摧毁了那尊不洁偶像；它是该存在与这个世界相连的源头。如此一来，你阻止了这场恐怖再次降临世间。",
+    "你将永远记得在埃斯伯里的时光，无论走到哪里都会带着那里的恐怖。但你可以宽慰自己，那只邪恶的蜥蜴状生物已经被消灭。",
+    "恭喜你在《潮汐独行》中幸存，并挫败了潜伏在宁静湖畔小镇中的神话邪恶势力。如果愿意，你可以在未来的冒险中继续使用这个角色。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 239",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 239",
+      "text": [
+        "You reach into your pocket and pull out the small gold bar. As you walk toward the statue, you hear a reptilian hiss in your mind, all-consuming and oppressive, shaking you to your core. Instinctively, you grab your head with your other hand, trying to hold back the growing headache.",
+        "You find yourself standing over the idol. You raise the ingot high above your head and bring it crashing down onto the stone figure. As soon as the gold touches the sea-green stone, the idol shatters into several fragments. As it splits apart, the hissing roar in your head subsides, though your brain still throbs. The mental strain has worn you down, and you swiftly drift off into a deep and dreamless slumber.",
+        "When you finally awake, you’re being pulled into a boat by the authorities who came to investigate the flooding. You don’t know how long you’ve been there, but you’re taken to the far lakeshore and eventually on to Boston, where you spend several days in much-needed rest.",
+        "While there, the story of what happened in Esbury hits the newspapers. According to the reports, the freak flooding caught the entire town off guard, and there were very few survivors. Still, the water is beginning to subside now, and bodies and property are being recovered.",
+        "Though Esbury was claimed by the flood, you were not. And with all that you learned of the mysterious entity behind it, you were able to destroy the unholy idol that was the source of its connection to this world, and in doing so, you’ve prevented this horror from being unleashed on the world again.",
+        "You will forever remember your time in Esbury, and you will carry the horror of the place with you wherever you go. But you can take solace in the fact that the foul lizard-like creature has been put to rest. Congratulations on surviving Alone Against the Tide and on thwarting the malign forces of the Mythos at work in the quiet lakeshore town. You may use this character in future adventures, if you wish. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

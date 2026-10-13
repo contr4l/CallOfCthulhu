@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "164"
+  ],
+  "text": [
+    "你匆匆穿过迷雾笼罩的街道，躲进教堂。你进门时，门发出令人难以忍受的吱呀声，因此你不可能悄无声息地溜进去。",
+    "你发现自己身处一间宽敞的礼拜堂，两侧排列着手工雕刻的长椅。长椅一排排延伸，直到前方的讲坛，牧师通常会在那里主持礼拜。雾气滤过的日光正从彩绘玻璃窗间逐渐消退，你意识到现在并非通常举行礼拜的时间。教堂在非礼拜时段也对公众开放，但里面只有你和阿米莉娅。她坐在前排，低着头祈祷。",
+    "你坐到她旁边时，她没有抬眼看你。你坐了一会儿，给她时间做完祷告。你需要从她那里打听消息，但也尊重她的虔诚信仰。",
+    "最后，她睁开眼看向你，轻轻叹了口气。她看起来有些紧张，脸色也变得苍白。“你、你想要什么？你不该在这里。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 164",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 164",
+      "text": [
+        "You hurry through the shrouded streets and take refuge in the church. The door creaks abominably as you enter, so there’s no chance of slipping in unnoticed.",
+        "You find yourself in a large chapel, with hand-carved pews flanking you on either side. These continue for several rows until they reach a pulpit from which the priest would normally conduct services. With the last of the fog-filtered daylight fading through the stained-glass windows, you are aware that these are not the hours of a typical service. The church is open to the public during off-times, but the sole occupants are yourself and Amelia, who’s taken a seat in the front row and is praying with her head bowed.",
+        "She does not lift her gaze as you take a seat next to her. You sit for a minute and allow her time to finish her prayers. You need information from her, but you’re respectful of her devotions.",
+        "Finally, she opens her eyes and looks at you, sighing softly as she does so. She looks somewhat nervous, and the color drains from her face. “W-what is it you want? You’re not supposed to be here.”"
+      ]
+    }
+  }
+}

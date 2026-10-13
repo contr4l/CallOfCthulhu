@@ -249,8 +249,7 @@ test("all 28 role/ending routes execute through authenticated API, database rest
             await app.inject({ url: "/api/collections", cookies })
           ).json();
           const collection = collections.find(
-            (item: { storyId: string; version: string }) =>
-              item.storyId === story.id && item.version === story.version,
+            (item: { storyId: string }) => item.storyId === story.id,
           );
           assert.equal(collection.endings.entries.length, 1);
           assert.equal(collection.endings.entries[0].id, witness.endingId);

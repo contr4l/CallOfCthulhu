@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "18"
+  ],
+  "text": [
+    "你告诉摆渡人，自己是一名作家，正在创作一部新小说，为此已经做了一段时间的研究。你说自己本打算在埃斯伯里拜访哈里斯教授，向他请教写作所需的一些历史背景资料。",
+    "摆渡人困惑地看着你。“哈里斯教授？你没听说吗？他死了，大约就在一周前。鲍威尔警官能告诉你更多，或者问问他的遗孀阿米莉娅。她今晚要办一场遗产拍卖会，卖掉教授的一些东西。可怜的女人，在埃斯伯里这样的地方，她实在需要这笔意外之财。也许你能便宜买到他的一些笔记，自己做研究。”男人耸耸肩，显然不想继续谈论购买死者的遗物。他友好地伸出手，试图换个话题。“对了，我叫兰斯·桑福德。很高兴认识你。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 18",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 18",
+      "text": [
+        "You tell the ferryman you’re an author working on a new novel that you’ve been researching for some time. You mention how you were planning to consult with Prof. Harris here in Esbury about some historical background information for your writing.",
+        "The ferryman looks at you quizzically. “Professor Harris? Didn’t you hear? He’s dead. About a week ago. Officer Powell could tell you more. Or his widow, Amelia. She’ll be hosting an estate sale for some of the Professor’s things tonight. Poor thing, she really needs the windfall, especially in a town like Esbury. Might be you could pick up some of his notes for cheap and do the research yourself.” The man shrugs, clearly not wanting to dwell on buying the items of a dead man. He extends his hand in a friendly gesture, trying to change the subject. “I’m Lance Sanford by the way. Pleasure to meet you.”"
+      ]
+    }
+  }
+}

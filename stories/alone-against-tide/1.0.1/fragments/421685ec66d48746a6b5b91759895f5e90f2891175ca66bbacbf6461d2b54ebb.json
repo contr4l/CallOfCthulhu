@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "96"
+  ],
+  "text": [
+    "约书亚把枪对准你，你震惊得僵在原地。枪在他手中走火，子弹呼啸着划过空中，撕开你的左肩，把你撞向墙壁。",
+    "你瘫倒在地，伤口不断涌出鲜血。你知道这伤不致命，但疼痛丝毫没有减轻。你强忍疼痛时，发现约书亚正站在你上方。他脸上满是暴怒。这是你失去意识前看到的最后一幕——他用枪托把你打昏。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 96",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 96",
+      "text": [
+        "Joshua aims the gun at you, and you freeze in shock. The weapon goes off in his hand and the bullet whizzes through the air, tearing open your left shoulder and throwing you back against the wall.",
+        "You collapse in a heap, blood oozing from your wound. You know it isn’t fatal, but that doesn’t make the pain any less. As you struggle to fight through that pain, you find Joshua standing over you. The look on his face is one of pure rage. It is the last thing you see as you are clubbed into unconsciousness."
+      ]
+    }
+  }
+}

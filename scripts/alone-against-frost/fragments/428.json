@@ -1,0 +1,36 @@
+{
+  "id": "428",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "428:p0",
+      "kind": "heading",
+      "text": "428",
+      "sourceLocation": "pdf:visual:[[75,66]]"
+    },
+    {
+      "id": "428:p1",
+      "kind": "body",
+      "text": "As your glance passes over the ledge of quartz pegmatite where \nyou spent the night, you spot something that glitters. You take \nyour knife and scratch out a bit of the mineral deposited in the \nvein. It seems to be gold!",
+      "sourceLocation": "pdf:visual:[[75,67],[75,68],[75,69],[75,70]]"
+    },
+    {
+      "id": "428:p2",
+      "kind": "body",
+      "text": "You scratch out the best map you can before moving on.",
+      "sourceLocation": "pdf:visual:[[75,71]]"
+    },
+    {
+      "id": "428:p3",
+      "kind": "body",
+      "text": "Record the keyword CHARCOAL. Go to 513.",
+      "sourceLocation": "pdf:visual:[[75,72]]"
+    },
+    {
+      "id": "428:p4",
+      "kind": "trace",
+      "text": "(427)",
+      "sourceLocation": "pdf:visual:[[75,73]]"
+    }
+  ]
+}

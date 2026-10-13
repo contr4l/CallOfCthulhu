@@ -1,0 +1,30 @@
+{
+  "id": "649",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "649:p0",
+      "kind": "heading",
+      "text": "649",
+      "sourceLocation": "pdf:visual:[[108,11]]"
+    },
+    {
+      "id": "649:p1",
+      "kind": "body",
+      "text": "Norman and Sylvia run toward you. You are relieved to see \nthem still fit and upright—and your stomach sinks when you \nrealize how your expectations have changed.",
+      "sourceLocation": "pdf:visual:[[108,12],[108,13],[108,14]]"
+    },
+    {
+      "id": "649:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 650; if the result is odd, go \nto 463.",
+      "sourceLocation": "pdf:visual:[[108,15],[108,16]]"
+    },
+    {
+      "id": "649:p3",
+      "kind": "trace",
+      "text": "(171)",
+      "sourceLocation": "pdf:visual:[[108,17]]"
+    }
+  ]
+}

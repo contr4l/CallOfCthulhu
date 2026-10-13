@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "90"
+  ],
+  "text": [
+    "你走进镇子，朝哈里斯家的地址而去。虽然知道地点，但你不熟悉镇子，加上奇异的绿色浓雾弥漫，找起路来并不容易。因此过了好一阵，你才抵达哈里斯家。",
+    "你走近房子时，一个男人从雾中走出，挡住你的去路。他年轻瘦削，五官棱角分明，唇上方隐约有一点小胡子。他穿着深色西装，压低帽檐，从帽檐下盯着你。",
+    "“你来得真不是时候。我不知道你在找什么，但你在这里什么也找不到。”你的目光不由自主地瞟向哈里斯家。那男人明显沉下脸来。“为什么不放过可怜的寡妇？你这讨厌鬼。想找她麻烦，就得先过我约书亚这关，明白吗？”他的手在外套下面摸了摸，像是在找什么，随后又停了下来。他顿了一会儿，再次打量你一番，然后朝你脚边啐了一口，转身离开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 90",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 90",
+      "text": [
+        "You walk into town, toward the Harris address. Even knowing the location, it’s difficult for you to find your way due to your unfamiliarity with the town and the density of the peculiar green mist. As a result, it’s some time before you arrive at the Harris house.",
+        "As you approach the building, a man steps out of the fog, blocking your path. He is young and thin, with rather angular features and the faint hint of a mustache atop his lip. He’s dressed in a dark suit and stares at you from beneath a flat cap.",
+        "“You’re an unwelcome surprise. I don’t know what you’re looking for, but you won’t find it here.” Your eyes betray you as you glance at the Harris house. The man scowls visibly. “Why don’t you leave the poor widow alone, you creep? If you want to bother her, you’re going to have to go through old Joshua here, capiche?” His hand brushes beneath his coat as if searching for something, but then he stops himself. He pauses for a moment, looking you over once more before spitting on the ground at your feet and turning away."
+      ]
+    }
+  }
+}

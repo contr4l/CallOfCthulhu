@@ -1,0 +1,30 @@
+{
+  "id": "56",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "56:p0",
+      "kind": "heading",
+      "text": "56",
+      "sourceLocation": "pdf:visual:[[20,35]]"
+    },
+    {
+      "id": "56:p1",
+      "kind": "body",
+      "text": "Your party packs and falls in behind you. The peaks of the Ram \nMountains loom ahead. You advance beneath the staring eyes \nof  frost-carved  hoodoos,  under  the  temples,  buttresses,  and \nsteeples of the weathered peaks. The strange majesty of their \nshapes reduces your companions to a silent reverence. If these \nancient mountains are a temple to forgotten gods, you can only \nhope that they do not judge your trespass as a blasphemy.",
+      "sourceLocation": "pdf:visual:[[20,36],[20,37],[20,38],[20,39],[20,40],[20,41],[20,42]]"
+    },
+    {
+      "id": "56:p2",
+      "kind": "body",
+      "text": "If any of your party requires healing, they may restore 1 hit point. \nMake a Listen roll: if you succeed, go to 84; if you fail, go to 85. ",
+      "sourceLocation": "pdf:visual:[[20,43],[20,44]]"
+    },
+    {
+      "id": "56:p3",
+      "kind": "trace",
+      "text": "(158, 164, 604)",
+      "sourceLocation": "pdf:visual:[[20,45]]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "605",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "605:p0",
+      "kind": "heading",
+      "text": "605",
+      "sourceLocation": "pdf:visual:[[102,8]]"
+    },
+    {
+      "id": "605:p1",
+      "kind": "body",
+      "text": "Undaunted by his hairsbreadth escape, Bernard urges you to \npress on into the hidden canyon.",
+      "sourceLocation": "pdf:visual:[[102,9],[102,10]]"
+    },
+    {
+      "id": "605:p2",
+      "kind": "body",
+      "text": "You sigh in relief as the last of your party steps onto solid \nground. The students spread out, staring at the scenery. As you \ncatch up with them, you are equally staggered to realize just \nhow immense this newly discovered valley actually is. Excited, \nyour group commences a preliminary survey.",
+      "sourceLocation": "pdf:visual:[[102,11],[102,12],[102,13],[102,14],[102,15]]"
+    },
+    {
+      "id": "605:p3",
+      "kind": "body",
+      "text": "It does not take long to confirm that you have discovered a \nredoubt of unprecedented prehistoric survival. Animal tracks \nthat fit no modern beast of the North abound in the sand and \nmud. You wish now that you had studied more paleontology.",
+      "sourceLocation": "pdf:visual:[[102,16],[102,17],[102,18],[102,19]]"
+    },
+    {
+      "id": "605:p4",
+      "kind": "body",
+      "text": "Record the keyword INCHCAPE. Attempt either a Hard INT roll \nor a Regular Science (Botany) roll: if you succeed, go to 606; if you \nfail, go to 607.",
+      "sourceLocation": "pdf:visual:[[102,20],[102,21],[102,22]]"
+    },
+    {
+      "id": "605:p5",
+      "kind": "trace",
+      "text": "(92, 642)",
+      "sourceLocation": "pdf:visual:[[102,23]]"
+    }
+  ]
+}

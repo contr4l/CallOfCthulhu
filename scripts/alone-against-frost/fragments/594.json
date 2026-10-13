@@ -1,0 +1,36 @@
+{
+  "id": "594",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "594:p0",
+      "kind": "heading",
+      "text": "594",
+      "sourceLocation": "pdf:visual:[[100,56]]"
+    },
+    {
+      "id": "594:p1",
+      "kind": "body",
+      "text": "Of course, you must return to Fort McDonald. But there is \ntime for one last side trip, in hopes of learning a little more \nabout the North Hanninah Valley. ",
+      "sourceLocation": "pdf:visual:[[100,57],[100,58],[100,59]]"
+    },
+    {
+      "id": "594:p2",
+      "kind": "body",
+      "text": "If you still have all your companions, go to 602.\nIf you have all three graduate students with you, but not Charlie, ",
+      "sourceLocation": "pdf:visual:[[100,60],[100,61]]"
+    },
+    {
+      "id": "594:p3",
+      "kind": "body",
+      "text": "go to 158.\nIf you have Norman, Sylvia, and Charlie with you, go to 598.\nIf you have two companions, go to 324.\nIf you have one companion, go to 279.\nIf you are alone, go to 597.",
+      "sourceLocation": "pdf:visual:[[100,62],[100,63],[100,64],[100,65],[100,66]]"
+    },
+    {
+      "id": "594:p4",
+      "kind": "trace",
+      "text": "(513)",
+      "sourceLocation": "pdf:visual:[[100,67]]"
+    }
+  ]
+}

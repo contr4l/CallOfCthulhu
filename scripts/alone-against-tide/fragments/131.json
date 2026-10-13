@@ -1,0 +1,48 @@
+{
+  "id": "131",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "131:p0",
+      "kind": "heading",
+      "text": "131\n",
+      "sourceLocation": "pdf:spans:[[43,44,48]]"
+    },
+    {
+      "id": "131:p1",
+      "kind": "body",
+      "text": "You pause outside the hotel doorway, listening for the sounds \nof footsteps. The streets are eerily still and nearly silent. \n",
+      "sourceLocation": "pdf:spans:[[43,48,111],[43,111,174]]"
+    },
+    {
+      "id": "131:p2",
+      "kind": "body",
+      "text": "You fancy you hear something and set off in the general \ndirection of the sounds. You wander the streets for what feels \nlike hours. Your suspicions are seemingly confirmed as it gets \nharder and harder to see, the lack of visibility caused by the \nmists compounded by the fading light. Dusk falls hard and fast, \nand you’re left roaming the streets in the darkness.\n",
+      "sourceLocation": "pdf:spans:[[43,174,231],[43,231,295],[43,295,359],[43,359,423],[43,423,488],[43,488,541]]"
+    },
+    {
+      "id": "131:p3",
+      "kind": "body",
+      "text": "As you contemplate abandoning your task, you tense up and \nfreeze as you hear a nauseating squelching sound suddenly \nbegin behind you.\n",
+      "sourceLocation": "pdf:spans:[[43,541,600],[43,600,659],[43,659,677]]"
+    },
+    {
+      "id": "131:p4",
+      "kind": "body",
+      "text": "A sense of terror washes over you as the unexpected sound \nbreaks the silence. You are ruled by a sense of unease and are \ndriven to run, though you don’t know why. You do not wish to \nfind out.\n",
+      "sourceLocation": "pdf:spans:[[43,677,736],[43,736,800],[43,800,862],[43,862,872]]"
+    },
+    {
+      "id": "131:p5",
+      "kind": "body",
+      "text": "• Make a DEX roll: if you succeed, go to 171; if you fail, go to 162.\n",
+      "sourceLocation": "pdf:spans:[[43,872,942]]"
+    },
+    {
+      "id": "131:p6",
+      "kind": "body",
+      "text": "(79, 136, 148, 149)\n",
+      "sourceLocation": "pdf:spans:[[43,942,962]]"
+    }
+  ]
+}

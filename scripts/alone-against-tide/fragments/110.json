@@ -1,0 +1,42 @@
+{
+  "id": "110",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "110:p0",
+      "kind": "heading",
+      "text": "110\n",
+      "sourceLocation": "pdf:spans:[[37,44,48]]"
+    },
+    {
+      "id": "110:p1",
+      "kind": "body",
+      "text": "You turn your attention to the set of stairs opposite the entrance. \nYou ascend the staircase and see two doors, one to either side of \nyou. The door to your left is slightly ajar, and no doubt leads to \nthe bedroom. By a process of elimination, the door to your right \nmust lead to the study. It seems to be locked and you don’t have \na key. With enough time, you might be able to get the door \nopen, but it would probably be unwise to spend too long trying, \nsince someone may come to investigate.\n",
+      "sourceLocation": "pdf:spans:[[37,48,117],[37,117,184],[37,184,252],[37,252,318],[37,318,384],[37,384,444],[37,444,509],[37,509,548]]"
+    },
+    {
+      "id": "110:p2",
+      "kind": "body",
+      "text": "• To enter the bedroom, go to 123.\n",
+      "sourceLocation": "pdf:spans:[[37,548,583]]"
+    },
+    {
+      "id": "110:p3",
+      "kind": "body",
+      "text": "• To enter the study, make a Locksmith roll: if you succeed, go to 108; \nif you fail, go to 75. \n",
+      "sourceLocation": "pdf:spans:[[37,583,656],[37,656,680]]"
+    },
+    {
+      "id": "110:p4",
+      "kind": "body",
+      "text": "• If you fail this roll, you may attempt to push it and roll again, but \nif you fail a second time, there will be greater consequences. If you \npush the roll and succeed, go to 108; if you fail, go to 87.\n",
+      "sourceLocation": "pdf:spans:[[37,680,753],[37,753,824],[37,824,885]]"
+    },
+    {
+      "id": "110:p5",
+      "kind": "body",
+      "text": "(98)\n",
+      "sourceLocation": "pdf:spans:[[37,885,890]]"
+    }
+  ]
+}

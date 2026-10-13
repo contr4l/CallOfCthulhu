@@ -15,7 +15,9 @@ export function SceneInputForm({
   const allowed =
     input.kind === "allocation"
       ? input.skills.filter(
-          (s) => !["cthulhuMythos", "creditRating"].includes(s.key),
+          (s) =>
+            s.key !== "cthulhuMythos" &&
+            (s.key !== "creditRating" || a?.includeCredit),
         )
       : [];
   const initialKeys =
@@ -24,17 +26,23 @@ export function SceneInputForm({
       : a?.kind === "occupation"
         ? [
             ...(a.required ?? []),
+            ...(a.includeCredit ? ["creditRating"] : []),
             ...(a.optional?.length ? [a.optional[0]] : []),
+            ...(a.groups ?? []).map((g) => g[0]),
             ...allowed
               .filter(
                 (s) =>
+                  s.key !== "creditRating" &&
                   !(a.required ?? []).includes(s.key) &&
-                  !(a.optional ?? []).includes(s.key),
+                  !(a.optional ?? []).includes(s.key) &&
+                  !(a.groups ?? []).flat().includes(s.key),
               )
               .slice(0, a.extra ?? 0)
               .map((s) => s.key),
           ]
-        : allowed.slice(0, 4).map((s) => s.key);
+        : a?.kind === "bonus"
+          ? allowed.map((s) => s.key)
+          : allowed.slice(0, a?.count ?? 4).map((s) => s.key);
   let draft: {
     keys?: string[];
     values?: number[];
@@ -57,7 +65,8 @@ export function SceneInputForm({
       draft.values.length === initialKeys.length &&
       draft.values.every((v) => typeof v === "number")
       ? draft.values
-      : (a?.values ?? (a?.kind === "interests" ? [20, 20, 20, 20] : [])),
+      : (a?.values ??
+          Array(initialKeys.length).fill(a?.kind === "interests" ? 20 : 0)),
   );
   const [specialties, setSpecialties] = useState<Record<string, string>>(
     draft.specialties && typeof draft.specialties === "object"
@@ -129,7 +138,10 @@ export function SceneInputForm({
         <>
           {a!.kind === "occupation" && (
             <p className="setup-note">
-              职业：{a!.occupation} · 信用评级 {a!.credit}
+              职业：{a!.occupation}
+              {a!.credit !== undefined
+                ? ` · 信用评级 ${a!.credit}`
+                : " · 信用评级参与点值分配"}
               。先分配必选技能，再选择社交技能与个人专长。
             </p>
           )}
@@ -137,15 +149,19 @@ export function SceneInputForm({
             {a!.kind === "attributes"
               ? "将 40、50、50、50、60、60、70、80 分配给八项属性。"
               : a!.kind === "occupation"
-                ? "分配 70、60、60、50、50、50、40、40；每项技能只能选择一次。"
-                : "选择四项非职业技能，每项增加 20。"}
+                ? `分配 ${a!.values?.join("、")}；每项技能只能选择一次。`
+                : a!.kind === "bonus"
+                  ? `分配 ${a!.pool} 点技能加值，可分配给已有技能。`
+                  : `选择 ${a!.count ?? 4} 项${a!.allowOccupation ? "" : "非职业"}技能，每项增加 20。`}
           </p>
           <p className="allocation-progress" role="status">
             {a!.kind === "interests"
-              ? `兴趣技能：${new Set(keys).size} / 4`
-              : points
-                ? `待分配点值：${points}`
-                : "点值已分配。"}
+              ? `兴趣技能：${new Set(keys).size} / ${a!.count ?? 4}`
+              : a!.kind === "bonus"
+                ? `已分配 ${values.reduce((s, v) => s + v, 0)} / ${a!.pool}`
+                : points
+                  ? `待分配点值：${points}`
+                  : "点值已分配。"}
           </p>
           {a!.kind === "attributes" && (
             <p className="setup-note">
@@ -179,17 +195,33 @@ export function SceneInputForm({
                   aria-label={`技能 ${i + 1}`}
                   value={key}
                   disabled={
-                    a!.kind === "occupation" && i < (a!.required?.length ?? 0)
+                    a!.kind === "occupation" &&
+                    i < (a!.required?.length ?? 0) + (a!.includeCredit ? 1 : 0)
                   }
                   onChange={(e) =>
                     setKeys(keys.map((k, j) => (j === i ? e.target.value : k)))
                   }
                 >
                   {allowed
+                    .filter((s) => {
+                      const groupIndex =
+                        i -
+                        (a!.required?.length ?? 0) -
+                        (a!.includeCredit ? 1 : 0) -
+                        (a!.optional?.length ? 1 : 0);
+                      const group = a!.groups?.[groupIndex];
+                      return (
+                        a!.kind !== "occupation" ||
+                        !group ||
+                        group.includes(s.key)
+                      );
+                    })
                     .filter(
                       (s) =>
                         a!.kind !== "occupation" ||
-                        i !== (a!.required?.length ?? 0) ||
+                        i !==
+                          (a!.required?.length ?? 0) +
+                            (a!.includeCredit ? 1 : 0) ||
                         !a!.optional?.length ||
                         a!.optional.includes(s.key),
                     )
@@ -207,40 +239,60 @@ export function SceneInputForm({
               {a!.kind === "occupation" && i < (a!.required?.length ?? 0) && (
                 <small>职业必选</small>
               )}
-              <select
-                id={`allocation-${i}`}
-                aria-label={`点值 ${i + 1}`}
-                value={values[i]}
-                disabled={a!.kind === "interests"}
-                onChange={(e) =>
-                  setValues(
-                    values.map((v, j) =>
-                      j === i ? Number(e.target.value) : v,
-                    ),
-                  )
-                }
-              >
-                {[...new Set(a!.values ?? [20])].map((v) => (
-                  <option key={v} value={v}>
-                    {v}
-                  </option>
-                ))}
-              </select>
+              {a!.kind === "bonus" ? (
+                <input
+                  type="number"
+                  aria-label={`加值 ${i + 1}`}
+                  min={0}
+                  max={99 - (allowed.find((s) => s.key === key)?.value ?? 0)}
+                  value={values[i]}
+                  onChange={(e) =>
+                    setValues(
+                      values.map((v, j) =>
+                        j === i ? Number(e.target.value) : v,
+                      ),
+                    )
+                  }
+                />
+              ) : (
+                <select
+                  id={`allocation-${i}`}
+                  aria-label={`点值 ${i + 1}`}
+                  value={values[i]}
+                  disabled={a!.kind === "interests"}
+                  onChange={(e) =>
+                    setValues(
+                      values.map((v, j) =>
+                        j === i ? Number(e.target.value) : v,
+                      ),
+                    )
+                  }
+                >
+                  {[...new Set(a!.values ?? [20])].map((v) => (
+                    <option key={v} value={v}>
+                      {v}
+                    </option>
+                  ))}
+                </select>
+              )}
               <small className="allocation-preview">
                 普通{" "}
-                {a!.kind === "interests"
-                  ? (allowed.find((s) => s.key === key)?.value ?? 0) + 20
+                {a!.kind === "interests" || a!.kind === "bonus"
+                  ? (allowed.find((s) => s.key === key)?.value ?? 0) +
+                    (values[i] ?? 20)
                   : values[i]}{" "}
                 / 困难{" "}
                 {Math.floor(
-                  (a!.kind === "interests"
-                    ? (allowed.find((s) => s.key === key)?.value ?? 0) + 20
+                  (a!.kind === "interests" || a!.kind === "bonus"
+                    ? (allowed.find((s) => s.key === key)?.value ?? 0) +
+                      (values[i] ?? 20)
                     : values[i]) / 2,
                 )}{" "}
                 / 极难{" "}
                 {Math.floor(
-                  (a!.kind === "interests"
-                    ? (allowed.find((s) => s.key === key)?.value ?? 0) + 20
+                  (a!.kind === "interests" || a!.kind === "bonus"
+                    ? (allowed.find((s) => s.key === key)?.value ?? 0) +
+                      (values[i] ?? 20)
                     : values[i]) / 5,
                 )}
               </small>

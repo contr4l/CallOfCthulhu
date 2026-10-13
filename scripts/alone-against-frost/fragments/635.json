@@ -1,0 +1,36 @@
+{
+  "id": "635",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "635:p0",
+      "kind": "heading",
+      "text": "635",
+      "sourceLocation": "pdf:visual:[[106,38]]"
+    },
+    {
+      "id": "635:p1",
+      "kind": "body",
+      "text": "You, Norman, and Sylvia carry Bernard to the shelter of the \nglade and try to warm him up. It does no good. He enters a \ncoma and dies at dusk.",
+      "sourceLocation": "pdf:visual:[[106,39],[106,40],[106,41]]"
+    },
+    {
+      "id": "635:p2",
+      "kind": "body",
+      "text": "You  get  very  little  sleep  that  night.  Your  remaining \ncompanions turn, restless in their bedrolls. At first light, you \nbury Bernard in the glade. ",
+      "sourceLocation": "pdf:visual:[[106,42],[106,43],[106,44]]"
+    },
+    {
+      "id": "635:p3",
+      "kind": "body",
+      "text": "To continue exploring the valley, go to 551. To leave it, go to 291.",
+      "sourceLocation": "pdf:visual:[[106,45]]"
+    },
+    {
+      "id": "635:p4",
+      "kind": "trace",
+      "text": "(634, 640)",
+      "sourceLocation": "pdf:visual:[[106,46]]"
+    }
+  ]
+}

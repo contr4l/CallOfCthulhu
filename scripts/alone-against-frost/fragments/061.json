@@ -1,0 +1,42 @@
+{
+  "id": "61",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "61:p0",
+      "kind": "heading",
+      "text": "61",
+      "sourceLocation": "pdf:visual:[[21,23]]"
+    },
+    {
+      "id": "61:p1",
+      "kind": "body",
+      "text": "  “No!”  Charlie  screams.  “The  Great Wind-Walker  comes!”  She \ngrabs her rifle and levels it at you and the graduate students. \nEyes wild, she backs toward the river.",
+      "sourceLocation": "pdf:visual:[[21,26],[21,27],[21,29]]"
+    },
+    {
+      "id": "61:p2",
+      "kind": "body",
+      "text": "“White men never understand,” she spits. “Go, then. Go with the \nWind-Walker!” She runs to the ruined canoe, takes her personal \npack, and dashes into the forest.",
+      "sourceLocation": "pdf:visual:[[21,30],[21,31],[21,32]]"
+    },
+    {
+      "id": "61:p3",
+      "kind": "body",
+      "text": "You shout after her, appealing to her professionalism. But \nshe does not return.",
+      "sourceLocation": "pdf:visual:[[21,33],[21,34]]"
+    },
+    {
+      "id": "61:p4",
+      "kind": "body",
+      "text": "To do your best to calm the frightened students, go to 95.",
+      "sourceLocation": "pdf:visual:[[21,35]]"
+    },
+    {
+      "id": "61:p5",
+      "kind": "trace",
+      "text": "(34)",
+      "sourceLocation": "pdf:visual:[[21,36]]"
+    }
+  ]
+}

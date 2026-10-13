@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "46"
+  ],
+  "text": [
+    "你暗示自己认识一些有头有脸的人物；要是不让你看那份报告，他们可能会问些不太好回答的问题。",
+    "你不确定鲍威尔警官是否相信了你，但你看得出，惹出更多麻烦不值得他冒险。他恼火地翻了翻桌上的文件，随后把你要的档案递给你。",
+    "报告称，哈里斯教授的死因在官方记录中为自杀。他死在自己的住处。某晚，他深夜仍待在书房，把枪口塞进嘴里，血溅满了整个房间。第二天下午，他的妻子阿米莉娅·哈里斯发现了尸体。没有留下遗书。死者此前没有犯罪记录，现场发现的枪也未曾用于任何已报告的犯罪。总体而言，这份报告干巴巴、极为简略。必要信息都在，但只做到了最基本的程度。",
+    "看完后，你把档案交还给鲍威尔。他嘟囔着收起来，然后大声清了清嗓子，又把双脚搁回桌上。",
+    "你觉得他是在暗示你该离开；鲍威尔警官恐怕也帮不了你更多。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 46",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 46",
+      "text": [
+        "You imply that you know the right sort of people who might ask the wrong sort of questions if you don’t get access to that report.",
+        "You aren’t certain whether or not Officer Powell believes you, but you can tell it’s more trouble than he’s willing to risk. With a look of irritation, he thumbs through the stack of papers on his desk before handing you the file you asked after.",
+        "According to the report, Prof. Harris’ death is officially a suicide. His death occurred at his home address. He was up late one night in his study, where he stuck a gun into his mouth and painted the room red. His body was found the following afternoon by his wife, Amelia Harris. There was no note. The deceased had no prior criminal history, and the gun found at the scene hadn’t been used in any reported crimes. Overall, the report is dry and minimalist. All requisite information is present, but only to the barest standard of diligence.",
+        "Satisfied, you hand the file back to Powell, who grumbles and tucks it away before clearing his throat loudly and propping his feet back up.",
+        "You feel that you have been given a cue to leave and that Officer Powell will not likely be of much further help."
+      ]
+    }
+  }
+}

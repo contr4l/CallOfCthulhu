@@ -1,0 +1,60 @@
+{
+  "id": "21",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "21:p0",
+      "kind": "heading",
+      "text": "21\n",
+      "sourceLocation": "pdf:spans:[[15,2723,2726]]"
+    },
+    {
+      "id": "21:p1",
+      "kind": "body",
+      "text": "As Joshua towers over you, fists raised in rage, an idea crosses \nyour mind. You pull both of your feet up and drive them into \nhis chest. You kick him back with all your might, sending him \ntumbling down the stairs.\n",
+      "sourceLocation": "pdf:spans:[[15,2726,2792],[15,2792,2854],[15,2854,2917],[15,2917,2943]]"
+    },
+    {
+      "id": "21:p2",
+      "kind": "body",
+      "text": "You hear several thumps and thuds as Joshua rolls down the \nsteps. When he reaches the bottom, he lays there, sprawled out \nand clearly injured. His groans betray his semiconscious state, \nand you walk over to him confidently. With one final kick, you \nsend him over the edge into unconsciousness.\n",
+      "sourceLocation": "pdf:spans:[[15,2943,3003],[15,3003,3067],[15,3067,3132],[15,3132,3196],[15,3196,3241]]"
+    },
+    {
+      "id": "21:p3",
+      "kind": "body",
+      "text": "Amelia is mortified at the sight. She runs out into the street, \nfleeing the scene. You quickly search Joshua’s pockets and find \nhis wallet, which includes his identification—with an address. \nA search of his other pocket reveals a house key.\n",
+      "sourceLocation": "pdf:spans:[[15,3241,3306],[15,3306,3371],[15,3371,3435],[15,3435,3485]]"
+    },
+    {
+      "id": "21:p4",
+      "kind": "body",
+      "text": "Several options are immediately apparent. You can continue \nsearching the house, leave in pursuit of Amelia, or make your \nway to Joshua’s home.\n",
+      "sourceLocation": "pdf:spans:[[15,3485,3545],[15,3545,3608],[15,3608,3630]]"
+    },
+    {
+      "id": "21:p5",
+      "kind": "body",
+      "text": "• To search the Harris house, go to 179.\n",
+      "sourceLocation": "pdf:spans:[[15,3630,3671]]"
+    },
+    {
+      "id": "21:p6",
+      "kind": "body",
+      "text": "• To chase Amelia, go to 136.\n",
+      "sourceLocation": "pdf:spans:[[15,3671,3701]]"
+    },
+    {
+      "id": "21:p7",
+      "kind": "body",
+      "text": "• To search Joshua’s house, go to 151.\n",
+      "sourceLocation": "pdf:spans:[[15,3701,3740]]"
+    },
+    {
+      "id": "21:p8",
+      "kind": "body",
+      "text": "(132)",
+      "sourceLocation": "pdf:spans:[[15,3740,3745]]"
+    }
+  ]
+}

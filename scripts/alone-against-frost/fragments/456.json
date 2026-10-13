@@ -1,0 +1,42 @@
+{
+  "id": "456",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "456:p0",
+      "kind": "heading",
+      "text": "456",
+      "sourceLocation": "pdf:visual:[[80,57]]"
+    },
+    {
+      "id": "456:p1",
+      "kind": "body",
+      "text": "The  veil  to  the  dimension  beyond  slams  shut!  But  you  are \nnot alone; things emerged from the rift before it closed. You \nsense them in the prickling of your skin. You know them as \nthe vermin of Otherwhen. You saw their shadows, heard their \nname in the currents of chaos: Ten`a-ranide!",
+      "sourceLocation": "pdf:visual:[[80,58],[80,59],[80,60],[80,61],[80,62]]"
+    },
+    {
+      "id": "456:p2",
+      "kind": "body",
+      "text": "An ice-lipped wound rips open on your body. A cascade of \nblood soaks your clothes.",
+      "sourceLocation": "pdf:visual:[[80,63],[80,64]]"
+    },
+    {
+      "id": "456:p3",
+      "kind": "body",
+      "text": "You dash from the temple and shriek, “Get away from here!” \nYour companions have learned that such warnings should not \nbe taken lightly in the North Hanninah. They wheel and dash \nback the way you came.",
+      "sourceLocation": "pdf:visual:[[80,65],[80,66],[80,67],[80,68]]"
+    },
+    {
+      "id": "456:p4",
+      "kind": "body",
+      "text": "Take 1D6 damage. If your party still has five members, go to 547. If \nyou have lost one, go to 437.",
+      "sourceLocation": "pdf:visual:[[80,69],[80,70]]"
+    },
+    {
+      "id": "456:p5",
+      "kind": "trace",
+      "text": "(451)",
+      "sourceLocation": "pdf:visual:[[80,71]]"
+    }
+  ]
+}

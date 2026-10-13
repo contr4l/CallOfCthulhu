@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "40"
+  ],
+  "text": [
+    "你听出了对方的暗示，决定趁他们真正发怒前离开。你转身回到人群中，寻找别的消遣。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 40",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 40",
+      "text": [
+        "You take the hint and decide to leave them be before they get truly angry. You turn back to the crowd and search for another distraction."
+      ]
+    }
+  }
+}

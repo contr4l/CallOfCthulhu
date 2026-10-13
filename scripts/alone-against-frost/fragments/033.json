@@ -1,0 +1,30 @@
+{
+  "id": "33",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "33:p0",
+      "kind": "heading",
+      "text": "33",
+      "sourceLocation": "pdf:visual:[[15,77]]"
+    },
+    {
+      "id": "33:p1",
+      "kind": "body",
+      "text": "Although  your  expedition  has  failed  to  produce  any  hard \nevidence, your reputation is such that Miskatonic University \ndoes not hold it against you. However, as the Great Depression \nsets in, you find it more difficult to fund new projects. The bizarre \nstories you have to tell of the North Hanninah are greeted with \nenthusiasm by the sensationalist press, but skepticism by your \ncolleagues. As things go, your career manages to survive your \nHanninah experience.",
+      "sourceLocation": "pdf:visual:[[15,78],[15,79],[15,80],[15,81],[15,82],[15,83],[15,84],[15,85]]"
+    },
+    {
+      "id": "33:p2",
+      "kind": "body",
+      "text": "The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[15,86]]"
+    },
+    {
+      "id": "33:p3",
+      "kind": "trace",
+      "text": "(418, 430)",
+      "sourceLocation": "pdf:visual:[[15,87]]"
+    }
+  ]
+}

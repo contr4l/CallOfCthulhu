@@ -1,0 +1,30 @@
+{
+  "id": "168",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "168:p0",
+      "kind": "heading",
+      "text": "168",
+      "sourceLocation": "pdf:visual:[[38,37]]"
+    },
+    {
+      "id": "168:p1",
+      "kind": "body",
+      "text": "The creature trembles under the impact of the bullet! However, \nyou see no trace of a wound. Perhaps you were rash to believe \nthat an entity whose touch annihilates matter could be harmed \nby a lead projectile. Nonetheless, you seem to have startled it, \nand it rolls away into the woods.",
+      "sourceLocation": "pdf:visual:[[38,38],[38,39],[38,40],[38,41],[38,42]]"
+    },
+    {
+      "id": "168:p2",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity and go to 171.",
+      "sourceLocation": "pdf:visual:[[38,43]]"
+    },
+    {
+      "id": "168:p3",
+      "kind": "trace",
+      "text": "(167)",
+      "sourceLocation": "pdf:visual:[[38,44]]"
+    }
+  ]
+}

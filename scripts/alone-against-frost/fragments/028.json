@@ -1,0 +1,30 @@
+{
+  "id": "28",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "28:p0",
+      "kind": "heading",
+      "text": "28",
+      "sourceLocation": "pdf:visual:[[15,30]]"
+    },
+    {
+      "id": "28:p1",
+      "kind": "body",
+      "text": "Once  engaged,  Charlie  watches  your  eyes  as  if  hypnotized. \nAfter  a  long  talk,  she  shrugs,  pained.  “You  speak  the  truth, \nProfessor.  Sometimes  the  legends  of  my  people  are  just  stories.  I \nam… rational, like you.” She stands up and begins to look for \nthe missing student.",
+      "sourceLocation": "pdf:visual:[[15,31],[15,32],[15,33],[15,34],[15,35]]"
+    },
+    {
+      "id": "28:p2",
+      "kind": "body",
+      "text": "Make a Track roll for Charlie: if it succeeds, go to 23; if it fails, go \nto 24.",
+      "sourceLocation": "pdf:visual:[[15,36],[15,37]]"
+    },
+    {
+      "id": "28:p3",
+      "kind": "trace",
+      "text": "(27)",
+      "sourceLocation": "pdf:visual:[[15,38]]"
+    }
+  ]
+}

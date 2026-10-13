@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "202"
+  ],
+  "text": [
+    "你打开门，发现里面是一间卧室，和你预想的一样。房间显然属于一位单身汉，因为唯一带有女性气息的物品是一套铺在床上的蕾丝睡衣。你看向附近的床头柜，发现几张约书亚和阿米莉娅的相框照片，于是猜想衣服是她的。床头柜抽屉里露出一个打开的子弹盒，还有几瓶私酿威士忌。",
+    "你扫视房间其余部分。唯一值得注意的物件是一只梳妆柜。你翻找一番，发现里面装满男装，都是约书亚会穿的那种。不过，在翻他的东西时，你发现一个信封。你把它翻过来，看到信封没有封口；从皱巴巴的样子判断，里面的信已经被反复读过好几遍。",
+    "你抽出信开始阅读。信似乎是约书亚与一位来自阿卡姆的韦伯博士之间的往来信件。显然，韦伯是一名心理治疗师，约书亚每月都会去见他。信中说，过去几个月对约书亚来说相当艰难。除了他的犯罪活动以及与阿米莉娅的关系，他还一直受到奇怪梦境的困扰，韦伯博士将其称为强迫性妄想。",
+    "约书亚执迷于一个关于遥远国度里一座美丽城市的梦。他描述那座城市由大理石建成，还说有时醒来时会哭泣，因为梦里不得不离开那里。他还说，在那座陌生城市岸边的水中看见过一个令人恐惧的蜥蜴状怪物。有时夜里，它会低声说自己知道通往城市的路。尽管这个蜥蜴状怪物吓着他，他还是听从那些低语。约书亚坦言自己极度渴望前往那座城市，尽管他不知道它在哪里，甚至不知道它是否真实存在。韦伯博士则向约书亚保证，这些事全是虚构的，他必须设法回到现实，摆脱这些妄想。",
+    "你把信放回信封，再将所有东西放回原处，思索这会如何影响埃斯伯里发生的事。你默默回到房子的主区域。现在你可以调查地下室，或者离开房子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 202",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 202",
+      "text": [
+        "You open the door to find a bedroom, much as you’d expected. The room clearly belongs to a bachelor, as the only feminine object is a set of lace sleepwear lying across the bed. You look to a nearby nightstand and find several framed photographs of Joshua and Amelia, so you assume the clothes are hers. Peeking out of a drawer in the nightstand is an open box of bullets, as well as several bottles of bootleg whiskey.",
+        "You scan the rest of the room. The only other object of note is a dresser. You search it and find it to be full of men’s clothing, the sort that Joshua would wear. However, as you are rifling through his things, you find an envelope. Turning it over, you see it’s unsealed, and judging by the crumpled state of it, the letter inside has been read over several times.",
+        "You pull out the letter and begin reading. It appears to be a correspondence between Joshua and a Dr. Webber, based out of Arkham. Webber is, apparently, a psychotherapist that Joshua sees on a monthly basis. According to the letter, the past few months have been quite difficult for Joshua. In addition to his criminal activities and his relationship with Amelia, he has been troubled by strange dreams, which Dr. Webber labeled as obsessive delusions.",
+        "Joshua has a fixation with a particular dream of a beautiful city in a far-off land. He describes the city as made of marble and says that sometimes he wakes up crying because he has to leave it behind in his dreams. He also reports seeing a frightening lizard-thing in the water off the shore of this strange city. Sometimes, in the night, it whispers that it knows the way to the city. Though the lizard-thing scares him, he listens to the whispers. Joshua professes a deep desire to go to the city, though he doesn’t know where it is or even if it’s real. For his part, Dr. Webber assures Joshua that these things are completely fictitious and that he must find a way to return to reality and leave the delusions behind.",
+        "You return the letter to its envelope, then slip everything back where you found it, thinking about how this affects the course of events here in Esbury. Silently, you return to the main area of the house. You may now investigate the basement or leave the house."
+      ]
+    }
+  }
+}

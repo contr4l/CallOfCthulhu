@@ -1,0 +1,36 @@
+{
+  "id": "113",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "113:p0",
+      "kind": "heading",
+      "text": "113",
+      "sourceLocation": "pdf:visual:[[29,16]]"
+    },
+    {
+      "id": "113:p1",
+      "kind": "body",
+      "text": "You shout a warning to your companions and push them ahead \nof you. Within seconds you are all running as quickly as you can, \nignoring the way the thickets tear at your clothes and scratch \nyour flesh. With your longer legs, you can surely outdistance \nthe aggressive little men, if you can just get out of range.",
+      "sourceLocation": "pdf:visual:[[29,18],[29,20],[29,21],[29,23],[29,24]]"
+    },
+    {
+      "id": "113:p2",
+      "kind": "body",
+      "text": "Make a DEX roll: if you succeed, go to 147; if you fail, go to 146.",
+      "sourceLocation": "pdf:visual:[[29,26]]"
+    },
+    {
+      "id": "113:p3",
+      "kind": "trace",
+      "text": "(85, 218, 238, 648)",
+      "sourceLocation": "pdf:visual:[[29,28]]"
+    },
+    {
+      "id": "113:p4",
+      "kind": "body",
+      "text": "28",
+      "sourceLocation": "pdf:visual:[[29,29]]"
+    }
+  ]
+}

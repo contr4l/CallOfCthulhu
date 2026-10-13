@@ -1,0 +1,72 @@
+{
+  "id": "83",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "83:p0",
+      "kind": "heading",
+      "text": "83\n",
+      "sourceLocation": "pdf:spans:[[30,2372,2375]]"
+    },
+    {
+      "id": "83:p1",
+      "kind": "body",
+      "text": "Lumbering lazily in your general direction, the hideous \nthing takes a swipe at you. Whatever this creature is, you are \nmercifully faster than it.\n",
+      "sourceLocation": "pdf:spans:[[30,2375,2432],[30,2432,2496],[30,2496,2523]]"
+    },
+    {
+      "id": "83:p2",
+      "kind": "body",
+      "text": "You run as swiftly as your feet will carry you, and you dare \nnot look back. Instinctually, you rush into the hotel and slam \nthe door behind you, retreating to the closest thing to a safe \nspace you can find.\n",
+      "sourceLocation": "pdf:spans:[[30,2523,2585],[30,2585,2649],[30,2649,2713],[30,2713,2733]]"
+    },
+    {
+      "id": "83:p3",
+      "kind": "body",
+      "text": "You rest a moment, bracing yourself against the door and \ncatching your breath. You have no idea what’s out there or \nwhere it came from. Perhaps you don’t want to know.\n",
+      "sourceLocation": "pdf:spans:[[30,2733,2791],[30,2791,2851],[30,2851,2903]]"
+    },
+    {
+      "id": "83:p4",
+      "kind": "body",
+      "text": "Your instincts lead you to believe that it’s somehow connected \nto Harris’ possessions and the circumstances surrounding \nHarris’ death. Why else would this be happening now, of all \ntimes?\n",
+      "sourceLocation": "pdf:spans:[[30,2903,2967],[30,2967,3025],[30,3025,3086],[30,3086,3093]]"
+    },
+    {
+      "id": "83:p5",
+      "kind": "body",
+      "text": "You don’t wish to dwell on it at the present moment and \nyou have little to go on. You weigh your options with as much \nrationality as you can muster.\n",
+      "sourceLocation": "pdf:spans:[[30,3093,3150],[30,3150,3213],[30,3213,3244]]"
+    },
+    {
+      "id": "83:p6",
+      "kind": "body",
+      "text": "You could simply remain here—seal the entrances and wait \nout the night, hoping that it won’t find you and will leave with \nthe coming of day, or even prepare to hold out here and fight \nback, should it come at you again. Another option is to flee \nthis impossibility—run into the fog as fast as you can and \nmake for the trees, hoping to leave this unnatural thing behind \nyou in Esbury, with the rest of your fruitless endeavors here. \nOr—if you’re feeling particularly brave of heart—you may steel \nyourself against the horror and press on with your investigation, \nhoping to unravel the goings-on in Esbury and perhaps even \nthe origins of this horrid thing—and maybe find a way to get \nrid of it.\n",
+      "sourceLocation": "pdf:spans:[[30,3244,3302],[30,3302,3368],[30,3368,3431],[30,3431,3493],[30,3493,3553],[30,3553,3618],[30,3618,3682],[30,3682,3746],[30,3746,3813],[30,3813,3873],[30,3873,3935],[30,3935,3946]]"
+    },
+    {
+      "id": "83:p7",
+      "kind": "body",
+      "text": "• To remain in the safety of the hotel, go to 173.\n",
+      "sourceLocation": "pdf:spans:[[30,3946,3997]]"
+    },
+    {
+      "id": "83:p8",
+      "kind": "body",
+      "text": "• To flee everything, go to 166.\n",
+      "sourceLocation": "pdf:spans:[[30,3997,4030]]"
+    },
+    {
+      "id": "83:p9",
+      "kind": "body",
+      "text": "• To continue the investigation, go to 200.\n",
+      "sourceLocation": "pdf:spans:[[30,4030,4074]]"
+    },
+    {
+      "id": "83:p10",
+      "kind": "body",
+      "text": "(162)",
+      "sourceLocation": "pdf:spans:[[30,4074,4079]]"
+    }
+  ]
+}

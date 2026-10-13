@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "160"
+  ],
+  "text": [
+    "你穿过埃斯伯里的街道，走进令人不安的浓雾，朝约书亚家而去。你出发后已经过了好几个小时，天空也黑了下来，但你终于找到了目的地。那是一栋位于镇子边缘、靠近教堂的小房子。",
+    "你试了试门，发现没有锁。你毫不怀疑屋里的人都带着武器，于是轻手轻脚地溜进去，希望不被发现。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 160",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 160",
+      "text": [
+        "You set off through the streets of Esbury and into that unnerving fog, headed in the direction of Joshua’s house. A few hours have passed since you first set out, and the sky is now dark, but you finally find it. The place in question is a small house located on the edge of town, near the church.",
+        "You try the door and find it unlocked. You have no doubt that the men inside will be armed, so you slip in quietly, hoping to avoid notice."
+      ]
+    }
+  }
+}

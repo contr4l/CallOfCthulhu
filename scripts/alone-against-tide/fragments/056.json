@@ -1,0 +1,36 @@
+{
+  "id": "56",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "56:p0",
+      "kind": "heading",
+      "text": "56\n",
+      "sourceLocation": "pdf:spans:[[23,4339,4342]]"
+    },
+    {
+      "id": "56:p1",
+      "kind": "body",
+      "text": "You exchange a few more pleasantries with Sanford before \nhe goes off to finish guiding the boat into port. You pass the \ntime in casual conversation with the other passengers and in \nobserving the scenery. You note the tall pines and the sloping \nhills along the lakeshore around Esbury. These features, and the \nsmall town beyond, are just visible through the growing mist, \nbut squinting helps make them out to your satisfaction.\n",
+      "sourceLocation": "pdf:spans:[[23,4342,4400],[23,4400,4464],[23,4464,4526],[23,4526,4590],[23,4590,4656],[23,4656,4719],[23,4719,4775]]"
+    },
+    {
+      "id": "56:p2",
+      "kind": "body",
+      "text": "In time, you arrive on the pier at Esbury, grateful to be off  \nthe water.\n",
+      "sourceLocation": "pdf:spans:[[23,4775,4839],[23,4839,4850]]"
+    },
+    {
+      "id": "56:p3",
+      "kind": "body",
+      "text": "• Go to 3.\n",
+      "sourceLocation": "pdf:spans:[[23,4850,4861]]"
+    },
+    {
+      "id": "56:p4",
+      "kind": "body",
+      "text": "(4, 18, 23, 33, 41, 63, 71, 104)",
+      "sourceLocation": "pdf:spans:[[23,4861,4893]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "504",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "504:p0",
+      "kind": "heading",
+      "text": "504",
+      "sourceLocation": "pdf:visual:[[88,1]]"
+    },
+    {
+      "id": "504:p1",
+      "kind": "body",
+      "text": "Trembling, you crawl away from this vantage point to Hell.",
+      "sourceLocation": "pdf:visual:[[88,2]]"
+    },
+    {
+      "id": "504:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll: if you succeed, go to 505; if you fail, go to 506.",
+      "sourceLocation": "pdf:visual:[[88,3]]"
+    },
+    {
+      "id": "504:p3",
+      "kind": "trace",
+      "text": "(503)",
+      "sourceLocation": "pdf:visual:[[88,4]]"
+    }
+  ]
+}

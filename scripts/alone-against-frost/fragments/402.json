@@ -1,0 +1,30 @@
+{
+  "id": "402",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "402:p0",
+      "kind": "heading",
+      "text": "402",
+      "sourceLocation": "pdf:visual:[[72,22]]"
+    },
+    {
+      "id": "402:p1",
+      "kind": "body",
+      "text": "The fire is short-lived. When the brief night is over, nothing \nremains of it except a fading haze of smoke on the hilltop.",
+      "sourceLocation": "pdf:visual:[[72,23],[72,24]]"
+    },
+    {
+      "id": "402:p2",
+      "kind": "body",
+      "text": "Go to 395.",
+      "sourceLocation": "pdf:visual:[[72,25]]"
+    },
+    {
+      "id": "402:p3",
+      "kind": "trace",
+      "text": "(294, 401)",
+      "sourceLocation": "pdf:visual:[[72,26]]"
+    }
+  ]
+}

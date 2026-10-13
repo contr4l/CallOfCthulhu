@@ -1,0 +1,60 @@
+{
+  "id": "133",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "133:p0",
+      "kind": "heading",
+      "text": "133\n",
+      "sourceLocation": "pdf:spans:[[43,1766,1770]]"
+    },
+    {
+      "id": "133:p1",
+      "kind": "body",
+      "text": "You throw a punch at Joshua’s face and send him stumbling \nbackward, stunned. You manage to rip the knife from his grasp \nas he regains his footing. You take the blade and swiftly plunge \nit into his chest.\n",
+      "sourceLocation": "pdf:spans:[[43,1770,1829],[43,1829,1892],[43,1892,1958],[43,1958,1977]]"
+    },
+    {
+      "id": "133:p2",
+      "kind": "body",
+      "text": "Joshua’s face takes on a pained and shocked expression, as \nif offended that you’d dare to kill him. Still, he slumps to his \nknees. He looks up at you as he begins to die. His eyes glaze \nover and stare at you with a smoldering malevolence. Strange \nwords pass from his lips as the last of his life fades away. “Bokrug \nron ‘bthnk n’ghft, ‘ai.” A last shuddering breath rattles his body, \nand he slumps into a lifeless heap at your feet.\n",
+      "sourceLocation": "pdf:spans:[[43,1977,2037],[43,2037,2103],[43,2103,2166],[43,2166,2228],[43,2228,2298],[43,2298,2367],[43,2367,2416]]"
+    },
+    {
+      "id": "133:p3",
+      "kind": "body",
+      "text": "You feel greatly disturbed by this but you attempt to shake it \noff and move on. You survey the room. The table at the far end \nis covered in curious artifacts, as well as a large stack of papers. \nThere is little else here save for the flickering bulb above you, \nthe empty chair, and Joshua’s dead body.\n",
+      "sourceLocation": "pdf:spans:[[43,2416,2480],[43,2480,2544],[43,2544,2614],[43,2614,2681],[43,2681,2722]]"
+    },
+    {
+      "id": "133:p4",
+      "kind": "body",
+      "text": "You might consider leaving this place, as sitting in a dank \nbasement with a fresh corpse is not an entirely pleasant \nexperience.\n",
+      "sourceLocation": "pdf:spans:[[43,2722,2783],[43,2783,2841],[43,2841,2853]]"
+    },
+    {
+      "id": "133:p5",
+      "kind": "body",
+      "text": "• Make a Sanity roll: if you succeed, lose 1 Sanity point; if you fail, \nlose 1D3 Sanity points.\n",
+      "sourceLocation": "pdf:spans:[[43,2853,2926],[43,2926,2950]]"
+    },
+    {
+      "id": "133:p6",
+      "kind": "body",
+      "text": "• To look over the items, go to 210.\n",
+      "sourceLocation": "pdf:spans:[[43,2950,2987]]"
+    },
+    {
+      "id": "133:p7",
+      "kind": "body",
+      "text": "• To leave this place, go to 181.\n",
+      "sourceLocation": "pdf:spans:[[43,2987,3021]]"
+    },
+    {
+      "id": "133:p8",
+      "kind": "body",
+      "text": "(115)\n",
+      "sourceLocation": "pdf:spans:[[43,3021,3027]]"
+    }
+  ]
+}

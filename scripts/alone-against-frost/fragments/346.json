@@ -1,0 +1,30 @@
+{
+  "id": "346",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "346:p0",
+      "kind": "heading",
+      "text": "346",
+      "sourceLocation": "pdf:visual:[[64,65]]"
+    },
+    {
+      "id": "346:p1",
+      "kind": "body",
+      "text": "You fire at the ape-men.",
+      "sourceLocation": "pdf:visual:[[64,66]]"
+    },
+    {
+      "id": "346:p2",
+      "kind": "body",
+      "text": "Roll 1D6: on a result of 1–4, go to 519; on a result of 5–6, go to 481.",
+      "sourceLocation": "pdf:visual:[[64,67]]"
+    },
+    {
+      "id": "346:p3",
+      "kind": "trace",
+      "text": "(309, 362)",
+      "sourceLocation": "pdf:visual:[[64,68]]"
+    }
+  ]
+}

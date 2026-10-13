@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "186"
+  ],
+  "text": [
+    "你在埃斯伯里雾蒙蒙的街道上飞奔，气喘吁吁地想要逃离这座被神遗弃的小镇。你在绿色雾气中漫无目的地奔跑，只想尽可能快地逃离。",
+    "你穿过弯弯曲曲的小巷和开阔的街道——在浓雾中，两者几乎没有区别。奔跑时，你遇到了那只同样可怕、膨胀畸形的怪物。它步履蹒跚地朝你走来，但你快得多。",
+    "然而，你绕过一个弯道时发现前面还有一只。你赶紧改变方向，却又发现更多那种东西挡住去路。一大群邪恶可怖的生物蹒跚着朝你走来。你惊慌失措，连忙寻找逃生路线。",
+    "幸运的是，你发现两栋建筑之间有条狭窄的小巷，便赶紧朝那里冲去。谢天谢地，你从另一端出来时没看到任何那种东西。",
+    "继续奔跑时，你注意到另一件怪事：镇子似乎正在被淹。水位以惊人的速度上涨；等你跑到镇子边缘时，水已经没过脚踝。",
+    "你跑进森林，心知在这片黑暗和浓雾中寻找小路根本徒劳。你以双腿所能达到的速度在树林里穿行。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 186",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 186",
+      "text": [
+        "You sprint through Esbury’s foggy streets, breathing heavily as you try to abandon this godforsaken town. You move in no particular direction through the green mist, simply running away as fast as you can.",
+        "You follow twisting and turning alleys and open streets—in the dense fog you can discern little difference. As you run, you encounter that same horrible, distended monstrosity. It lumbers toward you but you are much too quick for it.",
+        "But then you round a bend in the road and find another one. You quickly change your heading, only to find yet more of the things blocking your path. A whole multitude of the vile, horrendous creatures shamble toward you. You panic and quickly look for an escape route.",
+        "Luckily, you find a narrow alley between two buildings and you dive toward it with all due haste. Thankfully, there are none of the things to be seen once you emerge on the other side.",
+        "As you continue to run, you notice something else peculiar: the town seems to be flooding. The water is rising at an alarming rate and you’re already splashing through ankle-deep water by the time you reach the edge of town.",
+        "You run into the forest, knowing full well that it’s a hopeless task to look for the trail in this darkness and fog. You move through the woods as fast as your legs will carry you."
+      ]
+    }
+  }
+}

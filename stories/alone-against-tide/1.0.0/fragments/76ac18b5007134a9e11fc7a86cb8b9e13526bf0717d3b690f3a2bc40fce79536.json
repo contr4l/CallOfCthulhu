@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "60"
+  ],
+  "text": [
+    "你走近那群人，向他们自我介绍，并说自己认出了他们——之前在渡船上见过。先前那两个男人似乎对你的出现很不满，脸上明显流露出恼火。“滚开，伙计，我们不认识你。你跟我们没关系。”第三个男人似乎也很不耐烦，对你的打扰皱起眉头。",
+    "他们显然不欢迎你。那两名穿西装的男人不理你，希望你能离开，于是转过身背对着你。你看到他们的西装外套奇怪地鼓起，仿佛并不合身。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 60",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 60",
+      "text": [
+        "You approach the huddled group and introduce yourself to them, stating that you recognize them from the ferry. The two men from earlier appear annoyed at your presence and are visibly irritated. “Scram man, we don’t know you. You got nothing to do with us.” The third man seems likewise bothered and frowns at your intrusion.",
+        "They certainly make you feel unwelcome. Ignoring you in hopes that you’ll leave, the two men in suits turn their backs to you. You see the jacket of each suit shift oddly, as if it’s ill-fitting."
+      ]
+    }
+  }
+}

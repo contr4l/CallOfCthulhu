@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "14"
+  ],
+  "text": [
+    "你为那本日记出了个不高的价，原以为它平平无奇，不会有人愿意花大价钱。显然你猜错了：另一个人的名字被叫到，一名金发、眼神明亮的年轻人上前，以明显高于你报价的价格领走了书。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 14",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 14",
+      "text": [
+        "You placed a modest bid on the journal, thinking its unremarkable nature would prevent anyone from paying anything resembling a large sum. Clearly, you were mistaken, as another name is called and a bright-eyed and blond-haired youth goes to claim the book for a price that is noticeably more than your offer."
+      ]
+    }
+  }
+}

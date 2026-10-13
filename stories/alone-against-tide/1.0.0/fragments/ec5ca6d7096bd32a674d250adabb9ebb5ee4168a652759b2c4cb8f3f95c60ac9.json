@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "105"
+  ],
+  "text": [
+    "作为执法人员，鲍威尔警官却有一副十足的恶棍脾气。他似乎在找人打架，从他脸上的伤疤看得出他打过不少架。加上他的体格，确实颇具威慑力。不过，他一上来就用隐晦的威胁打招呼，令人有些不安；这显然也不是一个有道德、守原则的人该有的行为。最好别惹这个人，尽量避开他才明智。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 105",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 105",
+      "text": [
+        "For an officer of the law, Officer Powell possesses a rather thuggish disposition. He seems to be looking for a fight, and from the scars on his face, you can tell he’s been in many. With his size, he does cut a rather intimidating figure. Still, the use of thinly-veiled threats as an introduction is somewhat unnerving, and certainly not proper behavior for a moral and ethical man. It’s probably best not to provoke this man, and it would be wise to avoid him as much as possible."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "67",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "67:p0",
+      "kind": "heading",
+      "text": "67\n",
+      "sourceLocation": "pdf:spans:[[25,3674,3677]]"
+    },
+    {
+      "id": "67:p1",
+      "kind": "body",
+      "text": "Not wanting to take any chances with your freedom, you slip \nquietly out into the mist. As you step onto the stone pavement \noutside, you turn your collar up, hoping it might provide you \nwith some semblance of anonymity. You begin walking down \nthe street at a brisk pace, hoping to put some distance between \nyourself and the Harris house.\n",
+      "sourceLocation": "pdf:spans:[[25,3677,3738],[25,3738,3802],[25,3802,3865],[25,3865,3923],[25,3923,3988],[25,3988,4019]]"
+    },
+    {
+      "id": "67:p2",
+      "kind": "body",
+      "text": "You continue along the path for a short distance before you hear \nthe sound of heavy footsteps approaching you. Thanks to the thick \nfog, you don’t think you’ve been spotted. You quickly duck into a \nnearby alley to let the traveler pass. The man moves by you at a \nquick jog, cursing under his breath. You recognize Joshua’s voice, \nand you feel certain that he’s connected to your attempted arrest.\n",
+      "sourceLocation": "pdf:spans:[[25,4019,4085],[25,4085,4152],[25,4152,4219],[25,4219,4285],[25,4285,4353],[25,4353,4420]]"
+    },
+    {
+      "id": "67:p3",
+      "kind": "body",
+      "text": "Still, you realize that you don’t have many options to deal \nwith that right now. With the law after you and this damnable \nfog keeping you from leaving on the ferry, the best thing you \ncan do is head back to the hotel and either lie low there or \nfigure out what your next move is.\n",
+      "sourceLocation": "pdf:spans:[[25,4420,4481],[25,4481,4544],[25,4544,4607],[25,4607,4669],[25,4669,4704]]"
+    },
+    {
+      "id": "67:p4",
+      "kind": "body",
+      "text": "• Go to 122.\n",
+      "sourceLocation": "pdf:spans:[[25,4704,4717]]"
+    },
+    {
+      "id": "67:p5",
+      "kind": "body",
+      "text": "(98)",
+      "sourceLocation": "pdf:spans:[[25,4717,4721]]"
+    }
+  ]
+}

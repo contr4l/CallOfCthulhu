@@ -1,0 +1,36 @@
+{
+  "id": "541",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "541:p0",
+      "kind": "heading",
+      "text": "541",
+      "sourceLocation": "pdf:visual:[[93,46]]"
+    },
+    {
+      "id": "541:p1",
+      "kind": "body",
+      "text": "Sylvia is unconscious and drifting. You seize her by the hair and \ndrag her to the rocky bank, where Norman helps you get her \nashore. You camp in the ravine until Sylvia is fit to travel. ",
+      "sourceLocation": "pdf:visual:[[93,47],[93,48],[93,49]]"
+    },
+    {
+      "id": "541:p2",
+      "kind": "body",
+      "text": "Go to 54.",
+      "sourceLocation": "pdf:visual:[[93,50]]"
+    },
+    {
+      "id": "541:p3",
+      "kind": "trace",
+      "text": "(540)",
+      "sourceLocation": "pdf:visual:[[93,51]]"
+    },
+    {
+      "id": "541:p4",
+      "kind": "body",
+      "text": "92",
+      "sourceLocation": "pdf:visual:[[93,52]]"
+    }
+  ]
+}

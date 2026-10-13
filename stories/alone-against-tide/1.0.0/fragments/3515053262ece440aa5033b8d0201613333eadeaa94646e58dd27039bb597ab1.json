@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "158"
+  ],
+  "text": [
+    "即使在天气好的日子，这趟路也很艰难；但你的直觉告诉你，今天会尤其难走。",
+    "尽管如此，你觉得离开这件事对自己最有利。渡船停航，穿过树林是离开埃斯伯里最快的路线。你朝镇子边缘出发，走向树林线。",
+    "这里的步道维护得相当好，埃斯伯里居民常来此进行狩猎、露营等休闲活动。你默默走进浓雾中，偶尔还能辨认出标示步道名称或露营地的指示牌。标记从雾中显现出来，直到你几乎走到跟前才会被注意到。你对浓雾造成的低能见度感到好奇，便把手臂直直伸到面前，略感不安地发现透过浓雾甚至看不见自己的指甲。",
+    "你加快脚步，希望走得越远，就能越快摆脱浓雾。尽管竭尽全力，雾气泛绿的光芒仍如影随形。",
+    "你继续走了一个多小时，来到一处分岔路口。雾太浓，你无法辨认该往哪个方向走。幸好你看见两条小路之间有个路牌的轮廓，便朝它走去。",
+    "路牌上的油漆已经磨损，彼此完全无法区分。天气好的时候，你或许还能看清上面的字；但在这片浓雾中，根本不可能读出来。若想离开这里，你只能依靠自己的本领和知识。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 158",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 158",
+      "text": [
+        "This trip would be arduous even on a good day, but your gut tells you that today the journey will be particularly difficult.",
+        "Still, you feel it’s in your best interest to leave this business behind you, and a walk through the woods is the most expedient route out of Esbury with the ferry out of commission. You strike out for the edge of town and make your way to the tree line.",
+        "The trail here is fairly well kept, as it’s frequented by the citizens of Esbury when they engage in leisure activities such as hunting and camping. As you march silently into the mist, you’re even able to make out an occasional sign denoting trail names or campgrounds. The markers peek out at you from the fog, going unnoticed until you’re almost on top of them. Curious as to the reduction in visibility caused by the mist, you stick your arm straight out in front of you, noting with slight discomfort that you’re unable to make out your fingernails through the murk.",
+        "You take up a quicker pace, hoping that the more ground you cover, the sooner you’ll be free of the fog. Despite your best efforts, the mist’s greenish glow is your constant companion.",
+        "You walk on for what must be a little more than an hour before coming to a fork in the path. Given the fog’s density, you aren’t quite able to make out which direction you should go. Thankfully, you spot the silhouette of a signpost in the gap between the trails and you make your way toward it.",
+        "The paint on the signs is worn and they’re entirely indistinguishable from one another. Perhaps on a good day, you might be able to make out the words on them, but in this fog, that task is completely impossible. If you want to make your way out of here, you’ll have to rely on your own skill and knowledge."
+      ]
+    }
+  }
+}

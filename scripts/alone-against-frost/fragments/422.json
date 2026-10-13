@@ -1,0 +1,30 @@
+{
+  "id": "422",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "422:p0",
+      "kind": "heading",
+      "text": "422",
+      "sourceLocation": "pdf:visual:[[75,16]]"
+    },
+    {
+      "id": "422:p1",
+      "kind": "body",
+      "text": "You thread through the camp, continuing to whisper Sylvia’s \nname. You are conscious of Norman, off to your side, doing \nthe same.",
+      "sourceLocation": "pdf:visual:[[75,18],[75,20],[75,21]]"
+    },
+    {
+      "id": "422:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 394; if the result is odd, go \nto 396.",
+      "sourceLocation": "pdf:visual:[[75,23],[75,25]]"
+    },
+    {
+      "id": "422:p3",
+      "kind": "trace",
+      "text": "(420)",
+      "sourceLocation": "pdf:visual:[[75,26]]"
+    }
+  ]
+}

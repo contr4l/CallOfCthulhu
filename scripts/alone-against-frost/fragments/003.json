@@ -1,0 +1,30 @@
+{
+  "id": "3",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "3:p0",
+      "kind": "heading",
+      "text": "3",
+      "sourceLocation": "pdf:visual:[[10,50]]"
+    },
+    {
+      "id": "3:p1",
+      "kind": "body",
+      "text": "The river batters your craft from every side. No matter which \nway you turn, it gets worse. The canoe bucks like a saddled \nbuffalo, bounding over sets of snaggling rapids. You eye peaks \nand teeth that could tear out the belly of your craft.",
+      "sourceLocation": "pdf:visual:[[10,51],[10,52],[10,53],[10,54]]"
+    },
+    {
+      "id": "3:p2",
+      "kind": "body",
+      "text": "Make a Pilot (Boat) roll: if you succeed, go to 6; if you fail, go to 7. ",
+      "sourceLocation": "pdf:visual:[[10,55]]"
+    },
+    {
+      "id": "3:p3",
+      "kind": "trace",
+      "text": "(1)",
+      "sourceLocation": "pdf:visual:[[10,56]]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "145-death",
+    "145-wounded",
+    "145"
+  ],
+  "text": [
+    "约书亚举枪瞄向你时，你本能地扑倒在沙发后面。幸好子弹从你头顶飞过。你松了口气，庆幸自己安然无恙。",
+    "随后你意识到当前的处境。你扑向掉在附近地上的鲍威尔警官的枪，纯凭本能迅速捡起来。你双手握住武器，准备还击。你深吸一口气，用枪瞄准约书亚。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 145",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 145",
+      "text": [
+        "Reflexively, you drop to the ground behind the couch as Joshua aims the gun your way. Thankfully, the shot goes over your head. You heave a sigh of relief, thankful for your safety.",
+        "And then the reality of the situation dawns on you. You dive for Officer Powell’s gun, which has fallen to the ground nearby. You scoop it up quickly, acting purely on instinct. You grip the weapon in both hands and prepare to return fire. You take a deep breath and aim the gun at Joshua."
+      ]
+    }
+  }
+}

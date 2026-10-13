@@ -1,0 +1,36 @@
+{
+  "id": "307",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "307:p0",
+      "kind": "heading",
+      "text": "307",
+      "sourceLocation": "pdf:visual:[[59,52]]"
+    },
+    {
+      "id": "307:p1",
+      "kind": "body",
+      "text": "The wolf pack hits your group and scatters it. They are too close \nfor  your  rifle;  you  must  make  a  desperate  stand  with  melee \nweapons. The pack splits to overwhelm you.",
+      "sourceLocation": "pdf:visual:[[59,53],[59,54],[59,55]]"
+    },
+    {
+      "id": "307:p2",
+      "kind": "body",
+      "text": "Unless you have already reduced their number, there are 2D6 dire \nwolves. One-third of them attack each of you. If the number does not \ndivide cleanly, the first leftover wolf targets Sylvia, and the second \ntargets Norman.",
+      "sourceLocation": "pdf:visual:[[59,56],[59,57],[59,58],[59,59]]"
+    },
+    {
+      "id": "307:p3",
+      "kind": "body",
+      "text": "If there are fewer than three wolves, you may help a student \nfight theirs: go to 271. Or you may flee to save yourself: go to 340. \nOtherwise, ignore the students’ battles and fight the wolves that \nhave targeted you. The dire wolves have attacks of 30% (15/6), deal \n1D8+1D4 damage, and have 15 hit points each. If you win the \nfight without a wound, go to 340. If you survive but have taken \ndamage, go to 347. If you fall unconscious or die, the Nadelmann \nExpedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[59,60],[59,61],[59,62],[59,63],[59,64],[59,65],[59,66],[59,67]]"
+    },
+    {
+      "id": "307:p4",
+      "kind": "trace",
+      "text": "(286, 288)",
+      "sourceLocation": "pdf:visual:[[59,68]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "222",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "222:p0",
+      "kind": "heading",
+      "text": "222\n",
+      "sourceLocation": "pdf:spans:[[71,2989,2993]]"
+    },
+    {
+      "id": "222:p1",
+      "kind": "body",
+      "text": "You get ready to leave the Harris household, as you feel your business \nhere is concluded. You pause at the door a moment to consider what \nyour next step should be. You know you spent a good deal of time at \nthe Harris place, and though the fog prevents you from making out \nthe time of day, you imagine there’s not much daylight left.\n",
+      "sourceLocation": "pdf:spans:[[71,2993,3065],[71,3065,3133],[71,3133,3202],[71,3202,3269],[71,3269,3330]]"
+    },
+    {
+      "id": "222:p2",
+      "kind": "body",
+      "text": "• To investigate Joshua’s house, go to 151.\n",
+      "sourceLocation": "pdf:spans:[[71,3332,3376]]"
+    },
+    {
+      "id": "222:p3",
+      "kind": "body",
+      "text": "• To return to the hotel, go to 135.\n",
+      "sourceLocation": "pdf:spans:[[71,3376,3413]]"
+    },
+    {
+      "id": "222:p4",
+      "kind": "body",
+      "text": "(161, 172, 188, 203, 207)\n",
+      "sourceLocation": "pdf:spans:[[71,3413,3439]]"
+    }
+  ]
+}

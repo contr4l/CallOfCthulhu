@@ -1,0 +1,30 @@
+{
+  "id": "44",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "44:p0",
+      "kind": "heading",
+      "text": "44",
+      "sourceLocation": "pdf:visual:[[17,90]]"
+    },
+    {
+      "id": "44:p1",
+      "kind": "body",
+      "text": "Your  party  manages  to  wrestle  Ebstein  away  from  Norman. \nHe topples over the side of the canoe. As the splash drenches \nyour group, Bernard sinks into the swift current. For an instant \nyou glimpse him, swimming with strange strokes near the dark \nbottom, and then nothing. Norman is scratched and shaken by \nthe attack, but otherwise unharmed.",
+      "sourceLocation": "pdf:visual:[[17,91],[17,92],[17,93],[17,94],[17,95],[17,96]]"
+    },
+    {
+      "id": "44:p2",
+      "kind": "body",
+      "text": "Go to 32.",
+      "sourceLocation": "pdf:visual:[[17,97]]"
+    },
+    {
+      "id": "44:p3",
+      "kind": "trace",
+      "text": "(43)",
+      "sourceLocation": "pdf:visual:[[17,98]]"
+    }
+  ]
+}

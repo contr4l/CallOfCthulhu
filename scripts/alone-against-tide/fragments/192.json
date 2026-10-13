@@ -1,0 +1,42 @@
+{
+  "id": "192",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "192:p0",
+      "kind": "heading",
+      "text": "192\n",
+      "sourceLocation": "pdf:spans:[[62,1201,1205]]"
+    },
+    {
+      "id": "192:p1",
+      "kind": "body",
+      "text": "The door swings inward, rattling on its hinges. The bulbous, \nmisshapen thing lumbers into the room. Its lifeless, bulging \neyes fix on you while its putrid mouth opens and closes silently.\n",
+      "sourceLocation": "pdf:spans:[[62,1205,1267],[62,1267,1329],[62,1329,1395]]"
+    },
+    {
+      "id": "192:p2",
+      "kind": "body",
+      "text": "Your hands shake abominably as you come face-to-face with \nthe alien creature. Your eyes dart back and forth, staring first \nat it and then at the multitude of others like it that clog the \ndoorway behind it. You cannot bring yourself to stare at the \nthing any longer, so you close your eyes and fire wildly.\n",
+      "sourceLocation": "pdf:spans:[[62,1395,1454],[62,1454,1520],[62,1520,1585],[62,1585,1647],[62,1647,1705]]"
+    },
+    {
+      "id": "192:p3",
+      "kind": "body",
+      "text": "When you open your eyes again, you see the bullet hole in \nthe wall behind the creature. You missed. You don’t have time \nto collect your nerves for another shot as the monstrous thing \nthrows itself at you and pins you to the ground.\n",
+      "sourceLocation": "pdf:spans:[[62,1705,1764],[62,1764,1827],[62,1827,1891],[62,1891,1940]]"
+    },
+    {
+      "id": "192:p4",
+      "kind": "body",
+      "text": "With its cracked and broken fingernails, it claws open your \nthroat as it wordlessly mouths praise to its dark god.\nYou are dead. Your visit to Esbury is over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[62,1940,2001],[62,2001,2056],[62,2058,2111]]"
+    },
+    {
+      "id": "192:p5",
+      "kind": "body",
+      "text": "(173)\n",
+      "sourceLocation": "pdf:spans:[[62,2111,2117]]"
+    }
+  ]
+}

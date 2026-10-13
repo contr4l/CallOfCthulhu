@@ -1,0 +1,382 @@
+{
+  "id": "front-matter",
+  "paragraphs": [
+    {
+      "id": "front-matter:p0000",
+      "kind": "body",
+      "text": "A survival horror  solo game\n",
+      "sourceLocation": "pdf:spans:[[2,0,29]]"
+    },
+    {
+      "id": "front-matter:p0001",
+      "kind": "body",
+      "text": "Written by Andrea Sfiligoi\n",
+      "sourceLocation": "pdf:spans:[[2,29,56]]"
+    },
+    {
+      "id": "front-matter:p0002",
+      "kind": "body",
+      "text": "images by Andrea Sfiligoi, Andrey Kiselev, Yuliya Ochkan, Dean Spencer,\n",
+      "sourceLocation": "pdf:spans:[[2,56,128]]"
+    },
+    {
+      "id": "front-matter:p0003",
+      "kind": "body",
+      "text": "Chainat. Icons by game-icons.net\n",
+      "sourceLocation": "pdf:spans:[[2,128,161]]"
+    },
+    {
+      "id": "front-matter:p0004",
+      "kind": "body",
+      "text": "Additional materials  by Anna Paschenko\n",
+      "sourceLocation": "pdf:spans:[[2,161,201]]"
+    },
+    {
+      "id": "front-matter:p0005",
+      "kind": "body",
+      "text": "Based on the Four Against Darkness rules engine\n",
+      "sourceLocation": "pdf:spans:[[2,201,249]]"
+    },
+    {
+      "id": "front-matter:p0006",
+      "kind": "body",
+      "text": "Proofreader: Perry Mihalakos\n",
+      "sourceLocation": "pdf:spans:[[2,249,278]]"
+    },
+    {
+      "id": "front-matter:p0007",
+      "kind": "body",
+      "text": "Playtesters: Andrea Sfiligoi, Anna Paschenko, Simone Peruzzi\n",
+      "sourceLocation": "pdf:spans:[[2,278,339]]"
+    },
+    {
+      "id": "front-matter:p0008",
+      "kind": "body",
+      "text": "fear\n",
+      "sourceLocation": "pdf:spans:[[2,339,344]]"
+    },
+    {
+      "id": "front-matter:p0009",
+      "kind": "body",
+      "text": "Alone against",
+      "sourceLocation": "pdf:spans:[[2,344,357]]"
+    },
+    {
+      "id": "front-matter:p0010",
+      "kind": "body",
+      "text": "Table of Contents\n",
+      "sourceLocation": "pdf:spans:[[3,21,39]]"
+    },
+    {
+      "id": "front-matter:p0011",
+      "kind": "body",
+      "text": "Contents\n",
+      "sourceLocation": "pdf:spans:[[3,39,48]]"
+    },
+    {
+      "id": "front-matter:p0012",
+      "kind": "body",
+      "text": "Table of Contents 4\n",
+      "sourceLocation": "pdf:spans:[[3,48,68]]"
+    },
+    {
+      "id": "front-matter:p0013",
+      "kind": "body",
+      "text": "All Hell Breaks Loose 5\n",
+      "sourceLocation": "pdf:spans:[[3,68,92]]"
+    },
+    {
+      "id": "front-matter:p0014",
+      "kind": "body",
+      "text": "Overview of Play 5\n",
+      "sourceLocation": "pdf:spans:[[3,92,111]]"
+    },
+    {
+      "id": "front-matter:p0015",
+      "kind": "body",
+      "text": "Mapping 5\n",
+      "sourceLocation": "pdf:spans:[[3,111,121]]"
+    },
+    {
+      "id": "front-matter:p0016",
+      "kind": "body",
+      "text": "Events 5\n",
+      "sourceLocation": "pdf:spans:[[3,121,130]]"
+    },
+    {
+      "id": "front-matter:p0017",
+      "kind": "body",
+      "text": "Character Death or Insanity 6\n",
+      "sourceLocation": "pdf:spans:[[3,130,160]]"
+    },
+    {
+      "id": "front-matter:p0018",
+      "kind": "body",
+      "text": "Length of the Game 6\n",
+      "sourceLocation": "pdf:spans:[[3,160,181]]"
+    },
+    {
+      "id": "front-matter:p0019",
+      "kind": "body",
+      "text": "If You Play Four Against Darkness\n",
+      "sourceLocation": "pdf:spans:[[3,181,215]]"
+    },
+    {
+      "id": "front-matter:p0020",
+      "kind": "body",
+      "text": " 6\n",
+      "sourceLocation": "pdf:spans:[[3,215,218]]"
+    },
+    {
+      "id": "front-matter:p0021",
+      "kind": "body",
+      "text": "What You Need to Play 6\n",
+      "sourceLocation": "pdf:spans:[[3,218,242]]"
+    },
+    {
+      "id": "front-matter:p0022",
+      "kind": "body",
+      "text": "Dice Codes 7\n",
+      "sourceLocation": "pdf:spans:[[3,242,255]]"
+    },
+    {
+      "id": "front-matter:p0023",
+      "kind": "body",
+      "text": "Monsters Roll No Dice 7\n",
+      "sourceLocation": "pdf:spans:[[3,255,279]]"
+    },
+    {
+      "id": "front-matter:p0024",
+      "kind": "body",
+      "text": "Saves 7\n",
+      "sourceLocation": "pdf:spans:[[3,279,287]]"
+    },
+    {
+      "id": "front-matter:p0025",
+      "kind": "body",
+      "text": "Other Rolls 8\n",
+      "sourceLocation": "pdf:spans:[[3,287,301]]"
+    },
+    {
+      "id": "front-matter:p0026",
+      "kind": "body",
+      "text": "Attack and Defense Rolls 8\n",
+      "sourceLocation": "pdf:spans:[[3,301,328]]"
+    },
+    {
+      "id": "front-matter:p0027",
+      "kind": "body",
+      "text": "Your Character 8\n",
+      "sourceLocation": "pdf:spans:[[3,328,345]]"
+    },
+    {
+      "id": "front-matter:p0028",
+      "kind": "body",
+      "text": "Sanity 10\n",
+      "sourceLocation": "pdf:spans:[[3,345,355]]"
+    },
+    {
+      "id": "front-matter:p0029",
+      "kind": "body",
+      "text": "Life 10\n",
+      "sourceLocation": "pdf:spans:[[3,355,363]]"
+    },
+    {
+      "id": "front-matter:p0030",
+      "kind": "body",
+      "text": "Food 10\n",
+      "sourceLocation": "pdf:spans:[[3,363,371]]"
+    },
+    {
+      "id": "front-matter:p0031",
+      "kind": "body",
+      "text": "Experience 11\n",
+      "sourceLocation": "pdf:spans:[[3,371,385]]"
+    },
+    {
+      "id": "front-matter:p0032",
+      "kind": "body",
+      "text": "Equipment 11\n",
+      "sourceLocation": "pdf:spans:[[3,385,398]]"
+    },
+    {
+      "id": "front-matter:p0033",
+      "kind": "body",
+      "text": "Skills 12\n",
+      "sourceLocation": "pdf:spans:[[3,398,408]]"
+    },
+    {
+      "id": "front-matter:p0034",
+      "kind": "body",
+      "text": "Arcane Skills 15\n",
+      "sourceLocation": "pdf:spans:[[3,408,425]]"
+    },
+    {
+      "id": "front-matter:p0035",
+      "kind": "body",
+      "text": "Random Weapon Table 20\n",
+      "sourceLocation": "pdf:spans:[[3,425,448]]"
+    },
+    {
+      "id": "front-matter:p0036",
+      "kind": "body",
+      "text": "Weapon Rules  20\n",
+      "sourceLocation": "pdf:spans:[[3,448,465]]"
+    },
+    {
+      "id": "front-matter:p0037",
+      "kind": "body",
+      "text": "Random Objects Table 22\n",
+      "sourceLocation": "pdf:spans:[[3,465,489]]"
+    },
+    {
+      "id": "front-matter:p0038",
+      "kind": "body",
+      "text": "Useful Stuff Table 25\n",
+      "sourceLocation": "pdf:spans:[[3,489,511]]"
+    },
+    {
+      "id": "front-matter:p0039",
+      "kind": "body",
+      "text": " Spells 29\n",
+      "sourceLocation": "pdf:spans:[[3,511,522]]"
+    },
+    {
+      "id": "front-matter:p0040",
+      "kind": "body",
+      "text": "Combat 29\n",
+      "sourceLocation": "pdf:spans:[[3,522,532]]"
+    },
+    {
+      "id": "front-matter:p0041",
+      "kind": "body",
+      "text": "Keep Track of Ammo 31\n",
+      "sourceLocation": "pdf:spans:[[3,532,554]]"
+    },
+    {
+      "id": "front-matter:p0042",
+      "kind": "body",
+      "text": "Rolling Sixes - Explosions 31\n",
+      "sourceLocation": "pdf:spans:[[3,554,584]]"
+    },
+    {
+      "id": "front-matter:p0043",
+      "kind": "body",
+      "text": "Rolling Ones 32\n",
+      "sourceLocation": "pdf:spans:[[3,584,600]]"
+    },
+    {
+      "id": "front-matter:p0044",
+      "kind": "body",
+      "text": "Surprise 32\n",
+      "sourceLocation": "pdf:spans:[[3,600,612]]"
+    },
+    {
+      "id": "front-matter:p0045",
+      "kind": "body",
+      "text": "Charisma Rolls 32\n",
+      "sourceLocation": "pdf:spans:[[3,612,630]]"
+    },
+    {
+      "id": "front-matter:p0046",
+      "kind": "body",
+      "text": "Running Away- Escape Rolls 32\n",
+      "sourceLocation": "pdf:spans:[[3,630,660]]"
+    },
+    {
+      "id": "front-matter:p0047",
+      "kind": "body",
+      "text": "Insanity Table  34\n",
+      "sourceLocation": "pdf:spans:[[3,660,679]]"
+    },
+    {
+      "id": "front-matter:p0048",
+      "kind": "body",
+      "text": "Injury Table 34\n",
+      "sourceLocation": "pdf:spans:[[3,679,695]]"
+    },
+    {
+      "id": "front-matter:p0049",
+      "kind": "body",
+      "text": "Stealth Rolls 35\n",
+      "sourceLocation": "pdf:spans:[[3,695,712]]"
+    },
+    {
+      "id": "front-matter:p0050",
+      "kind": "body",
+      "text": "Monster Descriptions 35\n",
+      "sourceLocation": "pdf:spans:[[3,712,736]]"
+    },
+    {
+      "id": "front-matter:p0051",
+      "kind": "body",
+      "text": "Vulnerabilities 36\n",
+      "sourceLocation": "pdf:spans:[[3,736,755]]"
+    },
+    {
+      "id": "front-matter:p0052",
+      "kind": "body",
+      "text": "Susceptible to Exorcism 36\n",
+      "sourceLocation": "pdf:spans:[[3,755,782]]"
+    },
+    {
+      "id": "front-matter:p0053",
+      "kind": "body",
+      "text": "XP Value 36\n",
+      "sourceLocation": "pdf:spans:[[3,782,794]]"
+    },
+    {
+      "id": "front-matter:p0054",
+      "kind": "body",
+      "text": "How the Game Works 37\n",
+      "sourceLocation": "pdf:spans:[[3,794,816]]"
+    },
+    {
+      "id": "front-matter:p0055",
+      "kind": "body",
+      "text": "Movement and Mapping 37\n",
+      "sourceLocation": "pdf:spans:[[3,816,840]]"
+    },
+    {
+      "id": "front-matter:p0056",
+      "kind": "body",
+      "text": "Moving Through Visited Areas 38\n",
+      "sourceLocation": "pdf:spans:[[3,840,872]]"
+    },
+    {
+      "id": "front-matter:p0057",
+      "kind": "body",
+      "text": "Search Rolls 38\n",
+      "sourceLocation": "pdf:spans:[[3,872,888]]"
+    },
+    {
+      "id": "front-matter:p0058",
+      "kind": "body",
+      "text": "Hunting 38\n",
+      "sourceLocation": "pdf:spans:[[3,888,899]]"
+    },
+    {
+      "id": "front-matter:p0059",
+      "kind": "body",
+      "text": "Search Table  38",
+      "sourceLocation": "pdf:spans:[[3,899,915]]"
+    },
+    {
+      "id": "front-matter:p0060",
+      "kind": "body",
+      "text": "Table of Contents\n",
+      "sourceLocation": "pdf:spans:[[4,21,39]]"
+    },
+    {
+      "id": "front-matter:p0061",
+      "kind": "body",
+      "text": "Random Encounter  39\n",
+      "sourceLocation": "pdf:spans:[[4,39,60]]"
+    }
+  ],
+  "sourcePages": [
+    2,
+    3,
+    4
+  ]
+}

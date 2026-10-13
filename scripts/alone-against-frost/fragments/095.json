@@ -1,0 +1,48 @@
+{
+  "id": "95",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "95:p0",
+      "kind": "heading",
+      "text": "95",
+      "sourceLocation": "pdf:visual:[[26,54]]"
+    },
+    {
+      "id": "95:p1",
+      "kind": "body",
+      "text": "Norman  finally  speaks.  “What  will  we  do  now,  Professor?” \nSylvia,  her  face  lit  by  flickering  flames,  looks  at  you  like  a \nhopeful orphan.",
+      "sourceLocation": "pdf:visual:[[26,55],[26,56],[26,57]]"
+    },
+    {
+      "id": "95:p2",
+      "kind": "body",
+      "text": "Charlie is gone. But of course, you cannot abandon Bernard \nwhilst there is a chance of finding him alive. At that moment, a \nclear cry rings from above. You look to the sky.",
+      "sourceLocation": "pdf:visual:[[26,58],[26,59],[26,60]]"
+    },
+    {
+      "id": "95:p3",
+      "kind": "body",
+      "text": "“My feet! My flaming feet! My heart!” The plaintive call cuts \noff  abruptly  and  you  hear  something  heavy  crashing  down \nthrough the treetops, breaking branches as it plummets.",
+      "sourceLocation": "pdf:visual:[[26,61],[26,62],[26,63]]"
+    },
+    {
+      "id": "95:p4",
+      "kind": "body",
+      "text": "You tell the others to get their guns. You stand over the fire, a \nnervous finger on your trigger. Hours pass. Finally, a twig snaps. \nThen another. Unhurried, something steps from the bush.",
+      "sourceLocation": "pdf:visual:[[26,64],[26,65],[26,66]]"
+    },
+    {
+      "id": "95:p5",
+      "kind": "body",
+      "text": "To shoot at the first sight of the figure, go to 138. To let it come closer, \ngo to 101.",
+      "sourceLocation": "pdf:visual:[[26,67],[26,68]]"
+    },
+    {
+      "id": "95:p6",
+      "kind": "trace",
+      "text": "(61, 123, 461, 524)",
+      "sourceLocation": "pdf:visual:[[26,69]]"
+    }
+  ]
+}

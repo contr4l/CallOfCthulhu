@@ -1,0 +1,48 @@
+{
+  "id": "471",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "471:p0",
+      "kind": "heading",
+      "text": "471",
+      "sourceLocation": "pdf:visual:[[83,2]]"
+    },
+    {
+      "id": "471:p1",
+      "kind": "body",
+      "text": "For a few days, you see little game, and the fish become elusive. \nIf you go on in this way, you face starvation. You need a change \nof luck.",
+      "sourceLocation": "pdf:visual:[[83,4],[83,6],[83,7]]"
+    },
+    {
+      "id": "471:p2",
+      "kind": "body",
+      "text": "As your party of three hikes, sore-footed, along the flank of \nthe North Hanninah, Sylvia pokes you in the ribs and exclaims, \n“Look, Professor! A canoe! Somebody must be around here!”",
+      "sourceLocation": "pdf:visual:[[83,9],[83,10],[83,12]]"
+    },
+    {
+      "id": "471:p3",
+      "kind": "body",
+      "text": "However, a search satisfies you that the owner is nowhere \nnear. You hesitate to take the boat, but your party is hungry \nand a canoe will speed you downriver much more swiftly than \nyou can walk. Are you good enough boaters to pass the rapids?",
+      "sourceLocation": "pdf:visual:[[83,13],[83,15],[83,16],[83,18]]"
+    },
+    {
+      "id": "471:p4",
+      "kind": "body",
+      "text": "To continue on foot, go to 197. To dare the river, make a Pilot \n(Boat) roll: if you succeed, go to 472; if you fail, go to 412.",
+      "sourceLocation": "pdf:visual:[[83,20],[83,21]]"
+    },
+    {
+      "id": "471:p5",
+      "kind": "trace",
+      "text": "(470)",
+      "sourceLocation": "pdf:visual:[[83,23]]"
+    },
+    {
+      "id": "471:p6",
+      "kind": "body",
+      "text": "82",
+      "sourceLocation": "pdf:visual:[[83,27]]"
+    }
+  ]
+}

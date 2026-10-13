@@ -1,0 +1,54 @@
+{
+  "id": "235",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "235:p0",
+      "kind": "heading",
+      "text": "235\n",
+      "sourceLocation": "pdf:spans:[[75,884,888]]"
+    },
+    {
+      "id": "235:p1",
+      "kind": "body",
+      "text": "The words of the ritual chant force themselves into your mind. \nYou stare blankly at the reflection of the moon and stars upon \nthe rising waters of the lake. Your lips move as if controlled by \nsomeone else, automatically uttering the strange syllables of the \nunfamiliar words. “Y’hahyar nog nglui ah, Bokrug.” You recite the \nwords in a slow, monotonous voice, speaking the phrase ten \ntimes before you stop.\n",
+      "sourceLocation": "pdf:spans:[[75,888,952],[75,952,1016],[75,1016,1083],[75,1083,1150],[75,1150,1217],[75,1217,1277],[75,1277,1300]]"
+    },
+    {
+      "id": "235:p2",
+      "kind": "body",
+      "text": "You feel strangely tired after this, so you sit on the belfry’s \nstones and look out over the town. The water has risen so high, \nover the tops of many of the buildings in Esbury, and you’re \npositioned on one of the few landmarks still above water. You’re \ncertain that much damage has been done here.\n",
+      "sourceLocation": "pdf:spans:[[75,1300,1365],[75,1365,1430],[75,1430,1492],[75,1492,1558],[75,1558,1603]]"
+    },
+    {
+      "id": "235:p3",
+      "kind": "body",
+      "text": "At least the water is still and placid now, apparently returned \nto its normally peaceful state. The unnatural green mist seems \nto be to dissipating as well. It still lingers here and there, but \nby the light of the gibbous moon, you can see the fog starting \nto thin out.\n",
+      "sourceLocation": "pdf:spans:[[75,1603,1668],[75,1668,1732],[75,1732,1800],[75,1800,1864],[75,1864,1877]]"
+    },
+    {
+      "id": "235:p4",
+      "kind": "body",
+      "text": "You take a deep breath, pondering what is to come next.\n",
+      "sourceLocation": "pdf:spans:[[75,1877,1933]]"
+    },
+    {
+      "id": "235:p5",
+      "kind": "body",
+      "text": "• If you have the strange idol, go to 205. \n",
+      "sourceLocation": "pdf:spans:[[75,1935,1979]]"
+    },
+    {
+      "id": "235:p6",
+      "kind": "body",
+      "text": "• Otherwise, go to 220.\n",
+      "sourceLocation": "pdf:spans:[[75,1979,2003]]"
+    },
+    {
+      "id": "235:p7",
+      "kind": "body",
+      "text": "(108, 178)\n",
+      "sourceLocation": "pdf:spans:[[75,2003,2014]]"
+    }
+  ]
+}

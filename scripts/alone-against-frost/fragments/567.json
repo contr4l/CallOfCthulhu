@@ -1,0 +1,30 @@
+{
+  "id": "567",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "567:p0",
+      "kind": "heading",
+      "text": "567",
+      "sourceLocation": "pdf:visual:[[96,80]]"
+    },
+    {
+      "id": "567:p1",
+      "kind": "body",
+      "text": "One of you works a wrist out of the bindings and is able to \nfree the others. It seems inadvisable to linger. The three of you \ndecide your next course of action.",
+      "sourceLocation": "pdf:visual:[[96,81],[96,82],[96,83]]"
+    },
+    {
+      "id": "567:p2",
+      "kind": "body",
+      "text": "To continue exploring the region, go to 600. To head home, go to 513.",
+      "sourceLocation": "pdf:visual:[[96,84]]"
+    },
+    {
+      "id": "567:p3",
+      "kind": "trace",
+      "text": "(566)",
+      "sourceLocation": "pdf:visual:[[96,85]]"
+    }
+  ]
+}

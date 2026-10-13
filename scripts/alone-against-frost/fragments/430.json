@@ -1,0 +1,30 @@
+{
+  "id": "430",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "430:p0",
+      "kind": "heading",
+      "text": "430",
+      "sourceLocation": "pdf:visual:[[76,1]]"
+    },
+    {
+      "id": "430:p1",
+      "kind": "body",
+      "text": "Even before arriving back in Arkham, you know your lack of \nhard evidence will undermine your credibility.",
+      "sourceLocation": "pdf:visual:[[76,2],[76,3]]"
+    },
+    {
+      "id": "430:p2",
+      "kind": "body",
+      "text": "If your party has lost any of the graduate students, go to 83. If not, \ngo to 33.",
+      "sourceLocation": "pdf:visual:[[76,4],[76,5]]"
+    },
+    {
+      "id": "430:p3",
+      "kind": "trace",
+      "text": "(529)",
+      "sourceLocation": "pdf:visual:[[76,6]]"
+    }
+  ]
+}

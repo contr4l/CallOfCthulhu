@@ -1,0 +1,36 @@
+{
+  "id": "198",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "198:p0",
+      "kind": "heading",
+      "text": "198",
+      "sourceLocation": "pdf:visual:[[42,65]]"
+    },
+    {
+      "id": "198:p1",
+      "kind": "body",
+      "text": "The oppressive feeling lifts, but your hunger remains. The next \nday, Sylvia becomes too weak to proceed; you can only try to \nkeep her comfortable. With fluttering fingers, she beckons you \nclose and whispers a few words to be relayed to her mother if \nyou ever make it home. An hour later, she is gone.",
+      "sourceLocation": "pdf:visual:[[42,66],[42,67],[42,68],[42,69],[42,70]]"
+    },
+    {
+      "id": "198:p2",
+      "kind": "body",
+      "text": "You and Norman have no choice but to go on your weary \nway alone.",
+      "sourceLocation": "pdf:visual:[[42,71],[42,72]]"
+    },
+    {
+      "id": "198:p3",
+      "kind": "body",
+      "text": "Go to 297.",
+      "sourceLocation": "pdf:visual:[[42,73]]"
+    },
+    {
+      "id": "198:p4",
+      "kind": "trace",
+      "text": "(197)",
+      "sourceLocation": "pdf:visual:[[42,74]]"
+    }
+  ]
+}

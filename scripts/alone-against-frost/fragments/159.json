@@ -1,0 +1,30 @@
+{
+  "id": "159",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "159:p0",
+      "kind": "heading",
+      "text": "159",
+      "sourceLocation": "pdf:visual:[[37,34]]"
+    },
+    {
+      "id": "159:p1",
+      "kind": "body",
+      "text": "The five of you run a great distance through mud, moss, and \nlichens.  At  last,  you  sense  that  you  are  not  being  followed \nand pause in the deep forest to catch your breath. Your latest \nexperience has convinced Charlie that the North Hanninah is \nno place for her. She insists on going home.",
+      "sourceLocation": "pdf:visual:[[37,35],[37,36],[37,37],[37,38],[37,39]]"
+    },
+    {
+      "id": "159:p2",
+      "kind": "body",
+      "text": "To argue to stay and continue your explorations, go to 164. To agree \nto end the expedition, go to 160.",
+      "sourceLocation": "pdf:visual:[[37,40],[37,41]]"
+    },
+    {
+      "id": "159:p3",
+      "kind": "trace",
+      "text": "(114)",
+      "sourceLocation": "pdf:visual:[[37,42]]"
+    }
+  ]
+}

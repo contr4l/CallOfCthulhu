@@ -12,9 +12,10 @@ import {
 } from "../../../../packages/contracts/achievements.js";
 
 function endingLabel(node: StoryNode) {
-  return (
-    node.ending ?? node.program?.find((step) => step.kind === "end")?.label
+  const terminal = node.program?.find(
+    (step) => step.kind === "end" && step.collect !== false,
   );
+  return node.ending ?? (terminal?.kind === "end" ? terminal.label : undefined);
 }
 
 // The committed terminal history is the source of truth. This also recognises

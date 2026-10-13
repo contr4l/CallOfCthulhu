@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "193"
+  ],
+  "text": [
+    "你尽可能在上涨的洪水中泼水前行，心知失败意味着什么。可惜，肉体终究脆弱，你的腿撑不住了。",
+    "你始终没能看清追赶你的究竟是什么。你听见它朝你走来，却被浓雾遮蔽。你只能勉强辨认出轮廓：几乎像人，却显然不是。你眨了下眼，它就已经扑到你身上。你脸朝下跌进泥沼。那湿黏恶心的东西压在你身上，你拼命喘气，却吸不到空气，很快便溺水而亡。",
+    "你死了。如果愿意，可以重新开始，希望通过另一条路走得更远些。但眼下，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 193",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 193",
+      "text": [
+        "You splash through the rising water as best you can, knowing what it means if you fail. Unfortunately, the flesh is weak, and your leg gives out.",
+        "You never see what it is that’s been chasing you. You hear it come toward you but it’s shrouded by the mist. You can just make out the outline: something almost human but decidedly not. You blink and it’s upon you. You tumble face-first into the muck. The moist, disgusting thing lies on top of you as you gasp desperately for air. But you find none, and soon drown. You are dead. If you like, you may start again and hope to progress further by means of another path. But, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

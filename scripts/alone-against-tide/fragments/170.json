@@ -1,0 +1,48 @@
+{
+  "id": "170",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "170:p0",
+      "kind": "heading",
+      "text": "170\n",
+      "sourceLocation": "pdf:spans:[[54,881,885]]"
+    },
+    {
+      "id": "170:p1",
+      "kind": "body",
+      "text": "You stumble through the woods, leaning heavily on your injured \nleg on the rough terrain. The ground is uneven and slippery \nbeneath your feet. You must be close to the lake but despite \nyour best efforts, you’re unable to find the shore.\n",
+      "sourceLocation": "pdf:spans:[[54,885,949],[54,949,1010],[54,1010,1072],[54,1072,1124]]"
+    },
+    {
+      "id": "170:p2",
+      "kind": "body",
+      "text": "The shore does, however, find you. As you stagger through \nthe darkness and mist, the lake’s water level begins to rise and \nthe ground you’re on swiftly becomes waterlogged. At first, it’s \nonly a minor inconvenience, but it doesn’t take long for the \nwater to reach your ankles. Then your calves. Then your knees. \nIt shows no sign of stopping.\n",
+      "sourceLocation": "pdf:spans:[[54,1124,1183],[54,1183,1249],[54,1249,1315],[54,1315,1377],[54,1377,1441],[54,1441,1471]]"
+    },
+    {
+      "id": "170:p3",
+      "kind": "body",
+      "text": "You drag your wounded leg behind you. The pain grows \nuntil it’s almost unbearable but you keep sloshing through the \nswamp that’s forming all around you. You will yourself onward.\n",
+      "sourceLocation": "pdf:spans:[[54,1471,1525],[54,1525,1589],[54,1589,1652]]"
+    },
+    {
+      "id": "170:p4",
+      "kind": "body",
+      "text": "Until you hear the splashing behind you—something \nstomping through the muck, a few feet back. You quickly \nglance over your shoulder, trying to catch a glimpse of it, but it’s \nobscured by the shadows and shrouded by the fog. Whatever \nit is, it seems to be in no hurry. It’s keeping pace with you, not \nchasing you. But if your leg gives out…\n",
+      "sourceLocation": "pdf:spans:[[54,1652,1703],[54,1703,1760],[54,1760,1830],[54,1830,1889],[54,1889,1957],[54,1957,1997]]"
+    },
+    {
+      "id": "170:p5",
+      "kind": "body",
+      "text": "• Make a CON roll: if you succeed, go to 163; if you fail, go to 193.\n",
+      "sourceLocation": "pdf:spans:[[54,1999,2069]]"
+    },
+    {
+      "id": "170:p6",
+      "kind": "body",
+      "text": "(139)\n",
+      "sourceLocation": "pdf:spans:[[54,2069,2075]]"
+    }
+  ]
+}

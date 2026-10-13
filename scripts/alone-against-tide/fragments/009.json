@@ -1,0 +1,36 @@
+{
+  "id": "9",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "9:p0",
+      "kind": "heading",
+      "text": "9\n",
+      "sourceLocation": "pdf:spans:[[11,2716,2718]]"
+    },
+    {
+      "id": "9:p1",
+      "kind": "body",
+      "text": "You wake in the morning, grateful for the rest. You rise from \nyour bed and take in the modest surroundings that make up \nyour room. The furnishings are sparse; a small poor-quality \ndresser and a cramped and dusty writing desk tucked in \nthe corner. Sitting atop the desk is a plate of eggs and toast, \napparently set out for you by the hotel’s owner. The walls \nare plain and unadorned, save for a single window that faces \ntoward the lake. However, this view is currently blocked by the \nincredibly thick fog, which has taken on a pale green hue. Your \nvision is obscured entirely, and you cannot see into the depths \nof that outlandish green mist.\n",
+      "sourceLocation": "pdf:spans:[[11,2718,2781],[11,2781,2840],[11,2840,2901],[11,2901,2957],[11,2957,3022],[11,3022,3082],[11,3082,3144],[11,3144,3209],[11,3209,3274],[11,3274,3339],[11,3339,3370]]"
+    },
+    {
+      "id": "9:p2",
+      "kind": "body",
+      "text": "You also notice your personal belongings placed around the \nroom, exactly as you left them the night before.\n",
+      "sourceLocation": "pdf:spans:[[11,3370,3430],[11,3430,3479]]"
+    },
+    {
+      "id": "9:p3",
+      "kind": "body",
+      "text": "• Go to 106.\n",
+      "sourceLocation": "pdf:spans:[[11,3479,3492]]"
+    },
+    {
+      "id": "9:p4",
+      "kind": "body",
+      "text": "(26)\n",
+      "sourceLocation": "pdf:spans:[[11,3492,3497]]"
+    }
+  ]
+}

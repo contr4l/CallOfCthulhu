@@ -1,0 +1,36 @@
+{
+  "id": "169",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "169:p0",
+      "kind": "heading",
+      "text": "169",
+      "sourceLocation": "pdf:visual:[[38,45]]"
+    },
+    {
+      "id": "169:p1",
+      "kind": "body",
+      "text": "The creature rolls directly toward you with startling velocity, its \nlegs scarring the ground with ice. You scramble up and try to \nrun, but within a few steps, you are bathed in an intense wave \nof cold. You stagger a little farther, limbs stiffening, and then \ncollapse to the ground, unable to move. ",
+      "sourceLocation": "pdf:visual:[[38,46],[38,47],[38,48],[38,49],[38,50]]"
+    },
+    {
+      "id": "169:p2",
+      "kind": "body",
+      "text": "The cold-killer comes to a halt beside you. Its single central \neye glints, studying you for a few frozen seconds. You experience \nan intense pressure around your forehead. Then, all goes dark.",
+      "sourceLocation": "pdf:visual:[[38,51],[38,52],[38,53]]"
+    },
+    {
+      "id": "169:p3",
+      "kind": "body",
+      "text": "The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[38,54]]"
+    },
+    {
+      "id": "169:p4",
+      "kind": "trace",
+      "text": "(166, 170, 172)",
+      "sourceLocation": "pdf:visual:[[38,55]]"
+    }
+  ]
+}

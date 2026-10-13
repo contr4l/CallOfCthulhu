@@ -1,0 +1,30 @@
+{
+  "id": "600",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "600:p0",
+      "kind": "heading",
+      "text": "600",
+      "sourceLocation": "pdf:visual:[[101,51]]"
+    },
+    {
+      "id": "600:p1",
+      "kind": "body",
+      "text": "You  press  on  through  the  interminable  landscape  of  the \nNorth Hanninah.",
+      "sourceLocation": "pdf:visual:[[101,52],[101,53]]"
+    },
+    {
+      "id": "600:p2",
+      "kind": "body",
+      "text": "If you have the keyword INCHCAPE, go to 601. To scale a ridge, \ngo to 469. To stick close to the river, go to 75. To hold a parallel \ncourse, go to 55. To thread through light woodland, go to 218. To \npenetrate deeper into the forest, go to 557.",
+      "sourceLocation": "pdf:visual:[[101,54],[101,55],[101,56],[101,57]]"
+    },
+    {
+      "id": "600:p3",
+      "kind": "trace",
+      "text": "(425, 564, 567, 579, 599,650)",
+      "sourceLocation": "pdf:visual:[[101,58]]"
+    }
+  ]
+}

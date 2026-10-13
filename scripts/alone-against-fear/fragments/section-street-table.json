@@ -1,0 +1,98 @@
+{
+  "id": "section-street-table",
+  "paragraphs": [
+    {
+      "id": "section-street-table:p0000",
+      "kind": "body",
+      "text": "street table (d6)\n",
+      "sourceLocation": "pdf:spans:[[43,22,40]]"
+    },
+    {
+      "id": "section-street-table:p0001",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[43,40,42]]"
+    },
+    {
+      "id": "section-street-table:p0002",
+      "kind": "body",
+      "text": "You spot a nice place to hide. You may create a Safe House\n",
+      "sourceLocation": "pdf:spans:[[43,42,101]]"
+    },
+    {
+      "id": "section-street-table:p0003",
+      "kind": "body",
+      "text": "and heal 1 Life and 1 Sanity. If you create a Safe House and it\n",
+      "sourceLocation": "pdf:spans:[[43,101,165]]"
+    },
+    {
+      "id": "section-street-table:p0004",
+      "kind": "body",
+      "text": "is the third Safe House in play, the Safe House closest to you\n",
+      "sourceLocation": "pdf:spans:[[43,165,228]]"
+    },
+    {
+      "id": "section-street-table:p0005",
+      "kind": "body",
+      "text": "is no longer a Safe House. To determine which is closest, just\n",
+      "sourceLocation": "pdf:spans:[[43,228,291]]"
+    },
+    {
+      "id": "section-street-table:p0006",
+      "kind": "body",
+      "text": "count the number of boxes on the town map that you should\n",
+      "sourceLocation": "pdf:spans:[[43,291,349]]"
+    },
+    {
+      "id": "section-street-table:p0007",
+      "kind": "body",
+      "text": "cross to reach that location. If there are 2 Safe Houses at the\n",
+      "sourceLocation": "pdf:spans:[[43,349,413]]"
+    },
+    {
+      "id": "section-street-table:p0008",
+      "kind": "body",
+      "text": "same distance, choose randomly.\n",
+      "sourceLocation": "pdf:spans:[[43,413,445]]"
+    },
+    {
+      "id": "section-street-table:p0009",
+      "kind": "body",
+      "text": "2 All clear. No encounter.\n",
+      "sourceLocation": "pdf:spans:[[43,445,472]]"
+    },
+    {
+      "id": "section-street-table:p0010",
+      "kind": "body",
+      "text": "3 Random encounter: roll on the Undead table.\n",
+      "sourceLocation": "pdf:spans:[[43,472,518]]"
+    },
+    {
+      "id": "section-street-table:p0011",
+      "kind": "body",
+      "text": "4 Random encounter: roll on the Demonic Horror table.\n",
+      "sourceLocation": "pdf:spans:[[43,518,572]]"
+    },
+    {
+      "id": "section-street-table:p0012",
+      "kind": "body",
+      "text": "5 Random encounter: roll on the Slashers table.\n",
+      "sourceLocation": "pdf:spans:[[43,572,620]]"
+    },
+    {
+      "id": "section-street-table:p0013",
+      "kind": "body",
+      "text": "6 Play unique event #3. If you already played that, roll on the\n",
+      "sourceLocation": "pdf:spans:[[43,620,684]]"
+    },
+    {
+      "id": "section-street-table:p0014",
+      "kind": "body",
+      "text": "random encounter table.\n",
+      "sourceLocation": "pdf:spans:[[43,684,708]]"
+    }
+  ],
+  "sourcePages": [
+    43
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "63"
+  ],
+  "text": [
+    "你告诉那男人，自己是《波士顿公报》的记者。有位教授最近死在这里，你奉命搜集细节，撰写讣告。男人庄重地点点头。“你说的是哈里斯教授吧。他出这样的事真可惜，一直觉得他是个挺和善的人。鲍威尔警官说他们还在清理教授家里的残局。不过我不太了解他的死因。你应该去问鲍威尔警官，或者问问他的遗孀阿米莉娅。他们今晚大概都会去遗产拍卖会。”摆渡人低头看了看自己的手，然后向你伸出一只手。“对了，我叫兰斯·桑福德。咱们暂且把那桩骇人的事抛到一边，好好享受湖上的时光，怎么样？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 63",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 63",
+      "text": [
+        "You tell the man that you’re a reporter with The Boston Gazette. Some professor died out here recently and you’re supposed to gather details for the obituary. The man nods solemnly. “You mean Professor Harris. Real shame what happened to him. Always seemed like such a nice man. Officer Powell says they’re still cleaning up the mess at the professor’s place. Can’t say I know much about his death, though. You’ll want to talk to Officer Powell about that. Or maybe his widow, Amelia. They’ll probably be at that estate sale tonight.” The ferryman looks down at his hands and then extends one toward you. “My name’s Lance Sanford, by the way. Let’s just put that grisly business behind us for now and enjoy the water, eh?”"
+      ]
+    }
+  }
+}

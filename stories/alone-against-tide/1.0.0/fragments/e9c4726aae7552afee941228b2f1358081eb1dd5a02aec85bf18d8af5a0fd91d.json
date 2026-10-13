@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "125-death",
+    "125-wounded",
+    "125"
+  ],
+  "text": [
+    "此刻把阿米莉娅独自留下，风险太大。你决定把她绑起来。你从入口处的一些家具上扯下一块防尘布，用它把她绑在房间里的扶手椅上。她挣扎了一会儿，但在心烦意乱的状态下很快放弃抵抗，安静下来。",
+    "你刚把绳结系牢，房子的前门便砰地打开，门扇在铰链上剧烈摇晃。约书亚堵在门口，脸涨得通红，怒不可遏。他右手拿着枪，迅速举枪对准你。",
+    "你只有一瞬间可以扑倒在地，之后他就会扣下扳机。也许你的反应够快。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 125",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 125",
+      "text": [
+        "Amelia is too much of a liability to leave alone at the present moment. You resolve to restrain her. You pull a dust sheet off some of the furniture in the entryway and use it to bind her to an armchair in the room. She struggles for a moment, but in her distraught state, she quickly sinks into resignation and ceases to resist.",
+        "As you finish securing the knots, the front door of the house flies open, rattling on its hinges. Dominating the doorway is Joshua, red-faced and furious. He has a gun in his right hand, which he quickly aims in your direction.",
+        "You have just a second to hit the ground before he pulls the trigger. Perhaps your reflexes are quick enough."
+      ]
+    }
+  }
+}

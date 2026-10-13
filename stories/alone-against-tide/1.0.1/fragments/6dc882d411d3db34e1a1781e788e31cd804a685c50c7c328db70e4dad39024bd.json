@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "169-death",
+    "169-wounded",
+    "169"
+  ],
+  "text": [
+    "你漫无目的地走了很久，什么也没找到。你感到沮丧又绝望；脚下的地面变得潮湿，更让你的忧虑加重。起初你只是告诉自己那是雾气所致。但水位漫过脚趾，又升到脚踝上方时，你无法否认埃斯伯里正在迅速被淹没。",
+    "你在镇上的街道间涉水前行，心里盘算着是否要放弃，突然听见右侧传来一阵可怕的黏液吧唧声。",
+    "你惊恐地转过身，只见一个膨胀而畸形的东西从雾中猛扑向你。你只有片刻时间作出反应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 169",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 169",
+      "text": [
+        "You wander for quite some time, unable to find anything. Feeling frustrated and hopeless, your worries are compounded as the ground beneath you becomes damp. At first, you simply tell yourself it’s the fog. But as the water rises over the tops of your toes and then up past your ankles, you cannot deny that Esbury is rapidly flooding.",
+        "You splash about the town streets, contemplating giving up, when you suddenly hear a horrid squelching sound to your right.",
+        "You turn in terror as something distended and misshapen lunges out at you from the mist. You have only a moment to react."
+      ]
+    }
+  }
+}

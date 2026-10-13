@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "38"
+  ],
+  "text": [
+    "你耐心等着沃伦先生比较那对奇怪陶土圆筒的报价。幸好耐心有了回报，不久后它们便归你所有。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 38",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 38",
+      "text": [
+        "You muster your patience and wait for Mr. Warren to finish comparing the proposed bids for the strange clay cylinders. Thankfully, your patience pays off, and you soon find them in your possession."
+      ]
+    }
+  }
+}

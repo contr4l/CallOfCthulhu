@@ -1,0 +1,170 @@
+{
+  "id": "section-dice-codes",
+  "paragraphs": [
+    {
+      "id": "section-dice-codes:p0000",
+      "kind": "body",
+      "text": "Dice Codes\n",
+      "sourceLocation": "pdf:spans:[[7,21,32]]"
+    },
+    {
+      "id": "section-dice-codes:p0001",
+      "kind": "body",
+      "text": "The game uses regular six-sided\n",
+      "sourceLocation": "pdf:spans:[[7,32,64]]"
+    },
+    {
+      "id": "section-dice-codes:p0002",
+      "kind": "body",
+      "text": "dice. We use the following dice\n",
+      "sourceLocation": "pdf:spans:[[7,64,96]]"
+    },
+    {
+      "id": "section-dice-codes:p0003",
+      "kind": "body",
+      "text": "codes and formulas:\n",
+      "sourceLocation": "pdf:spans:[[7,96,116]]"
+    },
+    {
+      "id": "section-dice-codes:p0004",
+      "kind": "body",
+      "text": "D3: roll a six-sided die and halve it,\n",
+      "sourceLocation": "pdf:spans:[[7,116,155]]"
+    },
+    {
+      "id": "section-dice-codes:p0005",
+      "kind": "body",
+      "text": "counting 1-2 as 1, 3-4 as 2, and 5-6\n",
+      "sourceLocation": "pdf:spans:[[7,155,192]]"
+    },
+    {
+      "id": "section-dice-codes:p0006",
+      "kind": "body",
+      "text": "as 3, thus generating a number\n",
+      "sourceLocation": "pdf:spans:[[7,192,223]]"
+    },
+    {
+      "id": "section-dice-codes:p0007",
+      "kind": "body",
+      "text": "from 1 to 3.\n",
+      "sourceLocation": "pdf:spans:[[7,223,236]]"
+    },
+    {
+      "id": "section-dice-codes:p0008",
+      "kind": "body",
+      "text": "D6: roll a six-sided die.\n",
+      "sourceLocation": "pdf:spans:[[7,236,262]]"
+    },
+    {
+      "id": "section-dice-codes:p0009",
+      "kind": "body",
+      "text": "D6 +1: roll a six-sided die and add\n",
+      "sourceLocation": "pdf:spans:[[7,262,298]]"
+    },
+    {
+      "id": "section-dice-codes:p0010",
+      "kind": "body",
+      "text": "1 to the result.\n",
+      "sourceLocation": "pdf:spans:[[7,298,315]]"
+    },
+    {
+      "id": "section-dice-codes:p0011",
+      "kind": "body",
+      "text": "2d6: roll two six-sided dice and add\n",
+      "sourceLocation": "pdf:spans:[[7,315,352]]"
+    },
+    {
+      "id": "section-dice-codes:p0012",
+      "kind": "body",
+      "text": "them, generating a number 2 to 12.\n",
+      "sourceLocation": "pdf:spans:[[7,352,387]]"
+    },
+    {
+      "id": "section-dice-codes:p0013",
+      "kind": "body",
+      "text": "2d6 +1: roll two six-sided dice, add\n",
+      "sourceLocation": "pdf:spans:[[7,387,424]]"
+    },
+    {
+      "id": "section-dice-codes:p0014",
+      "kind": "body",
+      "text": "them together, and add 1 to the\n",
+      "sourceLocation": "pdf:spans:[[7,424,456]]"
+    },
+    {
+      "id": "section-dice-codes:p0015",
+      "kind": "body",
+      "text": "total, generating a number 3 to 13.\n",
+      "sourceLocation": "pdf:spans:[[7,456,492]]"
+    },
+    {
+      "id": "section-dice-codes:p0016",
+      "kind": "body",
+      "text": "D6 x d6: roll two six-sided dice and\n",
+      "sourceLocation": "pdf:spans:[[7,492,529]]"
+    },
+    {
+      "id": "section-dice-codes:p0017",
+      "kind": "body",
+      "text": "multiply the result of one die by the\n",
+      "sourceLocation": "pdf:spans:[[7,529,567]]"
+    },
+    {
+      "id": "section-dice-codes:p0018",
+      "kind": "body",
+      "text": "other, generating a number from 1\n",
+      "sourceLocation": "pdf:spans:[[7,567,601]]"
+    },
+    {
+      "id": "section-dice-codes:p0019",
+      "kind": "body",
+      "text": "to 36.\n",
+      "sourceLocation": "pdf:spans:[[7,601,608]]"
+    },
+    {
+      "id": "section-dice-codes:p0020",
+      "kind": "body",
+      "text": "D6-1: roll a six-sided die and\n",
+      "sourceLocation": "pdf:spans:[[7,608,639]]"
+    },
+    {
+      "id": "section-dice-codes:p0021",
+      "kind": "body",
+      "text": "subtract 1 from the result,\n",
+      "sourceLocation": "pdf:spans:[[7,639,667]]"
+    },
+    {
+      "id": "section-dice-codes:p0022",
+      "kind": "body",
+      "text": "generating a number from 0 to 5.\n",
+      "sourceLocation": "pdf:spans:[[7,667,700]]"
+    },
+    {
+      "id": "section-dice-codes:p0023",
+      "kind": "body",
+      "text": "D66: roll two dice of different color,\n",
+      "sourceLocation": "pdf:spans:[[7,700,739]]"
+    },
+    {
+      "id": "section-dice-codes:p0024",
+      "kind": "body",
+      "text": "reading the first as “tens” and the\n",
+      "sourceLocation": "pdf:spans:[[7,739,775]]"
+    },
+    {
+      "id": "section-dice-codes:p0025",
+      "kind": "body",
+      "text": "second as “units”, generating a\n",
+      "sourceLocation": "pdf:spans:[[7,775,807]]"
+    },
+    {
+      "id": "section-dice-codes:p0026",
+      "kind": "body",
+      "text": "number from 11 to 66.\n",
+      "sourceLocation": "pdf:spans:[[7,807,829]]"
+    }
+  ],
+  "sourcePages": [
+    7
+  ]
+}

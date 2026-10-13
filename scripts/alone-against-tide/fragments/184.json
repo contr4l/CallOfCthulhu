@@ -1,0 +1,48 @@
+{
+  "id": "184",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "184:p0",
+      "kind": "heading",
+      "text": "184\n",
+      "sourceLocation": "pdf:spans:[[59,44,48]]"
+    },
+    {
+      "id": "184:p1",
+      "kind": "body",
+      "text": "You march through the night, moving more slowly and more \ncarefully now, but never stopping. Still, you manage to keep up \na brisk pace for several hours before you finally force yourself to \nstop and take a brief nap against a tree.\n",
+      "sourceLocation": "pdf:spans:[[59,48,106],[59,106,171],[59,171,240],[59,240,282]]"
+    },
+    {
+      "id": "184:p2",
+      "kind": "body",
+      "text": "Your sleep is light and restless, and you dream of horrific \nthings. Of rising waters and hideous beings with strange \nfaces. Of crumbling towers built of marble and gemstones. Of \nburning fires and the screams of the dying in an unfamiliar \ncity of unknowable antiquity. You wake with a start as a \nterrifying, grotesque lizard-thing rises from the water and \nhisses malevolently at you.\n",
+      "sourceLocation": "pdf:spans:[[59,282,343],[59,343,401],[59,401,463],[59,463,524],[59,524,582],[59,582,643],[59,643,671]]"
+    },
+    {
+      "id": "184:p3",
+      "kind": "body",
+      "text": "Jolted from your sleep, and thoroughly unnerved, you glance \nabout quickly. You realize that the sun is shining brightly, and \nthe fog has dissipated. You gather yourself and begin walking \nat a much calmer pace.\n",
+      "sourceLocation": "pdf:spans:[[59,671,732],[59,732,798],[59,798,861],[59,861,884]]"
+    },
+    {
+      "id": "184:p4",
+      "kind": "body",
+      "text": "It’s several more hours before you find the road. You \nfollow it for some time before a car passes and offers you a \nride to Boston.\n",
+      "sourceLocation": "pdf:spans:[[59,884,939],[59,939,1001],[59,1001,1017]]"
+    },
+    {
+      "id": "184:p5",
+      "kind": "body",
+      "text": "You settle down in Boston for the next few days in an attempt \nto recover from your experiences in Esbury and the long walk \nto safety. You try to put it all behind you, but you find a rather \ndisturbing article in the morning newspaper a few days later. \nThe resort town of Esbury is reported to have mysteriously \nflooded in the middle of the night, claiming the lives of all its \nresidents as they slept. No reason is cited as to the cause of the \nflood, and no survivors, bodies, or debris are reported to have \nbeen found.\nYour visit to Esbury is over. You have survived by abandoning the \ntown to its fate. While you do not fully comprehend what went on \nthere, you’re relieved to have avoided your own demise. Still, the \nmemories of that night will haunt you for quite some time. You \nlose 1D8 Sanity points, but you may use this character in future \nadventures, if you wish. Congratulations on surviving Alone \nAgainst the Tide. THE END.\n",
+      "sourceLocation": "pdf:spans:[[59,1017,1080],[59,1080,1142],[59,1142,1210],[59,1210,1273],[59,1273,1333],[59,1333,1400],[59,1400,1468],[59,1468,1533],[59,1533,1545],[59,1547,1614],[59,1614,1680],[59,1680,1748],[59,1748,1812],[59,1812,1878],[59,1878,1939],[59,1939,1966]]"
+    },
+    {
+      "id": "184:p6",
+      "kind": "body",
+      "text": "(159, 167, 189)\n",
+      "sourceLocation": "pdf:spans:[[59,1966,1982]]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "156",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "156:p0",
+      "kind": "heading",
+      "text": "156\n",
+      "sourceLocation": "pdf:spans:[[51,44,48]]"
+    },
+    {
+      "id": "156:p1",
+      "kind": "body",
+      "text": "You cautiously descend the stairs, which creak beneath your \nfeet. When you reach the bottom, you find yourself in a dank \nand dusty basement, illuminated by a single dim and flickering \nbulb that dangles precariously from the ceiling. The room \nsmells faintly of cigar smoke.\n",
+      "sourceLocation": "pdf:spans:[[51,48,109],[51,109,171],[51,171,235],[51,235,294],[51,294,325]]"
+    },
+    {
+      "id": "156:p2",
+      "kind": "body",
+      "text": "You notice an old table across from you, on which sits a \nstrange collection of items: a pair of cracked clay cylinders, a \ngemstone-studded altar with curious scrawls, a stack of papers, \nand an unnatural looking idol of sea-green stone fashioned in \nthe shape of a lizard-like creature. Behind the table is a still and \nother bootlegging equipment.\n",
+      "sourceLocation": "pdf:spans:[[51,325,383],[51,383,449],[51,449,514],[51,514,577],[51,577,647],[51,647,676]]"
+    },
+    {
+      "id": "156:p3",
+      "kind": "body",
+      "text": "You might consider looking over the items you have found \nhere, or you could simply leave the basement alone.\n",
+      "sourceLocation": "pdf:spans:[[51,676,734],[51,734,786]]"
+    },
+    {
+      "id": "156:p4",
+      "kind": "body",
+      "text": "• To look over the items, go to 210.\n",
+      "sourceLocation": "pdf:spans:[[51,786,823]]"
+    },
+    {
+      "id": "156:p5",
+      "kind": "body",
+      "text": "• To leave this place, go to 181.\n",
+      "sourceLocation": "pdf:spans:[[51,823,857]]"
+    },
+    {
+      "id": "156:p6",
+      "kind": "body",
+      "text": "(93, 151, 165, 202)\n",
+      "sourceLocation": "pdf:spans:[[51,857,877]]"
+    }
+  ]
+}

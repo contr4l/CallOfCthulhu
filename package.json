@@ -1,5 +1,6 @@
 {
   "name": "cthulhu-solo",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "workspaces": [
@@ -19,7 +20,8 @@
     "start": "node apps/api/dist/server.js",
     "chars:validate": "tsx tools/chars/validate.ts",
     "story:compile": "python3 tools/story/compile_solo.py",
-    "story:workflow": "python3 tools/story/workflow.py"
+    "story:workflow": "python3 tools/story/workflow.py",
+    "story:playtime": "tsx tools/story/estimate-playtime.ts"
   },
   "devDependencies": {
     "@playwright/test": "^1.56.0",

@@ -1,0 +1,30 @@
+{
+  "id": "31",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "31:p0",
+      "kind": "heading",
+      "text": "31",
+      "sourceLocation": "pdf:visual:[[15,57]]"
+    },
+    {
+      "id": "31:p1",
+      "kind": "body",
+      "text": "Once the rain stops, you gather the students in the cave mouth \nand make a short inspirational speech to raise their spirits. Your \nparty offers suggestions about the best way to proceed. Charlie \nand Bernard emphasize the advantages of the sheltered cave \nas a base to explore the local environment; Sylvia and Norman \nwould like to keep moving.",
+      "sourceLocation": "pdf:visual:[[15,58],[15,59],[15,60],[15,61],[15,62],[15,63]]"
+    },
+    {
+      "id": "31:p2",
+      "kind": "body",
+      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo explore the cave’s depths, go to 50. To look for interesting features \nin the vicinity, go to 98. To pack up and move on, go to 434.",
+      "sourceLocation": "pdf:visual:[[15,64],[15,65],[15,66]]"
+    },
+    {
+      "id": "31:p3",
+      "kind": "trace",
+      "text": "(22)",
+      "sourceLocation": "pdf:visual:[[15,67]]"
+    }
+  ]
+}

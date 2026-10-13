@@ -1,0 +1,30 @@
+{
+  "id": "363",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "363:p0",
+      "kind": "heading",
+      "text": "363",
+      "sourceLocation": "pdf:visual:[[66,59]]"
+    },
+    {
+      "id": "363:p1",
+      "kind": "body",
+      "text": "Your swift exit from the meadow proves a wise decision. The \nterrified animals begin to stampede. ",
+      "sourceLocation": "pdf:visual:[[66,60],[66,61]]"
+    },
+    {
+      "id": "363:p2",
+      "kind": "body",
+      "text": "Make a CON roll to outdistance the stampede—your rapid response \ngives you a bonus die. If you succeed, go to 361. If not, the animals catch \nyou, causing 2D10 damage. If you survive, go to 347. Otherwise, the \nNadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[66,62],[66,63],[66,64],[66,65]]"
+    },
+    {
+      "id": "363:p3",
+      "kind": "trace",
+      "text": "(314)",
+      "sourceLocation": "pdf:visual:[[66,66]]"
+    }
+  ]
+}

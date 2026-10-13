@@ -1,0 +1,30 @@
+{
+  "id": "290",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "290:p0",
+      "kind": "heading",
+      "text": "290",
+      "sourceLocation": "pdf:visual:[[57,2]]"
+    },
+    {
+      "id": "290:p1",
+      "kind": "body",
+      "text": "You silently guide Norman through the prehistoric landscape. \nSuddenly you hear the bushes crackle, and pull him down into \na crouch. Something—something big—is moving through the \nundergrowth. It comes into view.",
+      "sourceLocation": "pdf:visual:[[57,4],[57,6],[57,7],[57,9]]"
+    },
+    {
+      "id": "290:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll for both you and Norman; failure results in the \nloss of 1D6 Sanity. If you suffer temporary or indefinite insanity, go \nto 310. If Norman misses his roll, go to 312. Otherwise, go to 311.",
+      "sourceLocation": "pdf:visual:[[57,11],[57,12],[57,14]]"
+    },
+    {
+      "id": "290:p3",
+      "kind": "trace",
+      "text": "(276, 292)",
+      "sourceLocation": "pdf:visual:[[57,15]]"
+    }
+  ]
+}

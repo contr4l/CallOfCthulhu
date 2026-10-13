@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "131"
+  ],
+  "text": [
+    "你在旅馆门外停下来，聆听是否有脚步声。街道诡异地静悄悄，几乎听不到任何声音。",
+    "你觉得自己听见了什么，便朝声音大致传来的方向走去。你在街上徘徊，感觉仿佛过了好几个小时。能见度越来越低，似乎证实了你的猜测；浓雾遮挡视线，天色也逐渐暗下来，情况更糟。黄昏迅速降临，你只得在黑暗中继续游荡。",
+    "你正考虑放弃时，突然绷紧身体，僵在原地——身后猛然响起令人作呕的黏湿声。",
+    "突如其来的声音打破沉寂，恐惧席卷而来。不安支配了你，驱使你拔腿就跑，尽管你不知道为什么。你不想弄清楚。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 131",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 131",
+      "text": [
+        "You pause outside the hotel doorway, listening for the sounds of footsteps. The streets are eerily still and nearly silent.",
+        "You fancy you hear something and set off in the general direction of the sounds. You wander the streets for what feels like hours. Your suspicions are seemingly confirmed as it gets harder and harder to see, the lack of visibility caused by the mists compounded by the fading light. Dusk falls hard and fast, and you’re left roaming the streets in the darkness.",
+        "As you contemplate abandoning your task, you tense up and freeze as you hear a nauseating squelching sound suddenly begin behind you.",
+        "A sense of terror washes over you as the unexpected sound breaks the silence. You are ruled by a sense of unease and are driven to run, though you don’t know why. You do not wish to find out."
+      ]
+    }
+  }
+}

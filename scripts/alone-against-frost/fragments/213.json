@@ -1,0 +1,30 @@
+{
+  "id": "213",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "213:p0",
+      "kind": "heading",
+      "text": "213",
+      "sourceLocation": "pdf:visual:[[45,2]]"
+    },
+    {
+      "id": "213:p1",
+      "kind": "body",
+      "text": "Unable to recognize any plants, you go in search of an animal \nspecimen.",
+      "sourceLocation": "pdf:visual:[[45,4],[45,6]]"
+    },
+    {
+      "id": "213:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you achieve a Hard success, go to 108; if you \nachieve a Regular success, go to 315; if you fail, go to 314.",
+      "sourceLocation": "pdf:visual:[[45,8],[45,9]]"
+    },
+    {
+      "id": "213:p3",
+      "kind": "trace",
+      "text": "(63, 641)",
+      "sourceLocation": "pdf:visual:[[45,11]]"
+    }
+  ]
+}

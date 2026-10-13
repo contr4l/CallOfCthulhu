@@ -1,0 +1,30 @@
+{
+  "id": "129",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "129:p0",
+      "kind": "heading",
+      "text": "129",
+      "sourceLocation": "pdf:visual:[[31,49]]"
+    },
+    {
+      "id": "129:p1",
+      "kind": "body",
+      "text": "Something  about  the  little  man’s  face  discourages  you  from \nmaking contact. You remain crouched in the undergrowth. ",
+      "sourceLocation": "pdf:visual:[[31,50],[31,51]]"
+    },
+    {
+      "id": "129:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll for each party member: if at least one fails, go to \n416; otherwise, go to 195.",
+      "sourceLocation": "pdf:visual:[[31,52],[31,53]]"
+    },
+    {
+      "id": "129:p3",
+      "kind": "trace",
+      "text": "(84)",
+      "sourceLocation": "pdf:visual:[[31,54]]"
+    }
+  ]
+}

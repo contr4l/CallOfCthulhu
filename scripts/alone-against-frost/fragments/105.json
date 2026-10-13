@@ -1,0 +1,30 @@
+{
+  "id": "105",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "105:p0",
+      "kind": "heading",
+      "text": "105",
+      "sourceLocation": "pdf:visual:[[28,5]]"
+    },
+    {
+      "id": "105:p1",
+      "kind": "body",
+      "text": "After many days and hardships, your party returns to Fort \nMcDonald. There you confess your guilt, and the Canadian \nauthorities  subject  you  to  psychiatric  tests.  Whatever \nhappens,  you  will  not  be  returning  to  your  position  at \nMiskatonic University.",
+      "sourceLocation": "pdf:visual:[[28,6],[28,7],[28,8],[28,9],[28,10]]"
+    },
+    {
+      "id": "105:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you succeed, you are judged to have suffered \nfrom temporary insanity—which means deportation and disgrace; \nif  you  fail,  you  are  considered  a  psychotic  criminal.  By  the  time \nyou are freed, no one remembers your name nor your claims. The \nNadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[28,11],[28,12],[28,13],[28,14],[28,15]]"
+    },
+    {
+      "id": "105:p3",
+      "kind": "trace",
+      "text": "(97, 103)",
+      "sourceLocation": "pdf:visual:[[28,16]]"
+    }
+  ]
+}

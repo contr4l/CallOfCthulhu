@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "138"
+  ],
+  "text": [
+    "你醒来时身上所有武器都被拿走了，自己被绑在一间布满灰尘的地下室里的椅子上。你首先感到伤口传来的疼痛。伤口仍很新鲜，完全没有得到处理。",
+    "第二个映入眼帘的是你对面桌子上那堆奇怪物品：一对破裂的陶土圆筒、一座镶嵌宝石、刻着古怪涂写的祭坛、一摞文件，还有一尊海绿色石像，形状像某种蜥蜴生物，看上去十分邪异。桌子旁站着一个男人，你看不清他在昏暗房间里的样子。他一边心不在焉地抽着雪茄，一边盯着你。桌子后面有一台蒸馏器和其他私酒设备。你转过头，看见之前一个穿西装的男人靠在门边，正从酒壶里喝酒。",
+    "你刚一动，那个不认识的男人便朝你走来。他咧嘴大笑，你看见他眼中闪烁着疯狂的光，整个人停在灯光照亮的区域边缘。他从口袋里掏出一把刀，刀刃映着头顶昏暗闪烁的灯泡发出微光。陌生人朝门边穿西装的男人瞥了一眼；那人点点头，随后离开。",
+    "留下的男人走进灯光中，把刀抵在你的脸颊上。刀刃刺进皮肉，划伤了你，刀尖上沾了一滴血。“你以为能给乔什找麻烦，是吧？我正好很乐意解决掉你这个小麻烦。要不是你到处打听，一切本来都好好的。你害我和阿米莉娅都身处险境，还妨碍我的计划。所以我很乐意割开你的喉咙，把你的性命献给这尊偶像。也许他会喜欢。然后我就能得到自己想要的东西。我终于能去到梦里见过的那个美丽地方。很快一切都会结束，不过我会慢慢放干你的血。因为我想好好享受……”",
+    "他拿起刀，把刀刃压得更深。你本能地挣扎着想摆脱束缚，逃离疼痛。也许只要足够用力，你就能挣脱。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 138",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 138",
+      "text": [
+        "You awake, stripped of any weapons, and tied to a chair in a dusty basement. The first thing you notice is the pain from your wounds. They are still fresh, and have not been tended to in any way.",
+        "The second thing you notice is the table across from you with its strange collection of items. A pair of cracked clay cylinders, a gemstone-studded altar with curious scrawls, a stack of papers, and an unnatural looking idol of sea-green stone fashioned in the shape of a lizard-like creature. Standing next to the table is a man that you can’t quite make out in the dimness of the room. He puffs absently at a cigar as he stares at you. Behind the table is a still and other bootlegging equipment. You turn your head to see one of the suited men from before leaning against the door, sipping from a flask.",
+        "When you begin to move, the unknown man walks over to you. He grins widely, and you spot a glint of madness in his eyes as he hovers at the edge of the illuminated area. He produces a knife from his pocket, and the blade catches the glimmer of the dim bulb flickering above. The stranger shoots a glance at the suited man by the door, who nods then leaves.",
+        "The remaining man comes into the light and presses the knife against your cheek. It digs into your flesh, nicking you and drawing a drop of blood on the tip. “Thought you could cause trouble for Josh, eh? I’m going to enjoy this, getting rid of my little problem. Everything was fine until you started snooping around. You’re putting me and Amelia both in danger here, and you’re getting in the way of my plans. So, I’m going to enjoy tearing open your throat and offering up your life to the idol. Perhaps it will please him. And then I’ll get what I want. I’ll finally make my way to that beautiful place that I’ve seen in my dreams. It will be over soon, but I will bleed you slow. Because I want to enjoy this…”",
+        "He takes the knife and presses it in deeper. You struggle reflexively against your bonds, trying to escape the pain. Perhaps if you struggle hard enough, you can break free."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "77",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "77:p0",
+      "kind": "heading",
+      "text": "77\n",
+      "sourceLocation": "pdf:spans:[[29,44,47]]"
+    },
+    {
+      "id": "77:p1",
+      "kind": "body",
+      "text": "You take a knee and begin twisting the combination lock slowly, \nlistening for the sound of the clicks and feeling for the slight \nstopping of the dial with a successful guess of the number. You \nrepeat this process a few times, and the safe’s door swings open \nwith a barely perceptible creak of metal.\n",
+      "sourceLocation": "pdf:spans:[[29,47,112],[29,112,178],[29,178,243],[29,243,309],[29,309,351]]"
+    },
+    {
+      "id": "77:p2",
+      "kind": "body",
+      "text": "The contents of the safe are fairly sparse. There is a stack \nof documents on the bottom shelf: passports, birth certificates, \nand financial papers. A quick look at them reveals nothing of \ninterest. They’re tied to both Amelia and William Harris, so it \nappears as if this safe hasn’t been opened since the professor’s \ndeath. There’s also a solitary small gold bar, a little over 2 lbs. (1 \nkg) in weight, sitting off to one side. Considering the trouble \nyou went through to get to this point, you place the gold bar in \nyour pocket as compensation.\n",
+      "sourceLocation": "pdf:spans:[[29,351,413],[29,413,479],[29,479,542],[29,542,607],[29,607,673],[29,673,745],[29,745,810],[29,810,876],[29,876,905]]"
+    },
+    {
+      "id": "77:p3",
+      "kind": "body",
+      "text": "At least now you won’t be leaving empty-handed. Satisfied, and \nwith nothing more to see in the room, you leave and move on.\n",
+      "sourceLocation": "pdf:spans:[[29,905,969],[29,969,1030]]"
+    },
+    {
+      "id": "77:p4",
+      "kind": "body",
+      "text": "• Go to 140.\n",
+      "sourceLocation": "pdf:spans:[[29,1030,1043]]"
+    },
+    {
+      "id": "77:p5",
+      "kind": "body",
+      "text": "(123)\n",
+      "sourceLocation": "pdf:spans:[[29,1043,1049]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "243",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "243:p0",
+      "kind": "heading",
+      "text": "243",
+      "sourceLocation": "pdf:visual:[[49,2]]"
+    },
+    {
+      "id": "243:p1",
+      "kind": "body",
+      "text": "You cannot abandon Sylvia in a moment of terror. You hurry \nafter her.",
+      "sourceLocation": "pdf:visual:[[49,4],[49,6]]"
+    },
+    {
+      "id": "243:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 244; if you fail, go to 146.",
+      "sourceLocation": "pdf:visual:[[49,8]]"
+    },
+    {
+      "id": "243:p3",
+      "kind": "trace",
+      "text": "(241)",
+      "sourceLocation": "pdf:visual:[[49,9]]"
+    }
+  ]
+}

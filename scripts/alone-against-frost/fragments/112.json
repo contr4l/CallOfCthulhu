@@ -1,0 +1,30 @@
+{
+  "id": "112",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "112:p0",
+      "kind": "heading",
+      "text": "112",
+      "sourceLocation": "pdf:visual:[[29,2]]"
+    },
+    {
+      "id": "112:p1",
+      "kind": "body",
+      "text": "Not  too  far  from  the  fissure,  you  find  a  broad-leafed  plant \nthat you recognize as identical to an archaic species of beech \ndescribed by a Miskatonic colleague, Ivan Kurtov. You gather \nsamples of leaves, stems, seeds, and roots. This could be the \nproof you require.",
+      "sourceLocation": "pdf:visual:[[29,4],[29,6],[29,7],[29,9],[29,10]]"
+    },
+    {
+      "id": "112:p2",
+      "kind": "body",
+      "text": "Record the keyword BACKWATER. Go to 361.",
+      "sourceLocation": "pdf:visual:[[29,12]]"
+    },
+    {
+      "id": "112:p3",
+      "kind": "trace",
+      "text": "(63)",
+      "sourceLocation": "pdf:visual:[[29,14]]"
+    }
+  ]
+}

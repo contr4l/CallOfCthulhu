@@ -1,0 +1,30 @@
+{
+  "id": "371",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "371:p0",
+      "kind": "heading",
+      "text": "371",
+      "sourceLocation": "pdf:visual:[[67,64]]"
+    },
+    {
+      "id": "371:p1",
+      "kind": "body",
+      "text": "At last, you approach the fissure by which you entered the lost \nvalley. Your reverie is interrupted by a large rock that plummets \nfrom the sky and crashes on a boulder a few yards from your \nfeet. You look up and are stunned to see a host of hideous ape-\nmen  on  the  ledges  overhead,  tossing  crude  granite  missiles \ndown at you.",
+      "sourceLocation": "pdf:visual:[[67,65],[67,66],[67,67],[67,68],[67,69],[67,70]]"
+    },
+    {
+      "id": "371:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. If this results in \ntemporary insanity, you stand in the open and are hit by a rock; take \n1D10 damage, and go to 347. If you avoid insanity, go to 400.",
+      "sourceLocation": "pdf:visual:[[67,71],[67,72],[67,73]]"
+    },
+    {
+      "id": "371:p3",
+      "kind": "trace",
+      "text": "(291)",
+      "sourceLocation": "pdf:visual:[[67,74]]"
+    }
+  ]
+}

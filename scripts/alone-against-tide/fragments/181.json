@@ -1,0 +1,66 @@
+{
+  "id": "181",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "181:p0",
+      "kind": "heading",
+      "text": "181\n",
+      "sourceLocation": "pdf:spans:[[57,3031,3035]]"
+    },
+    {
+      "id": "181:p1",
+      "kind": "body",
+      "text": "You decide that you’ve seen enough of Joshua’s house and that \nyou have no reason to linger here. You exit the building and \nclose the door behind you.\n",
+      "sourceLocation": "pdf:spans:[[57,3035,3098],[57,3098,3160],[57,3160,3187]]"
+    },
+    {
+      "id": "181:p2",
+      "kind": "body",
+      "text": "You look out into the fog and find it thicker than you \nremember. You can see almost nothing. Compounding this \nproblem is the darkness, which has completely fallen while you \nwere inside.\n",
+      "sourceLocation": "pdf:spans:[[57,3187,3243],[57,3243,3299],[57,3299,3363],[57,3363,3376]]"
+    },
+    {
+      "id": "181:p3",
+      "kind": "body",
+      "text": "Armed with new knowledge, you feel prepared to confront \nwhat lies ahead of you. You take a few steps out into the street \nand are shocked to find the town’s cobblestones waterlogged. \nThe lake’s water level is rising, and Esbury is beginning to flood.\n",
+      "sourceLocation": "pdf:spans:[[57,3376,3433],[57,3433,3499],[57,3499,3561],[57,3561,3629]]"
+    },
+    {
+      "id": "181:p4",
+      "kind": "body",
+      "text": "Given earlier events, you suspect this may not be entirely \nnatural. Even if it is, the rapidly rising water is a serious threat \nin itself. You feel a twinge of fear but overcome it and spur \nyourself into action. You know you must escape the flood, and \nthat you must act quickly.\n",
+      "sourceLocation": "pdf:spans:[[57,3629,3689],[57,3689,3759],[57,3759,3822],[57,3822,3885],[57,3885,3912]]"
+    },
+    {
+      "id": "181:p5",
+      "kind": "body",
+      "text": "If you know where to meet with Banyu, now is the time you \nmay choose to do so.\n",
+      "sourceLocation": "pdf:spans:[[57,3912,3971],[57,3971,3992]]"
+    },
+    {
+      "id": "181:p6",
+      "kind": "body",
+      "text": "• To search for higher ground and hope to avoid the rising waters, \ngo to 211.\n",
+      "sourceLocation": "pdf:spans:[[57,3994,4062],[57,4062,4073]]"
+    },
+    {
+      "id": "181:p7",
+      "kind": "body",
+      "text": "• To try to outrun the rising tide, go to 194.\n",
+      "sourceLocation": "pdf:spans:[[57,4073,4120]]"
+    },
+    {
+      "id": "181:p8",
+      "kind": "body",
+      "text": "• To meet up with Banyu, check the entry number noted on your \ninvestigator sheet, then go to it.\n",
+      "sourceLocation": "pdf:spans:[[57,4120,4183],[57,4183,4218]]"
+    },
+    {
+      "id": "181:p9",
+      "kind": "body",
+      "text": "(133, 156, 202, 210)",
+      "sourceLocation": "pdf:spans:[[57,4218,4238]]"
+    }
+  ]
+}

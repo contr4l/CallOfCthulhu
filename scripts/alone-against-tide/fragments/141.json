@@ -1,0 +1,30 @@
+{
+  "id": "141",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "141:p0",
+      "kind": "heading",
+      "text": "141\n",
+      "sourceLocation": "pdf:spans:[[46,4265,4269]]"
+    },
+    {
+      "id": "141:p1",
+      "kind": "body",
+      "text": "It’s too risky to let Amelia go right now, so you decide to pursue \nher into the street. You don’t get more than five steps from the \ndoor before you find yourself staring Joshua down. Unblinking, \nhe raises a gun at you, and the look on his face shows that he \nclearly intends to use it. You have only a moment to react.\n",
+      "sourceLocation": "pdf:spans:[[46,4269,4337],[46,4337,4403],[46,4403,4467],[46,4467,4531],[46,4531,4591]]"
+    },
+    {
+      "id": "141:p2",
+      "kind": "body",
+      "text": "• Make a Dodge roll: if you succeed, go to 112; if you fail, take \n1D10+2 damage. If you survive this, go to 155; however, if this \nreduces you to zero hit points, you have died. Your visit to Esbury \nis over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[46,4593,4660],[46,4660,4725],[46,4725,4794],[46,4794,4812]]"
+    },
+    {
+      "id": "141:p3",
+      "kind": "body",
+      "text": "(53, 91)",
+      "sourceLocation": "pdf:spans:[[46,4812,4820]]"
+    }
+  ]
+}

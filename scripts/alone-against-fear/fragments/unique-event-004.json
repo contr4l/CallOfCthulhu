@@ -1,0 +1,224 @@
+{
+  "id": "unique-event-004",
+  "paragraphs": [
+    {
+      "id": "unique-event-004:p0000",
+      "kind": "body",
+      "text": "#4 - The Fluid\n",
+      "sourceLocation": "pdf:spans:[[78,790,805]]"
+    },
+    {
+      "id": "unique-event-004:p0001",
+      "kind": "body",
+      "text": "You inject the mysterious fluid and\n",
+      "sourceLocation": "pdf:spans:[[78,805,841]]"
+    },
+    {
+      "id": "unique-event-004:p0002",
+      "kind": "body",
+      "text": "feel its power coursing through\n",
+      "sourceLocation": "pdf:spans:[[78,841,873]]"
+    },
+    {
+      "id": "unique-event-004:p0003",
+      "kind": "body",
+      "text": "your veins. Roll d6 on the Fluid\n",
+      "sourceLocation": "pdf:spans:[[78,873,906]]"
+    },
+    {
+      "id": "unique-event-004:p0004",
+      "kind": "body",
+      "text": "table.\n",
+      "sourceLocation": "pdf:spans:[[78,906,913]]"
+    },
+    {
+      "id": "unique-event-004:p0005",
+      "kind": "body",
+      "text": "Fluid Table (d6)\n",
+      "sourceLocation": "pdf:spans:[[78,913,930]]"
+    },
+    {
+      "id": "unique-event-004:p0006",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[78,930,932]]"
+    },
+    {
+      "id": "unique-event-004:p0007",
+      "kind": "body",
+      "text": "The fluidgives you a strong allergic\n",
+      "sourceLocation": "pdf:spans:[[78,932,969]]"
+    },
+    {
+      "id": "unique-event-004:p0008",
+      "kind": "body",
+      "text": "reaction. Lose 1 Life. Save vs. L3\n",
+      "sourceLocation": "pdf:spans:[[78,969,1004]]"
+    },
+    {
+      "id": "unique-event-004:p0009",
+      "kind": "body",
+      "text": "poison or lose 1 additional Life every\n",
+      "sourceLocation": "pdf:spans:[[78,1004,1043]]"
+    },
+    {
+      "id": "unique-event-004:p0010",
+      "kind": "body",
+      "text": "time you move to a new area. As\n",
+      "sourceLocation": "pdf:spans:[[78,1043,1075]]"
+    },
+    {
+      "id": "unique-event-004:p0011",
+      "kind": "body",
+      "text": "soon as you successfully save, the\n",
+      "sourceLocation": "pdf:spans:[[78,1075,1110]]"
+    },
+    {
+      "id": "unique-event-004:p0012",
+      "kind": "body",
+      "text": "allergic reaction ends and you stop\n",
+      "sourceLocation": "pdf:spans:[[78,1110,1146]]"
+    },
+    {
+      "id": "unique-event-004:p0013",
+      "kind": "body",
+      "text": "taking damage.\n",
+      "sourceLocation": "pdf:spans:[[78,1146,1161]]"
+    },
+    {
+      "id": "unique-event-004:p0014",
+      "kind": "body",
+      "text": "2 The fluid has no effect on you.\n",
+      "sourceLocation": "pdf:spans:[[78,1161,1195]]"
+    },
+    {
+      "id": "unique-event-004:p0015",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[78,1195,1197]]"
+    },
+    {
+      "id": "unique-event-004:p0016",
+      "kind": "body",
+      "text": "The fluid gives you supernatural\n",
+      "sourceLocation": "pdf:spans:[[78,1197,1230]]"
+    },
+    {
+      "id": "unique-event-004:p0017",
+      "kind": "body",
+      "text": "reflexes. Add +1 to all Defense rolls\n",
+      "sourceLocation": "pdf:spans:[[78,1230,1268]]"
+    },
+    {
+      "id": "unique-event-004:p0018",
+      "kind": "body",
+      "text": "and ignore surprise attacks from\n",
+      "sourceLocation": "pdf:spans:[[78,1268,1301]]"
+    },
+    {
+      "id": "unique-event-004:p0019",
+      "kind": "body",
+      "text": "monsters for the next 3 encounters,\n",
+      "sourceLocation": "pdf:spans:[[78,1301,1337]]"
+    },
+    {
+      "id": "unique-event-004:p0020",
+      "kind": "body",
+      "text": "after which the effect ends.\n",
+      "sourceLocation": "pdf:spans:[[78,1337,1366]]"
+    },
+    {
+      "id": "unique-event-004:p0021",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[78,1366,1368]]"
+    },
+    {
+      "id": "unique-event-004:p0022",
+      "kind": "body",
+      "text": "The fluid gives you superhuman\n",
+      "sourceLocation": "pdf:spans:[[78,1368,1399]]"
+    },
+    {
+      "id": "unique-event-004:p0023",
+      "kind": "body",
+      "text": "strength. Your melee attacks all\n",
+      "sourceLocation": "pdf:spans:[[78,1399,1432]]"
+    },
+    {
+      "id": "unique-event-004:p0024",
+      "kind": "body",
+      "text": "inflict+1 damage. The effect wears\n",
+      "sourceLocation": "pdf:spans:[[78,1432,1467]]"
+    },
+    {
+      "id": "unique-event-004:p0025",
+      "kind": "body",
+      "text": "off after your next 3 combat\n",
+      "sourceLocation": "pdf:spans:[[78,1467,1496]]"
+    },
+    {
+      "id": "unique-event-004:p0026",
+      "kind": "body",
+      "text": "encounters.\n",
+      "sourceLocation": "pdf:spans:[[78,1496,1508]]"
+    },
+    {
+      "id": "unique-event-004:p0027",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[78,1508,1510]]"
+    },
+    {
+      "id": "unique-event-004:p0028",
+      "kind": "body",
+      "text": "The fluid heals all damage  you\n",
+      "sourceLocation": "pdf:spans:[[78,1510,1542]]"
+    },
+    {
+      "id": "unique-event-004:p0029",
+      "kind": "body",
+      "text": "have taken, bringing you back to\n",
+      "sourceLocation": "pdf:spans:[[78,1542,1575]]"
+    },
+    {
+      "id": "unique-event-004:p0030",
+      "kind": "body",
+      "text": "your maximum Life point total.\n",
+      "sourceLocation": "pdf:spans:[[78,1575,1606]]"
+    },
+    {
+      "id": "unique-event-004:p0031",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[78,1606,1608]]"
+    },
+    {
+      "id": "unique-event-004:p0032",
+      "kind": "body",
+      "text": "The fluid gives you superior aim.\n",
+      "sourceLocation": "pdf:spans:[[78,1608,1642]]"
+    },
+    {
+      "id": "unique-event-004:p0033",
+      "kind": "body",
+      "text": "Gain +1 to hit with ranged\n",
+      "sourceLocation": "pdf:spans:[[78,1642,1669]]"
+    },
+    {
+      "id": "unique-event-004:p0034",
+      "kind": "body",
+      "text": "weapons for your next 3 combat\n",
+      "sourceLocation": "pdf:spans:[[78,1669,1700]]"
+    },
+    {
+      "id": "unique-event-004:p0035",
+      "kind": "body",
+      "text": "encounters.",
+      "sourceLocation": "pdf:spans:[[78,1700,1711]]"
+    }
+  ],
+  "sourcePages": [
+    78
+  ]
+}

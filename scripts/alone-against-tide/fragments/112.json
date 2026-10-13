@@ -1,0 +1,36 @@
+{
+  "id": "112",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "112:p0",
+      "kind": "heading",
+      "text": "112\n",
+      "sourceLocation": "pdf:spans:[[37,1762,1766]]"
+    },
+    {
+      "id": "112:p1",
+      "kind": "body",
+      "text": "You roll to the side and press yourself up against the door \nframe, hastily dodging away from the spot Joshua shoots at. \nHe curses under his breath as he levels the gun at you yet again. \nHowever, the slight pause between shots is all you need. Your \ninstincts take over and you lunge at him, attempting to wrestle \nthe weapon from him.\n",
+      "sourceLocation": "pdf:spans:[[37,1766,1827],[37,1827,1888],[37,1888,1955],[37,1955,2018],[37,2018,2083],[37,2083,2104]]"
+    },
+    {
+      "id": "112:p2",
+      "kind": "body",
+      "text": "You knock him over with the force of your tackle. You \ngrapple with him, clutching desperately for the gun.\n",
+      "sourceLocation": "pdf:spans:[[37,2104,2159],[37,2159,2212]]"
+    },
+    {
+      "id": "112:p3",
+      "kind": "body",
+      "text": "• Make a Fighting (Brawl) roll: if you succeed, go to 143; if you \nfail, go to 152.\n",
+      "sourceLocation": "pdf:spans:[[37,2212,2279],[37,2279,2296]]"
+    },
+    {
+      "id": "112:p4",
+      "kind": "body",
+      "text": "(141)\n",
+      "sourceLocation": "pdf:spans:[[37,2296,2302]]"
+    }
+  ]
+}

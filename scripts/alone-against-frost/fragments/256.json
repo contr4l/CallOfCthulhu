@@ -1,0 +1,36 @@
+{
+  "id": "256",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "256:p0",
+      "kind": "heading",
+      "text": "256",
+      "sourceLocation": "pdf:visual:[[51,33]]"
+    },
+    {
+      "id": "256:p1",
+      "kind": "body",
+      "text": "Abruptly, the attack upon your will ceases. You hear the hag \ngasp, and she collapses on the earth behind you. The chanting \nstops. A hush spreads through the camp. They break from the \nring and gather over the old woman.",
+      "sourceLocation": "pdf:visual:[[51,34],[51,35],[51,36],[51,37]]"
+    },
+    {
+      "id": "256:p2",
+      "kind": "body",
+      "text": "In  some  distress,  the  Keywanema  confer.  After  a  few \nminutes, they gather up their unconscious queen and carry her \naway. They leave you and the students still bound.",
+      "sourceLocation": "pdf:visual:[[51,38],[51,39],[51,40]]"
+    },
+    {
+      "id": "256:p3",
+      "kind": "body",
+      "text": "Go to 257.",
+      "sourceLocation": "pdf:visual:[[51,41]]"
+    },
+    {
+      "id": "256:p4",
+      "kind": "trace",
+      "text": "(255)",
+      "sourceLocation": "pdf:visual:[[51,42]]"
+    }
+  ]
+}

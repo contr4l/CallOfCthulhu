@@ -1,0 +1,30 @@
+{
+  "id": "207",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "207:p0",
+      "kind": "heading",
+      "text": "207",
+      "sourceLocation": "pdf:visual:[[44,1]]"
+    },
+    {
+      "id": "207:p1",
+      "kind": "body",
+      "text": "Your  hesitation  is  wise.  The  figure  is  Charlie  Foxtail,  your \nmissing guide. But something holds you back from celebration. \nShe returns your stare with an emptiness that chills your blood. \nYet you sense confusion, not malice, in the woman.",
+      "sourceLocation": "pdf:visual:[[44,2],[44,3],[44,4],[44,5]]"
+    },
+    {
+      "id": "207:p2",
+      "kind": "body",
+      "text": "You speak in soft, reassuring tones. Make a Hard POW roll, but \nwith a bonus die: if you succeed, go to 208; if you fail, go to 127.",
+      "sourceLocation": "pdf:visual:[[44,6],[44,7]]"
+    },
+    {
+      "id": "207:p3",
+      "kind": "trace",
+      "text": "(144)",
+      "sourceLocation": "pdf:visual:[[44,8]]"
+    }
+  ]
+}

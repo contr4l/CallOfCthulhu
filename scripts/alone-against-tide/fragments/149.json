@@ -1,0 +1,36 @@
+{
+  "id": "149",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "149:p0",
+      "kind": "heading",
+      "text": "149\n",
+      "sourceLocation": "pdf:spans:[[48,3474,3478]]"
+    },
+    {
+      "id": "149:p1",
+      "kind": "body",
+      "text": "You try a door and find it locked. You move down the line of \nbuildings and repeat this process several times. They are all \nsimilarly secured.\n",
+      "sourceLocation": "pdf:spans:[[48,3478,3540],[48,3540,3603],[48,3603,3622]]"
+    },
+    {
+      "id": "149:p2",
+      "kind": "body",
+      "text": "Defeated, you decide to head back to the hotel to gather your \nthoughts.\n",
+      "sourceLocation": "pdf:spans:[[48,3622,3685],[48,3685,3695]]"
+    },
+    {
+      "id": "149:p3",
+      "kind": "body",
+      "text": "• Go to 131.\n",
+      "sourceLocation": "pdf:spans:[[48,3697,3710]]"
+    },
+    {
+      "id": "149:p4",
+      "kind": "body",
+      "text": "(114)\n",
+      "sourceLocation": "pdf:spans:[[48,3710,3716]]"
+    }
+  ]
+}

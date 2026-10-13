@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "83"
+  ],
+  "text": [
+    "那可怕的东西懒洋洋地朝你蹒跚而来，挥爪袭向你。无论这怪物是什么，幸好你跑得比它快。",
+    "你竭尽全力拔腿狂奔，不敢回头。你凭本能冲进旅馆，砰地关上门，退到眼下能找到的最安全地方。",
+    "你靠着门休息片刻，喘匀气息。你不知道外面是什么东西，也不知道它从何而来。也许你并不想知道。",
+    "你的直觉告诉你，它似乎与哈里斯的财物以及哈里斯之死的种种情形有关。不然，为何偏偏此时发生这些事？",
+    "你此刻不想深究这件事，而且手头线索寥寥。你尽可能保持理智，权衡着自己的选择。",
+    "你可以留在这里——封住各个入口，熬过这一夜，希望它找不到你，并在天亮时离开；或者做好准备，若它再次袭来，就在这里坚守并反击。你也可以逃离这不可能发生的一切——尽快冲进雾中，朝树林跑去，希望把这不自然的东西留在埃斯伯里，连同你在这里徒劳无功的一切。又或者——如果你特别勇敢——鼓起勇气直面恐怖，继续调查，希望揭开埃斯伯里发生的事情，甚至找出这可怕东西的来历，也许还能找到除掉它的方法。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 83",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 83",
+      "text": [
+        "Lumbering lazily in your general direction, the hideous thing takes a swipe at you. Whatever this creature is, you are mercifully faster than it.",
+        "You run as swiftly as your feet will carry you, and you dare not look back. Instinctually, you rush into the hotel and slam the door behind you, retreating to the closest thing to a safe space you can find.",
+        "You rest a moment, bracing yourself against the door and catching your breath. You have no idea what’s out there or where it came from. Perhaps you don’t want to know.",
+        "Your instincts lead you to believe that it’s somehow connected to Harris’ possessions and the circumstances surrounding Harris’ death. Why else would this be happening now, of all times?",
+        "You don’t wish to dwell on it at the present moment and you have little to go on. You weigh your options with as much rationality as you can muster.",
+        "You could simply remain here—seal the entrances and wait out the night, hoping that it won’t find you and will leave with the coming of day, or even prepare to hold out here and fight back, should it come at you again. Another option is to flee this impossibility—run into the fog as fast as you can and make for the trees, hoping to leave this unnatural thing behind you in Esbury, with the rest of your fruitless endeavors here. Or—if you’re feeling particularly brave of heart—you may steel yourself against the horror and press on with your investigation, hoping to unravel the goings-on in Esbury and perhaps even the origins of this horrid thing—and maybe find a way to get rid of it."
+      ]
+    }
+  }
+}

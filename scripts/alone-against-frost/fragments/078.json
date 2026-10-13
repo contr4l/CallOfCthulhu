@@ -1,0 +1,30 @@
+{
+  "id": "78",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "78:p0",
+      "kind": "heading",
+      "text": "78",
+      "sourceLocation": "pdf:visual:[[23,81]]"
+    },
+    {
+      "id": "78:p1",
+      "kind": "body",
+      "text": "You have the students to think of. You fire point-blank into the \nman’s chest.",
+      "sourceLocation": "pdf:visual:[[23,82],[23,83]]"
+    },
+    {
+      "id": "78:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 81; if you fail, go to 79.",
+      "sourceLocation": "pdf:visual:[[23,84]]"
+    },
+    {
+      "id": "78:p3",
+      "kind": "trace",
+      "text": "(77)",
+      "sourceLocation": "pdf:visual:[[23,85]]"
+    }
+  ]
+}

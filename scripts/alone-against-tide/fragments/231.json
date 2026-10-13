@@ -1,0 +1,42 @@
+{
+  "id": "231",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "231:p0",
+      "kind": "heading",
+      "text": "231\n",
+      "sourceLocation": "pdf:spans:[[74,182,186]]"
+    },
+    {
+      "id": "231:p1",
+      "kind": "body",
+      "text": "You find yourself woefully unprepared to deal with the \notherworldly horrors that are in front of you. Unarmed, \nyou’re unable to fight back effectively. You nearly escape the \nfirst creature’s grasp through sheer tenacity, but more of them \nquickly emerge from the mist, and it’s not long before you’re \nsubdued by their sheer weight of numbers.\n",
+      "sourceLocation": "pdf:spans:[[74,186,242],[74,242,299],[74,299,363],[74,363,428],[74,428,491],[74,491,533]]"
+    },
+    {
+      "id": "231:p2",
+      "kind": "body",
+      "text": "You struggle against them as best you can, but it’s to no \navail. Without a proper weapon, you’re at the mercy of these \nunnatural and misshapen things.\n",
+      "sourceLocation": "pdf:spans:[[74,533,592],[74,592,654],[74,654,686]]"
+    },
+    {
+      "id": "231:p3",
+      "kind": "body",
+      "text": "They don’t kill you right away. Instead, they carry you, \nkicking and screaming, toward a burning house. Piled atop the \nsmoldering heaps of ashes are mounds of corpses that have \nalready been set alight. You also spot various pieces of jewelry \nand scattered gemstones strewn among the wreckage—entire \nfistfuls of them. The firelight reflects brilliantly off the looted \ngold and gems.\n",
+      "sourceLocation": "pdf:spans:[[74,686,744],[74,744,807],[74,807,866],[74,866,932],[74,932,990],[74,990,1059],[74,1059,1074]]"
+    },
+    {
+      "id": "231:p4",
+      "kind": "body",
+      "text": "You don’t have time to admire them or to wonder at the \nspectacle before you, as you are swiftly fed to the flames. As \nyou burn alive in agonizing pain, the last sight you see is the \ncreatures dancing a lurching, shuffling jig through the fog \nbeneath the gibbous moon, giving praise to their strange and \nunimaginable god.\nYou have died, offered up as a sacrifice to a Great Old One. Your visit \nto Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[74,1074,1130],[74,1130,1194],[74,1194,1259],[74,1259,1320],[74,1320,1382],[74,1382,1400],[74,1402,1475],[74,1475,1504]]"
+    },
+    {
+      "id": "231:p5",
+      "kind": "body",
+      "text": "(191)\n",
+      "sourceLocation": "pdf:spans:[[74,1504,1510]]"
+    }
+  ]
+}

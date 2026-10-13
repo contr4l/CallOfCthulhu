@@ -1,0 +1,36 @@
+{
+  "id": "643",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "643:p0",
+      "kind": "heading",
+      "text": "643",
+      "sourceLocation": "pdf:visual:[[107,35]]"
+    },
+    {
+      "id": "643:p1",
+      "kind": "body",
+      "text": "The current suddenly sweeps Bernard off his feet! His cry is lost \nas he disappears beneath a surge.",
+      "sourceLocation": "pdf:visual:[[107,36],[107,37]]"
+    },
+    {
+      "id": "643:p2",
+      "kind": "body",
+      "text": "Make a Swim roll for Bernard: if he succeeds, go to 92; if he fails, \ngo to 110.",
+      "sourceLocation": "pdf:visual:[[107,38],[107,39]]"
+    },
+    {
+      "id": "643:p3",
+      "kind": "trace",
+      "text": "(91)",
+      "sourceLocation": "pdf:visual:[[107,40]]"
+    },
+    {
+      "id": "643:p4",
+      "kind": "body",
+      "text": "106",
+      "sourceLocation": "pdf:visual:[[107,41]]"
+    }
+  ]
+}

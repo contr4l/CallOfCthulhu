@@ -1,0 +1,36 @@
+{
+  "id": "425",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "425:p0",
+      "kind": "heading",
+      "text": "425",
+      "sourceLocation": "pdf:visual:[[75,39]]"
+    },
+    {
+      "id": "425:p1",
+      "kind": "body",
+      "text": "Every field trip is a rare opportunity that must be fought for. \nMiskatonic is a wonderful institution, but the discoveries that \nchange the known world are made here, on its fringes, through \npainstaking and dangerous exploration. You cannot give up yet.",
+      "sourceLocation": "pdf:visual:[[75,40],[75,41],[75,42],[75,43]]"
+    },
+    {
+      "id": "425:p2",
+      "kind": "body",
+      "text": "If the expedition still has all its personnel, go to 602. If only two \nstudents remain, go to 600. If Charlie alone has been lost, go to 604. \nIf Bernard alone has been lost, go to 598.",
+      "sourceLocation": "pdf:visual:[[75,44],[75,45],[75,46]]"
+    },
+    {
+      "id": "425:p3",
+      "kind": "trace",
+      "text": "(513)",
+      "sourceLocation": "pdf:visual:[[75,47]]"
+    },
+    {
+      "id": "425:p4",
+      "kind": "body",
+      "text": "74",
+      "sourceLocation": "pdf:visual:[[75,48]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "250",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "250:p0",
+      "kind": "heading",
+      "text": "250",
+      "sourceLocation": "pdf:visual:[[49,71]]"
+    },
+    {
+      "id": "250:p1",
+      "kind": "body",
+      "text": "The area is thick with horrors. ",
+      "sourceLocation": "pdf:visual:[[49,72]]"
+    },
+    {
+      "id": "250:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll for each member of your party: if everybody \nsucceeds, go to 224; if anybody fails, go to 247.",
+      "sourceLocation": "pdf:visual:[[49,73],[49,74]]"
+    },
+    {
+      "id": "250:p3",
+      "kind": "trace",
+      "text": "(173, 248, 253)",
+      "sourceLocation": "pdf:visual:[[49,75]]"
+    }
+  ]
+}

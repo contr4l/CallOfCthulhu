@@ -1,0 +1,37 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "74"
+  ],
+  "text": [
+    "你在遗产拍卖会上虽瞥过那本笔记，却一直没时间仔细阅读，直到现在才终于有机会。",
+    "你读着这本书，很快便沉浸其中，接下来的几个小时都在研读。阅读带来了有价值的信息。哈里斯教授大约从12年前开始多次前往印度。每次访问，他都会去多个地点观察并收集文物。他时间最长、收获也最丰厚的一次旅行似乎是在10年前，去的是印度萨尔纳斯。他写道，自己从一处仍在使用的佛教圣地“取回”了几件物品。显然哈里斯教授对这次盗窃有些后悔，但还是抵挡不住把文物据为己有、纳入个人收藏的诱惑。他在萨尔纳斯遇到的物品，与昨晚遗产拍卖会上的一些东西相符。陶土圆筒、镶嵌宝石的祭坛，以及蜥蜴般的偶像，都在他有关萨尔纳斯之行的日记条目中有详细描述。",
+    "此后，日记的其他部分也不断提到这些物品。显然，过去十年他一直在研究它们，并逐渐对它们着了迷。最初引起哈里斯注意的是那尊偶像；据他所说，上面那只巨大而怪诞的水蜥蜴，不符合任何已知印度教神祇的描述。哈里斯希望找到关于偶像身份的线索，于是着手尝试翻译圆筒和祭坛上的神秘文字。这个过程困难重重，因为这些文字只能勉强辨认为一种梵语出现之前的古老语言方言。研究进展缓慢而艰辛，直到大约一年前才有所突破。",
+    "就在那时，哈里斯教授写下自己做了一个奇异而令人顿悟的梦。他说自己在这些物品的起源地——古代世界中行走：那是一座宏伟的城市，有大理石城墙、缟玛瑙街道、青铜城门，以及壮丽的宫殿和花园。他写道，自己参观了这座古城的17座塔庙，还遇到了栖居其中、坐在象牙宝座上的长须神祇。哈里斯把这个奇异地方称为萨尔纳斯，尽管这简直不可能。他声称自己在那些神庙中学会了古代文字的奥秘。",
+    "他的下一篇日记把那对奇怪的陶土圆筒称为“卡达瑟隆砖筒”，不过他当时还没认出其他物件。再往后的几页被人从日记上撕掉了。",
+    "日记接下来的内容转向更平常的事，但仍偶尔提及那些文物。最近几篇记录谈到哈里斯的日常研究，以及他和阿米莉娅的共同生活。从他描述她的方式来看，他显然深爱着她；但他也哀叹研究占去了太多时间，无法像自己希望的那样陪伴她。于是他用礼物和金钱宠爱她，而她也乐于接受。他记下，尽管两人聚少离多，阿米莉娅仍从未像那时一样幸福。",
+    "最后一篇引起你注意的日记写于一周多以前。看来，被撕掉的日记页最近才失踪。哈里斯教授对此深感担忧，因为书房没有被强行闯入的迹象，只有他和阿米莉娅能进去；但他确信自己没有亲手把那些页从日记上取走。",
+    "你粗略浏览了教授人生最后一周的记录，内容相当平静乏味，只有他持续沉迷于文物，以及偶尔对阿米莉娅的担忧。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 74",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 74",
+      "text": [
+        "Though you glanced at the notebook during the estate sale, you haven’t had time to properly look it over until now.",
+        "Reading through the book, you become deeply engrossed and spend the next few hours in study. The time spent yields valuable information. Prof. Harris made several trips to India, starting about 12 years ago. During these visits, he went to multiple sites to make observations and recover artifacts. His longest and most profitable trip appears to have been 10 years ago during an excursion to Sarnath, India, where he writes about “recovering” several items from an active Buddhist shrine. Apparently, Prof. Harris had some regrets about this theft, but he couldn’t resist taking the artifacts for his personal collection. The descriptions of the items he came across in Sarnath match some of the items at the estate sale last night. The clay cylinders, the gemstone-encrusted altar, and the lizard-like idol are all described in detail in the entries related to his trip to Sarnath.",
+        "These same items then appear throughout the rest of his journal. He’d clearly been studying them over the past decade and developed something of a fixation with them. It was the idol that initially caught Harris’ eye, and according to him, the depiction of the great and grotesque water lizard matched no description of any known Hindu deity. Hoping to find clues to the idol’s identity, Harris set about trying to translate the mysterious script on the cylinders and the altar. In doing so, he met with significant difficulty, as the text was only barely recognizable as an archaic dialect of a pre-Sanskrit language. The process was slow and painstaking until about a year ago.",
+        "At this time, Prof. Harris writes of having a strange and enlightening dream. He reports walking in the ancient world from whence these items originated: a grand city of marble walls and onyx streets, of bronze gates and marvelous palaces and gardens. He writes of visiting the 17 tower temples of this ancient city and meeting the bearded gods who dwelled there, sat upon their ivory thrones. Harris calls the strange place Sarnath, despite the sheer impossibility of this. He claims that among the temples he learned the secrets of the ancient writing.",
+        "His next entry goes on to describe the odd clay cylinders as the “Brick Cylinders of Kadatheron,” though he hadn’t yet identified the other objects. The next few pages have been torn from the journal.",
+        "The entries resume with more mundane matters, though there are still references to the artifacts from time to time. The most recent entries in the journal speak of Harris’ daily studies and living with Amelia. It’s clear that he cared about her deeply from the way he writes about her, but he laments that his studies keep him from spending the time with her that he would like. Instead, he lavished her with gifts and money, which she was all too happy to accept. He notes that Amelia had never been happier despite the distance between them.",
+        "The last entry to catch your eye is dated a little over a week ago. Apparently, the pages torn from his journal went missing only recently. Prof. Harris expresses deep concern at this as there were no signs of forced entry to his study, and only he and Amelia had access to it, though he was sure he hadn’t removed them from the journal himself.",
+        "You finish your reading by glossing over the last week of the professor’s life, which is rather uneventful and peaceful beyond his continued obsession with the artifacts and his occasional worries about Amelia."
+      ]
+    }
+  }
+}

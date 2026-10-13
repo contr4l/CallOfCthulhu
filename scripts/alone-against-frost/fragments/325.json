@@ -1,0 +1,30 @@
+{
+  "id": "325",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "325:p0",
+      "kind": "heading",
+      "text": "325",
+      "sourceLocation": "pdf:visual:[[62,43]]"
+    },
+    {
+      "id": "325:p1",
+      "kind": "body",
+      "text": "You fire at the source of the breathing. The muzzle flash paints \nthe walls of the cave.",
+      "sourceLocation": "pdf:visual:[[62,44],[62,45]]"
+    },
+    {
+      "id": "325:p2",
+      "kind": "body",
+      "text": "Attempt a Hard Firearms (Rifle/Shotgun) roll with your rifle. If \nyou inflict 8 points of damage or more, go to 373. If you miss or score \nless damage, go to 376.",
+      "sourceLocation": "pdf:visual:[[62,46],[62,47],[62,48]]"
+    },
+    {
+      "id": "325:p3",
+      "kind": "trace",
+      "text": "(296, 493)",
+      "sourceLocation": "pdf:visual:[[62,49]]"
+    }
+  ]
+}

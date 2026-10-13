@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "16"
+  ],
+  "text": [
+    "你在这里的事情已经办完。你看到人群贪婪地盯着刚刚拍下的物品，也看见阿米莉娅拎着装满现金的皮包，神情得意而满足。沃伦先生开始收拾桌子，鲍威尔警官则站在门边，指挥人们走出建筑，进入愈发浓重的雾中。",
+    "虽然有些人似乎乐于留下来社交，但你觉得最好还是找地方睡一晚。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 16",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 16",
+      "text": [
+        "Your business here is completed. You see the crowd staring covetously at the newly acquired items and you spot Amelia looking smug and satisfied with a leather bag full of cash. Mr. Warren begins to clear away the tables while Officer Powell stands by the door and directs people out of the building and into the ever-thickening fog.",
+        "Though some seem content to stay and socialize, you feel that it would be best to go bed down for the night."
+      ]
+    }
+  }
+}

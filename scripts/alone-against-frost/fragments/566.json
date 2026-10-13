@@ -1,0 +1,36 @@
+{
+  "id": "566",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "566:p0",
+      "kind": "heading",
+      "text": "566",
+      "sourceLocation": "pdf:visual:[[96,69]]"
+    },
+    {
+      "id": "566:p1",
+      "kind": "body",
+      "text": "The hunters produce enough cords to bind all three of you and \nthen place you each against a tree and lash you to the trunk. \nTheir mysterious work done, the outcasts pack up their simple \ngear and abandon the spot. You wait for a few minutes before \nbeginning to struggle against your bonds.",
+      "sourceLocation": "pdf:visual:[[96,70],[96,71],[96,72],[96,73],[96,74]]"
+    },
+    {
+      "id": "566:p2",
+      "kind": "body",
+      "text": "A part of you finds this professionally fascinating. But you \nwill have to get free if you wish to publish your findings.",
+      "sourceLocation": "pdf:visual:[[96,75],[96,76]]"
+    },
+    {
+      "id": "566:p3",
+      "kind": "body",
+      "text": "Make an Extreme DEX roll for everybody present. If any of you \nsucceed, go to 567. If not, go to 568.",
+      "sourceLocation": "pdf:visual:[[96,77],[96,78]]"
+    },
+    {
+      "id": "566:p4",
+      "kind": "trace",
+      "text": "(562, 571)",
+      "sourceLocation": "pdf:visual:[[96,79]]"
+    }
+  ]
+}

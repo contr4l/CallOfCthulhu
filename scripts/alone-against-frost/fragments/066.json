@@ -1,0 +1,42 @@
+{
+  "id": "66",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "66:p0",
+      "kind": "heading",
+      "text": "66",
+      "sourceLocation": "pdf:visual:[[22,1]]"
+    },
+    {
+      "id": "66:p1",
+      "kind": "body",
+      "text": "Norman  howls  with  fear  and  starts  scrambling  backward, \naway from the scene of ritual murder. You glance at the small \nmen and see them grab spears, bows, and quivers. Sylvia cries \nout.  You  turn  your  head  and  see  Norman’s  back  disappear \nbetween the trees.",
+      "sourceLocation": "pdf:visual:[[22,2],[22,3],[22,4],[22,5],[22,6]]"
+    },
+    {
+      "id": "66:p2",
+      "kind": "body",
+      "text": "Sylvia lies huddled in a nest of leaves. You turn her over. \nWith a gasp, you see a hunting knife buried in her breast. “It \nwas Norman,” she whispers, staring at the knife. “I… tried to \ncalm him down...” A thread of blood descends from the corner \nof her mouth.",
+      "sourceLocation": "pdf:visual:[[22,7],[22,8],[22,9],[22,10],[22,11]]"
+    },
+    {
+      "id": "66:p3",
+      "kind": "body",
+      "text": "There is no hope for Sylvia. You must save yourself.",
+      "sourceLocation": "pdf:visual:[[22,12]]"
+    },
+    {
+      "id": "66:p4",
+      "kind": "body",
+      "text": "Go to 116.",
+      "sourceLocation": "pdf:visual:[[22,13]]"
+    },
+    {
+      "id": "66:p5",
+      "kind": "trace",
+      "text": "(201)",
+      "sourceLocation": "pdf:visual:[[22,14]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "88",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "88:p0",
+      "kind": "heading",
+      "text": "88",
+      "sourceLocation": "pdf:visual:[[25,34]]"
+    },
+    {
+      "id": "88:p1",
+      "kind": "body",
+      "text": "The  wolverine  squeals  as  your  bullet  rips  through  its  side. \nMissing Bernard by inches, the beast lands hard and squirms \nin the litter of brown pine needles. You draw the student away. \nHas this near-tragedy made you rethink your strategy?",
+      "sourceLocation": "pdf:visual:[[25,35],[25,36],[25,37],[25,38]]"
+    },
+    {
+      "id": "88:p2",
+      "kind": "body",
+      "text": "To head back to civilization, go to 232. To push ahead, go to 604.",
+      "sourceLocation": "pdf:visual:[[25,39]]"
+    },
+    {
+      "id": "88:p3",
+      "kind": "trace",
+      "text": "(60)",
+      "sourceLocation": "pdf:visual:[[25,40]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "13:p0",
+      "kind": "heading",
+      "text": "13",
+      "sourceLocation": "pdf:visual:[[12,6]]"
+    },
+    {
+      "id": "13:p1",
+      "kind": "body",
+      "text": "You struggle to shore. Your students cheer, but in their faces you \ncan see it strike home: the difference between a field trip and a \nwarm lecture room.",
+      "sourceLocation": "pdf:visual:[[12,7],[12,8],[12,9]]"
+    },
+    {
+      "id": "13:p2",
+      "kind": "body",
+      "text": "Your  group  has  lost  many  of  its  supplies  and  some  of  its \nweapons to the river. Norman takes stock. All your knives are \nsafe, but the hatchets and rifles were packed separately. You \nsearch for the lost items.",
+      "sourceLocation": "pdf:visual:[[12,10],[12,11],[12,12],[12,13]]"
+    },
+    {
+      "id": "13:p3",
+      "kind": "body",
+      "text": "If you took damage in the river, you may attempt a First Aid roll. \nIf you succeed, recover 1D3 damage. Lose 1D3 of your hatchets. You \nhave 1D3+1 rifles left. Choose how to distribute them between the \nmembers of the party. Now make a Luck roll: if you succeed, go to \n25; if you fail, go to 22. ",
+      "sourceLocation": "pdf:visual:[[12,14],[12,15],[12,16],[12,17],[12,18]]"
+    },
+    {
+      "id": "13:p4",
+      "kind": "trace",
+      "text": "(12) ",
+      "sourceLocation": "pdf:visual:[[12,19]]"
+    }
+  ]
+}

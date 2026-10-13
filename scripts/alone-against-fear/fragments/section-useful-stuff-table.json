@@ -1,0 +1,694 @@
+{
+  "id": "section-useful-stuff-table",
+  "paragraphs": [
+    {
+      "id": "section-useful-stuff-table:p0000",
+      "kind": "body",
+      "text": "Useful stuff table (d66)\n",
+      "sourceLocation": "pdf:spans:[[25,22,47]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0001",
+      "kind": "body",
+      "text": "11 d6 jars of cat food (all jars count as 1 carried item). They may be used\n",
+      "sourceLocation": "pdf:spans:[[25,47,123]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0002",
+      "kind": "body",
+      "text": "as 1 Food each or to avoid one encounter with a cat-like monster.\n",
+      "sourceLocation": "pdf:spans:[[25,123,189]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0003",
+      "kind": "body",
+      "text": "12 Flower bunch/present. Use once to gain a +1 on a Charisma roll.\n",
+      "sourceLocation": "pdf:spans:[[25,189,256]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0004",
+      "kind": "body",
+      "text": "13 Small bell. Useful for some spells.  Negligible weight.\n",
+      "sourceLocation": "pdf:spans:[[25,256,315]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0005",
+      "kind": "body",
+      "text": "14 Backpack. You may carry 15 objects instead of 10.\n",
+      "sourceLocation": "pdf:spans:[[25,315,368]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0006",
+      "kind": "body",
+      "text": "15\n",
+      "sourceLocation": "pdf:spans:[[25,368,371]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0007",
+      "kind": "body",
+      "text": "Body armor. The body armor has 4 Life points. Every time you take\n",
+      "sourceLocation": "pdf:spans:[[25,371,437]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0008",
+      "kind": "body",
+      "text": "damage, roll d6. On a 1-3, you take damage normally. On a 4 or 5, you\n",
+      "sourceLocation": "pdf:spans:[[25,437,507]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0009",
+      "kind": "body",
+      "text": "take the damage off the body armor. On a 6, the damage bounces off\n",
+      "sourceLocation": "pdf:spans:[[25,507,574]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0010",
+      "kind": "body",
+      "text": "the body armor and is ignored. When the body armor loses its last Life,\n",
+      "sourceLocation": "pdf:spans:[[25,574,646]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0011",
+      "kind": "body",
+      "text": "it is rendered useless. Wearing body armor counts as carrying 2 objects.\n",
+      "sourceLocation": "pdf:spans:[[25,646,719]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0012",
+      "kind": "body",
+      "text": "16 Butterfly collection.\n",
+      "sourceLocation": "pdf:spans:[[25,719,744]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0013",
+      "kind": "body",
+      "text": "21 Martial arts handbook. Reduce by 1 XP the cost for learning the\n",
+      "sourceLocation": "pdf:spans:[[25,744,811]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0014",
+      "kind": "body",
+      "text": "Fighter Skill, but not the Fighter Skill at expert level.\n",
+      "sourceLocation": "pdf:spans:[[25,811,869]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0015",
+      "kind": "body",
+      "text": "22\n",
+      "sourceLocation": "pdf:spans:[[25,869,872]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0016",
+      "kind": "body",
+      "text": "Antique flail weapon. If you roll a 6, it inflicts Damage 2 instead of 1.\n",
+      "sourceLocation": "pdf:spans:[[25,872,946]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0017",
+      "kind": "body",
+      "text": "If you roll a 1 when attacking, however, you hit yourself for 1 damage.\n",
+      "sourceLocation": "pdf:spans:[[25,946,1018]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0018",
+      "kind": "body",
+      "text": "You may spend 2 XP to train with the flail and remove the chance of\n",
+      "sourceLocation": "pdf:spans:[[25,1018,1086]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0019",
+      "kind": "body",
+      "text": "hitting yourself.\n",
+      "sourceLocation": "pdf:spans:[[25,1086,1104]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0020",
+      "kind": "body",
+      "text": "23\n",
+      "sourceLocation": "pdf:spans:[[25,1104,1107]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0021",
+      "kind": "body",
+      "text": "Cheap holy symbol/beads. You may use it against creatures that are\n",
+      "sourceLocation": "pdf:spans:[[25,1107,1174]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0022",
+      "kind": "body",
+      "text": "susceptible to holy symbols, but if you roll a 1 it breaks and must be\n",
+      "sourceLocation": "pdf:spans:[[25,1174,1245]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0023",
+      "kind": "body",
+      "text": "discarded.  Negligible weight.\n",
+      "sourceLocation": "pdf:spans:[[25,1245,1276]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0024",
+      "kind": "body",
+      "text": "24 Toy. You may sacrifice it to gain a +1 on an Escape roll or Charisma\n",
+      "sourceLocation": "pdf:spans:[[25,1276,1348]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0025",
+      "kind": "body",
+      "text": "roll with any encounter described as a “child” or “kid”.\n",
+      "sourceLocation": "pdf:spans:[[25,1348,1405]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0026",
+      "kind": "body",
+      "text": "25 Box of essential oils. Useful for some rituals.\n",
+      "sourceLocation": "pdf:spans:[[25,1405,1456]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0027",
+      "kind": "body",
+      "text": "26\n",
+      "sourceLocation": "pdf:spans:[[25,1456,1459]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0028",
+      "kind": "body",
+      "text": "Book of Inspirational Quotes. If you spend 1 XP and read this, you\n",
+      "sourceLocation": "pdf:spans:[[25,1459,1526]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0029",
+      "kind": "body",
+      "text": "gain +1 to your next 3 rolls to avoid Sanity loss. After you have used\n",
+      "sourceLocation": "pdf:spans:[[25,1526,1597]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0030",
+      "kind": "body",
+      "text": "this bonus 3 times, even if the rolls fail, the bonus is lost and you do\n",
+      "sourceLocation": "pdf:spans:[[25,1597,1670]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0031",
+      "kind": "body",
+      "text": "not again any other benefits from reading this book.\n",
+      "sourceLocation": "pdf:spans:[[25,1670,1723]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0032",
+      "kind": "body",
+      "text": "31\n",
+      "sourceLocation": "pdf:spans:[[25,1723,1726]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0033",
+      "kind": "body",
+      "text": "Egyptian scarab. You gain +1 to Defense rolls against mummies.\n",
+      "sourceLocation": "pdf:spans:[[25,1726,1789]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0034",
+      "kind": "body",
+      "text": "After an encounter with a mummy, the scarab loses its powers and\n",
+      "sourceLocation": "pdf:spans:[[25,1789,1854]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0035",
+      "kind": "body",
+      "text": "the bonus is lost. Negligible weight.\n",
+      "sourceLocation": "pdf:spans:[[25,1854,1892]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0036",
+      "kind": "body",
+      "text": "32 Dog toy. You may sacrifice it to gain a +1 on an Escape roll to flee\n",
+      "sourceLocation": "pdf:spans:[[25,1892,1964]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0037",
+      "kind": "body",
+      "text": "from an encounter with any dog or hound creature.",
+      "sourceLocation": "pdf:spans:[[25,1964,2013]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0038",
+      "kind": "body",
+      "text": "Useful stuff table (continued, d66)\n",
+      "sourceLocation": "pdf:spans:[[26,22,58]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0039",
+      "kind": "body",
+      "text": "33 Stuffed bird. If you meet a bird-shaped demon, its first attack will be\n",
+      "sourceLocation": "pdf:spans:[[26,58,133]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0040",
+      "kind": "body",
+      "text": "directed at the Stuffed bird, that will be destroyed.\n",
+      "sourceLocation": "pdf:spans:[[26,133,187]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0041",
+      "kind": "body",
+      "text": "34\n",
+      "sourceLocation": "pdf:spans:[[26,187,190]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0042",
+      "kind": "body",
+      "text": "Helmet.  This full biker’s helmet has 3 Life points and can protect your\n",
+      "sourceLocation": "pdf:spans:[[26,190,263]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0043",
+      "kind": "body",
+      "text": "head. Every time you take damage, roll d6. On a 1-5, you take damage\n",
+      "sourceLocation": "pdf:spans:[[26,263,332]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0044",
+      "kind": "body",
+      "text": "normally. On a 6, the helmet takes the damage instead. When the\n",
+      "sourceLocation": "pdf:spans:[[26,332,396]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0045",
+      "kind": "body",
+      "text": "helmet loses its last Life, it is rendered useless. If worn, the weight of\n",
+      "sourceLocation": "pdf:spans:[[26,396,471]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0046",
+      "kind": "body",
+      "text": "the helmet is negligible. If carried, it counts as 1 object. If the helmet\n",
+      "sourceLocation": "pdf:spans:[[26,471,546]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0047",
+      "kind": "body",
+      "text": "and the body armor are worn in conjunction, on a 3, 5 or 5 you take\n",
+      "sourceLocation": "pdf:spans:[[26,546,614]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0048",
+      "kind": "body",
+      "text": "damage off the body armor and on a 6 you take damage off the helmet.\n",
+      "sourceLocation": "pdf:spans:[[26,614,683]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0049",
+      "kind": "body",
+      "text": "35\n",
+      "sourceLocation": "pdf:spans:[[26,683,686]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0050",
+      "kind": "body",
+      "text": "d3 bottles of liquor. If you drink a whole bottle before an encounter,\n",
+      "sourceLocation": "pdf:spans:[[26,686,757]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0051",
+      "kind": "body",
+      "text": "you will fight at -1 on Attack and Defense rolls, but you may ignore the\n",
+      "sourceLocation": "pdf:spans:[[26,757,830]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0052",
+      "kind": "body",
+      "text": "first point of Sanity lost in that encounter. While drunk, you may not\n",
+      "sourceLocation": "pdf:spans:[[26,830,901]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0053",
+      "kind": "body",
+      "text": "perform Exorcism or any ritual, and you may not learn anything from\n",
+      "sourceLocation": "pdf:spans:[[26,901,969]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0054",
+      "kind": "body",
+      "text": "books. The effect lasts for d6 boxes. You may shorten its duration by 1\n",
+      "sourceLocation": "pdf:spans:[[26,969,1041]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0055",
+      "kind": "body",
+      "text": "box by drinking coffee.\n",
+      "sourceLocation": "pdf:spans:[[26,1041,1065]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0056",
+      "kind": "body",
+      "text": "36 Strong coffee. Drink to reduce the effect of liquor, above. This is\n",
+      "sourceLocation": "pdf:spans:[[26,1065,1136]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0057",
+      "kind": "body",
+      "text": "enough for drinking 6 times.\n",
+      "sourceLocation": "pdf:spans:[[26,1136,1165]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0058",
+      "kind": "body",
+      "text": "41 2d6 candles. Useful for many spells.\n",
+      "sourceLocation": "pdf:spans:[[26,1165,1205]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0059",
+      "kind": "body",
+      "text": "42\n",
+      "sourceLocation": "pdf:spans:[[26,1205,1208]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0060",
+      "kind": "body",
+      "text": "Flashlight. This is a source of light; it may be used as a ranged weapon to\n",
+      "sourceLocation": "pdf:spans:[[26,1208,1284]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0061",
+      "kind": "body",
+      "text": "attack shadow creatures at +2, damage 1. After each encounter with\n",
+      "sourceLocation": "pdf:spans:[[26,1284,1351]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0062",
+      "kind": "body",
+      "text": "shadow creatures, there is a 1 in 6 chance of the batteries running out.\n",
+      "sourceLocation": "pdf:spans:[[26,1351,1424]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0063",
+      "kind": "body",
+      "text": "43 Box of matches. Useful to start a fire or to use a Molotov cocktail.\n",
+      "sourceLocation": "pdf:spans:[[26,1424,1496]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0064",
+      "kind": "body",
+      "text": "44 Grooming/beauty products as appropriate to your gender. When\n",
+      "sourceLocation": "pdf:spans:[[26,1496,1560]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0065",
+      "kind": "body",
+      "text": "you use this, you get a +1 to your single next Charisma roll.\n",
+      "sourceLocation": "pdf:spans:[[26,1560,1622]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0066",
+      "kind": "body",
+      "text": "45\n",
+      "sourceLocation": "pdf:spans:[[26,1622,1625]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0067",
+      "kind": "body",
+      "text": "Bag of marbles. You may sacrifice them to gain a +1 to an Escape roll\n",
+      "sourceLocation": "pdf:spans:[[26,1625,1695]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0068",
+      "kind": "body",
+      "text": "against any creature that walks. Does not work with slithering, flying\n",
+      "sourceLocation": "pdf:spans:[[26,1695,1766]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0069",
+      "kind": "body",
+      "text": "or immaterial creatures (ghosts), or creatures like giant bugs,\n",
+      "sourceLocation": "pdf:spans:[[26,1766,1830]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0070",
+      "kind": "body",
+      "text": "tentacled horrors, giant slugs, and so on.\n",
+      "sourceLocation": "pdf:spans:[[26,1830,1873]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0071",
+      "kind": "body",
+      "text": "46 Bandages, plasters, disinfectant. Sacrifice them to heal 1 Life.\n",
+      "sourceLocation": "pdf:spans:[[26,1873,1941]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0072",
+      "kind": "body",
+      "text": "51 Protein bars. This count as 1 Food point, negligible weight.\n",
+      "sourceLocation": "pdf:spans:[[26,1941,2005]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0073",
+      "kind": "body",
+      "text": "52\n",
+      "sourceLocation": "pdf:spans:[[26,2005,2008]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0074",
+      "kind": "body",
+      "text": "d6 Energy drinks. These count as 1 Food point each. However they\n",
+      "sourceLocation": "pdf:spans:[[26,2008,2073]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0075",
+      "kind": "body",
+      "text": "should be used together with regular Food points. If you use them\n",
+      "sourceLocation": "pdf:spans:[[26,2073,2139]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0076",
+      "kind": "body",
+      "text": "twice in a row, you get a -1 on all Magic rolls.\n",
+      "sourceLocation": "pdf:spans:[[26,2139,2188]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0077",
+      "kind": "body",
+      "text": "53 Kitchen knife. Damage 1, -1 on Attack rolls. It breaks if you roll a 1\n",
+      "sourceLocation": "pdf:spans:[[26,2188,2262]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0078",
+      "kind": "body",
+      "text": "on the Attack roll.",
+      "sourceLocation": "pdf:spans:[[26,2262,2281]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0079",
+      "kind": "body",
+      "text": "Useful stuff table (continued, d66)\n",
+      "sourceLocation": "pdf:spans:[[27,22,58]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0080",
+      "kind": "body",
+      "text": "54 Cell phone. There is no reception or electricity to recharge it. Negligible\n",
+      "sourceLocation": "pdf:spans:[[27,58,137]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0081",
+      "kind": "body",
+      "text": "weight.\n",
+      "sourceLocation": "pdf:spans:[[27,137,145]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0082",
+      "kind": "body",
+      "text": "55 d6 plastic jars. May be used to collect samples.\n",
+      "sourceLocation": "pdf:spans:[[27,145,197]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0083",
+      "kind": "body",
+      "text": "56\n",
+      "sourceLocation": "pdf:spans:[[27,197,200]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0084",
+      "kind": "body",
+      "text": "Dark clothes. Once per game, you can claim a +1 bonus to a Stealth\n",
+      "sourceLocation": "pdf:spans:[[27,200,267]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0085",
+      "kind": "body",
+      "text": "roll if you wear these clothes. You may wear only one set of clothes at\n",
+      "sourceLocation": "pdf:spans:[[27,267,339]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0086",
+      "kind": "body",
+      "text": "a time. Worn clothes have negligible weight. Carried clothes count as\n",
+      "sourceLocation": "pdf:spans:[[27,339,409]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0087",
+      "kind": "body",
+      "text": "1 carried object.\n",
+      "sourceLocation": "pdf:spans:[[27,409,427]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0088",
+      "kind": "body",
+      "text": "61\n",
+      "sourceLocation": "pdf:spans:[[27,427,430]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0089",
+      "kind": "body",
+      "text": "Stylish clothes.  Once per game, you can claim a +1 bonus to a\n",
+      "sourceLocation": "pdf:spans:[[27,430,493]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0090",
+      "kind": "body",
+      "text": "Charisma roll if you wear these clothes. You may wear only one set of\n",
+      "sourceLocation": "pdf:spans:[[27,493,563]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0091",
+      "kind": "body",
+      "text": "clothes at a time. Worn clothes have negligible weight. Carried clothes\n",
+      "sourceLocation": "pdf:spans:[[27,563,635]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0092",
+      "kind": "body",
+      "text": "count as 1 carried object.\n",
+      "sourceLocation": "pdf:spans:[[27,635,662]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0093",
+      "kind": "body",
+      "text": "62\n",
+      "sourceLocation": "pdf:spans:[[27,662,665]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0094",
+      "kind": "body",
+      "text": "Sport clothes. Once per game, you may claim a +1 bonus to an Escape\n",
+      "sourceLocation": "pdf:spans:[[27,665,733]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0095",
+      "kind": "body",
+      "text": "roll if you wear these clothes. You may wear only one set of clothes at\n",
+      "sourceLocation": "pdf:spans:[[27,733,805]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0096",
+      "kind": "body",
+      "text": "a time. Worn clothes have negligible weight. Carried clothes count as\n",
+      "sourceLocation": "pdf:spans:[[27,805,875]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0097",
+      "kind": "body",
+      "text": "1 carried object.\n",
+      "sourceLocation": "pdf:spans:[[27,875,893]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0098",
+      "kind": "body",
+      "text": "63 Hockey stick/ golf club. This may be used as a two-handed weapon.\n",
+      "sourceLocation": "pdf:spans:[[27,893,962]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0099",
+      "kind": "body",
+      "text": "Damage 1, or Damage 2 on an explosive die roll (6 on the Attack roll).\n",
+      "sourceLocation": "pdf:spans:[[27,962,1033]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0100",
+      "kind": "body",
+      "text": "64\n",
+      "sourceLocation": "pdf:spans:[[27,1033,1036]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0101",
+      "kind": "body",
+      "text": "Molotov cocktail. This can be thrown as a one use weapon. It allows\n",
+      "sourceLocation": "pdf:spans:[[27,1036,1104]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0102",
+      "kind": "body",
+      "text": "you to automatically destroy 1 zombie or perform an Attack roll at +2\n",
+      "sourceLocation": "pdf:spans:[[27,1104,1174]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0103",
+      "kind": "body",
+      "text": "against any other opponent. You need a lighter or a box of matches to\n",
+      "sourceLocation": "pdf:spans:[[27,1174,1244]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0104",
+      "kind": "body",
+      "text": "use this. This is considered fire damage so it can destroy vampires\n",
+      "sourceLocation": "pdf:spans:[[27,1244,1312]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0105",
+      "kind": "body",
+      "text": "permanently.\n",
+      "sourceLocation": "pdf:spans:[[27,1312,1325]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0106",
+      "kind": "body",
+      "text": "65\n",
+      "sourceLocation": "pdf:spans:[[27,1325,1328]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0107",
+      "kind": "body",
+      "text": "Silver ring. May be turned into a single silver bullet if you have\n",
+      "sourceLocation": "pdf:spans:[[27,1328,1395]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0108",
+      "kind": "body",
+      "text": "smelting equipment, or just used in  a shotgun shell. Negligible\n",
+      "sourceLocation": "pdf:spans:[[27,1395,1460]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0109",
+      "kind": "body",
+      "text": "weight.\n",
+      "sourceLocation": "pdf:spans:[[27,1460,1468]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0110",
+      "kind": "body",
+      "text": "66\n",
+      "sourceLocation": "pdf:spans:[[27,1468,1471]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0111",
+      "kind": "body",
+      "text": "Gas Mask. If you wear it, it does not count as a carried item and you\n",
+      "sourceLocation": "pdf:spans:[[27,1471,1541]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0112",
+      "kind": "body",
+      "text": "are immune to the effect of any gas or respiratory agent. If you carry\n",
+      "sourceLocation": "pdf:spans:[[27,1541,1612]]"
+    },
+    {
+      "id": "section-useful-stuff-table:p0113",
+      "kind": "body",
+      "text": "it, it counts as a carried object and it can be worn in 1 Action.",
+      "sourceLocation": "pdf:spans:[[27,1612,1677]]"
+    }
+  ],
+  "sourcePages": [
+    25,
+    26,
+    27
+  ]
+}

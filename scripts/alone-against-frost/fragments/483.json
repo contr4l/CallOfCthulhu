@@ -1,0 +1,36 @@
+{
+  "id": "483",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "483:p0",
+      "kind": "heading",
+      "text": "483",
+      "sourceLocation": "pdf:visual:[[85,22]]"
+    },
+    {
+      "id": "483:p1",
+      "kind": "body",
+      "text": "Your party takes a break and Sylvia steps out of sight for a \nfew minutes. After a time, you become concerned and call her \nname. There is no answer.",
+      "sourceLocation": "pdf:visual:[[85,24],[85,26],[85,27]]"
+    },
+    {
+      "id": "483:p2",
+      "kind": "body",
+      "text": "You search the bushes thoroughly, but find nothing except \nher  tracks  commingled  with  those  of…  a  giant.  Norman \nexamines them and shakes his head. When he stands up, you \nsee a weariness that you recognize in yourself. Could you really \nbe thinking of abandoning Sylvia? ",
+      "sourceLocation": "pdf:visual:[[85,29],[85,30],[85,31],[85,32],[85,33]]"
+    },
+    {
+      "id": "483:p3",
+      "kind": "body",
+      "text": "To follow the tracks, go to 484. To ignore them and leave the valley, \ngo to 278. To ignore them and head into the valley, go to 38.",
+      "sourceLocation": "pdf:visual:[[85,34],[85,35]]"
+    },
+    {
+      "id": "483:p4",
+      "kind": "trace",
+      "text": "(216, 551)",
+      "sourceLocation": "pdf:visual:[[85,36]]"
+    }
+  ]
+}

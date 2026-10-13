@@ -1,0 +1,30 @@
+{
+  "id": "593",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "593:p0",
+      "kind": "heading",
+      "text": "593",
+      "sourceLocation": "pdf:visual:[[100,49]]"
+    },
+    {
+      "id": "593:p1",
+      "kind": "body",
+      "text": "You  pass  the  “place  of  splitting  water”  with  no  particular \ndifficulty and reach the calmer waterways of the West Branch. \nThe foraging is ample now, and you recover strength as you \ndraw near to Fort McDonald.",
+      "sourceLocation": "pdf:visual:[[100,50],[100,51],[100,52],[100,53]]"
+    },
+    {
+      "id": "593:p2",
+      "kind": "body",
+      "text": "Go to 433.",
+      "sourceLocation": "pdf:visual:[[100,54]]"
+    },
+    {
+      "id": "593:p3",
+      "kind": "trace",
+      "text": "(513, 579, 598, 599, 602, 603)",
+      "sourceLocation": "pdf:visual:[[100,55]]"
+    }
+  ]
+}

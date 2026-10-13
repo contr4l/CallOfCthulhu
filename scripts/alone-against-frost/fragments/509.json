@@ -1,0 +1,30 @@
+{
+  "id": "509",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "509:p0",
+      "kind": "heading",
+      "text": "509",
+      "sourceLocation": "pdf:visual:[[88,45]]"
+    },
+    {
+      "id": "509:p1",
+      "kind": "body",
+      "text": "Fearing to touch the repulsive carcass, you use a dead branch to \nlever it into a ditch. You cut some shrubs to cover it and then \nreturn to the cave. By morning it appears safe to continue on \nyour way.",
+      "sourceLocation": "pdf:visual:[[88,46],[88,47],[88,48],[88,49]]"
+    },
+    {
+      "id": "509:p2",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity for dispatching the creature. Go to 513.",
+      "sourceLocation": "pdf:visual:[[88,50]]"
+    },
+    {
+      "id": "509:p3",
+      "kind": "trace",
+      "text": "(508)",
+      "sourceLocation": "pdf:visual:[[88,51]]"
+    }
+  ]
+}

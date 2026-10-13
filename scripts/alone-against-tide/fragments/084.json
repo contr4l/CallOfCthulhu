@@ -1,0 +1,66 @@
+{
+  "id": "84",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "84:p0",
+      "kind": "heading",
+      "text": "84\n",
+      "sourceLocation": "pdf:spans:[[31,44,47]]"
+    },
+    {
+      "id": "84:p1",
+      "kind": "body",
+      "text": "Officer Powell glowers at your every little action. Despite his \nlaziness, he keeps a close eye on you, and you won’t be slipping \naway any time soon. No matter what words you try, he ignores \nyour pleas for release. The hours drag on. As the two of you sit \nalone in the room, the air becomes warm and stifling. Powell \nopens a window to let the room air out.\n",
+      "sourceLocation": "pdf:spans:[[31,47,112],[31,112,178],[31,178,240],[31,240,306],[31,306,368],[31,368,408]]"
+    },
+    {
+      "id": "84:p2",
+      "kind": "body",
+      "text": "You stare out into the green fog and feel a great sense of \nunease, as if something is staring back at you. You shake off  \nthis irrational fear and busy your mind with thoughts of how to \nobtain your freedom.\n",
+      "sourceLocation": "pdf:spans:[[31,408,468],[31,468,532],[31,532,597],[31,597,618]]"
+    },
+    {
+      "id": "84:p3",
+      "kind": "body",
+      "text": "You don’t ponder for long. Your sense of unease grows greater \nuntil it’s all-consuming. You know that something is coming. \nYou hear the shouting first. People panicking in the streets. \nOfficer Powell jerks out of his silent vigil when the shouting \nbegins, before rushing outside to restore order.\n",
+      "sourceLocation": "pdf:spans:[[31,618,681],[31,681,743],[31,743,806],[31,806,870],[31,870,919]]"
+    },
+    {
+      "id": "84:p4",
+      "kind": "body",
+      "text": "He’s gone for quite some time and the shouting continues. \nAnd then the water rises, seeping through the doorway and \ninto the small building that you’re stuck in. At first it merely \nwets the floor, but soon you’re up to your ankles in it. Then your \nknees. Then your waist. In the course of a few hours, it rises \nwith little sign of stopping. Between the bars, the fog, and the \nwater, you feel thoroughly trapped.\n",
+      "sourceLocation": "pdf:spans:[[31,919,978],[31,978,1037],[31,1037,1103],[31,1103,1171],[31,1171,1235],[31,1235,1301],[31,1301,1337]]"
+    },
+    {
+      "id": "84:p5",
+      "kind": "body",
+      "text": "Real madness overtakes you now. You swear that you can \nmake out strange and alien shapes within the swirling mists—\nhorrible, flabby things with slender limbs and sagging features. \nThey are decidedly unhuman. When these hallucinations—for \nthat is what they must surely be—begin, you hear the shouts \nturn to full-fledged screams, and then die out in the night, \nchoked by the mist.\n",
+      "sourceLocation": "pdf:spans:[[31,1337,1393],[31,1393,1454],[31,1454,1520],[31,1520,1579],[31,1579,1640],[31,1640,1702],[31,1702,1722]]"
+    },
+    {
+      "id": "84:p6",
+      "kind": "body",
+      "text": "Through the window, you see the light from multiple \nfires glowing within Esbury, illuminating and consuming \neverything, even as the water rises to swallow up the town. You \nsmell the smoke mingling with the fog.\n",
+      "sourceLocation": "pdf:spans:[[31,1722,1775],[31,1775,1832],[31,1832,1897],[31,1897,1936]]"
+    },
+    {
+      "id": "84:p7",
+      "kind": "body",
+      "text": "You try to convince yourself that you’re having a panic attack, \nthat this is all a dream, that this isn’t real. You don’t know what \nis happening, or why. You have no idea how these cruel and \nunnaturally horrific things came to be. You have no idea why \nthey emerged from that eerie fog. You don’t know any of the \nreasons for this.\n",
+      "sourceLocation": "pdf:spans:[[31,1936,2001],[31,2001,2070],[31,2070,2130],[31,2130,2192],[31,2192,2253],[31,2253,2271]]"
+    },
+    {
+      "id": "84:p8",
+      "kind": "body",
+      "text": "And you never will. The water rises, and you float upwards, \ngasping for air with only inches between you and the ceiling. As \nthe water rises over your head, your lungs fill, and you drown. \nYou have died. As it stands, your character died ignorant of the nature \nof these unholy horrors, and perhaps that is for the best. If you wish, \nyou may begin again and try for a better outcome, or at least one that \nexplains the goings-on further. For now, though, your visit to Esbury \nis over. THE END.\n",
+      "sourceLocation": "pdf:spans:[[31,2271,2332],[31,2332,2398],[31,2398,2463],[31,2463,2536],[31,2536,2609],[31,2609,2681],[31,2681,2752],[31,2752,2770]]"
+    },
+    {
+      "id": "84:p9",
+      "kind": "body",
+      "text": "(65)\n",
+      "sourceLocation": "pdf:spans:[[31,2770,2775]]"
+    }
+  ]
+}

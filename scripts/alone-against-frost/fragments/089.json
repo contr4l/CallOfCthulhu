@@ -1,0 +1,30 @@
+{
+  "id": "89",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "89:p0",
+      "kind": "heading",
+      "text": "89",
+      "sourceLocation": "pdf:visual:[[25,41]]"
+    },
+    {
+      "id": "89:p1",
+      "kind": "body",
+      "text": "Your  students  grumble.  There  is  some  talk  about  turning \nback.  You  sit  down  with  them  and  talk  about  the  harsh \nrealities of the field and how no significant discovery was \never  made  by  an  expedition  that  lacked  courage.  In  time, \nthey agree to continue.",
+      "sourceLocation": "pdf:visual:[[25,42],[25,43],[25,44],[25,45],[25,46]]"
+    },
+    {
+      "id": "89:p2",
+      "kind": "body",
+      "text": "If any of your party require healing, you may restore 1 hit point \neach. Make a Luck roll: if you succeed, go to 90; if you fail, go to 85. ",
+      "sourceLocation": "pdf:visual:[[25,47],[25,48]]"
+    },
+    {
+      "id": "89:p3",
+      "kind": "trace",
+      "text": "(299, 300, 424, 498)",
+      "sourceLocation": "pdf:visual:[[25,49]]"
+    }
+  ]
+}

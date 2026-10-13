@@ -1,0 +1,36 @@
+{
+  "id": "167",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "167:p0",
+      "kind": "heading",
+      "text": "167",
+      "sourceLocation": "pdf:visual:[[38,28]]"
+    },
+    {
+      "id": "167:p1",
+      "kind": "body",
+      "text": "Feeling like an avenging Ahab who has found his white whale, \nyou lift your rifle to your shoulder and fire into the central eye \nof the cold-killer.",
+      "sourceLocation": "pdf:visual:[[38,29],[38,30],[38,31]]"
+    },
+    {
+      "id": "167:p2",
+      "kind": "body",
+      "text": "The creature is within your rifle’s base range. If you miss, go to 170. \nIf you hit, go to 168.",
+      "sourceLocation": "pdf:visual:[[38,32],[38,33]]"
+    },
+    {
+      "id": "167:p3",
+      "kind": "trace",
+      "text": "(166) ",
+      "sourceLocation": "pdf:visual:[[38,34]]"
+    },
+    {
+      "id": "167:p4",
+      "kind": "body",
+      "text": "37",
+      "sourceLocation": "pdf:visual:[[38,35]]"
+    }
+  ]
+}

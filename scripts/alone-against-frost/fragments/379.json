@@ -1,0 +1,30 @@
+{
+  "id": "379",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "379:p0",
+      "kind": "heading",
+      "text": "379",
+      "sourceLocation": "pdf:visual:[[68,63]]"
+    },
+    {
+      "id": "379:p1",
+      "kind": "body",
+      "text": "You  raise  a  torch  to  illuminate  the  body  on  the  floor  of \nthe  cave.  It  is  a  man-ape  of  incredible  musculature.  Your \nexamination satisfies you that this must be what northern \nlegend calls a sasquatch. You have the physical evidence here \nto prove your discovery.",
+      "sourceLocation": "pdf:visual:[[68,64],[68,65],[68,66],[68,67],[68,68]]"
+    },
+    {
+      "id": "379:p2",
+      "kind": "body",
+      "text": "If you take the sasquatch head as a specimen, record the keyword \nSTOCKHOUSE. Then, go to 513.",
+      "sourceLocation": "pdf:visual:[[68,69],[68,70]]"
+    },
+    {
+      "id": "379:p3",
+      "kind": "trace",
+      "text": "(373, 378)",
+      "sourceLocation": "pdf:visual:[[68,71]]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "479",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "479:p0",
+      "kind": "heading",
+      "text": "479",
+      "sourceLocation": "pdf:visual:[[84,45]]"
+    },
+    {
+      "id": "479:p1",
+      "kind": "body",
+      "text": "Each of you with a rifle starts firing at the alien creatures. One \nof them grabs a twisted silvery device and points it at you. A \nbeam strikes the rock you crouch behind!",
+      "sourceLocation": "pdf:visual:[[84,46],[84,47],[84,48]]"
+    },
+    {
+      "id": "479:p2",
+      "kind": "body",
+      "text": "Ice crystals form before your eyes, coating the surface of the \nrock. Fragments shatter off with a loud crack. ",
+      "sourceLocation": "pdf:visual:[[84,49],[84,50]]"
+    },
+    {
+      "id": "479:p3",
+      "kind": "body",
+      "text": "You hit that alien in its midriff, and it falls.",
+      "sourceLocation": "pdf:visual:[[84,51]]"
+    },
+    {
+      "id": "479:p4",
+      "kind": "body",
+      "text": "Gain 1 point of Cthulhu Mythos. Roll for rifle attacks. If you and \nNorman can hit twice more in the next four shots, you may drive \noff the other aliens before they can get to their weapons. If so, go to \n381. If not, go to 380.",
+      "sourceLocation": "pdf:visual:[[84,52],[84,53],[84,54],[84,55]]"
+    },
+    {
+      "id": "479:p5",
+      "kind": "trace",
+      "text": "(477)",
+      "sourceLocation": "pdf:visual:[[84,56]]"
+    }
+  ]
+}

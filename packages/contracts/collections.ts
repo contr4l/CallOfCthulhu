@@ -11,7 +11,6 @@ export type CollectionEntry = {
 };
 export type StoryCollection = {
   storyId: string;
-  version: string;
   title: string;
   cover: string;
   chapters: { total: number; entries: CollectionEntry[] };

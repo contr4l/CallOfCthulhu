@@ -1,0 +1,200 @@
+{
+  "id": "section-place-of-worship-table",
+  "paragraphs": [
+    {
+      "id": "section-place-of-worship-table:p0000",
+      "kind": "body",
+      "text": "Place of worship table (d6)\n",
+      "sourceLocation": "pdf:spans:[[46,22,50]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0001",
+      "kind": "body",
+      "text": "1\n",
+      "sourceLocation": "pdf:spans:[[46,50,52]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0002",
+      "kind": "body",
+      "text": "This peaceful place gives you a moment of respite. Recover 1 Sanity\n",
+      "sourceLocation": "pdf:spans:[[46,52,120]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0003",
+      "kind": "body",
+      "text": "or 1 Life, your choice. You may create a Safe House here. If you do\n",
+      "sourceLocation": "pdf:spans:[[46,120,188]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0004",
+      "kind": "body",
+      "text": "so, you may heal up to 2 Sanity and 4 Life every time you visit this\n",
+      "sourceLocation": "pdf:spans:[[46,188,257]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0005",
+      "kind": "body",
+      "text": "box. You do not have to roll for random encounters when you visit\n",
+      "sourceLocation": "pdf:spans:[[46,257,323]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0006",
+      "kind": "body",
+      "text": "a Safe House. If there are already 3 Safe houses in play, when you\n",
+      "sourceLocation": "pdf:spans:[[46,323,390]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0007",
+      "kind": "body",
+      "text": "create a new Safe House the Safe House closest to your current\n",
+      "sourceLocation": "pdf:spans:[[46,390,453]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0008",
+      "kind": "body",
+      "text": "location is no longer a Safe House. To determine which is closest,\n",
+      "sourceLocation": "pdf:spans:[[46,453,520]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0009",
+      "kind": "body",
+      "text": "just count the number of boxes on the town map that you should\n",
+      "sourceLocation": "pdf:spans:[[46,520,583]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0010",
+      "kind": "body",
+      "text": "cross to reach that location. If there are two Safe Houses at the same\n",
+      "sourceLocation": "pdf:spans:[[46,583,654]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0011",
+      "kind": "body",
+      "text": "distance, choose randomly. When you visit the location that is no\n",
+      "sourceLocation": "pdf:spans:[[46,654,720]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0012",
+      "kind": "body",
+      "text": "longer a Safe House, you must roll a 1 in 6 chance of a random\n",
+      "sourceLocation": "pdf:spans:[[46,720,783]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0013",
+      "kind": "body",
+      "text": "encounter, just like for any already visited area.\n",
+      "sourceLocation": "pdf:spans:[[46,783,834]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0014",
+      "kind": "body",
+      "text": "2\n",
+      "sourceLocation": "pdf:spans:[[46,834,836]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0015",
+      "kind": "body",
+      "text": "Monsters attack! Play a random encounter inside this place of\n",
+      "sourceLocation": "pdf:spans:[[46,836,898]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0016",
+      "kind": "body",
+      "text": "worship. Roll d6 to determine on which table to roll: 1 Witch Children,\n",
+      "sourceLocation": "pdf:spans:[[46,898,970]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0017",
+      "kind": "body",
+      "text": "2 Undead (reroll any vampires - they won’t appear in a place of\n",
+      "sourceLocation": "pdf:spans:[[46,970,1034]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0018",
+      "kind": "body",
+      "text": "worship), 3 Slasher, 4 Possessed, 5 Demonic Horror, 6 Lab Horror.\n",
+      "sourceLocation": "pdf:spans:[[46,1034,1100]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0019",
+      "kind": "body",
+      "text": "If you do not defeat the creature, this location counts as a\n",
+      "sourceLocation": "pdf:spans:[[46,1100,1161]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0020",
+      "kind": "body",
+      "text": "deconsecrated church.\n",
+      "sourceLocation": "pdf:spans:[[46,1161,1183]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0021",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[46,1183,1185]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0022",
+      "kind": "body",
+      "text": "Choose: you either find a silver crucifix (you can keep it or turn it\n",
+      "sourceLocation": "pdf:spans:[[46,1185,1255]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0023",
+      "kind": "body",
+      "text": "into 2d6 silver bullets or 1 silver knife if you have smelting\n",
+      "sourceLocation": "pdf:spans:[[46,1255,1318]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0024",
+      "kind": "body",
+      "text": "equipment), OR you find 2 vials of holy water.\n",
+      "sourceLocation": "pdf:spans:[[46,1318,1365]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0025",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[46,1365,1367]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0026",
+      "kind": "body",
+      "text": "Under siege.  The church is besieged by 2d6 L3 zombies, Slow\n",
+      "sourceLocation": "pdf:spans:[[46,1367,1428]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0027",
+      "kind": "body",
+      "text": "Undead, damage 1, 1 Life point each. You may ignore the encounter.\n",
+      "sourceLocation": "pdf:spans:[[46,1428,1495]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0028",
+      "kind": "body",
+      "text": "If you destroy them all, you recover 1 Sanity or find a random item\n",
+      "sourceLocation": "pdf:spans:[[46,1495,1563]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0029",
+      "kind": "body",
+      "text": "from the Random Item or from the Useful Stuff table (your choice).\n",
+      "sourceLocation": "pdf:spans:[[46,1563,1630]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0030",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[46,1630,1632]]"
+    },
+    {
+      "id": "section-place-of-worship-table:p0031",
+      "kind": "body",
+      "text": "A priest with a mission. A priest gives you a mission (roll on the\n",
+      "sourceLocation": "pdf:spans:[[46,1632,1699]]"
+    }
+  ],
+  "sourcePages": [
+    46
+  ]
+}

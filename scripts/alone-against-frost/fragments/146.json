@@ -1,0 +1,30 @@
+{
+  "id": "146",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "146:p0",
+      "kind": "heading",
+      "text": "146",
+      "sourceLocation": "pdf:visual:[[33,76]]"
+    },
+    {
+      "id": "146:p1",
+      "kind": "body",
+      "text": "Something bangs into your shins and you fall face-first into \na layer of decaying pine needles. Your legs are snared by a \nkind of bolas. A glance shows you that Sylvia and Norman \nare similarly trapped.",
+      "sourceLocation": "pdf:visual:[[33,77],[33,78],[33,79],[33,80]]"
+    },
+    {
+      "id": "146:p2",
+      "kind": "body",
+      "text": "Go to 145.",
+      "sourceLocation": "pdf:visual:[[33,81]]"
+    },
+    {
+      "id": "146:p3",
+      "kind": "trace",
+      "text": "(113, 243, 247)",
+      "sourceLocation": "pdf:visual:[[33,82]]"
+    }
+  ]
+}

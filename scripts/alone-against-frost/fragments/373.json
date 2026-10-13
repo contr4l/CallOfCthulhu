@@ -1,0 +1,30 @@
+{
+  "id": "373",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "373:p0",
+      "kind": "heading",
+      "text": "373",
+      "sourceLocation": "pdf:visual:[[68,1]]"
+    },
+    {
+      "id": "373:p1",
+      "kind": "body",
+      "text": "With a scream, the immense creature staggers and collapses \nupon the flowstone at the cave’s rear.",
+      "sourceLocation": "pdf:visual:[[68,2],[68,3]]"
+    },
+    {
+      "id": "373:p2",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity. Go to 379.",
+      "sourceLocation": "pdf:visual:[[68,4]]"
+    },
+    {
+      "id": "373:p3",
+      "kind": "trace",
+      "text": "(325, 423)",
+      "sourceLocation": "pdf:visual:[[68,5]]"
+    }
+  ]
+}

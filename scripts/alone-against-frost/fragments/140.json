@@ -1,0 +1,36 @@
+{
+  "id": "140",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "140:p0",
+      "kind": "heading",
+      "text": "140",
+      "sourceLocation": "pdf:visual:[[32,63]]"
+    },
+    {
+      "id": "140:p1",
+      "kind": "body",
+      "text": "The  impaled  creature  gurgles  and  goes  stiff.  As  you  watch \nin amazement, his body shrinks and collapses in upon itself. \nSoon nothing is left but the bones; as though he had no real \nflesh to him.",
+      "sourceLocation": "pdf:visual:[[32,64],[32,65],[32,66],[32,67]]"
+    },
+    {
+      "id": "140:p2",
+      "kind": "body",
+      "text": "You, Norman, and Sylvia must begin the long retreat back to \nFort McDonald.",
+      "sourceLocation": "pdf:visual:[[32,68],[32,69]]"
+    },
+    {
+      "id": "140:p3",
+      "kind": "body",
+      "text": "Gain 1D6 Sanity for triumphing over the wind-walker. Go to 54.",
+      "sourceLocation": "pdf:visual:[[32,70]]"
+    },
+    {
+      "id": "140:p4",
+      "kind": "trace",
+      "text": "(106, 205)",
+      "sourceLocation": "pdf:visual:[[32,71]]"
+    }
+  ]
+}

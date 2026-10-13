@@ -1,0 +1,30 @@
+{
+  "id": "59",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "59:p0",
+      "kind": "heading",
+      "text": "59",
+      "sourceLocation": "pdf:visual:[[20,62]]"
+    },
+    {
+      "id": "59:p1",
+      "kind": "body",
+      "text": "You pick up the trail of tiny footprints. They look very fresh.",
+      "sourceLocation": "pdf:visual:[[20,63]]"
+    },
+    {
+      "id": "59:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll for the party member with the lowest skill: if \nsuccessful, go to 86; if failed, go to 85.",
+      "sourceLocation": "pdf:visual:[[20,64],[20,65]]"
+    },
+    {
+      "id": "59:p3",
+      "kind": "trace",
+      "text": "(58)",
+      "sourceLocation": "pdf:visual:[[20,66]]"
+    }
+  ]
+}

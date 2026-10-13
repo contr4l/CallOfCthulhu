@@ -1,0 +1,48 @@
+{
+  "id": "22",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "22:p0",
+      "kind": "heading",
+      "text": "22\n",
+      "sourceLocation": "pdf:spans:[[16,26,29]]"
+    },
+    {
+      "id": "22:p1",
+      "kind": "body",
+      "text": "You make your way to the stage, navigating around the many \nguests in the dance hall. Your eyes lock firmly on the woman, \nand hers rise to meet yours as she looks up from peeking at \none of the hidden objects. She stops what she’s doing as you \napproach and a smile appears on her lips as she notices that \nshe’s caught your eye.\n",
+      "sourceLocation": "pdf:spans:[[16,29,89],[16,89,152],[16,152,213],[16,213,275],[16,275,337],[16,337,360]]"
+    },
+    {
+      "id": "22:p2",
+      "kind": "body",
+      "text": "She rests her left hand on her hip as you come to stand at \nthe foot of the stage. The old man behind her continues his \ninspections, either unaware or uncaring that you’ve come to \ndistract them. The woman leans toward you over the edge \nof the stage. You can see her makeup has been painstakingly \napplied, despite her status as a recent widow.\n",
+      "sourceLocation": "pdf:spans:[[16,360,420],[16,420,481],[16,481,542],[16,542,599],[16,599,660],[16,660,707]]"
+    },
+    {
+      "id": "22:p3",
+      "kind": "body",
+      "text": "You clear your throat as you meet her gaze, and promptly \nintroduce yourself. She extends her hand to you formally. “Well, \naren’t you a new face in town?” she teases. “We get those quite a bit \nhere. No doubt you plan to bid on some of my late husband’s things. \nGood for both of us, I say. Just be sure to give a good price for little \nold me, alright?” She winks slyly at you.\n",
+      "sourceLocation": "pdf:spans:[[16,707,765],[16,765,831],[16,831,902],[16,902,971],[16,971,1045],[16,1045,1087]]"
+    },
+    {
+      "id": "22:p4",
+      "kind": "body",
+      "text": "You realize now would be a good time to get some more \ninformation from this woman who might be the most well-\ninformed regarding your interests. She certainly seems like the \nflirty sort and would probably respond well to more of the same.\n",
+      "sourceLocation": "pdf:spans:[[16,1087,1142],[16,1142,1198],[16,1198,1263],[16,1263,1328]]"
+    },
+    {
+      "id": "22:p5",
+      "kind": "body",
+      "text": "• Make a Charm roll: if you succeed, go to 43; if you fail, go to 57.\n",
+      "sourceLocation": "pdf:spans:[[16,1328,1398]]"
+    },
+    {
+      "id": "22:p6",
+      "kind": "body",
+      "text": "(15, 17)\n",
+      "sourceLocation": "pdf:spans:[[16,1398,1407]]"
+    }
+  ]
+}

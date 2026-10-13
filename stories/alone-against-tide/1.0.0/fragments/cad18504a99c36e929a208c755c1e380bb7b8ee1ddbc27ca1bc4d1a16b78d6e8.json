@@ -1,0 +1,38 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "80",
+    "80-104",
+    "80-18",
+    "80-71",
+    "80-33",
+    "80-63",
+    "80-4",
+    "80-41",
+    "80-23",
+    "80-woods"
+  ],
+  "text": [
+    "那女人显然看出了你身上某些令她喜欢的地方。也许是你的相貌，或你眼中闪烁的智慧。她狡黠地朝你眨眨眼，随后转回去和同伴交谈。你也把注意力转向其他乘客。",
+    "人群稍远处坐着两名穿着剪裁合身的深色西装的男子，他们低声交谈，脸上毫无笑意，似乎不太乐意来这里。也许他们是来办事的。",
+    "摆渡人注意到你独自坐着，便带着招牌式的笑容走到你身边，站在你面前。你注意到他左上方缺了一颗牙。他眼睛明亮，目光落在你身上。",
+    "“下午好！朋友，你看起来有点孤单。是什么风把你吹到埃斯伯里来的？”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 80",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 80",
+      "text": [
+        "The woman clearly sees something in you that she likes. Perhaps it’s your looks or a glint of intelligence in your eyes. She gives you a sly wink before turning back to her companions. You likewise turn your attention to the rest of the passengers.",
+        "Sitting apart from the general crowd are two men in dark, well-tailored suits, whispering quietly to each other. They have unamused expressions on their faces, as if they don’t seem pleased to be here. Perhaps they’re on business.",
+        "Noticing that you’re sitting alone, the ferryman approaches you and stands over you with his characteristic smile. You notice he’s missing a tooth in the upper left corner of his mouth. His eyes are bright as they light upon you.",
+        "“Good afternoon! You look a bit lonely there, friend. What brings you to Esbury?”"
+      ]
+    }
+  }
+}

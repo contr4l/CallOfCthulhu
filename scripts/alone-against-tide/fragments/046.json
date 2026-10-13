@@ -1,0 +1,60 @@
+{
+  "id": "46",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "46:p0",
+      "kind": "heading",
+      "text": "46\n",
+      "sourceLocation": "pdf:spans:[[21,2360,2363]]"
+    },
+    {
+      "id": "46:p1",
+      "kind": "body",
+      "text": "You imply that you know the right sort of people who might \nask the wrong sort of questions if you don’t get access to that \nreport.\n",
+      "sourceLocation": "pdf:spans:[[21,2363,2423],[21,2423,2488],[21,2488,2496]]"
+    },
+    {
+      "id": "46:p2",
+      "kind": "body",
+      "text": "You aren’t certain whether or not Officer Powell believes you, \nbut you can tell it’s more trouble than he’s willing to risk. With \na look of irritation, he thumbs through the stack of papers on \nhis desk before handing you the file you asked after.\n",
+      "sourceLocation": "pdf:spans:[[21,2496,2560],[21,2560,2628],[21,2628,2692],[21,2692,2746]]"
+    },
+    {
+      "id": "46:p3",
+      "kind": "body",
+      "text": "According to the report, Prof. Harris’ death is officially a \nsuicide. His death occurred at his home address. He was up \nlate one night in his study, where he stuck a gun into his mouth \nand painted the room red. His body was found the following \nafternoon by his wife, Amelia Harris. There was no note. The \ndeceased had no prior criminal history, and the gun found at \nthe scene hadn’t been used in any reported crimes. Overall, \nthe report is dry and minimalist. All requisite information is \npresent, but only to the barest standard of diligence.\n",
+      "sourceLocation": "pdf:spans:[[21,2746,2808],[21,2808,2868],[21,2868,2934],[21,2934,2994],[21,2994,3056],[21,3056,3118],[21,3118,3179],[21,3179,3243],[21,3243,3298]]"
+    },
+    {
+      "id": "46:p4",
+      "kind": "body",
+      "text": "Satisfied, you hand the file back to Powell, who grumbles and \ntucks it away before clearing his throat loudly and propping his \nfeet back up.\n",
+      "sourceLocation": "pdf:spans:[[21,3298,3361],[21,3361,3427],[21,3427,3441]]"
+    },
+    {
+      "id": "46:p5",
+      "kind": "body",
+      "text": "You feel that you have been given a cue to leave and that \nOfficer Powell will not likely be of much further help.\n",
+      "sourceLocation": "pdf:spans:[[21,3441,3500],[21,3500,3556]]"
+    },
+    {
+      "id": "46:p6",
+      "kind": "body",
+      "text": "• To go to the Harris household, go to 90.\n",
+      "sourceLocation": "pdf:spans:[[21,3556,3599]]"
+    },
+    {
+      "id": "46:p7",
+      "kind": "body",
+      "text": "• To return to the hotel, go to 122.\n",
+      "sourceLocation": "pdf:spans:[[21,3599,3636]]"
+    },
+    {
+      "id": "46:p8",
+      "kind": "body",
+      "text": "(11)\n",
+      "sourceLocation": "pdf:spans:[[21,3636,3641]]"
+    }
+  ]
+}

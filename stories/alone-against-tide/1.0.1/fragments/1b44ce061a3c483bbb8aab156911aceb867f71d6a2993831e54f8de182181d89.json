@@ -1,0 +1,32 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "184"
+  ],
+  "text": [
+    "你在夜色中行进，速度更慢，也更加谨慎，但从未停下。即便如此，你仍以轻快的步伐走了好几个小时，最后才强迫自己停下来，靠着一棵树小睡片刻。",
+    "你睡得很浅，辗转难眠，还梦见了可怕的事物：上涨的水和长着怪异面孔的丑陋生物；由大理石和宝石建成、摇摇欲坠的塔楼；以及在一座年代古老得无法想象的陌生城市里，熊熊燃烧的火焰和濒死者的尖叫。一个可怖而狰狞的蜥蜴状怪物从水中升起，恶意地朝你嘶嘶作响，你猛然惊醒。",
+    "你从睡梦中惊醒，心中极度不安，连忙环顾四周。你发现阳光灿烂，雾气也已消散。你振作起来，步伐平静许多，开始继续赶路。",
+    "又过了好几个小时，你终于找到公路。你沿着公路走了一阵，一辆汽车经过，载你去了波士顿。",
+    "你在波士顿住了几天，试图从在埃斯伯里的遭遇以及那段漫长的逃生路程中恢复过来。你想把一切抛在脑后，但几天后，你在早报上看到一篇颇令人不安的报道。据报道，度假小镇埃斯伯里在半夜神秘遭遇洪水，所有居民都在睡梦中丧生。报道没有说明洪水的原因，也没有发现任何幸存者、尸体或残骸。",
+    "你在埃斯伯里的旅程结束了。你通过抛下这座镇子任其命运摆布而活了下来。你并未完全理解那里发生的一切，但庆幸自己逃过一劫。不过，那一夜的记忆还会困扰你很久。你损失 1D8 点理智，但如果愿意，之后仍可使用这个角色进行冒险。恭喜你在《潮汐独行》中幸存。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 184",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 184",
+      "text": [
+        "You march through the night, moving more slowly and more carefully now, but never stopping. Still, you manage to keep up a brisk pace for several hours before you finally force yourself to stop and take a brief nap against a tree.",
+        "Your sleep is light and restless, and you dream of horrific things. Of rising waters and hideous beings with strange faces. Of crumbling towers built of marble and gemstones. Of burning fires and the screams of the dying in an unfamiliar city of unknowable antiquity. You wake with a start as a terrifying, grotesque lizard-thing rises from the water and hisses malevolently at you.",
+        "Jolted from your sleep, and thoroughly unnerved, you glance about quickly. You realize that the sun is shining brightly, and the fog has dissipated. You gather yourself and begin walking at a much calmer pace.",
+        "It’s several more hours before you find the road. You follow it for some time before a car passes and offers you a ride to Boston.",
+        "You settle down in Boston for the next few days in an attempt to recover from your experiences in Esbury and the long walk to safety. You try to put it all behind you, but you find a rather disturbing article in the morning newspaper a few days later. The resort town of Esbury is reported to have mysteriously flooded in the middle of the night, claiming the lives of all its residents as they slept. No reason is cited as to the cause of the flood, and no survivors, bodies, or debris are reported to have been found. Your visit to Esbury is over. You have survived by abandoning the town to its fate. While you do not fully comprehend what went on there, you’re relieved to have avoided your own demise. Still, the memories of that night will haunt you for quite some time. You lose 1D8 Sanity points, but you may use this character in future adventures, if you wish. Congratulations on surviving Alone Against the Tide."
+      ]
+    }
+  }
+}

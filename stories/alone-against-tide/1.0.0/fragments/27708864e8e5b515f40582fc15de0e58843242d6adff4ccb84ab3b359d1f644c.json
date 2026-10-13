@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "201"
+  ],
+  "text": [
+    "你捡起两根木棍，试着像听说过的那样互相摩擦生火。不管这只是个传说，还是其中的诀窍你没掌握，都无关紧要，因为你没能点着火。",
+    "你最终放弃了，继续艰难前行，尽可能在浓雾中沿着小路走。道路开始向下倾斜。你对进展感到满意，以为自己正在下山，快要到达目的地了。",
+    "事实恰恰相反。你先前走错了路，又没有光源指引你穿过黑暗与浓雾，结果完全迷失了方向。现在你发现自己又一次面对埃斯伯里。",
+    "你几乎没有时间表达自己的沮丧。你绝望地站在路中央时，一辆汽车从雾中径直朝你疾驰而来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 201",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 201",
+      "text": [
+        "You gather up a pair of sticks and try to rub them together to make a flame, as you’ve heard of others doing. Whether this is simply a myth or the secret merely eludes you is irrelevant, as you fail to start a fire.",
+        "You eventually abandon the task and trudge on, following the trail as best you can in the thick fog. The path begins to slope away from you. Pleased with your progress, you assume you must be coming down from the hills and nearing your destination.",
+        "You couldn’t be further from the truth. Having taken a wrong turn earlier, and without a light to guide you through the darkness and fog, you’ve gotten completely turned around. You now find yourself once more facing the town of Esbury.",
+        "You have little time to express your frustration. As you stand dismayed in the middle of the road, an automobile comes barreling out of the mist directly at you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "194",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "194:p0",
+      "kind": "heading",
+      "text": "194\n",
+      "sourceLocation": "pdf:spans:[[62,2806,2810]]"
+    },
+    {
+      "id": "194:p1",
+      "kind": "body",
+      "text": "You are through with this place. You want nothing more to do \nwith Esbury, and whatever business you intended to carry out \nhere is no longer worth your time. You gather your things and \nset out into the fog.\n",
+      "sourceLocation": "pdf:spans:[[62,2810,2872],[62,2872,2934],[62,2934,2997],[62,2997,3019]]"
+    },
+    {
+      "id": "194:p2",
+      "kind": "body",
+      "text": "You keep up a brisk pace as you stride through the darkness \nand the mist. You move with all due haste, winding your way \ndown streets and through alleyways as you make for the edge \nof town.\n",
+      "sourceLocation": "pdf:spans:[[62,3019,3080],[62,3080,3141],[62,3141,3202],[62,3202,3211]]"
+    },
+    {
+      "id": "194:p3",
+      "kind": "body",
+      "text": "Suddenly, something reaches out and grabs your arm, \nwrapping it tightly in a vicelike grip. You panic and try to \npull away.\n",
+      "sourceLocation": "pdf:spans:[[62,3211,3264],[62,3264,3326],[62,3326,3337]]"
+    },
+    {
+      "id": "194:p4",
+      "kind": "body",
+      "text": "• Make a STR roll: if you succeed, go to 183; if you fail, go to 199.\n",
+      "sourceLocation": "pdf:spans:[[62,3339,3409]]"
+    },
+    {
+      "id": "194:p5",
+      "kind": "body",
+      "text": "(171, 181)\n",
+      "sourceLocation": "pdf:spans:[[62,3409,3420]]"
+    }
+  ]
+}

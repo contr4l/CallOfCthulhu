@@ -1,0 +1,36 @@
+{
+  "id": "208",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "208:p0",
+      "kind": "heading",
+      "text": "208",
+      "sourceLocation": "pdf:visual:[[44,9]]"
+    },
+    {
+      "id": "208:p1",
+      "kind": "body",
+      "text": "Charlie  drops  her  eyes,  as  she  sometimes  did  when  you \nchallenged  her  superstitions.  She  speaks  with  a  breathy \novertone, something no human throat could produce. “You are \nalways so certain of your science, Professor. But I have been with the \nGreat Wind-Walker. Look.” She points to her feet.",
+      "sourceLocation": "pdf:visual:[[44,10],[44,11],[44,12],[44,13],[44,14]]"
+    },
+    {
+      "id": "208:p2",
+      "kind": "body",
+      "text": "You  glance  down  and  nearly  drop  your  rifle.  Her  lower \nlegs are blackened, corroded stumps with glowing cracks, and \nrepulsive hooves instead of feet.",
+      "sourceLocation": "pdf:visual:[[44,15],[44,16],[44,17]]"
+    },
+    {
+      "id": "208:p3",
+      "kind": "body",
+      "text": "Attempt a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 209.",
+      "sourceLocation": "pdf:visual:[[44,18]]"
+    },
+    {
+      "id": "208:p4",
+      "kind": "trace",
+      "text": "(207)",
+      "sourceLocation": "pdf:visual:[[44,19]]"
+    }
+  ]
+}

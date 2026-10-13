@@ -1,0 +1,30 @@
+{
+  "id": "332",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "332:p0",
+      "kind": "heading",
+      "text": "332",
+      "sourceLocation": "pdf:visual:[[63,32]]"
+    },
+    {
+      "id": "332:p1",
+      "kind": "body",
+      "text": "You run right into a blast of cosmic cold. You collapse to the \nground, too stiff to shiver. From the position where you lie, \nyou see the many legged creatures with their weird weapons \nscuttling like giant spiders from the bush. Then darkness.",
+      "sourceLocation": "pdf:visual:[[63,33],[63,34],[63,35],[63,36]]"
+    },
+    {
+      "id": "332:p2",
+      "kind": "body",
+      "text": "Go to 417.",
+      "sourceLocation": "pdf:visual:[[63,37]]"
+    },
+    {
+      "id": "332:p3",
+      "kind": "trace",
+      "text": "(143, 148, 149, 150, 476, 478, 511, 516)",
+      "sourceLocation": "pdf:visual:[[63,38]]"
+    }
+  ]
+}

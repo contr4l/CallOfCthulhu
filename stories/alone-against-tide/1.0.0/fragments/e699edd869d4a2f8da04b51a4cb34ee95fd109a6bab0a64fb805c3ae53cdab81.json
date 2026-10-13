@@ -1,0 +1,40 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "162-armed",
+    "162-flee",
+    "162-decision",
+    "162-gun-bonus",
+    "162-gun-twice",
+    "162-gun-penalty",
+    "162-gun-second",
+    "162-gun-mad",
+    "162-flee-bonus",
+    "162-flee-penalty",
+    "162-flee-mad",
+    "162"
+  ],
+  "text": [
+    "你转身就跑——随便哪里都好，只要能逃离那令人作呕的声音。你没跑多远。",
+    "你匆忙迈出几步，便感觉有什么东西猛地撞上你的后背，把你撞得向前翻滚。那东西又湿又滑，体型庞大，几乎和你一样大。它用松软的长手臂缠住你，你能隔着衣服感觉到它身上的湿气。你惊恐地低头看着那些肢体，意识到它们绝不是人类的。你挣扎着，用肘部猛击抓住你的东西。它的力道松了，你终于挣脱。",
+    "你摆脱那东西的控制，转身面对它，惊恐地盯着它畸形的脸。它凸起、毫无生气的眼睛像死鱼一样盯着你。头两侧垂着奇怪的鳍状耳瓣，嘴周围是松弛的厚嘴唇。它的身体圆鼓肿胀，细长的四肢从臃肿的躯干上垂下来。",
+    "你凝视着它，恐怖感逐渐涌上心头。那生物张开嘴，像是要说话，却没有发出任何声音。它蹒跚地朝你迈出一步，你的本能接管了行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 162",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 162",
+      "text": [
+        "You turn to run—somewhere, anywhere, just away from the sickening sound. You don’t get far.",
+        "You take a few hurried steps and feel something throw itself against your back, sending you tumbling forward. It is slick and large, easily your size. You can feel moisture through your clothes as it wraps its long, flabby arms around you. You look down at the limbs with horror as you realize they are decidedly not human. You struggle, elbowing the thing that’s grabbed you. Its hold slackens, and you are released.",
+        "Free of the thing’s grasp, you spin to confront it and stare in terror into its misshapen face. Its bulbous, lifeless eyes stare back at you like those of a dead fish. Curious, fin-like flaps of ears hang from the side of its head and its mouth is framed by sagging, flabby lips. The thing’s body is distended and round, with long spindly limbs hanging from the bloated torso.",
+        "As you stare, the horror begins to sink in. The creature opens its mouth as if to speak but makes no sound. It takes a stumbling step toward you and your instincts take over."
+      ]
+    }
+  }
+}

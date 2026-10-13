@@ -1,0 +1,30 @@
+{
+  "id": "544",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "544:p0",
+      "kind": "heading",
+      "text": "544",
+      "sourceLocation": "pdf:visual:[[93,73]]"
+    },
+    {
+      "id": "544:p1",
+      "kind": "body",
+      "text": "The ape-men put you all away for the night under a guarded \noverhang. Both Norman and Sylvia are badly injured. You do \nwhat you can for them—and for yourself.",
+      "sourceLocation": "pdf:visual:[[93,74],[93,75],[93,76]]"
+    },
+    {
+      "id": "544:p2",
+      "kind": "body",
+      "text": "You may make a First Aid roll. If you succeed, you regain 1D3 hit \npoints, and so do your companions. Then, go to 389.",
+      "sourceLocation": "pdf:visual:[[93,77],[93,78]]"
+    },
+    {
+      "id": "544:p3",
+      "kind": "trace",
+      "text": "(391)",
+      "sourceLocation": "pdf:visual:[[93,79]]"
+    }
+  ]
+}

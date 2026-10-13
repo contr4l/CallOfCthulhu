@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "229"
+  ],
+  "text": [
+    "虽然你摔倒了，但你意识到自己并非完全没有方向标志。沿着上方的悬崖走，或许能找到地势变化的地方，从而重新回到小路上。你痛苦地一瘸一拐向前走，始终让悬崖壁保持在左侧。",
+    "尽管浓雾弥漫，你仍沿着悬崖壁前行；有些地方只能把手贴在岩壁上摸索方向，受伤时还不时停下来靠着它支撑身体。最后，你终于再次找到小路，发现自己似乎时来运转，不禁高声欢呼。",
+    "你沿小路走了大约一个小时，直到看见远处有一道光穿透浓雾。你朝光冲去，顾不上让受伤的腿承重，结果发现自己正面对一堵砖墙。",
+    "你透过雾气望去，发现自己不知怎么迷失了方向，又回到了埃斯伯里。你沮丧地喊叫起来。",
+    "突然，你听见发动机轰鸣。一辆汽车朝你疾驰而来；此时你正绝望地站在路中央。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 229",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 229",
+      "text": [
+        "Though you’ve fallen, you realize that you’re not completely without landmarks. If you follow the cliff above you, you may just be able to find the point where the elevation changes, and in doing so find your way back to the path. You limp forward in pain, making sure to keep the cliff face on your left.",
+        "You follow the cliff wall despite the fog, at points navigating purely by keeping your hand in contact with the rock face, occasionally stopping to lean against it for support in your injured state. Eventually, you manage to find the trail again, crying out in relief at your apparent turn of good fortune.",
+        "You move along the path for what must be an hour until you see a distant light piercing the fog. You rush toward it, not caring that you’re putting weight on your damaged leg, only to find yourself standing face-to-face with a brick wall.",
+        "Peering through the fog, you find that you’ve somehow gotten turned around and are back in Esbury. You cry out in frustration.",
+        "Suddenly, you hear the revving of an engine. A car comes hurtling toward you as you stand, despairing, in the middle of the road."
+      ]
+    }
+  }
+}

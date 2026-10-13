@@ -1,0 +1,36 @@
+{
+  "id": "192",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "192:p0",
+      "kind": "heading",
+      "text": "192",
+      "sourceLocation": "pdf:visual:[[42,16]]"
+    },
+    {
+      "id": "192:p1",
+      "kind": "body",
+      "text": "You and Norman follow the original trail left by the ape-man. \nIt leads you to a hollow in the mountain thickets. The pervasive \nodor, the tracks, and litter indicate to you that the ape-men—\nthe sasquatches—had camped here but an hour ago. ",
+      "sourceLocation": "pdf:visual:[[42,17],[42,18],[42,19],[42,20]]"
+    },
+    {
+      "id": "192:p2",
+      "kind": "body",
+      "text": "“Look!” Norman cries, pointing to a figure across the hollow. \n“It’s Sylvia!” You run to her.",
+      "sourceLocation": "pdf:visual:[[42,21],[42,22]]"
+    },
+    {
+      "id": "192:p3",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 395; if the result is odd, go to 357. ",
+      "sourceLocation": "pdf:visual:[[42,23]]"
+    },
+    {
+      "id": "192:p4",
+      "kind": "trace",
+      "text": "(481)",
+      "sourceLocation": "pdf:visual:[[42,24]]"
+    }
+  ]
+}

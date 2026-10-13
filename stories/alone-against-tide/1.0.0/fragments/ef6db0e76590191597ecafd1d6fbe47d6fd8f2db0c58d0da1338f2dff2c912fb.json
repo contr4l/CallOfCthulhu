@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "9"
+  ],
+  "text": [
+    "你早晨醒来，庆幸自己总算休息了一晚。你从床上起身，打量着房间简朴的陈设：一只小巧而质量低劣的五斗柜，以及塞在角落里、狭窄又积满灰尘的写字桌。桌上放着一盘鸡蛋和吐司，显然是旅馆老板为你准备的。墙壁朴素无饰，只有一扇窗户朝向湖面。不过，此刻窗外的景色被浓得惊人的雾气挡住了，那雾泛着淡绿色。你的视线完全被遮蔽，无法看透那团诡异的绿雾。",
+    "你还注意到自己的随身物品摆在房间各处，和昨晚离开时一模一样。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 9",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 9",
+      "text": [
+        "You wake in the morning, grateful for the rest. You rise from your bed and take in the modest surroundings that make up your room. The furnishings are sparse; a small poor-quality dresser and a cramped and dusty writing desk tucked in the corner. Sitting atop the desk is a plate of eggs and toast, apparently set out for you by the hotel’s owner. The walls are plain and unadorned, save for a single window that faces toward the lake. However, this view is currently blocked by the incredibly thick fog, which has taken on a pale green hue. Your vision is obscured entirely, and you cannot see into the depths of that outlandish green mist.",
+        "You also notice your personal belongings placed around the room, exactly as you left them the night before."
+      ]
+    }
+  }
+}

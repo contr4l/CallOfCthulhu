@@ -1,0 +1,30 @@
+{
+  "id": "486",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "486:p0",
+      "kind": "heading",
+      "text": "486",
+      "sourceLocation": "pdf:visual:[[85,53]]"
+    },
+    {
+      "id": "486:p1",
+      "kind": "body",
+      "text": "The sasquatches toss you from one to the other. Suddenly you \nunderstand that they are not angry, but that they are playing \nwith you. Finally, they let you fall, exhausted, to the ground.",
+      "sourceLocation": "pdf:visual:[[85,54],[85,55],[85,56]]"
+    },
+    {
+      "id": "486:p2",
+      "kind": "body",
+      "text": "Their roughhousing has caused you 1D6 damage. Go to 489.",
+      "sourceLocation": "pdf:visual:[[85,57]]"
+    },
+    {
+      "id": "486:p3",
+      "kind": "trace",
+      "text": "(485)",
+      "sourceLocation": "pdf:visual:[[85,58]]"
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "format": "coc-pdf-ocr@1",
+  "pdfPage": 84,
+  "printedPage": 83,
+  "engine": "tesseract",
+  "version": "tesseract 5.5.0",
+  "language": "eng",
+  "resolutionDpi": 220,
+  "segmentation": 3,
+  "sourcePdfSha256": "668c89c837f6325564163f07cd7d73f77da90066101dffd03bed30a2f17fb448",
+  "text": "Personal Description\nIdeclogy/Beliefs\nInjuries & Scars\nSignificant People\nPhobias & Manias\nMeaningful Locations\nArcane Tomes, Spells & Artifacts\nTreasured Possessions\nEncounters with Strange Entities\nSpending Level\nCash\nAssets\n& Cha Is\nFumble] Fail /Regular] Hard |Extreme| Critical\n100/ 96+] >skill | <skill_ | ¥skill] '/sskill 01\nLevels of Success:\nPushing Rolls: Must justify reroll; Cannot Push Combat or Sanity Rolls\nWounds & Healing\nFirst Aid heals 1HP; Medicine heals +1d3 HP\nMajor Wound = loss of > max HP in one attack\nReach 0 HP without Major Wound = Unconscious\nReach 0 HP with Major Wound = Dying\nDying: First Ald = temp. stabilized; then require Medicine\nNatural Heal rate (non Major Wound): recover 1HP per day\n‘ae, Metural Heal rate (Major Wound): weekly healing roll",
+  "tokens": [
+    {
+      "text": "Personal",
+      "confidence": 94.823395,
+      "bbox": [
+        185,
+        228,
+        116,
+        29
+      ],
+      "line": [
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Description",
+      "confidence": 94.25174,
+      "bbox": [
+        307,
+        231,
+        163,
+        36
+      ],
+      "line": [
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Ideclogy/Beliefs",
+      "confidence": 75.610252,
+      "bbox": [
+        185,
+        404,
+        227,
+        49
+      ],
+      "line": [
+        11,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Injuries",
+      "confidence": 91.057587,
+      "bbox": [
+        955,
+        412,
+        97,
+        37
+      ],
+      "line": [
+        13,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 91.057587,
+      "bbox": [
+        1069,
+        411,
+        12,
+        27
+      ],
+      "line": [
+        13,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Scars",
+      "confidence": 95.960594,
+      "bbox": [
+        1087,
+        411,
+        71,
+        27
+      ],
+      "line": [
+        13,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Significant",
+      "confidence": 96.759827,
+      "bbox": [
+        183,
+        588,
+        144,
+        41
+      ],
+      "line": [
+        18,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "People",
+      "confidence": 96.721771,
+      "bbox": [
+        334,
+        590,
+        95,
+        39
+      ],
+      "line": [
+        18,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Phobias",
+      "confidence": 91.089645,
+      "bbox": [
+        955,
+        590,
+        111,
+        29
+      ],
+      "line": [
+        19,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 91.089645,
+      "bbox": [
+        1080,
+        593,
+        11,
+        26
+      ],
+      "line": [
+        19,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Manias",
+      "confidence": 92.59832,
+      "bbox": [
+        1101,
+        593,
+        98,
+        26
+      ],
+      "line": [
+        19,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Meaningful",
+      "confidence": 96.161201,
+      "bbox": [
+        183,
+        770,
+        159,
+        41
+      ],
+      "line": [
+        25,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Locations",
+      "confidence": 96.871086,
+      "bbox": [
+        348,
+        774,
+        129,
+        26
+      ],
+      "line": [
+        25,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Arcane",
+      "confidence": 96.488731,
+      "bbox": [
+        953,
+        773,
+        96,
+        27
+      ],
+      "line": [
+        26,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Tomes,",
+      "confidence": 96.459007,
+      "bbox": [
+        1055,
+        774,
+        95,
+        29
+      ],
+      "line": [
+        26,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Spells",
+      "confidence": 93.304115,
+      "bbox": [
+        1158,
+        770,
+        82,
+        41
+      ],
+      "line": [
+        26,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 93.266983,
+      "bbox": [
+        1251,
+        773,
+        13,
+        27
+      ],
+      "line": [
+        26,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Artifacts",
+      "confidence": 76.544327,
+      "bbox": [
+        1274,
+        770,
+        113,
+        30
+      ],
+      "line": [
+        26,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Treasured",
+      "confidence": 96.162003,
+      "bbox": [
+        183,
+        952,
+        129,
+        29
+      ],
+      "line": [
+        30,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Possessions",
+      "confidence": 95.764023,
+      "bbox": [
+        321,
+        955,
+        156,
+        26
+      ],
+      "line": [
+        30,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Encounters",
+      "confidence": 96.972595,
+      "bbox": [
+        955,
+        955,
+        148,
+        26
+      ],
+      "line": [
+        32,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 95.98214,
+      "bbox": [
+        1107,
+        952,
+        58,
+        29
+      ],
+      "line": [
+        32,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Strange",
+      "confidence": 95.964226,
+      "bbox": [
+        1171,
+        955,
+        101,
+        36
+      ],
+      "line": [
+        32,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Entities",
+      "confidence": 96.538208,
+      "bbox": [
+        1281,
+        955,
+        95,
+        26
+      ],
+      "line": [
+        32,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Spending",
+      "confidence": 96.655998,
+      "bbox": [
+        1091,
+        1323,
+        116,
+        48
+      ],
+      "line": [
+        40,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Level",
+      "confidence": 93.49649,
+      "bbox": [
+        1227,
+        1323,
+        71,
+        48
+      ],
+      "line": [
+        40,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Cash",
+      "confidence": 96.308632,
+      "bbox": [
+        1092,
+        1372,
+        69,
+        29
+      ],
+      "line": [
+        42,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Assets",
+      "confidence": 96.095909,
+      "bbox": [
+        1091,
+        1421,
+        84,
+        25
+      ],
+      "line": [
+        45,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 87.345451,
+      "bbox": [
+        344,
+        1863,
+        29,
+        46
+      ],
+      "line": [
+        59,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Cha",
+      "confidence": 96.595757,
+      "bbox": [
+        380,
+        1882,
+        55,
+        27
+      ],
+      "line": [
+        59,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Is",
+      "confidence": 94.087692,
+      "bbox": [
+        646,
+        1882,
+        21,
+        27
+      ],
+      "line": [
+        59,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Fumble]",
+      "confidence": 24.317293,
+      "bbox": [
+        351,
+        1925,
+        67,
+        16
+      ],
+      "line": [
+        62,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Fail",
+      "confidence": 66.201828,
+      "bbox": [
+        435,
+        1925,
+        26,
+        16
+      ],
+      "line": [
+        62,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "/Regular]",
+      "confidence": 28.904428,
+      "bbox": [
+        487,
+        1925,
+        67,
+        21
+      ],
+      "line": [
+        62,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Hard",
+      "confidence": 91.802643,
+      "bbox": [
+        568,
+        1925,
+        41,
+        16
+      ],
+      "line": [
+        62,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "|Extreme|",
+      "confidence": 83.287987,
+      "bbox": [
+        617,
+        1921,
+        86,
+        29
+      ],
+      "line": [
+        62,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Critical",
+      "confidence": 94.04435,
+      "bbox": [
+        709,
+        1921,
+        58,
+        29
+      ],
+      "line": [
+        62,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "100/",
+      "confidence": 5.280762,
+      "bbox": [
+        353,
+        1947,
+        36,
+        29
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "96+]",
+      "confidence": 5.280762,
+      "bbox": [
+        392,
+        1947,
+        35,
+        29
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": ">skill",
+      "confidence": 81.780045,
+      "bbox": [
+        434,
+        1951,
+        41,
+        16
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 85.900482,
+      "bbox": [
+        484,
+        1947,
+        8,
+        29
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "<skill_",
+      "confidence": 15.907345,
+      "bbox": [
+        496,
+        1951,
+        45,
+        16
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 79.609238,
+      "bbox": [
+        556,
+        1947,
+        6,
+        29
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "¥skill]",
+      "confidence": 0.0,
+      "bbox": [
+        568,
+        1951,
+        46,
+        16
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "'/sskill",
+      "confidence": 0.0,
+      "bbox": [
+        637,
+        1951,
+        49,
+        18
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "01",
+      "confidence": 32.337242,
+      "bbox": [
+        729,
+        1952,
+        16,
+        15
+      ],
+      "line": [
+        62,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Levels",
+      "confidence": 84.339386,
+      "bbox": [
+        183,
+        1937,
+        75,
+        17
+      ],
+      "line": [
+        63,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 84.339386,
+      "bbox": [
+        241,
+        1933,
+        16,
+        31
+      ],
+      "line": [
+        63,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Success:",
+      "confidence": 95.473083,
+      "bbox": [
+        261,
+        1937,
+        70,
+        17
+      ],
+      "line": [
+        63,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Pushing",
+      "confidence": 95.851906,
+      "bbox": [
+        183,
+        1986,
+        69,
+        21
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Rolls:",
+      "confidence": 95.851906,
+      "bbox": [
+        257,
+        1986,
+        42,
+        16
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Must",
+      "confidence": 96.838448,
+      "bbox": [
+        310,
+        1982,
+        32,
+        31
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "justify",
+      "confidence": 94.11937,
+      "bbox": [
+        350,
+        1982,
+        49,
+        31
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "reroll;",
+      "confidence": 87.12944,
+      "bbox": [
+        406,
+        1986,
+        45,
+        20
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Cannot",
+      "confidence": 95.920135,
+      "bbox": [
+        455,
+        1987,
+        64,
+        15
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Push",
+      "confidence": 96.640106,
+      "bbox": [
+        524,
+        1986,
+        40,
+        16
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Combat",
+      "confidence": 95.58223,
+      "bbox": [
+        570,
+        1986,
+        91,
+        16
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 93.055115,
+      "bbox": [
+        644,
+        1982,
+        13,
+        31
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Sanity",
+      "confidence": 96.403976,
+      "bbox": [
+        666,
+        1987,
+        52,
+        22
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Rolls",
+      "confidence": 88.555145,
+      "bbox": [
+        722,
+        1986,
+        40,
+        16
+      ],
+      "line": [
+        72,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Wounds",
+      "confidence": 92.975288,
+      "bbox": [
+        334,
+        2036,
+        123,
+        26
+      ],
+      "line": [
+        74,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "&",
+      "confidence": 92.975288,
+      "bbox": [
+        467,
+        2038,
+        20,
+        24
+      ],
+      "line": [
+        74,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Healing",
+      "confidence": 96.434921,
+      "bbox": [
+        498,
+        2036,
+        113,
+        32
+      ],
+      "line": [
+        74,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "First",
+      "confidence": 96.38459,
+      "bbox": [
+        229,
+        2080,
+        40,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Aid",
+      "confidence": 96.579994,
+      "bbox": [
+        275,
+        2080,
+        32,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "heals",
+      "confidence": 92.767921,
+      "bbox": [
+        315,
+        2080,
+        49,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "1HP;",
+      "confidence": 92.213631,
+      "bbox": [
+        382,
+        2080,
+        30,
+        20
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Medicine",
+      "confidence": 95.133324,
+      "bbox": [
+        484,
+        2080,
+        89,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "heals",
+      "confidence": 92.949249,
+      "bbox": [
+        580,
+        2080,
+        49,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "+1d3",
+      "confidence": 90.552063,
+      "bbox": [
+        635,
+        2080,
+        49,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "HP",
+      "confidence": 96.308792,
+      "bbox": [
+        692,
+        2080,
+        26,
+        17
+      ],
+      "line": [
+        74,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Major",
+      "confidence": 94.984413,
+      "bbox": [
+        183,
+        2123,
+        60,
+        23
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Wound",
+      "confidence": 94.984413,
+      "bbox": [
+        247,
+        2123,
+        74,
+        18
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 96.85955,
+      "bbox": [
+        321,
+        2119,
+        11,
+        31
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "loss",
+      "confidence": 96.628647,
+      "bbox": [
+        347,
+        2123,
+        36,
+        18
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 96.828758,
+      "bbox": [
+        388,
+        2123,
+        19,
+        18
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": ">",
+      "confidence": 57.310261,
+      "bbox": [
+        416,
+        2125,
+        9,
+        16
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "max",
+      "confidence": 96.527237,
+      "bbox": [
+        452,
+        2129,
+        41,
+        12
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "HP",
+      "confidence": 95.697433,
+      "bbox": [
+        499,
+        2125,
+        26,
+        16
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "in",
+      "confidence": 95.697433,
+      "bbox": [
+        532,
+        2125,
+        16,
+        16
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "one",
+      "confidence": 96.234665,
+      "bbox": [
+        554,
+        2129,
+        37,
+        12
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "attack",
+      "confidence": 96.392113,
+      "bbox": [
+        597,
+        2123,
+        60,
+        18
+      ],
+      "line": [
+        75,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Reach",
+      "confidence": 96.759209,
+      "bbox": [
+        183,
+        2157,
+        57,
+        17
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 72.892662,
+      "bbox": [
+        246,
+        2158,
+        12,
+        16
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "HP",
+      "confidence": 96.35453,
+      "bbox": [
+        264,
+        2157,
+        26,
+        17
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "without",
+      "confidence": 96.231308,
+      "bbox": [
+        296,
+        2157,
+        77,
+        17
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Major",
+      "confidence": 95.455971,
+      "bbox": [
+        382,
+        2157,
+        52,
+        21
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Wound",
+      "confidence": 96.323944,
+      "bbox": [
+        447,
+        2157,
+        56,
+        17
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 95.971596,
+      "bbox": [
+        516,
+        2163,
+        12,
+        7
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Unconscious",
+      "confidence": 94.077011,
+      "bbox": [
+        535,
+        2157,
+        125,
+        17
+      ],
+      "line": [
+        75,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Reach",
+      "confidence": 96.745728,
+      "bbox": [
+        183,
+        2189,
+        57,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "0",
+      "confidence": 92.538048,
+      "bbox": [
+        246,
+        2190,
+        12,
+        16
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "HP",
+      "confidence": 95.610199,
+      "bbox": [
+        264,
+        2189,
+        26,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "with",
+      "confidence": 95.977028,
+      "bbox": [
+        296,
+        2189,
+        42,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Major",
+      "confidence": 95.977028,
+      "bbox": [
+        345,
+        2189,
+        55,
+        21
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Wound",
+      "confidence": 96.597366,
+      "bbox": [
+        405,
+        2189,
+        70,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 96.171692,
+      "bbox": [
+        483,
+        2196,
+        12,
+        7
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Dying",
+      "confidence": 96.171692,
+      "bbox": [
+        501,
+        2189,
+        60,
+        21
+      ],
+      "line": [
+        76,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Dying:",
+      "confidence": 96.321625,
+      "bbox": [
+        214,
+        2213,
+        61,
+        22
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "First",
+      "confidence": 96.853355,
+      "bbox": [
+        281,
+        2213,
+        38,
+        16
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Ald",
+      "confidence": 84.412025,
+      "bbox": [
+        325,
+        2212,
+        32,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "=",
+      "confidence": 85.577957,
+      "bbox": [
+        365,
+        2219,
+        12,
+        6
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "temp.",
+      "confidence": 85.577957,
+      "bbox": [
+        382,
+        2215,
+        56,
+        18
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "stabilized;",
+      "confidence": 95.465851,
+      "bbox": [
+        444,
+        2212,
+        98,
+        20
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "then",
+      "confidence": 96.880875,
+      "bbox": [
+        547,
+        2212,
+        44,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "require",
+      "confidence": 96.140442,
+      "bbox": [
+        599,
+        2213,
+        68,
+        20
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Medicine",
+      "confidence": 96.260002,
+      "bbox": [
+        674,
+        2212,
+        88,
+        17
+      ],
+      "line": [
+        76,
+        1,
+        2
+      ]
+    },
+    {
+      "text": "Natural",
+      "confidence": 96.687881,
+      "bbox": [
+        183,
+        2244,
+        77,
+        17
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Heal",
+      "confidence": 96.86908,
+      "bbox": [
+        266,
+        2244,
+        46,
+        17
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "rate",
+      "confidence": 96.806778,
+      "bbox": [
+        318,
+        2247,
+        39,
+        14
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "(non",
+      "confidence": 96.546562,
+      "bbox": [
+        365,
+        2245,
+        43,
+        19
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Major",
+      "confidence": 96.971954,
+      "bbox": [
+        415,
+        2245,
+        55,
+        22
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Wound):",
+      "confidence": 96.440964,
+      "bbox": [
+        475,
+        2244,
+        82,
+        20
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "recover",
+      "confidence": 93.202576,
+      "bbox": [
+        564,
+        2250,
+        71,
+        11
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "1HP",
+      "confidence": 89.622528,
+      "bbox": [
+        641,
+        2245,
+        39,
+        16
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "per",
+      "confidence": 96.965225,
+      "bbox": [
+        686,
+        2250,
+        32,
+        15
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "day",
+      "confidence": 96.891327,
+      "bbox": [
+        724,
+        2244,
+        35,
+        23
+      ],
+      "line": [
+        77,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "‘ae,",
+      "confidence": 19.31242,
+      "bbox": [
+        136,
+        2268,
+        26,
+        20
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Metural",
+      "confidence": 17.32275,
+      "bbox": [
+        183,
+        2276,
+        77,
+        17
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Heal",
+      "confidence": 81.927818,
+      "bbox": [
+        266,
+        2276,
+        46,
+        17
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "rate",
+      "confidence": 44.381367,
+      "bbox": [
+        318,
+        2279,
+        39,
+        14
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "(Major",
+      "confidence": 96.80352,
+      "bbox": [
+        365,
+        2277,
+        61,
+        22
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "Wound):",
+      "confidence": 96.539932,
+      "bbox": [
+        431,
+        2276,
+        82,
+        20
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "weekly",
+      "confidence": 96.847565,
+      "bbox": [
+        519,
+        2276,
+        68,
+        23
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "healing",
+      "confidence": 96.891724,
+      "bbox": [
+        593,
+        2276,
+        71,
+        21
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    },
+    {
+      "text": "roll",
+      "confidence": 93.380623,
+      "bbox": [
+        672,
+        2276,
+        28,
+        17
+      ],
+      "line": [
+        78,
+        1,
+        1
+      ]
+    }
+  ],
+  "reviewRequired": true,
+  "notes": [
+    "OCR is supplemental; original PDF and embedded image assets remain authoritative. Low-confidence fields are not imported as character statistics."
+  ]
+}

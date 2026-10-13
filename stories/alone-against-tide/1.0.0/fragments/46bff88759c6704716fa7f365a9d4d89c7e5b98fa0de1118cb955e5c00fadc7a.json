@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "24-appraise",
+    "24-creditRating",
+    "24"
+  ],
+  "text": [
+    "你给那对陶土圆筒报了个合理的价，放进投标箱。不久后，沃伦先生清空投标箱，开始检查各份报价。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 24",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 24",
+      "text": [
+        "You write a reasonable bid for the pair of clay cylinders and place it in the box. Shortly after you do so, Mr. Warren clears the box and begins checking the bids."
+      ]
+    }
+  }
+}

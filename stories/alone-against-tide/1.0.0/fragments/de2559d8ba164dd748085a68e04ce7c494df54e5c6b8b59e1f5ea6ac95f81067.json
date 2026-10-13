@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "103-appraise",
+    "103-creditRating",
+    "103"
+  ],
+  "text": [
+    "你为那座镶嵌宝石的祭坛报出一个公道的价格并提交报价。不久，沃伦先生倒出投标箱里的报价，开始逐一查看，寻找最高价。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 103",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 103",
+      "text": [
+        "You decide on a fair bid for the gemstone-studded altar and submit your offer. Not long after, Mr. Warren empties the ballot box and begins sifting through the entries for the highest bid."
+      ]
+    }
+  }
+}

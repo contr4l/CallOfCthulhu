@@ -1,0 +1,30 @@
+{
+  "id": "511",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "511:p0",
+      "kind": "heading",
+      "text": "511",
+      "sourceLocation": "pdf:visual:[[88,58]]"
+    },
+    {
+      "id": "511:p1",
+      "kind": "body",
+      "text": "A streak of misty vapor stabs past you and you feel the sting \nof  frostbite.  The  fungoid  monsters!  On  three  sides  of  you! \nYou are penned against the river. Your only hope is to try to \nswim it, even though the water flows rapidly and swirls with \ntreacherous eddies.",
+      "sourceLocation": "pdf:visual:[[88,59],[88,60],[88,61],[88,62],[88,63]]"
+    },
+    {
+      "id": "511:p2",
+      "kind": "body",
+      "text": "Make a Dodge roll: if you succeed, go to 512; if you fail, go to 332.",
+      "sourceLocation": "pdf:visual:[[88,64]]"
+    },
+    {
+      "id": "511:p3",
+      "kind": "trace",
+      "text": "(510, 516)",
+      "sourceLocation": "pdf:visual:[[88,65]]"
+    }
+  ]
+}

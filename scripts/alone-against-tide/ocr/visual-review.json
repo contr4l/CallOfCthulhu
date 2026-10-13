@@ -1,0 +1,110 @@
+{
+  "format": "coc-pdf-visual-review@1",
+  "sourcePdfSha256": "668c89c837f6325564163f07cd7d73f77da90066101dffd03bed30a2f17fb448",
+  "method": "model visual comparison against rendered original PDF, not inferred from OCR",
+  "scope": "printed filled fields on PDF pages 79 and 81 only; not a runtime character template",
+  "cards": [
+    {
+      "pdfPage": 79,
+      "printedPage": 78,
+      "name": "Eleanor Woods",
+      "nameZhCN": "埃莉诺·伍兹",
+      "occupation": "Professor",
+      "occupationZhCN": "教授",
+      "age": 40,
+      "sex": "Female",
+      "residence": "Arkham, MA",
+      "birthplace": "Boston, MA",
+      "attributes": {
+        "STR": 50,
+        "CON": 60,
+        "SIZ": 50,
+        "DEX": 60,
+        "APP": 40,
+        "INT": 70,
+        "POW": 50,
+        "EDU": 80
+      },
+      "moveRate": 7,
+      "hitPoints": 11,
+      "sanity": 50,
+      "magicPoints": 10,
+      "luck": null,
+      "damageBonus": "none",
+      "build": 0,
+      "printedSkillValues": {
+        "Anthropology": 60,
+        "Archaeology": 70,
+        "Credit Rating": 60,
+        "Dodge": 50,
+        "Fighting (Brawl)": 45,
+        "Firearms (Handgun)": 40,
+        "Language (Other: Arabic)": 40,
+        "Language (Own: English)": 80,
+        "Library Use": 40,
+        "Locksmith": 50,
+        "Navigate": 30,
+        "Persuade": 40,
+        "Psychology": 50,
+        "Survival (Desert)": 50
+      },
+      "notes": [
+        "Lucky value is blank in the original sheet; it has not been filled.",
+        "Unfilled skill boxes are not zero values.",
+        "The book allows 70 bonus skill points; these are not allocated in this review.",
+        "Hard/extreme and other sheet fields remain accessible in the original image and OCR."
+      ]
+    },
+    {
+      "pdfPage": 81,
+      "printedPage": 80,
+      "name": "Ellery Woods",
+      "nameZhCN": "埃勒里·伍兹",
+      "occupation": "Professor",
+      "occupationZhCN": "教授",
+      "age": 40,
+      "sex": "Male",
+      "residence": "Arkham, MA",
+      "birthplace": "Boston, MA",
+      "attributes": {
+        "STR": 50,
+        "CON": 60,
+        "SIZ": 50,
+        "DEX": 60,
+        "APP": 40,
+        "INT": 70,
+        "POW": 50,
+        "EDU": 80
+      },
+      "moveRate": 7,
+      "hitPoints": 11,
+      "sanity": 50,
+      "magicPoints": 10,
+      "luck": null,
+      "damageBonus": "none",
+      "build": 0,
+      "printedSkillValues": {
+        "Anthropology": 60,
+        "Archaeology": 70,
+        "Credit Rating": 60,
+        "Dodge": 50,
+        "Fighting (Brawl)": 45,
+        "Firearms (Handgun)": 40,
+        "Language (Other: Arabic)": 40,
+        "Language (Own: English)": 80,
+        "Library Use": 40,
+        "Locksmith": 50,
+        "Navigate": 30,
+        "Persuade": 40,
+        "Psychology": 50,
+        "Survival (Desert)": 50
+      },
+      "notes": [
+        "Lucky value is blank in the original sheet; it has not been filled.",
+        "Unfilled skill boxes are not zero values.",
+        "The book allows 70 bonus skill points; these are not allocated in this review.",
+        "Hard/extreme and other sheet fields remain accessible in the original image and OCR."
+      ]
+    }
+  ]
+}

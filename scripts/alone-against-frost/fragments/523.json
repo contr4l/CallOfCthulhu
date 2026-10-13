@@ -1,0 +1,30 @@
+{
+  "id": "523",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "523:p0",
+      "kind": "heading",
+      "text": "523",
+      "sourceLocation": "pdf:visual:[[91,2]]"
+    },
+    {
+      "id": "523:p1",
+      "kind": "body",
+      "text": "Come midday, Charlie claims to have lost the trail. Somehow \nyou are not surprised.",
+      "sourceLocation": "pdf:visual:[[91,4],[91,6]]"
+    },
+    {
+      "id": "523:p2",
+      "kind": "body",
+      "text": "To send Charlie back to camp and attempt to track Bernard yourself, \ngo to 524. To accept him as lost, and your expedition as a failure, \ngo to 32.",
+      "sourceLocation": "pdf:visual:[[91,8],[91,9],[91,11]]"
+    },
+    {
+      "id": "523:p3",
+      "kind": "trace",
+      "text": "(522)",
+      "sourceLocation": "pdf:visual:[[91,12]]"
+    }
+  ]
+}

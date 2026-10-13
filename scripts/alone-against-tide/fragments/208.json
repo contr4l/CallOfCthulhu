@@ -1,0 +1,48 @@
+{
+  "id": "208",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "208:p0",
+      "kind": "heading",
+      "text": "208\n",
+      "sourceLocation": "pdf:spans:[[67,44,48]]"
+    },
+    {
+      "id": "208:p1",
+      "kind": "body",
+      "text": "You sprint through the foggy streets of Esbury, breathing \nheavily as you try to abandon this godforsaken town. You \nmove in no particular direction through the green mist, simply \nrunning away as fast as you can.\n",
+      "sourceLocation": "pdf:spans:[[67,48,107],[67,107,165],[67,165,229],[67,229,262]]"
+    },
+    {
+      "id": "208:p2",
+      "kind": "body",
+      "text": "You follow twisting and turning alleys and open streets—in \nthe dense fog, you can discern little difference. As you run, you \nencounter that same horrible, distended monstrosity. It lumbers \ntoward you but you are much too quick for it.\n",
+      "sourceLocation": "pdf:spans:[[67,262,322],[67,322,389],[67,389,454],[67,454,500]]"
+    },
+    {
+      "id": "208:p3",
+      "kind": "body",
+      "text": "But then you round a bend in the road and find another \none. You quickly change your heading, only to find yet more \nof the things blocking your path. A whole multitude of the \nhorrendous, vile creatures shamble toward you. You panic and \nquickly look for an escape route.\n",
+      "sourceLocation": "pdf:spans:[[67,500,556],[67,556,617],[67,617,677],[67,677,739],[67,739,773]]"
+    },
+    {
+      "id": "208:p4",
+      "kind": "body",
+      "text": "Unfortunately, none present themselves. The horrible things \nclose in. You are trapped. They soon lay arms upon you, and \ndespite your protests, they rake their fingers across your skin \nand strangle you with their fleshy, flabby hands.\n",
+      "sourceLocation": "pdf:spans:[[67,773,834],[67,834,895],[67,895,960],[67,960,1010]]"
+    },
+    {
+      "id": "208:p5",
+      "kind": "body",
+      "text": "The last sight you see is the putrid, bulging eyes of one of the \ncreatures as it squeezes the life from you.\nYou have died. If you like, you may try again, but for now, your visit \nto Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[67,1010,1076],[67,1076,1120],[67,1122,1194],[67,1194,1223]]"
+    },
+    {
+      "id": "208:p6",
+      "kind": "body",
+      "text": "(166)\n",
+      "sourceLocation": "pdf:spans:[[67,1223,1229]]"
+    }
+  ]
+}

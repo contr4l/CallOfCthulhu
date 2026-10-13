@@ -1,0 +1,30 @@
+{
+  "id": "275",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "275:p0",
+      "kind": "heading",
+      "text": "275",
+      "sourceLocation": "pdf:visual:[[54,62]]"
+    },
+    {
+      "id": "275:p1",
+      "kind": "body",
+      "text": "Plants of every shape and size grow all around you. You fail \nto recognize any as unquestionably prehistoric. You recall how \nlong it took to secure funding for this expedition; some physical \nproof might be required to mount another.",
+      "sourceLocation": "pdf:visual:[[54,63],[54,64],[54,65],[54,66]]"
+    },
+    {
+      "id": "275:p2",
+      "kind": "body",
+      "text": "To return to Arkham empty-handed, go to 216. To explore further, \ngo to 551.",
+      "sourceLocation": "pdf:visual:[[54,67],[54,68]]"
+    },
+    {
+      "id": "275:p3",
+      "kind": "trace",
+      "text": "(225)",
+      "sourceLocation": "pdf:visual:[[54,69]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "389",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "389:p0",
+      "kind": "heading",
+      "text": "389",
+      "sourceLocation": "pdf:visual:[[70,7]]"
+    },
+    {
+      "id": "389:p1",
+      "kind": "body",
+      "text": "The three of you remain under the overhang all night. At dawn, \nthe sasquatches come and seize you by the arms. They drag \nyou, and you alone, from camp. “Professor?” Norman sounds \nnervous. You warn him against impulsive moves, wishing you \nfelt as confident as you sound.",
+      "sourceLocation": "pdf:visual:[[70,8],[70,9],[70,10],[70,11],[70,12]]"
+    },
+    {
+      "id": "389:p2",
+      "kind": "body",
+      "text": "Go to 382.",
+      "sourceLocation": "pdf:visual:[[70,13]]"
+    },
+    {
+      "id": "389:p3",
+      "kind": "trace",
+      "text": "(351, 352, 388, 544, 644, 653)",
+      "sourceLocation": "pdf:visual:[[70,14]]"
+    }
+  ]
+}

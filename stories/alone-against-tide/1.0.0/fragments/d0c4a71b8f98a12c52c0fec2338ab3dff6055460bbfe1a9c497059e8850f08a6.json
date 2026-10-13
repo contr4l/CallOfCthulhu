@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "19"
+  ],
+  "text": [
+    "终于有人叫到了你的名字——你的祭坛报价最高。现在你得搬着一件又大又笨重的东西，大小简直和旅行箱差不多。倒不是完全搬不动，但绝对比你愿意携带的东西更麻烦。考虑到古木上镶嵌了那么多宝石，它却意外地轻。那些宝石自然让它颇具价值，而上面奇怪的彩绘涂痕也勾起了你的兴趣。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 19",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 19",
+      "text": [
+        "Finally, you hear your name called—your bid for the altar was found to be highest. You are now saddled with a large and bulky item, easily the size of a traveler’s trunk. Not unmanageable, but definitely more than you’d prefer to lug around. Still, it is surprisingly light considering the number of gemstones worked into the ancient wood. Naturally, those will make it quite valuable, and the strange painted scrawls provoke your interest."
+      ]
+    }
+  }
+}

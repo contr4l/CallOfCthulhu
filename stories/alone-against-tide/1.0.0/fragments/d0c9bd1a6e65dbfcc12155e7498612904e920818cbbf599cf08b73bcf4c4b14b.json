@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "121-death",
+    "121-wounded",
+    "121"
+  ],
+  "text": [
+    "你等待约书亚出手，并把握好反应时机。他向前猛刺，你朝一侧翻滚躲开。他冲刺的力道让这一刀刺空，刀刃扎进你身后的墙里；他一边咒骂，一边拔刀。",
+    "他松开刀柄，转身面对你，攥紧双拳摆出迎战架势。他试探性地朝你挥了几拳，你轻松躲开。",
+    "不过你不能只是一味躲避。若想活着离开这里，就必须制服他；而且听前门传来的砰砰声，你得尽快动手。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 121",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 121",
+      "text": [
+        "You wait for Joshua to strike, timing your reaction just right. He drives forward with the point of the blade and you roll to one side. The force of his lunge carries his blow through and he embeds the knife in the wall behind you, cursing as he does so.",
+        "He lets go of the blade’s handle and turns to face you, balling up his fists and adopting a readied stance. He takes a few experimental swings at you, which you handily dodge.",
+        "Still, you cannot simply keep avoiding him. You’ll have to subdue him if you want to make it out of here, and judging by the banging on the front door, you’ll have to do so quickly."
+      ]
+    }
+  }
+}

@@ -115,6 +115,7 @@ export function value(s: RunState, v: Value): number {
 }
 export function matches(s: RunState, c?: Predicate): boolean {
   if (!c) return true;
+  if ("templateId" in c) return s.character.templateId === c.templateId;
   if ("flag" in c) return (s.flags[c.flag] ?? false) === c.equals;
   if ("all" in c) return c.all.every((x) => matches(s, x));
   if ("any" in c) return c.any.some((x) => matches(s, x));
@@ -260,6 +261,15 @@ function health(
     loss = before.sanity - s.character.sanity;
   // Raw damage, including overkill, is recorded by the mutation.
   if (loss > 0) p(s).sanityLost += loss;
+  if (story.healthPolicy === "tide") {
+    if (loss > 0 && s.character.sanity === 0) go(story, s, "tide-retirement");
+    else if (loss > 0 && p(s).sanityLost >= Math.ceil(p(s).initialSanity / 5)) {
+      s.flags["tide-insane"] = true;
+      p(s).registrationLabels ??= {};
+      p(s).registrationLabels!["tide-insane"] = "暂时性疯狂";
+    }
+    return;
+  }
   if (story.healthPolicy !== "static") return;
   if (damage > 0 && s.character.hp === 0) {
     go(story, s, "324");
@@ -344,7 +354,7 @@ export function initialProgram(
   dice: DiceSource = secureDice,
 ) {
   s.program = programState(s.character);
-  if (story.creationPolicy === "fixed") {
+  if (story.id === "alone-against-static" && story.creationPolicy === "fixed") {
     s.flags[s.character.templateId === "static-alex" ? "亚历克斯" : "查理"] =
       true;
   }
@@ -417,6 +427,21 @@ function resolve(
     `${c.label}：${result.roll}/${result.target} ${result.success ? "成功" : "失败"}`,
   );
   return result;
+}
+function luckCost(
+  story: Story,
+  s: RunState,
+  result: CheckResult,
+): number | undefined {
+  const cost = result.roll - result.target;
+  return story.spendLuck &&
+    !result.success &&
+    result.grade !== "fumble" &&
+    !["luck", "sanity"].includes(result.skill) &&
+    cost > 0 &&
+    cost <= s.character.luck
+    ? cost
+    : undefined;
 }
 function checkDone(
   story: Story,
@@ -526,12 +551,17 @@ function projectProgramRaw(story: Story, s: RunState): Partial<SceneView> {
       id: `random-${id}`,
       label: `选择尚未经历的症状 ${id}`,
     }));
-  else if (p(s).pending)
-    actions = [
-      { id: "accept", label: "接受失败结果" },
-      { id: "push", label: "孤注一掷（失败后果更严重）" },
-    ];
-  else if (step.kind === "rollEffects")
+  else if (p(s).pending) {
+    actions = [{ id: "accept", label: "接受失败结果" }];
+    if (p(s).pending!.check.push)
+      actions.push({ id: "push", label: "孤注一掷（失败后果更严重）" });
+    const cost = luckCost(story, s, p(s).pending!.result);
+    if (cost !== undefined)
+      actions.push({
+        id: "spend-luck",
+        label: `花费 ${cost} 点幸运，令检定成功`,
+      });
+  } else if (step.kind === "rollEffects")
     actions = [{ id: "roll", label: step.label }];
   else if (step.kind === "check") {
     actions = [{ id: "roll", label: `进行${step.check.label}检定` }];
@@ -576,6 +606,7 @@ function projectProgramRaw(story: Story, s: RunState): Partial<SceneView> {
         .filter(
           ([key]) =>
             step.allocation.kind !== "interests" ||
+            step.allocation.allowOccupation ||
             !p(s).occupationSkills.includes(key),
         )
         .map(([key, value]) => ({
@@ -720,28 +751,44 @@ function allocation(
   if (
     keys.some(
       (k) =>
-        !(k in s.character.skills) ||
+        !Object.hasOwn(s.character.skills, k) ||
         k === "cthulhuMythos" ||
-        k === "creditRating",
+        (k === "creditRating" && !a.includeCredit),
     )
   )
     invalid("不能分配此技能");
+  if (a.kind === "bonus") {
+    if (
+      !keys.length ||
+      vals.some((v) => Number(v) < 0) ||
+      vals.reduce<number>((sum, v) => sum + Number(v), 0) !== a.pool ||
+      keys.some((k) => s.character.skills[k] + Number(input[k]) > 99)
+    )
+      invalid(`请分配全部 ${a.pool} 点加值，技能不能超过 99`);
+    for (const k of keys) s.character.skills[k] += Number(input[k]);
+    return;
+  }
   if (a.kind === "interests") {
     if (
-      keys.length !== 4 ||
-      keys.some((k) => p(s).occupationSkills.includes(k)) ||
+      keys.length !== (a.count ?? 4) ||
+      (!a.allowOccupation &&
+        keys.some((k) => p(s).occupationSkills.includes(k))) ||
       vals.some((v) => v !== 20)
     )
-      invalid("请选择四项非职业技能，每项增加 20");
+      invalid(
+        `请选择 ${a.count ?? 4} 项${a.allowOccupation ? "" : "非职业"}技能，每项增加 20`,
+      );
     for (const k of keys) s.character.skills[k] += 20;
     return;
   }
   if (
-    keys.length !== 8 ||
+    keys.length !== (a.values?.length ?? 8) ||
+    (a.includeCredit && !keys.includes("creditRating")) ||
     JSON.stringify([...vals].sort()) !==
       JSON.stringify([...a.values!].sort()) ||
     (a.required ?? []).some((k) => !keys.includes(k)) ||
-    (a.optional?.length && !a.optional.some((k) => keys.includes(k)))
+    (a.optional?.length && !a.optional.some((k) => keys.includes(k))) ||
+    (a.groups ?? []).some((g) => !g.some((k) => keys.includes(k)))
   )
     invalid("职业技能与指定点值不符");
   for (const k of keys) s.character.skills[k] = input[k] as number;
@@ -752,7 +799,7 @@ function allocation(
       ...specialtyValues,
     };
   s.character.occupation = a.occupation!;
-  s.character.skills.creditRating = a.credit!;
+  if (a.credit !== undefined) s.character.skills.creditRating = a.credit;
 }
 const gradeNames = {
   critical: "大成功",
@@ -999,12 +1046,29 @@ export function advanceProgram(
     go(story, s, target);
   } else if (p(s).pending) {
     const pending = p(s).pending!;
-    if (!["push", "accept"].includes(actionId))
-      invalid("请选择接受失败或孤注一掷");
+    const cost = luckCost(story, s, pending.result);
+    if (
+      (actionId === "push" && !pending.check.push) ||
+      (actionId === "spend-luck" && cost === undefined) ||
+      !["push", "accept", "spend-luck"].includes(actionId)
+    )
+      invalid("当前检定不允许此操作");
     delete p(s).pending;
     if (actionId === "push") {
       result = resolve(s, pending.check, dice);
       checkDone(story, s, pending.check, result, dice, true);
+    } else if (actionId === "spend-luck") {
+      s.character.luck -= cost!;
+      result = {
+        ...pending.result,
+        originalRoll: pending.result.roll,
+        roll: pending.result.target,
+        luckSpent: cost,
+        success: true,
+        grade: pending.check.difficulty ?? "regular",
+      };
+      p(s).log.push(`花费 ${cost} 点幸运，检定成功`);
+      checkDone(story, s, pending.check, result, dice);
     } else checkDone(story, s, pending.check, pending.result, dice);
   } else if (step.kind === "rollEffects" && actionId === "roll") {
     p(s).cursor++;
@@ -1044,7 +1108,10 @@ export function advanceProgram(
   } else if (step.kind === "check" && actionId === "roll") {
     result = resolve(s, step.check, dice, targetBonus);
     action = `进行${step.check.label}检定`;
-    if (!result.success && step.check.push)
+    if (
+      !result.success &&
+      (step.check.push || luckCost(story, s, result) !== undefined)
+    )
       p(s).pending = { check: step.check, result };
     else checkDone(story, s, step.check, result, dice);
   } else if (step.kind === "choices") {

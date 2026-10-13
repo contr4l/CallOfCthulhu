@@ -1,0 +1,36 @@
+{
+  "id": "614",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "614:p0",
+      "kind": "heading",
+      "text": "614",
+      "sourceLocation": "pdf:visual:[[103,41]]"
+    },
+    {
+      "id": "614:p1",
+      "kind": "body",
+      "text": "You grieve over Bernard’s death. But for now, you must decide \nwhether to continue exploring the valley or to take your two \nsurviving students out.",
+      "sourceLocation": "pdf:visual:[[103,42],[103,43],[103,44]]"
+    },
+    {
+      "id": "614:p2",
+      "kind": "body",
+      "text": "To explore further, go to 551. To leave the valley, go to 291.",
+      "sourceLocation": "pdf:visual:[[103,45]]"
+    },
+    {
+      "id": "614:p3",
+      "kind": "trace",
+      "text": "(612)",
+      "sourceLocation": "pdf:visual:[[103,46]]"
+    },
+    {
+      "id": "614:p4",
+      "kind": "body",
+      "text": "102",
+      "sourceLocation": "pdf:visual:[[103,47]]"
+    }
+  ]
+}

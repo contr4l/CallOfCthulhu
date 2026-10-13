@@ -1,0 +1,66 @@
+{
+  "id": "32",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "32:p0",
+      "kind": "heading",
+      "text": "32\n",
+      "sourceLocation": "pdf:spans:[[18,26,29]]"
+    },
+    {
+      "id": "32:p1",
+      "kind": "body",
+      "text": "A cursory inspection of your personal belongings reveals that \nnothing is amiss. All of your possessions are just as you left \nthem. While you are here looking things over, you can take \nthis opportunity to more closely scrutinize items bought at the \nestate sale.\n",
+      "sourceLocation": "pdf:spans:[[18,29,92],[18,92,156],[18,156,216],[18,216,281],[18,281,294]]"
+    },
+    {
+      "id": "32:p2",
+      "kind": "body",
+      "text": "Alternatively, you may leave and go explore elsewhere if your \ncuriosity is satisfied.\nAfter examining each item, you will be redirected to this entry or \ngiven the option to proceed as appropriate. If you have none of the \nitems or are done looking over what you bought, choose to investigate \nelsewhere.\n",
+      "sourceLocation": "pdf:spans:[[18,294,357],[18,357,381],[18,381,449],[18,449,518],[18,518,589],[18,589,600]]"
+    },
+    {
+      "id": "32:p3",
+      "kind": "body",
+      "text": "• If you bought the journal from the estate sale and want to look it \nover, go to 74.\n",
+      "sourceLocation": "pdf:spans:[[18,600,670],[18,670,686]]"
+    },
+    {
+      "id": "32:p4",
+      "kind": "body",
+      "text": "• If you bought the clay cylinders from the estate sale and want to \nlook them over, go to 62.\n",
+      "sourceLocation": "pdf:spans:[[18,686,755],[18,755,781]]"
+    },
+    {
+      "id": "32:p5",
+      "kind": "body",
+      "text": "• If you bought the altar from the estate sale and want to look it \nover, go to 128.\n",
+      "sourceLocation": "pdf:spans:[[18,781,849],[18,849,866]]"
+    },
+    {
+      "id": "32:p6",
+      "kind": "body",
+      "text": "• If you bought the idol from the estate sale and want to look it over, \ngo to 8.\n",
+      "sourceLocation": "pdf:spans:[[18,866,939],[18,939,948]]"
+    },
+    {
+      "id": "32:p7",
+      "kind": "body",
+      "text": "• To go to the police station, go to 11.\n",
+      "sourceLocation": "pdf:spans:[[18,948,989]]"
+    },
+    {
+      "id": "32:p8",
+      "kind": "body",
+      "text": "• To go to the ferry, go to 153.\n",
+      "sourceLocation": "pdf:spans:[[18,989,1022]]"
+    },
+    {
+      "id": "32:p9",
+      "kind": "body",
+      "text": "(8, 62, 74, 106, 128)\n",
+      "sourceLocation": "pdf:spans:[[18,1022,1044]]"
+    }
+  ]
+}

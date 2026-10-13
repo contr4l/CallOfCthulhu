@@ -1,0 +1,30 @@
+{
+  "id": "48",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "48:p0",
+      "kind": "heading",
+      "text": "48",
+      "sourceLocation": "pdf:visual:[[19,28]]"
+    },
+    {
+      "id": "48:p1",
+      "kind": "body",
+      "text": "The woods warm up as night recedes, but as dawn breaks, you \nrealize that you are lost in the Canadian wilds. You stay where \nyou are for the remainder of the day, dining on blueberries. The \nfall of darkness and the arrival of a second dawn make your \nisolation clear.",
+      "sourceLocation": "pdf:visual:[[19,30],[19,31],[19,32],[19,33],[19,34]]"
+    },
+    {
+      "id": "48:p2",
+      "kind": "body",
+      "text": "Go to 67.",
+      "sourceLocation": "pdf:visual:[[19,35]]"
+    },
+    {
+      "id": "48:p3",
+      "kind": "trace",
+      "text": "(47, 109)",
+      "sourceLocation": "pdf:visual:[[19,36]]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "151",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "151:p0",
+      "kind": "heading",
+      "text": "151\n",
+      "sourceLocation": "pdf:spans:[[50,571,575]]"
+    },
+    {
+      "id": "151:p1",
+      "kind": "body",
+      "text": "You make your way through Esbury’s streets, confirming your \nwhereabouts every so often by approaching a building to check \nthe address against the location you’re searching for.\n",
+      "sourceLocation": "pdf:spans:[[50,575,636],[50,636,699],[50,699,754]]"
+    },
+    {
+      "id": "151:p2",
+      "kind": "body",
+      "text": "After some time, you arrive at Joshua’s house. You insert the \nkey in the lock and open the door into a small living area.\n",
+      "sourceLocation": "pdf:spans:[[50,754,817],[50,817,877]]"
+    },
+    {
+      "id": "151:p3",
+      "kind": "body",
+      "text": "Glancing around, you see a compact living room and kitchen. \nThere are two doors at opposite ends of the common area. The \ndoor to your left is wide open and you can see a set of stairs \nleading down. The door to your right is closed. You assume it \nleads to the bedroom.\n",
+      "sourceLocation": "pdf:spans:[[50,877,938],[50,938,1000],[50,1000,1064],[50,1064,1127],[50,1127,1149]]"
+    },
+    {
+      "id": "151:p4",
+      "kind": "body",
+      "text": "• To head down the stairs, go to 156.\n",
+      "sourceLocation": "pdf:spans:[[50,1151,1189]]"
+    },
+    {
+      "id": "151:p5",
+      "kind": "body",
+      "text": "• To head into the bedroom, go to 202.\n",
+      "sourceLocation": "pdf:spans:[[50,1189,1228]]"
+    },
+    {
+      "id": "151:p6",
+      "kind": "body",
+      "text": "(21, 120, 143, 222)\n",
+      "sourceLocation": "pdf:spans:[[50,1228,1248]]"
+    }
+  ]
+}

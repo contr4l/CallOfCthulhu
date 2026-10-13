@@ -1,0 +1,72 @@
+{
+  "id": "81",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "81:p0",
+      "kind": "heading",
+      "text": "81\n",
+      "sourceLocation": "pdf:spans:[[30,387,390]]"
+    },
+    {
+      "id": "81:p1",
+      "kind": "body",
+      "text": "You notice that you’re not the only one looking over the items \nwith such interest. The monk appears to be closely scrutinizing \nthe stranger items as well, and the dark-suited gentlemen \nfrom earlier seem to have taken a liking to the curious idol. \nApart from this, various other guests wander around the tables, \noccasionally fixing on one in particular. There are many guests \nand a fair number of bids being placed.\n",
+      "sourceLocation": "pdf:spans:[[30,390,454],[30,454,519],[30,519,578],[30,578,641],[30,641,706],[30,706,771],[30,771,811]]"
+    },
+    {
+      "id": "81:p2",
+      "kind": "body",
+      "text": "If you would like to bid on any of the items, now is the time. \nYou will be redirected to this entry after each choice and you may \nchoose to bid on any number of items. Please make each choice only \nonce, and please note that each successful bid will lower your Credit \nRating for future bids.\n",
+      "sourceLocation": "pdf:spans:[[30,811,875],[30,875,943],[30,943,1011],[30,1011,1082],[30,1082,1106]]"
+    },
+    {
+      "id": "81:p3",
+      "kind": "body",
+      "text": "• To bid on the clay cylinders, go to 24.\n",
+      "sourceLocation": "pdf:spans:[[30,1106,1148]]"
+    },
+    {
+      "id": "81:p4",
+      "kind": "body",
+      "text": "• To bid on the altar, go to 103.\n",
+      "sourceLocation": "pdf:spans:[[30,1148,1182]]"
+    },
+    {
+      "id": "81:p5",
+      "kind": "body",
+      "text": "• To bid on the crown, go to 58.\n",
+      "sourceLocation": "pdf:spans:[[30,1182,1215]]"
+    },
+    {
+      "id": "81:p6",
+      "kind": "body",
+      "text": "• To bid on the journal, go to 6.\n",
+      "sourceLocation": "pdf:spans:[[30,1215,1249]]"
+    },
+    {
+      "id": "81:p7",
+      "kind": "body",
+      "text": "• To bid on the ceremonial robe, go to 30.\n",
+      "sourceLocation": "pdf:spans:[[30,1249,1292]]"
+    },
+    {
+      "id": "81:p8",
+      "kind": "body",
+      "text": "• To bid on the strange idol, go to 92.\n",
+      "sourceLocation": "pdf:spans:[[30,1292,1332]]"
+    },
+    {
+      "id": "81:p9",
+      "kind": "body",
+      "text": "• If you are unable or do not wish to bid on any further items, go to 16.\n",
+      "sourceLocation": "pdf:spans:[[30,1332,1406]]"
+    },
+    {
+      "id": "81:p10",
+      "kind": "body",
+      "text": "(14, 19, 38, 45, 48, 52, 59, 61, 64, 73, 86, 94, 100, 154)\n",
+      "sourceLocation": "pdf:spans:[[30,1406,1465]]"
+    }
+  ]
+}

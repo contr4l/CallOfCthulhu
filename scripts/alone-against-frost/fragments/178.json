@@ -1,0 +1,30 @@
+{
+  "id": "178",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "178:p0",
+      "kind": "heading",
+      "text": "178",
+      "sourceLocation": "pdf:visual:[[39,66]]"
+    },
+    {
+      "id": "178:p1",
+      "kind": "body",
+      "text": "Legend says that the wind-walker has strange feet. You let the \nsuspect sleep. When you think he is deep in slumber, you creep \ntoward him. To get the proof you need, you must merely open \nthe bandages and examine his feet, without waking him.",
+      "sourceLocation": "pdf:visual:[[39,67],[39,68],[39,69],[39,70]]"
+    },
+    {
+      "id": "178:p2",
+      "kind": "body",
+      "text": "Make a Sleight of Hand roll: if you succeed, go to 204; if you fail, \ngo to 80.",
+      "sourceLocation": "pdf:visual:[[39,71],[39,72]]"
+    },
+    {
+      "id": "178:p3",
+      "kind": "trace",
+      "text": "(176)",
+      "sourceLocation": "pdf:visual:[[39,73]]"
+    }
+  ]
+}

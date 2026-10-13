@@ -1,0 +1,35 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "119-death",
+    "119-wounded",
+    "119"
+  ],
+  "text": [
+    "根据你一路走来的方向，右边那条路似乎才是正确的。你把十字路口抛在身后，迈步沿着浓雾笼罩的小路默默前行。",
+    "你感觉脚下的地势开始变化。现在路面向下倾斜，想必这条小径沿着湖岸蜿蜒伸展。",
+    "很快，你的猜测得到证实：脚下的地面越来越泥泞潮湿。不久，你的鞋子便沾满泥巴；你在沼泽般的地面上艰难跋涉，水也开始漫到脚边。",
+    "水位突然急剧上升。你感觉水涨到小腿，随后又没过膝盖。你在泥泞中涉水前进，盼望越往前走，水位就会越低。",
+    "并没有。你继续蹚水前行，水涨到腰部，而且没有变浅的迹象。",
+    "你确信前面的路是正确方向，只是这片区域被淹了。若想离开这里，你必须游进浓雾，希望能抵达这处意外形成的水湾对岸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 119",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 119",
+      "text": [
+        "Judging by the direction you’ve been traveling, the path on the right seems as if it should be the correct one. You leave the crossroads behind and put one foot in front of the other, plodding silently down the foggy path.",
+        "You feel the elevation begin to change beneath your feet. You are sloping downward now, presumably following a trail that winds along the length of the lake.",
+        "Your suspicions are soon confirmed, as the ground beneath your feet becomes increasingly waterlogged. It isn’t long before your shoes are covered in mud, and water begins to rise around your feet as you slog through the marshy ground.",
+        "Suddenly, the water level rises sharply. You feel it surge up to your calf, and then to your knee. As you wade through the muck, you find yourself hoping that the water level will recede the further forward you go.",
+        "It doesn’t. As you slosh onward, the water rises to your waist and shows no sign of getting any shallower.",
+        "You feel confident that the road ahead is the correct one, and that the area is flooded. You will have to swim into the fog and hope to reach the other side of this unexpected inlet if you are to make your way out of here."
+      ]
+    }
+  }
+}

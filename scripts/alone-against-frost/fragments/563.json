@@ -1,0 +1,48 @@
+{
+  "id": "563",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "563:p0",
+      "kind": "heading",
+      "text": "563",
+      "sourceLocation": "pdf:visual:[[96,14]]"
+    },
+    {
+      "id": "563:p1",
+      "kind": "body",
+      "text": "The hunters seem most interested in young Sylvia Davidson. \nThey seize and bind her. You bark a curse and try to throw off \nthose holding you. One slams the back of his fist into your face. \nAs you stagger, blood begins to run from your nose. Beside you, \nNorman struggles and meets the same reaction.",
+      "sourceLocation": "pdf:visual:[[96,15],[96,16],[96,17],[96,18],[96,19]]"
+    },
+    {
+      "id": "563:p2",
+      "kind": "body",
+      "text": "The others place Sylvia up against a tree and tie her there, \nlike some sort of offering to the forest. “Professor!” she cries, \nbut you can do nothing. The hunters shove you and Norman \nout of the clearing as they gather their gear and leave the spot. \nYou and Norman are pushed ahead of them down the trail, as \nSylvia’s sobs fade with the distance.",
+      "sourceLocation": "pdf:visual:[[96,20],[96,21],[96,22],[96,23],[96,24],[96,25]]"
+    },
+    {
+      "id": "563:p3",
+      "kind": "body",
+      "text": "Once you are well away from the spot, the hunters seem to \nlose interest in you. They tie both of you up and vanish into the \ntwilit forest. Surprisingly, they leave your weapons nearby.",
+      "sourceLocation": "pdf:visual:[[96,26],[96,27],[96,28]]"
+    },
+    {
+      "id": "563:p4",
+      "kind": "body",
+      "text": "You and Norman struggle with your rawhide bindings. Can \nyou get back to Sylvia before who-knows-what befalls her in \nthe darkness?",
+      "sourceLocation": "pdf:visual:[[96,29],[96,30],[96,31]]"
+    },
+    {
+      "id": "563:p5",
+      "kind": "body",
+      "text": "Lose 1 hit point. You may attempt to break the bindings or wriggle \nfree. Choose either STR or DEX, and then make a Hard roll on that \ncharacteristic. If you fail, Norman may make an attempt. If one of \nyou succeeds, go to 564. If you both fail, you each may try one more \ntime. If you succeed on the second attempt, go to 565. If you both fail \ntwice, go to 258.",
+      "sourceLocation": "pdf:visual:[[96,32],[96,33],[96,34],[96,35],[96,36],[96,37]]"
+    },
+    {
+      "id": "563:p6",
+      "kind": "trace",
+      "text": "(571)",
+      "sourceLocation": "pdf:visual:[[96,38]]"
+    }
+  ]
+}

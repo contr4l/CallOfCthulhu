@@ -1,0 +1,36 @@
+{
+  "id": "221",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "221:p0",
+      "kind": "heading",
+      "text": "221\n",
+      "sourceLocation": "pdf:spans:[[71,2384,2388]]"
+    },
+    {
+      "id": "221:p1",
+      "kind": "body",
+      "text": "The car shoots forward, and you’re caught in its headlights as \nthey pierce through the fog. The driver doesn’t show any sign \nof slowing—they’re driving with reckless abandon, bounding \nalong the road and swerving madly.\n",
+      "sourceLocation": "pdf:spans:[[71,2388,2452],[71,2452,2515],[71,2515,2575],[71,2575,2610]]"
+    },
+    {
+      "id": "221:p2",
+      "kind": "body",
+      "text": "You’re unable to predict any pattern in the erratic route the \nvehicle takes. You try to throw yourself aside to avoid it, but you fail.\n",
+      "sourceLocation": "pdf:spans:[[71,2610,2673],[71,2673,2747]]"
+    },
+    {
+      "id": "221:p3",
+      "kind": "body",
+      "text": "The car hits you head-on. Many of your bones shatter as you \nare killed on impact.\nYou have died. You’re welcome to try the story again in hopes of \na different outcome, but for now, your visit to Esbury is over. \nTHE END. \n",
+      "sourceLocation": "pdf:spans:[[71,2747,2808],[71,2808,2830],[71,2832,2898],[71,2898,2963],[71,2963,2973]]"
+    },
+    {
+      "id": "221:p4",
+      "kind": "body",
+      "text": "(185, 201, 229)\n",
+      "sourceLocation": "pdf:spans:[[71,2973,2989]]"
+    }
+  ]
+}

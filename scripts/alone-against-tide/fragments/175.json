@@ -1,0 +1,48 @@
+{
+  "id": "175",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "175:p0",
+      "kind": "heading",
+      "text": "175\n",
+      "sourceLocation": "pdf:spans:[[56,26,30]]"
+    },
+    {
+      "id": "175:p1",
+      "kind": "body",
+      "text": "You wade forward, into the water, and feel the ground slope \naway beneath your feet. You kick off and swim forward using \nbroad, simple strokes in an attempt to maximize the distance \nyou move for the least amount of effort.\n",
+      "sourceLocation": "pdf:spans:[[56,30,91],[56,91,152],[56,152,214],[56,214,255]]"
+    },
+    {
+      "id": "175:p2",
+      "kind": "body",
+      "text": "You can barely see anything in the fog, so you try to keep your \ncourse as straight as possible, hoping there are no hidden twists \nor curves in the path you now swim above. You glide through \nthe water for several minutes, eventually reaching the opposite \nside, where you spot the path emerging from the water.\n",
+      "sourceLocation": "pdf:spans:[[56,255,320],[56,320,387],[56,387,448],[56,448,513],[56,513,568]]"
+    },
+    {
+      "id": "175:p3",
+      "kind": "body",
+      "text": "You clamber out of the water and shake off the worst of the \nwetness. You’re covered in filth and are soaked to the bone, but \nat least you’re on the path once more.\n",
+      "sourceLocation": "pdf:spans:[[56,568,629],[56,629,695],[56,695,734]]"
+    },
+    {
+      "id": "175:p4",
+      "kind": "body",
+      "text": "However, you are cold and wet, and the darkness and fog \nmake navigating that much harder, despite the trail beneath \nyour feet. You resolve to make a fire, so that you may first dry \nyourself, then make a torch to keep back the darkness so that \nyou might find your way.\n",
+      "sourceLocation": "pdf:spans:[[56,734,791],[56,791,852],[56,852,918],[56,918,981],[56,981,1006]]"
+    },
+    {
+      "id": "175:p5",
+      "kind": "body",
+      "text": "• Make a Survival roll (the specialization isn’t important, as making \na fire is among the most basic of survival skills): if you succeed, go \nto 206; if you fail, go to 224.\n",
+      "sourceLocation": "pdf:spans:[[56,1008,1079],[56,1079,1151],[56,1151,1183]]"
+    },
+    {
+      "id": "175:p6",
+      "kind": "body",
+      "text": "(119)\n",
+      "sourceLocation": "pdf:spans:[[56,1183,1189]]"
+    }
+  ]
+}

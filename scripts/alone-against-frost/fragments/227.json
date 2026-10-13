@@ -1,0 +1,30 @@
+{
+  "id": "227",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "227:p0",
+      "kind": "heading",
+      "text": "227",
+      "sourceLocation": "pdf:visual:[[47,2]]"
+    },
+    {
+      "id": "227:p1",
+      "kind": "body",
+      "text": "It is your duty to attempt to rescue your graduate students. You \nthrow yourself into the rushing water.",
+      "sourceLocation": "pdf:visual:[[47,4],[47,6]]"
+    },
+    {
+      "id": "227:p2",
+      "kind": "body",
+      "text": "Make a Hard Swim roll: if you succeed, go to 251; if you fail, go \nto 189.",
+      "sourceLocation": "pdf:visual:[[47,8],[47,9]]"
+    },
+    {
+      "id": "227:p3",
+      "kind": "trace",
+      "text": "(223, 319)",
+      "sourceLocation": "pdf:visual:[[47,11]]"
+    }
+  ]
+}

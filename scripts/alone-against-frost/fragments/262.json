@@ -1,0 +1,42 @@
+{
+  "id": "262",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "262:p0",
+      "kind": "heading",
+      "text": "262",
+      "sourceLocation": "pdf:visual:[[52,41]]"
+    },
+    {
+      "id": "262:p1",
+      "kind": "body",
+      "text": "Abruptly,  the  contest  between  Sylvia  and  the  old  woman \nconcludes. When the hag sags to the ground, you think for a \nmoment that Sylvia has won.",
+      "sourceLocation": "pdf:visual:[[52,42],[52,43],[52,44]]"
+    },
+    {
+      "id": "262:p2",
+      "kind": "body",
+      "text": "But  then  she  speaks  a  bizarre  phrase,  “Ipsdrib-tpofmaut!” \nA blaze of unearthly flame chars her bonds to powder.  She \nstands  up.  Outwardly,  she  appears  unchanged.  But  Sylvia’s \ncharacteristic seriousness has been seared away. Her movements \nare utterly unlike those of the Sylvia you have known for many \nmonths. The witch’s spell has taken possession of her. She slowly \nand deliberately removes her clothing, then wraps herself up in \nthe deerskin formerly worn by her now-deceased predecessor.",
+      "sourceLocation": "pdf:visual:[[52,45],[52,46],[52,47],[52,48],[52,49],[52,50],[52,51],[52,52]]"
+    },
+    {
+      "id": "262:p3",
+      "kind": "body",
+      "text": "The tiny men grovel on the ground before the girl’s naked \nfeet. She accepts their homage, then turns a withering stare \ntoward you and Norman. She gives an order in an unknown \ntongue.",
+      "sourceLocation": "pdf:visual:[[52,53],[52,54],[52,55],[52,56]]"
+    },
+    {
+      "id": "262:p4",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 263; if the result is odd, go \nto 265.",
+      "sourceLocation": "pdf:visual:[[52,57],[52,58]]"
+    },
+    {
+      "id": "262:p5",
+      "kind": "trace",
+      "text": "(260)",
+      "sourceLocation": "pdf:visual:[[52,59]]"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "115",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "115:p0",
+      "kind": "heading",
+      "text": "115\n",
+      "sourceLocation": "pdf:spans:[[38,1225,1229]]"
+    },
+    {
+      "id": "115:p1",
+      "kind": "body",
+      "text": "You struggle against your bonds as you begin to panic. \nMercifully, they give way. Joshua is shocked by the sound of \nsnapping rope echoing off the walls and he jumps away from \nyou on pure reflex.\n",
+      "sourceLocation": "pdf:spans:[[38,1229,1285],[38,1285,1347],[38,1347,1407],[38,1407,1427]]"
+    },
+    {
+      "id": "115:p2",
+      "kind": "body",
+      "text": "You act on instinct. Without thinking, you rush toward him, \nattempting to wrestle the knife from his grasp. You know that \nyou need to be the one in control of the weapon if you’re going \nto survive this, especially as there’s another armed man just \noutside the door.\n",
+      "sourceLocation": "pdf:spans:[[38,1427,1488],[38,1488,1551],[38,1551,1616],[38,1616,1679],[38,1679,1697]]"
+    },
+    {
+      "id": "115:p3",
+      "kind": "body",
+      "text": "You grasp Joshua’s forearm, preventing him from attacking \nyou with the knife. You then try to pry it from his hand even \nas you jab and strike at him with knees and elbows, hoping \ndesperately that you can snatch the blade from his grip.\n",
+      "sourceLocation": "pdf:spans:[[38,1697,1756],[38,1756,1819],[38,1819,1879],[38,1879,1936]]"
+    },
+    {
+      "id": "115:p4",
+      "kind": "body",
+      "text": "• Make a Fighting (Brawl) roll: if you succeed, go to 133; if you \nfail, go to 180.\n",
+      "sourceLocation": "pdf:spans:[[38,1936,2003],[38,2003,2020]]"
+    },
+    {
+      "id": "115:p5",
+      "kind": "body",
+      "text": "(138)\n",
+      "sourceLocation": "pdf:spans:[[38,2020,2026]]"
+    }
+  ]
+}

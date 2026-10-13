@@ -1,0 +1,36 @@
+{
+  "id": "103",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "103:p0",
+      "kind": "heading",
+      "text": "103",
+      "sourceLocation": "pdf:visual:[[27,73]]"
+    },
+    {
+      "id": "103:p1",
+      "kind": "body",
+      "text": "You draw a stiff, burning brand from the campfire and then \nsteal up behind the supposed “monster.” As he starts to turn his \nhead, you stab for his heart, your hands strengthened by a rush \nof adrenaline. He lets out an anguished shriek, clutches at the \nbrand, and then slumps.",
+      "sourceLocation": "pdf:visual:[[27,74],[27,75],[27,76],[27,77],[27,78]]"
+    },
+    {
+      "id": "103:p2",
+      "kind": "body",
+      "text": "In examining the body, you realize you have made a terrible \nmistake. Carried away by wild imaginings, you have murdered \na perfectly ordinary person.",
+      "sourceLocation": "pdf:visual:[[27,79],[27,80],[27,81]]"
+    },
+    {
+      "id": "103:p3",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 105.",
+      "sourceLocation": "pdf:visual:[[27,82]]"
+    },
+    {
+      "id": "103:p4",
+      "kind": "trace",
+      "text": "(177)",
+      "sourceLocation": "pdf:visual:[[27,83]]"
+    }
+  ]
+}

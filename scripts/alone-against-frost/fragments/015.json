@@ -1,0 +1,42 @@
+{
+  "id": "15",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "15:p0",
+      "kind": "heading",
+      "text": "15",
+      "sourceLocation": "pdf:visual:[[12,33]]"
+    },
+    {
+      "id": "15:p1",
+      "kind": "body",
+      "text": "“I know nothing! Nothing!” Charlie bellows, deeply agitated. You \ncalm her with some difficulty. Once she subsides, you turn to \nNorman and ask him to arrange a search for Bernard.",
+      "sourceLocation": "pdf:visual:[[12,34],[12,35],[12,36]]"
+    },
+    {
+      "id": "15:p2",
+      "kind": "body",
+      "text": "You glance back at the sullen Charlie. You could really use \nher woodcraft skills. But can you depend on her?",
+      "sourceLocation": "pdf:visual:[[12,37],[12,38]]"
+    },
+    {
+      "id": "15:p3",
+      "kind": "body",
+      "text": "Make a Psychology roll: if you succeed, go to 27; if you fail, go to 29.",
+      "sourceLocation": "pdf:visual:[[12,39]]"
+    },
+    {
+      "id": "15:p4",
+      "kind": "trace",
+      "text": "(8)",
+      "sourceLocation": "pdf:visual:[[12,40]]"
+    },
+    {
+      "id": "15:p5",
+      "kind": "body",
+      "text": "11",
+      "sourceLocation": "pdf:visual:[[12,41]]"
+    }
+  ]
+}

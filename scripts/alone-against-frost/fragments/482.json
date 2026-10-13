@@ -1,0 +1,36 @@
+{
+  "id": "482",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "482:p0",
+      "kind": "heading",
+      "text": "482",
+      "sourceLocation": "pdf:visual:[[85,2]]"
+    },
+    {
+      "id": "482:p1",
+      "kind": "body",
+      "text": "Norman stumbles over some deadwood masked by the tall grass. \nThe motley herd of prehistoric beasts thunders directly behind \nhim. Sylvia hesitates and then turns back to help her friend.",
+      "sourceLocation": "pdf:visual:[[85,4],[85,6],[85,7]]"
+    },
+    {
+      "id": "482:p2",
+      "kind": "body",
+      "text": "You  bellow  a  warning  over  the  bawling  and  bleating  of \nthe terrified animals. Before your horrified eyes, a mastodon \nknocks  down  and  tramples  the  hapless  pair.  One  glance  is \nenough to tell you there is no hope for them. Wracked with \nremorse, you run into the woods. When it is safe, you trudge \nto the valley exit.",
+      "sourceLocation": "pdf:visual:[[85,9],[85,10],[85,12],[85,13],[85,15],[85,16]]"
+    },
+    {
+      "id": "482:p3",
+      "kind": "body",
+      "text": "Go to 491.",
+      "sourceLocation": "pdf:visual:[[85,18]]"
+    },
+    {
+      "id": "482:p4",
+      "kind": "trace",
+      "text": "(616)",
+      "sourceLocation": "pdf:visual:[[85,20]]"
+    }
+  ]
+}

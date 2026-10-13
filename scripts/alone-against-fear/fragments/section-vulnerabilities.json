@@ -1,0 +1,86 @@
+{
+  "id": "section-vulnerabilities",
+  "paragraphs": [
+    {
+      "id": "section-vulnerabilities:p0000",
+      "kind": "body",
+      "text": "Vulnerabilities\n",
+      "sourceLocation": "pdf:spans:[[36,22,38]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0001",
+      "kind": "body",
+      "text": "A monster who is vulnerable to a\n",
+      "sourceLocation": "pdf:spans:[[36,38,71]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0002",
+      "kind": "body",
+      "text": "substance loses 2 Life if exposed to\n",
+      "sourceLocation": "pdf:spans:[[36,71,108]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0003",
+      "kind": "body",
+      "text": "it. The effect is automatic unless the\n",
+      "sourceLocation": "pdf:spans:[[36,108,147]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0004",
+      "kind": "body",
+      "text": "monster’s description says\n",
+      "sourceLocation": "pdf:spans:[[36,147,174]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0005",
+      "kind": "body",
+      "text": "otherwise. You spend 1 action to\n",
+      "sourceLocation": "pdf:spans:[[36,174,207]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0006",
+      "kind": "body",
+      "text": "use the object or substance that\n",
+      "sourceLocation": "pdf:spans:[[36,207,240]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0007",
+      "kind": "body",
+      "text": "triggers the creature’s vulnerability.\n",
+      "sourceLocation": "pdf:spans:[[36,240,279]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0008",
+      "kind": "body",
+      "text": "Some undead and demons, for\n",
+      "sourceLocation": "pdf:spans:[[36,279,307]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0009",
+      "kind": "body",
+      "text": "example, are vulnerable to holy\n",
+      "sourceLocation": "pdf:spans:[[36,307,339]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0010",
+      "kind": "body",
+      "text": "water. You spend 1 action and use\n",
+      "sourceLocation": "pdf:spans:[[36,339,373]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0011",
+      "kind": "body",
+      "text": "one vial of holy water to inflict 2\n",
+      "sourceLocation": "pdf:spans:[[36,373,409]]"
+    },
+    {
+      "id": "section-vulnerabilities:p0012",
+      "kind": "body",
+      "text": "damage to the target.\n",
+      "sourceLocation": "pdf:spans:[[36,409,431]]"
+    }
+  ],
+  "sourcePages": [
+    36
+  ]
+}

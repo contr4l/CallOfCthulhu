@@ -1,0 +1,36 @@
+{
+  "id": "576",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "576:p0",
+      "kind": "heading",
+      "text": "576",
+      "sourceLocation": "pdf:visual:[[98,1]]"
+    },
+    {
+      "id": "576:p1",
+      "kind": "body",
+      "text": "Silently, you motion Norman and Sylvia to stay back and get \nunder cover. You observe the group for a moment, assessing \ntheir behavior.",
+      "sourceLocation": "pdf:visual:[[98,2],[98,3],[98,4]]"
+    },
+    {
+      "id": "576:p2",
+      "kind": "body",
+      "text": "One goes behind a nearby tree and yanks a girl to her feet. \nShe looks like she belongs to their community, but her hands \nare bound. Puzzled by this rough treatment of one of their own, \nyou watch the Tsuut’ina lash her to a tree trunk with rawhide \nthongs. When they are done, they gather their gear and depart \nfrom the hollow.",
+      "sourceLocation": "pdf:visual:[[98,5],[98,6],[98,7],[98,8],[98,9],[98,10]]"
+    },
+    {
+      "id": "576:p3",
+      "kind": "body",
+      "text": "To shout after them, go to 560. To let them move off before you \napproach the girl, go to 577.",
+      "sourceLocation": "pdf:visual:[[98,11],[98,12]]"
+    },
+    {
+      "id": "576:p4",
+      "kind": "trace",
+      "text": "(559)",
+      "sourceLocation": "pdf:visual:[[98,13]]"
+    }
+  ]
+}

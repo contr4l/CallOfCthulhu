@@ -1,0 +1,36 @@
+{
+  "id": "333",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "333:p0",
+      "kind": "heading",
+      "text": "333",
+      "sourceLocation": "pdf:visual:[[63,39]]"
+    },
+    {
+      "id": "333:p1",
+      "kind": "body",
+      "text": "Huddled  in  dank  darkness,  the  two  of  you  hide  from  the \ncreatures outside. You hear many pairs of strange feet scuttling, \nclose by.",
+      "sourceLocation": "pdf:visual:[[63,40],[63,41],[63,42]]"
+    },
+    {
+      "id": "333:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll for Norman and yourself: if you both succeed, go \nto 334; if either of you fails, go to 335.",
+      "sourceLocation": "pdf:visual:[[63,43],[63,44]]"
+    },
+    {
+      "id": "333:p3",
+      "kind": "trace",
+      "text": "(280, 298)",
+      "sourceLocation": "pdf:visual:[[63,45]]"
+    },
+    {
+      "id": "333:p4",
+      "kind": "body",
+      "text": "62",
+      "sourceLocation": "pdf:visual:[[63,46]]"
+    }
+  ]
+}

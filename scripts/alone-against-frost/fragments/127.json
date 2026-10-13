@@ -1,0 +1,30 @@
+{
+  "id": "127",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "127:p0",
+      "kind": "heading",
+      "text": "127",
+      "sourceLocation": "pdf:visual:[[31,33]]"
+    },
+    {
+      "id": "127:p1",
+      "kind": "body",
+      "text": "The  face  before  you  deforms  into  that  of  a  fiend  incarnate. \nThree times it belches out a raucous shriek and at each, the \nfigure grows and changes. With the third cry, it is a human no \nlonger, but a demonic giant of ice and tatters.",
+      "sourceLocation": "pdf:visual:[[31,34],[31,35],[31,36],[31,37]]"
+    },
+    {
+      "id": "127:p2",
+      "kind": "body",
+      "text": "To attempt to fight the creature, go to 184. To attempt to flee, go to \n187.",
+      "sourceLocation": "pdf:visual:[[31,38],[31,39]]"
+    },
+    {
+      "id": "127:p3",
+      "kind": "trace",
+      "text": "(81, 141, 206, 207, 209, 219, 220, 222)",
+      "sourceLocation": "pdf:visual:[[31,40]]"
+    }
+  ]
+}

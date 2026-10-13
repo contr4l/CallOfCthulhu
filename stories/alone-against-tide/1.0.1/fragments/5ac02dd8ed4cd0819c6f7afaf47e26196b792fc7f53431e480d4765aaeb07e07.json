@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "197"
+  ],
+  "text": [
+    "你继续跑了一段路，在埃斯伯里周围的森林里穿梭于树木之间。你在黑暗与浓雾中跌跌撞撞，几次差点被树根和石块绊倒。最后，你失去平衡，重重撞上一块巨石。",
+    "你的头撞上岩石，把你打昏了。你完全不知道之后发生了什么，因为你再也没有醒来。",
+    "你死了。你不知道夺走你性命的是坠落、上涨的洪水，还是那些奇怪的怪物，但你在埃斯伯里的旅程已经结束。下次好运些吧。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 197",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 197",
+      "text": [
+        "You run on for some distance, dashing between the trees in the forests around Esbury. You stumble through the darkness and fog, half-tripping over roots and rocks. Eventually, you lose your footing and crash into a boulder.",
+        "Your head slams against the rock, knocking you out. You have no idea what happens next as you never wake up. You have died. You don’t know if it was the fall, or the rising waters, or the strange monsters that took your life, but your visit to Esbury is over. Better luck next time."
+      ]
+    }
+  }
+}

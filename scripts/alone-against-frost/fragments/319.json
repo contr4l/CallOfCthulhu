@@ -1,0 +1,30 @@
+{
+  "id": "319",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "319:p0",
+      "kind": "heading",
+      "text": "319",
+      "sourceLocation": "pdf:visual:[[61,42]]"
+    },
+    {
+      "id": "319:p1",
+      "kind": "body",
+      "text": "Too late! Sylvia slides over the edge! As you reach the brink, \nboth the students are being battered by the turbulence.",
+      "sourceLocation": "pdf:visual:[[61,43],[61,44]]"
+    },
+    {
+      "id": "319:p2",
+      "kind": "body",
+      "text": "To leap in and attempt a hazardous rescue, go to 227. Otherwise, \nyou must watch them drown; then, go to 67.",
+      "sourceLocation": "pdf:visual:[[61,45],[61,46]]"
+    },
+    {
+      "id": "319:p3",
+      "kind": "trace",
+      "text": "(316, 469)",
+      "sourceLocation": "pdf:visual:[[61,47]]"
+    }
+  ]
+}

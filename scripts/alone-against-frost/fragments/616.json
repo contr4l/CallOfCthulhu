@@ -1,0 +1,30 @@
+{
+  "id": "616",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "616:p0",
+      "kind": "heading",
+      "text": "616",
+      "sourceLocation": "pdf:visual:[[103,53]]"
+    },
+    {
+      "id": "616:p1",
+      "kind": "body",
+      "text": "The thundering beasts gain on you. But the pack is thinning out.",
+      "sourceLocation": "pdf:visual:[[103,54]]"
+    },
+    {
+      "id": "616:p2",
+      "kind": "body",
+      "text": "Make a CON roll for Norman, Sylvia, and yourself. Due to your \nlong head start, you may each have a bonus die. If everyone succeeds, \ngo to 344. If you fail, take 2D10 points of damage; if you somehow \nsurvive, go to 347. If you succeed but both Norman and Sylvia fail \nthe roll, go to 356. If Norman alone fails it, go to 482. If Sylvia \nalone fails it, go to 520. ",
+      "sourceLocation": "pdf:visual:[[103,55],[103,56],[103,57],[103,58],[103,59],[103,60]]"
+    },
+    {
+      "id": "616:p3",
+      "kind": "trace",
+      "text": "(370, 619)",
+      "sourceLocation": "pdf:visual:[[103,61]]"
+    }
+  ]
+}

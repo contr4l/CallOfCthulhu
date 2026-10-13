@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "189"
+  ],
+  "text": [
+    "你收集了一些足够干燥的木头，然后从口袋里掏出随身携带的一小本火柴，正好应付这种情况。",
+    "你摸索了相当一阵子，尽量沿着道路前进，最后终于点燃了临时火把。你沿路行走时，火把照亮了前方的一块路牌。仔细查看后，你发现小路前方分岔了。若继续沿原路走下去，你会绕回埃斯伯里。因此，你改走旁边分出的另一条小路，向夜色中迈步前行。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 189",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 189",
+      "text": [
+        "You gather some suitably dry wood then reach into your pocket for the small book of matches you always carry on your person, just for situations like this.",
+        "You fumble around for quite some time, keeping to the road as best as you can, before successfully lighting your makeshift torch. As you walk along, your torch illuminates a signpost further along the trail. Investigating the sign more closely, you find that the trail splits ahead. If you keep to this path as you’d intended, you’ll loop back around to Esbury. So, instead, you take a smaller trail that branches off to the side, marching along into the night."
+      ]
+    }
+  }
+}

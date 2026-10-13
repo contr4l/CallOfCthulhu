@@ -1,0 +1,30 @@
+{
+  "id": "5",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "5:p0",
+      "kind": "heading",
+      "text": "5",
+      "sourceLocation": "pdf:visual:[[10,64]]"
+    },
+    {
+      "id": "5:p1",
+      "kind": "body",
+      "text": "Your  first  night  along  the  North  Hanninah  passes  without \nmishap.  You  must  now  decide  whether  to  press  on  hard  to \npenetrate  deep  into  the  region  or  set  a  more  leisurely  pace, \nexploring as you go.",
+      "sourceLocation": "pdf:visual:[[10,65],[10,66],[10,67],[10,68]]"
+    },
+    {
+      "id": "5:p2",
+      "kind": "body",
+      "text": "To press on, go to 10. To take your time, go to 11.",
+      "sourceLocation": "pdf:visual:[[10,69]]"
+    },
+    {
+      "id": "5:p3",
+      "kind": "trace",
+      "text": "(2)",
+      "sourceLocation": "pdf:visual:[[10,70]]"
+    }
+  ]
+}

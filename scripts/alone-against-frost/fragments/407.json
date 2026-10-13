@@ -1,0 +1,36 @@
+{
+  "id": "407",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "407:p0",
+      "kind": "heading",
+      "text": "407",
+      "sourceLocation": "pdf:visual:[[73,2]]"
+    },
+    {
+      "id": "407:p1",
+      "kind": "body",
+      "text": "The loss of your companions torments you even as the smoke \nswirls in. Do you truly want to survive?",
+      "sourceLocation": "pdf:visual:[[73,4],[73,6]]"
+    },
+    {
+      "id": "407:p2",
+      "kind": "body",
+      "text": "To keep going through the fire, you must succeed with three Hard \nCON rolls. You may try as many times as you wish, but the first \ntime you fail, and on every fail thereafter, you suffer 1D3 damage \nfrom smoke inhalation.",
+      "sourceLocation": "pdf:visual:[[73,8],[73,9],[73,11],[73,12]]"
+    },
+    {
+      "id": "407:p3",
+      "kind": "body",
+      "text": "If you succeed three times without dying, go to 408. If not, the \nNadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[73,14],[73,15]]"
+    },
+    {
+      "id": "407:p4",
+      "kind": "trace",
+      "text": "(405)",
+      "sourceLocation": "pdf:visual:[[73,17]]"
+    }
+  ]
+}

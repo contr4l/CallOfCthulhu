@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "136"
+  ],
+  "text": [
+    "你追赶阿米莉娅·哈里斯。她消失在浓雾中，但你决心找到她。",
+    "单凭决心还不足以追上这位离群的寡妇。你在浓雾中游荡，感觉仿佛过了好几个小时，确信自己迷路了。",
+    "你花了些时间辨认方向，最后终于回到旅馆门外。阿米莉娅成功逃脱了，这让你十分懊恼。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 136",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 136",
+      "text": [
+        "You chase after Amelia Harris. She’s vanished in the mist, but you’re determined to find her.",
+        "But determination alone is not enough to track down the wayward widow. After wandering through the fog for what feels like hours, you are certain that you are lost.",
+        "After trying to get your bearings for some time, you finally find yourself outside the hotel, frustrated that Amelia has managed to escape you."
+      ]
+    }
+  }
+}

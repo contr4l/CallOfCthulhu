@@ -1,0 +1,36 @@
+{
+  "id": "342",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "342:p0",
+      "kind": "heading",
+      "text": "342",
+      "sourceLocation": "pdf:visual:[[64,31]]"
+    },
+    {
+      "id": "342:p1",
+      "kind": "body",
+      "text": "Your wounds swell and discolor. Your entire body flames with \nfever.  You  lapse  into  longer  and  longer  periods  of  delirium. \nWhen the end comes, you are completely unaware of it.",
+      "sourceLocation": "pdf:visual:[[64,32],[64,33],[64,34]]"
+    },
+    {
+      "id": "342:p2",
+      "kind": "body",
+      "text": "The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[64,35]]"
+    },
+    {
+      "id": "342:p3",
+      "kind": "trace",
+      "text": "(347, 392)",
+      "sourceLocation": "pdf:visual:[[64,36]]"
+    },
+    {
+      "id": "342:p4",
+      "kind": "body",
+      "text": "63",
+      "sourceLocation": "pdf:visual:[[64,37]]"
+    }
+  ]
+}

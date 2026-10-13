@@ -1,0 +1,30 @@
+{
+  "id": "476",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "476:p0",
+      "kind": "heading",
+      "text": "476",
+      "sourceLocation": "pdf:visual:[[84,15]]"
+    },
+    {
+      "id": "476:p1",
+      "kind": "body",
+      "text": "As you turn and run, a sheet of cold lances over your shoulder. \nIt is close enough to numb your ear and cheek. You feel tiny, \nrazor-sharp ice crystals on your jawline.",
+      "sourceLocation": "pdf:visual:[[84,16],[84,17],[84,18]]"
+    },
+    {
+      "id": "476:p2",
+      "kind": "body",
+      "text": "Make a Dodge roll for yourself and Norman: if you both succeed, go \nto 513; if you both fail, go to 332; if Norman fails, but you succeed, \ngo to 336.",
+      "sourceLocation": "pdf:visual:[[84,19],[84,20],[84,21]]"
+    },
+    {
+      "id": "476:p3",
+      "kind": "trace",
+      "text": "(475, 478, 480)",
+      "sourceLocation": "pdf:visual:[[84,22]]"
+    }
+  ]
+}

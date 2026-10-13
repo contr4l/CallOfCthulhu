@@ -1,0 +1,48 @@
+{
+  "id": "11",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "11:p0",
+      "kind": "heading",
+      "text": "11\n",
+      "sourceLocation": "pdf:spans:[[12,717,720]]"
+    },
+    {
+      "id": "11:p1",
+      "kind": "body",
+      "text": "You step out into the greenish mist. You feel it clinging \ntightly to you as you make your way the short distance to \nthe police station.\n",
+      "sourceLocation": "pdf:spans:[[12,720,779],[12,779,838],[12,838,858]]"
+    },
+    {
+      "id": "11:p2",
+      "kind": "body",
+      "text": "Upon entering the small brick building, you are struck with \na sense of claustrophobia. The walls here are uncomfortably \nclose together and space is tight. Crammed into the tiny \nstructure are a large desk, several filing cabinets, and a few \nchairs; a closet-sized holding cell with iron bars sits at the \nrear of the room. Behind the large desk is Officer Powell, \nsmoking a cigar with his feet propped up on the table. His \ncoat is unbuttoned and his hat lies on top of a stack of papers, \nnext to a battered old revolver.\n",
+      "sourceLocation": "pdf:spans:[[12,858,919],[12,919,980],[12,980,1038],[12,1038,1102],[12,1102,1166],[12,1166,1226],[12,1226,1286],[12,1286,1352],[12,1352,1385]]"
+    },
+    {
+      "id": "11:p3",
+      "kind": "body",
+      "text": "He opens one eye and frowns at you, sighing through his \ncigar as he straightens himself up to look presentable. “If you’re \nbothering me right now, I’m going to assume this is important.” You \nmention that you would like to see the police report for Prof. \nWilliam Harris’ death, to which he replies with a snort. “You \nhave no business dealing with that, and even if you did, this is my \njurisdiction. Shove off and leave me in peace.”\n",
+      "sourceLocation": "pdf:spans:[[12,1385,1442],[12,1442,1510],[12,1510,1579],[12,1579,1643],[12,1643,1706],[12,1706,1775],[12,1775,1823]]"
+    },
+    {
+      "id": "11:p4",
+      "kind": "body",
+      "text": "He doesn’t seem cooperative, but perhaps you could convince \nhim that you have some special circumstance that warrants you \nlooking through his files.\n",
+      "sourceLocation": "pdf:spans:[[12,1823,1884],[12,1884,1947],[12,1947,1974]]"
+    },
+    {
+      "id": "11:p5",
+      "kind": "body",
+      "text": "• Make a Fast Talk roll: if you succeed, go to 46; if you fail, go to 101.\n",
+      "sourceLocation": "pdf:spans:[[12,1974,2049]]"
+    },
+    {
+      "id": "11:p6",
+      "kind": "body",
+      "text": "(32, 106, 153)\n",
+      "sourceLocation": "pdf:spans:[[12,2049,2064]]"
+    }
+  ]
+}

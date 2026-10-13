@@ -1,0 +1,36 @@
+{
+  "id": "99",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "99:p0",
+      "kind": "heading",
+      "text": "99",
+      "sourceLocation": "pdf:visual:[[27,35]]"
+    },
+    {
+      "id": "99:p1",
+      "kind": "body",
+      "text": "The figure stumbles backward. You are certain you hit him, but \nhe sits up. You light a match and stare in disbelief.",
+      "sourceLocation": "pdf:visual:[[27,36],[27,37]]"
+    },
+    {
+      "id": "99:p2",
+      "kind": "body",
+      "text": "It’s Bernard Ebstein! Thank the Lord you missed him—that \nis, you must have missed him!",
+      "sourceLocation": "pdf:visual:[[27,38],[27,39]]"
+    },
+    {
+      "id": "99:p3",
+      "kind": "body",
+      "text": "Go to 101.",
+      "sourceLocation": "pdf:visual:[[27,40]]"
+    },
+    {
+      "id": "99:p4",
+      "kind": "trace",
+      "text": "(100)",
+      "sourceLocation": "pdf:visual:[[27,41]]"
+    }
+  ]
+}

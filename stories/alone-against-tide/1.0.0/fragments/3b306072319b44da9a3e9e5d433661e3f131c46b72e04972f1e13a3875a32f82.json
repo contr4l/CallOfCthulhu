@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "214"
+  ],
+  "text": [
+    "那东西挥手朝你打来，结结实实地击中你的身体。重击使你失去平衡，向后摔出几英尺，跌到路中央。那东西继续蹒跚着朝你走来。",
+    "如果你能站起来并迅速行动，也许还能跑赢它。否则，你不敢想象自己会遭遇什么命运。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 214",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 214",
+      "text": [
+        "The thing takes a swipe at you, connecting solidly with your body. The force behind the blow throws you off balance and you’re sent sprawling backward a few feet into the middle of the road. The thing continues to lumber toward you.",
+        "If you can rise to your feet and move quickly, you may yet be able to outrun it. If not, you shudder to think what fate may befall you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "116",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "116:p0",
+      "kind": "heading",
+      "text": "116\n",
+      "sourceLocation": "pdf:spans:[[39,44,48]]"
+    },
+    {
+      "id": "116:p1",
+      "kind": "body",
+      "text": "You look over the characters scrawled in blood across the altar’s \nside. You realize they’re an obscure dialect of ancient Indian \norigin, and although you cannot translate them properly, you \ncan pronounce the characters phonetically: “Y’hahyar nog nglui \nah, Bokrug.” As you recite the words, the dark-suited man looks \nat you as if you’re completely mad.\n",
+      "sourceLocation": "pdf:spans:[[39,48,115],[39,115,179],[39,179,241],[39,241,305],[39,305,370],[39,370,406]]"
+    },
+    {
+      "id": "116:p2",
+      "kind": "body",
+      "text": "That is until the mist around you begins to swiftly dissipate \nand the waters stop rising. The man looks at you with wide eyes, \nlike you’re some kind of miracle worker—and perhaps you are. \nThough you don’t fully understand what it is that you’ve done, \nyou’ve somehow put a stop to what’s going on here.\n",
+      "sourceLocation": "pdf:spans:[[39,406,469],[39,469,535],[39,535,597],[39,597,661],[39,661,712]]"
+    },
+    {
+      "id": "116:p3",
+      "kind": "body",
+      "text": "Joshua’s former henchman probes you for answers for a \nwhile, but you assure him you are just as surprised as he is, and \neventually he parts ways with you.\n",
+      "sourceLocation": "pdf:spans:[[39,712,767],[39,767,834],[39,834,869]]"
+    },
+    {
+      "id": "116:p4",
+      "kind": "body",
+      "text": "Over the next few days, the water subsides in Esbury, and \neventually the ferry begins operation again. You take the first \nride out, eager to leave this place and the strange occurrences \nbehind you.\nThough you haven’t solved the mystery surrounding the events taking \nplace in Esbury, you have put a stop to them, at least for the time \nbeing. The man with the artifacts will eventually sell them off for \nquick cash, and the tragedy will then repeat itself elsewhere. Only this \ntime, there will be no one to prevent it from fully taking shape. But \nyou will never know this, and it isn’t your concern. You only have to \nlive with what happened in the little Massachusetts town, and you \nwill carry that memory with you forever. You have survived, and \nmay use this character in future adventures, if you so wish. Your visit \nto Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[39,869,928],[39,928,993],[39,993,1058],[39,1058,1070],[39,1070,1139],[39,1139,1208],[39,1208,1277],[39,1277,1351],[39,1351,1422],[39,1422,1493],[39,1493,1560],[39,1560,1625],[39,1625,1698],[39,1698,1727]]"
+    },
+    {
+      "id": "116:p5",
+      "kind": "body",
+      "text": "(216)\n",
+      "sourceLocation": "pdf:spans:[[39,1727,1733]]"
+    }
+  ]
+}

@@ -3,6 +3,7 @@ export type Value =
   number | { field: string; factor?: number; offset?: number };
 export type Predicate =
   | { flag: string; equals: boolean }
+  | { templateId: string }
   | { all: Predicate[] }
   | { any: Predicate[] }
   | { not: Predicate }
@@ -42,10 +43,15 @@ export type ProgramCheck = {
 };
 export type Allocation = {
   specializations?: Record<string, { label: string; fixed?: string }>;
-  kind: "attributes" | "occupation" | "interests";
+  kind: "attributes" | "occupation" | "interests" | "bonus";
+  count?: number;
+  pool?: number;
+  includeCredit?: boolean;
+  allowOccupation?: boolean;
   values?: number[];
   required?: string[];
   optional?: string[];
+  groups?: string[][];
   extra?: number;
   occupation?: string;
   credit?: number;
@@ -97,7 +103,7 @@ export type Instruction =
       exhausted?: string;
     }
   | { kind: "combat"; combat: CombatSpec }
-  | { kind: "end"; label: string };
+  | { kind: "end"; label: string; collect?: boolean };
 export type ProgramState = {
   cursor: number;
   visits: Record<string, number>;

@@ -1,0 +1,30 @@
+{
+  "id": "458",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "458:p0",
+      "kind": "heading",
+      "text": "458",
+      "sourceLocation": "pdf:visual:[[81,2]]"
+    },
+    {
+      "id": "458:p1",
+      "kind": "body",
+      "text": "Perhaps you have been too cautious, but the results of the expedition \nhave been disappointing so far. The morale of your party drops day \nby day. You will have to do something decisive soon.",
+      "sourceLocation": "pdf:visual:[[81,4],[81,6],[81,7]]"
+    },
+    {
+      "id": "458:p2",
+      "kind": "body",
+      "text": "Make a Persuade roll: if you succeed, go to 459; if you fail, go to 460.",
+      "sourceLocation": "pdf:visual:[[81,9]]"
+    },
+    {
+      "id": "458:p3",
+      "kind": "trace",
+      "text": "(434, 532, 556)",
+      "sourceLocation": "pdf:visual:[[81,11]]"
+    }
+  ]
+}

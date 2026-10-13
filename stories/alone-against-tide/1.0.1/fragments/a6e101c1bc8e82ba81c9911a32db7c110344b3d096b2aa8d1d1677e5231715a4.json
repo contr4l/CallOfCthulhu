@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "34"
+  ],
+  "text": [
+    "你觉得，与其单独盯着某个人或某件事，不如利用时间了解整体情况，和不同的人交谈，听听他们各自的看法。",
+    "听着房间里的谈话，你逐渐明白聚集在此的大多数人只是把这当作一场社交活动。不过，现场也有不少学者和收藏家。考虑到镇民相对富裕，你猜这些物品会引来许多竞价。",
+    "你在宾客间走动时，碰巧注意到两名男子正低声交谈。他们似乎不想让别人听见，但如果耳朵够灵，或许能听出他们在说什么。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 34",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 34",
+      "text": [
+        "Rather than single anyone or anything in particular out, you feel it would be best to use your time to get a general impression and speak to multiple people to get their points of view.",
+        "Hearing the talk around the room, you come to understand that most of the people who have gathered here are merely treating this as a social event. However, there are a fair number of academics and collectors in attendance as well. Judging by the relative wealth of the townsfolk, you imagine that there will be a lot of bids placed on the items.",
+        "While walking among the guests, you happen to notice a pair of men conversing in hushed tones. They seem to be trying to avoid being overheard, but a keen ear might be able to catch what is being said."
+      ]
+    }
+  }
+}

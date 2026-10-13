@@ -1,0 +1,30 @@
+{
+  "id": "557",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "557:p0",
+      "kind": "heading",
+      "text": "557",
+      "sourceLocation": "pdf:visual:[[95,34]]"
+    },
+    {
+      "id": "557:p1",
+      "kind": "body",
+      "text": "To  avoid  a  riverside  marsh,  you  weave  through  a  forest  of \nmature larch. The uneven terrain makes you wish that Charlie \nwas still with your party.",
+      "sourceLocation": "pdf:visual:[[95,35],[95,36],[95,37]]"
+    },
+    {
+      "id": "557:p2",
+      "kind": "body",
+      "text": "Attempt a Track roll: if you succeed, go to 558; if you fail, go to 569.",
+      "sourceLocation": "pdf:visual:[[95,38]]"
+    },
+    {
+      "id": "557:p3",
+      "kind": "trace",
+      "text": "(324, 600, 601)",
+      "sourceLocation": "pdf:visual:[[95,39]]"
+    }
+  ]
+}

@@ -1,0 +1,1948 @@
+{
+  "pdfPage": 114,
+  "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+  "renderDpi": 250,
+  "engine": "tesseract 5.5.0",
+  "language": "eng",
+  "pageSegmentationMode": 6,
+  "ocrText": "WES ss STONY, pS SAR 4 i a i a] * it i ty Pea) (Tee ij . ity? a » = ar sare Pe 7 Vi 77 Wy =e \"i lg iv 4 Nod AM focaccia IB CRS TORYE oo f ra Personal Description A Caucasian woman with Traits_Determined and n { J Z| Vr y} dark auburn hair pulled into a bun; she has a conscientious, if a little too ww ff \\ . condescending expression and wears glasses. serious. y . Ideology/Beliefs Anji & Scars Significant People —-- RPhobias & Manias MeaningfulLocations Arcane Tomes, Spells & Artifacts Treasured Possessions = Encounters with Strange Entities a Spending bevel a) Cash a Assets QUICK REFERENCE RULES $= ELLOW |NVESTIGATORS — Skill & Characteristic Rolls Char — tects | sa exe [waa wa [ar | || [Pipe | &* a Pushing Rolls: Must justify reroll; Cannot Push Combat or Sanity Rolls Sr Wounds & Healing ar itndheastHF;— Nedenehestésne | | [SBE] Major Wound = loss of 2 ¥2 max HP in one attack Reach 0 HP without Major Wound = Unconscious ee << Reach 0 HP with Major Wound = Dying éy Dying: First Aid = temp. stabilized; then require Medicine C v 3) y ia Natural Heal rate (non Major Wound): recover 1HP per day Pla P oe ¢ 12, Natural Heal rate (Major Wound): weekly healing roll A | Player —___ (Sy) Se (es SSF <a) a A\\ eee GLOW.",
+  "words": [
+    {
+      "left": 77,
+      "top": 40,
+      "width": 74,
+      "height": 37,
+      "confidence": 53.381027,
+      "text": "WES"
+    },
+    {
+      "left": 178,
+      "top": 54,
+      "width": 35,
+      "height": 15,
+      "confidence": 24.959631,
+      "text": "ss"
+    },
+    {
+      "left": 1859,
+      "top": 27,
+      "width": 125,
+      "height": 55,
+      "confidence": 23.829222,
+      "text": "STONY,"
+    },
+    {
+      "left": 2011,
+      "top": 41,
+      "width": 50,
+      "height": 35,
+      "confidence": 65.221161,
+      "text": "pS"
+    },
+    {
+      "left": 77,
+      "top": 149,
+      "width": 57,
+      "height": 23,
+      "confidence": 24.656553,
+      "text": "SAR"
+    },
+    {
+      "left": 193,
+      "top": 149,
+      "width": 17,
+      "height": 31,
+      "confidence": 26.51248,
+      "text": "4"
+    },
+    {
+      "left": 218,
+      "top": 149,
+      "width": 15,
+      "height": 31,
+      "confidence": 35.210423,
+      "text": "i"
+    },
+    {
+      "left": 253,
+      "top": 149,
+      "width": 48,
+      "height": 33,
+      "confidence": 44.274551,
+      "text": "a"
+    },
+    {
+      "left": 309,
+      "top": 160,
+      "width": 1,
+      "height": 4,
+      "confidence": 26.909317,
+      "text": "i"
+    },
+    {
+      "left": 319,
+      "top": 148,
+      "width": 16,
+      "height": 32,
+      "confidence": 31.650782,
+      "text": "a]"
+    },
+    {
+      "left": 344,
+      "top": 147,
+      "width": 16,
+      "height": 33,
+      "confidence": 0.0,
+      "text": "*"
+    },
+    {
+      "left": 366,
+      "top": 149,
+      "width": 18,
+      "height": 31,
+      "confidence": 40.284115,
+      "text": "it"
+    },
+    {
+      "left": 397,
+      "top": 149,
+      "width": 19,
+      "height": 31,
+      "confidence": 55.679707,
+      "text": "i"
+    },
+    {
+      "left": 422,
+      "top": 149,
+      "width": 25,
+      "height": 34,
+      "confidence": 0.0,
+      "text": "ty"
+    },
+    {
+      "left": 457,
+      "top": 148,
+      "width": 112,
+      "height": 32,
+      "confidence": 15.765724,
+      "text": "Pea)"
+    },
+    {
+      "left": 594,
+      "top": 149,
+      "width": 105,
+      "height": 31,
+      "confidence": 25.158424,
+      "text": "(Tee"
+    },
+    {
+      "left": 712,
+      "top": 148,
+      "width": 28,
+      "height": 32,
+      "confidence": 49.577198,
+      "text": "ij"
+    },
+    {
+      "left": 749,
+      "top": 149,
+      "width": 15,
+      "height": 32,
+      "confidence": 0.0,
+      "text": "."
+    },
+    {
+      "left": 779,
+      "top": 149,
+      "width": 38,
+      "height": 31,
+      "confidence": 69.12574,
+      "text": "ity?"
+    },
+    {
+      "left": 825,
+      "top": 148,
+      "width": 47,
+      "height": 24,
+      "confidence": 22.433247,
+      "text": "a"
+    },
+    {
+      "left": 889,
+      "top": 147,
+      "width": 32,
+      "height": 35,
+      "confidence": 70.05024,
+      "text": "»"
+    },
+    {
+      "left": 943,
+      "top": 150,
+      "width": 6,
+      "height": 3,
+      "confidence": 5.058174,
+      "text": "="
+    },
+    {
+      "left": 1165,
+      "top": 136,
+      "width": 31,
+      "height": 41,
+      "confidence": 7.088461,
+      "text": "ar"
+    },
+    {
+      "left": 1224,
+      "top": 147,
+      "width": 43,
+      "height": 18,
+      "confidence": 0.0,
+      "text": "sare"
+    },
+    {
+      "left": 1276,
+      "top": 150,
+      "width": 32,
+      "height": 30,
+      "confidence": 28.314056,
+      "text": "Pe"
+    },
+    {
+      "left": 1323,
+      "top": 149,
+      "width": 27,
+      "height": 31,
+      "confidence": 60.300484,
+      "text": "7"
+    },
+    {
+      "left": 1356,
+      "top": 148,
+      "width": 25,
+      "height": 22,
+      "confidence": 17.695465,
+      "text": "Vi"
+    },
+    {
+      "left": 1396,
+      "top": 149,
+      "width": 29,
+      "height": 31,
+      "confidence": 20.022911,
+      "text": "77"
+    },
+    {
+      "left": 1433,
+      "top": 149,
+      "width": 77,
+      "height": 32,
+      "confidence": 42.132191,
+      "text": "Wy"
+    },
+    {
+      "left": 1525,
+      "top": 149,
+      "width": 25,
+      "height": 6,
+      "confidence": 0.0,
+      "text": "=e"
+    },
+    {
+      "left": 1558,
+      "top": 149,
+      "width": 15,
+      "height": 31,
+      "confidence": 25.978836,
+      "text": "\"i"
+    },
+    {
+      "left": 1587,
+      "top": 149,
+      "width": 40,
+      "height": 32,
+      "confidence": 28.072309,
+      "text": "lg"
+    },
+    {
+      "left": 1633,
+      "top": 149,
+      "width": 26,
+      "height": 35,
+      "confidence": 1.484509,
+      "text": "iv"
+    },
+    {
+      "left": 1985,
+      "top": 144,
+      "width": 22,
+      "height": 25,
+      "confidence": 57.492645,
+      "text": "4"
+    },
+    {
+      "left": 2017,
+      "top": 145,
+      "width": 52,
+      "height": 35,
+      "confidence": 44.104485,
+      "text": "Nod"
+    },
+    {
+      "left": 57,
+      "top": 172,
+      "width": 63,
+      "height": 74,
+      "confidence": 35.560059,
+      "text": "AM"
+    },
+    {
+      "left": 183,
+      "top": 166,
+      "width": 661,
+      "height": 56,
+      "confidence": 11.358471,
+      "text": "focaccia"
+    },
+    {
+      "left": 865,
+      "top": 152,
+      "width": 75,
+      "height": 68,
+      "confidence": 29.793339,
+      "text": "IB"
+    },
+    {
+      "left": 954,
+      "top": 151,
+      "width": 118,
+      "height": 57,
+      "confidence": 40.359936,
+      "text": "CRS"
+    },
+    {
+      "left": 1100,
+      "top": 152,
+      "width": 123,
+      "height": 52,
+      "confidence": 40.990108,
+      "text": "TORYE"
+    },
+    {
+      "left": 1238,
+      "top": 165,
+      "width": 421,
+      "height": 57,
+      "confidence": 18.064461,
+      "text": "oo"
+    },
+    {
+      "left": 2004,
+      "top": 161,
+      "width": 42,
+      "height": 121,
+      "confidence": 22.304173,
+      "text": "f"
+    },
+    {
+      "left": 62,
+      "top": 257,
+      "width": 57,
+      "height": 41,
+      "confidence": 0.0,
+      "text": "ra"
+    },
+    {
+      "left": 209,
+      "top": 258,
+      "width": 132,
+      "height": 34,
+      "confidence": 96.201859,
+      "text": "Personal"
+    },
+    {
+      "left": 349,
+      "top": 261,
+      "width": 185,
+      "height": 43,
+      "confidence": 94.60997,
+      "text": "Description"
+    },
+    {
+      "left": 557,
+      "top": 253,
+      "width": 23,
+      "height": 30,
+      "confidence": 95.742348,
+      "text": "A"
+    },
+    {
+      "left": 591,
+      "top": 253,
+      "width": 173,
+      "height": 30,
+      "confidence": 95.742348,
+      "text": "Caucasian"
+    },
+    {
+      "left": 774,
+      "top": 261,
+      "width": 129,
+      "height": 22,
+      "confidence": 95.199883,
+      "text": "woman"
+    },
+    {
+      "left": 916,
+      "top": 251,
+      "width": 74,
+      "height": 32,
+      "confidence": 95.199883,
+      "text": "with"
+    },
+    {
+      "left": 1081,
+      "top": 251,
+      "width": 310,
+      "height": 41,
+      "confidence": 91.527946,
+      "text": "Traits_Determined"
+    },
+    {
+      "left": 1404,
+      "top": 251,
+      "width": 63,
+      "height": 32,
+      "confidence": 96.39138,
+      "text": "and"
+    },
+    {
+      "left": 1720,
+      "top": 273,
+      "width": 13,
+      "height": 6,
+      "confidence": 0.0,
+      "text": "n"
+    },
+    {
+      "left": 1743,
+      "top": 250,
+      "width": 28,
+      "height": 62,
+      "confidence": 79.102028,
+      "text": "{"
+    },
+    {
+      "left": 1796,
+      "top": 241,
+      "width": 18,
+      "height": 57,
+      "confidence": 28.453728,
+      "text": "J"
+    },
+    {
+      "left": 1837,
+      "top": 255,
+      "width": 22,
+      "height": 12,
+      "confidence": 43.062149,
+      "text": "Z|"
+    },
+    {
+      "left": 2004,
+      "top": 247,
+      "width": 58,
+      "height": 49,
+      "confidence": 29.095207,
+      "text": "Vr"
+    },
+    {
+      "left": 93,
+      "top": 295,
+      "width": 16,
+      "height": 27,
+      "confidence": 30.193504,
+      "text": "y}"
+    },
+    {
+      "left": 223,
+      "top": 303,
+      "width": 74,
+      "height": 31,
+      "confidence": 96.634735,
+      "text": "dark"
+    },
+    {
+      "left": 308,
+      "top": 303,
+      "width": 123,
+      "height": 31,
+      "confidence": 96.83802,
+      "text": "auburn"
+    },
+    {
+      "left": 445,
+      "top": 303,
+      "width": 63,
+      "height": 31,
+      "confidence": 96.439713,
+      "text": "hair"
+    },
+    {
+      "left": 520,
+      "top": 303,
+      "width": 105,
+      "height": 40,
+      "confidence": 96.379791,
+      "text": "pulled"
+    },
+    {
+      "left": 640,
+      "top": 305,
+      "width": 66,
+      "height": 29,
+      "confidence": 95.387512,
+      "text": "into"
+    },
+    {
+      "left": 717,
+      "top": 312,
+      "width": 17,
+      "height": 22,
+      "confidence": 94.748268,
+      "text": "a"
+    },
+    {
+      "left": 747,
+      "top": 303,
+      "width": 76,
+      "height": 39,
+      "confidence": 94.748268,
+      "text": "bun;"
+    },
+    {
+      "left": 833,
+      "top": 303,
+      "width": 59,
+      "height": 31,
+      "confidence": 96.342934,
+      "text": "she"
+    },
+    {
+      "left": 904,
+      "top": 303,
+      "width": 56,
+      "height": 31,
+      "confidence": 95.207634,
+      "text": "has"
+    },
+    {
+      "left": 970,
+      "top": 312,
+      "width": 17,
+      "height": 22,
+      "confidence": 95.207634,
+      "text": "a"
+    },
+    {
+      "left": 1097,
+      "top": 305,
+      "width": 247,
+      "height": 38,
+      "confidence": 96.482208,
+      "text": "conscientious,"
+    },
+    {
+      "left": 1354,
+      "top": 303,
+      "width": 22,
+      "height": 31,
+      "confidence": 89.76767,
+      "text": "if"
+    },
+    {
+      "left": 1385,
+      "top": 312,
+      "width": 16,
+      "height": 22,
+      "confidence": 89.76767,
+      "text": "a"
+    },
+    {
+      "left": 1415,
+      "top": 303,
+      "width": 74,
+      "height": 31,
+      "confidence": 96.580116,
+      "text": "little"
+    },
+    {
+      "left": 1499,
+      "top": 308,
+      "width": 58,
+      "height": 26,
+      "confidence": 96.895447,
+      "text": "too"
+    },
+    {
+      "left": 1715,
+      "top": 336,
+      "width": 45,
+      "height": 22,
+      "confidence": 4.516335,
+      "text": "ww"
+    },
+    {
+      "left": 1792,
+      "top": 302,
+      "width": 85,
+      "height": 20,
+      "confidence": 40.151516,
+      "text": "ff"
+    },
+    {
+      "left": 2017,
+      "top": 301,
+      "width": 9,
+      "height": 16,
+      "confidence": 0.0,
+      "text": "\\"
+    },
+    {
+      "left": 90,
+      "top": 359,
+      "width": 12,
+      "height": 8,
+      "confidence": 7.518692,
+      "text": "."
+    },
+    {
+      "left": 223,
+      "top": 355,
+      "width": 263,
+      "height": 40,
+      "confidence": 96.513428,
+      "text": "condescending"
+    },
+    {
+      "left": 499,
+      "top": 357,
+      "width": 184,
+      "height": 38,
+      "confidence": 95.757927,
+      "text": "expression"
+    },
+    {
+      "left": 695,
+      "top": 355,
+      "width": 64,
+      "height": 31,
+      "confidence": 95.757927,
+      "text": "and"
+    },
+    {
+      "left": 770,
+      "top": 364,
+      "width": 101,
+      "height": 22,
+      "confidence": 96.772469,
+      "text": "wears"
+    },
+    {
+      "left": 881,
+      "top": 355,
+      "width": 131,
+      "height": 40,
+      "confidence": 96.897537,
+      "text": "glasses."
+    },
+    {
+      "left": 1098,
+      "top": 351,
+      "width": 130,
+      "height": 48,
+      "confidence": 95.907631,
+      "text": "serious."
+    },
+    {
+      "left": 1764,
+      "top": 346,
+      "width": 17,
+      "height": 49,
+      "confidence": 37.035561,
+      "text": "y"
+    },
+    {
+      "left": 2022,
+      "top": 350,
+      "width": 14,
+      "height": 17,
+      "confidence": 1.746311,
+      "text": "."
+    },
+    {
+      "left": 209,
+      "top": 463,
+      "width": 259,
+      "height": 47,
+      "confidence": 83.189438,
+      "text": "Ideology/Beliefs"
+    },
+    {
+      "left": 475,
+      "top": 468,
+      "width": 721,
+      "height": 42,
+      "confidence": 0.0,
+      "text": "Anji"
+    },
+    {
+      "left": 1204,
+      "top": 467,
+      "width": 25,
+      "height": 31,
+      "confidence": 91.931038,
+      "text": "&"
+    },
+    {
+      "left": 1235,
+      "top": 467,
+      "width": 80,
+      "height": 31,
+      "confidence": 54.251446,
+      "text": "Scars"
+    },
+    {
+      "left": 207,
+      "top": 667,
+      "width": 165,
+      "height": 48,
+      "confidence": 96.130119,
+      "text": "Significant"
+    },
+    {
+      "left": 379,
+      "top": 668,
+      "width": 109,
+      "height": 47,
+      "confidence": 53.933273,
+      "text": "People"
+    },
+    {
+      "left": 520,
+      "top": 663,
+      "width": 61,
+      "height": 56,
+      "confidence": 0.0,
+      "text": "—--"
+    },
+    {
+      "left": 496,
+      "top": 668,
+      "width": 713,
+      "height": 35,
+      "confidence": 0.0,
+      "text": "RPhobias"
+    },
+    {
+      "left": 1229,
+      "top": 671,
+      "width": 10,
+      "height": 32,
+      "confidence": 80.363411,
+      "text": "&"
+    },
+    {
+      "left": 1257,
+      "top": 672,
+      "width": 105,
+      "height": 31,
+      "confidence": 60.89497,
+      "text": "Manias"
+    },
+    {
+      "left": 207,
+      "top": 874,
+      "width": 335,
+      "height": 46,
+      "confidence": 17.414532,
+      "text": "MeaningfulLocations"
+    },
+    {
+      "left": 548,
+      "top": 878,
+      "width": 645,
+      "height": 31,
+      "confidence": 40.559166,
+      "text": "Arcane"
+    },
+    {
+      "left": 1199,
+      "top": 878,
+      "width": 108,
+      "height": 35,
+      "confidence": 81.794891,
+      "text": "Tomes,"
+    },
+    {
+      "left": 1313,
+      "top": 874,
+      "width": 96,
+      "height": 46,
+      "confidence": 79.816055,
+      "text": "Spells"
+    },
+    {
+      "left": 1416,
+      "top": 878,
+      "width": 24,
+      "height": 30,
+      "confidence": 92.930008,
+      "text": "&"
+    },
+    {
+      "left": 1447,
+      "top": 874,
+      "width": 469,
+      "height": 35,
+      "confidence": 59.77523,
+      "text": "Artifacts"
+    },
+    {
+      "left": 207,
+      "top": 1081,
+      "width": 147,
+      "height": 33,
+      "confidence": 96.934822,
+      "text": "Treasured"
+    },
+    {
+      "left": 365,
+      "top": 1083,
+      "width": 176,
+      "height": 31,
+      "confidence": 87.409882,
+      "text": "Possessions"
+    },
+    {
+      "left": 600,
+      "top": 1077,
+      "width": 58,
+      "height": 53,
+      "confidence": 32.697205,
+      "text": "="
+    },
+    {
+      "left": 548,
+      "top": 1084,
+      "width": 702,
+      "height": 30,
+      "confidence": 46.468475,
+      "text": "Encounters"
+    },
+    {
+      "left": 1258,
+      "top": 1081,
+      "width": 65,
+      "height": 33,
+      "confidence": 96.379036,
+      "text": "with"
+    },
+    {
+      "left": 1331,
+      "top": 1083,
+      "width": 115,
+      "height": 43,
+      "confidence": 95.300987,
+      "text": "Strange"
+    },
+    {
+      "left": 1456,
+      "top": 1084,
+      "width": 107,
+      "height": 30,
+      "confidence": 50.569824,
+      "text": "Entities"
+    },
+    {
+      "left": 208,
+      "top": 1537,
+      "width": 464,
+      "height": 4,
+      "confidence": 8.675976,
+      "text": "a"
+    },
+    {
+      "left": 1235,
+      "top": 1506,
+      "width": 152,
+      "height": 47,
+      "confidence": 80.700645,
+      "text": "Spending"
+    },
+    {
+      "left": 1400,
+      "top": 1502,
+      "width": 74,
+      "height": 55,
+      "confidence": 61.187218,
+      "text": "bevel"
+    },
+    {
+      "left": 208,
+      "top": 1588,
+      "width": 952,
+      "height": 4,
+      "confidence": 13.60466,
+      "text": "a)"
+    },
+    {
+      "left": 1241,
+      "top": 1558,
+      "width": 77,
+      "height": 34,
+      "confidence": 72.142731,
+      "text": "Cash"
+    },
+    {
+      "left": 208,
+      "top": 1640,
+      "width": 952,
+      "height": 3,
+      "confidence": 16.443663,
+      "text": "a"
+    },
+    {
+      "left": 1235,
+      "top": 1609,
+      "width": 112,
+      "height": 46,
+      "confidence": 42.539921,
+      "text": "Assets"
+    },
+    {
+      "left": 196,
+      "top": 2059,
+      "width": 142,
+      "height": 62,
+      "confidence": 96.319214,
+      "text": "QUICK"
+    },
+    {
+      "left": 399,
+      "top": 2056,
+      "width": 279,
+      "height": 61,
+      "confidence": 89.944298,
+      "text": "REFERENCE"
+    },
+    {
+      "left": 732,
+      "top": 2057,
+      "width": 158,
+      "height": 55,
+      "confidence": 92.714302,
+      "text": "RULES"
+    },
+    {
+      "left": 1009,
+      "top": 2057,
+      "width": 58,
+      "height": 68,
+      "confidence": 0.0,
+      "text": "$="
+    },
+    {
+      "left": 1076,
+      "top": 2058,
+      "width": 225,
+      "height": 59,
+      "confidence": 0.0,
+      "text": "ELLOW"
+    },
+    {
+      "left": 1344,
+      "top": 2055,
+      "width": 505,
+      "height": 70,
+      "confidence": 86.914803,
+      "text": "|NVESTIGATORS"
+    },
+    {
+      "left": 1884,
+      "top": 2083,
+      "width": 57,
+      "height": 38,
+      "confidence": 40.67598,
+      "text": "—"
+    },
+    {
+      "left": 317,
+      "top": 2138,
+      "width": 70,
+      "height": 30,
+      "confidence": 93.305695,
+      "text": "Skill"
+    },
+    {
+      "left": 397,
+      "top": 2140,
+      "width": 25,
+      "height": 28,
+      "confidence": 92.981918,
+      "text": "&"
+    },
+    {
+      "left": 432,
+      "top": 2138,
+      "width": 235,
+      "height": 30,
+      "confidence": 96.795959,
+      "text": "Characteristic"
+    },
+    {
+      "left": 678,
+      "top": 2138,
+      "width": 80,
+      "height": 30,
+      "confidence": 96.591629,
+      "text": "Rolls"
+    },
+    {
+      "left": 1294,
+      "top": 2152,
+      "width": 60,
+      "height": 25,
+      "confidence": 81.571388,
+      "text": "Char"
+    },
+    {
+      "left": 1749,
+      "top": 2155,
+      "width": 126,
+      "height": 2,
+      "confidence": 65.818794,
+      "text": "—"
+    },
+    {
+      "left": 207,
+      "top": 2199,
+      "width": 168,
+      "height": 20,
+      "confidence": 0.0,
+      "text": "tects"
+    },
+    {
+      "left": 427,
+      "top": 2183,
+      "width": 52,
+      "height": 58,
+      "confidence": 20.826883,
+      "text": "|"
+    },
+    {
+      "left": 499,
+      "top": 2174,
+      "width": 40,
+      "height": 96,
+      "confidence": 41.608078,
+      "text": "sa"
+    },
+    {
+      "left": 571,
+      "top": 2174,
+      "width": 40,
+      "height": 96,
+      "confidence": 30.687714,
+      "text": "exe"
+    },
+    {
+      "left": 635,
+      "top": 2174,
+      "width": 64,
+      "height": 96,
+      "confidence": 34.550163,
+      "text": "[waa"
+    },
+    {
+      "left": 723,
+      "top": 2174,
+      "width": 48,
+      "height": 96,
+      "confidence": 44.862118,
+      "text": "wa"
+    },
+    {
+      "left": 795,
+      "top": 2174,
+      "width": 56,
+      "height": 96,
+      "confidence": 34.013466,
+      "text": "[ar"
+    },
+    {
+      "left": 867,
+      "top": 2174,
+      "width": 16,
+      "height": 96,
+      "confidence": 46.924744,
+      "text": "|"
+    },
+    {
+      "left": 899,
+      "top": 2174,
+      "width": 40,
+      "height": 96,
+      "confidence": 0.0,
+      "text": "||"
+    },
+    {
+      "left": 947,
+      "top": 2174,
+      "width": 80,
+      "height": 96,
+      "confidence": 0.0,
+      "text": "[Pipe"
+    },
+    {
+      "left": 950,
+      "top": 2178,
+      "width": 313,
+      "height": 72,
+      "confidence": 31.567774,
+      "text": "|"
+    },
+    {
+      "left": 1295,
+      "top": 2188,
+      "width": 33,
+      "height": 26,
+      "confidence": 4.860382,
+      "text": "&*"
+    },
+    {
+      "left": 1619,
+      "top": 2178,
+      "width": 314,
+      "height": 71,
+      "confidence": 0.0,
+      "text": "a"
+    },
+    {
+      "left": 207,
+      "top": 2255,
+      "width": 79,
+      "height": 25,
+      "confidence": 96.818962,
+      "text": "Pushing"
+    },
+    {
+      "left": 291,
+      "top": 2255,
+      "width": 49,
+      "height": 20,
+      "confidence": 95.948135,
+      "text": "Rolls:"
+    },
+    {
+      "left": 353,
+      "top": 2251,
+      "width": 37,
+      "height": 34,
+      "confidence": 96.279099,
+      "text": "Must"
+    },
+    {
+      "left": 398,
+      "top": 2251,
+      "width": 55,
+      "height": 34,
+      "confidence": 95.009262,
+      "text": "justify"
+    },
+    {
+      "left": 460,
+      "top": 2255,
+      "width": 53,
+      "height": 23,
+      "confidence": 96.353722,
+      "text": "reroll;"
+    },
+    {
+      "left": 517,
+      "top": 2255,
+      "width": 73,
+      "height": 20,
+      "confidence": 96.932144,
+      "text": "Cannot"
+    },
+    {
+      "left": 595,
+      "top": 2255,
+      "width": 46,
+      "height": 20,
+      "confidence": 96.821129,
+      "text": "Push"
+    },
+    {
+      "left": 645,
+      "top": 2255,
+      "width": 106,
+      "height": 20,
+      "confidence": 96.472305,
+      "text": "Combat"
+    },
+    {
+      "left": 730,
+      "top": 2251,
+      "width": 17,
+      "height": 34,
+      "confidence": 96.472305,
+      "text": "or"
+    },
+    {
+      "left": 755,
+      "top": 2256,
+      "width": 61,
+      "height": 25,
+      "confidence": 95.52301,
+      "text": "Sanity"
+    },
+    {
+      "left": 820,
+      "top": 2255,
+      "width": 44,
+      "height": 20,
+      "confidence": 95.52301,
+      "text": "Rolls"
+    },
+    {
+      "left": 1344,
+      "top": 2223,
+      "width": 245,
+      "height": 105,
+      "confidence": 16.457863,
+      "text": "Sr"
+    },
+    {
+      "left": 378,
+      "top": 2312,
+      "width": 141,
+      "height": 30,
+      "confidence": 93.261093,
+      "text": "Wounds"
+    },
+    {
+      "left": 529,
+      "top": 2313,
+      "width": 25,
+      "height": 29,
+      "confidence": 85.926132,
+      "text": "&"
+    },
+    {
+      "left": 564,
+      "top": 2312,
+      "width": 130,
+      "height": 39,
+      "confidence": 96.042343,
+      "text": "Healing"
+    },
+    {
+      "left": 1628,
+      "top": 2343,
+      "width": 44,
+      "height": 25,
+      "confidence": 19.37561,
+      "text": "ar"
+    },
+    {
+      "left": 272,
+      "top": 2362,
+      "width": 196,
+      "height": 23,
+      "confidence": 0.0,
+      "text": "itndheastHF;—"
+    },
+    {
+      "left": 550,
+      "top": 2362,
+      "width": 264,
+      "height": 20,
+      "confidence": 0.0,
+      "text": "Nedenehestésne"
+    },
+    {
+      "left": 876,
+      "top": 2322,
+      "width": 48,
+      "height": 96,
+      "confidence": 34.118439,
+      "text": "|"
+    },
+    {
+      "left": 932,
+      "top": 2322,
+      "width": 8,
+      "height": 96,
+      "confidence": 0.0,
+      "text": "|"
+    },
+    {
+      "left": 950,
+      "top": 2342,
+      "width": 313,
+      "height": 72,
+      "confidence": 0.0,
+      "text": "[SBE]"
+    },
+    {
+      "left": 207,
+      "top": 2412,
+      "width": 69,
+      "height": 25,
+      "confidence": 96.694862,
+      "text": "Major"
+    },
+    {
+      "left": 280,
+      "top": 2412,
+      "width": 84,
+      "height": 20,
+      "confidence": 95.529671,
+      "text": "Wound"
+    },
+    {
+      "left": 365,
+      "top": 2408,
+      "width": 12,
+      "height": 33,
+      "confidence": 96.406143,
+      "text": "="
+    },
+    {
+      "left": 394,
+      "top": 2412,
+      "width": 41,
+      "height": 20,
+      "confidence": 91.628975,
+      "text": "loss"
+    },
+    {
+      "left": 440,
+      "top": 2412,
+      "width": 25,
+      "height": 20,
+      "confidence": 95.855057,
+      "text": "of"
+    },
+    {
+      "left": 469,
+      "top": 2415,
+      "width": 12,
+      "height": 17,
+      "confidence": 92.988617,
+      "text": "2"
+    },
+    {
+      "left": 487,
+      "top": 2414,
+      "width": 18,
+      "height": 18,
+      "confidence": 85.885628,
+      "text": "¥2"
+    },
+    {
+      "left": 513,
+      "top": 2417,
+      "width": 47,
+      "height": 15,
+      "confidence": 95.874763,
+      "text": "max"
+    },
+    {
+      "left": 566,
+      "top": 2412,
+      "width": 31,
+      "height": 20,
+      "confidence": 96.744072,
+      "text": "HP"
+    },
+    {
+      "left": 603,
+      "top": 2413,
+      "width": 20,
+      "height": 19,
+      "confidence": 96.478439,
+      "text": "in"
+    },
+    {
+      "left": 629,
+      "top": 2417,
+      "width": 43,
+      "height": 15,
+      "confidence": 95.721024,
+      "text": "one"
+    },
+    {
+      "left": 678,
+      "top": 2412,
+      "width": 67,
+      "height": 20,
+      "confidence": 95.721024,
+      "text": "attack"
+    },
+    {
+      "left": 207,
+      "top": 2448,
+      "width": 65,
+      "height": 21,
+      "confidence": 96.954071,
+      "text": "Reach"
+    },
+    {
+      "left": 279,
+      "top": 2450,
+      "width": 13,
+      "height": 19,
+      "confidence": 93.753769,
+      "text": "0"
+    },
+    {
+      "left": 299,
+      "top": 2449,
+      "width": 31,
+      "height": 19,
+      "confidence": 96.781044,
+      "text": "HP"
+    },
+    {
+      "left": 335,
+      "top": 2449,
+      "width": 88,
+      "height": 20,
+      "confidence": 96.781044,
+      "text": "without"
+    },
+    {
+      "left": 430,
+      "top": 2449,
+      "width": 63,
+      "height": 25,
+      "confidence": 95.693222,
+      "text": "Major"
+    },
+    {
+      "left": 498,
+      "top": 2448,
+      "width": 80,
+      "height": 21,
+      "confidence": 96.787178,
+      "text": "Wound"
+    },
+    {
+      "left": 585,
+      "top": 2457,
+      "width": 15,
+      "height": 8,
+      "confidence": 96.887924,
+      "text": "="
+    },
+    {
+      "left": 607,
+      "top": 2449,
+      "width": 143,
+      "height": 20,
+      "confidence": 96.483688,
+      "text": "Unconscious"
+    },
+    {
+      "left": 1037,
+      "top": 2456,
+      "width": 165,
+      "height": 2,
+      "confidence": 35.917709,
+      "text": "ee"
+    },
+    {
+      "left": 1762,
+      "top": 2453,
+      "width": 172,
+      "height": 1,
+      "confidence": 0.0,
+      "text": "<<"
+    },
+    {
+      "left": 207,
+      "top": 2485,
+      "width": 65,
+      "height": 20,
+      "confidence": 96.971481,
+      "text": "Reach"
+    },
+    {
+      "left": 280,
+      "top": 2487,
+      "width": 12,
+      "height": 18,
+      "confidence": 88.711426,
+      "text": "0"
+    },
+    {
+      "left": 302,
+      "top": 2485,
+      "width": 26,
+      "height": 20,
+      "confidence": 95.205276,
+      "text": "HP"
+    },
+    {
+      "left": 336,
+      "top": 2485,
+      "width": 48,
+      "height": 20,
+      "confidence": 95.205276,
+      "text": "with"
+    },
+    {
+      "left": 395,
+      "top": 2486,
+      "width": 60,
+      "height": 25,
+      "confidence": 96.255066,
+      "text": "Major"
+    },
+    {
+      "left": 469,
+      "top": 2485,
+      "width": 66,
+      "height": 20,
+      "confidence": 96.423065,
+      "text": "Wound"
+    },
+    {
+      "left": 546,
+      "top": 2493,
+      "width": 12,
+      "height": 9,
+      "confidence": 96.365524,
+      "text": "="
+    },
+    {
+      "left": 567,
+      "top": 2485,
+      "width": 69,
+      "height": 25,
+      "confidence": 95.945457,
+      "text": "Dying"
+    },
+    {
+      "left": 102,
+      "top": 2509,
+      "width": 42,
+      "height": 37,
+      "confidence": 32.777946,
+      "text": "éy"
+    },
+    {
+      "left": 243,
+      "top": 2512,
+      "width": 69,
+      "height": 26,
+      "confidence": 96.303192,
+      "text": "Dying:"
+    },
+    {
+      "left": 318,
+      "top": 2512,
+      "width": 45,
+      "height": 20,
+      "confidence": 96.303192,
+      "text": "First"
+    },
+    {
+      "left": 370,
+      "top": 2512,
+      "width": 36,
+      "height": 20,
+      "confidence": 95.897926,
+      "text": "Aid"
+    },
+    {
+      "left": 419,
+      "top": 2520,
+      "width": 9,
+      "height": 9,
+      "confidence": 85.227966,
+      "text": "="
+    },
+    {
+      "left": 433,
+      "top": 2515,
+      "width": 65,
+      "height": 22,
+      "confidence": 85.227966,
+      "text": "temp."
+    },
+    {
+      "left": 504,
+      "top": 2511,
+      "width": 110,
+      "height": 24,
+      "confidence": 96.117935,
+      "text": "stabilized;"
+    },
+    {
+      "left": 621,
+      "top": 2512,
+      "width": 50,
+      "height": 20,
+      "confidence": 96.99176,
+      "text": "then"
+    },
+    {
+      "left": 680,
+      "top": 2513,
+      "width": 77,
+      "height": 24,
+      "confidence": 96.864006,
+      "text": "require"
+    },
+    {
+      "left": 765,
+      "top": 2512,
+      "width": 101,
+      "height": 20,
+      "confidence": 96.566856,
+      "text": "Medicine"
+    },
+    {
+      "left": 964,
+      "top": 2512,
+      "width": 14,
+      "height": 17,
+      "confidence": 81.537903,
+      "text": "C"
+    },
+    {
+      "left": 1981,
+      "top": 2509,
+      "width": 20,
+      "height": 29,
+      "confidence": 43.15937,
+      "text": "v"
+    },
+    {
+      "left": 2006,
+      "top": 2516,
+      "width": 17,
+      "height": 30,
+      "confidence": 68.955727,
+      "text": "3)"
+    },
+    {
+      "left": 108,
+      "top": 2556,
+      "width": 8,
+      "height": 13,
+      "confidence": 4.638243,
+      "text": "y"
+    },
+    {
+      "left": 119,
+      "top": 2535,
+      "width": 28,
+      "height": 45,
+      "confidence": 56.661259,
+      "text": "ia"
+    },
+    {
+      "left": 207,
+      "top": 2548,
+      "width": 87,
+      "height": 20,
+      "confidence": 96.21022,
+      "text": "Natural"
+    },
+    {
+      "left": 301,
+      "top": 2548,
+      "width": 53,
+      "height": 21,
+      "confidence": 96.330399,
+      "text": "Heal"
+    },
+    {
+      "left": 360,
+      "top": 2551,
+      "width": 46,
+      "height": 17,
+      "confidence": 95.721039,
+      "text": "rate"
+    },
+    {
+      "left": 414,
+      "top": 2549,
+      "width": 49,
+      "height": 23,
+      "confidence": 95.983185,
+      "text": "(non"
+    },
+    {
+      "left": 471,
+      "top": 2549,
+      "width": 63,
+      "height": 25,
+      "confidence": 96.94323,
+      "text": "Major"
+    },
+    {
+      "left": 539,
+      "top": 2548,
+      "width": 94,
+      "height": 24,
+      "confidence": 96.105927,
+      "text": "Wound):"
+    },
+    {
+      "left": 640,
+      "top": 2554,
+      "width": 81,
+      "height": 15,
+      "confidence": 93.271637,
+      "text": "recover"
+    },
+    {
+      "left": 728,
+      "top": 2549,
+      "width": 43,
+      "height": 19,
+      "confidence": 92.240143,
+      "text": "1HP"
+    },
+    {
+      "left": 779,
+      "top": 2554,
+      "width": 35,
+      "height": 19,
+      "confidence": 96.949203,
+      "text": "per"
+    },
+    {
+      "left": 821,
+      "top": 2548,
+      "width": 40,
+      "height": 26,
+      "confidence": 96.32209,
+      "text": "day"
+    },
+    {
+      "left": 965,
+      "top": 2549,
+      "width": 22,
+      "height": 16,
+      "confidence": 93.1175,
+      "text": "Pla"
+    },
+    {
+      "left": 1634,
+      "top": 2549,
+      "width": 4,
+      "height": 8,
+      "confidence": 51.814026,
+      "text": "P"
+    },
+    {
+      "left": 1978,
+      "top": 2539,
+      "width": 13,
+      "height": 30,
+      "confidence": 0.0,
+      "text": "oe"
+    },
+    {
+      "left": 2009,
+      "top": 2555,
+      "width": 11,
+      "height": 28,
+      "confidence": 33.270775,
+      "text": "¢"
+    },
+    {
+      "left": 104,
+      "top": 2572,
+      "width": 70,
+      "height": 50,
+      "confidence": 34.436077,
+      "text": "12,"
+    },
+    {
+      "left": 207,
+      "top": 2585,
+      "width": 87,
+      "height": 20,
+      "confidence": 96.628265,
+      "text": "Natural"
+    },
+    {
+      "left": 301,
+      "top": 2584,
+      "width": 53,
+      "height": 21,
+      "confidence": 96.639038,
+      "text": "Heal"
+    },
+    {
+      "left": 360,
+      "top": 2588,
+      "width": 46,
+      "height": 17,
+      "confidence": 96.65551,
+      "text": "rate"
+    },
+    {
+      "left": 414,
+      "top": 2586,
+      "width": 70,
+      "height": 25,
+      "confidence": 96.590302,
+      "text": "(Major"
+    },
+    {
+      "left": 499,
+      "top": 2578,
+      "width": 84,
+      "height": 37,
+      "confidence": 96.992569,
+      "text": "Wound):"
+    },
+    {
+      "left": 594,
+      "top": 2578,
+      "width": 69,
+      "height": 37,
+      "confidence": 96.961777,
+      "text": "weekly"
+    },
+    {
+      "left": 673,
+      "top": 2585,
+      "width": 81,
+      "height": 25,
+      "confidence": 95.884285,
+      "text": "healing"
+    },
+    {
+      "left": 762,
+      "top": 2585,
+      "width": 33,
+      "height": 20,
+      "confidence": 86.589714,
+      "text": "roll"
+    },
+    {
+      "left": 1134,
+      "top": 2582,
+      "width": 123,
+      "height": 20,
+      "confidence": 27.387356,
+      "text": "A"
+    },
+    {
+      "left": 1273,
+      "top": 2572,
+      "width": 12,
+      "height": 43,
+      "confidence": 85.885353,
+      "text": "|"
+    },
+    {
+      "left": 1295,
+      "top": 2576,
+      "width": 33,
+      "height": 25,
+      "confidence": 85.885353,
+      "text": "Player"
+    },
+    {
+      "left": 1367,
+      "top": 2597,
+      "width": 227,
+      "height": 3,
+      "confidence": 14.18396,
+      "text": "—___"
+    },
+    {
+      "left": 1961,
+      "top": 2572,
+      "width": 59,
+      "height": 43,
+      "confidence": 16.154919,
+      "text": "(Sy)"
+    },
+    {
+      "left": 106,
+      "top": 2640,
+      "width": 56,
+      "height": 32,
+      "confidence": 57.178581,
+      "text": "Se"
+    },
+    {
+      "left": 173,
+      "top": 2629,
+      "width": 84,
+      "height": 51,
+      "confidence": 36.61356,
+      "text": "(es"
+    },
+    {
+      "left": 303,
+      "top": 2638,
+      "width": 1518,
+      "height": 39,
+      "confidence": 52.049553,
+      "text": "SSF"
+    },
+    {
+      "left": 1854,
+      "top": 2629,
+      "width": 98,
+      "height": 51,
+      "confidence": 71.324051,
+      "text": "<a)"
+    },
+    {
+      "left": 1963,
+      "top": 2640,
+      "width": 56,
+      "height": 32,
+      "confidence": 48.710629,
+      "text": "a"
+    },
+    {
+      "left": 107,
+      "top": 2669,
+      "width": 65,
+      "height": 33,
+      "confidence": 68.973343,
+      "text": "A\\"
+    },
+    {
+      "left": 181,
+      "top": 2654,
+      "width": 55,
+      "height": 59,
+      "confidence": 43.312355,
+      "text": "eee"
+    },
+    {
+      "left": 1833,
+      "top": 2659,
+      "width": 186,
+      "height": 44,
+      "confidence": 8.561726,
+      "text": "GLOW."
+    }
+  ],
+  "renderSha256": "0a7f6407d0c330562393992097f5b5ad9c2489c7e8992106541045cd8e408c75"
+}

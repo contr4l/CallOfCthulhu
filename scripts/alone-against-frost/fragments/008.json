@@ -1,0 +1,60 @@
+{
+  "id": "8",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "8:p0",
+      "kind": "heading",
+      "text": "8",
+      "sourceLocation": "pdf:visual:[[11,2]]"
+    },
+    {
+      "id": "8:p1",
+      "kind": "body",
+      "text": "You hear nothing to disturb your watch. At midnight, you yawn \nand cross the tiny circle of firelight to where Bernard Ebstein \nsleeps, whispering to wake him up. When the student makes no \nsound, you probe the shadows with the toe of your boot. You \nfeel only sandy soil beneath the empty blankets.",
+      "sourceLocation": "pdf:visual:[[11,4],[11,6],[11,7],[11,9],[11,10]]"
+    },
+    {
+      "id": "8:p2",
+      "kind": "body",
+      "text": "Concerned,  you  repeat  Bernard’s  name,  louder. The  other \nmembers of your party scramble out of their bedrolls, bleary \nand asking questions.",
+      "sourceLocation": "pdf:visual:[[11,12],[11,13],[11,15]]"
+    },
+    {
+      "id": "8:p3",
+      "kind": "body",
+      "text": "“Be silent!” barks Charlie. She takes a brand from the campfire \nand  holds  it  aloft,  passing  it  over  the  ground  surrounding \nBernard’s  blankets.  She  pauses.  The  brand  trembles  in  her \nbrown, leathery fist. 1",
+      "sourceLocation": "pdf:visual:[[11,16],[11,18],[11,19],[11,21]]"
+    },
+    {
+      "id": "8:p4",
+      "kind": "body",
+      "text": "Even your amateur eye can spot the marks impressed into  (\nthe earth. You ask Charlie if they are the tracks of a raccoon.",
+      "sourceLocation": "pdf:visual:[[11,22],[11,24]]"
+    },
+    {
+      "id": "8:p5",
+      "kind": "body",
+      "text": "“Not a raccoon,” the guide whispers in an odd tone. She says \nno more. Can you convince her to open up?",
+      "sourceLocation": "pdf:visual:[[11,25],[11,27]]"
+    },
+    {
+      "id": "8:p6",
+      "kind": "body",
+      "text": "Make a Persuade roll: if you succeed, go to 14; if you fail, go to 15.",
+      "sourceLocation": "pdf:visual:[[11,29]]"
+    },
+    {
+      "id": "8:p7",
+      "kind": "trace",
+      "text": "(4)",
+      "sourceLocation": "pdf:visual:[[11,30]]"
+    },
+    {
+      "id": "8:p8",
+      "kind": "body",
+      "text": "10",
+      "sourceLocation": "pdf:visual:[[11,32]]"
+    }
+  ]
+}

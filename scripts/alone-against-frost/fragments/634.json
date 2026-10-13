@@ -1,0 +1,42 @@
+{
+  "id": "634",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "634:p0",
+      "kind": "heading",
+      "text": "634",
+      "sourceLocation": "pdf:visual:[[106,28]]"
+    },
+    {
+      "id": "634:p1",
+      "kind": "body",
+      "text": "The creature makes a shallow dive and blasts Bernard with the \nfull force of its weapon before gliding away.",
+      "sourceLocation": "pdf:visual:[[106,29],[106,30]]"
+    },
+    {
+      "id": "634:p2",
+      "kind": "body",
+      "text": "You rush to Bernard, where he lies on the ground. His eyes \nare wide and caked with ice.",
+      "sourceLocation": "pdf:visual:[[106,31],[106,32]]"
+    },
+    {
+      "id": "634:p3",
+      "kind": "body",
+      "text": "Gain  1  point  of  Cthulhu  Mythos.  Make  a  Hard  CON  roll  for \nBernard: if he succeeds, go to 636; if he fails, go to 635.",
+      "sourceLocation": "pdf:visual:[[106,33],[106,34]]"
+    },
+    {
+      "id": "634:p4",
+      "kind": "trace",
+      "text": "(632)",
+      "sourceLocation": "pdf:visual:[[106,35]]"
+    },
+    {
+      "id": "634:p5",
+      "kind": "body",
+      "text": "105",
+      "sourceLocation": "pdf:visual:[[106,36]]"
+    }
+  ]
+}

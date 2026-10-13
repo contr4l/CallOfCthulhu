@@ -1,0 +1,30 @@
+{
+  "id": "639",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "639:p0",
+      "kind": "heading",
+      "text": "639",
+      "sourceLocation": "pdf:visual:[[106,66]]"
+    },
+    {
+      "id": "639:p1",
+      "kind": "body",
+      "text": "The creature’s last blast just grazes Bernard. He falls flat. But \nsomething makes the flyer cease its assault. It glides off, over \nthe treetops.",
+      "sourceLocation": "pdf:visual:[[106,67],[106,68],[106,69]]"
+    },
+    {
+      "id": "639:p2",
+      "kind": "body",
+      "text": "Go to 636.",
+      "sourceLocation": "pdf:visual:[[106,70]]"
+    },
+    {
+      "id": "639:p3",
+      "kind": "trace",
+      "text": "(637)",
+      "sourceLocation": "pdf:visual:[[106,71]]"
+    }
+  ]
+}

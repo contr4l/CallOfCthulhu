@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "8"
+  ],
+  "text": [
+    "你仔细端详这尊偶像。它由海绿色石头制成，雕成某种水生蜥蜴的模样。这件雕塑怪诞而丑恶，光是那蜥蜴般生物的形象就让你心神不宁。尽管如此，它保存得极好，而且无疑十分古老。",
+    "你不愿长时间盯着这件外形异样的东西看，便把它藏到床底下，让它不再碍眼。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 8",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 8",
+      "text": [
+        "You look the idol over. It is made of a sea-green stone and chiseled in the likeness of a water lizard of some sort. The sculpture is grotesque and hideous, and the very depiction of the lizard-like creature unnerves you. Still, the work is extremely well-preserved and unquestionably ancient.",
+        "You feel uncomfortable staring at the alien-looking thing for long, so you stow it away under the bed and out of sight."
+      ]
+    }
+  }
+}

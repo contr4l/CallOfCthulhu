@@ -1,0 +1,30 @@
+{
+  "id": "125",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "125:p0",
+      "kind": "heading",
+      "text": "125",
+      "sourceLocation": "pdf:visual:[[31,11]]"
+    },
+    {
+      "id": "125:p1",
+      "kind": "body",
+      "text": "With a touch of dread, you study the submerged ledge that \nruns through the fissure. But daring the rushing water is the \nonly way to reach the canyon beyond.",
+      "sourceLocation": "pdf:visual:[[31,14],[31,15],[31,17]]"
+    },
+    {
+      "id": "125:p2",
+      "kind": "body",
+      "text": "Make a Luck roll. If you succeed, go to 174. If you fail, go to 93. ",
+      "sourceLocation": "pdf:visual:[[31,19]]"
+    },
+    {
+      "id": "125:p3",
+      "kind": "trace",
+      "text": "(75, 110)",
+      "sourceLocation": "pdf:visual:[[31,20]]"
+    }
+  ]
+}

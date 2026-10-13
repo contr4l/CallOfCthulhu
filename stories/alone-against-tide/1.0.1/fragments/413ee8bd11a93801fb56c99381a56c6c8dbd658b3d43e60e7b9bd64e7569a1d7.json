@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "98"
+  ],
+  "text": [
+    "你的直觉从来不会错。无论那名警官来这里做什么，你都不想卷进去。你环顾四周，权衡选择后决定悄悄靠近阿米莉娅和鲍威尔警官，躲到一堆等待搬运工处理的物品后面。他们匆匆经过藏身处，似乎都没注意到你，于是你可以畅通无阻地走向门口。",
+    "或者，现在也许正是探索这栋房子的好时机。虽然有被发现的风险，但你偷偷查看不该进入的地方，反正也没什么可失去的。",
+    "你的目光短暂地落在入口对面的楼梯上。卧室和书房很可能在楼上，你或许能找到有价值的情报。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 98",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 98",
+      "text": [
+        "Your hunches are never wrong. Whatever that officer is here for, you don’t want any part of it. Glancing around, you weigh your options. You decide to creep toward Amelia and Officer Powell, positioning yourself behind a stack of items that are waiting for the porter. Neither of them seems to notice you as they rush past your hiding place, giving you a clear line to the door.",
+        "Alternatively, now might be a good time to explore the house. While there is the risk of discovery, it’s not as if you have anything to lose by snooping around somewhere you weren’t supposed to be.",
+        "For a brief moment, your gaze wanders to the staircase opposite the entryway. The bedrooms and study are likely up there, and you might be able to find some valuable information."
+      ]
+    }
+  }
+}

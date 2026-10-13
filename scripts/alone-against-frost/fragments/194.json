@@ -1,0 +1,36 @@
+{
+  "id": "194",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "194:p0",
+      "kind": "heading",
+      "text": "194",
+      "sourceLocation": "pdf:visual:[[42,31]]"
+    },
+    {
+      "id": "194:p1",
+      "kind": "body",
+      "text": "As you sit in the dark thinking, you become aware that the \nwoods are unnaturally quiet.",
+      "sourceLocation": "pdf:visual:[[42,32],[42,33]]"
+    },
+    {
+      "id": "194:p2",
+      "kind": "body",
+      "text": "Make a Listen roll: if you succeed, go to 220; if you fail, go to 221.",
+      "sourceLocation": "pdf:visual:[[42,34]]"
+    },
+    {
+      "id": "194:p3",
+      "kind": "trace",
+      "text": "(179)",
+      "sourceLocation": "pdf:visual:[[42,35]]"
+    },
+    {
+      "id": "194:p4",
+      "kind": "body",
+      "text": "41",
+      "sourceLocation": "pdf:visual:[[42,36]]"
+    }
+  ]
+}

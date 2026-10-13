@@ -1,0 +1,36 @@
+{
+  "id": "219",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "219:p0",
+      "kind": "heading",
+      "text": "219\n",
+      "sourceLocation": "pdf:spans:[[70,2971,2975]]"
+    },
+    {
+      "id": "219:p1",
+      "kind": "body",
+      "text": "Your mind clouds over once more, as if dreaming again. You \nsee the strange city in your mind’s eye. Your vision passes over \nprecious metals changing hands between exotic merchants. \nDisks of silver and gold move from buyer to seller before \ndisappearing into bags and boxes. You glide formlessly over \nthe city and out into the surrounding lands, where you see the \ncitizens marching in lines, carrying precious metals to the city \nfrom the mines. You float above it all and look out to the lake, \nwhere you sense brooding hatred and disgust.\n",
+      "sourceLocation": "pdf:spans:[[70,2975,3035],[70,3035,3101],[70,3101,3159],[70,3159,3218],[70,3218,3279],[70,3279,3343],[70,3343,3409],[70,3409,3475],[70,3475,3520]]"
+    },
+    {
+      "id": "219:p2",
+      "kind": "body",
+      "text": "Your awareness snaps back to reality as you stare into the \nidol’s light. You make the connection between those precious \nmetals and this grotesque lizard-thing’s disdain.\n",
+      "sourceLocation": "pdf:spans:[[70,3520,3580],[70,3580,3642],[70,3642,3692]]"
+    },
+    {
+      "id": "219:p3",
+      "kind": "body",
+      "text": "• If you have a gold bar, go to 239. Otherwise, go to 234.\n",
+      "sourceLocation": "pdf:spans:[[70,3694,3753]]"
+    },
+    {
+      "id": "219:p4",
+      "kind": "body",
+      "text": "(205)",
+      "sourceLocation": "pdf:spans:[[70,3753,3758]]"
+    }
+  ]
+}

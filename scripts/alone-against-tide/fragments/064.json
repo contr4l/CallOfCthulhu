@@ -1,0 +1,30 @@
+{
+  "id": "64",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "64:p0",
+      "kind": "heading",
+      "text": "64\n",
+      "sourceLocation": "pdf:spans:[[25,1065,1068]]"
+    },
+    {
+      "id": "64:p1",
+      "kind": "body",
+      "text": "You pay a considerable sum but the Indian crown is now yours. \nYou smile with satisfaction as you tuck the bronze headpiece \ninto your briefcase.\n",
+      "sourceLocation": "pdf:spans:[[25,1068,1131],[25,1131,1193],[25,1193,1214]]"
+    },
+    {
+      "id": "64:p2",
+      "kind": "body",
+      "text": "• Reduce your Credit Rating by 2 percentiles. Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[25,1214,1270]]"
+    },
+    {
+      "id": "64:p3",
+      "kind": "body",
+      "text": "(58)\n",
+      "sourceLocation": "pdf:spans:[[25,1270,1275]]"
+    }
+  ]
+}

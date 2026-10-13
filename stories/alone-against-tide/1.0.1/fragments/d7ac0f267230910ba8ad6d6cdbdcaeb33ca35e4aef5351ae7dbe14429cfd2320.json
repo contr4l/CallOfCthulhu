@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "33"
+  ],
+  "text": [
+    "你告诉那男人自己是医生，受验尸官委派调查哈里斯教授的死因。男人悲伤地缓缓点头。“唉，这事真糟。我喜欢那老先生。不过我不太了解他的死因。你应该去问鲍威尔警官，或者问问他的遗孀阿米莉娅。他们今晚大概都会去遗产拍卖会。哈里斯教授不在了，她要是想留在埃斯伯里，就需要这笔额外收入。这里可不便宜。”男人用手擦了擦衬衫，随后向你伸出手。“对了，我叫兰斯，兰斯·桑福德。很高兴认识你，不过真希望是在更令人愉快的情况下。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 33",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 33",
+      "text": [
+        "You tell the man you’re a doctor, sent by the coroner to look into Prof. Harris’ death. The man nods slowly, mournfully. “Ah, that’s a bad business. I liked the old man. Can’t say I know much about his death though. You’ll want to talk to Officer Powell about that. Or maybe his widow, Amelia. They’ll probably be at that estate sale tonight. Without Professor Harris around, she’ll need the extra windfall if she plans to stay in Esbury. This place ain’t cheap.” The man brushes his hand against his shirt and then extends it to you. “My name’s Lance, by the way. Lance Sanford. Good to meet you, but I wish it was under happier circumstances.”"
+      ]
+    }
+  }
+}

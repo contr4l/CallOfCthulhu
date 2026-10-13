@@ -1,0 +1,36 @@
+{
+  "id": "618",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "618:p0",
+      "kind": "heading",
+      "text": "618",
+      "sourceLocation": "pdf:visual:[[104,1]]"
+    },
+    {
+      "id": "618:p1",
+      "kind": "body",
+      "text": "Terror lends the New Yorker fleetness of foot. As you scramble \ninto the low-hanging boughs of an oak, Norman leans down. \nHe grabs Bernard’s arm and swings him up into the branches. \nThe stampede rushes around the sturdy bole, leaving the group \nof you somehow unharmed.",
+      "sourceLocation": "pdf:visual:[[104,2],[104,3],[104,4],[104,5],[104,6]]"
+    },
+    {
+      "id": "618:p2",
+      "kind": "body",
+      "text": "After all that, it seems unnecessary to admonish Bernard for \nhis recklessness.",
+      "sourceLocation": "pdf:visual:[[104,7],[104,8]]"
+    },
+    {
+      "id": "618:p3",
+      "kind": "body",
+      "text": "To give up exploring this dangerous place, go to 613. To remain for \na while, go to 645.",
+      "sourceLocation": "pdf:visual:[[104,9],[104,10]]"
+    },
+    {
+      "id": "618:p4",
+      "kind": "trace",
+      "text": "(617)",
+      "sourceLocation": "pdf:visual:[[104,11]]"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "159"
+  ],
+  "text": [
+    "一辆汽车在路上来回摇摆、横冲直撞。你猛地扑向一旁，躲开它，等汽车驶过后才站起来，拍掉身上大部分泥巴。",
+    "刚才的遭遇让你又恼火又害怕，但你随即意识到这其实是件好事——它证实了你应该前进的方向。你跟着那辆车，默默而坚定地继续前行。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 159",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 159",
+      "text": [
+        "You throw yourself out of the way of the careening automobile as it swerves back and forth across the road. You let it pass before you finally rise and brush off the worst of the mud.",
+        "As annoyed and frightened as you are by what just occurred, it dawns on you that this was a good thing—it confirms the direction you should be going. You follow the car, marching silently and purposefully on."
+      ]
+    }
+  }
+}

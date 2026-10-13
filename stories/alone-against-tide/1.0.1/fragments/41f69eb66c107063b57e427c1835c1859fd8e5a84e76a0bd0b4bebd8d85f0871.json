@@ -1,0 +1,37 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "137"
+  ],
+  "text": [
+    "你决定暂时搁置疑虑，好好休息，明早再试一次。你收拾好东西，准备睡觉。为了安全起见，你锁上房门。",
+    "你辗转反侧，只睡了一个多小时，睡得很不安稳。半夜时分，你被最可怕的声音惊醒。",
+    "镇上某处浓雾笼罩的街道传来阵阵尖叫——惊恐至极、令人毛骨悚然的惨叫。本能驱使你冲到窗边，想弄清是什么引起了骚乱，好让自己有所准备。你朝外望去，只看见一片漆黑和浓雾。",
+    "你紧张地转身看向房间，安慰自己这里很安全，发出惨叫的东西肯定离得很远。这种自我欺骗只持续了一会儿；你焦虑地在房间里走来走去时，看见水正从门下渗入。你立刻明白了其中含义。你的房间在二楼——此刻埃斯伯里其余地方想必都已彻底淹没。",
+    "一楼已经被水淹没，你房间里的水位也迅速上涨，于是你被困住了。唯一的出口是窗户，窗外是被洪水淹没、漆黑又朦胧的街道。你并不想涉足这座沉没的城镇，但别无选择。",
+    "你再次转向窗户，用发抖的手打开插销。正要抬起窗户时，一只绿色的蹼手拍在玻璃上，手上有三根手指。你吓得向后跳开，陷入恐慌。你确信这绝非自然之物。你惊恐地盯着它，更多异样的形体出现在视野中——另一只手与第一只手一起试图推开窗户。还有一张脸——可怕、非尘世的脸——上面长着撅起的松弛嘴唇和凸起的死鱼眼。那双眼睛盯着你，把你当成周遭环境里一件普通摆设。",
+    "你回望那怪物，水已漫到脚踝。它猛烈撞击窗户，你看见玻璃开始出现裂纹。你吓得动弹不得，知道它很快就会冲进来。",
+    "令人意外的是，水灌满房间时玻璃仍然撑住了。直到水涨到胸口，玻璃才终于碎裂。这个臃肿畸形的东西挤进房间，与你困在一起。它动作迟缓、步履蹒跚，但无论你怎么努力，都无法战胜它。虽然你成功打中它柔软的肉身一两下，恐惧还是压倒了你的感官。它抓住你，把你按进不断上涨的水中，直到你停止呼吸。你已经溺亡。如果愿意，你可以重新尝试这场故事，希望能有更好的结果。不过此刻，你在埃斯伯里的旅程结束了。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 137",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 137",
+      "text": [
+        "You decide to put your misgivings aside and simply get some rest so that you can try again in the morning. You tidy away your things and head off to bed. You lock the door of your room, just to be safe.",
+        "You toss and turn, gaining an hour or two of uneasy sleep. But in the middle of the night, you are awakened by the most terrible sounds.",
+        "Somewhere in the fog-shrouded town, people are screaming—frightened, bloodcurdling howls of abject terror. Instinctively, you rush to the window to try to figure out what the cause might be, so you can be prepared for it. You stare out and see only blackness and mist.",
+        "You nervously turn back to the room, assuring yourself that you’re safe in here and that whatever is causing the screams can’t be anywhere close by. You’re only able to foist this lie on yourself for a moment, because as you anxiously pace your room, you see water seeping in beneath the door. The implications of this are not lost on you. Your room is on the second floor of the building—the rest of Esbury must be thoroughly flooded by now.",
+        "With the first floor inundated and the water level in your room rising swiftly, you find yourself trapped. Your only method of egress is the window, which leads out into the flooded, dark, and hazy streets. You don’t much like the prospect of venturing out into the sunken town, but you have little choice.",
+        "You turn again to the window and undo the latch with shaky hands. You are about to lift the window open when a green, three-fingered, webbed hand smacks against the pane. You jump back with a start, overcome by panic. This is nothing natural, of that you are sure. As you stare in horror, more of the unnatural form comes into view—a second hand, trying to force the window open along with the first. And a face—a terrible, unearthly face—dominated by pouting, flabby lips and bulbous, dead eyes. These eyes stare at you, taking you in as a mere fixture among your surroundings.",
+        "You stare back at the creature as the water rises around your ankles. The thing pounds against the window and you see cracks beginning to form. You freeze in terror, knowing it will soon be upon you.",
+        "Surprisingly, the glass holds as the water fills the room. It does not give out until the water reaches your chest. With a sharp crash, the glass breaks and this bloated and misshapen thing squeezes into the room with you. It is slow and lumbering but, try as you might, you cannot fight it. Although you manage to land a blow or two against its soft flesh, your horror overcomes your senses. It lays hands on you and shoves you down beneath the rising water. It holds you there until your breathing stops. You have drowned. If you wish, you may attempt the story again and hope for a better outcome. But, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "330",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "330:p0",
+      "kind": "heading",
+      "text": "330",
+      "sourceLocation": "pdf:visual:[[63,14]]"
+    },
+    {
+      "id": "330:p1",
+      "kind": "body",
+      "text": "Flushed from the cave, intent upon survival, you dive for the \nthickets to escape the weird attackers.",
+      "sourceLocation": "pdf:visual:[[63,17],[63,18]]"
+    },
+    {
+      "id": "330:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 336; if you fail, go to 516.",
+      "sourceLocation": "pdf:visual:[[63,20]]"
+    },
+    {
+      "id": "330:p3",
+      "kind": "trace",
+      "text": "(335, 515)",
+      "sourceLocation": "pdf:visual:[[63,22]]"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "126",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "126:p0",
+      "kind": "heading",
+      "text": "126\n",
+      "sourceLocation": "pdf:spans:[[41,391,395]]"
+    },
+    {
+      "id": "126:p1",
+      "kind": "body",
+      "text": "You don’t know why you hadn’t realized it before. Selling all of \nhis things, adopting such a flirty demeanor, dismissing questions \nabout her husband’s death: Amelia doesn’t seem too broken up \nabout her husband passing. She’s hiding something—you’d bet \nyour career on it. You suspect she’s involved in Prof. Harris’ \ndeath in some form or another.\n",
+      "sourceLocation": "pdf:spans:[[41,395,461],[41,461,528],[41,528,590],[41,590,651],[41,651,715],[41,715,746]]"
+    },
+    {
+      "id": "126:p2",
+      "kind": "body",
+      "text": "You open your mouth, prepared to call her bluff and press her \nfor more information, but you are interrupted by a loud knock \nat the door. Amelia jumps up, startled, and stands there for a \nmoment in confusion as the pounding on the door resumes. \n“Police! Open the door!” Amelia’s face drains white as she goes to \nanswer the knock.\n",
+      "sourceLocation": "pdf:spans:[[41,746,809],[41,809,872],[41,872,936],[41,936,994],[41,994,1062],[41,1062,1080]]"
+    },
+    {
+      "id": "126:p3",
+      "kind": "body",
+      "text": "Your gut tells you something is wrong here. You feel uneasy \nabout the officer at the door. You tell yourself you’re being \nirrational and on edge, but you have some trouble fighting that \nfeeling. You have a few precious moments to react.\n",
+      "sourceLocation": "pdf:spans:[[42,26,87],[42,87,150],[42,150,215],[42,215,266]]"
+    },
+    {
+      "id": "126:p4",
+      "kind": "body",
+      "text": "• To ignore your instincts and wait, go to 47.\n",
+      "sourceLocation": "pdf:spans:[[42,266,313]]"
+    },
+    {
+      "id": "126:p5",
+      "kind": "body",
+      "text": "• To take this chance to hide, make a Stealth roll: if you succeed, go \nto 98; if you fail, go to 20.\n",
+      "sourceLocation": "pdf:spans:[[42,313,385],[42,385,415]]"
+    },
+    {
+      "id": "126:p6",
+      "kind": "body",
+      "text": "(55)\n",
+      "sourceLocation": "pdf:spans:[[42,415,420]]"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "format": "coc-pdf-ocr@1",
+  "pdfPage": 89,
+  "printedPage": 88,
+  "engine": "tesseract",
+  "version": "tesseract 5.5.0",
+  "language": "eng",
+  "resolutionDpi": 220,
+  "segmentation": 3,
+  "sourcePdfSha256": "668c89c837f6325564163f07cd7d73f77da90066101dffd03bed30a2f17fb448",
+  "text": "",
+  "tokens": [],
+  "reviewRequired": true,
+  "notes": [
+    "OCR is supplemental; original PDF and embedded image assets remain authoritative. Low-confidence fields are not imported as character statistics."
+  ]
+}

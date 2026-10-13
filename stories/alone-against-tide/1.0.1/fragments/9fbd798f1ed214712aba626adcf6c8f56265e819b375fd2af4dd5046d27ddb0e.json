@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "58-appraise",
+    "58-creditRating",
+    "58"
+  ],
+  "text": [
+    "你决定竞拍王冠，在纸条上写下自己的名字和合适的价格，然后把它投进箱子。你耐心等待沃伦先生宣布最高出价者。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 58",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 58",
+      "text": [
+        "You decide to place a bid on the crown and affix your name and a suitable price to a slip of paper, which finds its way into the box. You wait patiently for Mr. Warren to announce the highest bidder."
+      ]
+    }
+  }
+}

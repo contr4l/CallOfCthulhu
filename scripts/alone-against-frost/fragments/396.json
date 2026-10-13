@@ -1,0 +1,48 @@
+{
+  "id": "396",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "396:p0",
+      "kind": "heading",
+      "text": "396",
+      "sourceLocation": "pdf:visual:[[71,44]]"
+    },
+    {
+      "id": "396:p1",
+      "kind": "body",
+      "text": "“She’s here!” Norman hisses from the shadows. You creep over to \nhim and look down at the pale shape he has found.",
+      "sourceLocation": "pdf:visual:[[71,45],[71,46]]"
+    },
+    {
+      "id": "396:p2",
+      "kind": "body",
+      "text": "70",
+      "sourceLocation": "pdf:visual:[[71,47]]"
+    },
+    {
+      "id": "396:p3",
+      "kind": "body",
+      "text": "Sylvia’s eyes are open, but they do not focus. She gives no \nsign of recognizing you. When you pull on her arm, she gets up \nwithout resisting and stands there, slack. You exchange glances \nwith Norman. He looks conflicted.",
+      "sourceLocation": "pdf:visual:[[71,49],[71,50],[71,51],[71,52]]"
+    },
+    {
+      "id": "396:p4",
+      "kind": "body",
+      "text": "“Can we make it back out of camp with her in this state?” he \nasks. “Can we make it all the way back home?” If Sylvia’s sanity is \ngone, perhaps it would be kindest to leave her here.",
+      "sourceLocation": "pdf:visual:[[71,53],[71,54],[71,55]]"
+    },
+    {
+      "id": "396:p5",
+      "kind": "body",
+      "text": "To take Sylvia along with you, go to 398. To leave her behind, make \na Stealth roll for Norman and yourself: if you both succeed, go to \n291; if either of you fails, go to 390. ",
+      "sourceLocation": "pdf:visual:[[71,56],[71,57],[71,58]]"
+    },
+    {
+      "id": "396:p6",
+      "kind": "trace",
+      "text": "(422)",
+      "sourceLocation": "pdf:visual:[[71,59]]"
+    }
+  ]
+}

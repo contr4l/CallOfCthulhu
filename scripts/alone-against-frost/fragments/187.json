@@ -1,0 +1,36 @@
+{
+  "id": "187",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "187:p0",
+      "kind": "heading",
+      "text": "187",
+      "sourceLocation": "pdf:visual:[[41,15]]"
+    },
+    {
+      "id": "187:p1",
+      "kind": "body",
+      "text": "You  urge  your  thunderstruck  students  to  flee.  But  it  is  too \nlate for them. As you run, you shiver at their cries. Throwing \na glance over your shoulder, you see bloodied snow and the \nwind-walker ripping at their bodies.",
+      "sourceLocation": "pdf:visual:[[41,16],[41,17],[41,18],[41,19]]"
+    },
+    {
+      "id": "187:p2",
+      "kind": "body",
+      "text": "Your only hope is that the creature will be sated and not \npursue you.",
+      "sourceLocation": "pdf:visual:[[41,20],[41,21]]"
+    },
+    {
+      "id": "187:p3",
+      "kind": "body",
+      "text": "Make a Luck roll: if it succeeds, go to 336; if it fails, go to 304.",
+      "sourceLocation": "pdf:visual:[[41,22]]"
+    },
+    {
+      "id": "187:p4",
+      "kind": "trace",
+      "text": "(127)",
+      "sourceLocation": "pdf:visual:[[41,23]]"
+    }
+  ]
+}

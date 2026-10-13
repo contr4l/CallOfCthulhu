@@ -1,0 +1,30 @@
+{
+  "id": "165",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "165:p0",
+      "kind": "heading",
+      "text": "165",
+      "sourceLocation": "pdf:visual:[[38,9]]"
+    },
+    {
+      "id": "165:p1",
+      "kind": "body",
+      "text": "On  so  treacherous  a  river,  your  party  cannot  afford  many \nmistakes. You must work together.",
+      "sourceLocation": "pdf:visual:[[38,10],[38,11]]"
+    },
+    {
+      "id": "165:p2",
+      "kind": "body",
+      "text": "Make a Pilot (Boat) roll for each party member: if at least three rolls \nsucceed, go to 513; otherwise, go to 156. ",
+      "sourceLocation": "pdf:visual:[[38,12],[38,13]]"
+    },
+    {
+      "id": "165:p3",
+      "kind": "trace",
+      "text": "(16, 51, 160, 499)",
+      "sourceLocation": "pdf:visual:[[38,14]]"
+    }
+  ]
+}

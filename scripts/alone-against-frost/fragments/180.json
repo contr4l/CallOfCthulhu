@@ -1,0 +1,30 @@
+{
+  "id": "180",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "180:p0",
+      "kind": "heading",
+      "text": "180",
+      "sourceLocation": "pdf:visual:[[39,82]]"
+    },
+    {
+      "id": "180:p1",
+      "kind": "body",
+      "text": "Peering beneath the bandages, you are moved to pity by the \nbruised, cut, and infected condition of the sleeping man’s feet. \nYou clean his wounds and change the bandages. ",
+      "sourceLocation": "pdf:visual:[[39,83],[39,84],[39,85]]"
+    },
+    {
+      "id": "180:p2",
+      "kind": "body",
+      "text": "Go to 181.",
+      "sourceLocation": "pdf:visual:[[39,86]]"
+    },
+    {
+      "id": "180:p3",
+      "kind": "trace",
+      "text": "(80, 204)",
+      "sourceLocation": "pdf:visual:[[39,87]]"
+    }
+  ]
+}

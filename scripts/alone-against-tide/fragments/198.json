@@ -1,0 +1,30 @@
+{
+  "id": "198",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "198:p0",
+      "kind": "heading",
+      "text": "198\n",
+      "sourceLocation": "pdf:spans:[[63,1401,1405]]"
+    },
+    {
+      "id": "198:p1",
+      "kind": "body",
+      "text": "You march on as best you can, putting one foot in front of the \nother. You are bruised and tired, and you cannot go on for long. \nWithin a short time, you pause to lean against a tree to catch \nyour breath and fall quickly and quietly asleep.\n",
+      "sourceLocation": "pdf:spans:[[63,1405,1469],[63,1469,1535],[63,1535,1599],[63,1599,1648]]"
+    },
+    {
+      "id": "198:p2",
+      "kind": "body",
+      "text": "Yours is a deep and dreamful slumber. The waking world \nmelts away, replaced by a shining city of marble, onyx, and \nlustrous gems. You see this magnificent city in all its splendor, \nsitting next to a placid lake. And then, in an instant, it’s gone \nas the water rises up to swallow it. The lizard-thing of the idol, \ngiven life and power, surges up from the water. The being eyes \nyou with malicious sentience as the waters swell and consume \nyou. You do not wake from your repose.\nYou have died, claimed in the night by the unnatural powers of the \nGreat Old One manifesting in the lake. Your visit to Esbury is over. \nTHE END.\n",
+      "sourceLocation": "pdf:spans:[[63,1648,1704],[63,1704,1765],[63,1765,1832],[63,1832,1899],[63,1899,1967],[63,1967,2031],[63,2031,2093],[63,2093,2132],[63,2134,2202],[63,2202,2272],[63,2272,2281]]"
+    },
+    {
+      "id": "198:p3",
+      "kind": "body",
+      "text": "(167, 189)\n",
+      "sourceLocation": "pdf:spans:[[63,2281,2292]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "500",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "500:p0",
+      "kind": "heading",
+      "text": "500",
+      "sourceLocation": "pdf:visual:[[87,48]]"
+    },
+    {
+      "id": "500:p1",
+      "kind": "body",
+      "text": "As the sasquatches scatter into the rocks and brush, you and \nNorman dash down into the encampment to rescue Sylvia.",
+      "sourceLocation": "pdf:visual:[[87,49],[87,50]]"
+    },
+    {
+      "id": "500:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 395: if the result is odd, go \nto 357.",
+      "sourceLocation": "pdf:visual:[[87,51],[87,52]]"
+    },
+    {
+      "id": "500:p3",
+      "kind": "trace",
+      "text": "(353)",
+      "sourceLocation": "pdf:visual:[[87,53]]"
+    },
+    {
+      "id": "500:p4",
+      "kind": "body",
+      "text": "86",
+      "sourceLocation": "pdf:visual:[[87,54]]"
+    }
+  ]
+}

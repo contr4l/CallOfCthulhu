@@ -1,0 +1,54 @@
+{
+  "id": "40",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "40:p0",
+      "kind": "heading",
+      "text": "40",
+      "sourceLocation": "pdf:visual:[[17,2]]"
+    },
+    {
+      "id": "40:p1",
+      "kind": "body",
+      "text": "Your watch passes without incident. But later, you shiver in your \nsleep. The chill is brought home to you when Charlie reaches \ninto your small tent and shakes you awake.",
+      "sourceLocation": "pdf:visual:[[17,4],[17,6],[17,7]]"
+    },
+    {
+      "id": "40:p2",
+      "kind": "body",
+      "text": "“Professor, come quickly,” the guide snaps. You throw on your \njacket and follow her. Outside, you stare at the grass, the stones, \nthe needles of the conifers: all are gray with a frosty rime. This \nseems impossible. It is still summer.",
+      "sourceLocation": "pdf:visual:[[17,9],[17,10],[17,12],[17,13]]"
+    },
+    {
+      "id": "40:p3",
+      "kind": "body",
+      "text": "“Look,” Charlie croaks, pointing to the spot where Bernard \nsat down to begin his watch.",
+      "sourceLocation": "pdf:visual:[[17,15],[17,16]]"
+    },
+    {
+      "id": "40:p4",
+      "kind": "body",
+      "text": "The  graduate  student  lies  half-hidden  behind  a  stump, \ncurled up. You gasp. Ebstein has been reduced to a shrunken, \nflabby, drooling thing. His bloodless forehead is caved in like a \ndeflated basketball. How he can still be alive in that condition \nis beyond your ken.",
+      "sourceLocation": "pdf:visual:[[17,18],[17,19],[17,21],[17,22],[17,24]]"
+    },
+    {
+      "id": "40:p5",
+      "kind": "body",
+      "text": "Sylvia brings a blanket, and you wrap Bernard in the heavy \nwool. As you do so, you notice a somewhat repugnant odor \nin the cold air. When you grasp the young man’s jacket, your \nfingers slip from a grayish grease that coats him.",
+      "sourceLocation": "pdf:visual:[[17,25],[17,27],[17,28],[17,30]]"
+    },
+    {
+      "id": "40:p6",
+      "kind": "body",
+      "text": "To confront this mystery and perhaps seek revenge, go to 41. To flee \nthe valley in terror, go to 43.",
+      "sourceLocation": "pdf:visual:[[17,32],[17,33]]"
+    },
+    {
+      "id": "40:p7",
+      "kind": "trace",
+      "text": "(21)",
+      "sourceLocation": "pdf:visual:[[17,34]]"
+    }
+  ]
+}

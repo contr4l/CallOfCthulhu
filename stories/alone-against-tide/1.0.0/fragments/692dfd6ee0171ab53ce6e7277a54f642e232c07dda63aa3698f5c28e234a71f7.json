@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "177"
+  ],
+  "text": [
+    "你匆忙拔出枪，朝那只生物开火。一枪。两枪。三枪。每颗子弹都重重击中那东西，把它打得向后踉跄。你注意到子弹全都直接穿过了它的身体，几乎没有受到那脆弱血肉的阻碍。那东西的伤口很快开始以惊人的速度漏出透明液体，它在你眼前似乎瘪了下去。它又朝你蹒跚走了几步，有那么一瞬间，你惊恐地以为它会倒在你身上。幸好，它瘫倒在你脚边。它不再动弹，悄无声息地死去。",
+    "你战胜这只异界生物，不禁打了个寒战。但你没能庆祝多久，因为你又听见了那种黏液吧唧声，这次声音来自好几个方向。你迅速给武器装填，以防它们碰巧找上你，并立即决定接下来怎么办。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 177",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 177",
+      "text": [
+        "You hurriedly draw your gun and fire into the creature. Once. Twice. Three times. Each bullet slams into the thing and sends it reeling backward. You note that all of the bullets go clean through the creature, hardly slowed by its flimsy flesh. The thing’s wounds quickly begin leaking clear fluid at an alarming rate and it appears to deflate before your very eyes. It takes a few more stumbling steps toward you and for a single horrific second, you fear it will collapse on top of you. Thankfully, it crumples to the ground at your feet. Its movement ceases as it silently dies.",
+        "You shudder at your victory over the otherworldly creature. However, you don’t have long to relish your success as you hear the squelching sound again, this time from multiple directions. You reload your weapon quickly in case they should chance upon you, and you make a snap decision of how to proceed."
+      ]
+    }
+  }
+}

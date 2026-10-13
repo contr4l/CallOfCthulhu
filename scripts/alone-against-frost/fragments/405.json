@@ -1,0 +1,54 @@
+{
+  "id": "405",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "405:p0",
+      "kind": "heading",
+      "text": "405",
+      "sourceLocation": "pdf:visual:[[72,49]]"
+    },
+    {
+      "id": "405:p1",
+      "kind": "body",
+      "text": "A  flaming  tree  topples  toward  you.  You  dive,  avoiding  its \ntrajectory by inches. It crashes onto your companions. Fearing \nthe worst, you scramble over.",
+      "sourceLocation": "pdf:visual:[[72,50],[72,51],[72,52]]"
+    },
+    {
+      "id": "405:p2",
+      "kind": "body",
+      "text": "Sylvia’s skull is crushed. Her sightless eyes tell you everything \nyou need to know.",
+      "sourceLocation": "pdf:visual:[[72,53],[72,54]]"
+    },
+    {
+      "id": "405:p3",
+      "kind": "body",
+      "text": "Norman is still alive on the other side. You try to reach him, \nbut the flames drive you back. Through the heat haze, you see \nhis legs are trapped beneath the blazing trunk and a branch has \nskewered his shoulder to the ground. There is no hope for him.",
+      "sourceLocation": "pdf:visual:[[72,55],[72,56],[72,57],[72,58]]"
+    },
+    {
+      "id": "405:p4",
+      "kind": "body",
+      "text": "His agonized eyes find yours. “Do you award… posthumous… \ndegrees, Professor?” Norman splutters and coughs up a mouthful \nof blood. “I’d like… a distinction...” His head lolls back and the \nflames take his body.",
+      "sourceLocation": "pdf:visual:[[72,59],[72,60],[72,61],[72,62]]"
+    },
+    {
+      "id": "405:p5",
+      "kind": "body",
+      "text": "Wiping away tears, you flee from the inferno.",
+      "sourceLocation": "pdf:visual:[[72,63]]"
+    },
+    {
+      "id": "405:p6",
+      "kind": "body",
+      "text": "Make a Luck roll: if successful go to 408; if failed, go to 407.",
+      "sourceLocation": "pdf:visual:[[72,64]]"
+    },
+    {
+      "id": "405:p7",
+      "kind": "trace",
+      "text": "(403)",
+      "sourceLocation": "pdf:visual:[[72,65]]"
+    }
+  ]
+}

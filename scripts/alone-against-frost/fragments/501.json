@@ -1,0 +1,30 @@
+{
+  "id": "501",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "501:p0",
+      "kind": "heading",
+      "text": "501",
+      "sourceLocation": "pdf:visual:[[87,56]]"
+    },
+    {
+      "id": "501:p1",
+      "kind": "body",
+      "text": "You trudge on alone. Weary, hungry, footsore, you are blind to \nthe bleak splendors of the lonely, remote forests through which \nyou pass. You sense your insignificance against the merciless, \ntangled wilderness.",
+      "sourceLocation": "pdf:visual:[[87,57],[87,58],[87,59],[87,60]]"
+    },
+    {
+      "id": "501:p2",
+      "kind": "body",
+      "text": "Make a Listen roll: if you succeed, go to 502; if you fail, go to 506. ",
+      "sourceLocation": "pdf:visual:[[87,61]]"
+    },
+    {
+      "id": "501:p3",
+      "kind": "trace",
+      "text": "(67, 597)",
+      "sourceLocation": "pdf:visual:[[87,62]]"
+    }
+  ]
+}

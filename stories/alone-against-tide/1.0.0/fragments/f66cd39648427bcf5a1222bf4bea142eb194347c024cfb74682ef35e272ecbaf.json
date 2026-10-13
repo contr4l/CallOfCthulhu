@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "210"
+  ],
+  "text": [
+    "你站在摆放着奇异文物的桌子旁，确信它们与埃斯伯里发生的怪事有关。你决定最好仔细查看一番，从中尽可能获取信息。",
+    "你先翻阅那叠笔记，发现其中有些字符与某些古代物品上的文字相同。若你想尝试翻译，这些笔记或许能派上用场。",
+    "桌上还有一个空袋子，之前就是用来把这些遗物带到这里的。你可以把它们重新装进去带走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 210",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 210",
+      "text": [
+        "You stand over the table of curious artifacts, confident that they have something to do with the strange events in Esbury. You decide it’s best to look them over and glean what information you can from them.",
+        "You begin by leafing through the stack of notes. You realize they contain some of the same characters that are written on some of the ancient items. You may be able to use these notes to assist in any translation attempts you wish to make.",
+        "There is also an empty sack on the table that was used to bring these relics here. You are free to load them back up and take them with you."
+      ]
+    }
+  }
+}

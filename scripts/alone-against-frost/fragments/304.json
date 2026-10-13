@@ -1,0 +1,30 @@
+{
+  "id": "304",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "304:p0",
+      "kind": "heading",
+      "text": "304",
+      "sourceLocation": "pdf:visual:[[59,28]]"
+    },
+    {
+      "id": "304:p1",
+      "kind": "body",
+      "text": "You race for the cover of the deep woods. The monster follows, \nand it is catching up. The Big Woods are home to its kind. Your \nonly hope is to bury yourself beneath the canopy.",
+      "sourceLocation": "pdf:visual:[[59,29],[59,30],[59,31]]"
+    },
+    {
+      "id": "304:p2",
+      "kind": "body",
+      "text": "Make a Stealth roll: if you succeed, go to 336; if not, go to 337.",
+      "sourceLocation": "pdf:visual:[[59,32]]"
+    },
+    {
+      "id": "304:p3",
+      "kind": "trace",
+      "text": "(187, 303, 306)",
+      "sourceLocation": "pdf:visual:[[59,33]]"
+    }
+  ]
+}

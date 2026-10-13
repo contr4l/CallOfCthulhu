@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "111"
+  ],
+  "text": [
+    "你把这场冲突抛在身后，乐于不再去想这件事。你快步沿街走去，希望尽量远离哈里斯家。",
+    "你沿路走了一小段，听见沉重的脚步声正朝你靠近。浓雾很厚，你觉得对方应该没发现你。你赶紧躲进附近的小巷，让路人先过去。那男人快步从你身边经过，嘴里低声咒骂。你认出了约书亚的声音，也确信他与那场企图逮捕你的行动有关。",
+    "不过你明白眼下没多少办法对付他。该死的浓雾让渡船无法开航，你最好还是回旅馆，想想下一步该怎么做。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 111",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 111",
+      "text": [
+        "You leave the scuffle behind you, happy to put that business out of mind. You begin walking down the street at a brisk pace, hoping to get some distance between yourself and the Harris house.",
+        "You continue along the path for a short distance before you hear the sound of heavy footsteps approaching you. Thanks to the thick fog, you don’t think you’ve been spotted. You quickly duck into a nearby alley to let the traveler pass. The man moves by you at a quick jog, cursing under his breath. You recognize Joshua’s voice, and you feel certain that he’s connected to your attempted arrest.",
+        "Still, you realize that you don’t have many options to deal with that right now. With this damnable fog keeping you from leaving on the ferry, the best thing you can do is head back to the hotel and figure out what your next move is."
+      ]
+    }
+  }
+}

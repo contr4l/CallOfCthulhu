@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "134"
+  ],
+  "text": [
+    "你走出房间，来到旅馆前台。那个瘦小的老妇人站在壁炉旁，拨弄着炭火，抵御浓雾带来的寒意。你走近时，她扬起眉毛，好奇地看着你，却没有说话。",
+    "你清了清嗓子，问她是否看见有人进出你的房间，或者是否在旅馆里看见什么可疑的人。她咬着嘴唇想了一会儿，随后迅速点头。她紧紧抓住你的手腕，力气远超你对她娇小身躯的预期。“那些男人带着枪，我不得不给他们钥匙。其中一个刚离开，另一个还在楼上。我想他正在打那个印度人。”她紧张地看着你，几乎是在求你采取行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 134",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 134",
+      "text": [
+        "You exit your room and make your way to the hotel’s front desk. The wiry-looking old woman stands next to the fireplace, stoking the coals to keep out the mist’s chill. As you approach her, she raises her eyebrows at you inquisitively but says nothing.",
+        "You clear your throat and ask her if she saw anyone entering or leaving your room, or even just anyone unusual at the hotel. She bites her lip for a minute before nodding quickly. She grasps your wrist with a fierceness you would not have expected of her tiny frame. “The men had guns, I had to give them the keys. One of them just left, but the other is still upstairs. I think he’s beating that Indian man.” She looks at you nervously, almost pleading for you to do something."
+      ]
+    }
+  }
+}

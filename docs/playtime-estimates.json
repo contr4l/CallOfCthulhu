@@ -1,0 +1,3250 @@
+{
+  "settings": {
+    "chineseCharsPerMinute": [
+      300,
+      500
+    ],
+    "englishWordsPerMinute": [
+      150,
+      220
+    ],
+    "nextSeconds": [
+      2,
+      4
+    ],
+    "decisionSeconds": [
+      8,
+      20
+    ],
+    "diceSeconds": [
+      8,
+      18
+    ],
+    "allocationMinutes": [
+      2,
+      5
+    ],
+    "setupMinutes": [
+      2,
+      5
+    ]
+  },
+  "reports": [
+    {
+      "storyId": "alone-against-flames",
+      "version": "1.1.0",
+      "title": "向火独行",
+      "manifestSha256": "d782c082a1b11eaa0eb38a6ce7bfed7421165c2d6ae986645f0615dfce09b614",
+      "corpus": {
+        "uniqueTextBlocks": 270,
+        "chineseChars": 34934,
+        "englishWords": 26
+      },
+      "routeCount": 5,
+      "duration": "约 35–80 分钟",
+      "range": {
+        "chineseChars": [
+          8837,
+          11264
+        ],
+        "minutes": [
+          33.4,
+          76.3
+        ]
+      },
+      "middle80": {
+        "chineseChars": [
+          8837,
+          11264
+        ],
+        "minutes": [
+          33.4,
+          76.3
+        ]
+      },
+      "routes": [
+        {
+          "route": "survival",
+          "endingId": "223-end",
+          "role": 0,
+          "chineseChars": 9639,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 6138,
+          "narrativeViews": 59,
+          "actions": 64,
+          "decisions": 23,
+          "diceActions": 8,
+          "allocations": 3,
+          "minutes": [
+            33.4,
+            66.3
+          ]
+        },
+        {
+          "route": "magic",
+          "endingId": "255",
+          "role": 0,
+          "chineseChars": 11264,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 7218,
+          "narrativeViews": 74,
+          "actions": 80,
+          "decisions": 29,
+          "diceActions": 13,
+          "allocations": 3,
+          "minutes": [
+            38.7,
+            76.3
+          ]
+        },
+        {
+          "route": "death",
+          "endingId": "77",
+          "role": 0,
+          "chineseChars": 11253,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 7220,
+          "narrativeViews": 74,
+          "actions": 80,
+          "decisions": 28,
+          "diceActions": 14,
+          "allocations": 3,
+          "minutes": [
+            38.7,
+            76.2
+          ]
+        },
+        {
+          "route": "map",
+          "endingId": "223-end",
+          "role": 0,
+          "chineseChars": 10761,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 6897,
+          "narrativeViews": 70,
+          "actions": 76,
+          "decisions": 29,
+          "diceActions": 14,
+          "allocations": 3,
+          "minutes": [
+            37.7,
+            74.6
+          ]
+        },
+        {
+          "route": "combat",
+          "endingId": "223-end",
+          "role": 0,
+          "chineseChars": 8837,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5770,
+          "narrativeViews": 59,
+          "actions": 73,
+          "decisions": 27,
+          "diceActions": 23,
+          "allocations": 3,
+          "minutes": [
+            34.7,
+            70
+          ]
+        }
+      ]
+    },
+    {
+      "storyId": "alone-against-static",
+      "version": "1.2.0",
+      "title": "静躁独行",
+      "manifestSha256": "c594dabeb590afa7a06aacff8468c80cb851a2704559b3b06435ecd2c83e37f3",
+      "corpus": {
+        "uniqueTextBlocks": 372,
+        "chineseChars": 49197,
+        "englishWords": 1
+      },
+      "routeCount": 28,
+      "duration": "约 20–95 分钟",
+      "range": {
+        "chineseChars": [
+          5901,
+          14656
+        ],
+        "minutes": [
+          20.4,
+          90.7
+        ]
+      },
+      "middle80": {
+        "chineseChars": [
+          6777,
+          10206
+        ],
+        "minutes": [
+          22.8,
+          66.3
+        ]
+      },
+      "routes": [
+        {
+          "route": "1:134",
+          "endingId": "134",
+          "role": 1,
+          "chineseChars": 10206,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 76,
+          "actions": 79,
+          "decisions": 40,
+          "diceActions": 18,
+          "allocations": 0,
+          "minutes": [
+            32.8,
+            63
+          ]
+        },
+        {
+          "route": "1:150",
+          "endingId": "150",
+          "role": 1,
+          "chineseChars": 6358,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 44,
+          "actions": 45,
+          "decisions": 25,
+          "diceActions": 8,
+          "allocations": 0,
+          "minutes": [
+            20.6,
+            39.9
+          ]
+        },
+        {
+          "route": "1:171",
+          "endingId": "171",
+          "role": 1,
+          "chineseChars": 6795,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 48,
+          "actions": 53,
+          "decisions": 27,
+          "diceActions": 14,
+          "allocations": 0,
+          "minutes": [
+            22.8,
+            44.4
+          ]
+        },
+        {
+          "route": "0:278",
+          "endingId": "278",
+          "role": 0,
+          "chineseChars": 7843,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 59,
+          "actions": 65,
+          "decisions": 34,
+          "diceActions": 14,
+          "allocations": 0,
+          "minutes": [
+            26.3,
+            51
+          ]
+        },
+        {
+          "route": "0:284",
+          "endingId": "284",
+          "role": 0,
+          "chineseChars": 7866,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 57,
+          "actions": 59,
+          "decisions": 30,
+          "diceActions": 13,
+          "allocations": 0,
+          "minutes": [
+            25.4,
+            49.1
+          ]
+        },
+        {
+          "route": "1:316",
+          "endingId": "316",
+          "role": 1,
+          "chineseChars": 10203,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 83,
+          "actions": 89,
+          "decisions": 48,
+          "diceActions": 18,
+          "allocations": 0,
+          "minutes": [
+            34.2,
+            66.3
+          ]
+        },
+        {
+          "route": "0:318",
+          "endingId": "318",
+          "role": 0,
+          "chineseChars": 8103,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 61,
+          "actions": 67,
+          "decisions": 37,
+          "diceActions": 17,
+          "allocations": 0,
+          "minutes": [
+            27.6,
+            53.9
+          ]
+        },
+        {
+          "route": "1:324",
+          "endingId": "324",
+          "role": 1,
+          "chineseChars": 8089,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 62,
+          "actions": 66,
+          "decisions": 27,
+          "diceActions": 23,
+          "allocations": 0,
+          "minutes": [
+            27,
+            52.3
+          ]
+        },
+        {
+          "route": "0:334",
+          "endingId": "334",
+          "role": 0,
+          "chineseChars": 14100,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 112,
+          "actions": 122,
+          "decisions": 55,
+          "diceActions": 35,
+          "allocations": 0,
+          "minutes": [
+            46.3,
+            89
+          ]
+        },
+        {
+          "route": "1:354",
+          "endingId": "354",
+          "role": 1,
+          "chineseChars": 9532,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 69,
+          "actions": 73,
+          "decisions": 33,
+          "diceActions": 16,
+          "allocations": 0,
+          "minutes": [
+            30,
+            57.4
+          ]
+        },
+        {
+          "route": "1:356",
+          "endingId": "356",
+          "role": 1,
+          "chineseChars": 8115,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 62,
+          "actions": 66,
+          "decisions": 30,
+          "diceActions": 16,
+          "allocations": 0,
+          "minutes": [
+            26.6,
+            51.3
+          ]
+        },
+        {
+          "route": "1:359",
+          "endingId": "359",
+          "role": 1,
+          "chineseChars": 9059,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 68,
+          "actions": 71,
+          "decisions": 35,
+          "diceActions": 15,
+          "allocations": 0,
+          "minutes": [
+            29.2,
+            56.1
+          ]
+        },
+        {
+          "route": "1:365",
+          "endingId": "365",
+          "role": 1,
+          "chineseChars": 8583,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 62,
+          "actions": 66,
+          "decisions": 35,
+          "diceActions": 14,
+          "allocations": 0,
+          "minutes": [
+            27.9,
+            53.9
+          ]
+        },
+        {
+          "route": "1:367",
+          "endingId": "367",
+          "role": 1,
+          "chineseChars": 7517,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 55,
+          "actions": 58,
+          "decisions": 25,
+          "diceActions": 15,
+          "allocations": 0,
+          "minutes": [
+            24.3,
+            46.8
+          ]
+        },
+        {
+          "route": "0:365",
+          "endingId": "365",
+          "role": 0,
+          "chineseChars": 8841,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 66,
+          "actions": 69,
+          "decisions": 41,
+          "diceActions": 12,
+          "allocations": 0,
+          "minutes": [
+            29.1,
+            56.3
+          ]
+        },
+        {
+          "route": "1:334",
+          "endingId": "334",
+          "role": 1,
+          "chineseChars": 14656,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 112,
+          "actions": 120,
+          "decisions": 56,
+          "diceActions": 34,
+          "allocations": 0,
+          "minutes": [
+            47.3,
+            90.7
+          ]
+        },
+        {
+          "route": "0:354",
+          "endingId": "354",
+          "role": 0,
+          "chineseChars": 11314,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 88,
+          "actions": 96,
+          "decisions": 45,
+          "diceActions": 25,
+          "allocations": 0,
+          "minutes": [
+            37.2,
+            71.6
+          ]
+        },
+        {
+          "route": "0:359",
+          "endingId": "359",
+          "role": 0,
+          "chineseChars": 9522,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 76,
+          "actions": 80,
+          "decisions": 43,
+          "diceActions": 17,
+          "allocations": 0,
+          "minutes": [
+            31.7,
+            61.5
+          ]
+        },
+        {
+          "route": "1:284",
+          "endingId": "284",
+          "role": 1,
+          "chineseChars": 7145,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 53,
+          "actions": 55,
+          "decisions": 28,
+          "diceActions": 13,
+          "allocations": 0,
+          "minutes": [
+            23.6,
+            45.7
+          ]
+        },
+        {
+          "route": "0:356",
+          "endingId": "356",
+          "role": 0,
+          "chineseChars": 8533,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 63,
+          "actions": 68,
+          "decisions": 36,
+          "diceActions": 15,
+          "allocations": 0,
+          "minutes": [
+            28.1,
+            54.5
+          ]
+        },
+        {
+          "route": "0:367",
+          "endingId": "367",
+          "role": 0,
+          "chineseChars": 7837,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 61,
+          "actions": 66,
+          "decisions": 32,
+          "diceActions": 16,
+          "allocations": 0,
+          "minutes": [
+            26.3,
+            51
+          ]
+        },
+        {
+          "route": "1:278",
+          "endingId": "278",
+          "role": 1,
+          "chineseChars": 6618,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 52,
+          "actions": 56,
+          "decisions": 27,
+          "diceActions": 14,
+          "allocations": 0,
+          "minutes": [
+            22.6,
+            44
+          ]
+        },
+        {
+          "route": "0:150",
+          "endingId": "150",
+          "role": 0,
+          "chineseChars": 5901,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 47,
+          "actions": 49,
+          "decisions": 25,
+          "diceActions": 12,
+          "allocations": 0,
+          "minutes": [
+            20.4,
+            39.9
+          ]
+        },
+        {
+          "route": "1:318",
+          "endingId": "318",
+          "role": 1,
+          "chineseChars": 8695,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 64,
+          "actions": 68,
+          "decisions": 30,
+          "diceActions": 17,
+          "allocations": 0,
+          "minutes": [
+            27.9,
+            53.6
+          ]
+        },
+        {
+          "route": "0:316",
+          "endingId": "316",
+          "role": 0,
+          "chineseChars": 10052,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 79,
+          "actions": 83,
+          "decisions": 42,
+          "diceActions": 18,
+          "allocations": 0,
+          "minutes": [
+            32.9,
+            63.4
+          ]
+        },
+        {
+          "route": "0:134",
+          "endingId": "134",
+          "role": 0,
+          "chineseChars": 9566,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 75,
+          "actions": 79,
+          "decisions": 39,
+          "diceActions": 16,
+          "allocations": 0,
+          "minutes": [
+            31.1,
+            60
+          ]
+        },
+        {
+          "route": "0:171",
+          "endingId": "171",
+          "role": 0,
+          "chineseChars": 6777,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 0,
+          "narrativeViews": 52,
+          "actions": 57,
+          "decisions": 31,
+          "diceActions": 16,
+          "allocations": 0,
+          "minutes": [
+            23.7,
+            46.5
+          ]
+        },
+        {
+          "route": "0:324",
+          "endingId": "324",
+          "role": 0,
+          "chineseChars": 9366,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 0,
+          "narrativeViews": 76,
+          "actions": 81,
+          "decisions": 39,
+          "diceActions": 23,
+          "allocations": 0,
+          "minutes": [
+            31.7,
+            61.5
+          ]
+        }
+      ]
+    },
+    {
+      "storyId": "alone-against-tide",
+      "version": "1.0.1",
+      "title": "潮汐独行",
+      "manifestSha256": "79cb040d336a881168706ba6f6276a00b01a7f69ac64edce64e30382545d3dda",
+      "corpus": {
+        "uniqueTextBlocks": 243,
+        "chineseChars": 53915,
+        "englishWords": 80
+      },
+      "routeCount": 150,
+      "duration": "约 15–160 分钟",
+      "range": {
+        "chineseChars": [
+          3789,
+          32119
+        ],
+        "minutes": [
+          13.9,
+          159.6
+        ]
+      },
+      "middle80": {
+        "chineseChars": [
+          4330,
+          29910
+        ],
+        "minutes": [
+          15.7,
+          151.4
+        ]
+      },
+      "routes": [
+        {
+          "route": "1:117",
+          "endingId": "117",
+          "role": 1,
+          "chineseChars": 4330,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3165,
+          "narrativeViews": 22,
+          "actions": 28,
+          "decisions": 13,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            16.2,
+            32.7
+          ]
+        },
+        {
+          "route": "2:225",
+          "endingId": "225",
+          "role": 2,
+          "chineseChars": 7648,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5531,
+          "narrativeViews": 37,
+          "actions": 43,
+          "decisions": 17,
+          "diceActions": 10,
+          "allocations": 1,
+          "minutes": [
+            24.3,
+            47
+          ]
+        },
+        {
+          "route": "0:69",
+          "endingId": "69",
+          "role": 0,
+          "chineseChars": 4176,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 3062,
+          "narrativeViews": 18,
+          "actions": 27,
+          "decisions": 11,
+          "diceActions": 4,
+          "allocations": 3,
+          "minutes": [
+            19.2,
+            40.5
+          ]
+        },
+        {
+          "route": "1:193",
+          "endingId": "193",
+          "role": 1,
+          "chineseChars": 4573,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3396,
+          "narrativeViews": 21,
+          "actions": 26,
+          "decisions": 11,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            16.2,
+            32.4
+          ]
+        },
+        {
+          "route": "2:69",
+          "endingId": "69",
+          "role": 2,
+          "chineseChars": 4771,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 3518,
+          "narrativeViews": 21,
+          "actions": 25,
+          "decisions": 7,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            16.3,
+            32
+          ]
+        },
+        {
+          "route": "0:184",
+          "endingId": "184",
+          "role": 0,
+          "chineseChars": 8347,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 6239,
+          "narrativeViews": 36,
+          "actions": 44,
+          "decisions": 20,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            29.9,
+            59.9
+          ]
+        },
+        {
+          "route": "1:84",
+          "endingId": "84",
+          "role": 1,
+          "chineseChars": 4468,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3235,
+          "narrativeViews": 17,
+          "actions": 20,
+          "decisions": 8,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            15.3,
+            30.3
+          ]
+        },
+        {
+          "route": "2:117",
+          "endingId": "117",
+          "role": 2,
+          "chineseChars": 5128,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3726,
+          "narrativeViews": 25,
+          "actions": 30,
+          "decisions": 13,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            18,
+            35.8
+          ]
+        },
+        {
+          "route": "0:199",
+          "endingId": "199",
+          "role": 0,
+          "chineseChars": 6771,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4879,
+          "narrativeViews": 36,
+          "actions": 44,
+          "decisions": 20,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            26.8,
+            54.7
+          ]
+        },
+        {
+          "route": "1:137",
+          "endingId": "137",
+          "role": 1,
+          "chineseChars": 6538,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4742,
+          "narrativeViews": 28,
+          "actions": 31,
+          "decisions": 14,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            20.7,
+            40.3
+          ]
+        },
+        {
+          "route": "2:227",
+          "endingId": "227",
+          "role": 2,
+          "chineseChars": 7179,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 5302,
+          "narrativeViews": 32,
+          "actions": 38,
+          "decisions": 15,
+          "diceActions": 10,
+          "allocations": 1,
+          "minutes": [
+            23,
+            44.5
+          ]
+        },
+        {
+          "route": "0:180",
+          "endingId": "180",
+          "role": 0,
+          "chineseChars": 5160,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 3764,
+          "narrativeViews": 23,
+          "actions": 31,
+          "decisions": 12,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            21.7,
+            44.9
+          ]
+        },
+        {
+          "route": "1:82",
+          "endingId": "82",
+          "role": 1,
+          "chineseChars": 4114,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3000,
+          "narrativeViews": 18,
+          "actions": 21,
+          "decisions": 10,
+          "diceActions": 4,
+          "allocations": 1,
+          "minutes": [
+            14.8,
+            29.6
+          ]
+        },
+        {
+          "route": "0:225",
+          "endingId": "225",
+          "role": 0,
+          "chineseChars": 7150,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5143,
+          "narrativeViews": 35,
+          "actions": 46,
+          "decisions": 17,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            27.2,
+            55.1
+          ]
+        },
+        {
+          "route": "1:221",
+          "endingId": "221",
+          "role": 1,
+          "chineseChars": 7174,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5384,
+          "narrativeViews": 32,
+          "actions": 40,
+          "decisions": 18,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            23.1,
+            44.9
+          ]
+        },
+        {
+          "route": "1:180",
+          "endingId": "180",
+          "role": 1,
+          "chineseChars": 5820,
+          "mixedEnglishWords": 11,
+          "englishRouteWords": 4286,
+          "narrativeViews": 24,
+          "actions": 30,
+          "decisions": 13,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            19.3,
+            37.8
+          ]
+        },
+        {
+          "route": "2:199",
+          "endingId": "199",
+          "role": 2,
+          "chineseChars": 4001,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 2955,
+          "narrativeViews": 19,
+          "actions": 21,
+          "decisions": 9,
+          "diceActions": 4,
+          "allocations": 1,
+          "minutes": [
+            14.4,
+            28.9
+          ]
+        },
+        {
+          "route": "0:84",
+          "endingId": "84",
+          "role": 0,
+          "chineseChars": 4936,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3586,
+          "narrativeViews": 19,
+          "actions": 24,
+          "decisions": 12,
+          "diceActions": 3,
+          "allocations": 3,
+          "minutes": [
+            20.6,
+            42.8
+          ]
+        },
+        {
+          "route": "0:221",
+          "endingId": "221",
+          "role": 0,
+          "chineseChars": 4261,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3190,
+          "narrativeViews": 20,
+          "actions": 28,
+          "decisions": 12,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            19.8,
+            41.7
+          ]
+        },
+        {
+          "route": "1:236",
+          "endingId": "236",
+          "role": 1,
+          "chineseChars": 8932,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 6407,
+          "narrativeViews": 53,
+          "actions": 69,
+          "decisions": 32,
+          "diceActions": 14,
+          "allocations": 1,
+          "minutes": [
+            30.3,
+            59.2
+          ]
+        },
+        {
+          "route": "2:150",
+          "endingId": "150",
+          "role": 2,
+          "chineseChars": 7546,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 5484,
+          "narrativeViews": 30,
+          "actions": 36,
+          "decisions": 16,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            23.5,
+            45.3
+          ]
+        },
+        {
+          "route": "0:241",
+          "endingId": "241",
+          "role": 0,
+          "chineseChars": 5381,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3941,
+          "narrativeViews": 21,
+          "actions": 29,
+          "decisions": 10,
+          "diceActions": 7,
+          "allocations": 3,
+          "minutes": [
+            21.9,
+            45.1
+          ]
+        },
+        {
+          "route": "1:69",
+          "endingId": "69",
+          "role": 1,
+          "chineseChars": 5857,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 4307,
+          "narrativeViews": 24,
+          "actions": 33,
+          "decisions": 15,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            19.9,
+            39.1
+          ]
+        },
+        {
+          "route": "2:221",
+          "endingId": "221",
+          "role": 2,
+          "chineseChars": 6265,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4582,
+          "narrativeViews": 31,
+          "actions": 39,
+          "decisions": 16,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            21.1,
+            41.4
+          ]
+        },
+        {
+          "route": "1:150",
+          "endingId": "150",
+          "role": 1,
+          "chineseChars": 6092,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 4424,
+          "narrativeViews": 25,
+          "actions": 32,
+          "decisions": 13,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            19.9,
+            38.8
+          ]
+        },
+        {
+          "route": "2:176",
+          "endingId": "176",
+          "role": 2,
+          "chineseChars": 4289,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 3136,
+          "narrativeViews": 20,
+          "actions": 22,
+          "decisions": 7,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            15.1,
+            29.9
+          ]
+        },
+        {
+          "route": "1:113",
+          "endingId": "113",
+          "role": 1,
+          "chineseChars": 3789,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 2765,
+          "narrativeViews": 16,
+          "actions": 22,
+          "decisions": 8,
+          "diceActions": 4,
+          "allocations": 1,
+          "minutes": [
+            13.9,
+            27.9
+          ]
+        },
+        {
+          "route": "0:150",
+          "endingId": "150",
+          "role": 0,
+          "chineseChars": 8273,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5930,
+          "narrativeViews": 34,
+          "actions": 41,
+          "decisions": 20,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            29.3,
+            58.6
+          ]
+        },
+        {
+          "route": "1:241",
+          "endingId": "241",
+          "role": 1,
+          "chineseChars": 5024,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3637,
+          "narrativeViews": 23,
+          "actions": 25,
+          "decisions": 10,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            17.1,
+            33.8
+          ]
+        },
+        {
+          "route": "0:82",
+          "endingId": "82",
+          "role": 0,
+          "chineseChars": 4058,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 2988,
+          "narrativeViews": 17,
+          "actions": 24,
+          "decisions": 11,
+          "diceActions": 5,
+          "allocations": 3,
+          "minutes": [
+            19,
+            40.1
+          ]
+        },
+        {
+          "route": "2:137",
+          "endingId": "137",
+          "role": 2,
+          "chineseChars": 5136,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3762,
+          "narrativeViews": 26,
+          "actions": 29,
+          "decisions": 14,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            17.9,
+            35.5
+          ]
+        },
+        {
+          "route": "2:197",
+          "endingId": "197",
+          "role": 2,
+          "chineseChars": 4330,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3179,
+          "narrativeViews": 19,
+          "actions": 21,
+          "decisions": 8,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            15.1,
+            29.9
+          ]
+        },
+        {
+          "route": "0:209",
+          "endingId": "209",
+          "role": 0,
+          "chineseChars": 7936,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5823,
+          "narrativeViews": 43,
+          "actions": 59,
+          "decisions": 27,
+          "diceActions": 13,
+          "allocations": 3,
+          "minutes": [
+            31.1,
+            63.1
+          ]
+        },
+        {
+          "route": "0:242",
+          "endingId": "242",
+          "role": 0,
+          "chineseChars": 7700,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5526,
+          "narrativeViews": 45,
+          "actions": 65,
+          "decisions": 29,
+          "diceActions": 15,
+          "allocations": 3,
+          "minutes": [
+            31.3,
+            64
+          ]
+        },
+        {
+          "route": "2:84",
+          "endingId": "84",
+          "role": 2,
+          "chineseChars": 6956,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4979,
+          "narrativeViews": 31,
+          "actions": 39,
+          "decisions": 19,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            22.8,
+            44.5
+          ]
+        },
+        {
+          "route": "2:241",
+          "endingId": "241",
+          "role": 2,
+          "chineseChars": 4370,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3202,
+          "narrativeViews": 18,
+          "actions": 20,
+          "decisions": 8,
+          "diceActions": 4,
+          "allocations": 1,
+          "minutes": [
+            15,
+            29.7
+          ]
+        },
+        {
+          "route": "2:242",
+          "endingId": "242",
+          "role": 2,
+          "chineseChars": 7800,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5547,
+          "narrativeViews": 50,
+          "actions": 65,
+          "decisions": 32,
+          "diceActions": 15,
+          "allocations": 1,
+          "minutes": [
+            28,
+            55.4
+          ]
+        },
+        {
+          "route": "0:193",
+          "endingId": "193",
+          "role": 0,
+          "chineseChars": 4421,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3289,
+          "narrativeViews": 20,
+          "actions": 25,
+          "decisions": 8,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            19.4,
+            40.7
+          ]
+        },
+        {
+          "route": "1:176",
+          "endingId": "176",
+          "role": 1,
+          "chineseChars": 7103,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 5128,
+          "narrativeViews": 44,
+          "actions": 60,
+          "decisions": 29,
+          "diceActions": 13,
+          "allocations": 1,
+          "minutes": [
+            25.8,
+            51.2
+          ]
+        },
+        {
+          "route": "0:236",
+          "endingId": "236",
+          "role": 0,
+          "chineseChars": 4742,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 3466,
+          "narrativeViews": 20,
+          "actions": 25,
+          "decisions": 9,
+          "diceActions": 4,
+          "allocations": 3,
+          "minutes": [
+            20,
+            41.5
+          ]
+        },
+        {
+          "route": "2:113",
+          "endingId": "113",
+          "role": 2,
+          "chineseChars": 4304,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3144,
+          "narrativeViews": 18,
+          "actions": 25,
+          "decisions": 10,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            15.4,
+            30.8
+          ]
+        },
+        {
+          "route": "2:180",
+          "endingId": "180",
+          "role": 2,
+          "chineseChars": 4067,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 2997,
+          "narrativeViews": 18,
+          "actions": 24,
+          "decisions": 9,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            14.8,
+            29.7
+          ]
+        },
+        {
+          "route": "1:227",
+          "endingId": "227",
+          "role": 1,
+          "chineseChars": 6425,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 4723,
+          "narrativeViews": 30,
+          "actions": 33,
+          "decisions": 14,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            20.8,
+            40.4
+          ]
+        },
+        {
+          "route": "1:197",
+          "endingId": "197",
+          "role": 1,
+          "chineseChars": 7552,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5506,
+          "narrativeViews": 36,
+          "actions": 41,
+          "decisions": 19,
+          "diceActions": 11,
+          "allocations": 1,
+          "minutes": [
+            24.4,
+            47.5
+          ]
+        },
+        {
+          "route": "0:113",
+          "endingId": "113",
+          "role": 0,
+          "chineseChars": 4120,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3011,
+          "narrativeViews": 18,
+          "actions": 28,
+          "decisions": 11,
+          "diceActions": 5,
+          "allocations": 3,
+          "minutes": [
+            19.2,
+            40.6
+          ]
+        },
+        {
+          "route": "1:206",
+          "endingId": "206",
+          "role": 1,
+          "chineseChars": 7326,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5381,
+          "narrativeViews": 39,
+          "actions": 45,
+          "decisions": 17,
+          "diceActions": 12,
+          "allocations": 1,
+          "minutes": [
+            24,
+            46.6
+          ]
+        },
+        {
+          "route": "1:184",
+          "endingId": "184",
+          "role": 1,
+          "chineseChars": 6165,
+          "mixedEnglishWords": 6,
+          "englishRouteWords": 4522,
+          "narrativeViews": 27,
+          "actions": 34,
+          "decisions": 9,
+          "diceActions": 14,
+          "allocations": 1,
+          "minutes": [
+            20.5,
+            40
+          ]
+        },
+        {
+          "route": "2:231",
+          "endingId": "231",
+          "role": 2,
+          "chineseChars": 4359,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3252,
+          "narrativeViews": 20,
+          "actions": 22,
+          "decisions": 7,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            15,
+            29.8
+          ]
+        },
+        {
+          "route": "1:198",
+          "endingId": "198",
+          "role": 1,
+          "chineseChars": 8767,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 6354,
+          "narrativeViews": 54,
+          "actions": 63,
+          "decisions": 26,
+          "diceActions": 19,
+          "allocations": 1,
+          "minutes": [
+            29.6,
+            57.7
+          ]
+        },
+        {
+          "route": "1:225",
+          "endingId": "225",
+          "role": 1,
+          "chineseChars": 5374,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3948,
+          "narrativeViews": 22,
+          "actions": 27,
+          "decisions": 11,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            17.7,
+            34.8
+          ]
+        },
+        {
+          "route": "1:199",
+          "endingId": "199",
+          "role": 1,
+          "chineseChars": 4960,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3600,
+          "narrativeViews": 23,
+          "actions": 27,
+          "decisions": 13,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            17.2,
+            34.1
+          ]
+        },
+        {
+          "route": "2:209",
+          "endingId": "209",
+          "role": 2,
+          "chineseChars": 8683,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 6288,
+          "narrativeViews": 51,
+          "actions": 65,
+          "decisions": 29,
+          "diceActions": 16,
+          "allocations": 1,
+          "minutes": [
+            29.5,
+            57.7
+          ]
+        },
+        {
+          "route": "0:197",
+          "endingId": "197",
+          "role": 0,
+          "chineseChars": 7158,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 5224,
+          "narrativeViews": 33,
+          "actions": 45,
+          "decisions": 18,
+          "diceActions": 17,
+          "allocations": 3,
+          "minutes": [
+            28.4,
+            57.8
+          ]
+        },
+        {
+          "route": "1:242",
+          "endingId": "242",
+          "role": 1,
+          "chineseChars": 4596,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3324,
+          "narrativeViews": 20,
+          "actions": 21,
+          "decisions": 8,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            15.6,
+            30.8
+          ]
+        },
+        {
+          "route": "0:176",
+          "endingId": "176",
+          "role": 0,
+          "chineseChars": 7959,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 5607,
+          "narrativeViews": 48,
+          "actions": 62,
+          "decisions": 25,
+          "diceActions": 14,
+          "allocations": 3,
+          "minutes": [
+            31.1,
+            63.1
+          ]
+        },
+        {
+          "route": "2:236",
+          "endingId": "236",
+          "role": 2,
+          "chineseChars": 11022,
+          "mixedEnglishWords": 11,
+          "englishRouteWords": 7878,
+          "narrativeViews": 56,
+          "actions": 66,
+          "decisions": 31,
+          "diceActions": 14,
+          "allocations": 1,
+          "minutes": [
+            34.3,
+            65.7
+          ]
+        },
+        {
+          "route": "0:137",
+          "endingId": "137",
+          "role": 0,
+          "chineseChars": 7291,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5254,
+          "narrativeViews": 36,
+          "actions": 46,
+          "decisions": 21,
+          "diceActions": 8,
+          "allocations": 3,
+          "minutes": [
+            27.9,
+            56.6
+          ]
+        },
+        {
+          "route": "1:231",
+          "endingId": "231",
+          "role": 1,
+          "chineseChars": 4429,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3303,
+          "narrativeViews": 20,
+          "actions": 24,
+          "decisions": 8,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            15.5,
+            30.8
+          ]
+        },
+        {
+          "route": "2:82",
+          "endingId": "82",
+          "role": 2,
+          "chineseChars": 4094,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 2993,
+          "narrativeViews": 17,
+          "actions": 21,
+          "decisions": 10,
+          "diceActions": 4,
+          "allocations": 1,
+          "minutes": [
+            14.7,
+            29.5
+          ]
+        },
+        {
+          "route": "0:140-death",
+          "endingId": "140-death",
+          "role": 0,
+          "chineseChars": 4352,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3181,
+          "narrativeViews": 19,
+          "actions": 26,
+          "decisions": 10,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            19.6,
+            41.2
+          ]
+        },
+        {
+          "route": "1:140-death",
+          "endingId": "140-death",
+          "role": 1,
+          "chineseChars": 5485,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4024,
+          "narrativeViews": 24,
+          "actions": 30,
+          "decisions": 14,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            18.9,
+            37.3
+          ]
+        },
+        {
+          "route": "2:184",
+          "endingId": "184",
+          "role": 2,
+          "chineseChars": 10728,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 7499,
+          "narrativeViews": 55,
+          "actions": 64,
+          "decisions": 27,
+          "diceActions": 17,
+          "allocations": 1,
+          "minutes": [
+            33.4,
+            64.1
+          ]
+        },
+        {
+          "route": "1:232",
+          "endingId": "232",
+          "role": 1,
+          "chineseChars": 8920,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 6402,
+          "narrativeViews": 55,
+          "actions": 70,
+          "decisions": 32,
+          "diceActions": 16,
+          "allocations": 1,
+          "minutes": [
+            30.5,
+            59.8
+          ]
+        },
+        {
+          "route": "2:193",
+          "endingId": "193",
+          "role": 2,
+          "chineseChars": 3940,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 2939,
+          "narrativeViews": 18,
+          "actions": 22,
+          "decisions": 8,
+          "diceActions": 5,
+          "allocations": 1,
+          "minutes": [
+            14.3,
+            28.7
+          ]
+        },
+        {
+          "route": "2:152",
+          "endingId": "152",
+          "role": 2,
+          "chineseChars": 5099,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 3733,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 15,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            18.1,
+            36.1
+          ]
+        },
+        {
+          "route": "1:209",
+          "endingId": "209",
+          "role": 1,
+          "chineseChars": 4836,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3585,
+          "narrativeViews": 23,
+          "actions": 27,
+          "decisions": 10,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            16.8,
+            33.3
+          ]
+        },
+        {
+          "route": "2:198",
+          "endingId": "198",
+          "role": 2,
+          "chineseChars": 5942,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4344,
+          "narrativeViews": 32,
+          "actions": 37,
+          "decisions": 14,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            20.2,
+            39.6
+          ]
+        },
+        {
+          "route": "0:232",
+          "endingId": "232",
+          "role": 0,
+          "chineseChars": 4355,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3177,
+          "narrativeViews": 22,
+          "actions": 29,
+          "decisions": 13,
+          "diceActions": 7,
+          "allocations": 3,
+          "minutes": [
+            20.2,
+            42.7
+          ]
+        },
+        {
+          "route": "2:232",
+          "endingId": "232",
+          "role": 2,
+          "chineseChars": 7489,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5437,
+          "narrativeViews": 40,
+          "actions": 47,
+          "decisions": 19,
+          "diceActions": 12,
+          "allocations": 1,
+          "minutes": [
+            24.6,
+            48
+          ]
+        },
+        {
+          "route": "2:140-death",
+          "endingId": "140-death",
+          "role": 2,
+          "chineseChars": 5019,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3698,
+          "narrativeViews": 23,
+          "actions": 29,
+          "decisions": 15,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            17.8,
+            35.4
+          ]
+        },
+        {
+          "route": "0:117",
+          "endingId": "117",
+          "role": 0,
+          "chineseChars": 4562,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3347,
+          "narrativeViews": 21,
+          "actions": 27,
+          "decisions": 10,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            20.1,
+            41.9
+          ]
+        },
+        {
+          "route": "0:227",
+          "endingId": "227",
+          "role": 0,
+          "chineseChars": 8520,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 6154,
+          "narrativeViews": 33,
+          "actions": 40,
+          "decisions": 20,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            29.8,
+            59.4
+          ]
+        },
+        {
+          "route": "2:116",
+          "endingId": "116",
+          "role": 2,
+          "chineseChars": 4981,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 3638,
+          "narrativeViews": 21,
+          "actions": 23,
+          "decisions": 9,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            16.7,
+            32.9
+          ]
+        },
+        {
+          "route": "0:198",
+          "endingId": "198",
+          "role": 0,
+          "chineseChars": 6576,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 4883,
+          "narrativeViews": 28,
+          "actions": 35,
+          "decisions": 15,
+          "diceActions": 11,
+          "allocations": 3,
+          "minutes": [
+            25.7,
+            52.4
+          ]
+        },
+        {
+          "route": "0:208",
+          "endingId": "208",
+          "role": 0,
+          "chineseChars": 5169,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3771,
+          "narrativeViews": 24,
+          "actions": 33,
+          "decisions": 13,
+          "diceActions": 10,
+          "allocations": 3,
+          "minutes": [
+            22.4,
+            46.6
+          ]
+        },
+        {
+          "route": "1:152",
+          "endingId": "152",
+          "role": 1,
+          "chineseChars": 5890,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4298,
+          "narrativeViews": 28,
+          "actions": 34,
+          "decisions": 14,
+          "diceActions": 11,
+          "allocations": 1,
+          "minutes": [
+            20.2,
+            39.8
+          ]
+        },
+        {
+          "route": "0:231",
+          "endingId": "231",
+          "role": 0,
+          "chineseChars": 6746,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4911,
+          "narrativeViews": 33,
+          "actions": 43,
+          "decisions": 17,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            26.3,
+            53.5
+          ]
+        },
+        {
+          "route": "1:208",
+          "endingId": "208",
+          "role": 1,
+          "chineseChars": 4418,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3205,
+          "narrativeViews": 20,
+          "actions": 26,
+          "decisions": 10,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            15.9,
+            31.8
+          ]
+        },
+        {
+          "route": "1:234",
+          "endingId": "234",
+          "role": 1,
+          "chineseChars": 8963,
+          "mixedEnglishWords": 15,
+          "englishRouteWords": 6489,
+          "narrativeViews": 38,
+          "actions": 44,
+          "decisions": 15,
+          "diceActions": 12,
+          "allocations": 1,
+          "minutes": [
+            27,
+            51.4
+          ]
+        },
+        {
+          "route": "0:152",
+          "endingId": "152",
+          "role": 0,
+          "chineseChars": 7678,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5598,
+          "narrativeViews": 37,
+          "actions": 49,
+          "decisions": 21,
+          "diceActions": 12,
+          "allocations": 3,
+          "minutes": [
+            29.3,
+            59.3
+          ]
+        },
+        {
+          "route": "2:182",
+          "endingId": "182",
+          "role": 2,
+          "chineseChars": 4242,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3216,
+          "narrativeViews": 22,
+          "actions": 26,
+          "decisions": 11,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            15.7,
+            31.6
+          ]
+        },
+        {
+          "route": "2:208",
+          "endingId": "208",
+          "role": 2,
+          "chineseChars": 7176,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5137,
+          "narrativeViews": 33,
+          "actions": 42,
+          "decisions": 17,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            23.2,
+            45
+          ]
+        },
+        {
+          "route": "2:206",
+          "endingId": "206",
+          "role": 2,
+          "chineseChars": 7009,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5137,
+          "narrativeViews": 34,
+          "actions": 40,
+          "decisions": 16,
+          "diceActions": 10,
+          "allocations": 1,
+          "minutes": [
+            22.8,
+            44.3
+          ]
+        },
+        {
+          "route": "0:206",
+          "endingId": "206",
+          "role": 0,
+          "chineseChars": 6935,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5103,
+          "narrativeViews": 34,
+          "actions": 44,
+          "decisions": 18,
+          "diceActions": 10,
+          "allocations": 3,
+          "minutes": [
+            27,
+            54.9
+          ]
+        },
+        {
+          "route": "1:190",
+          "endingId": "190",
+          "role": 1,
+          "chineseChars": 7795,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 5744,
+          "narrativeViews": 47,
+          "actions": 61,
+          "decisions": 27,
+          "diceActions": 15,
+          "allocations": 1,
+          "minutes": [
+            27.2,
+            53.5
+          ]
+        },
+        {
+          "route": "0:141-death",
+          "endingId": "141-death",
+          "role": 0,
+          "chineseChars": 4512,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 3365,
+          "narrativeViews": 21,
+          "actions": 31,
+          "decisions": 15,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            20.8,
+            43.7
+          ]
+        },
+        {
+          "route": "1:182",
+          "endingId": "182",
+          "role": 1,
+          "chineseChars": 4659,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3515,
+          "narrativeViews": 22,
+          "actions": 27,
+          "decisions": 12,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            17,
+            34
+          ]
+        },
+        {
+          "route": "1:233",
+          "endingId": "233",
+          "role": 1,
+          "chineseChars": 4593,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3470,
+          "narrativeViews": 23,
+          "actions": 27,
+          "decisions": 11,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            16.6,
+            33.1
+          ]
+        },
+        {
+          "route": "1:116",
+          "endingId": "116",
+          "role": 1,
+          "chineseChars": 4605,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 3350,
+          "narrativeViews": 20,
+          "actions": 21,
+          "decisions": 7,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            15.6,
+            30.9
+          ]
+        },
+        {
+          "route": "2:234",
+          "endingId": "234",
+          "role": 2,
+          "chineseChars": 12033,
+          "mixedEnglishWords": 15,
+          "englishRouteWords": 8675,
+          "narrativeViews": 52,
+          "actions": 59,
+          "decisions": 27,
+          "diceActions": 15,
+          "allocations": 1,
+          "minutes": [
+            35.7,
+            67.6
+          ]
+        },
+        {
+          "route": "2:141-death",
+          "endingId": "141-death",
+          "role": 2,
+          "chineseChars": 4560,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3336,
+          "narrativeViews": 22,
+          "actions": 28,
+          "decisions": 14,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            16.8,
+            33.8
+          ]
+        },
+        {
+          "route": "0:182",
+          "endingId": "182",
+          "role": 0,
+          "chineseChars": 3997,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3040,
+          "narrativeViews": 20,
+          "actions": 27,
+          "decisions": 11,
+          "diceActions": 6,
+          "allocations": 3,
+          "minutes": [
+            19.1,
+            40.4
+          ]
+        },
+        {
+          "route": "0:116",
+          "endingId": "116",
+          "role": 0,
+          "chineseChars": 4704,
+          "mixedEnglishWords": 5,
+          "englishRouteWords": 3421,
+          "narrativeViews": 20,
+          "actions": 24,
+          "decisions": 9,
+          "diceActions": 5,
+          "allocations": 3,
+          "minutes": [
+            20,
+            41.6
+          ]
+        },
+        {
+          "route": "2:233",
+          "endingId": "233",
+          "role": 2,
+          "chineseChars": 4406,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3308,
+          "narrativeViews": 22,
+          "actions": 27,
+          "decisions": 11,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            16.2,
+            32.5
+          ]
+        },
+        {
+          "route": "1:141-death",
+          "endingId": "141-death",
+          "role": 1,
+          "chineseChars": 4314,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 3192,
+          "narrativeViews": 21,
+          "actions": 26,
+          "decisions": 13,
+          "diceActions": 6,
+          "allocations": 1,
+          "minutes": [
+            16,
+            32.2
+          ]
+        },
+        {
+          "route": "0:190",
+          "endingId": "190",
+          "role": 0,
+          "chineseChars": 5084,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 3863,
+          "narrativeViews": 24,
+          "actions": 32,
+          "decisions": 13,
+          "diceActions": 8,
+          "allocations": 3,
+          "minutes": [
+            21.9,
+            45.6
+          ]
+        },
+        {
+          "route": "2:190",
+          "endingId": "190",
+          "role": 2,
+          "chineseChars": 4525,
+          "mixedEnglishWords": 1,
+          "englishRouteWords": 3422,
+          "narrativeViews": 20,
+          "actions": 24,
+          "decisions": 9,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            16,
+            31.7
+          ]
+        },
+        {
+          "route": "0:234",
+          "endingId": "234",
+          "role": 0,
+          "chineseChars": 9755,
+          "mixedEnglishWords": 16,
+          "englishRouteWords": 7056,
+          "narrativeViews": 40,
+          "actions": 50,
+          "decisions": 24,
+          "diceActions": 11,
+          "allocations": 3,
+          "minutes": [
+            33.8,
+            67.1
+          ]
+        },
+        {
+          "route": "0:233",
+          "endingId": "233",
+          "role": 0,
+          "chineseChars": 6875,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 5057,
+          "narrativeViews": 39,
+          "actions": 52,
+          "decisions": 22,
+          "diceActions": 13,
+          "allocations": 3,
+          "minutes": [
+            28.1,
+            57.4
+          ]
+        },
+        {
+          "route": "0:239",
+          "endingId": "239",
+          "role": 0,
+          "chineseChars": 8835,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 6443,
+          "narrativeViews": 36,
+          "actions": 43,
+          "decisions": 20,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            30.9,
+            61.6
+          ]
+        },
+        {
+          "route": "0:243",
+          "endingId": "243",
+          "role": 0,
+          "chineseChars": 5693,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4121,
+          "narrativeViews": 25,
+          "actions": 34,
+          "decisions": 13,
+          "diceActions": 10,
+          "allocations": 3,
+          "minutes": [
+            23.5,
+            48.4
+          ]
+        },
+        {
+          "route": "0:51-death",
+          "endingId": "51-death",
+          "role": 0,
+          "chineseChars": 27233,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 20695,
+          "narrativeViews": 123,
+          "actions": 137,
+          "decisions": 61,
+          "diceActions": 21,
+          "allocations": 3,
+          "minutes": [
+            77.9,
+            146.3
+          ]
+        },
+        {
+          "route": "0:68-death",
+          "endingId": "68-death",
+          "role": 0,
+          "chineseChars": 27978,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 21165,
+          "narrativeViews": 125,
+          "actions": 140,
+          "decisions": 63,
+          "diceActions": 23,
+          "allocations": 3,
+          "minutes": [
+            80,
+            150.3
+          ]
+        },
+        {
+          "route": "0:119-death",
+          "endingId": "119-death",
+          "role": 0,
+          "chineseChars": 27349,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 20800,
+          "narrativeViews": 123,
+          "actions": 137,
+          "decisions": 61,
+          "diceActions": 21,
+          "allocations": 3,
+          "minutes": [
+            78.1,
+            146.7
+          ]
+        },
+        {
+          "route": "0:121-death",
+          "endingId": "121-death",
+          "role": 0,
+          "chineseChars": 29442,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22301,
+          "narrativeViews": 132,
+          "actions": 148,
+          "decisions": 65,
+          "diceActions": 27,
+          "allocations": 3,
+          "minutes": [
+            84,
+            157.6
+          ]
+        },
+        {
+          "route": "0:132-death",
+          "endingId": "132-death",
+          "role": 0,
+          "chineseChars": 28798,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 21782,
+          "narrativeViews": 128,
+          "actions": 143,
+          "decisions": 65,
+          "diceActions": 24,
+          "allocations": 3,
+          "minutes": [
+            82.1,
+            154.2
+          ]
+        },
+        {
+          "route": "0:169-death",
+          "endingId": "169-death",
+          "role": 0,
+          "chineseChars": 27925,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 21145,
+          "narrativeViews": 125,
+          "actions": 139,
+          "decisions": 62,
+          "diceActions": 22,
+          "allocations": 3,
+          "minutes": [
+            79.6,
+            149.4
+          ]
+        },
+        {
+          "route": "0:142-death",
+          "endingId": "142-death",
+          "role": 0,
+          "chineseChars": 26596,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 20172,
+          "narrativeViews": 120,
+          "actions": 135,
+          "decisions": 60,
+          "diceActions": 20,
+          "allocations": 3,
+          "minutes": [
+            76.3,
+            143.5
+          ]
+        },
+        {
+          "route": "0:145-death",
+          "endingId": "145-death",
+          "role": 0,
+          "chineseChars": 28235,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 21362,
+          "narrativeViews": 127,
+          "actions": 143,
+          "decisions": 64,
+          "diceActions": 25,
+          "allocations": 3,
+          "minutes": [
+            81,
+            152.3
+          ]
+        },
+        {
+          "route": "0:125-death",
+          "endingId": "125-death",
+          "role": 0,
+          "chineseChars": 28131,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 21274,
+          "narrativeViews": 126,
+          "actions": 142,
+          "decisions": 64,
+          "diceActions": 24,
+          "allocations": 3,
+          "minutes": [
+            80.6,
+            151.6
+          ]
+        },
+        {
+          "route": "0:192",
+          "endingId": "192",
+          "role": 0,
+          "chineseChars": 6258,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4604,
+          "narrativeViews": 26,
+          "actions": 34,
+          "decisions": 14,
+          "diceActions": 8,
+          "allocations": 3,
+          "minutes": [
+            24.5,
+            50
+          ]
+        },
+        {
+          "route": "0:217",
+          "endingId": "217",
+          "role": 0,
+          "chineseChars": 6410,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4710,
+          "narrativeViews": 26,
+          "actions": 34,
+          "decisions": 14,
+          "diceActions": 8,
+          "allocations": 3,
+          "minutes": [
+            24.8,
+            50.5
+          ]
+        },
+        {
+          "route": "0:213",
+          "endingId": "213",
+          "role": 0,
+          "chineseChars": 6041,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4505,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 11,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            23.7,
+            48.4
+          ]
+        },
+        {
+          "route": "0:226",
+          "endingId": "226",
+          "role": 0,
+          "chineseChars": 5951,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4442,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 11,
+          "diceActions": 9,
+          "allocations": 3,
+          "minutes": [
+            23.5,
+            48.1
+          ]
+        },
+        {
+          "route": "0:220",
+          "endingId": "220",
+          "role": 0,
+          "chineseChars": 6892,
+          "mixedEnglishWords": 11,
+          "englishRouteWords": 5021,
+          "narrativeViews": 27,
+          "actions": 34,
+          "decisions": 15,
+          "diceActions": 8,
+          "allocations": 3,
+          "minutes": [
+            25.9,
+            52.5
+          ]
+        },
+        {
+          "route": "0:95",
+          "endingId": "95",
+          "role": 0,
+          "chineseChars": 5675,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4171,
+          "narrativeViews": 23,
+          "actions": 31,
+          "decisions": 12,
+          "diceActions": 7,
+          "allocations": 3,
+          "minutes": [
+            22.8,
+            46.9
+          ]
+        },
+        {
+          "route": "1:239",
+          "endingId": "239",
+          "role": 1,
+          "chineseChars": 8835,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 6443,
+          "narrativeViews": 36,
+          "actions": 40,
+          "decisions": 19,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            26.7,
+            51.2
+          ]
+        },
+        {
+          "route": "1:243",
+          "endingId": "243",
+          "role": 1,
+          "chineseChars": 5693,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4121,
+          "narrativeViews": 25,
+          "actions": 31,
+          "decisions": 12,
+          "diceActions": 10,
+          "allocations": 1,
+          "minutes": [
+            19.3,
+            38
+          ]
+        },
+        {
+          "route": "1:51-death",
+          "endingId": "51-death",
+          "role": 1,
+          "chineseChars": 29910,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22732,
+          "narrativeViews": 135,
+          "actions": 147,
+          "decisions": 66,
+          "diceActions": 23,
+          "allocations": 1,
+          "minutes": [
+            80.6,
+            148.3
+          ]
+        },
+        {
+          "route": "1:68-death",
+          "endingId": "68-death",
+          "role": 1,
+          "chineseChars": 30655,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23202,
+          "narrativeViews": 137,
+          "actions": 150,
+          "decisions": 68,
+          "diceActions": 25,
+          "allocations": 1,
+          "minutes": [
+            82.7,
+            152.3
+          ]
+        },
+        {
+          "route": "1:119-death",
+          "endingId": "119-death",
+          "role": 1,
+          "chineseChars": 30026,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22837,
+          "narrativeViews": 135,
+          "actions": 147,
+          "decisions": 66,
+          "diceActions": 23,
+          "allocations": 1,
+          "minutes": [
+            80.8,
+            148.7
+          ]
+        },
+        {
+          "route": "1:121-death",
+          "endingId": "121-death",
+          "role": 1,
+          "chineseChars": 32119,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 24338,
+          "narrativeViews": 144,
+          "actions": 158,
+          "decisions": 70,
+          "diceActions": 29,
+          "allocations": 1,
+          "minutes": [
+            86.7,
+            159.6
+          ]
+        },
+        {
+          "route": "1:132-death",
+          "endingId": "132-death",
+          "role": 1,
+          "chineseChars": 31475,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23819,
+          "narrativeViews": 140,
+          "actions": 153,
+          "decisions": 70,
+          "diceActions": 26,
+          "allocations": 1,
+          "minutes": [
+            84.8,
+            156.2
+          ]
+        },
+        {
+          "route": "1:169-death",
+          "endingId": "169-death",
+          "role": 1,
+          "chineseChars": 30602,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23182,
+          "narrativeViews": 137,
+          "actions": 149,
+          "decisions": 67,
+          "diceActions": 24,
+          "allocations": 1,
+          "minutes": [
+            82.3,
+            151.4
+          ]
+        },
+        {
+          "route": "1:142-death",
+          "endingId": "142-death",
+          "role": 1,
+          "chineseChars": 29273,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22209,
+          "narrativeViews": 132,
+          "actions": 145,
+          "decisions": 65,
+          "diceActions": 22,
+          "allocations": 1,
+          "minutes": [
+            78.9,
+            145.4
+          ]
+        },
+        {
+          "route": "1:145-death",
+          "endingId": "145-death",
+          "role": 1,
+          "chineseChars": 30912,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23399,
+          "narrativeViews": 139,
+          "actions": 153,
+          "decisions": 69,
+          "diceActions": 27,
+          "allocations": 1,
+          "minutes": [
+            83.7,
+            154.3
+          ]
+        },
+        {
+          "route": "1:125-death",
+          "endingId": "125-death",
+          "role": 1,
+          "chineseChars": 30808,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23311,
+          "narrativeViews": 138,
+          "actions": 152,
+          "decisions": 69,
+          "diceActions": 26,
+          "allocations": 1,
+          "minutes": [
+            83.3,
+            153.6
+          ]
+        },
+        {
+          "route": "1:192",
+          "endingId": "192",
+          "role": 1,
+          "chineseChars": 6258,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4604,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 13,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            20.3,
+            39.6
+          ]
+        },
+        {
+          "route": "1:217",
+          "endingId": "217",
+          "role": 1,
+          "chineseChars": 6410,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4710,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 13,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            20.6,
+            40.1
+          ]
+        },
+        {
+          "route": "1:213",
+          "endingId": "213",
+          "role": 1,
+          "chineseChars": 6041,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4505,
+          "narrativeViews": 26,
+          "actions": 28,
+          "decisions": 10,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            19.5,
+            38
+          ]
+        },
+        {
+          "route": "1:226",
+          "endingId": "226",
+          "role": 1,
+          "chineseChars": 5951,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4442,
+          "narrativeViews": 26,
+          "actions": 28,
+          "decisions": 10,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            19.3,
+            37.7
+          ]
+        },
+        {
+          "route": "1:220",
+          "endingId": "220",
+          "role": 1,
+          "chineseChars": 6892,
+          "mixedEnglishWords": 11,
+          "englishRouteWords": 5021,
+          "narrativeViews": 27,
+          "actions": 31,
+          "decisions": 14,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            21.8,
+            42.1
+          ]
+        },
+        {
+          "route": "1:95",
+          "endingId": "95",
+          "role": 1,
+          "chineseChars": 5675,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4171,
+          "narrativeViews": 23,
+          "actions": 28,
+          "decisions": 11,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            18.7,
+            36.5
+          ]
+        },
+        {
+          "route": "2:239",
+          "endingId": "239",
+          "role": 2,
+          "chineseChars": 8835,
+          "mixedEnglishWords": 10,
+          "englishRouteWords": 6443,
+          "narrativeViews": 36,
+          "actions": 40,
+          "decisions": 19,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            26.7,
+            51.2
+          ]
+        },
+        {
+          "route": "2:243",
+          "endingId": "243",
+          "role": 2,
+          "chineseChars": 5693,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4121,
+          "narrativeViews": 25,
+          "actions": 31,
+          "decisions": 12,
+          "diceActions": 10,
+          "allocations": 1,
+          "minutes": [
+            19.3,
+            38
+          ]
+        },
+        {
+          "route": "2:51-death",
+          "endingId": "51-death",
+          "role": 2,
+          "chineseChars": 29910,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22732,
+          "narrativeViews": 135,
+          "actions": 147,
+          "decisions": 66,
+          "diceActions": 23,
+          "allocations": 1,
+          "minutes": [
+            80.6,
+            148.3
+          ]
+        },
+        {
+          "route": "2:68-death",
+          "endingId": "68-death",
+          "role": 2,
+          "chineseChars": 30655,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23202,
+          "narrativeViews": 137,
+          "actions": 150,
+          "decisions": 68,
+          "diceActions": 25,
+          "allocations": 1,
+          "minutes": [
+            82.7,
+            152.3
+          ]
+        },
+        {
+          "route": "2:119-death",
+          "endingId": "119-death",
+          "role": 2,
+          "chineseChars": 30026,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22837,
+          "narrativeViews": 135,
+          "actions": 147,
+          "decisions": 66,
+          "diceActions": 23,
+          "allocations": 1,
+          "minutes": [
+            80.8,
+            148.7
+          ]
+        },
+        {
+          "route": "2:121-death",
+          "endingId": "121-death",
+          "role": 2,
+          "chineseChars": 32119,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 24338,
+          "narrativeViews": 144,
+          "actions": 158,
+          "decisions": 70,
+          "diceActions": 29,
+          "allocations": 1,
+          "minutes": [
+            86.7,
+            159.6
+          ]
+        },
+        {
+          "route": "2:132-death",
+          "endingId": "132-death",
+          "role": 2,
+          "chineseChars": 31475,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23819,
+          "narrativeViews": 140,
+          "actions": 153,
+          "decisions": 70,
+          "diceActions": 26,
+          "allocations": 1,
+          "minutes": [
+            84.8,
+            156.2
+          ]
+        },
+        {
+          "route": "2:169-death",
+          "endingId": "169-death",
+          "role": 2,
+          "chineseChars": 30602,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23182,
+          "narrativeViews": 137,
+          "actions": 149,
+          "decisions": 67,
+          "diceActions": 24,
+          "allocations": 1,
+          "minutes": [
+            82.3,
+            151.4
+          ]
+        },
+        {
+          "route": "2:142-death",
+          "endingId": "142-death",
+          "role": 2,
+          "chineseChars": 29273,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 22209,
+          "narrativeViews": 132,
+          "actions": 145,
+          "decisions": 65,
+          "diceActions": 22,
+          "allocations": 1,
+          "minutes": [
+            78.9,
+            145.4
+          ]
+        },
+        {
+          "route": "2:145-death",
+          "endingId": "145-death",
+          "role": 2,
+          "chineseChars": 30912,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23399,
+          "narrativeViews": 139,
+          "actions": 153,
+          "decisions": 69,
+          "diceActions": 27,
+          "allocations": 1,
+          "minutes": [
+            83.7,
+            154.3
+          ]
+        },
+        {
+          "route": "2:125-death",
+          "endingId": "125-death",
+          "role": 2,
+          "chineseChars": 30808,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 23311,
+          "narrativeViews": 138,
+          "actions": 152,
+          "decisions": 69,
+          "diceActions": 26,
+          "allocations": 1,
+          "minutes": [
+            83.3,
+            153.6
+          ]
+        },
+        {
+          "route": "2:192",
+          "endingId": "192",
+          "role": 2,
+          "chineseChars": 6258,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4604,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 13,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            20.3,
+            39.6
+          ]
+        },
+        {
+          "route": "2:217",
+          "endingId": "217",
+          "role": 2,
+          "chineseChars": 6410,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4710,
+          "narrativeViews": 26,
+          "actions": 31,
+          "decisions": 13,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            20.6,
+            40.1
+          ]
+        },
+        {
+          "route": "2:213",
+          "endingId": "213",
+          "role": 2,
+          "chineseChars": 6041,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4505,
+          "narrativeViews": 26,
+          "actions": 28,
+          "decisions": 10,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            19.5,
+            38
+          ]
+        },
+        {
+          "route": "2:226",
+          "endingId": "226",
+          "role": 2,
+          "chineseChars": 5951,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4442,
+          "narrativeViews": 26,
+          "actions": 28,
+          "decisions": 10,
+          "diceActions": 9,
+          "allocations": 1,
+          "minutes": [
+            19.3,
+            37.7
+          ]
+        },
+        {
+          "route": "2:220",
+          "endingId": "220",
+          "role": 2,
+          "chineseChars": 6892,
+          "mixedEnglishWords": 11,
+          "englishRouteWords": 5021,
+          "narrativeViews": 27,
+          "actions": 31,
+          "decisions": 14,
+          "diceActions": 8,
+          "allocations": 1,
+          "minutes": [
+            21.8,
+            42.1
+          ]
+        },
+        {
+          "route": "2:95",
+          "endingId": "95",
+          "role": 2,
+          "chineseChars": 5675,
+          "mixedEnglishWords": 0,
+          "englishRouteWords": 4171,
+          "narrativeViews": 23,
+          "actions": 28,
+          "decisions": 11,
+          "diceActions": 7,
+          "allocations": 1,
+          "minutes": [
+            18.7,
+            36.5
+          ]
+        }
+      ]
+    }
+  ]
+}

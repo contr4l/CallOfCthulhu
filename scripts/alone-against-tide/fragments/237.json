@@ -1,0 +1,42 @@
+{
+  "id": "237",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "237:p0",
+      "kind": "heading",
+      "text": "237\n",
+      "sourceLocation": "pdf:spans:[[75,3231,3235]]"
+    },
+    {
+      "id": "237:p1",
+      "kind": "body",
+      "text": "You rise quickly and scurry out of the horrible thing’s way. Your \nfeet pound against the street’s flagstones, carrying you far away \nfrom the creature. You cover as much distance as you can in as \nshort a time as possible. You run down numerous streets and \nalleyways before you eventually feel comfortable enough to \npause and reassess your situation.\n",
+      "sourceLocation": "pdf:spans:[[75,3235,3302],[75,3302,3369],[75,3369,3433],[75,3433,3494],[75,3494,3554],[75,3554,3589]]"
+    },
+    {
+      "id": "237:p2",
+      "kind": "body",
+      "text": "By this point, the water has risen to your calves and is swiftly \napproaching knee-level. At the rate the water’s rising, you don’t \nhave time to search the town any further. You must look to your \nself-preservation, especially with those strange things lurking \nin the fog.\n",
+      "sourceLocation": "pdf:spans:[[75,3589,3655],[75,3655,3722],[75,3722,3787],[75,3787,3852],[75,3852,3864]]"
+    },
+    {
+      "id": "237:p3",
+      "kind": "body",
+      "text": "You can just make out the church’s silhouette through the \nmist. With no other real options, the prospect of rising above \nthe tide in the church’s belfry seems like a good idea. You rush \ninside the quiet holy space and quickly begin climbing the steps \ntoward your hoped-for salvation.\n",
+      "sourceLocation": "pdf:spans:[[75,3864,3923],[75,3923,3987],[75,3987,4053],[75,4053,4119],[75,4119,4152]]"
+    },
+    {
+      "id": "237:p4",
+      "kind": "body",
+      "text": "• Go to 196.\n",
+      "sourceLocation": "pdf:spans:[[75,4154,4167]]"
+    },
+    {
+      "id": "237:p5",
+      "kind": "body",
+      "text": "(214)\n",
+      "sourceLocation": "pdf:spans:[[75,4167,4173]]"
+    }
+  ]
+}

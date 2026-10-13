@@ -1,0 +1,48 @@
+{
+  "id": "77",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "77:p0",
+      "kind": "heading",
+      "text": "77",
+      "sourceLocation": "pdf:visual:[[23,64]]"
+    },
+    {
+      "id": "77:p1",
+      "kind": "body",
+      "text": "You and the others make your beds in the decrepit shell of \nthe old cabin. The sagging walls afford some shelter from the \nchilly wind, though the condition of the roof makes you hope \nit doesn’t rain.",
+      "sourceLocation": "pdf:visual:[[23,65],[23,66],[23,67],[23,68]]"
+    },
+    {
+      "id": "77:p2",
+      "kind": "body",
+      "text": "The frogs are noisy outside, but you think you hear something. \nYou ask for silence and listen. There—the rustle of unsteady \nfeet walking through the dead matting of the forest floor. You \ntell the students to arm themselves before stepping outside.",
+      "sourceLocation": "pdf:visual:[[23,69],[23,70],[23,71],[23,72]]"
+    },
+    {
+      "id": "77:p3",
+      "kind": "body",
+      "text": "Your rifle wavers.",
+      "sourceLocation": "pdf:visual:[[23,73]]"
+    },
+    {
+      "id": "77:p4",
+      "kind": "body",
+      "text": "You see a white man. His beard is wild and greasy. He is \nnaked except for rags wrapped around his feet and an animal \nhide tied about his waist. The crazed expression on his face \nworries you, but he carries no weapons.",
+      "sourceLocation": "pdf:visual:[[23,74],[23,75],[23,76],[23,77]]"
+    },
+    {
+      "id": "77:p5",
+      "kind": "body",
+      "text": "To shoot the intruder, go to 78. To put aside your gun and help the \nwretch to the fire, go to 175. ",
+      "sourceLocation": "pdf:visual:[[23,78],[23,79]]"
+    },
+    {
+      "id": "77:p6",
+      "kind": "trace",
+      "text": "(176, 413, 601, 654)",
+      "sourceLocation": "pdf:visual:[[23,80]]"
+    }
+  ]
+}

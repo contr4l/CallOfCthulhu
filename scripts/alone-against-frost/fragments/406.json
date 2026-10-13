@@ -1,0 +1,30 @@
+{
+  "id": "406",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "406:p0",
+      "kind": "heading",
+      "text": "406",
+      "sourceLocation": "pdf:visual:[[72,66]]"
+    },
+    {
+      "id": "406:p1",
+      "kind": "body",
+      "text": "Your party scatters, sprinting through the hail of rocks.",
+      "sourceLocation": "pdf:visual:[[72,67]]"
+    },
+    {
+      "id": "406:p2",
+      "kind": "body",
+      "text": "Make a Dodge roll for each member of your party: if you fail, lose \n2D6 hit points and go to 347; if you succeed but both Norman and \nSylvia fail, go to 491; if only Sylvia fails, go to 278; if only Norman \nfails, go to 490; if everyone succeeds, go to 293. ",
+      "sourceLocation": "pdf:visual:[[72,68],[72,69],[72,70],[72,71]]"
+    },
+    {
+      "id": "406:p3",
+      "kind": "trace",
+      "text": "(400)",
+      "sourceLocation": "pdf:visual:[[72,72]]"
+    }
+  ]
+}

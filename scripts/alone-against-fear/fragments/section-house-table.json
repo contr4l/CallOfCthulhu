@@ -1,0 +1,206 @@
+{
+  "id": "section-house-table",
+  "paragraphs": [
+    {
+      "id": "section-house-table:p0000",
+      "kind": "body",
+      "text": "House table (d6)\n",
+      "sourceLocation": "pdf:spans:[[44,22,39]]"
+    },
+    {
+      "id": "section-house-table:p0001",
+      "kind": "body",
+      "text": "1 Roll on the Haunted House table.\n",
+      "sourceLocation": "pdf:spans:[[44,39,74]]"
+    },
+    {
+      "id": "section-house-table:p0002",
+      "kind": "body",
+      "text": "2  You meet helpful people living in the area. Heal 1 Life and\n",
+      "sourceLocation": "pdf:spans:[[44,74,137]]"
+    },
+    {
+      "id": "section-house-table:p0003",
+      "kind": "body",
+      "text": "gain 1 Food point.\n",
+      "sourceLocation": "pdf:spans:[[44,137,156]]"
+    },
+    {
+      "id": "section-house-table:p0004",
+      "kind": "body",
+      "text": "3\n",
+      "sourceLocation": "pdf:spans:[[44,156,158]]"
+    },
+    {
+      "id": "section-house-table:p0005",
+      "kind": "body",
+      "text": "The house is attacked by 2d6 L2 Zombies (Slow Undead). You\n",
+      "sourceLocation": "pdf:spans:[[44,158,217]]"
+    },
+    {
+      "id": "section-house-table:p0006",
+      "kind": "body",
+      "text": "may ignore them or fight them. If you defeat them, roll on the\n",
+      "sourceLocation": "pdf:spans:[[44,217,280]]"
+    },
+    {
+      "id": "section-house-table:p0007",
+      "kind": "body",
+      "text": "rewards table.\n",
+      "sourceLocation": "pdf:spans:[[44,280,295]]"
+    },
+    {
+      "id": "section-house-table:p0008",
+      "kind": "body",
+      "text": "4\n",
+      "sourceLocation": "pdf:spans:[[44,295,297]]"
+    },
+    {
+      "id": "section-house-table:p0009",
+      "kind": "body",
+      "text": "Safe House. You find an area that is easy to defend. You may\n",
+      "sourceLocation": "pdf:spans:[[44,297,358]]"
+    },
+    {
+      "id": "section-house-table:p0010",
+      "kind": "body",
+      "text": "heal up to 2 Sanity and 4 Life every time you visit this place.\n",
+      "sourceLocation": "pdf:spans:[[44,358,422]]"
+    },
+    {
+      "id": "section-house-table:p0011",
+      "kind": "body",
+      "text": "You do not have to roll for random encounters every time you\n",
+      "sourceLocation": "pdf:spans:[[44,422,483]]"
+    },
+    {
+      "id": "section-house-table:p0012",
+      "kind": "body",
+      "text": "visit this Safe House. If there are already 3 Safe Houses in play\n",
+      "sourceLocation": "pdf:spans:[[44,483,549]]"
+    },
+    {
+      "id": "section-house-table:p0013",
+      "kind": "body",
+      "text": "when you roll this result, you create a new Safe House but the\n",
+      "sourceLocation": "pdf:spans:[[44,549,612]]"
+    },
+    {
+      "id": "section-house-table:p0014",
+      "kind": "body",
+      "text": "Safe House closest to your current location is no longer a Safe\n",
+      "sourceLocation": "pdf:spans:[[44,612,676]]"
+    },
+    {
+      "id": "section-house-table:p0015",
+      "kind": "body",
+      "text": "House. To determine which is closest, just count the number\n",
+      "sourceLocation": "pdf:spans:[[44,676,736]]"
+    },
+    {
+      "id": "section-house-table:p0016",
+      "kind": "body",
+      "text": "of boxes on the town map that you should cross to reach that\n",
+      "sourceLocation": "pdf:spans:[[44,736,797]]"
+    },
+    {
+      "id": "section-house-table:p0017",
+      "kind": "body",
+      "text": "location. If there are two Safe Houses at the same distance,\n",
+      "sourceLocation": "pdf:spans:[[44,797,858]]"
+    },
+    {
+      "id": "section-house-table:p0018",
+      "kind": "body",
+      "text": "choose randomly. When you visit the location that is no longer\n",
+      "sourceLocation": "pdf:spans:[[44,858,921]]"
+    },
+    {
+      "id": "section-house-table:p0019",
+      "kind": "body",
+      "text": "a Safe House, you must roll a 1 in 6 chance of a random\n",
+      "sourceLocation": "pdf:spans:[[44,921,977]]"
+    },
+    {
+      "id": "section-house-table:p0020",
+      "kind": "body",
+      "text": "encounter, just like for any already visited area.\n",
+      "sourceLocation": "pdf:spans:[[44,977,1028]]"
+    },
+    {
+      "id": "section-house-table:p0021",
+      "kind": "body",
+      "text": "5\n",
+      "sourceLocation": "pdf:spans:[[44,1028,1030]]"
+    },
+    {
+      "id": "section-house-table:p0022",
+      "kind": "body",
+      "text": "Dilapidated house. You may explore it or move along. If you\n",
+      "sourceLocation": "pdf:spans:[[44,1030,1090]]"
+    },
+    {
+      "id": "section-house-table:p0023",
+      "kind": "body",
+      "text": "explore it, roll 4+ (+1 if you have the Agile Skill, +2 if you have\n",
+      "sourceLocation": "pdf:spans:[[44,1090,1158]]"
+    },
+    {
+      "id": "section-house-table:p0024",
+      "kind": "body",
+      "text": "it at Expert level) to avoid being hit by falling debris and losing\n",
+      "sourceLocation": "pdf:spans:[[44,1158,1226]]"
+    },
+    {
+      "id": "section-house-table:p0025",
+      "kind": "body",
+      "text": "1 Life. You may perform a Search roll at +1 to find (choose) 1\n",
+      "sourceLocation": "pdf:spans:[[44,1226,1289]]"
+    },
+    {
+      "id": "section-house-table:p0026",
+      "kind": "body",
+      "text": "Clue or 1 random item from the Random Item or Useful Stuff\n",
+      "sourceLocation": "pdf:spans:[[44,1289,1348]]"
+    },
+    {
+      "id": "section-house-table:p0027",
+      "kind": "body",
+      "text": "tables (your choice).\n",
+      "sourceLocation": "pdf:spans:[[44,1348,1370]]"
+    },
+    {
+      "id": "section-house-table:p0028",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[44,1370,1372]]"
+    },
+    {
+      "id": "section-house-table:p0029",
+      "kind": "body",
+      "text": "Play event #1 from the list of events at the end of this book.\n",
+      "sourceLocation": "pdf:spans:[[44,1372,1435]]"
+    },
+    {
+      "id": "section-house-table:p0030",
+      "kind": "body",
+      "text": "If you have already played it, roll a die: on a 1-2, treat as no\n",
+      "sourceLocation": "pdf:spans:[[44,1435,1500]]"
+    },
+    {
+      "id": "section-house-table:p0031",
+      "kind": "body",
+      "text": "encounter; on a 3-4, roll on the Living Dolls table; on a 5-6,\n",
+      "sourceLocation": "pdf:spans:[[44,1500,1563]]"
+    },
+    {
+      "id": "section-house-table:p0032",
+      "kind": "body",
+      "text": "roll on the Haunted House table instead.",
+      "sourceLocation": "pdf:spans:[[44,1563,1603]]"
+    }
+  ],
+  "sourcePages": [
+    44
+  ]
+}

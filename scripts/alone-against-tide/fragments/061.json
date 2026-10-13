@@ -1,0 +1,36 @@
+{
+  "id": "61",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "61:p0",
+      "kind": "heading",
+      "text": "61\n",
+      "sourceLocation": "pdf:spans:[[24,1550,1553]]"
+    },
+    {
+      "id": "61:p1",
+      "kind": "body",
+      "text": "You glance over the items but you do not have an eye for \nantiquities. As near as you can tell, everything is as it appears to \nbe and as Mr. Warren claims.\n",
+      "sourceLocation": "pdf:spans:[[24,1553,1611],[24,1611,1681],[24,1681,1710]]"
+    },
+    {
+      "id": "61:p2",
+      "kind": "body",
+      "text": "Still, as you look over the notebook, you notice it contains \npersonal accounts as well as academic findings. It will likely be \na good source of information regarding Prof. Harris.\n",
+      "sourceLocation": "pdf:spans:[[24,1710,1772],[24,1772,1839],[24,1839,1892]]"
+    },
+    {
+      "id": "61:p3",
+      "kind": "body",
+      "text": "• Go to 81.\n",
+      "sourceLocation": "pdf:spans:[[24,1892,1904]]"
+    },
+    {
+      "id": "61:p4",
+      "kind": "body",
+      "text": "(70)\n",
+      "sourceLocation": "pdf:spans:[[24,1904,1909]]"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "126-stealth",
+    "126"
+  ],
+  "text": [
+    "你不明白自己之前怎么没意识到这一点。她卖掉丈夫所有的东西，举止轻佻，对丈夫的死避而不谈——阿米莉娅似乎并没有因丈夫去世而过度悲痛。她在隐瞒什么——你敢拿自己的职业生涯打赌。你怀疑她以某种方式卷入了哈里斯教授的死亡。",
+    "你张口正准备戳穿她的谎言，逼问更多信息，门外却突然传来响亮的敲门声。阿米莉娅吓了一跳，猛地站起来，困惑地愣了一会儿，敲门声再次响起。“警察！开门！”阿米莉娅脸色煞白，走去应门。",
+    "你的直觉告诉你这里不对劲。你对门口的警官感到不安。你告诉自己这只是神经过敏、过度紧张，却很难压下那种感觉。你有宝贵的几秒钟可以采取行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 126",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 126",
+      "text": [
+        "You don’t know why you hadn’t realized it before. Selling all of his things, adopting such a flirty demeanor, dismissing questions about her husband’s death: Amelia doesn’t seem too broken up about her husband passing. She’s hiding something—you’d bet your career on it. You suspect she’s involved in Prof. Harris’ death in some form or another.",
+        "You open your mouth, prepared to call her bluff and press her for more information, but you are interrupted by a loud knock at the door. Amelia jumps up, startled, and stands there for a moment in confusion as the pounding on the door resumes. “Police! Open the door!” Amelia’s face drains white as she goes to answer the knock.",
+        "Your gut tells you something is wrong here. You feel uneasy about the officer at the door. You tell yourself you’re being irrational and on edge, but you have some trouble fighting that feeling. You have a few precious moments to react."
+      ]
+    }
+  }
+}

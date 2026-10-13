@@ -1,0 +1,60 @@
+{
+  "id": "63",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "63:p0",
+      "kind": "heading",
+      "text": "63\n",
+      "sourceLocation": "pdf:spans:[[25,44,47]]"
+    },
+    {
+      "id": "63:p1",
+      "kind": "body",
+      "text": "You tell the man that you’re a reporter with The Boston Gazette. \nSome professor died out here recently and you’re supposed to \ngather details for the obituary.  The man nods solemnly. “You \nmean Professor Harris. Real shame what happened to him. Always \nseemed like such a nice man. Officer Powell says they’re still cleaning \nup the mess at the professor’s place. Can’t say I know much about \nhis death, though. You’ll want to talk to Officer Powell about that. \nOr maybe his widow, Amelia. They’ll probably be at that estate sale \ntonight.” The ferryman looks down at his hands and then extends \none toward you. “My name’s Lance Sanford, by the way. Let’s just \nput that grisly business behind us for now and enjoy the water, eh?”\n",
+      "sourceLocation": "pdf:spans:[[25,47,113],[25,113,175],[25,175,238],[25,238,302],[25,302,375],[25,375,442],[25,442,512],[25,512,581],[25,581,646],[25,646,712],[25,712,781]]"
+    },
+    {
+      "id": "63:p2",
+      "kind": "body",
+      "text": "• To inquire about Prof. Harris, go to 27.\n",
+      "sourceLocation": "pdf:spans:[[25,781,824]]"
+    },
+    {
+      "id": "63:p3",
+      "kind": "body",
+      "text": "• To inquire about Officer Powell, go to 36.\n",
+      "sourceLocation": "pdf:spans:[[25,824,869]]"
+    },
+    {
+      "id": "63:p4",
+      "kind": "body",
+      "text": "• To ask Lance Sanford about himself, go to 42.\n",
+      "sourceLocation": "pdf:spans:[[25,869,917]]"
+    },
+    {
+      "id": "63:p5",
+      "kind": "body",
+      "text": "• To ask about the estate sale, go to 66.\n",
+      "sourceLocation": "pdf:spans:[[25,917,959]]"
+    },
+    {
+      "id": "63:p6",
+      "kind": "body",
+      "text": "• To ask about the widow Amelia, go to 89.\n",
+      "sourceLocation": "pdf:spans:[[25,959,1002]]"
+    },
+    {
+      "id": "63:p7",
+      "kind": "body",
+      "text": "• To pass the time waiting to arrive in Esbury, go to 56.\n",
+      "sourceLocation": "pdf:spans:[[25,1002,1060]]"
+    },
+    {
+      "id": "63:p8",
+      "kind": "body",
+      "text": "(80)\n",
+      "sourceLocation": "pdf:spans:[[25,1060,1065]]"
+    }
+  ]
+}

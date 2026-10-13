@@ -1,0 +1,30 @@
+{
+  "id": "360",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "360:p0",
+      "kind": "heading",
+      "text": "360",
+      "sourceLocation": "pdf:visual:[[66,39]]"
+    },
+    {
+      "id": "360:p1",
+      "kind": "body",
+      "text": "Having avoided so many dangers on your way into the lost \nvalley, now you and Norman must attempt to bypass them all \nagain on your way out.",
+      "sourceLocation": "pdf:visual:[[66,40],[66,41],[66,42]]"
+    },
+    {
+      "id": "360:p2",
+      "kind": "body",
+      "text": "Make a Hard Luck roll: if you succeed, go to 361; if you fail, go \nto 313.",
+      "sourceLocation": "pdf:visual:[[66,43],[66,44]]"
+    },
+    {
+      "id": "360:p3",
+      "kind": "trace",
+      "text": "(311, 312)",
+      "sourceLocation": "pdf:visual:[[66,45]]"
+    }
+  ]
+}

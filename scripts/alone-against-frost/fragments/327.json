@@ -1,0 +1,36 @@
+{
+  "id": "327",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "327:p0",
+      "kind": "heading",
+      "text": "327",
+      "sourceLocation": "pdf:visual:[[62,56]]"
+    },
+    {
+      "id": "327:p1",
+      "kind": "body",
+      "text": "A  hundred  yards  from  camp,  you  spot  a  Canada  goose. \nSteadying your shaky hand for a moment, you take the shot. \nYou dare not aim for the head and miss, so you put a bullet in \nits gut. The agonized beast leads you on a fretful chase through \nthe woods before keeling over.",
+      "sourceLocation": "pdf:visual:[[62,57],[62,58],[62,59],[62,60],[62,61]]"
+    },
+    {
+      "id": "327:p2",
+      "kind": "body",
+      "text": "You return to Norman elated. A good meal is exactly what \nhe needs.",
+      "sourceLocation": "pdf:visual:[[62,62],[62,63]]"
+    },
+    {
+      "id": "327:p3",
+      "kind": "body",
+      "text": "Make a Hard CON roll for Norman: if he succeeds, go to 543; if he \nfails, you arrive too late, go to 67.",
+      "sourceLocation": "pdf:visual:[[62,64],[62,65]]"
+    },
+    {
+      "id": "327:p4",
+      "kind": "trace",
+      "text": "(331)",
+      "sourceLocation": "pdf:visual:[[62,66]]"
+    }
+  ]
+}

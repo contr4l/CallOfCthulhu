@@ -1,0 +1,146 @@
+{
+  "id": "section-town-exploration-table",
+  "paragraphs": [
+    {
+      "id": "section-town-exploration-table:p0000",
+      "kind": "body",
+      "text": "Town exploration table (2d6)\n",
+      "sourceLocation": "pdf:spans:[[42,22,51]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0001",
+      "kind": "body",
+      "text": "2 Roll on the Random Event table.\n",
+      "sourceLocation": "pdf:spans:[[42,51,85]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0002",
+      "kind": "body",
+      "text": "3 Roll on the Military Installation table or on the\n",
+      "sourceLocation": "pdf:spans:[[42,85,137]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0003",
+      "kind": "body",
+      "text": "Clinic table, your choice.\n",
+      "sourceLocation": "pdf:spans:[[42,137,164]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0004",
+      "kind": "body",
+      "text": "4 Roll on Farm table or on the Cemetery table,\n",
+      "sourceLocation": "pdf:spans:[[42,164,211]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0005",
+      "kind": "body",
+      "text": "your choice.\n",
+      "sourceLocation": "pdf:spans:[[42,211,224]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0006",
+      "kind": "body",
+      "text": "5 Roll on the Place of Worship table.\n",
+      "sourceLocation": "pdf:spans:[[42,224,262]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0007",
+      "kind": "body",
+      "text": "6 Roll on Street table.\n",
+      "sourceLocation": "pdf:spans:[[42,262,286]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0008",
+      "kind": "body",
+      "text": "7 Roll d6. On a 1-5, roll on the House table. On a 6,\n",
+      "sourceLocation": "pdf:spans:[[42,286,340]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0009",
+      "kind": "body",
+      "text": "roll on the Special Event table.\n",
+      "sourceLocation": "pdf:spans:[[42,340,373]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0010",
+      "kind": "body",
+      "text": "8 Roll on the Store or the Street table, your choice.\n",
+      "sourceLocation": "pdf:spans:[[42,373,427]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0011",
+      "kind": "body",
+      "text": "9 Roll on the Sewers table.\n",
+      "sourceLocation": "pdf:spans:[[42,427,455]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0012",
+      "kind": "body",
+      "text": "10 Roll on the Railways or Woods/Park table, your\n",
+      "sourceLocation": "pdf:spans:[[42,455,505]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0013",
+      "kind": "body",
+      "text": "choice.\n",
+      "sourceLocation": "pdf:spans:[[42,505,513]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0014",
+      "kind": "body",
+      "text": "11 Roll on the School table or the Woods/Park\n",
+      "sourceLocation": "pdf:spans:[[42,513,559]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0015",
+      "kind": "body",
+      "text": "table, your choice.\n",
+      "sourceLocation": "pdf:spans:[[42,559,579]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0016",
+      "kind": "body",
+      "text": "12 Roll on the Woods/Park table.\n",
+      "sourceLocation": "pdf:spans:[[42,579,612]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0017",
+      "kind": "body",
+      "text": "Roll on this table every time you move into an unexplored area. Then roll on\n",
+      "sourceLocation": "pdf:spans:[[42,612,689]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0018",
+      "kind": "body",
+      "text": "the sub-table indicated by the result. Whenever possible, do NOT read the\n",
+      "sourceLocation": "pdf:spans:[[42,689,763]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0019",
+      "kind": "body",
+      "text": "content of the tables in advance. Read them only when they apply to you.\n",
+      "sourceLocation": "pdf:spans:[[42,763,836]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0020",
+      "kind": "body",
+      "text": "You may Search an area ONLY after dealing with whatever encounter, danger\n",
+      "sourceLocation": "pdf:spans:[[42,836,910]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0021",
+      "kind": "body",
+      "text": "or situation you encounter in that area. If you flee from an encounter, you\n",
+      "sourceLocation": "pdf:spans:[[42,910,986]]"
+    },
+    {
+      "id": "section-town-exploration-table:p0022",
+      "kind": "body",
+      "text": "may NOT Search that area.",
+      "sourceLocation": "pdf:spans:[[42,986,1011]]"
+    }
+  ],
+  "sourcePages": [
+    42
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "571",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "571:p0",
+      "kind": "heading",
+      "text": "571",
+      "sourceLocation": "pdf:visual:[[97,55]]"
+    },
+    {
+      "id": "571:p1",
+      "kind": "body",
+      "text": "The situation does not look promising.",
+      "sourceLocation": "pdf:visual:[[97,56]]"
+    },
+    {
+      "id": "571:p2",
+      "kind": "body",
+      "text": "If you have the keyword INCHCAPE, go to 566. If not, go to 563.",
+      "sourceLocation": "pdf:visual:[[97,57]]"
+    },
+    {
+      "id": "571:p3",
+      "kind": "trace",
+      "text": "(562)",
+      "sourceLocation": "pdf:visual:[[97,58]]"
+    }
+  ]
+}

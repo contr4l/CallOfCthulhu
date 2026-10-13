@@ -1,0 +1,42 @@
+{
+  "id": "242",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "242:p0",
+      "kind": "heading",
+      "text": "242\n",
+      "sourceLocation": "pdf:spans:[[78,26,30]]"
+    },
+    {
+      "id": "242:p1",
+      "kind": "body",
+      "text": "You simply have no idea what you’re looking at. The characters \nare strange and unusual and they match no script known to \nyou. Studying the rest of the object yields no other clues.\n",
+      "sourceLocation": "pdf:spans:[[78,30,94],[78,94,153],[78,153,213]]"
+    },
+    {
+      "id": "242:p2",
+      "kind": "body",
+      "text": "As you dally here in the darkness and mist, you don’t notice \nthe otherworldly things’ approach. They surround you and strike \ntogether, nearly a dozen unholy abominations with distended \nforms and lifeless eyes.\n",
+      "sourceLocation": "pdf:spans:[[78,213,275],[78,275,340],[78,340,401],[78,401,426]]"
+    },
+    {
+      "id": "242:p3",
+      "kind": "body",
+      "text": "They fall upon you and your companion swiftly. Though he \nis armed, he only manages to bring down a few of them before \nthey subdue him, then strangle the life out of him. You fare \nlittle better, seized by the creatures despite your best efforts.\n",
+      "sourceLocation": "pdf:spans:[[78,426,484],[78,484,546],[78,546,608],[78,608,674]]"
+    },
+    {
+      "id": "242:p4",
+      "kind": "body",
+      "text": "Kicking and screaming, you are hauled bodily through the \nstreets of Esbury. They carry you to a burning building, where \nthe horrid creatures feed you to the flames. As you burn alive, \nyou see the abominable beings take up a shuffling dance of \nunnerving nature. Their pouting, flabby lips sing silent praises \nto their unknown god to which your soul is sacrificed.\nYou have died, burned alive as an offering to one of the Great Old \nOnes. Your visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[78,674,732],[78,732,796],[78,796,861],[78,861,921],[78,921,987],[78,987,1042],[78,1044,1112],[78,1112,1158]]"
+    },
+    {
+      "id": "242:p5",
+      "kind": "body",
+      "text": "(216)\n",
+      "sourceLocation": "pdf:spans:[[78,1158,1164]]"
+    }
+  ]
+}

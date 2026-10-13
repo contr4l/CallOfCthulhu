@@ -1,0 +1,30 @@
+{
+  "id": "601",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "601:p0",
+      "kind": "heading",
+      "text": "601",
+      "sourceLocation": "pdf:visual:[[101,59]]"
+    },
+    {
+      "id": "601:p1",
+      "kind": "body",
+      "text": "You lead your two graduate students upriver. The expedition \nneeds something to boost its morale.",
+      "sourceLocation": "pdf:visual:[[101,60],[101,61]]"
+    },
+    {
+      "id": "601:p2",
+      "kind": "body",
+      "text": "To thread through light woodland, go to 218. To penetrate deeper \ninto the forest, go to 557. To scale a ridge, go to 469. To follow the \nriver, go to 470. To search for shelter, make a Navigate roll: if you \nsucceed, go to 77; if you fail, go to 55.",
+      "sourceLocation": "pdf:visual:[[101,62],[101,63],[101,64],[101,65]]"
+    },
+    {
+      "id": "601:p3",
+      "kind": "trace",
+      "text": "(600)",
+      "sourceLocation": "pdf:visual:[[101,66]]"
+    }
+  ]
+}

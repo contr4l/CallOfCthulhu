@@ -1,0 +1,30 @@
+{
+  "id": "184",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "184:p0",
+      "kind": "heading",
+      "text": "184",
+      "sourceLocation": "pdf:visual:[[40,37]]"
+    },
+    {
+      "id": "184:p1",
+      "kind": "body",
+      "text": "You swing your rifle barrel around and squeeze off a shot at the \nthing’s heart.",
+      "sourceLocation": "pdf:visual:[[40,38],[40,39]]"
+    },
+    {
+      "id": "184:p2",
+      "kind": "body",
+      "text": "Make a Firearms (Rifle/Shotgun) roll: if you succeed, go to 185; if \nyou fail, go to 186.",
+      "sourceLocation": "pdf:visual:[[40,40],[40,41]]"
+    },
+    {
+      "id": "184:p3",
+      "kind": "trace",
+      "text": "(127)",
+      "sourceLocation": "pdf:visual:[[40,42]]"
+    }
+  ]
+}

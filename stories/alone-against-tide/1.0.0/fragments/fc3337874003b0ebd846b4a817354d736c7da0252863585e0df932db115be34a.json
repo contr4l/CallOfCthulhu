@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "2"
+  ],
+  "text": [
+    "你靠近那两名男子，竖起耳朵听他们交谈。“你知我知，我听说这些东西大多是赝品——彻头彻尾的骗局和伪造品。哈里斯就是个糊涂的老疯子。他声称自己的发现早于印度已知最早的记录，可这根本不可能。它们和其他所有资料都完全对不上。再说了，你懂我的意思，他离开密斯卡托尼克大学是有原因的。”",
+    "另一个男人赞同地点点头。“你说得没错。他的发现缺乏恰当的证据支持，可他还一直想把那些胡言乱语发表出来。我猜这就是他们让他辞职的原因。不过，至少有几件东西或许是真的，希望这趟不至于白跑。”",
+    "第一个男人稍稍挪了挪脚步，又压低了些声音，几乎只能听见。“也许吧。而且那边那个僧侣似乎也让你的说法有了几分可信度。要是连真正的印度人都想要这些东西，那这里面或许真有值钱的玩意儿。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 2",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 2",
+      "text": [
+        "You position yourself close to the men and tune your ears to their conversation. “Between you and me, I heard that most of these items are fakes—outright hoaxes and counterfeits. Harris was a doddering old nut. He claimed that his findings predate the earliest known records of ancient India, but that’s impossible. They’re completely inconsistent with all of the other data. And besides, there’s a reason why he left the Miskatonic, if you catch my meaning.”",
+        "The other man nods his approval. “You aren’t wrong. His findings aren’t properly supported by evidence, yet he kept trying to publish his hogwash. I imagine that’s why they had him resign. Still, at least a few of the items might be authentic, so hopefully this won’t be a total waste of time.”",
+        "The first man shifts his stance and lowers his volume slightly again, to where it is just perceptible. “Maybe. And that monk over there does seem to lend some sort of validity to your claim. If an actual Indian wants them, perhaps there is something valuable here.”"
+      ]
+    }
+  }
+}

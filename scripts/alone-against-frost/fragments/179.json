@@ -1,0 +1,30 @@
+{
+  "id": "179",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "179:p0",
+      "kind": "heading",
+      "text": "179",
+      "sourceLocation": "pdf:visual:[[39,74]]"
+    },
+    {
+      "id": "179:p1",
+      "kind": "body",
+      "text": "Something about the wretch chills you, but you put this subtle \nunease down to the effects of his long privation. You take the \nfirst watch while the students roll up in their blankets. As you \nsit on a rock, the first hour of the watch passes quietly.",
+      "sourceLocation": "pdf:visual:[[39,75],[39,76],[39,77],[39,78]]"
+    },
+    {
+      "id": "179:p2",
+      "kind": "body",
+      "text": "Roll 1D6: if the result is 1–4, go to 194; if the result is 5–6, go \nto 193. ",
+      "sourceLocation": "pdf:visual:[[39,79],[39,80]]"
+    },
+    {
+      "id": "179:p3",
+      "kind": "trace",
+      "text": "(139, 175)",
+      "sourceLocation": "pdf:visual:[[39,81]]"
+    }
+  ]
+}

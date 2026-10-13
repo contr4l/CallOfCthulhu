@@ -1,0 +1,30 @@
+{
+  "id": "24",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "24:p0",
+      "kind": "heading",
+      "text": "24\n",
+      "sourceLocation": "pdf:spans:[[16,2339,2342]]"
+    },
+    {
+      "id": "24:p1",
+      "kind": "body",
+      "text": "You write a reasonable bid for the pair of clay cylinders and \nplace it in the box. Shortly after you do so, Mr. Warren clears \nthe box and begins checking the bids.\n",
+      "sourceLocation": "pdf:spans:[[16,2342,2405],[16,2405,2470],[16,2470,2508]]"
+    },
+    {
+      "id": "24:p2",
+      "kind": "body",
+      "text": "• Make an Appraise or Credit Rating roll, both at Hard difficulty \n(success only at equal to or below half of the skill’s value): if you \nsucceed, go to 38; if you fail, go to 73.\n",
+      "sourceLocation": "pdf:spans:[[16,2508,2575],[16,2575,2646],[16,2646,2688]]"
+    },
+    {
+      "id": "24:p3",
+      "kind": "body",
+      "text": "(81)\n",
+      "sourceLocation": "pdf:spans:[[16,2688,2693]]"
+    }
+  ]
+}

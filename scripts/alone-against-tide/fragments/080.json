@@ -1,0 +1,90 @@
+{
+  "id": "80",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "80:p0",
+      "kind": "heading",
+      "text": "80\n",
+      "sourceLocation": "pdf:spans:[[29,3048,3051]]"
+    },
+    {
+      "id": "80:p1",
+      "kind": "body",
+      "text": "The woman clearly sees something in you that she likes. Perhaps \nit’s your looks or a glint of intelligence in your eyes. She gives \nyou a sly wink before turning back to her companions. You \nlikewise turn your attention to the rest of the passengers.\n",
+      "sourceLocation": "pdf:spans:[[29,3051,3116],[29,3116,3184],[29,3184,3243],[29,3243,3303]]"
+    },
+    {
+      "id": "80:p2",
+      "kind": "body",
+      "text": "Sitting apart from the general crowd are two men in dark, \nwell-tailored suits, whispering quietly to each other. They have \nunamused expressions on their faces, as if they don’t seem \npleased to be here. Perhaps they’re on business.\n",
+      "sourceLocation": "pdf:spans:[[29,3303,3362],[29,3362,3428],[29,3428,3488],[29,3488,3537]]"
+    },
+    {
+      "id": "80:p3",
+      "kind": "body",
+      "text": " Noticing that you’re sitting alone, the ferryman approaches \nyou and stands over you with his characteristic smile. You notice \nhe’s missing a tooth in the upper left corner of his mouth. His \neyes are bright as they light upon you.\n",
+      "sourceLocation": "pdf:spans:[[29,3537,3599],[29,3599,3666],[29,3666,3731],[29,3731,3771]]"
+    },
+    {
+      "id": "80:p4",
+      "kind": "body",
+      "text": "“Good afternoon! You look a bit lonely there, friend. What brings \nyou to Esbury?”\nIf you are creating your own investigator, it is now time to choose an \noccupation. This list of occupations can be found on page 9 of Book \nTwo in the Call of Cthulhu Starter Set. If you’re using the Call of \nCthulhu: Keeper Rulebook instead, choose one of the occupations \nlisted below then look it up in the Suggested Occupations section \n(pages 40–41). Make a note of the occupational skills, then allocate \nthe following values among them and the Credit Rating skill, \nwriting each one in the large square beside the relevant skill on the \ninvestigator sheet: 40%, 40%, 40%, 50%, 50%, 50%, 60%, 60%, \n70%. Ignore any starting value already mentioned for your chosen \nskills. Once you’ve done that, choose 7 personal interest skills to boost \nby 20% (i.e. add 20 to the skill’s base value). Just as you did with \nyour characteristics, calculate the half and fifth values and jot those \ndown as well. You may equip your character as you see fit, though you \nshould refrain from including any weapons. If you are playing Dr. \nWoods instead, all of their skill points have been assigned for you.",
+      "sourceLocation": "pdf:spans:[[29,3771,3838],[29,3838,3854],[29,3854,3926],[29,3926,3995],[29,3995,4064],[29,4064,4129],[29,4129,4196],[29,4196,4266],[29,4266,4328],[29,4328,4399],[29,4399,4460],[29,4460,4526],[29,4526,4601],[29,4601,4671],[29,4671,4744],[29,4744,4815],[29,4815,4882],[29,4882,4950]]"
+    },
+    {
+      "id": "80:p5",
+      "kind": "body",
+      "text": "• If you are an Antiquarian, go to 104.\n",
+      "sourceLocation": "pdf:spans:[[30,26,66]]"
+    },
+    {
+      "id": "80:p6",
+      "kind": "body",
+      "text": "• If you are an Author, go to 18.\n",
+      "sourceLocation": "pdf:spans:[[30,66,100]]"
+    },
+    {
+      "id": "80:p7",
+      "kind": "body",
+      "text": "• If you are a Dilettante, go to 71.\n",
+      "sourceLocation": "pdf:spans:[[30,100,137]]"
+    },
+    {
+      "id": "80:p8",
+      "kind": "body",
+      "text": "• If you are a Doctor of Medicine, go to 33.\n",
+      "sourceLocation": "pdf:spans:[[30,137,182]]"
+    },
+    {
+      "id": "80:p9",
+      "kind": "body",
+      "text": "• If you are a Journalist, go to 63.\n",
+      "sourceLocation": "pdf:spans:[[30,182,219]]"
+    },
+    {
+      "id": "80:p10",
+      "kind": "body",
+      "text": "• If you are a Police Detective, go to 4.\n",
+      "sourceLocation": "pdf:spans:[[30,219,261]]"
+    },
+    {
+      "id": "80:p11",
+      "kind": "body",
+      "text": "• If you are a Private Investigator, go to 41.\n",
+      "sourceLocation": "pdf:spans:[[30,261,308]]"
+    },
+    {
+      "id": "80:p12",
+      "kind": "body",
+      "text": "• If you are a Professor, or you have chosen to play Dr. Woods, go to 23.\n",
+      "sourceLocation": "pdf:spans:[[30,308,382]]"
+    },
+    {
+      "id": "80:p13",
+      "kind": "body",
+      "text": "(12)\n",
+      "sourceLocation": "pdf:spans:[[30,382,387]]"
+    }
+  ]
+}

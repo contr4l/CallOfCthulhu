@@ -1,0 +1,36 @@
+{
+  "id": "10",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "10:p0",
+      "kind": "heading",
+      "text": "10",
+      "sourceLocation": "pdf:visual:[[11,47]]"
+    },
+    {
+      "id": "10:p1",
+      "kind": "body",
+      "text": "At dawn, you set off again. The day turns into a scorcher; rocks \nin the stream are hot to the touch. There is beauty under the \nshimmering heat, too. The wet sands by the water’s edge are \nhidden under a vibrating carpet of blue—a host of small azure \nbutterflies basking in the warmth.",
+      "sourceLocation": "pdf:visual:[[11,48],[11,49],[11,50],[11,51],[11,52]]"
+    },
+    {
+      "id": "10:p2",
+      "kind": "body",
+      "text": "Pausing a moment from your canoeing, you scan the shores \nfor any sign of life. You catch a flash of someone standing by \nthe river shore, half-hidden by a bushy juniper. Before you can \nadjust your binoculars, the stranger is out of sight.",
+      "sourceLocation": "pdf:visual:[[11,53],[11,54],[11,55],[11,56]]"
+    },
+    {
+      "id": "10:p3",
+      "kind": "body",
+      "text": "To paddle to shore to investigate, go to 18. To continue on until \ncamping time, go to 20. ",
+      "sourceLocation": "pdf:visual:[[11,57],[11,58]]"
+    },
+    {
+      "id": "10:p4",
+      "kind": "trace",
+      "text": "(5, 35, 492)",
+      "sourceLocation": "pdf:visual:[[11,59]]"
+    }
+  ]
+}

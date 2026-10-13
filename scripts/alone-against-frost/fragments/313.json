@@ -1,0 +1,30 @@
+{
+  "id": "313",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "313:p0",
+      "kind": "heading",
+      "text": "313",
+      "sourceLocation": "pdf:visual:[[60,44]]"
+    },
+    {
+      "id": "313:p1",
+      "kind": "body",
+      "text": "You and Norman wander through the lost valley, staring at each \nnew marvel. It is easy to forget about the potential hazards. ",
+      "sourceLocation": "pdf:visual:[[60,45],[60,46]]"
+    },
+    {
+      "id": "313:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 314; if the result is odd, go to 315.",
+      "sourceLocation": "pdf:visual:[[60,47]]"
+    },
+    {
+      "id": "313:p3",
+      "kind": "trace",
+      "text": "(360)",
+      "sourceLocation": "pdf:visual:[[60,48]]"
+    }
+  ]
+}

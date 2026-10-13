@@ -1,0 +1,42 @@
+{
+  "id": "499",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "499:p0",
+      "kind": "heading",
+      "text": "499",
+      "sourceLocation": "pdf:visual:[[87,28]]"
+    },
+    {
+      "id": "499:p1",
+      "kind": "body",
+      "text": "Beside a bush, a tiny man lies wounded, with a hole in him \nthe size of a shotgun slug. He is, incredibly, still alive. When \nyou approach, he tries to crawl away. You try a simple phrase \nin  the  dialect  of  the  closest  known  nation,  but  the  little \ncreature only hisses. He is an amazing specimen—strange gray \nskin, exaggerated features, odd proportions in his hands and \nprehensile feet. If he is not unique, his race departs more from \nthe statistical norm than any that you have ever studied. His \nspecies may not even be human.",
+      "sourceLocation": "pdf:visual:[[87,30],[87,31],[87,32],[87,33],[87,34],[87,35],[87,36],[87,37],[87,38]]"
+    },
+    {
+      "id": "499:p2",
+      "kind": "body",
+      "text": "You lay blankets over him and try to spoon him broth. He \nrefuses  to  eat,  lapses  into  unconsciousness  and—by  dawn—\ndies. All through this, Charlie acts like an agitated tigress.",
+      "sourceLocation": "pdf:visual:[[87,39],[87,40],[87,41]]"
+    },
+    {
+      "id": "499:p3",
+      "kind": "body",
+      "text": "“It was a puk-woogie,” she mutters when you press her, “an \nevil Little One of the Night. If there is one, there will be more. We \nmust leave this valley!”",
+      "sourceLocation": "pdf:visual:[[87,42],[87,43],[87,44]]"
+    },
+    {
+      "id": "499:p4",
+      "kind": "body",
+      "text": "To argue with Charlie, go to 30. To bury the dead man in accordance \nwith her wishes and return downriver, go to 165.",
+      "sourceLocation": "pdf:visual:[[87,45],[87,46]]"
+    },
+    {
+      "id": "499:p5",
+      "kind": "trace",
+      "text": "(18)",
+      "sourceLocation": "pdf:visual:[[87,47]]"
+    }
+  ]
+}

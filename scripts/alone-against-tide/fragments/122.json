@@ -1,0 +1,48 @@
+{
+  "id": "122",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "122:p0",
+      "kind": "heading",
+      "text": "122\n",
+      "sourceLocation": "pdf:spans:[[40,2109,2113]]"
+    },
+    {
+      "id": "122:p1",
+      "kind": "body",
+      "text": "Feeling that it’s the best course of action right now, you return \nto your room at the hotel. You turn the key in the lock and your \ndoor swings open to reveal a startling scene.\n",
+      "sourceLocation": "pdf:spans:[[40,2113,2180],[40,2180,2246],[40,2246,2292]]"
+    },
+    {
+      "id": "122:p2",
+      "kind": "body",
+      "text": "Your room has been ransacked. The bed is overturned, and \nthe covers are strewn about. The dresser drawers have all been \npulled out and emptied. Your briefcase lies open on the floor. \nAnything of value you had is gone. Anything you may have \ngained from the estate sale is longer in your possession, and \nanything you brought with you beyond the basic essentials is \nlikewise missing.\n",
+      "sourceLocation": "pdf:spans:[[40,2292,2350],[40,2350,2414],[40,2414,2478],[40,2478,2536],[40,2536,2599],[40,2599,2661],[40,2661,2679]]"
+    },
+    {
+      "id": "122:p3",
+      "kind": "body",
+      "text": "The window hangs open, letting the greenish mist into the \nroom. You close it to keep out the chill and begin to set things \nstraight while you overcome the shock of what has happened. \nAs you consider your options, the sounds of a loud and violent \ncommotion drift in from the room next door.\n",
+      "sourceLocation": "pdf:spans:[[40,2679,2738],[40,2738,2804],[40,2804,2865],[40,2865,2929],[40,2929,2973]]"
+    },
+    {
+      "id": "122:p4",
+      "kind": "body",
+      "text": "• To ignore the scuffle, go to 109.\n",
+      "sourceLocation": "pdf:spans:[[40,2973,3009]]"
+    },
+    {
+      "id": "122:p5",
+      "kind": "body",
+      "text": "• To investigate, go to 142.\n",
+      "sourceLocation": "pdf:spans:[[40,3009,3038]]"
+    },
+    {
+      "id": "122:p6",
+      "kind": "body",
+      "text": "(5, 10, 46, 54, 67, 90, 101, 111, 127, 130, 153)\n",
+      "sourceLocation": "pdf:spans:[[40,3038,3087]]"
+    }
+  ]
+}

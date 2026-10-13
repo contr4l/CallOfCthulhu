@@ -1,0 +1,30 @@
+{
+  "id": "217",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "217:p0",
+      "kind": "heading",
+      "text": "217",
+      "sourceLocation": "pdf:visual:[[45,79]]"
+    },
+    {
+      "id": "217:p1",
+      "kind": "body",
+      "text": "To exit the valley, the three of you must dare the dangerous \nwaterway that brought you here. You lead the way, followed by \nSylvia and then Norman.",
+      "sourceLocation": "pdf:visual:[[45,80],[45,81],[45,82]]"
+    },
+    {
+      "id": "217:p2",
+      "kind": "body",
+      "text": "Make  a  DEX  roll  for  each  member  of  your  party:  if  everyone \nsucceeds, go to 324; if you fail, go to 189; if both Norman and Sylvia \nmiss it, go to 473; if Norman alone misses it, go to 223; if Sylvia \nalone misses it, go to 540. ",
+      "sourceLocation": "pdf:visual:[[45,83],[45,84],[45,85],[45,86]]"
+    },
+    {
+      "id": "217:p3",
+      "kind": "trace",
+      "text": "(216, 269, 291)",
+      "sourceLocation": "pdf:visual:[[45,87]]"
+    }
+  ]
+}

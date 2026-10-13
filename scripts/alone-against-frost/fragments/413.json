@@ -1,0 +1,30 @@
+{
+  "id": "413",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "413:p0",
+      "kind": "heading",
+      "text": "413",
+      "sourceLocation": "pdf:visual:[[73,68]]"
+    },
+    {
+      "id": "413:p1",
+      "kind": "body",
+      "text": "By a stroke of luck, your party stumbles upon an abandoned \ncabin stocked with rusty but edible tins of food. This happy \ndiscovery solves your food problem for the time being. There \nis  no  trace  of  the  person  who  built  the  cabin—probably  a \nprospector or hunter who fell victim to the hazards of the valley.",
+      "sourceLocation": "pdf:visual:[[73,69],[73,70],[73,71],[73,72],[73,73]]"
+    },
+    {
+      "id": "413:p2",
+      "kind": "body",
+      "text": "This lucky find means you can recuperate a little. Gain 1D10 Luck \npoints. Then, roll 1D10: if the result is even, go to 77; if the result \nis odd, go to 470.",
+      "sourceLocation": "pdf:visual:[[73,74],[73,75],[73,76]]"
+    },
+    {
+      "id": "413:p3",
+      "kind": "trace",
+      "text": "(55)",
+      "sourceLocation": "pdf:visual:[[73,77]]"
+    }
+  ]
+}

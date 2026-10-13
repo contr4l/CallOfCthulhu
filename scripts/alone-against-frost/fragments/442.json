@@ -1,0 +1,30 @@
+{
+  "id": "442",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "442:p0",
+      "kind": "heading",
+      "text": "442",
+      "sourceLocation": "pdf:visual:[[77,52]]"
+    },
+    {
+      "id": "442:p1",
+      "kind": "body",
+      "text": "You run, propelled by mortal terror, until your strength gives \nout. You collapse against a tree, gulping air. But the bloodletting \nis over. Perhaps the invisible killer is somehow tied to the stone \nformation where you encountered it. However, you have run \ndeep into the woods and cannot find your way back to camp.",
+      "sourceLocation": "pdf:visual:[[77,53],[77,54],[77,55],[77,56],[77,57]]"
+    },
+    {
+      "id": "442:p2",
+      "kind": "body",
+      "text": "If all of your students survived, go to 158. If you lost one, go to 324. \nIf you lost two, go to 279. If they are all dead, go to 67.",
+      "sourceLocation": "pdf:visual:[[77,58],[77,59]]"
+    },
+    {
+      "id": "442:p3",
+      "kind": "trace",
+      "text": "(437, 438, 439, 440, 446, 447)",
+      "sourceLocation": "pdf:visual:[[77,60]]"
+    }
+  ]
+}

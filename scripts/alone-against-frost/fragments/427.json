@@ -1,0 +1,30 @@
+{
+  "id": "427",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "427:p0",
+      "kind": "heading",
+      "text": "427",
+      "sourceLocation": "pdf:visual:[[75,59]]"
+    },
+    {
+      "id": "427:p1",
+      "kind": "body",
+      "text": "After each day of lonely travel, you spread your tattered sleeping \nblanket on an anonymous rock, concerned only that it be dry. \nThis one seems like any other.",
+      "sourceLocation": "pdf:visual:[[75,60],[75,61],[75,62]]"
+    },
+    {
+      "id": "427:p2",
+      "kind": "body",
+      "text": "Make a Science (Geology) roll: if you succeed, go to 428: if you fail, \ngo to 513.",
+      "sourceLocation": "pdf:visual:[[75,63],[75,64]]"
+    },
+    {
+      "id": "427:p3",
+      "kind": "trace",
+      "text": "(67, 597)",
+      "sourceLocation": "pdf:visual:[[75,65]]"
+    }
+  ]
+}

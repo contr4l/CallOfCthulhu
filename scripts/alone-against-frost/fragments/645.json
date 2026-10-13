@@ -1,0 +1,30 @@
+{
+  "id": "645",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "645:p0",
+      "kind": "heading",
+      "text": "645",
+      "sourceLocation": "pdf:visual:[[107,52]]"
+    },
+    {
+      "id": "645:p1",
+      "kind": "body",
+      "text": "After such a close call, you know you must lead the students \nfrom this valley. But for the expedition’s sake, you will make one \nmore attempt to find physical proof.",
+      "sourceLocation": "pdf:visual:[[107,53],[107,54],[107,55]]"
+    },
+    {
+      "id": "645:p2",
+      "kind": "body",
+      "text": "To head into the hills, go to 621. To persist with the beasts of the \nmeadowland, go to 620. To scout in pairs, go to 609.",
+      "sourceLocation": "pdf:visual:[[107,56],[107,57]]"
+    },
+    {
+      "id": "645:p3",
+      "kind": "trace",
+      "text": "(633, 636)",
+      "sourceLocation": "pdf:visual:[[107,58]]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "53"
+  ],
+  "text": [
+    "花瓶正中你的胸口，撞击时碎裂开来。破片四散飞溅，有些划伤了你的皮肤。你被撞得失去平衡，摔倒在地。",
+    "阿米莉娅趁机飞快地冲出门去，一边逃跑一边呼喊救命。",
+    "你可以追上去，也可以趁机探索空荡荡的房子。由你选择。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 53",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 53",
+      "text": [
+        "The vase hits you squarely in the chest, shattering on impact. The broken shards fly around you, some cutting your flesh. You are knocked off balance and tumble to the floor.",
+        "Seizing this opportunity, Amelia runs out the door as fast as her legs will carry her, calling for help as she does so.",
+        "You could chase after her, or you could take this opportunity to explore the empty house. The choice is yours."
+      ]
+    }
+  }
+}

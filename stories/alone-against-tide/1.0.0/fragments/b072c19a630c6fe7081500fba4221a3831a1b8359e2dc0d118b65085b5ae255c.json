@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "62"
+  ],
+  "text": [
+    "你把坚硬的陶土圆筒拿在手里翻看，目光落在贯穿两件物品的大裂缝上。尽管有这些损伤，它们坚固的构造仍使圆筒得以历经岁月保存至今。",
+    "另一个显眼之处，是每个圆筒侧面都刻满了奇怪文字。它们十分特别，和你所知的任何语言都不像。遗憾的是，你没有办法翻译。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 62",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 62",
+      "text": [
+        "You turn the hardened clay cylinders over in your hands, your eyes falling on the large cracks running through both items. Despite this damage, their solid construction has led to the cylinders’ survival throughout the ages.",
+        "The next most obvious quality is the strange writing plastered along the sides of each cylinder. It’s quite remarkable in that it doesn’t resemble any language known to you. Unfortunately, you have no way of translating it."
+      ]
+    }
+  }
+}

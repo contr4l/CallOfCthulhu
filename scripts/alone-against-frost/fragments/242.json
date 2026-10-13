@@ -1,0 +1,30 @@
+{
+  "id": "242",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "242:p0",
+      "kind": "heading",
+      "text": "242",
+      "sourceLocation": "pdf:visual:[[48,62]]"
+    },
+    {
+      "id": "242:p1",
+      "kind": "body",
+      "text": "You climb aboard the canoe and set out downriver. At your next \nrest spot, fish and game abound. A good meal does wonders to \nrestore you. At last, you come to the treacherous segment of the \nriver that Charlie Foxtail called “the place of splitting water.”",
+      "sourceLocation": "pdf:visual:[[48,63],[48,64],[48,65],[48,66]]"
+    },
+    {
+      "id": "242:p2",
+      "kind": "body",
+      "text": "Make a Pilot (Boat) roll: if you succeed, go to 513; if you fail, go to 514.",
+      "sourceLocation": "pdf:visual:[[48,67]]"
+    },
+    {
+      "id": "242:p3",
+      "kind": "trace",
+      "text": "(126)",
+      "sourceLocation": "pdf:visual:[[48,68]]"
+    }
+  ]
+}

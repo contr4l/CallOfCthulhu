@@ -1,0 +1,54 @@
+{
+  "id": "179",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "179:p0",
+      "kind": "heading",
+      "text": "179\n",
+      "sourceLocation": "pdf:spans:[[57,44,48]]"
+    },
+    {
+      "id": "179:p1",
+      "kind": "body",
+      "text": "With no immediate threat to yourself, you’re free to explore the \nHarris household, though you do so quickly in case someone \ncomes looking. Glancing about the sitting room you’re in, you \nfind it’s in a bit of a mess from the earlier scuffle.\n",
+      "sourceLocation": "pdf:spans:[[57,48,114],[57,114,174],[57,174,237],[57,237,292]]"
+    },
+    {
+      "id": "179:p2",
+      "kind": "body",
+      "text": "Looking toward the entrance, you note the foyer, filled with \nboxes, crates, and other unidentifiable objects covered with \ndust sheets. You poke your head into the next room and find a \nkitchen and adjacent dining room, both spotlessly maintained \nthough sparsely furnished. \n",
+      "sourceLocation": "pdf:spans:[[57,292,354],[57,354,416],[57,416,479],[57,479,541],[57,541,569]]"
+    },
+    {
+      "id": "179:p3",
+      "kind": "body",
+      "text": "Peeking beneath the dust sheets in the entryway, you find \nvarious items of furniture and décor, as well as stacks and \nstacks of books. Many of them are historical texts and reference \nmaterials, some of which were written by Prof. Harris himself. \nThere is also a large number of general works of science and \nliterature, as befits any well-educated man.\n",
+      "sourceLocation": "pdf:spans:[[57,569,628],[57,628,689],[57,689,755],[57,755,819],[57,819,881],[57,881,926]]"
+    },
+    {
+      "id": "179:p4",
+      "kind": "body",
+      "text": "You place the covers back down, sensing that you will find \nnothing of value here. You turn your attention instead to the \nset of stairs opposite the entrance. You ascend the staircase \nand see two doors, one to either side of you. The door to your \nleft is slightly ajar, and leads to the bedroom. By a process of \nelimination, the door to your right must lead to the study. It \nseems to be locked and your earlier search of the house did \nnot yield a key. With enough time, you might be able to get \nthe door open, but it would probably be unwise to spend too \nlong trying since Amelia or one of those close to her may \nreturn soon.\n",
+      "sourceLocation": "pdf:spans:[[57,926,986],[57,986,1049],[57,1049,1112],[57,1112,1176],[57,1176,1242],[57,1242,1306],[57,1306,1367],[57,1367,1428],[57,1428,1489],[57,1489,1548],[57,1548,1561]]"
+    },
+    {
+      "id": "179:p5",
+      "kind": "body",
+      "text": "• To enter the bedroom, go to 207.\n",
+      "sourceLocation": "pdf:spans:[[57,1563,1598]]"
+    },
+    {
+      "id": "179:p6",
+      "kind": "body",
+      "text": "• To enter the study, make a Locksmith roll: if you succeed, go to 188; \nif you fail, go to 161.\n",
+      "sourceLocation": "pdf:spans:[[57,1598,1671],[57,1671,1695]]"
+    },
+    {
+      "id": "179:p7",
+      "kind": "body",
+      "text": "(21, 120)\n",
+      "sourceLocation": "pdf:spans:[[57,1695,1705]]"
+    }
+  ]
+}

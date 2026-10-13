@@ -1,0 +1,30 @@
+{
+  "id": "493",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "493:p0",
+      "kind": "heading",
+      "text": "493",
+      "sourceLocation": "pdf:visual:[[86,16]]"
+    },
+    {
+      "id": "493:p1",
+      "kind": "body",
+      "text": "A  gigantic  hairy  shape  shuffles  out  before  you.  At  first, \nyou  mistake  it  for  a  gorilla—but  at  second  glance,  your \nanthropologist’s eye marks it as a species never before described \nscientifically. The appropriate action here is to offer it food as a \ngesture of friendship.",
+      "sourceLocation": "pdf:visual:[[86,17],[86,18],[86,19],[86,20],[86,21]]"
+    },
+    {
+      "id": "493:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 419; if you fail, go to 325. ",
+      "sourceLocation": "pdf:visual:[[86,22]]"
+    },
+    {
+      "id": "493:p3",
+      "kind": "trace",
+      "text": "(326)",
+      "sourceLocation": "pdf:visual:[[86,23]]"
+    }
+  ]
+}

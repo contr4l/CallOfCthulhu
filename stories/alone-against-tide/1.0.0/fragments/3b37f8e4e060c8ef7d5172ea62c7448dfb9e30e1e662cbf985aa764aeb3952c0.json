@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "185"
+  ],
+  "text": [
+    "恐惧催促着你继续前进。你拖着受伤的腿涉水而行，直到终于蹬水离开水底，开始真正游起来。",
+    "你在浑浊的水中泼水前行了相当一段距离，终于抵达一块较干燥的地面。谢天谢地，你没有听见追赶的声音。",
+    "你没有停下来等追赶者再次出现。尽管疼痛难忍，你还是一瘸一拐地向前走，试图重新辨清方向。最后，你决定相信自己的直觉。你选定一个方向开始行走。不久，你遇到一条小路，并相当确信自己选对了。",
+    "然而，你大错特错。此前你走错了路，又没有任何参照物，结果完全迷失了方向。现在你发现自己又一次面对埃斯伯里。",
+    "你几乎没有时间表达自己的沮丧。你绝望地站在路中央时，一辆汽车从雾中疾驰而来，径直朝你冲来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 185",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 185",
+      "text": [
+        "Your fear spurs you on. You drag your injured leg behind you as you wade through the water until you finally kick off and begin swimming properly.",
+        "You splash through the murky water for a fair distance before making it to a patch of drier ground. Mercifully, you don’t hear the sounds of pursuit.",
+        "You don’t wait around for your pursuer to reappear. Though thoroughly pained, you limp along, trying to regain your bearings. Ultimately, you decide to trust your gut. You pick a direction and start walking. Before long, you come upon a trail and feel relatively confident that you’ve made the correct choice.",
+        "You couldn’t be more wrong. Having taken a wrong turn earlier, and without any sort of reference point, you’ve gotten completely turned around. You now find yourself once more facing the town of Esbury.",
+        "You have little time to express your frustration. As you stand dismayed in the middle of the road, an automobile comes barreling out of the mist, directly at you."
+      ]
+    }
+  }
+}

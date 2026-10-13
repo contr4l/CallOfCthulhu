@@ -1,0 +1,54 @@
+{
+  "id": "147",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "147:p0",
+      "kind": "heading",
+      "text": "147\n",
+      "sourceLocation": "pdf:spans:[[48,417,421]]"
+    },
+    {
+      "id": "147:p1",
+      "kind": "body",
+      "text": "You make your way through the foggy streets of Esbury, \nheading once more to the Harris house. As your feet hit the \nroad’s flagstones, you hear the sound of your footsteps reflected \nback by the walls of the buildings all around you. Otherwise, all \nremains quiet and sleepy.\n",
+      "sourceLocation": "pdf:spans:[[48,421,477],[48,477,538],[48,538,605],[48,605,672],[48,672,698]]"
+    },
+    {
+      "id": "147:p2",
+      "kind": "body",
+      "text": "The light is very dim and growing darker by the second. By \nthe time you find yourself once more at Amelia Harris’ home, \nnight has fallen.\n",
+      "sourceLocation": "pdf:spans:[[48,698,758],[48,758,820],[48,820,838]]"
+    },
+    {
+      "id": "147:p3",
+      "kind": "body",
+      "text": "As you approach the building, you freeze dead in your tracks \nas a woman in a red dress passes mere feet from you—Amelia \nHarris! She doesn’t seem to notice you, in part because of the \nfog but also because she looks lost in thought. You watch her \nmove hurriedly through the mist and enter the nearby church.\n",
+      "sourceLocation": "pdf:spans:[[48,838,900],[48,900,960],[48,960,1024],[48,1024,1087],[48,1087,1148]]"
+    },
+    {
+      "id": "147:p4",
+      "kind": "body",
+      "text": "You could choose to enter the Harris house and search the \npremises, or you could pursue Amelia for questioning.\n",
+      "sourceLocation": "pdf:spans:[[48,1148,1207],[48,1207,1261]]"
+    },
+    {
+      "id": "147:p5",
+      "kind": "body",
+      "text": "• To enter the Harris House, go to 7.\n",
+      "sourceLocation": "pdf:spans:[[48,1263,1301]]"
+    },
+    {
+      "id": "147:p6",
+      "kind": "body",
+      "text": "• To follow Amelia, go to 164.\n",
+      "sourceLocation": "pdf:spans:[[48,1301,1332]]"
+    },
+    {
+      "id": "147:p7",
+      "kind": "body",
+      "text": "(10)\n",
+      "sourceLocation": "pdf:spans:[[48,1332,1337]]"
+    }
+  ]
+}

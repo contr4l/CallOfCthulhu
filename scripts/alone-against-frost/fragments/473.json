@@ -1,0 +1,36 @@
+{
+  "id": "473",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "473:p0",
+      "kind": "heading",
+      "text": "473",
+      "sourceLocation": "pdf:visual:[[83,37]]"
+    },
+    {
+      "id": "473:p1",
+      "kind": "body",
+      "text": "First  Sylvia,  and  then  Norman  are  swept  off  the  ledge  and \nflushed  down  the  wild  stream.  You  struggle  back  to  solid \nground and run along the narrow canyon, trying to keep them \nin sight. They hit whitewater and disappear over a ridge.",
+      "sourceLocation": "pdf:visual:[[83,38],[83,39],[83,40],[83,41]]"
+    },
+    {
+      "id": "473:p2",
+      "kind": "body",
+      "text": "You linger in the area for a day or two, searching, hoping that \neither or both of them got out by themselves. You find no tracks.",
+      "sourceLocation": "pdf:visual:[[83,42],[83,43]]"
+    },
+    {
+      "id": "473:p3",
+      "kind": "body",
+      "text": "Go to 67.",
+      "sourceLocation": "pdf:visual:[[83,44]]"
+    },
+    {
+      "id": "473:p4",
+      "kind": "trace",
+      "text": "(217)",
+      "sourceLocation": "pdf:visual:[[83,45]]"
+    }
+  ]
+}

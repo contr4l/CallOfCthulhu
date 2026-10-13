@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "11"
+  ],
+  "text": [
+    "你走进泛着绿意的薄雾。它仿佛紧紧贴在你身上，你就这样走了不远，来到警察局。",
+    "走进这栋小小的砖楼，一股压迫感顿时袭来。这里的墙壁近得让人不舒服，空间十分狭窄。小楼里挤着一张大桌子、几只档案柜和几把椅子；房间后方是一间只有衣橱大小、由铁栏杆围起的拘留室。大桌后面坐着鲍威尔警官，他把脚搁在桌上，抽着雪茄。他的外套敞着，帽子放在一叠文件上，旁边搁着一把破旧的左轮手枪。",
+    "他睁开一只眼，皱眉看着你，隔着雪茄叹了口气，随后坐直身子，让自己看起来体面些。“你现在来烦我，我就当这事很重要。”你提到想看看威廉·哈里斯教授死亡案的警方报告，他嗤了一声。“这事跟你无关。就算有关，这里也是我的辖区。走开，别来烦我。”",
+    "他似乎不愿配合，不过也许你能说服他，让他相信有某种特殊情况，足以让你查阅他的档案。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 11",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 11",
+      "text": [
+        "You step out into the greenish mist. You feel it clinging tightly to you as you make your way the short distance to the police station.",
+        "Upon entering the small brick building, you are struck with a sense of claustrophobia. The walls here are uncomfortably close together and space is tight. Crammed into the tiny structure are a large desk, several filing cabinets, and a few chairs; a closet-sized holding cell with iron bars sits at the rear of the room. Behind the large desk is Officer Powell, smoking a cigar with his feet propped up on the table. His coat is unbuttoned and his hat lies on top of a stack of papers, next to a battered old revolver.",
+        "He opens one eye and frowns at you, sighing through his cigar as he straightens himself up to look presentable. “If you’re bothering me right now, I’m going to assume this is important.” You mention that you would like to see the police report for Prof. William Harris’ death, to which he replies with a snort. “You have no business dealing with that, and even if you did, this is my jurisdiction. Shove off and leave me in peace.”",
+        "He doesn’t seem cooperative, but perhaps you could convince him that you have some special circumstance that warrants you looking through his files."
+      ]
+    }
+  }
+}

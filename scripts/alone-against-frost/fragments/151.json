@@ -1,0 +1,30 @@
+{
+  "id": "151",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "151:p0",
+      "kind": "heading",
+      "text": "151",
+      "sourceLocation": "pdf:visual:[[35,2]]"
+    },
+    {
+      "id": "151:p1",
+      "kind": "body",
+      "text": "You catch up with Norman and Sylvia and cut into the woods. \nFinally, the three of you pause for breath. Norman stares at \nyou as he leans against a tree. “What were those things, Professor? \nWhat happened to Bernard? And Charlie?”",
+      "sourceLocation": "pdf:visual:[[35,4],[35,6],[35,7],[35,9]]"
+    },
+    {
+      "id": "151:p2",
+      "kind": "body",
+      "text": "To circle back and try to find out what happened to your missing \ncomrades, go to 152. To put as much distance between you and the \ncreatures as possible, go to 147.",
+      "sourceLocation": "pdf:visual:[[35,11],[35,12],[35,14]]"
+    },
+    {
+      "id": "151:p3",
+      "kind": "trace",
+      "text": "(150)",
+      "sourceLocation": "pdf:visual:[[35,15]]"
+    }
+  ]
+}

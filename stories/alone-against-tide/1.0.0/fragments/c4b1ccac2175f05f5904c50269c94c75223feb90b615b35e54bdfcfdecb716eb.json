@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "196"
+  ],
+  "text": [
+    "你登上楼梯顶端，来到钟楼上，俯瞰着迅速被洪水淹没、笼罩在雾中的小镇。你望向湖面，那里已不再被雾气覆盖。湖面在异常巨大的波浪下诡异地起伏，翻腾的水面映出繁星与渐盈凸月。",
+    "你终于暂时身处相对安全的地方，有片刻可以停下来思考。你深吸一口气，低头沉思——或许是在祈祷。你的思绪纷乱，但最后有一个念头浮现出来，决定了你接下来的行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 196",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 196",
+      "text": [
+        "On reaching the top of the stairs, you emerge into the belfry and find yourself looking down on the rapidly-flooding, fog- shrouded town. You glance out at the lake, which is no longer covered by the fog. You see the surface swelling and falling strangely beneath unnaturally massive waves, as well as the stars and gibbous moon reflected in the seething water.",
+        "Finding yourself in relative safety, you finally have a moment to pause and reflect. You take a deep breath, bowing your head in thought— or, perhaps, prayer. Your mind is in a whirl but, eventually, a single thought breaks through, determining your course of action."
+      ]
+    }
+  }
+}

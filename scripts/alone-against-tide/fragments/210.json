@@ -1,0 +1,72 @@
+{
+  "id": "210",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "210:p0",
+      "kind": "heading",
+      "text": "210\n",
+      "sourceLocation": "pdf:spans:[[67,1868,1872]]"
+    },
+    {
+      "id": "210:p1",
+      "kind": "body",
+      "text": "You stand over the table of curious artifacts, confident that they \nhave something to do with the strange events in Esbury. You \ndecide it’s best to look them over and glean what information \nyou can from them.\n",
+      "sourceLocation": "pdf:spans:[[67,1872,1940],[67,1940,2001],[67,2001,2064],[67,2064,2083]]"
+    },
+    {
+      "id": "210:p2",
+      "kind": "body",
+      "text": "You begin by leafing through the stack of notes. You realize \nthey contain some of the same characters that are written on \nsome of the ancient items. You may be able to use these notes \nto assist in any translation attempts you wish to make.\n",
+      "sourceLocation": "pdf:spans:[[67,2083,2145],[67,2145,2207],[67,2207,2270],[67,2270,2326]]"
+    },
+    {
+      "id": "210:p3",
+      "kind": "body",
+      "text": "There is also an empty sack on the table that was used to \nbring these relics here. You are free to load them back up and \ntake them with you.\nAfter examining each item, it will be added to your inventory \nand you will be redirected back to this entry or given the option to \nproceed as appropriate. You should not select any option more than \nonce. When you are ready, feel free to leave.\n",
+      "sourceLocation": "pdf:spans:[[68,26,85],[68,85,149],[68,149,169],[68,169,232],[68,232,302],[68,302,370],[68,370,416]]"
+    },
+    {
+      "id": "210:p4",
+      "kind": "body",
+      "text": "• If you want to look over the journal, go to 240.\n",
+      "sourceLocation": "pdf:spans:[[68,416,467]]"
+    },
+    {
+      "id": "210:p5",
+      "kind": "body",
+      "text": "• If you want to look over the clay cylinders, go to 218.\n",
+      "sourceLocation": "pdf:spans:[[68,467,525]]"
+    },
+    {
+      "id": "210:p6",
+      "kind": "body",
+      "text": "• If you want to look over the gemstone altar, go to 230.\n",
+      "sourceLocation": "pdf:spans:[[68,525,583]]"
+    },
+    {
+      "id": "210:p7",
+      "kind": "body",
+      "text": "• If you want to look over the idol, go to 195.\n",
+      "sourceLocation": "pdf:spans:[[68,583,631]]"
+    },
+    {
+      "id": "210:p8",
+      "kind": "body",
+      "text": "• To check the bedroom upstairs, go to 202.\n",
+      "sourceLocation": "pdf:spans:[[68,631,675]]"
+    },
+    {
+      "id": "210:p9",
+      "kind": "body",
+      "text": "• To leave the house, go to 181.\n",
+      "sourceLocation": "pdf:spans:[[68,675,708]]"
+    },
+    {
+      "id": "210:p10",
+      "kind": "body",
+      "text": "(133, 156, 178, 195, 204, 218, 230, 240)\n",
+      "sourceLocation": "pdf:spans:[[68,708,749]]"
+    }
+  ]
+}

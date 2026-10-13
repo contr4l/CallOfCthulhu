@@ -1,0 +1,36 @@
+{
+  "id": "55",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "55:p0",
+      "kind": "heading",
+      "text": "55",
+      "sourceLocation": "pdf:visual:[[20,24]]"
+    },
+    {
+      "id": "55:p1",
+      "kind": "body",
+      "text": "The legendary mists of the North Hanninah press in. By day, \nyou cannot see the sun, and by night the stars are obscured. \nSome magnetic anomaly also affects your compass. Whether it \nis the proximity to the pole or some other reason, you cannot \nsay, but your party has gotten itself lost and you have no idea in \nwhich direction the river lies.",
+      "sourceLocation": "pdf:visual:[[20,25],[20,26],[20,27],[20,28],[20,29],[20,30]]"
+    },
+    {
+      "id": "55:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 413; if you fail, go to 132.",
+      "sourceLocation": "pdf:visual:[[20,31]]"
+    },
+    {
+      "id": "55:p3",
+      "kind": "trace",
+      "text": "(600, 601)",
+      "sourceLocation": "pdf:visual:[[20,32]]"
+    },
+    {
+      "id": "55:p4",
+      "kind": "body",
+      "text": "19",
+      "sourceLocation": "pdf:visual:[[20,33]]"
+    }
+  ]
+}

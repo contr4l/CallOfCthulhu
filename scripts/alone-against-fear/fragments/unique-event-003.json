@@ -1,0 +1,183 @@
+{
+  "id": "unique-event-003",
+  "paragraphs": [
+    {
+      "id": "unique-event-003:p0000",
+      "kind": "body",
+      "text": "# 3 - Possessed car\n",
+      "sourceLocation": "pdf:spans:[[77,2014,2034]]"
+    },
+    {
+      "id": "unique-event-003:p0001",
+      "kind": "body",
+      "text": "As you walk down the street, an\n",
+      "sourceLocation": "pdf:spans:[[77,2034,2066]]"
+    },
+    {
+      "id": "unique-event-003:p0002",
+      "kind": "body",
+      "text": "ominous-looking black car revs up\n",
+      "sourceLocation": "pdf:spans:[[77,2066,2100]]"
+    },
+    {
+      "id": "unique-event-003:p0003",
+      "kind": "body",
+      "text": "and charges at you. Make a L4 Save,",
+      "sourceLocation": "pdf:spans:[[77,2100,2135]]"
+    },
+    {
+      "id": "unique-event-003:p0004",
+      "kind": "body",
+      "text": "at +1 if you are Agile, +2 if  Agile at\n",
+      "sourceLocation": "pdf:spans:[[78,22,62]]"
+    },
+    {
+      "id": "unique-event-003:p0005",
+      "kind": "body",
+      "text": "Expert level. If you fail, lose 2 Life.\n",
+      "sourceLocation": "pdf:spans:[[78,62,102]]"
+    },
+    {
+      "id": "unique-event-003:p0006",
+      "kind": "body",
+      "text": "If you pass the first save, you may\n",
+      "sourceLocation": "pdf:spans:[[78,102,138]]"
+    },
+    {
+      "id": "unique-event-003:p0007",
+      "kind": "body",
+      "text": "move out of the street and avoid\n",
+      "sourceLocation": "pdf:spans:[[78,138,171]]"
+    },
+    {
+      "id": "unique-event-003:p0008",
+      "kind": "body",
+      "text": "further attacks. If the car hits you,\n",
+      "sourceLocation": "pdf:spans:[[78,171,209]]"
+    },
+    {
+      "id": "unique-event-003:p0009",
+      "kind": "body",
+      "text": "you are knocked down and the car\n",
+      "sourceLocation": "pdf:spans:[[78,209,242]]"
+    },
+    {
+      "id": "unique-event-003:p0010",
+      "kind": "body",
+      "text": "will try to run over you (make\n",
+      "sourceLocation": "pdf:spans:[[78,242,273]]"
+    },
+    {
+      "id": "unique-event-003:p0011",
+      "kind": "body",
+      "text": "another Save as above, with the\n",
+      "sourceLocation": "pdf:spans:[[78,273,305]]"
+    },
+    {
+      "id": "unique-event-003:p0012",
+      "kind": "body",
+      "text": "same consequences).\n",
+      "sourceLocation": "pdf:spans:[[78,305,325]]"
+    },
+    {
+      "id": "unique-event-003:p0013",
+      "kind": "body",
+      "text": "If you have a grenade, you may use\n",
+      "sourceLocation": "pdf:spans:[[78,325,360]]"
+    },
+    {
+      "id": "unique-event-003:p0014",
+      "kind": "body",
+      "text": "it to destroy the car and recover 1\n",
+      "sourceLocation": "pdf:spans:[[78,360,396]]"
+    },
+    {
+      "id": "unique-event-003:p0015",
+      "kind": "body",
+      "text": "Sanity as you do so. If you destroy\n",
+      "sourceLocation": "pdf:spans:[[78,396,432]]"
+    },
+    {
+      "id": "unique-event-003:p0016",
+      "kind": "body",
+      "text": "the car, that is a 1 in 6 chance of a\n",
+      "sourceLocation": "pdf:spans:[[78,432,470]]"
+    },
+    {
+      "id": "unique-event-003:p0017",
+      "kind": "body",
+      "text": "demon appearing and attacking\n",
+      "sourceLocation": "pdf:spans:[[78,470,500]]"
+    },
+    {
+      "id": "unique-event-003:p0018",
+      "kind": "body",
+      "text": "you.\n",
+      "sourceLocation": "pdf:spans:[[78,500,505]]"
+    },
+    {
+      "id": "unique-event-003:p0019",
+      "kind": "body",
+      "text": "Demon, L6, 8 Life, flying (you may\n",
+      "sourceLocation": "pdf:spans:[[78,505,540]]"
+    },
+    {
+      "id": "unique-event-003:p0020",
+      "kind": "body",
+      "text": "not escape from this fight).\n",
+      "sourceLocation": "pdf:spans:[[78,540,569]]"
+    },
+    {
+      "id": "unique-event-003:p0021",
+      "kind": "body",
+      "text": "Susceptible to holy water and\n",
+      "sourceLocation": "pdf:spans:[[78,569,599]]"
+    },
+    {
+      "id": "unique-event-003:p0022",
+      "kind": "body",
+      "text": "exorcism. When the demon first\n",
+      "sourceLocation": "pdf:spans:[[78,599,630]]"
+    },
+    {
+      "id": "unique-event-003:p0023",
+      "kind": "body",
+      "text": "appears, save vs. L4 Fear or lose 1\n",
+      "sourceLocation": "pdf:spans:[[78,630,666]]"
+    },
+    {
+      "id": "unique-event-003:p0024",
+      "kind": "body",
+      "text": "Sanity.\n",
+      "sourceLocation": "pdf:spans:[[78,666,674]]"
+    },
+    {
+      "id": "unique-event-003:p0025",
+      "kind": "body",
+      "text": "If you destroy the car, you find 1\n",
+      "sourceLocation": "pdf:spans:[[78,674,709]]"
+    },
+    {
+      "id": "unique-event-003:p0026",
+      "kind": "body",
+      "text": "random enchanted item in the\n",
+      "sourceLocation": "pdf:spans:[[78,709,738]]"
+    },
+    {
+      "id": "unique-event-003:p0027",
+      "kind": "body",
+      "text": "wrecked vehicle (roll on the\n",
+      "sourceLocation": "pdf:spans:[[78,738,767]]"
+    },
+    {
+      "id": "unique-event-003:p0028",
+      "kind": "body",
+      "text": "Enchanted Item table).\n",
+      "sourceLocation": "pdf:spans:[[78,767,790]]"
+    }
+  ],
+  "sourcePages": [
+    77,
+    78
+  ]
+}

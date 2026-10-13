@@ -1,0 +1,30 @@
+{
+  "id": "173",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "173:p0",
+      "kind": "heading",
+      "text": "173",
+      "sourceLocation": "pdf:visual:[[39,2]]"
+    },
+    {
+      "id": "173:p1",
+      "kind": "body",
+      "text": "The abominable ritual below holds a strange fascination. But \nyou do not feel entirely in control of yourself.",
+      "sourceLocation": "pdf:visual:[[39,4],[39,6]]"
+    },
+    {
+      "id": "173:p2",
+      "kind": "body",
+      "text": "To keep watching, go to 253. To flee from here while you still can, \ngo to 250. ",
+      "sourceLocation": "pdf:visual:[[39,8],[39,9]]"
+    },
+    {
+      "id": "173:p3",
+      "kind": "trace",
+      "text": "(152)",
+      "sourceLocation": "pdf:visual:[[39,11]]"
+    }
+  ]
+}

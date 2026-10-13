@@ -1,0 +1,54 @@
+{
+  "id": "39",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "39:p0",
+      "kind": "heading",
+      "text": "39\n",
+      "sourceLocation": "pdf:spans:[[19,927,930]]"
+    },
+    {
+      "id": "39:p1",
+      "kind": "body",
+      "text": "You attempt to speak kindly to Amelia, trying to soothe her \nregarding the frightening events that have just occurred. \nDespite your best efforts, she appears inconsolable. Between \nher sobs, she tries to offer a feeble explanation. “It was Josh… \nH-he was only trying to h-help…” She continues crying, lost in \nher fear.\n",
+      "sourceLocation": "pdf:spans:[[19,930,991],[19,991,1050],[19,1050,1112],[19,1112,1178],[19,1178,1242],[19,1242,1252]]"
+    },
+    {
+      "id": "39:p2",
+      "kind": "body",
+      "text": "It doesn’t seem like she’ll be much use to you at the moment.\n",
+      "sourceLocation": "pdf:spans:[[19,1252,1314]]"
+    },
+    {
+      "id": "39:p3",
+      "kind": "body",
+      "text": "• To search the premises, go to 7.\n",
+      "sourceLocation": "pdf:spans:[[19,1314,1349]]"
+    },
+    {
+      "id": "39:p4",
+      "kind": "body",
+      "text": "• To tie up Officer Powell in case he wakes up, go to 68.\n",
+      "sourceLocation": "pdf:spans:[[19,1349,1407]]"
+    },
+    {
+      "id": "39:p5",
+      "kind": "body",
+      "text": "• To tie up Amelia, go to 125.\n",
+      "sourceLocation": "pdf:spans:[[19,1407,1438]]"
+    },
+    {
+      "id": "39:p6",
+      "kind": "body",
+      "text": "• To simply make good on your escape, go to 111.\n",
+      "sourceLocation": "pdf:spans:[[19,1438,1487]]"
+    },
+    {
+      "id": "39:p7",
+      "kind": "body",
+      "text": "(76, 99)\n",
+      "sourceLocation": "pdf:spans:[[19,1487,1496]]"
+    }
+  ]
+}

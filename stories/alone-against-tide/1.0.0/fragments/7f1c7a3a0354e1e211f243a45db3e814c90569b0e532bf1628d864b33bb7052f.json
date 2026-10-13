@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "219"
+  ],
+  "text": [
+    "你的意识再次模糊起来，仿佛又进入梦境。你在脑海中看见那座奇怪的城市。眼前的景象掠过异国商人之间交易贵金属的场面。银盘和金币在买家与卖家之间转手，然后被装进袋子和箱子。你无形地掠过城市，来到周围的土地，看见居民排成队列，把贵金属从矿井运往城市。你漂浮在这一切之上，望向湖泊，感受到其中沉郁的憎恨与厌恶。",
+    "你凝视着偶像发出的光，意识瞬间回到现实。你把那些贵金属与这只怪诞蜥蜴状生物的蔑视联系起来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 219",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 219",
+      "text": [
+        "Your mind clouds over once more, as if dreaming again. You see the strange city in your mind’s eye. Your vision passes over precious metals changing hands between exotic merchants. Disks of silver and gold move from buyer to seller before disappearing into bags and boxes. You glide formlessly over the city and out into the surrounding lands, where you see the citizens marching in lines, carrying precious metals to the city from the mines. You float above it all and look out to the lake, where you sense brooding hatred and disgust.",
+        "Your awareness snaps back to reality as you stare into the idol’s light. You make the connection between those precious metals and this grotesque lizard-thing’s disdain."
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "95",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "95:p0",
+      "kind": "heading",
+      "text": "95\n",
+      "sourceLocation": "pdf:spans:[[33,1038,1041]]"
+    },
+    {
+      "id": "95:p1",
+      "kind": "body",
+      "text": "You fire wildly at the creature before you, unnerved by its \npresence. You want nothing more than to pull the trigger of \nyour weapon and send this thing into oblivion.\n",
+      "sourceLocation": "pdf:spans:[[33,1041,1102],[33,1102,1163],[33,1163,1210]]"
+    },
+    {
+      "id": "95:p2",
+      "kind": "body",
+      "text": "Unfortunately, you have no such luck. You fire shot after \nshot, but they all fly harmlessly wide of the monstrosity. Your \nbullets are lost to the mist.\n",
+      "sourceLocation": "pdf:spans:[[33,1210,1269],[33,1269,1334],[33,1334,1364]]"
+    },
+    {
+      "id": "95:p3",
+      "kind": "body",
+      "text": "You panic and scream as the thing falls on you, pinning you \nto the ground while it digs at your face with its slender and \nmisshapen fingers. The abomination’s fingernails rake across \nyour face, drawing blood. You bash helplessly against the thing \nwith the butt of your gun.\n",
+      "sourceLocation": "pdf:spans:[[33,1364,1425],[33,1425,1488],[33,1488,1550],[33,1550,1615],[33,1615,1642]]"
+    },
+    {
+      "id": "95:p4",
+      "kind": "body",
+      "text": "Even though you feel yourself doing considerable harm to \nthe flimsy flesh of its swollen body, in the end, it’s just not \nenough. You remain trapped beneath its weight. It lays atop \nyou, slowly stripping the flesh from your face with its bony \nfingers. You fight against it and scream in agony with every \nrake of its blunted fingernails, but there’s nothing you can do. \nYou are gradually mauled to death by the unholy thing.\nYou have died. You may try again and hope for a more favorable \noutcome, but for now, you have been claimed by whatever horrors \nlurk in this cursed town. Your visit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[33,1642,1700],[33,1700,1765],[33,1765,1826],[33,1826,1888],[33,1888,1950],[33,1950,2016],[33,2016,2071],[33,2071,2135],[33,2135,2200],[33,2200,2266]]"
+    },
+    {
+      "id": "95:p5",
+      "kind": "body",
+      "text": "(162)\n",
+      "sourceLocation": "pdf:spans:[[33,2266,2272]]"
+    }
+  ]
+}

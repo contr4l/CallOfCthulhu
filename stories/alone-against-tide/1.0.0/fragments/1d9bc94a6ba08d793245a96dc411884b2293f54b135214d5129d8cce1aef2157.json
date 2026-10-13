@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "22"
+  ],
+  "text": [
+    "你穿过舞厅里众多宾客，朝舞台走去。你的目光牢牢锁定那名女子；她从偷看某件藏起的物品时抬起头来，与你四目相对。你走近时，她停下手头的事，唇边浮现笑意，显然注意到你被她吸引了。",
+    "你走到舞台前时，她把左手搭在腰上。她身后的老人继续检查物品，似乎没注意到你来打扰，或根本不在意。女子俯身靠近舞台边缘。尽管她刚刚守寡不久，你仍看得出她的妆容经过了精心修饰。",
+    "你清了清嗓子，与她对视，然后立刻作了自我介绍。她正式地向你伸出手。“哎呀，镇上来了张新面孔？”她打趣道，“这里常有新面孔呢。你肯定是打算竞拍我已故丈夫的一些东西吧。对咱们俩都有好处，我说得没错吧？不过，记得给我这个可怜的小女人报个好价，好吗？”她狡黠地朝你眨眨眼。",
+    "你意识到这是从她口中打听更多消息的好时机；她或许是最了解你关心之事的人。她看起来很会调情，想必也会对类似的调情方式有所回应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 22",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 22",
+      "text": [
+        "You make your way to the stage, navigating around the many guests in the dance hall. Your eyes lock firmly on the woman, and hers rise to meet yours as she looks up from peeking at one of the hidden objects. She stops what she’s doing as you approach and a smile appears on her lips as she notices that she’s caught your eye.",
+        "She rests her left hand on her hip as you come to stand at the foot of the stage. The old man behind her continues his inspections, either unaware or uncaring that you’ve come to distract them. The woman leans toward you over the edge of the stage. You can see her makeup has been painstakingly applied, despite her status as a recent widow.",
+        "You clear your throat as you meet her gaze, and promptly introduce yourself. She extends her hand to you formally. “Well, aren’t you a new face in town?” she teases. “We get those quite a bit here. No doubt you plan to bid on some of my late husband’s things. Good for both of us, I say. Just be sure to give a good price for little old me, alright?” She winks slyly at you.",
+        "You realize now would be a good time to get some more information from this woman who might be the most well- informed regarding your interests. She certainly seems like the flirty sort and would probably respond well to more of the same."
+      ]
+    }
+  }
+}

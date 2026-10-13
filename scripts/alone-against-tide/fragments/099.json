@@ -1,0 +1,72 @@
+{
+  "id": "99",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "99:p0",
+      "kind": "heading",
+      "text": "99\n",
+      "sourceLocation": "pdf:spans:[[34,2828,2831]]"
+    },
+    {
+      "id": "99:p1",
+      "kind": "body",
+      "text": "You turn your weapon in Amelia’s general direction and \ndemand that she explain the meaning of everything.\n",
+      "sourceLocation": "pdf:spans:[[34,2831,2887],[34,2887,2938]]"
+    },
+    {
+      "id": "99:p2",
+      "kind": "body",
+      "text": "She begins to cry, the tears smearing her makeup. She tries \nto speak but ends up stuttering and stammering until you \nmenacingly take a step in her direction. She cowers once more \nand begins blurting out the first thing that comes to mind.\n",
+      "sourceLocation": "pdf:spans:[[34,2938,2999],[34,2999,3057],[34,3057,3120],[34,3120,3180]]"
+    },
+    {
+      "id": "99:p3",
+      "kind": "body",
+      "text": "“It was Joshua! He put the policeman up to it! H-he protects me. He \nloves me…” She trails off and falls to the floor in a weeping mess.\n",
+      "sourceLocation": "pdf:spans:[[34,3180,3249],[34,3249,3317]]"
+    },
+    {
+      "id": "99:p4",
+      "kind": "body",
+      "text": "She is too upset to be of any further use to you at the moment.\n",
+      "sourceLocation": "pdf:spans:[[34,3317,3381]]"
+    },
+    {
+      "id": "99:p5",
+      "kind": "body",
+      "text": "• To attempt to calm Amelia down, make a Persuade roll: if you \nsucceed, go to 85; if you fail, go to 39.\n",
+      "sourceLocation": "pdf:spans:[[34,3381,3445],[34,3445,3487]]"
+    },
+    {
+      "id": "99:p6",
+      "kind": "body",
+      "text": "• To search the premises, go to 7.\n",
+      "sourceLocation": "pdf:spans:[[34,3487,3522]]"
+    },
+    {
+      "id": "99:p7",
+      "kind": "body",
+      "text": "• To tie up Officer Powell in case he wakes up, go to 68.\n",
+      "sourceLocation": "pdf:spans:[[34,3522,3580]]"
+    },
+    {
+      "id": "99:p8",
+      "kind": "body",
+      "text": "• To tie up Amelia in case she does anything irrational, go to 125.\n",
+      "sourceLocation": "pdf:spans:[[34,3580,3648]]"
+    },
+    {
+      "id": "99:p9",
+      "kind": "body",
+      "text": "• To simply make good on your escape, go to 111.\n",
+      "sourceLocation": "pdf:spans:[[34,3648,3697]]"
+    },
+    {
+      "id": "99:p10",
+      "kind": "body",
+      "text": "(76)\n",
+      "sourceLocation": "pdf:spans:[[34,3697,3702]]"
+    }
+  ]
+}

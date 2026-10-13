@@ -1,0 +1,42 @@
+{
+  "id": "464",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "464:p0",
+      "kind": "heading",
+      "text": "464",
+      "sourceLocation": "pdf:visual:[[81,75]]"
+    },
+    {
+      "id": "464:p1",
+      "kind": "body",
+      "text": "You hear a tiny yelp of alarm, quickly cut off. It is so brief that \nyou can almost convince yourself that it is an animal call. But \ninstinct speeds you back to camp.",
+      "sourceLocation": "pdf:visual:[[81,76],[81,77],[81,78]]"
+    },
+    {
+      "id": "464:p2",
+      "kind": "body",
+      "text": "Twenty minutes ago, Bernard lay almost comatose. Now he \nstands erect in the middle of the camp, hands locked around \nSylvia’s neck.",
+      "sourceLocation": "pdf:visual:[[81,79],[81,80],[81,81]]"
+    },
+    {
+      "id": "464:p3",
+      "kind": "body",
+      "text": "You strike him in the kidneys. He doesn’t even turn his head. \nHe seems to have no feeling at all. Norman rushes to your aid.",
+      "sourceLocation": "pdf:visual:[[81,82],[81,83]]"
+    },
+    {
+      "id": "464:p4",
+      "kind": "body",
+      "text": "Bernard has inflicted 1D6 damage on Sylvia already. To rip him \naway, you must win an opposed STR roll against his STR of 110—\nNorman’s assistance grants you a bonus die. You may try repeatedly, \nbut each time you fail, Sylvia suffers another 1D6 damage. If you \ncan save her in time, go to 465. If not, go to 466.",
+      "sourceLocation": "pdf:visual:[[81,84],[81,85],[81,86],[81,87],[81,88]]"
+    },
+    {
+      "id": "464:p5",
+      "kind": "trace",
+      "text": "(463)",
+      "sourceLocation": "pdf:visual:[[81,89]]"
+    }
+  ]
+}

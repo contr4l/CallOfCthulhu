@@ -1,0 +1,30 @@
+{
+  "id": "638",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "638:p0",
+      "kind": "heading",
+      "text": "638",
+      "sourceLocation": "pdf:visual:[[106,59]]"
+    },
+    {
+      "id": "638:p1",
+      "kind": "body",
+      "text": "A blast from the creature’s device strikes Bernard squarely in \nthe back. He gives a stifled cry and falls on his face. The flyer \nwheels and turns its attention to Sylvia.",
+      "sourceLocation": "pdf:visual:[[106,60],[106,61],[106,62]]"
+    },
+    {
+      "id": "638:p2",
+      "kind": "body",
+      "text": "Make a Dodge roll for Sylvia: if she succeeds, go to 640; if she fails, \ngo to 641.",
+      "sourceLocation": "pdf:visual:[[106,63],[106,64]]"
+    },
+    {
+      "id": "638:p3",
+      "kind": "trace",
+      "text": "(637)",
+      "sourceLocation": "pdf:visual:[[106,65]]"
+    }
+  ]
+}

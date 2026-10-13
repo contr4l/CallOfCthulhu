@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "65-lock",
+    "65-talk",
+    "65"
+  ],
+  "text": [
+    "那名警官带着武器，怒气冲冲，你觉得最好不要反抗。他用枪指着你，把你押出房子，带进病态般的绿色雾气中。你经过阿米莉娅身边时，她什么也没说、什么也没做，只是一直盯着你。",
+    "在哈里斯家宅外的街上，你看见约书亚正疯狂地咧嘴笑。他与你四目相对，笑容又扩大了几分。是他指使鲍威尔警官这么做的，他甚至不打算掩饰。你仍不明白他为什么这么做，但至少可以确定约书亚对你怀有敌意，而且鲍威尔受他控制。",
+    "你一边思索，一边被押着穿过雾蒙蒙的街道，带到警察局。你被领进昏暗肮脏的房间，推进远处墙边一间只有衣橱大小的牢房。鲍威尔警官转动钥匙，把你锁在里面。他坐回椅子上，不再理会你，开始抽雪茄。",
+    "他似乎不打算很快放你出去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 65",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 65",
+      "text": [
+        "The officer is armed and angry, so you decide it’s probably best not to resist. You’re escorted out of the house at gunpoint and into the sickly green fog. Amelia neither says nor does anything as you pass. She simply stares at you as you go.",
+        "On the street, just outside the Harris property, you spot Joshua, grinning madly. His eyes meet yours and his smile gets just a bit wider. He put Officer Powell up to this. He’s not even trying to hide it. That still doesn’t explain why, but at least you know for a certainty that Joshua is not friendly to you, and that he has Powell in his pocket.",
+        "You mull this over as you’re marched through the misty streets and taken to the police station. You’re ushered into the dim and dingy room and shoved into a closet-sized cell on the far wall. Officer Powell turns the key in the lock, sealing you in the cell. He settles into his seat and pays you no further mind as he begins puffing on a cigar.",
+        "He seems to have no intention of letting you go any time soon."
+      ]
+    }
+  }
+}

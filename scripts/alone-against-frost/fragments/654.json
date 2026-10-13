@@ -1,0 +1,30 @@
+{
+  "id": "654",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "654:p0",
+      "kind": "heading",
+      "text": "654",
+      "sourceLocation": "pdf:visual:[[108,63]]"
+    },
+    {
+      "id": "654:p1",
+      "kind": "body",
+      "text": "By a stroke of luck, your party stumbles upon an abandoned \ncabin stocked with rusty but edible tins of food. This happy \ndiscovery solves your food problem for the time being. There \nis  no  trace  of  the  person  who  built  the  cabin—probably  a \nprospector or hunter who fell victim to the hazards of the valley.",
+      "sourceLocation": "pdf:visual:[[108,64],[108,65],[108,66],[108,67],[108,68]]"
+    },
+    {
+      "id": "654:p2",
+      "kind": "body",
+      "text": "You may make an improvement check for your Luck score to gain \n1D10 Luck points. Go to 77.",
+      "sourceLocation": "pdf:visual:[[108,69],[108,70]]"
+    },
+    {
+      "id": "654:p3",
+      "kind": "trace",
+      "text": "(324)",
+      "sourceLocation": "pdf:visual:[[108,71]]"
+    }
+  ]
+}

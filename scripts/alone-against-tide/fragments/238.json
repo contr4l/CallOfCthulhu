@@ -1,0 +1,42 @@
+{
+  "id": "238",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "238:p0",
+      "kind": "heading",
+      "text": "238\n",
+      "sourceLocation": "pdf:spans:[[76,26,30]]"
+    },
+    {
+      "id": "238:p1",
+      "kind": "body",
+      "text": "You prowl the town, hoping desperately to find some source or \nclue. The water rises, and soon it’s past your ankles. You splash \nthrough the streets, clinging to hope.\n",
+      "sourceLocation": "pdf:spans:[[76,30,93],[76,93,160],[76,160,199]]"
+    },
+    {
+      "id": "238:p2",
+      "kind": "body",
+      "text": "It seems your faith was not misplaced. As you move through \nthe mist, a man slams into you. You recognize him to be one of \nthe dark-suited gentlemen from the ferry yesterday. The man is \nwide-eyed and pale. He carries a gun in one hand and drags a \nsizable object beside him through the rising water. You glance \ndown and see it is an altarpiece, with bright jewels studded \nacross its surface. You also notice a sack bulging with heavy \ngoods tied about his waist. The man fixes his wild eyes upon \nyou. “What are you doing!? We have to run! They’re coming for us! \nFor everyone! We have to go!”\n",
+      "sourceLocation": "pdf:spans:[[76,199,259],[76,259,323],[76,323,387],[76,387,449],[76,449,513],[76,513,575],[76,575,638],[76,638,700],[76,700,767],[76,767,797]]"
+    },
+    {
+      "id": "238:p3",
+      "kind": "body",
+      "text": "The man seems ready to panic, but perhaps you can calm him.\n",
+      "sourceLocation": "pdf:spans:[[76,797,857]]"
+    },
+    {
+      "id": "238:p4",
+      "kind": "body",
+      "text": "• Make a Persuade roll: if you succeed, go to 216; if you fail, go to 241.\n",
+      "sourceLocation": "pdf:spans:[[76,859,934]]"
+    },
+    {
+      "id": "238:p5",
+      "kind": "body",
+      "text": "(200)\n",
+      "sourceLocation": "pdf:spans:[[76,934,940]]"
+    }
+  ]
+}

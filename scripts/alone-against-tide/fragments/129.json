@@ -1,0 +1,42 @@
+{
+  "id": "129",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "129:p0",
+      "kind": "heading",
+      "text": "129\n",
+      "sourceLocation": "pdf:spans:[[42,1465,1469]]"
+    },
+    {
+      "id": "129:p1",
+      "kind": "body",
+      "text": "You take a step toward the man. He hears your approach and \nrounds on you, swinging wildly with a shout of surprise.\n",
+      "sourceLocation": "pdf:spans:[[42,1469,1529],[42,1529,1586]]"
+    },
+    {
+      "id": "129:p2",
+      "kind": "body",
+      "text": "His fist catches you in the chest and sends you sprawling \nbackward. He throws himself on top of you, landing blow after \nblow with his fists. You raise your arms to fend off the worst of \nhis fury as he works you over. Amid the confusion, you glance \nup to see the monk running out of the room.\n",
+      "sourceLocation": "pdf:spans:[[42,1586,1645],[42,1645,1708],[42,1708,1775],[42,1775,1838],[42,1838,1882]]"
+    },
+    {
+      "id": "129:p3",
+      "kind": "body",
+      "text": "Finally, the man in the suit grabs you by the collar and begins \nslamming you violently against the floor. It takes only a few \nsuch blows before you lose consciousness.\n",
+      "sourceLocation": "pdf:spans:[[42,1882,1947],[42,1947,2010],[42,2010,2052]]"
+    },
+    {
+      "id": "129:p4",
+      "kind": "body",
+      "text": "• Go to 138.\n",
+      "sourceLocation": "pdf:spans:[[42,2052,2065]]"
+    },
+    {
+      "id": "129:p5",
+      "kind": "body",
+      "text": "(142)\n",
+      "sourceLocation": "pdf:spans:[[42,2065,2071]]"
+    }
+  ]
+}

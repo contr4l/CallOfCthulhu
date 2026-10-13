@@ -1,0 +1,42 @@
+{
+  "id": "228",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "228:p0",
+      "kind": "heading",
+      "text": "228",
+      "sourceLocation": "pdf:visual:[[47,13]]"
+    },
+    {
+      "id": "228:p1",
+      "kind": "body",
+      "text": "Your longer legs decisively outstrip the tiny man. You reach \nout, clench him firmly around the arm, and yank him off \nhis feet.",
+      "sourceLocation": "pdf:visual:[[47,15],[47,17],[47,18]]"
+    },
+    {
+      "id": "228:p2",
+      "kind": "body",
+      "text": "The  man’s  distress  drops  in  an  instant.  He  snarls  and \ncomes at you in a rage. Professional ethics require you to \ntake him alive.",
+      "sourceLocation": "pdf:visual:[[47,20],[47,21],[47,23]]"
+    },
+    {
+      "id": "228:p3",
+      "kind": "body",
+      "text": "Your  opponent’s  Fighting  (Brawl)  skill  is  50%  (25/10)  and  he \nsimply tries to pummel you into unconsciousness. He acts first and \nhis blows deal 1D3 damage. You may attempt to Dodge against \nhis attacks.",
+      "sourceLocation": "pdf:visual:[[47,25],[47,26],[47,28],[47,29]]"
+    },
+    {
+      "id": "228:p4",
+      "kind": "body",
+      "text": "On  your  turn  in  the  combat,  make  a  combat  maneuver  to \nincapacitate him. If you succeed, his blows deal only 1 damage for \nthe remainder of the fight. If you then succeed in another maneuver \non your next action, go to 281. If you suffer the loss of half or more of \nyour hit points, you are knocked unconscious, go to 229. ",
+      "sourceLocation": "pdf:visual:[[47,30],[47,31],[47,32],[47,33],[47,34]]"
+    },
+    {
+      "id": "228:p5",
+      "kind": "trace",
+      "text": "(196)",
+      "sourceLocation": "pdf:visual:[[47,35]]"
+    }
+  ]
+}

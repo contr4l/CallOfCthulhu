@@ -1,0 +1,30 @@
+{
+  "id": "610",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "610:p0",
+      "kind": "heading",
+      "text": "610",
+      "sourceLocation": "pdf:visual:[[102,71]]"
+    },
+    {
+      "id": "610:p1",
+      "kind": "body",
+      "text": "The sounds and smells of your group defeat any attempt to stalk \ngame, but you find prints in the clay that suggest a large feline \npredator. You leave Norman and Sylvia at the foot of a rocky \nhill and take Bernard on the hunt. You can tell he is suppressing \na boyish excitement.",
+      "sourceLocation": "pdf:visual:[[102,72],[102,73],[102,74],[102,75],[102,76]]"
+    },
+    {
+      "id": "610:p2",
+      "kind": "body",
+      "text": "You track your prey for an hour, hoping for a major kill. Make a \nListen roll: if you succeed, go to 611; if you fail, go to 615.",
+      "sourceLocation": "pdf:visual:[[102,77],[102,78]]"
+    },
+    {
+      "id": "610:p3",
+      "kind": "trace",
+      "text": "(608)",
+      "sourceLocation": "pdf:visual:[[102,79]]"
+    }
+  ]
+}

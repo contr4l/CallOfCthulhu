@@ -1,0 +1,30 @@
+{
+  "id": "245",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "245:p0",
+      "kind": "heading",
+      "text": "245",
+      "sourceLocation": "pdf:visual:[[49,22]]"
+    },
+    {
+      "id": "245:p1",
+      "kind": "body",
+      "text": "You pick Sylvia up off the ground. Her eyes stare through you, \nvacant. Norman sets up camp, attempting to create a familiar \nenvironment. After a few hours in her bedroll, Sylvia seems to \ncome out of it.",
+      "sourceLocation": "pdf:visual:[[49,25],[49,26],[49,27],[49,28]]"
+    },
+    {
+      "id": "245:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 324; if the result is odd, go to 237.",
+      "sourceLocation": "pdf:visual:[[49,29]]"
+    },
+    {
+      "id": "245:p3",
+      "kind": "trace",
+      "text": " (244)",
+      "sourceLocation": "pdf:visual:[[49,30]]"
+    }
+  ]
+}

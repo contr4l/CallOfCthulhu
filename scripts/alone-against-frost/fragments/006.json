@@ -1,0 +1,30 @@
+{
+  "id": "6",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "6:p0",
+      "kind": "heading",
+      "text": "6",
+      "sourceLocation": "pdf:visual:[[10,71]]"
+    },
+    {
+      "id": "6:p1",
+      "kind": "body",
+      "text": "Your skill and your party’s earnest support saves the trip from \nan early disaster. Your group manages to maneuver the canoe \nout of the boil and cross over into another channel, where the \npassage proves much easier.",
+      "sourceLocation": "pdf:visual:[[10,72],[10,73],[10,74],[10,75]]"
+    },
+    {
+      "id": "6:p2",
+      "kind": "body",
+      "text": "Go to 2.",
+      "sourceLocation": "pdf:visual:[[10,76]]"
+    },
+    {
+      "id": "6:p3",
+      "kind": "trace",
+      "text": "(3)",
+      "sourceLocation": "pdf:visual:[[10,77]]"
+    }
+  ]
+}

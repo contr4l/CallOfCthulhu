@@ -1,0 +1,42 @@
+{
+  "id": "233",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "233:p0",
+      "kind": "heading",
+      "text": "233\n",
+      "sourceLocation": "pdf:spans:[[74,1984,1988]]"
+    },
+    {
+      "id": "233:p1",
+      "kind": "body",
+      "text": "You orient yourself along the path and begin moving \nautomatically, slowly but surely covering the ground toward \nyour escape.\n",
+      "sourceLocation": "pdf:spans:[[74,1988,2041],[74,2041,2102],[74,2102,2115]]"
+    },
+    {
+      "id": "233:p2",
+      "kind": "body",
+      "text": "However, the journey proves to be longer than you’d \nanticipated. You march on for hours with no sign of light and \nno sign of reaching the main road. You quickly grow weary, \nthoroughly fatigued by the day’s events.\n",
+      "sourceLocation": "pdf:spans:[[74,2115,2168],[74,2168,2231],[74,2231,2291],[74,2291,2332]]"
+    },
+    {
+      "id": "233:p3",
+      "kind": "body",
+      "text": "Though you fight sleep for some time, you aren’t entirely \ncertain when your eyes finally close. You collapse at the roadside \nin exhaustion.\n",
+      "sourceLocation": "pdf:spans:[[74,2332,2391],[74,2391,2459],[74,2459,2474]]"
+    },
+    {
+      "id": "233:p4",
+      "kind": "body",
+      "text": "Perhaps the area around you flooded. Perhaps an animal \nfound you. Or perhaps you were struck by another car as you \nslept. You don’t know, as you don’t wake up in time to find out \nwhat causes your demise.\nYou have died. You may attempt the story again from the beginning, \nand hopefully, you will achieve a better outcome. But, for now, your \nvisit to Esbury is over. THE END. \n",
+      "sourceLocation": "pdf:spans:[[74,2474,2530],[74,2530,2591],[74,2591,2656],[74,2656,2681],[74,2683,2751],[74,2751,2821],[74,2821,2856]]"
+    },
+    {
+      "id": "233:p5",
+      "kind": "body",
+      "text": "(159)\n",
+      "sourceLocation": "pdf:spans:[[74,2856,2862]]"
+    }
+  ]
+}

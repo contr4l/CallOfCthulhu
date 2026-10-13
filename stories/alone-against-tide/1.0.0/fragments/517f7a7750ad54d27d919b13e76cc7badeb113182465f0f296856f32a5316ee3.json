@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "100"
+  ],
+  "text": [
+    "你觉得这些书页中的知识很可能对你至关重要，于是给出了一个相当公道的价钱。果然，沃伦先生叫到你的名字，把那本皮面大部头塞进你急切伸出的双手。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 100",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 100",
+      "text": [
+        "You feel that the knowledge in these pages could very well prove essential to you, so you offer a price that is more than fair. Sure enough, Mr. Warren calls your name and presses the leather-bound tome into your eager hands."
+      ]
+    }
+  }
+}

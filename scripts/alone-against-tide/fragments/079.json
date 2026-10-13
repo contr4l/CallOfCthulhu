@@ -1,0 +1,36 @@
+{
+  "id": "79",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "79:p0",
+      "kind": "heading",
+      "text": "79\n",
+      "sourceLocation": "pdf:spans:[[29,2352,2355]]"
+    },
+    {
+      "id": "79:p1",
+      "kind": "body",
+      "text": "You rush outside, hoping to catch a glimpse of the thief. As \nyou exit the hotel, you are immediately struck by the lack of \nvisibility. The fog seems to have grown thicker, and although \nyou aren’t certain, it seems as if the sun might be sinking lower \ntoward the horizon. In the green and dusky haze, you pause a \nmoment to listen, knowing your sight will prove useless here.\n",
+      "sourceLocation": "pdf:spans:[[29,2355,2417],[29,2417,2480],[29,2480,2543],[29,2543,2610],[29,2610,2672],[29,2672,2734]]"
+    },
+    {
+      "id": "79:p2",
+      "kind": "body",
+      "text": "The town is still and quiet. There’s nobody out and about near \nyou. No footsteps, no automobiles, no voices. You strain your \nears and focus, entering a near-meditative state, concentrating \nonly on the sounds of your surroundings.\n",
+      "sourceLocation": "pdf:spans:[[29,2734,2798],[29,2798,2861],[29,2861,2926],[29,2926,2967]]"
+    },
+    {
+      "id": "79:p3",
+      "kind": "body",
+      "text": "• Make a Listen roll: if you succeed, go to 114; if you fail, go to 131.\n",
+      "sourceLocation": "pdf:spans:[[29,2969,3042]]"
+    },
+    {
+      "id": "79:p4",
+      "kind": "body",
+      "text": "(134)\n",
+      "sourceLocation": "pdf:spans:[[29,3042,3048]]"
+    }
+  ]
+}

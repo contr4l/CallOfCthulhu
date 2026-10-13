@@ -1,0 +1,30 @@
+{
+  "id": "318",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "318:p0",
+      "kind": "heading",
+      "text": "318",
+      "sourceLocation": "pdf:visual:[[61,35]]"
+    },
+    {
+      "id": "318:p1",
+      "kind": "body",
+      "text": "Your jaw drops open.",
+      "sourceLocation": "pdf:visual:[[61,36]]"
+    },
+    {
+      "id": "318:p2",
+      "kind": "body",
+      "text": "Make a Sanity roll: if you fail, lose 1D6 Sanity. If you manage to \navoid temporary or indefinite insanity, go to  320. Otherwise, the \nanimals of the range flatten you in an almighty stampede, crushing \nyour body. The Nadelmann Expedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[61,37],[61,38],[61,39],[61,40]]"
+    },
+    {
+      "id": "318:p3",
+      "kind": "trace",
+      "text": "(314)",
+      "sourceLocation": "pdf:visual:[[61,41]]"
+    }
+  ]
+}

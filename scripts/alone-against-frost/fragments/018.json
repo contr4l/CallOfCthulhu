@@ -1,0 +1,42 @@
+{
+  "id": "18",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "18:p0",
+      "kind": "heading",
+      "text": "18",
+      "sourceLocation": "pdf:visual:[[13,22]]"
+    },
+    {
+      "id": "18:p1",
+      "kind": "body",
+      "text": "When you turn the canoe toward shore, Charlie grabs your \narm. “Professor. My people avoid this valley. It is under a curse. Do \nnot chase the devils who inhabit it.”",
+      "sourceLocation": "pdf:visual:[[13,24],[13,26],[13,27]]"
+    },
+    {
+      "id": "18:p2",
+      "kind": "body",
+      "text": "It  is  not  the  first  time  you  have  heard  such  superstition \nfrom a guide. But there is an urgency to Charlie’s words that \nunsettles you.",
+      "sourceLocation": "pdf:visual:[[13,29],[13,30],[13,31]]"
+    },
+    {
+      "id": "18:p3",
+      "kind": "body",
+      "text": "To follow her advice, go to 20. To enter the valley, roll 1D10: if the \nresult is even, go to 36; if the result is odd, go to 499.",
+      "sourceLocation": "pdf:visual:[[13,32],[13,33]]"
+    },
+    {
+      "id": "18:p4",
+      "kind": "trace",
+      "text": "(10)",
+      "sourceLocation": "pdf:visual:[[13,34]]"
+    },
+    {
+      "id": "18:p5",
+      "kind": "body",
+      "text": "12",
+      "sourceLocation": "pdf:visual:[[13,35]]"
+    }
+  ]
+}

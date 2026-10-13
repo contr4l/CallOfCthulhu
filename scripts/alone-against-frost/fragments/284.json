@@ -1,0 +1,30 @@
+{
+  "id": "284",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "284:p0",
+      "kind": "heading",
+      "text": "284",
+      "sourceLocation": "pdf:visual:[[55,75]]"
+    },
+    {
+      "id": "284:p1",
+      "kind": "body",
+      "text": "You outdistance the tiny hunters, but when you finally pause for \nbreath, you are quite alone. You do not know whether Norman \nand Sylvia also got away, or where they ended up. Can you \nlocate the lost students?",
+      "sourceLocation": "pdf:visual:[[55,76],[55,77],[55,78],[55,79]]"
+    },
+    {
+      "id": "284:p2",
+      "kind": "body",
+      "text": "Make a Luck roll: if you succeed, go to 316; if you fail, go to 67.",
+      "sourceLocation": "pdf:visual:[[55,80]]"
+    },
+    {
+      "id": "284:p3",
+      "kind": "trace",
+      "text": "(240)",
+      "sourceLocation": "pdf:visual:[[55,81]]"
+    }
+  ]
+}

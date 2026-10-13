@@ -1,0 +1,36 @@
+{
+  "id": "314",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "314:p0",
+      "kind": "heading",
+      "text": "314",
+      "sourceLocation": "pdf:visual:[[60,49]]"
+    },
+    {
+      "id": "314:p1",
+      "kind": "body",
+      "text": "You  cross  an  open  meadow  full  of  grazing  beasts.  In  quiet \nwonder,  you  study  early  species  of  horse,  elephants,  camels, \nantelope, and other such animals. ",
+      "sourceLocation": "pdf:visual:[[60,50],[60,51],[60,52]]"
+    },
+    {
+      "id": "314:p2",
+      "kind": "body",
+      "text": "A shadow glides over the flowering grass ahead of you. The \nanimals let out frightened trumpets and bleats. Whatever the \nflying thing is, it terrifies them!",
+      "sourceLocation": "pdf:visual:[[60,53],[60,54],[60,55]]"
+    },
+    {
+      "id": "314:p3",
+      "kind": "body",
+      "text": "To look up into the sky, go to 318. To get out of the open, go to 363.",
+      "sourceLocation": "pdf:visual:[[60,56]]"
+    },
+    {
+      "id": "314:p4",
+      "kind": "trace",
+      "text": "(213, 292, 313)",
+      "sourceLocation": "pdf:visual:[[60,57]]"
+    }
+  ]
+}

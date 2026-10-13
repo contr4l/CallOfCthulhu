@@ -1,0 +1,30 @@
+{
+  "id": "72",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "72:p0",
+      "kind": "heading",
+      "text": "72\n",
+      "sourceLocation": "pdf:spans:[[27,44,47]]"
+    },
+    {
+      "id": "72:p1",
+      "kind": "body",
+      "text": "You recognize the man’s style of dress to be that of a Buddhist \nmonk. You bow a customary greeting, to which the monk smiles \nand returns the gesture before speaking in heavily accented but \nfluent English. “It is good to see one here with such respect for our \ncustoms. I am Banyu.” His expression turns to a frown as he makes \na sweeping gesture to the rest of the room. “The rest here seem only \nto seek to profit from my culture. Selling the items of my ancestors \nis most shameful.” You respectfully question why he would come \nsuch a long way to witness such a thing, and he sighs before \nturning back to you. “I have come with what money my temple could \ngather so that I might save a certain few of the artifacts. Ones that \nyour Professor Harris stole from my temple in Sarnath when he came \nto visit some years ago.” The monk seems troubled and falls silent. \nHe bows a farewell and you take the cue to leave.\n",
+      "sourceLocation": "pdf:spans:[[27,47,112],[27,112,174],[27,174,239],[27,239,310],[27,310,377],[27,377,447],[27,447,517],[27,517,581],[27,581,643],[27,643,710],[27,710,781],[27,781,849],[27,849,918],[27,918,968]]"
+    },
+    {
+      "id": "72:p2",
+      "kind": "body",
+      "text": "• Go to 17. \n",
+      "sourceLocation": "pdf:spans:[[27,968,981]]"
+    },
+    {
+      "id": "72:p3",
+      "kind": "body",
+      "text": "(102)\n",
+      "sourceLocation": "pdf:spans:[[27,981,987]]"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "226"
+  ],
+  "text": [
+    "你伸手去拿枪，迅速拔了出来，却被一只可怕的绿色生物那膨胀的巨大身体撞得脱手。枪啪地掉进上涨的水里，消失在更多怪异生物摇晃挪动的身影之间。",
+    "你尽力反抗它们，却毫无用处。没有合适的武器，你只能任这些非自然的畸形怪物摆布。",
+    "它们没有立刻杀死你，而是把你拖向一栋着火的房子；你一路踢打、尖叫。阴燃的灰烬堆上，尸体堆积如山，已经被点燃。你还看见废墟间散落着各式珠宝和宝石——足足有一把又一把。火光在被掠夺来的黄金和宝石上灿然闪烁。",
+    "你来不及欣赏这些东西，也来不及细看眼前的景象，便被迅速扔进火中。在剧痛中活活烧死时，你最后看见那些生物在渐盈凸月下、浓雾中蹒跚摇晃地跳着舞，赞颂它们那奇怪而无法想象的神。",
+    "你死了，被献祭给一位旧日支配者。你在埃斯伯里的旅程结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 226",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 226",
+      "text": [
+        "You reach for your firearm and manage to draw it quickly, only to have it knocked from your hands by the large, bulging form of a hideous green creature. Your gun falls into the rising water with a splash and is lost among the shuffling bodies of yet more strange beings.",
+        "You struggle against them as best you can, but it’s to no avail. Without a proper weapon, you’re at the mercy of these unnatural and misshapen things.",
+        "They don’t kill you right away. Instead, they carry you, kicking and screaming, toward a burning house. Piled atop the smoldering heaps of ashes are mounds of corpses that have already been set alight. You also spot various pieces of jewelry and scattered gemstones strewn among the wreckage—entire fistfuls of them. The firelight reflects brilliantly off the looted gold and gems.",
+        "You don’t have time to admire them or to wonder at the spectacle before you, as you are swiftly fed to the flames. As you burn alive in agonizing pain, the last sight you see is the creatures dancing a lurching, shuffling jig through the fog beneath the gibbous moon, giving praise to their strange and unimaginable god. You have died, offered up as a sacrifice to a Great Old One. Your visit to Esbury is over."
+      ]
+    }
+  }
+}

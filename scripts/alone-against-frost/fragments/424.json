@@ -1,0 +1,30 @@
+{
+  "id": "424",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "424:p0",
+      "kind": "heading",
+      "text": "424",
+      "sourceLocation": "pdf:visual:[[75,34]]"
+    },
+    {
+      "id": "424:p1",
+      "kind": "body",
+      "text": "You pause at the riverside. Can you justify pressing on into the \nwilderness without Charlie Foxtail?",
+      "sourceLocation": "pdf:visual:[[75,35],[75,36]]"
+    },
+    {
+      "id": "424:p2",
+      "kind": "body",
+      "text": "To continue, go to 89. To turn back, go to 158.",
+      "sourceLocation": "pdf:visual:[[75,37]]"
+    },
+    {
+      "id": "424:p3",
+      "kind": "trace",
+      "text": "(532)",
+      "sourceLocation": "pdf:visual:[[75,38]]"
+    }
+  ]
+}

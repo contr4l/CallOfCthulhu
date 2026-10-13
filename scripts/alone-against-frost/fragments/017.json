@@ -1,0 +1,42 @@
+{
+  "id": "17",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "17:p0",
+      "kind": "heading",
+      "text": "17",
+      "sourceLocation": "pdf:visual:[[13,2]]"
+    },
+    {
+      "id": "17:p1",
+      "kind": "body",
+      "text": "Startled,  the  apparitions  vanish  into  the  brush.  You  yell  to \nwake your comrades. They spring from their bedrolls, rifles in \nhand. “What is it, Doc?” gasps Ebstein. You explain that you saw \nstrange little beings standing over him as he slept.",
+      "sourceLocation": "pdf:visual:[[13,4],[13,6],[13,7],[13,9]]"
+    },
+    {
+      "id": "17:p2",
+      "kind": "body",
+      "text": "Charlie gasps. “We cannot stay here now. We must leave the \nNorth Hanninah!”",
+      "sourceLocation": "pdf:visual:[[13,10],[13,12]]"
+    },
+    {
+      "id": "17:p3",
+      "kind": "body",
+      "text": "You ask her to explain, but she only shakes her head. Charlie \ndoes not seem like a woman who is easily frightened.",
+      "sourceLocation": "pdf:visual:[[13,13],[13,15]]"
+    },
+    {
+      "id": "17:p4",
+      "kind": "body",
+      "text": "To draw her out, make a Persuade roll: if you succeed, go to 35; if \nyou fail, go to 26.",
+      "sourceLocation": "pdf:visual:[[13,17],[13,18]]"
+    },
+    {
+      "id": "17:p5",
+      "kind": "trace",
+      "text": "(9)",
+      "sourceLocation": "pdf:visual:[[13,20]]"
+    }
+  ]
+}

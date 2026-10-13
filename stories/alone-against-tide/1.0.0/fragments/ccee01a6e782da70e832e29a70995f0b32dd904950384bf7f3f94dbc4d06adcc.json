@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "176"
+  ],
+  "text": [
+    "你动作太慢，约书亚把刀刺进你的胸膛，同时将你按在墙上。他脸上绽开愉悦的笑容，欣赏着你痛苦地挣扎。他的双眼透出赤裸裸的虐待狂般的疯狂，尽情享受你的痛苦。",
+    "你感到力气逐渐消退时，约书亚凑近你，用一种怪异的语言低声说话，令你残存的血液都为之发冷。“Grah’n y’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.”他疯狂地咯咯笑着，把刀从你胸口抽出。你拼命捂住伤口，试图减缓失血。“我在梦里见过这一幕。你的血将指引通往那座宏伟城市的道路。它很满意……”",
+    "随后，他拿起血淋淋的刀，迅速划过你的喉咙，完成了献给某种不可名状之物的祭仪。",
+    "你死了。如果愿意，你可以重新尝试这个故事，希望得到更好的结果。但眼下，你在埃斯伯里的旅程已经结束。结局。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 176",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 176",
+      "text": [
+        "You’re too slow and Joshua plunges the blade into your chest as he pins you against the wall. His face lights up with joy as he watches you struggle in agony. His eyes are the very picture of sadistic madness, and he drinks in your pain.",
+        "Joshua leans in close as you feel your strength fade, whispering to you in a strange tongue that sends chills through your remaining blood. “Grah’n y’hah ngnw ronog Bokrug stell’bsna, phlegeth ep throd ron.” He cackles madly and pulls the knife from your chest. You desperately grasp at your wound to slow the blood loss. “I have seen this in my dreams. Your blood will lead the way to that magnificent city. It is pleased…”",
+        "He then takes the bloody knife and quickly slashes it across your throat, finishing his sacrifice to something unspeakable. You are dead. If you like, you may attempt the story again and hope for a better outcome. But, for now, your visit to Esbury is over."
+      ]
+    }
+  }
+}

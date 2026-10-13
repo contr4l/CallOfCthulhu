@@ -1,0 +1,86 @@
+{
+  "id": "section-injury-table",
+  "paragraphs": [
+    {
+      "id": "section-injury-table:p0000",
+      "kind": "body",
+      "text": "injury table (d6)\n",
+      "sourceLocation": "pdf:spans:[[34,732,750]]"
+    },
+    {
+      "id": "section-injury-table:p0001",
+      "kind": "body",
+      "text": "1 Facial scar. You have a permanent -1 to your Charisma rolls.\n",
+      "sourceLocation": "pdf:spans:[[34,750,813]]"
+    },
+    {
+      "id": "section-injury-table:p0002",
+      "kind": "body",
+      "text": "2 Impaired arm. You have a permanent -1 to your Attack rolls\n",
+      "sourceLocation": "pdf:spans:[[34,813,874]]"
+    },
+    {
+      "id": "section-injury-table:p0003",
+      "kind": "body",
+      "text": "with hand-to-hand weapons.\n",
+      "sourceLocation": "pdf:spans:[[34,874,901]]"
+    },
+    {
+      "id": "section-injury-table:p0004",
+      "kind": "body",
+      "text": "3 Eye damage. You have a  permanent -1 to your ranged Attack\n",
+      "sourceLocation": "pdf:spans:[[34,901,962]]"
+    },
+    {
+      "id": "section-injury-table:p0005",
+      "kind": "body",
+      "text": "rolls.\n",
+      "sourceLocation": "pdf:spans:[[34,962,969]]"
+    },
+    {
+      "id": "section-injury-table:p0006",
+      "kind": "body",
+      "text": "4 Limping. You have a permanent -1 on all Escape rolls.\n",
+      "sourceLocation": "pdf:spans:[[34,969,1025]]"
+    },
+    {
+      "id": "section-injury-table:p0007",
+      "kind": "body",
+      "text": "5 Brain damage. You have a permanent -1 to all Will and Magic\n",
+      "sourceLocation": "pdf:spans:[[34,1025,1087]]"
+    },
+    {
+      "id": "section-injury-table:p0008",
+      "kind": "body",
+      "text": "rolls.\n",
+      "sourceLocation": "pdf:spans:[[34,1087,1094]]"
+    },
+    {
+      "id": "section-injury-table:p0009",
+      "kind": "body",
+      "text": "6\n",
+      "sourceLocation": "pdf:spans:[[34,1094,1096]]"
+    },
+    {
+      "id": "section-injury-table:p0010",
+      "kind": "body",
+      "text": "Crippled arm. You lose the use of one arm. You may no\n",
+      "sourceLocation": "pdf:spans:[[34,1096,1150]]"
+    },
+    {
+      "id": "section-injury-table:p0011",
+      "kind": "body",
+      "text": "longer use weapons that require two hands. You may still\n",
+      "sourceLocation": "pdf:spans:[[34,1150,1207]]"
+    },
+    {
+      "id": "section-injury-table:p0012",
+      "kind": "body",
+      "text": "use rifles and shotguns with a -1 penalty.",
+      "sourceLocation": "pdf:spans:[[34,1207,1249]]"
+    }
+  ],
+  "sourcePages": [
+    34
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "578",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "578:p0",
+      "kind": "heading",
+      "text": "578",
+      "sourceLocation": "pdf:visual:[[98,27]]"
+    },
+    {
+      "id": "578:p1",
+      "kind": "body",
+      "text": "You slice away her bonds and compel the young woman to \ngo with your party. Sylvia takes her aside and speaks to her \nin low tones.",
+      "sourceLocation": "pdf:visual:[[98,28],[98,29],[98,30]]"
+    },
+    {
+      "id": "578:p2",
+      "kind": "body",
+      "text": "Roll 1D10: if the result is even, go to 579; if the result is odd, go \nto 580.",
+      "sourceLocation": "pdf:visual:[[98,31],[98,32]]"
+    },
+    {
+      "id": "578:p3",
+      "kind": "trace",
+      "text": "(577)",
+      "sourceLocation": "pdf:visual:[[98,33]]"
+    },
+    {
+      "id": "578:p4",
+      "kind": "body",
+      "text": "97",
+      "sourceLocation": "pdf:visual:[[98,34]]"
+    }
+  ]
+}

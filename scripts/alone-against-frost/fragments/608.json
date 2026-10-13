@@ -1,0 +1,30 @@
+{
+  "id": "608",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "608:p0",
+      "kind": "heading",
+      "text": "608",
+      "sourceLocation": "pdf:visual:[[102,51]]"
+    },
+    {
+      "id": "608:p1",
+      "kind": "body",
+      "text": "You  and  the  others  advance  up  the  lost  valley  and  into  the \nverdant meadowland at its heart.",
+      "sourceLocation": "pdf:visual:[[102,52],[102,53]]"
+    },
+    {
+      "id": "608:p2",
+      "kind": "body",
+      "text": "Make a combined Natural World and Luck roll: if both succeed, go \nto 620; if both fail, go to 617; if you succeed only at Natural World, \ngo to 610; if you succeed only with the Luck roll, go to 630.",
+      "sourceLocation": "pdf:visual:[[102,54],[102,55],[102,56]]"
+    },
+    {
+      "id": "608:p3",
+      "kind": "trace",
+      "text": "(607, 636)",
+      "sourceLocation": "pdf:visual:[[102,57]]"
+    }
+  ]
+}

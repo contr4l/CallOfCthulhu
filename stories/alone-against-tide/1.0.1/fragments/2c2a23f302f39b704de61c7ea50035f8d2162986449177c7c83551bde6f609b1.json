@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "173"
+  ],
+  "text": [
+    "你鼓不起勇气离开好不容易找到的安全之处。尽管如此，你也不愿坐以待毙。你从旅馆公共区域搬来一把椅子，堵住大堂的门。你关上窗户的百叶板。你收集手边所有武器，保持高度警惕，等待接下来会发生什么。",
+    "你在公共区域紧张地来回踱步，近一个小时。你几乎要说服自己相信先前的经历只是一场幻觉，直到水开始从门底渗进来。埃斯伯里正在被淹。你开始认真质疑自己留下来的决定，但也明白此刻已经太迟，无法再选别的路。你咬紧牙关，做好面对最坏情况的准备。",
+    "你正要上楼，忽然听见有人砰砰地撞门。有东西正试图强行闯入。你握紧武器，准备站稳迎战。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 173",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 173",
+      "text": [
+        "You cannot gather the courage to leave the safety you’ve found. Still, you won’t sit completely helpless. You pull a chair from the hotel’s common area and barricade the lobby door. You close the shutters on the windows. You gather what weapons you have on hand, and you wait, hypervigilant against what is to come.",
+        "For nearly an hour, you pace the common area nervously. You almost talk yourself into believing that your earlier experience was a hallucination until the water begins to seep in beneath the door. Esbury is flooding. You seriously begin to question your decision to remain, but you realize that it’s too late to choose any alternatives at this point. You grit your teeth and prepare for the worst.",
+        "You’re about to head upstairs when you hear the pounding at the door. Something is trying to force its way inside. You tighten your grip on your weapon and prepare to stand and fight."
+      ]
+    }
+  }
+}

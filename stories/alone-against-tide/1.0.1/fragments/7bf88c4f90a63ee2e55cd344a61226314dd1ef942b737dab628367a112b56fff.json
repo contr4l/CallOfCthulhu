@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "72"
+  ],
+  "text": [
+    "你认出这个男人的衣着是佛教僧侣的装束。你行了个惯常的鞠躬礼，僧侣微笑着回礼，然后用口音很重但流利的英语说道：“很高兴在这里见到有人如此尊重我们的习俗。我叫班尤。”他神情转为不悦，朝房间里的其他人扫了一眼。“其他人似乎只想从我的文化中牟利。贩卖祖先留下的物品，实在可耻。”你恭敬地问他为何不远万里赶来亲眼看这场拍卖。他叹了口气，转向你。“我带着寺庙能凑出的所有钱财前来，希望能救回几件文物。几年前哈里斯教授到萨尔纳斯拜访时，从我的寺庙偷走了它们。”僧侣似乎忧心忡忡，沉默下来。他向你鞠躬告别，你便明白该离开了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 72",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 72",
+      "text": [
+        "You recognize the man’s style of dress to be that of a Buddhist monk. You bow a customary greeting, to which the monk smiles and returns the gesture before speaking in heavily accented but fluent English. “It is good to see one here with such respect for our customs. I am Banyu.” His expression turns to a frown as he makes a sweeping gesture to the rest of the room. “The rest here seem only to seek to profit from my culture. Selling the items of my ancestors is most shameful.” You respectfully question why he would come such a long way to witness such a thing, and he sighs before turning back to you. “I have come with what money my temple could gather so that I might save a certain few of the artifacts. Ones that your Professor Harris stole from my temple in Sarnath when he came to visit some years ago.” The monk seems troubled and falls silent. He bows a farewell and you take the cue to leave."
+      ]
+    }
+  }
+}

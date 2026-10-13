@@ -1,0 +1,36 @@
+{
+  "id": "297",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "297:p0",
+      "kind": "heading",
+      "text": "297",
+      "sourceLocation": "pdf:visual:[[58,30]]"
+    },
+    {
+      "id": "297:p1",
+      "kind": "body",
+      "text": "The game trails are empty. The berries, so abundant earlier, have \nwithered and dropped off the branches. The threat of starvation \nis real.",
+      "sourceLocation": "pdf:visual:[[58,31],[58,32],[58,33]]"
+    },
+    {
+      "id": "297:p2",
+      "kind": "body",
+      "text": "Make a Survival (Woodland) roll: if you succeed, go to 513; if you \nfail, go to 331.",
+      "sourceLocation": "pdf:visual:[[58,34],[58,35]]"
+    },
+    {
+      "id": "297:p3",
+      "kind": "trace",
+      "text": "(198, 279)",
+      "sourceLocation": "pdf:visual:[[58,36]]"
+    },
+    {
+      "id": "297:p4",
+      "kind": "body",
+      "text": "57",
+      "sourceLocation": "pdf:visual:[[58,37]]"
+    }
+  ]
+}

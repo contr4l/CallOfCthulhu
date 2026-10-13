@@ -1,0 +1,42 @@
+{
+  "id": "47",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "47:p0",
+      "kind": "heading",
+      "text": "47",
+      "sourceLocation": "pdf:visual:[[19,2]]"
+    },
+    {
+      "id": "47:p1",
+      "kind": "body",
+      "text": "If you let Bernard run, you may lose him forever in the dark \nmaze  of  trees  and  sloughs.  You  dash  after  him,  yelling  his \nname. Ahead you hear running steps, snapping brittle brush \nand frosted grass. You cannot explain this unseasonable cold \nsnap, but you can spare no time to think on it.",
+      "sourceLocation": "pdf:visual:[[19,4],[19,6],[19,7],[19,9],[19,10]]"
+    },
+    {
+      "id": "47:p2",
+      "kind": "body",
+      "text": "Now, you hear a second runner join the first. The ground \nshudders  with  footfalls  that  could  come  from  no  creature \nsmaller than a moose. Abruptly, the sounds of running cease. \nUnder faint moonlight, you break into an empty clearing.",
+      "sourceLocation": "pdf:visual:[[19,12],[19,13],[19,15],[19,16]]"
+    },
+    {
+      "id": "47:p3",
+      "kind": "body",
+      "text": "A piteous cry rings forth from the sky overhead: “Oh! The \nheight! My feet! My burning feet!”",
+      "sourceLocation": "pdf:visual:[[19,18],[19,19]]"
+    },
+    {
+      "id": "47:p4",
+      "kind": "body",
+      "text": "To look up toward the shout, go to 72. To cover your ears, shut your \neyes, and wait until the plaintive appeal is gone, attempt a POW \nroll; if you succeed, go to 49; if you fail, go to 48. ",
+      "sourceLocation": "pdf:visual:[[19,21],[19,23],[19,24]]"
+    },
+    {
+      "id": "47:p5",
+      "kind": "trace",
+      "text": "(46)",
+      "sourceLocation": "pdf:visual:[[19,26]]"
+    }
+  ]
+}

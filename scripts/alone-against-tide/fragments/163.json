@@ -1,0 +1,42 @@
+{
+  "id": "163",
+  "document": "Alone Against the Tide Solitaire Adventure by The Lakeshore (Call of Cthulhu MPRG 23174) (Nicholas Johnson, Lynne Hardy, Mike Mason etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "163:p0",
+      "kind": "heading",
+      "text": "163\n",
+      "sourceLocation": "pdf:spans:[[52,3443,3447]]"
+    },
+    {
+      "id": "163:p1",
+      "kind": "body",
+      "text": "You steel yourself against the pain in your leg. You don’t want \nto find out whatever it is that’s behind you. Pain shoots through \nyou but you manage to carry on, for a while at least.\n",
+      "sourceLocation": "pdf:spans:[[52,3447,3512],[52,3512,3579],[52,3579,3633]]"
+    },
+    {
+      "id": "163:p2",
+      "kind": "body",
+      "text": "Eventually, the splashing behind you stops. You don’t know if \nyour pursuer has given up the chase or if they’re simply waiting \nfor you to stop. You pause for a moment to catch your breath, \nbut only a moment.\n",
+      "sourceLocation": "pdf:spans:[[52,3633,3696],[52,3696,3762],[52,3762,3825],[52,3825,3844]]"
+    },
+    {
+      "id": "163:p3",
+      "kind": "body",
+      "text": "You peer through the mist at the ground ahead of you—or \nrather, the lack thereof. The water here has risen, and you cannot \nsee the ground beneath it. From what little visibility you have, it \nlooks as if this is more than a mere puddle. Your pursuer might \nyet be behind you and there are no other paths available within \nyour limited sight. You’ll have to swim if you wish to progress. \nAnd with your injured leg, this is a rather grim prospect.\n",
+      "sourceLocation": "pdf:spans:[[52,3844,3901],[52,3901,3969],[52,3969,4038],[52,4038,4103],[52,4103,4168],[52,4168,4234],[52,4234,4293]]"
+    },
+    {
+      "id": "163:p4",
+      "kind": "body",
+      "text": "• Make Hard Swim roll (success only at equal to or below half of \nthe skill’s value): if you succeed, go to 185; if you fail, go to 209.\n",
+      "sourceLocation": "pdf:spans:[[52,4295,4361],[52,4361,4432]]"
+    },
+    {
+      "id": "163:p5",
+      "kind": "body",
+      "text": "(170)",
+      "sourceLocation": "pdf:spans:[[52,4432,4437]]"
+    }
+  ]
+}

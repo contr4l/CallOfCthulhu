@@ -1,0 +1,30 @@
+{
+  "id": "191",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "191:p0",
+      "kind": "heading",
+      "text": "191",
+      "sourceLocation": "pdf:visual:[[42,9]]"
+    },
+    {
+      "id": "191:p1",
+      "kind": "body",
+      "text": "It is later, on a riverbank. You are face down. You don’t know \nhow much time has passed. You stir and then moan with pain. \nEverything hurts. Can you find the strength to continue?",
+      "sourceLocation": "pdf:visual:[[42,10],[42,11],[42,12]]"
+    },
+    {
+      "id": "191:p2",
+      "kind": "body",
+      "text": "Make a CON roll: if you succeed, go to 67; if you fail, the Nadelmann \nExpedition is over. THE END.",
+      "sourceLocation": "pdf:visual:[[42,13],[42,14]]"
+    },
+    {
+      "id": "191:p3",
+      "kind": "trace",
+      "text": "(189, 376)",
+      "sourceLocation": "pdf:visual:[[42,15]]"
+    }
+  ]
+}

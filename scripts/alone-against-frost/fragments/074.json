@@ -1,0 +1,30 @@
+{
+  "id": "74",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "74:p0",
+      "kind": "heading",
+      "text": "74",
+      "sourceLocation": "pdf:visual:[[23,36]]"
+    },
+    {
+      "id": "74:p1",
+      "kind": "body",
+      "text": "“No!” Charlie bares her teeth. “The white man never understands! \nTo speak of the Great Wind-Walker is to summon it near! We must \nflee the North Hanninah!”",
+      "sourceLocation": "pdf:visual:[[23,37],[23,38],[23,39]]"
+    },
+    {
+      "id": "74:p2",
+      "kind": "body",
+      "text": "To leave Bernard and this mystery, go to 32. To demand that Charlie \nforget her superstitions and help the rest of you search, go to 521.",
+      "sourceLocation": "pdf:visual:[[23,40],[23,41]]"
+    },
+    {
+      "id": "74:p3",
+      "kind": "trace",
+      "text": "(49)",
+      "sourceLocation": "pdf:visual:[[23,42]]"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "308",
+  "document": "Alone Against The Frost Solitaire Adventure in Canadas Wilds (Glenn Rahman  Gavin Inglis) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "308:p0",
+      "kind": "heading",
+      "text": "308",
+      "sourceLocation": "pdf:visual:[[59,69]]"
+    },
+    {
+      "id": "308:p1",
+      "kind": "body",
+      "text": "You help your students up into the tree limbs. Once they are \nclear, you scramble after them. You wrap your arms around a \nsolid branch, but something drags at you. The lead wolf has \nleapt and sunk its teeth into your boot! Sylvia and Norman \ngrab under your shoulders, hauling you up. But the wolf could \ndrag all three of you from the tree.",
+      "sourceLocation": "pdf:visual:[[59,70],[59,71],[59,72],[59,73],[59,74],[59,75]]"
+    },
+    {
+      "id": "308:p2",
+      "kind": "body",
+      "text": "You must decide whether to whip your foot free from the \nwolf’s slavering mouth or to dash its head against the tree trunk.",
+      "sourceLocation": "pdf:visual:[[59,76],[59,77]]"
+    },
+    {
+      "id": "308:p3",
+      "kind": "body",
+      "text": "Make a DEX or a Fighting (Brawl) roll. Whichever you choose, if \nyou succeed, go to 344, while if you fail, go to 345.",
+      "sourceLocation": "pdf:visual:[[59,78],[59,79]]"
+    },
+    {
+      "id": "308:p4",
+      "kind": "trace",
+      "text": "(288)",
+      "sourceLocation": "pdf:visual:[[59,80]]"
+    }
+  ]
+}

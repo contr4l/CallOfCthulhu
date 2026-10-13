@@ -328,8 +328,7 @@ async function complete(page: Page, name: keyof typeof routes) {
     (await fetch("/api/collections")).json(),
   );
   const collected = collections.find(
-    (s: { version: string; storyId: string }) =>
-      s.storyId === "alone-against-flames" && s.version === "1.1.0",
+    (s: { storyId: string }) => s.storyId === "alone-against-flames",
   );
   expect(
     collected.endings.entries.some(

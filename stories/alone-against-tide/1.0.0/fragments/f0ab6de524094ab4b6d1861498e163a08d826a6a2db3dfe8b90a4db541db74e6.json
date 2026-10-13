@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.0",
+  "nodeIds": [
+    "133"
+  ],
+  "text": [
+    "你一拳打向约书亚的脸，把他打得踉跄后退，晕头转向。他站稳时，你成功从他手中夺下刀。你拿起刀，迅速刺进他的胸口。",
+    "约书亚脸上露出痛苦而震惊的神情，仿佛他无法接受你竟敢杀他。但他还是瘫倒在膝盖上。眼看自己就要死去，他抬头望着你。双眼失去神采，仍带着阴森的恶意瞪着你。生命消逝的最后一刻，奇怪的话语从他嘴里吐出：“Bokrug ron ‘bthnk n’ghft, ‘ai。”他的身体最后抽搐了一下，随后便瘫倒在你脚边，成了一具尸体。",
+    "你对此感到极度不安，但试图把这件事抛开，继续行动。你环视房间。远端的桌子上摆满奇怪的文物，旁边还有一大摞文件。除此之外，这里没什么东西，只有头顶闪烁的灯泡、空椅子，以及约书亚的尸体。",
+    "你或许应该离开这里，毕竟待在潮湿阴暗的地下室里，身边还有一具新鲜尸体，实在不是什么愉快的体验。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 133",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 133",
+      "text": [
+        "You throw a punch at Joshua’s face and send him stumbling backward, stunned. You manage to rip the knife from his grasp as he regains his footing. You take the blade and swiftly plunge it into his chest.",
+        "Joshua’s face takes on a pained and shocked expression, as if offended that you’d dare to kill him. Still, he slumps to his knees. He looks up at you as he begins to die. His eyes glaze over and stare at you with a smoldering malevolence. Strange words pass from his lips as the last of his life fades away. “Bokrug ron ‘bthnk n’ghft, ‘ai.” A last shuddering breath rattles his body, and he slumps into a lifeless heap at your feet.",
+        "You feel greatly disturbed by this but you attempt to shake it off and move on. You survey the room. The table at the far end is covered in curious artifacts, as well as a large stack of papers. There is little else here save for the flickering bulb above you, the empty chair, and Joshua’s dead body.",
+        "You might consider leaving this place, as sitting in a dank basement with a fresh corpse is not an entirely pleasant experience."
+      ]
+    }
+  }
+}

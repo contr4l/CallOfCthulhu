@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-tide",
+  "version": "1.0.1",
+  "nodeIds": [
+    "50"
+  ],
+  "text": [
+    "尽管地面崎岖，你还是勉强保持住平衡。你竭尽双腿所能飞奔，越过岩石和树根，短时间内跑出了很远。",
+    "可惜你一路如此鲁莽地疾行，又被雾气和夜色遮挡视线，没注意到地面正延伸到悬崖边缘。惯性带着你冲向崖边时，你看见悬崖外几英尺处有一棵树。现在已经来不及停下，但也许还能控制落地的姿势。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "潮汐独行 · 50",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Tide · 50",
+      "text": [
+        "Despite the uneven terrain, you manage to keep your footing. You fly over rock and root as fast as your legs will carry you, and you cover much ground in a short amount of time.",
+        "Unfortunately, this reckless speed at which you’re traveling, combined with the fog and cover of night, prevents you from noticing the ground giving way to a cliff edge. As your momentum carries you forward toward the edge, you spot a tree standing several feet out beyond the cliff face. It’s too late to stop the fall, but perhaps you can control the landing."
+      ]
+    }
+  }
+}
