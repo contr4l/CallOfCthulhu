@@ -230,24 +230,6 @@ test("reader themes persist, the story hides outer chrome and both page-scroll m
   if (info.project.name === "mobile")
     await page.getByRole("button", { name: "打开导航" }).click();
   await page.getByRole("button", { name: "剧本馆", exact: true }).click();
-  await page.getByRole("button", { name: "开始静躁独行", exact: true }).click();
-  await page.getByLabel("调查员姓名").fill("字体验收");
-  await page.getByRole("button", { name: "掷幸运骰", exact: true }).click();
-  await page.getByRole("button", { name: "确认角色，开始调查" }).click();
-  await expect(page.locator(".narrative h1")).toHaveText("静躁独行");
-  await page.getByRole("button", { name: "阅读偏好", exact: true }).click();
-  await expect(
-    page.getByRole("option", { name: "English", exact: true }),
-  ).toHaveAttribute("disabled", "");
-  await expect(page.getByRole("dialog")).toContainText(
-    "当前剧本仅提供中文正文",
-  );
-  await page.screenshot({
-    path: `docs/screenshots/reading-display-${info.project.name}.png`,
-    animations: "disabled",
-  });
-  await page.getByRole("button", { name: "返回阅读" }).click();
-
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,

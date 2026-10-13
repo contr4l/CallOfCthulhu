@@ -90,6 +90,14 @@ export function readCollections(
           id,
           title:
             kind === "endings" ? (scene.ending ?? scene.title) : scene.title,
+          ...(kind === "chapters"
+            ? {
+                excerpt: (scene.reading?.["zh-CN"]?.text ?? scene.text)
+                  .join(" ")
+                  .trim()
+                  .slice(0, 60),
+              }
+            : {}),
           chapter: scene.chapter,
           firstSeenAt: prior && prior.firstSeenAt < at ? prior.firstSeenAt : at,
           lastSeenAt: prior && prior.lastSeenAt > at ? prior.lastSeenAt : at,

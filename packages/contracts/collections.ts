@@ -3,6 +3,7 @@ export type CollectionKind = "chapters" | "endings";
 export type CollectionEntry = {
   id: string;
   title: string;
+  excerpt?: string;
   chapter: string;
   firstSeenAt: string;
   lastSeenAt: string;

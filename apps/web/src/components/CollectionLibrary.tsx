@@ -65,9 +65,6 @@ export function CollectionLibrary({
           ))}
         </div>
       </div>
-      <p className="page-description">
-        跨局保存已经读过的段落与抵达的结局。未解锁内容保留为未知。
-      </p>
       {error && (
         <p role="alert" className="form-error">
           {error}
@@ -93,21 +90,24 @@ export function CollectionLibrary({
               />
               <div className="collection-entries">
                 {group.entries.map((entry) => (
-                  <button
-                    key={entry.id}
-                    onClick={() => void open(story, entry.id)}
-                  >
-                    <span>{entry.title}</span>
-                    <small>
-                      {entry.chapter} · {entry.visits} 次经历
-                    </small>
-                  </button>
+                  <div className="collection-entry" key={entry.id}>
+                    <button onClick={() => void open(story, entry.id)}>
+                      {kind === "chapters" && entry.excerpt
+                        ? `${entry.excerpt}…`
+                        : entry.title.replace(/\s*[·]\s*\d+$/, "").trim()}
+                    </button>
+                    <details>
+                      <summary>档案详情</summary>
+                      <p>
+                        {entry.chapter} · 阅读 {entry.visits} 次
+                      </p>
+                    </details>
+                  </div>
                 ))}
               </div>
-              {group.entries.length < group.total && (
+              {group.entries.length === 0 && (
                 <p className="collection-locked">
-                  ◇ 尚有 {group.total - group.entries.length} 份未知
-                  {kind === "endings" ? "结局" : "章节"}等待发现
+                  尚未发现{kind === "endings" ? "结局" : "章节"}。
                 </p>
               )}
             </article>
@@ -120,10 +120,6 @@ export function CollectionLibrary({
           wide
           onClose={() => setSelected(null)}
         >
-          <p className="setup-note">
-            {selected.scene.storyTitle} · {selected.scene.chapter} ·
-            已收集的经历
-          </p>
           {selected.scene.illustration && (
             <img
               className="map-full"

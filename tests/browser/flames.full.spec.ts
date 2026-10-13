@@ -213,9 +213,7 @@ async function step(
     await page.getByRole("button", { name: "继续故事", exact: true }).click();
   }
   if (body.check) {
-    await expect(
-      page.getByRole("dialog", { name: "命运已经落定" }),
-    ).toBeVisible();
+    await expect(page.getByRole("dialog", { name: "检定结果" })).toBeVisible();
     await expect(page.locator(".dice-scene canvas")).toHaveCount(0);
     await page.getByRole("button", { name: "掷骰", exact: true }).click();
     await expect(
@@ -240,6 +238,14 @@ async function step(
     await expect(
       page.locator(".check-comparison").first().locator("span").last(),
     ).toHaveCSS("color", passed ? "rgb(143, 211, 168)" : "rgb(240, 154, 159)");
+    const details = page.locator(".check-details");
+    if (await details.count()) {
+      await expect(details).not.toHaveAttribute("open", "");
+      await details.locator("summary").click();
+      await expect(details).toHaveAttribute("open", "");
+      await expect(details.locator("p").first()).toBeVisible();
+      await details.locator("summary").click();
+    }
     if (body.check.combat?.result === "hurt" && body.check.success) {
       await expect(
         page.getByRole("heading", { name: "对手命中了你", exact: true }),
@@ -345,9 +351,8 @@ test("Chinese adventure completes from entry to ordinary survival with mid-run r
   expect(scene.ending).toBe("走出烬头村");
   await expect(page.locator(".ending-achievement")).toContainText("成就解锁");
   await expect(page.locator(".ending-achievement")).toContainText("结局 15");
-  await expect(page.locator(".ending-achievement")).toContainText(
-    scene.ending!,
-  );
+  await expect(page.locator(".ending h2")).toHaveText(scene.ending!);
+  await expect(page.locator(".ending-achievement strong")).toHaveCount(0);
   await page.screenshot({
     path: `docs/screenshots/flames-ending-${info.project.name}.png`,
     fullPage: true,
@@ -387,7 +392,7 @@ test("Chinese adventure completes from entry to ordinary survival with mid-run r
     fullPage: true,
   });
   await page.getByRole("button", { name: "查看结局", exact: true }).click();
-  await expect(page.locator(".ending-achievement")).toContainText("走出烬头村");
+  await expect(page.locator(".ending h2")).toHaveText("走出烬头村");
   await expect(page.locator(".ending-achievement")).toContainText("结局 15");
   await expect(page.locator(".play-page")).toHaveAttribute(
     "data-revision",
@@ -433,9 +438,7 @@ test.describe("dangerous branches", () => {
       test.setTimeout(120000);
       const { scene } = await complete(page, "death");
       expect(scene.collection!.endingId).toBe("77");
-      await expect(page.locator(".ending-achievement")).toContainText(
-        "未能挣脱烈火",
-      );
+      await expect(page.locator(".ending h2")).toContainText("未能挣脱烈火");
       const unlocked = await page.evaluate(async () =>
         (await fetch("/api/achievements")).json(),
       );

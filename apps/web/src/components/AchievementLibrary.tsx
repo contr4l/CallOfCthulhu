@@ -249,13 +249,12 @@ export function EndingAchievement({
   if (!entry) return null;
   return (
     <aside className="ending-achievement" role="status" aria-live="polite">
-      <Trophy size={30} aria-hidden="true" />
+      <Trophy size={18} aria-hidden="true" />
       <div>
         <span>
           {convert(entry.runId === scene.runId ? "成就解锁" : "已解锁成就")} ·{" "}
           {convert(`结局 ${String(entry.endingNumber).padStart(2, "0")}`)}
         </span>
-        <strong>{convert(entry.title)}</strong>
       </div>
       <button className="text-button" onClick={onViewAchievements}>
         {convert("查看成就")}

@@ -19,7 +19,7 @@ test("create official template character and select it for a run without rerolli
     await page.getByRole("button", { name: "打开导航" }).click();
   await page.getByRole("button", { name: "调查员", exact: true }).click();
   await expect(
-    page.getByText("此剧本使用空白调查员表，角色由剧情引导创建。"),
+    page.getByText("随剧情建卡", { exact: true }).first(),
   ).toBeVisible();
   await page.getByRole("button", { name: "基于亚历克斯创建" }).click();
   await page.getByLabel("调查员姓名").fill("模板访客");
@@ -82,10 +82,8 @@ test("lost dice response survives reload and retries without reroll", async ({
   expect(before.revision).toBe(2);
   await page.unroute("**/api/runs/*/commands");
   await page.reload();
-  await page.getByRole("button", { name: "重试上次行动" }).click();
-  await expect(
-    page.getByRole("dialog", { name: "命运已经落定" }),
-  ).toBeVisible();
+  // The server's pending check window restores the already-saved roll directly.
+  await expect(page.getByRole("dialog", { name: "检定结果" })).toBeVisible();
   expect(await (await page.request.get(`/api/runs/${id}`)).json()).toEqual(
     before,
   );
@@ -102,9 +100,7 @@ test("create investigator, complete a run, refresh, read and replay without chan
   const errors: string[] = [];
   page.on("pageerror", (e) => errors.push(e.message));
   await page.goto("/");
-  await expect(
-    page.getByRole("heading", { name: "故事，从你开始。" }),
-  ).toBeVisible();
+  await expect(page.getByRole("heading", { name: "独行调查" })).toBeVisible();
   await page.getByRole("button", { name: /登录档案室/ }).click();
   await page.getByRole("button", { name: "第一次来？创建账号" }).click();
   await page
@@ -168,9 +164,7 @@ test("dice result remains saved after reload and animation skip", async ({
   await createFixtureRun(page, "rules-fixture", "雾中人");
   await page.getByRole("button", { name: /沿石阶前往灯塔/ }).click();
   await page.getByRole("button", { name: /进行侦查检定/ }).click();
-  await expect(
-    page.getByRole("dialog", { name: "命运已经落定" }),
-  ).toBeVisible();
+  await expect(page.getByRole("dialog", { name: "检定结果" })).toBeVisible();
   const id = new URL(page.url()).hash.split("/").at(-1);
   const rolled = await (await page.request.get(`/api/runs/${id}`)).json();
   await expect(
@@ -187,9 +181,7 @@ test("dice result remains saved after reload and animation skip", async ({
   await expect(page.locator(".dice-tray.is-rolling")).toBeVisible();
   await expect(page.getByRole("button", { name: "正在掷骰…" })).toBeDisabled();
   await page.reload();
-  await expect(
-    page.getByRole("dialog", { name: "命运已经落定" }),
-  ).toBeVisible();
+  await expect(page.getByRole("dialog", { name: "检定结果" })).toBeVisible();
   await page.getByRole("button", { name: "掷骰", exact: true }).click();
   await expect(page.getByRole("button", { name: "继续故事" })).toBeVisible();
   await expect(page.locator(".dice-result")).toContainText(/D100 · 目标 \d+/);
@@ -201,7 +193,14 @@ test("dice result remains saved after reload and animation skip", async ({
   expect(await (await page.request.get(`/api/runs/${id}`)).json()).toEqual(
     rolled,
   );
+  const closed = page.waitForResponse(
+    (response) =>
+      response.url().endsWith("/check-window/close") &&
+      response.request().method() === "POST",
+  );
   await page.getByRole("button", { name: "继续故事" }).click();
+  expect((await closed).ok()).toBe(true);
+  await expect(page.getByRole("dialog", { name: "检定结果" })).toHaveCount(0);
   const before = await (await page.request.get(`/api/runs/${id}`)).json();
   await page.reload();
   await expect(page.getByRole("dialog")).toHaveCount(0);

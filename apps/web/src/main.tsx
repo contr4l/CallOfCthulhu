@@ -45,8 +45,6 @@ import {
   Play,
   SkipForward,
   RotateCcw,
-  Shield,
-  Feather,
   Menu,
   LockKeyhole,
   Trophy,
@@ -747,7 +745,7 @@ function App() {
                 <small>THE EMBER ARCHIVE</small>
               </span>
             </a>
-            <div className="sidebar-label">独行，亦有回响</div>
+            <div className="sidebar-label">调查档案</div>
             <nav>
               {nav.map((n) => (
                 <button
@@ -764,17 +762,7 @@ function App() {
               ))}
             </nav>
             <div className="sidebar-note">
-              <span className="tiny-star">✧</span>
-              <p>
-                每一个选择，
-                <br />
-                都在黑暗里留下回声。
-              </p>
               <small>无主持人 · 克苏鲁独行冒险</small>
-            </div>
-            <div className="sidebar-bottom">
-              <span className="status-dot" />
-              档案室已开放<span className="version">VOL. 01</span>
             </div>
           </aside>
         )}
@@ -859,17 +847,11 @@ function App() {
             <main className="loading-page">正在打开档案室…</main>
           ) : page === "library" ? (
             <main className="library">
-              <div className="section-eyebrow">
-                <span className="line" /> STORIES FOR THE SOLITARY
-              </div>
               <div className="page-title">
                 <div>
-                  <h1>故事，从你开始。</h1>
-                  <p>没有主持人，没有预设的答案。只有你，和下一次选择。</p>
+                  <h1>独行调查</h1>
+                  <p>选择剧本，开始调查。</p>
                 </div>
-                <span className="edition">
-                  独行剧本集 <span>01 / 2026</span>
-                </span>
               </div>
               {featured && (
                 <section className="featured">
@@ -882,18 +864,21 @@ function App() {
                   <div className="featured-content">
                     <div className="feature-tag">
                       <span />
-                      本期精选 <span className="tag-separator">/</span> 独行冒险
+                      推荐剧本
                     </div>
                     <span className="feature-subtitle">
                       {featured.subtitle}
                     </span>
                     <h2>{featured.title}</h2>
-                    <p>{featured.description}</p>
+                    <p>
+                      {featured.id === "alone-against-flames"
+                        ? "旅途中的一次抛锚，让你在烬头村留宿。村民正在准备一场庆典。"
+                        : featured.description}
+                    </p>
                     <div className="feature-meta">
                       <span>
                         <BookOpen size={14} /> {featured.duration}
                       </span>
-                      <span>◈ {featured.difficulty}调查</span>
                       <span>多重结局</span>
                     </div>
                     <button
@@ -908,12 +893,6 @@ function App() {
                     >
                       开启调查 <ArrowRight size={17} />
                     </button>
-                    <small className="feature-footnote">
-                      每局一条旅程，每个选择不可撤回。
-                    </small>
-                  </div>
-                  <div className="feature-number">
-                    CASE FILE <strong>001</strong>
                   </div>
                 </section>
               )}
@@ -924,7 +903,7 @@ function App() {
                 >
                   <span className="status-dot" />
                   <div>
-                    <strong>一份调查，还在等你</strong>
+                    <strong>继续调查</strong>
                     <span>
                       {active[0].storyTitle} · {active[0].characterName} ·{" "}
                       {active[0].chapter}
@@ -941,7 +920,6 @@ function App() {
                     探索剧本{" "}
                     <span>{stories.length.toString().padStart(2, "0")}</span>
                   </h2>
-                  <p>走入另一个世界，留下你的版本。</p>
                 </div>
                 <label className="search">
                   <Search size={16} />
@@ -954,7 +932,7 @@ function App() {
                 </label>
               </div>
               <div className="story-grid">
-                {filtered.map((s, i) => (
+                {filtered.map((s) => (
                   <article
                     className={`story-card ${s.accent}${AVAILABLE_STORY_IDS.has(s.id) && (s.id !== "alone-against-static" || shop?.storyUnlock?.unlocked) ? "" : " is-locked"}`}
                     key={s.id}
@@ -962,7 +940,10 @@ function App() {
                     <div className="card-image">
                       <img src={s.cover} alt={s.title} />
                       <span className="card-file">
-                        CASE {String(i + 1).padStart(3, "0")}
+                        档案{" "}
+                        {String(
+                          stories.findIndex((story) => story.id === s.id) + 1,
+                        ).padStart(3, "0")}
                       </span>
                       <span className="card-type">
                         {AVAILABLE_STORY_IDS.has(s.id) &&
@@ -1018,7 +999,11 @@ function App() {
                     <div className="card-body">
                       <span className="card-subtitle">{s.subtitle}</span>
                       <h3>{s.title}</h3>
-                      <p>{s.description}</p>
+                      <p>
+                        {s.id === "alone-against-flames"
+                          ? "旅途中的一次抛锚，让你在烬头村留宿。村民正在准备一场庆典。"
+                          : s.description}
+                      </p>
                       {s.id === "alone-against-static" &&
                         !shop?.storyUnlock?.unlocked && (
                           <p>
@@ -1047,28 +1032,8 @@ function App() {
               {filtered.length === 0 && (
                 <div className="empty-state">暂时没有匹配的剧本。</div>
               )}
-              <section className="principles">
-                <div>
-                  <Shield size={22} />
-                  <h3>选择，只有一次</h3>
-                  <p>一局一条单向旅程。掷骰与选择，都会留下不可撤回的痕迹。</p>
-                </div>
-                <div>
-                  <Feather size={22} />
-                  <h3>故事，不会遗失</h3>
-                  <p>行动后自动保存。随时回来，继续尚未结束的调查。</p>
-                </div>
-                <div>
-                  <History size={22} />
-                  <h3>回忆，始终在场</h3>
-                  <p>重读线索，回放经历。你走过的每一段，都有迹可循。</p>
-                </div>
-              </section>
               <footer>
-                <span>余烬档案 · 在未知中留下你的故事</span>
-                <span>
-                  致每一位独行的调查员 <span className="tiny-star">✧</span>
-                </span>
+                <span>余烬档案</span>
               </footer>
             </main>
           ) : page === "play" && scene ? (
@@ -1590,7 +1555,7 @@ function App() {
         )}
         {result && !ruleDice && (
           <Modal
-            title="命运已经落定"
+            title="检定结果"
             onClose={closeStoryDice}
             dismissible={dicePhase === "revealed"}
           >
@@ -1685,7 +1650,7 @@ function App() {
             onClose={closeHistory}
           >
             <div className="history-toolbar">
-              <span>{history.length} 段已发生的经历 · 只读</span>
+              <span>{history.length} 段经历</span>
               <div>
                 <button
                   className={historyMode === "read" ? "selected" : ""}
@@ -1776,9 +1741,7 @@ function App() {
                       />
                     </h2>
                     {history[frameIndex].discarded && (
-                      <p className="check-note">
-                        此检定结果已由重掷替代，不计入结局奖励。
-                      </p>
+                      <p className="check-note">已被重掷取代</p>
                     )}
                     {history[frameIndex].check && (
                       <p className="memory-note">

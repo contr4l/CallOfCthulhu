@@ -15,14 +15,14 @@ export function CheckExplanation({ result }: { result: CheckResult }) {
       {result.assistance?.previousRoll !== undefined && (
         <p>
           {convert(
-            `重掷：上次 ${result.assistance.previousRoll}，本次 ${result.roll}，以本次结果为准。`,
+            `重掷：上次 ${result.assistance.previousRoll} → 本次 ${result.roll}`,
           )}
         </p>
       )}
       {result.luckSpent !== undefined && (
         <p>
           {convert(
-            `原始骰点 ${result.originalRoll}；花费 ${result.luckSpent} 点幸运后调整为 ${result.roll}。`,
+            `幸运 −${result.luckSpent}：${result.originalRoll} → ${result.roll}`,
           )}
         </p>
       )}
@@ -32,18 +32,6 @@ export function CheckExplanation({ result }: { result: CheckResult }) {
           {convert(own.label)}
         </span>
       </p>
-      {own.reason && (
-        <p className="check-reason">
-          <CheckOutcomeText text={own.reason} />
-        </p>
-      )}
-      {result.candidates.length > 1 && (
-        <p>
-          <CheckOutcomeText
-            text={`候选骰点 ${result.candidates.join(" / ")}；原始采用 ${result.originalRoll ?? result.roll}。`}
-          />
-        </p>
-      )}
       {other && (
         <p className="check-comparison opponent-comparison">
           <CheckOutcomeText text={`对手 D100 · ${other.comparison}，`} />
@@ -52,15 +40,32 @@ export function CheckExplanation({ result }: { result: CheckResult }) {
           </span>
         </p>
       )}
-      {other?.reason && (
-        <p className="check-reason">
-          <CheckOutcomeText text={`对手：${other.reason}`} />
-        </p>
-      )}
       {contest && (
         <p className="check-reason">
           <CheckOutcomeText text={contest} />
         </p>
+      )}
+      {(own.reason || other?.reason || result.candidates.length > 1) && (
+        <details className="check-details">
+          <summary>{convert("判定详情")}</summary>
+          {own.reason && (
+            <p className="check-reason">
+              <CheckOutcomeText text={own.reason} />
+            </p>
+          )}
+          {other?.reason && (
+            <p className="check-reason">
+              <CheckOutcomeText text={`对手：${other.reason}`} />
+            </p>
+          )}
+          {result.candidates.length > 1 && (
+            <p>
+              <CheckOutcomeText
+                text={`骰点 ${result.candidates.join(" / ")}；采用 ${result.originalRoll ?? result.roll}。`}
+              />
+            </p>
+          )}
+        </details>
       )}
     </div>
   );

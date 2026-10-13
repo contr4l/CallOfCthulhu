@@ -88,7 +88,7 @@ export function ShopLibrary({
             <ShoppingBag size={24} />
             {convert("余烬商店")}
           </h2>
-          <p>{convert("在成就页领取结局奖励，让下一次检定多一点余地。")}</p>
+          <p>{convert("余烬点可在成就页领取。")}</p>
         </div>
         <strong className="point-balance">
           <Coins size={22} />
@@ -157,7 +157,7 @@ export function ShopLibrary({
       </div>
       <p className="setup-note">
         {convert(
-          "道具仅用于普通 D100 检定。重掷须在点击“继续故事”前使用；目标助力须在掷骰前选择，不影响角色卡的永久数值。",
+          "重掷：确认结果前使用。命运助力：掷骰前使用。仅适用于普通 D100 检定。",
         )}
       </p>
       {resumeRun && (

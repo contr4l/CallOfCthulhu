@@ -141,6 +141,12 @@ test("saved Static role is selected from eligible characters without rerolling i
   ).toBeVisible();
   expect((await read(page)).character).toEqual(character);
   await expect(page.locator(".record-sheet")).toContainText("查理");
+  await page.getByRole("button", { name: "阅读偏好", exact: true }).click();
+  await expect(
+    page.getByRole("option", { name: "English", exact: true }),
+  ).toHaveAttribute("disabled", "");
+  await expect(page.getByRole("dialog")).toContainText("暂无英文正文。");
+  await page.getByRole("button", { name: "返回阅读" }).click();
 });
 
 for (const plan of routes) {

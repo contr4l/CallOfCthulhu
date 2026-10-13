@@ -37,7 +37,7 @@ test("ending and chapter collections open saved text without revealing locked ou
   });
   await expect(story).toContainText("1 / 3");
   await expect(story).not.toContainText("版本");
-  await expect(story).toContainText("尚有 2 份未知结局");
+  await expect(story.locator(".collection-locked")).toHaveCount(0);
   await expect(story).not.toContainText("测试结局：loop");
   await story.getByRole("button", { name: /测试结局：home/ }).click();
   await expect(
@@ -46,6 +46,9 @@ test("ending and chapter collections open saved text without revealing locked ou
   await page.getByRole("button", { name: "关闭窗口" }).click();
   await page.getByRole("button", { name: "章节收集", exact: true }).click();
   await expect(story).toContainText("4 / 8");
+  await expect(
+    story.locator(".collection-entry > button").first(),
+  ).not.toContainText("原书条目");
   await page.reload();
   await expect(page.getByRole("heading", { name: "故事收集" })).toBeVisible();
   expect(await (await page.request.get(`/api/runs/${id}`)).json()).toEqual(
@@ -73,11 +76,9 @@ test("renaming an archived investigator updates the resumed run after reload", a
   await page.reload();
   await expect(page.locator(".character-card h2")).toHaveText("游戏里的旧名字");
   await nav(page, info.project.name === "mobile", "调查员");
-  const entry = page
-    .locator(".saved-character-entry")
-    .filter({
-      has: page.getByRole("heading", { name: "游戏里的旧名字", exact: true }),
-    });
+  const entry = page.locator(".saved-character-entry").filter({
+    has: page.getByRole("heading", { name: "游戏里的旧名字", exact: true }),
+  });
   await entry.getByRole("button", { name: "填写角色卡", exact: true }).click();
   await page.getByLabel("调查员姓名").fill("同步后的新名字");
   await page.getByRole("button", { name: "保存角色资料", exact: true }).click();

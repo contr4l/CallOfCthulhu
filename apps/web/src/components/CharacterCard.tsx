@@ -37,9 +37,12 @@ export function CharacterCard({
       <h2>{c.name}</h2>
       <p>{c.occupation}</p>
       {!compact && c.sourceStoryTitle && (
-        <p className="character-source">
-          来源：{c.sourceStoryTitle} · 模板 {c.templateVersion}
-        </p>
+        <details className="character-source">
+          <summary>角色来源</summary>
+          <p>
+            {c.sourceStoryTitle} · 模板版本 {c.templateVersion}
+          </p>
+        </details>
       )}
       <div className="character-stats">
         <div>

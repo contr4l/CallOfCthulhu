@@ -2925,6 +2925,45 @@ html {
   border-radius: 6px;
   background: var(--surface-raised);
 }
+.check-details,
+.template-source {
+  margin-top: 12px;
+  color: var(--muted-bright);
+  font-size: 14px;
+  line-height: 1.8;
+}
+.check-details summary,
+.template-source summary,
+.character-source summary,
+.collection-entry summary {
+  cursor: pointer;
+}
+.collection-entry {
+  min-width: 0;
+}
+.collection-entry > button {
+  width: 100%;
+  min-height: 56px;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.collection-entry > details {
+  margin: 6px 0;
+  color: var(--muted-bright);
+  font-size: 14px;
+}
+.collection-entry > details p {
+  margin: 6px 0;
+}
+.ending .ending-achievement {
+  gap: 10px;
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-radius: 6px;
+}
+.ending .ending-achievement span {
+  font-size: 14px;
+}
 .dice-result p.check-reason {
   line-height: 1.8;
 }

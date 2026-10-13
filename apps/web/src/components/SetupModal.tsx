@@ -57,8 +57,8 @@ export function SetupModal({
             : "本模组会在剧情中引导你分配属性和技能；先确定姓名。"
           : story.creationPolicy === "fixed"
             ? story.id === "alone-against-static"
-              ? "选择亚历克斯或查理，两人的视角与故事分支不同。属性和技能使用原书角色卡，幸运由你掷骰确定。"
-              : "选择本模组的预设调查员。属性和技能使用原书角色卡，幸运由你掷骰确定。"
+              ? "选择亚历克斯或查理，两人的视角与故事分支不同。"
+              : "选择一位调查员。"
             : "先为这段故事，选择一位调查员。"}
       </p>
       <form onSubmit={(e) => void onSubmit(e)}>
@@ -200,13 +200,6 @@ export function SetupModal({
           />
         )}
         <input type="hidden" name="luckRollId" value={luckRollId} />
-        <p className="setup-note">
-          {story.creationPolicy === "guided"
-            ? "属性、技能和幸运将依照原书，在剧情中逐步确定。"
-            : mode === "saved"
-              ? "本局复制已有角色，保留已生成的幸运值。局内变化不影响原角色。"
-              : "点击掷幸运骰，完成后确认角色。开局后角色与进度独立保存，选择不可撤回。"}
-        </p>
         {error && (
           <p role="alert" className="form-error">
             {error}

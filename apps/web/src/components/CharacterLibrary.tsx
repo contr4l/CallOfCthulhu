@@ -1,6 +1,6 @@
 import { CharacterProfileForm } from "./CharacterProfileForm";
 import React, { useState } from "react";
-import { ArrowRight, UserRound, BookOpen } from "lucide-react";
+import { ArrowRight, UserRound } from "lucide-react";
 import type {
   CharacterTemplate,
   CharacterTemplateCatalog,
@@ -58,10 +58,7 @@ export function CharacterLibrary({
   return (
     <>
       <section className="template-section">
-        <h2>剧本角色模板</h2>
-        <p className="page-description">
-          以官方预设为起点，创建属于你的调查员。每个角色独立保存。
-        </p>
+        <h2>预设调查员</h2>
         {catalog.groups.map((group) => (
           <div className="template-group" key={group.storyId}>
             <div className="template-group-heading">
@@ -72,13 +69,6 @@ export function CharacterLibrary({
                   : "随剧情建卡"}
               </span>
             </div>
-            <p>{group.description}</p>
-            {group.status === "guided-creation" && (
-              <div className="guided-note">
-                <BookOpen size={17} />
-                <span>此剧本使用空白调查员表，角色由剧情引导创建。</span>
-              </div>
-            )}
             <div className="template-grid">
               {catalog.templates
                 .filter((t) => t.sourceStoryId === group.storyId)
@@ -118,14 +108,18 @@ export function CharacterLibrary({
                   </article>
                 ))}
             </div>
-            <a
-              className="template-source-link"
-              href={group.sourceUrl}
-              target="_blank"
-              rel="noreferrer"
-            >
-              查看官方来源 ↗
-            </a>
+            <details className="template-source">
+              <summary>来源与角色说明</summary>
+              <p>{group.description}</p>
+              <a
+                className="template-source-link"
+                href={group.sourceUrl}
+                target="_blank"
+                rel="noreferrer"
+              >
+                官方来源 ↗
+              </a>
+            </details>
           </div>
         ))}
       </section>
@@ -149,7 +143,7 @@ export function CharacterLibrary({
           </div>
         ) : (
           <div className="empty-state">
-            选择上方模板创建角色，或在开始调查时创建示例角色。
+            选择一位预设调查员，或在剧本中建卡。
           </div>
         )}
       </section>
@@ -166,9 +160,6 @@ export function CharacterLibrary({
           title={`基于${selected.label}创建调查员`}
           onClose={() => setSelected(null)}
         >
-          <p className="modal-intro">
-            职业与数值继承模板，请亲自掷出幸运值。创建后可在示例剧本中选择这位调查员。
-          </p>
           <div className="attribute-grid template-attributes">
             {Object.entries(selected.attributes).map(([k, v]) => (
               <div key={k}>
@@ -193,12 +184,13 @@ export function CharacterLibrary({
               reduced={reduced}
               onReady={(r) => setLuckRollId(r.id)}
             />
-            <p className="setup-note">
-              来源：{selected.sourceStoryTitle} · {selected.source.publisher} ·
-              模板 {selected.version}
-              <br />
-              幸运：3D6 × 5；角色创建后保存，不会在开局时重掷。
-            </p>
+            <details className="template-source">
+              <summary>角色来源</summary>
+              <p>
+                {selected.sourceStoryTitle} · {selected.source.publisher} ·
+                模板版本 {selected.version}
+              </p>
+            </details>
             {error && (
               <p className="form-error" role="alert">
                 {error}

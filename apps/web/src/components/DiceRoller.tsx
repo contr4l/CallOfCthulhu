@@ -163,9 +163,7 @@ export function DiceRoller({
     setRolling(true);
     setError("");
     const id =
-      receipt && purpose === "free"
-        ? createUuid()
-        : pending || createUuid();
+      receipt && purpose === "free" ? createUuid() : pending || createUuid();
     if (purpose === "free") setReceipt(null);
     sessionStorage.setItem(key, id);
     setPending(id);
@@ -200,9 +198,7 @@ export function DiceRoller({
         <strong>
           {purpose === "luck" ? "幸运 · 3D6 × 5" : `${count}D${sides}`}
         </strong>
-        <span>
-          {rolling ? "骰子滚动中…" : receipt ? "结果已保存" : "由你掷出"}
-        </span>
+        <span>{rolling ? "掷骰中…" : ""}</span>
       </div>
       {(rolling || receipt) && (
         <DiceAnimation
@@ -253,9 +249,6 @@ export function DiceRoller({
                   ? "掷幸运骰"
                   : "掷骰子"}
         </button>
-      )}
-      {receipt && purpose === "luck" && (
-        <small>本次点数已保存，确认角色时不会再次掷骰。</small>
       )}
     </section>
   );

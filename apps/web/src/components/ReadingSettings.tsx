@@ -204,9 +204,7 @@ export function ReadingSettings({
                 </select>
               </label>
             </div>
-            {!englishAvailable && (
-              <p className="setup-note">当前剧本仅提供中文正文。</p>
-            )}
+            {!englishAvailable && <p className="setup-note">暂无英文正文。</p>}
             {reading.animation === "typewriter" && (
               <label>
                 打字速度 · {reading.speed} 字／秒
@@ -292,7 +290,6 @@ export function ReadingSettings({
               保留当前位置
             </label>
           </fieldset>
-          <p className="setup-note">配色与阅读偏好会保存在这个浏览器中。</p>
           <button
             className="primary-button full"
             onClick={() => setOpen(false)}
