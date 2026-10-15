@@ -70,7 +70,13 @@ export type CheckWindow = {
   check: CheckResult;
   action: string;
 };
-// Website reward tiers are editorial settings, not difficulty labels from the books.
+// Editorial website achievement grades, never official book difficulty labels.
+export const ENDING_TIERS = {
+  bronze: { label: "青铜级", points: 1 },
+  silver: { label: "白银级", points: 2 },
+  gold: { label: "黄金级", points: 3 },
+} as const;
+export type EndingTier = keyof typeof ENDING_TIERS;
 const tiers: Record<string, Record<string, number>> = {
   "alone-against-flames": {
     "185-end": 2,
@@ -81,7 +87,22 @@ const tiers: Record<string, Record<string, number>> = {
     "231": 3,
   },
   "alone-against-static": { "365": 2, "367": 2, "134": 3, "356": 3, "359": 3 },
+  "alone-against-tide": {
+    "116": 2,
+    "184": 2,
+    "190": 2,
+    "206": 2,
+    "220": 2,
+    "227": 3,
+    "239": 3,
+  },
+  "alone-against-frost": { "33": 2, "272": 2, "549": 2, "183": 3 },
+  "alone-against-fear": { "fear-ending-insane": 2, "fear-ending-won": 3 },
 };
 export function endingReward(storyId: string, endingId: string) {
   return tiers[storyId]?.[endingId] ?? 1;
+}
+export function endingTier(storyId: string, endingId: string): EndingTier {
+  const points = endingReward(storyId, endingId);
+  return points === 3 ? "gold" : points === 2 ? "silver" : "bronze";
 }

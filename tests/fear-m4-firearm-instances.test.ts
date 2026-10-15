@@ -25,8 +25,8 @@ test("M4 public Armory routes count identical firearms only when the shared pool
   assert.match(ammoSource.paragraphs.find((p: { id: string }) => p.id === "section-keep-track-of-ammo:p1").text, /unless the weapons are exactly the\s+same/);
   assert.match(ammoSource.paragraphs.find((p: { id: string }) => p.id === "section-keep-track-of-ammo:p7").text, /differently colored counters/);
   for (const [file, expectedCopies, expectedAmmo, expectedXp] of [
-    ["shop-m4-firearm-instance-witness.json", 2, 24, 2],
-    ["shop-m4-firearm-instance-threshold-witness.json", 2, 7, 1],
+    ["tier-m4-firearm-instance-witness.json", 2, 24, 2],
+    ["tier-m4-firearm-instance-threshold-witness.json", 2, 7, 1],
   ] as const) {
     const report = JSON.parse(readFileSync(resolve("work/alone-against-fear", file), "utf8"));
     assert.equal(report.manifestSha256, createHash("sha256").update(manifest).digest("hex"));

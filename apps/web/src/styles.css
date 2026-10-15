@@ -3073,3 +3073,18 @@ html {
   .leaderboard-pagination { gap: 8px; }
   .leaderboard-pagination button { padding: 10px 12px; }
 }
+
+[data-tier="bronze"] { --ending-metal: #cd9670; }
+[data-tier="silver"] { --ending-metal: #b9c4d2; }
+[data-tier="gold"] { --ending-metal: #e2bf67; }
+.achievement-card.is-unlocked[data-tier], .collection-entry[data-tier], .ending-achievement[data-tier] {
+  border: 2px solid var(--ending-metal);
+  background: linear-gradient(130deg, color-mix(in srgb, var(--ending-metal) 9%, var(--bg)), var(--bg));
+}
+.achievement-card.is-unlocked[data-tier="silver"], .collection-entry[data-tier="silver"] { border-style: double; border-width: 3px; }
+.achievement-card.is-unlocked[data-tier="gold"], .collection-entry[data-tier="gold"] { box-shadow: 0 0 0 1px color-mix(in srgb, var(--ending-metal) 20%, transparent), inset 0 0 22px color-mix(in srgb, var(--ending-metal) 6%, transparent); }
+.ending-tier-badge { display: inline-block; width: fit-content; color: var(--ending-metal); font-size: 12px; border: 1px solid currentColor; border-radius: 5px; padding: 3px 8px; margin: 5px 0; }
+.achievement-card[data-tier] .achievement-medal { color: var(--ending-metal); }
+.achievement-reward small { display: block; margin-top: 6px; color: var(--muted-bright); }
+.ending-tier-legend { color: var(--muted-bright); font-size: 13px; }
+.collection-entry[data-tier] { padding: 12px; border-radius: 8px; }

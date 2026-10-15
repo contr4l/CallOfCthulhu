@@ -42,24 +42,13 @@ export function readLeaderboard(
         },
       ]),
   );
-  const claims = new Map(
-    db
-      .prepare("SELECT user_id,achievement_id,points FROM achievement_claims")
-      .all()
-      .map((row) => [
-        JSON.stringify([row.user_id, row.achievement_id]),
-        Number(row.points),
-      ]),
-  );
   for (const ending of confirmedEndings(db, stories)) {
     const user = users.get(ending.owner);
     if (!user) continue;
     const id = endingAchievementId(ending.story.id, ending.node.id);
     if (!user.endings.has(id)) {
       user.endings.add(id);
-      user.entry.earnedPoints +=
-        claims.get(JSON.stringify([ending.owner, id])) ??
-        endingReward(ending.story.id, ending.node.id);
+      user.entry.earnedPoints += endingReward(ending.story.id, ending.node.id);
     }
     user.stories.add(ending.story.id);
     user.runs.add(ending.runId);

@@ -1,3 +1,5 @@
+import { ENDING_TIERS } from "../../../../packages/contracts/shop";
+import { useReading } from "../reading";
 import { NarrativeText } from "./NarrativeText";
 import { useEffect, useState } from "react";
 import type {
@@ -14,6 +16,7 @@ export function CollectionLibrary({
   owner: string;
   onReplay: (id: string) => void;
 }) {
+  const { convert } = useReading();
   const [collections, setCollections] = useState<StoryCollection[]>([]),
     [kind, setKind] = useState<CollectionKind>("endings"),
     [selected, setSelected] = useState<CollectedScene | null>(null),
@@ -90,7 +93,8 @@ export function CollectionLibrary({
               />
               <div className="collection-entries">
                 {group.entries.map((entry) => (
-                  <div className="collection-entry" key={entry.id}>
+                  <div className="collection-entry" key={entry.id} data-tier={kind === "endings" ? entry.tier : undefined}>
+                    {kind === "endings" && entry.tier && <span className="ending-tier-badge">{convert(ENDING_TIERS[entry.tier].label)} · {entry.rewardPoints} {convert("点")}</span>}
                     <button onClick={() => void open(story, entry.id)}>
                       {kind === "chapters" && entry.excerpt
                         ? `${entry.excerpt}…`

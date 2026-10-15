@@ -17,3 +17,8 @@ capture command and the distinction between historical and current evidence.
 The shop progression update retains all 876 historical inputs and adds 10
 newly executed witnesses/API reports. See `docs/shop-unlock-verification-2026-10-15.md`
 for the current runtime fingerprint and explicit test entitlements.
+
+The ending-grade update retains those 886 inputs and adds eight freshly
+executed `tier-*.json` witnesses/API reports (894 total). Current regression
+tests use the tier witnesses; see `docs/ending-tiers.md` for the current
+fingerprint, reward differences, source decisions and validation.

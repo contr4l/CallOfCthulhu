@@ -1,3 +1,4 @@
+import { ENDING_TIERS } from "../../../../packages/contracts/shop";
 import type { ShopState } from "../../../../packages/contracts/shop";
 import { useEffect, useState, useRef } from "react";
 import { Trophy, LockKeyhole, ArrowRight } from "lucide-react";
@@ -122,6 +123,9 @@ export function AchievementLibrary({
               </select>
             </label>
           </div>
+          <p className="ending-tier-legend">
+            {convert("青铜级 1 点 · 白银级 2 点 · 黄金级 3 点")}
+          </p>
           <div className="reward-summary">
             <strong>{convert(`余烬点 ${balance}`)}</strong>
             <button className="secondary-button" onClick={onOpenShop}>
@@ -142,6 +146,7 @@ export function AchievementLibrary({
             {shown.map((entry) => (
               <article
                 key={entry.id}
+                data-tier={entry.unlockedAt ? entry.tier : undefined}
                 className={`achievement-card ${entry.unlockedAt ? "is-unlocked" : "is-locked"}`}
               >
                 <span className="achievement-medal" aria-hidden="true">
@@ -158,6 +163,11 @@ export function AchievementLibrary({
                       `结局 ${String(entry.endingNumber).padStart(2, "0")}`,
                     )}
                   </span>
+                  {entry.unlockedAt && entry.tier && (
+                    <span className="ending-tier-badge">
+                      {convert(ENDING_TIERS[entry.tier].label)}
+                    </span>
+                  )}
                   <h3>{convert(entry.title)}</h3>
                   <p>{convert(entry.description)}</p>
                   {entry.unlockedAt && (
@@ -170,18 +180,34 @@ export function AchievementLibrary({
                     <div className="achievement-reward">
                       <span>
                         {convert(`结局奖励 ${entry.rewardPoints ?? 1} 点`)}
+                        {entry.claimedAt &&
+                          (entry.claimablePoints ?? 0) > 0 && (
+                            <small>
+                              {convert(
+                                `已领取 ${entry.claimedPoints ?? 0} 点，可补领 ${entry.claimablePoints} 点`,
+                              )}
+                            </small>
+                          )}
                       </span>
                       <button
                         className="secondary-button"
-                        disabled={!!entry.claimedAt || !!claiming}
+                        disabled={
+                          (entry.claimablePoints ??
+                            (entry.claimedAt
+                              ? 0
+                              : (entry.rewardPoints ?? 1))) === 0 || !!claiming
+                        }
                         onClick={() => void claim(entry.id)}
                       >
                         {convert(
-                          entry.claimedAt
+                          (entry.claimablePoints ??
+                            (entry.claimedAt ? 0 : 1)) === 0
                             ? "已领取"
                             : claiming === entry.id
                               ? "正在领取…"
-                              : "领取点数",
+                              : entry.claimedAt
+                                ? "领取差额"
+                                : "领取点数",
                         )}
                       </button>
                     </div>
@@ -248,12 +274,18 @@ export function EndingAchievement({
   }, [scene.runId, scene.storyId, scene.collection?.endingId, scene.ending]);
   if (!entry) return null;
   return (
-    <aside className="ending-achievement" role="status" aria-live="polite">
+    <aside
+      className="ending-achievement"
+      data-tier={entry.tier}
+      role="status"
+      aria-live="polite"
+    >
       <Trophy size={18} aria-hidden="true" />
       <div>
         <span>
           {convert(entry.runId === scene.runId ? "成就解锁" : "已解锁成就")} ·{" "}
           {convert(`结局 ${String(entry.endingNumber).padStart(2, "0")}`)}
+          {entry.tier && <> · {convert(ENDING_TIERS[entry.tier].label)}</>}
         </span>
       </div>
       <button className="text-button" onClick={onViewAchievements}>

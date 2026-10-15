@@ -1,3 +1,4 @@
+import { endingTier, endingReward } from "../../../../packages/contracts/shop.js";
 import type { DatabaseSync } from "node:sqlite";
 import type {
   Story,
@@ -60,7 +61,8 @@ export function readCollections(
       const frame = JSON.parse(row.frame as string) as HistoryFrame,
         scene = frame.scene,
         sourceStory =
-          stories.get(`${story.id}@${String(row.story_version)}`) ?? story;
+          stories.get(`${story.id}@${String(row.story_version)}`);
+      if (!sourceStory) continue;
       // Old history predates explicit collection keys. Resolve only its already-visible paragraph.
       const node = sourceStory.nodes.find(
         (n) =>
@@ -99,6 +101,7 @@ export function readCollections(
                   .slice(0, 60),
               }
             : {}),
+          ...(kind === "endings" ? { tier: endingTier(story.id, id), rewardPoints: endingReward(story.id, id) } : {}),
           chapter: scene.chapter,
           firstSeenAt: prior && prior.firstSeenAt < at ? prior.firstSeenAt : at,
           lastSeenAt: prior && prior.lastSeenAt > at ? prior.lastSeenAt : at,

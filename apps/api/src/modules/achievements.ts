@@ -1,6 +1,6 @@
 import { confirmedEndings, endingLabel } from "./confirmed-endings.js";
 import { buildEndingNumbers } from "./ending-numbers.js";
-import { endingReward } from "../../../../packages/contracts/shop.js";
+import { endingReward, endingTier } from "../../../../packages/contracts/shop.js";
 import type { DatabaseSync } from "node:sqlite";
 import type { Story } from "../../../../packages/contracts/index.js";
 import {
@@ -67,7 +67,9 @@ export function readAchievements(
     achievement.description = `在《${story.title}》中抵达「${achievement.title}」。`;
     achievement.unlockedAt = frame.createdAt;
     achievement.runId = runId;
+    achievement.tier = endingTier(story.id, node.id);
     achievement.rewardPoints = endingReward(story.id, node.id);
+    achievement.claimedPoints = 0;
     const claim = db
       .prepare(
         "SELECT points,claimed_at FROM achievement_claims WHERE user_id=? AND achievement_id=?",
@@ -75,8 +77,9 @@ export function readAchievements(
       .get(owner, id);
     if (claim) {
       achievement.claimedAt = claim.claimed_at as string;
-      achievement.rewardPoints = Number(claim.points);
+      achievement.claimedPoints = Number(claim.points);
     }
+    achievement.claimablePoints = Math.max(0, achievement.rewardPoints - achievement.claimedPoints);
   }
   return [...catalog.values()];
 }

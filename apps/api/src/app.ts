@@ -302,18 +302,17 @@ export async function buildApp(
         );
         if (!entry?.unlockedAt || !entry.rewardPoints)
           throw new GameError(409, "尚未解锁或尚未确认这个结局。");
-        const claim = db
-          .prepare("INSERT OR IGNORE INTO achievement_claims VALUES(?,?,?,?)")
-          .run(
-            owner.id,
-            entry.id,
-            entry.rewardPoints,
-            new Date().toISOString(),
+        const alreadyClaimed = Number(entry.claimedPoints ?? 0);
+        const difference = Math.max(0, entry.rewardPoints - alreadyClaimed);
+        if (difference > 0) {
+          db.prepare(`INSERT INTO achievement_claims VALUES(?,?,?,?)
+            ON CONFLICT(user_id,achievement_id) DO UPDATE SET points=excluded.points`).run(
+            owner.id, entry.id, entry.rewardPoints, new Date().toISOString(),
           );
-        if (claim.changes === 1)
           db.prepare(
             "INSERT INTO shop_wallets VALUES(?,?) ON CONFLICT(user_id) DO UPDATE SET balance=balance+excluded.balance",
-          ).run(owner.id, entry.rewardPoints);
+          ).run(owner.id, difference);
+        }
         return readShop(db, owner.id, stories);
       });
     },

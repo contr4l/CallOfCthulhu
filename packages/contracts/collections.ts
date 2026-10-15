@@ -1,9 +1,12 @@
+import type { EndingTier } from "./shop.js";
 import type { SceneView } from "./index.js";
 export type CollectionKind = "chapters" | "endings";
 export type CollectionEntry = {
   id: string;
   title: string;
   excerpt?: string;
+  tier?: EndingTier;
+  rewardPoints?: number;
   chapter: string;
   firstSeenAt: string;
   lastSeenAt: string;

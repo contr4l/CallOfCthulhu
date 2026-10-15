@@ -1,6 +1,6 @@
 {
   "format": "coc-review-inputs@1",
-  "archiveSha256": "b38c395b8bbfedd8c1c1759c47acf600c85bd1d776d5547a2ab0a09fe792a9ae",
+  "archiveSha256": "9e0ea21b931c72e62b7d75e1b6dbac1bca7460a509b45a2402a864b0d1385336",
   "files": [
     {
       "path": "work/alone-against-fear/book-reading-review.json",
@@ -456,6 +456,36 @@
       "path": "work/alone-against-fear/table-source-rule-patch-2026-10-14.json",
       "sha256": "e10f459d7ec6bab5238e9d24e010149b41f515ea40c35dedd6b46fb68bec8018",
       "bytes": 3689
+    },
+    {
+      "path": "work/alone-against-fear/tier-m4-firearm-instance-threshold-witness.json",
+      "sha256": "b1a87171288b677fd01449293af1b071fa7ab1e9b68a9931f84fe1c5ccb1df8c",
+      "bytes": 9814
+    },
+    {
+      "path": "work/alone-against-fear/tier-m4-firearm-instance-witness.json",
+      "sha256": "35d3008e0005c6510d7f96265bba85ae6ffcb25d01ee955aff65e8736a97a0f7",
+      "bytes": 9817
+    },
+    {
+      "path": "work/alone-against-fear/tier-mission-api-1.0.2.json",
+      "sha256": "e56989dd9d69f7729276e0b72bf46111919b20342da8ce7867708bca1645ee24",
+      "bytes": 982
+    },
+    {
+      "path": "work/alone-against-fear/tier-mission-witnesses-1.0.2.json",
+      "sha256": "7be6896b34d3af7d8e24342d9a38a6fb26dda7e8c03333b7a43a2e86ec7b0551",
+      "bytes": 65419
+    },
+    {
+      "path": "work/alone-against-fear/tier-terminal-api-1.0.2.json",
+      "sha256": "43f796afd570b53268704537ec73c45e4ccbd08d87586af5da86cf5a56bb470e",
+      "bytes": 762
+    },
+    {
+      "path": "work/alone-against-fear/tier-terminal-witnesses-1.0.2.json",
+      "sha256": "805d5808e8abb11817addb1144115839112adaaa000f5959f19f5dbcc1dd3fa8",
+      "bytes": 27799
     },
     {
       "path": "work/alone-against-fear/visual-review-pages/page-002.png",
@@ -4380,6 +4410,16 @@
     {
       "path": "work/alone-against-frost/shop-terminal-witnesses-1.0.5.json",
       "sha256": "02304a928a66b89f580bc3cf44d1789c6ab64a597e4f1dadf5bdc16078369c85",
+      "bytes": 963005
+    },
+    {
+      "path": "work/alone-against-frost/tier-terminal-api-1.0.5.json",
+      "sha256": "e7d9f3ce7ac4da7032c0f531f29561be6483a39cf707641752cf9d7357123a56",
+      "bytes": 11563
+    },
+    {
+      "path": "work/alone-against-frost/tier-terminal-witnesses-1.0.5.json",
+      "sha256": "3ae70387309b5690890113260577c8d9214b3e8571dd08fdafbf8ec86e8ee668",
       "bytes": 963005
     },
     {
