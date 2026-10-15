@@ -3044,3 +3044,32 @@ html {
 .template-card > .secondary-button + .secondary-button {
   margin-top: 10px;
 }
+
+.leaderboard-library { display: grid; gap: 22px; }
+.leaderboard-toolbar, .leaderboard-pagination { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.leaderboard-toolbar label { display: flex; align-items: center; gap: 12px; }
+.leaderboard-toolbar select { max-width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: inherit; font: inherit; }
+.leaderboard-summary { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin: 0; }
+.leaderboard-summary > div, .leaderboard-self, .leaderboard-row { border: 1px solid var(--border); border-radius: 12px; padding: 20px; background: var(--surface); }
+.leaderboard-summary dt, .leaderboard-row dt { font-size: 12px; opacity: .7; }
+.leaderboard-summary dd { margin: 10px 0 0; font-size: 28px; font-variant-numeric: tabular-nums; }
+.leaderboard-self { display: flex; align-items: center; gap: 14px; }
+.leaderboard-self p { margin: 6px 0 0; font-size: 13px; opacity: .75; }
+.leaderboard-list { display: grid; gap: 10px; padding: 0; margin: 0; list-style: none; }
+.leaderboard-row { display: grid; grid-template-columns: 54px minmax(90px, 1fr) minmax(0, 3fr); align-items: center; gap: 14px; }
+.leaderboard-rank { font-size: 22px; font-variant-numeric: tabular-nums; }
+.leaderboard-name { overflow-wrap: anywhere; }
+.leaderboard-name > span { display: inline-block; margin-left: 8px; font-size: 12px; opacity: .65; }
+.leaderboard-row dl { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; margin: 0; }
+.leaderboard-row dd { margin: 7px 0 0; font-variant-numeric: tabular-nums; }
+.leaderboard-row.is-self { border-color: var(--accent); }
+.leaderboard-pagination > span { font-size: 13px; }
+@media (max-width: 720px) {
+  .leaderboard-summary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .leaderboard-toolbar { align-items: stretch; flex-direction: column; }
+  .leaderboard-toolbar label { justify-content: space-between; }
+  .leaderboard-row { grid-template-columns: 42px minmax(0, 1fr); padding: 16px; }
+  .leaderboard-row dl { grid-column: 1 / -1; grid-template-columns: repeat(3, minmax(0, 1fr)); row-gap: 16px; }
+  .leaderboard-pagination { gap: 8px; }
+  .leaderboard-pagination button { padding: 10px 12px; }
+}

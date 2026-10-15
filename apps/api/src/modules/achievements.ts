@@ -1,22 +1,12 @@
+import { confirmedEndings, endingLabel } from "./confirmed-endings.js";
 import { buildEndingNumbers } from "./ending-numbers.js";
 import { endingReward } from "../../../../packages/contracts/shop.js";
 import type { DatabaseSync } from "node:sqlite";
-import type {
-  Story,
-  StoryNode,
-  HistoryFrame,
-} from "../../../../packages/contracts/index.js";
+import type { Story } from "../../../../packages/contracts/index.js";
 import {
   endingAchievementId,
   type Achievement,
 } from "../../../../packages/contracts/achievements.js";
-
-function endingLabel(node: StoryNode) {
-  const terminal = node.program?.find(
-    (step) => step.kind === "end" && step.collect !== false,
-  );
-  return node.ending ?? (terminal?.kind === "end" ? terminal.label : undefined);
-}
 
 // The committed terminal history is the source of truth. This also recognises
 // endings reached before achievements existed without a second unlock ledger.
@@ -47,31 +37,11 @@ export function readAchievements(
       });
     }
   }
-  const rows = db
-    .prepare(
-      `
-    SELECT h.frame, h.run_id, r.story_id, r.story_version
-    FROM run_history h JOIN runs r ON r.id = h.run_id
-    WHERE r.user_id = ? AND json_extract(h.frame, '$.scene.status') = 'ended'
-    AND NOT EXISTS(SELECT 1 FROM shop_discarded_checks d WHERE d.run_id=h.run_id AND d.sequence=h.sequence)
-    AND NOT EXISTS(SELECT 1 FROM shop_check_windows w WHERE w.run_id=h.run_id AND w.revision=h.sequence)
-    ORDER BY json_extract(h.frame, '$.createdAt'), h.rowid
-  `,
-    )
-    .all(owner);
-  for (const row of rows) {
-    const frame = JSON.parse(row.frame as string) as HistoryFrame;
-    const story = stories.get(`${row.story_id}@${row.story_version}`);
-    if (!story) continue;
-    const node = frame.scene.collection?.endingId
-      ? story.nodes.find((node) => node.id === frame.scene.collection!.endingId)
-      : story.nodes.find(
-          (node) =>
-            node.title === frame.scene.title &&
-            node.chapter === frame.scene.chapter &&
-            endingLabel(node),
-        );
-    if (!node || !endingLabel(node)) continue;
+  for (const { frame, story, node, runId } of confirmedEndings(
+    db,
+    stories,
+    owner,
+  )) {
     const id = endingAchievementId(story.id, node.id);
     let achievement = catalog.get(id);
     if (!achievement) {
@@ -96,7 +66,7 @@ export function readAchievements(
       (currentNode && endingLabel(currentNode)) || endingLabel(node)!;
     achievement.description = `在《${story.title}》中抵达「${achievement.title}」。`;
     achievement.unlockedAt = frame.createdAt;
-    achievement.runId = row.run_id as string;
+    achievement.runId = runId;
     achievement.rewardPoints = endingReward(story.id, node.id);
     const claim = db
       .prepare(

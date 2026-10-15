@@ -1,4 +1,6 @@
 import type { CharacterLibraryEntry } from "../../../packages/character-library/index.js";
+import { readLeaderboard } from "./modules/leaderboard.js";
+import { LEADERBOARD_SORTS } from "../../../packages/community/leaderboard.js";
 import { SHOP_RULES_VERSION } from "../../../packages/contracts/shop.js";
 import {
   consumeItem,
@@ -247,6 +249,15 @@ export async function buildApp(
       .map((r) => ({ id: r.id, character: JSON.parse(r.character as string),
         ...(origins.has(r.id as string) ? { origin: origins.get(r.id as string) } : {}),
       }));
+  });
+  app.get("/api/leaderboard", async (request) => {
+    const owner = user(request);
+    const query = z.object({
+      sort: z.enum(LEADERBOARD_SORTS).default("endings"),
+      page: z.coerce.number().int().min(1).max(1000000).default(1),
+      limit: z.coerce.number().int().min(1).max(50).default(20),
+    }).strict().parse(request.query);
+    return readLeaderboard(db, owner.id, stories, query);
   });
   app.get("/api/achievements", async (request) =>
     readAchievements(db, user(request).id, stories),

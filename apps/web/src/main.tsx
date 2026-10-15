@@ -1,4 +1,5 @@
 import type { CharacterLibraryEntry } from "../../../packages/character-library/index";
+import { LeaderboardLibrary } from "./components/LeaderboardLibrary";
 import { STORY_UNLOCKS } from "../../../packages/contracts/shop";
 import { version as gameVersion } from "../../../package.json";
 import { ShopLibrary } from "./components/ShopLibrary";
@@ -92,6 +93,7 @@ type Page =
   | "runs"
   | "archive"
   | "characters"
+  | "leaderboard"
   | "achievements"
   | "shop"
   | "play";
@@ -379,6 +381,7 @@ function App() {
             "archive",
             "characters",
             "achievements",
+            "leaderboard",
             "shop",
           ].includes(p)
         )
@@ -695,6 +698,7 @@ function App() {
     { page: "library" as Page, label: "剧本馆", icon: Compass },
     { page: "runs" as Page, label: "我的调查", icon: Layers },
     { page: "achievements" as Page, label: "成就", icon: Trophy },
+    { page: "leaderboard" as Page, label: "排行榜", icon: Trophy },
     { page: "shop" as Page, label: "商店", icon: ShoppingBag },
     { page: "archive" as Page, label: "回忆档案", icon: History },
     { page: "characters" as Page, label: "调查员", icon: UserRound },
@@ -714,6 +718,7 @@ function App() {
     archive: "回忆档案",
     characters: "调查员",
     achievements: "成就",
+    leaderboard: "排行榜",
     shop: "商店",
     play: scene?.storyTitle ?? "调查进行中",
   };
@@ -1281,6 +1286,8 @@ function App() {
               <p className="page-description">
                 {page === "runs"
                   ? "继续未完成的调查，或重看已抵达的结局。"
+                  : page === "leaderboard"
+                    ? "看看大家收集了多少结局，以及自己的调查足迹。"
                   : page === "achievements"
                     ? "每个结局对应一项成就，抵达后解锁并可领取余烬点。"
                     : page === "shop"
@@ -1301,6 +1308,8 @@ function App() {
                     登录或创建账号 <ArrowRight size={16} />
                   </button>
                 </div>
+              ) : page === "leaderboard" ? (
+                <LeaderboardLibrary key={user.id} owner={user.id} />
               ) : page === "achievements" ? (
                 <AchievementLibrary
                   key={user.id}
