@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "91"
+  ],
+  "text": [
+    "你伸展着四肢、转着脖子，尽量放松肌肉。然后，你到床边打开自己的行李箱。你抿着嘴唇挑选符合心意的衣服。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 91",
+      "textRef": "default"
+    }
+  }
+}

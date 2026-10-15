@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "157"
+  ],
+  "text": [
+    "虽然花的时间比你想象的长些，你还是找到了林间小道，顺着回到了马克的小屋。太阳已经完全落下。",
+    "你不由自主地感觉你刚才与某种恐怖事件仅有一线之隔。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 157",
+      "textRef": "default"
+    }
+  }
+}

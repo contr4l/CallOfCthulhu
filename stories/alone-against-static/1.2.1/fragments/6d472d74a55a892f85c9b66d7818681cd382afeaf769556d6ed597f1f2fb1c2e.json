@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "167"
+  ],
+  "text": [
+    "不。不要！你抱着头，跌跌撞撞地跑向树林。一阵强烈的刺痛从你脑中爆开，让你的视野模糊。你跑进树林，盲目地朝深处跑去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 167",
+      "textRef": "default"
+    }
+  }
+}

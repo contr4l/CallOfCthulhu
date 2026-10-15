@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "100"
+  ],
+  "text": [
+    "你太慢了。锯齿状的木板在床垫的重压下破碎，刺进你的身侧。你从床下挣脱出来，但侧腹留下一道锯齿状的伤口。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 100",
+      "textRef": "default"
+    }
+  }
+}

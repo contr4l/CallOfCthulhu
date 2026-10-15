@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "370"
+  ],
+  "text": [
+    "叹了口气，你回到小屋里、关上门、又脱掉鞋子。与整个世界分离，却仍能呆在这个安全的小屋里让你感到一种特殊的舒适。就像是将一株现代生活种在荒野中。",
+    "你只是希望能看电视。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 370",
+      "textRef": "default"
+    }
+  }
+}

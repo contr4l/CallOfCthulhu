@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "45"
+  ],
+  "text": [
+    "你小心地下到河岸边。落叶和松针被溪水冲向下游，就像是在激流中漂流。",
+    "你在溪边跪下，捧起一捧水送到嘴边。溪水凉爽可人，让你精神焕发。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 45",
+      "textRef": "default"
+    }
+  }
+}

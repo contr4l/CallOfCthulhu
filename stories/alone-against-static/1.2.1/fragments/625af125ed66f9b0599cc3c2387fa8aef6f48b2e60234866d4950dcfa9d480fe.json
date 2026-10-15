@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "121"
+  ],
+  "text": [
+    "你走到门边，打开门闩，拉开门。“你好？”",
+    "陌生人上下打量着你。他的脸上毫无表情。",
+    "“你好，”他面无表情地说着。他从你肩膀上往屋里看去。“茱莉在家吗？”",
+    "茱莉，是马克的妻子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 121",
+      "textRef": "default"
+    }
+  }
+}

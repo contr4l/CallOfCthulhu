@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "185"
+  ],
+  "text": [
+    "你快步走到电视前，锤了一下电源按钮。",
+    "毫无反应。",
+    "电视调到了磁带机的输入，没有画面的屏幕发散着暗淡的光。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 185",
+      "textRef": "default"
+    }
+  }
+}

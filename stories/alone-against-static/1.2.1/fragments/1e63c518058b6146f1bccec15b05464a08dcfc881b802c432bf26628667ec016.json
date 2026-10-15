@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "156"
+  ],
+  "text": [
+    "跟着这样一个怪人深入森林太危险了。你转身试着找到回去的路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 156",
+      "textRef": "default"
+    }
+  }
+}

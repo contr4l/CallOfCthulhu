@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "163"
+  ],
+  "text": [
+    "你决定趁着还有机会，及早脱身。",
+    "你赶回小屋，所幸没有听到追赶的声音。",
+    "不久，你就回到了安全的室内。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 163",
+      "textRef": "default"
+    }
+  }
+}

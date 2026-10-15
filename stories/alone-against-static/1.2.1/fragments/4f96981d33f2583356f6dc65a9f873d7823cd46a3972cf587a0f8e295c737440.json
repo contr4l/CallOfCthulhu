@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "50"
+  ],
+  "text": [
+    "你小心地走到岸边。落叶和松针被溪水冲向下游，就像是在激流中漂流。你扶着一棵树稳住身子，慢慢坐在岸边的地上，然后躺了下去。你闭着眼睛享受微风抚过脸颊和头发，享受阳光照在脸上，在你眼皮上映出红黄的色块。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 50",
+      "textRef": "default"
+    }
+  }
+}

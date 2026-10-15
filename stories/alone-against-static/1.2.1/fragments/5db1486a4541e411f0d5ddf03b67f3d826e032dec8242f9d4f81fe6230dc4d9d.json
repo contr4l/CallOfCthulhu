@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "241"
+  ],
+  "text": [
+    "你在周边搜寻着，寻找一切可以防身的东西。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 241",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "253"
+  ],
+  "text": [
+    "你握住华丽匕首的刀柄。它威力无穷。你感觉自己威力无穷。",
+    "你在门边站好，握着匕首，你准备好了。",
+    "只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 253",
+      "textRef": "default"
+    }
+  }
+}

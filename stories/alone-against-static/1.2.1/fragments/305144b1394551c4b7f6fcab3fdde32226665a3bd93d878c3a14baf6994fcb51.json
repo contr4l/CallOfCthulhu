@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "220"
+  ],
+  "text": [
+    "你慢慢从电视机前退开。这不对劲。这太不对劲了。",
+    "不说别的，音量是关掉了。你很确定。那么……他是怎么……你的名字？你伴侣的名字？",
+    "没有一处对劲。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 220",
+      "textRef": "default"
+    }
+  }
+}

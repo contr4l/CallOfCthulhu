@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "245"
+  ],
+  "text": [
+    "一定有什么东西能用。你的视线扫过没拆包的蔬菜、扔在一边的录像带和叠得很整齐的麻布。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 245",
+      "textRef": "default"
+    }
+  }
+}

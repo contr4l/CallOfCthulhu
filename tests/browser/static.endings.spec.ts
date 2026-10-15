@@ -31,6 +31,8 @@ const test = base.extend<{ witness: Witness | undefined }>({
     const access = staticAccessFixture();
     const app = await buildApp({
       databasePath: access.databasePath,
+      storyRoot: process.env.STATIC_STORY_ROOT ?? "stories",
+      rateLimitMax: 10000,
       dice: (min, max) => {
         const draw = draws.shift();
         expect(draw, `unexpected ${min}..${max} draw`).toBeDefined();
@@ -106,7 +108,7 @@ for (const witness of report.routes)
     test.use({ witness });
     test("play from creation to the ending through actual buttons and reload saved dice", async ({
       page,
-    }) => {
+    }, info) => {
       test.setTimeout(240_000);
       await page.goto("/");
       await page.getByRole("button", { name: /登录档案室/ }).click();
@@ -138,10 +140,43 @@ for (const witness of report.routes)
       let scene = await read(page),
         reloaded = false;
       for (const step of witness.steps) {
-        // Long witnesses must respect the unchanged production request limit.
-        if (witness.steps.length > 50)
-          await new Promise((resolve) => setTimeout(resolve, 1000));
         expect(scene.collection!.chapterId).toBe(step.node.split("-")[0]);
+        const reviewed: Record<string, string> = {
+          "62": "返回棚屋",
+          "65": "返回棚屋",
+          "138": "要回到小屋去锁好门",
+          "240": "要回到小屋去",
+        };
+        const caption = reviewed[step.node];
+        if (caption) {
+          await expect(
+            page
+              .locator(".choices")
+              .getByRole("button", {
+                name: new RegExp(`^\\d+\\s+${caption}$`),
+              }),
+          ).toBeVisible();
+          await expect(
+            page
+              .locator(".choices")
+              .getByRole("button", { name: /^(?:\d+\s+)?(?:要|或者)$/ }),
+          ).toHaveCount(0);
+          if (step.node === "138")
+            await expect(
+              page
+                .locator(".choices")
+                .getByRole("button", { name: /^\d+\s+要跟着他深入森林$/ }),
+            ).toBeVisible();
+          expect(
+            await page.evaluate(
+              () => document.documentElement.scrollWidth <= innerWidth,
+            ),
+          ).toBeTruthy();
+          await page.screenshot({
+            path: info.outputPath(`chapter-${step.node}.png`),
+            fullPage: true,
+          });
+        }
         const index = scene.actions.findIndex(
           (action) => action.id === step.action,
         );

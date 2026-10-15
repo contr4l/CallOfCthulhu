@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "295"
+  ],
+  "text": [
+    "你一步踩在一块松动的地板上，发出响亮的咔嚓一声。声音在小屋里回荡。陌生人咆哮着，吼声从屋外不远处传来。你来不及反应，他就冲进屋里，朝你冲来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 295",
+      "textRef": "default"
+    }
+  }
+}

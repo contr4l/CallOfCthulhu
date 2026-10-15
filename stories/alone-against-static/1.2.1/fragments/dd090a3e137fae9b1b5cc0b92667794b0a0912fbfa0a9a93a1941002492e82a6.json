@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "88"
+  ],
+  "text": [
+    "尽你仍然因为冲澡微微发热，你还是不由得打了个冷颤。你把焦虑压到一边。这门可能只是自己开了，小屋里的一切都有点不好用。",
+    "该穿衣服了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 88",
+      "textRef": "default"
+    }
+  }
+}

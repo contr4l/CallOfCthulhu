@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "279"
+  ],
+  "text": [
+    "你冲过空地，把自己挂在亚历克斯身上。“天哪！我担心死了！”你紧紧地抱住她。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 279",
+      "textRef": "default"
+    }
+  }
+}

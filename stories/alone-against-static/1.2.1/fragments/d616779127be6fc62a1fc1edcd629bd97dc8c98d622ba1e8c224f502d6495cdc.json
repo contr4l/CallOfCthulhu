@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "107"
+  ],
+  "text": [
+    "森林深邃、阴暗而孤独。你孤身一人处在一座没有供电的小屋里，安慰着自己一切都会好起来。现在太阳还在空中，你尚可以骗骗自己。但是，你很清楚，太阳每分每秒都在朝着地平线落下，将要把你留在黑暗中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 107",
+      "textRef": "default"
+    }
+  }
+}

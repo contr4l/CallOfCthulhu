@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "255"
+  ],
+  "text": [
+    "你没换衣服就钻进被子。至少这里还很暖和。你把手电筒关掉，放在床边。你抱着枕头蜷成一团，听着外面的风声，等待睡眠降临。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 255",
+      "textRef": "default"
+    }
+  }
+}

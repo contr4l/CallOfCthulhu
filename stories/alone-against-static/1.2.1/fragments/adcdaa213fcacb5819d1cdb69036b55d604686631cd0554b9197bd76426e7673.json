@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "95"
+  ],
+  "text": [
+    "你知道车里有一支强光手电，但是车已经开走了。你在小屋里有些什么呢？如果天黑了，你就会陷于黑暗。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 95",
+      "textRef": "default"
+    }
+  }
+}

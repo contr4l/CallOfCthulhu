@@ -1,0 +1,21 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "153"
+  ],
+  "text": [
+    "你把双臂抱在胸前，也盯着他。你不愿让这家伙看到你示弱。",
+    "突然，他朝你跑来。",
+    "他跑得拼了命，眼睛一眨不眨，双掌随着脚步摆动着划破空气。",
+    "他朝着你直冲而来。",
+    "你蹒跚着往旁边躲了一步，尝试逃离。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 153",
+      "textRef": "default"
+    }
+  }
+}

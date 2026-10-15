@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "120"
+  ],
+  "text": [
+    "你要保证小屋的安全。你检查了找得到的每一处锁。你把门关好锁上，又从里面插上门闩。然后，你走进浴室也把窗户闩好。其他的窗户都打不开，小屋只有前门可以进出。看起来很安全。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 120",
+      "textRef": "default"
+    }
+  }
+}

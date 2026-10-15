@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "108"
+  ],
+  "text": [
+    "在这样一座小屋里，你实在想不到什么好做，疲劳感也逐渐浮现。有一会儿，你躺在沙发上读一本在书架角落找到的陈旧破烂的平装书。你感觉这书写得挺好的，就是有点花哨、有点用力过度，而且用第二人称写散文实在有点刺耳。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 108",
+      "textRef": "default"
+    }
+  }
+}

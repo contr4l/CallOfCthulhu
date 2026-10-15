@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "82"
+  ],
+  "text": [
+    "你定了定神，坚决地盯着这个不祥的棚屋。那又怎样？里面确实很黑，但是外面可是大白天。",
+    "棚子这么小，你离门口永远也不会超过两步远。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 82",
+      "textRef": "default"
+    }
+  }
+}

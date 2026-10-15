@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "52"
+  ],
+  "text": [
+    "你站起身，把手圈在嘴边，喊道：“你好？”",
+    "你的声音回响片刻，却被绵密的枝叶和流水吞噬。",
+    "你在原处又站了几分钟，没有人回答你。在这森林中你是孤身一人。",
+    "真吓人。你还是回到小路上好了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 52",
+      "textRef": "default"
+    }
+  }
+}

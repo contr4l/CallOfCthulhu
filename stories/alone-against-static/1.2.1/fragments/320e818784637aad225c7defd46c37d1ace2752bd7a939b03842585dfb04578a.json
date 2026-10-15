@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "244"
+  ],
+  "text": [
+    "你有武器！你跑到上午健步时穿的衣服边摸索着，抽出从棚屋中找到的那把虽然发霉但还很结实的锤子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 244",
+      "textRef": "default"
+    }
+  }
+}

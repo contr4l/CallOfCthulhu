@@ -1,0 +1,20 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "105"
+  ],
+  "text": [
+    "“饿坏了。做汉堡好吗？”",
+    "亚历克斯微笑着说，“当然。”",
+    "你拖着包走向小屋开了门，伸进一只手摸着电灯开关，然后开了灯。",
+    "亚历克斯朝里看了看，赞许地点了点头。“喔，看着挺舒服嘛。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 105",
+      "textRef": "default"
+    }
+  }
+}

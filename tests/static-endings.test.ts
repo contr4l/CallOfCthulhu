@@ -1,8 +1,9 @@
+import { runtimeFingerprint } from "../tools/story/runtime-fingerprint.js";
 import { openDatabase } from "../apps/api/src/storage/database.js";
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { createHash, randomUUID } from "node:crypto";
-import { mkdtempSync, readFileSync, rmSync } from "node:fs";
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import { buildApp } from "../apps/api/src/app.js";
@@ -123,6 +124,9 @@ test("published bug fix retains old versions and the exhausted-box route can now
 });
 
 test("all 28 role/ending routes execute through authenticated API, database restart and ending collections", async (t) => {
+  const verified: Witness[] = [];
+  const storyRoot = process.env.STATIC_STORY_ROOT ?? "stories";
+  const expectedVersion = "1.2.1";
   for (const witness of report.perRoleRoutes)
     await t.test(
       `role ${witness.role} ending ${witness.endingId}`,
@@ -132,6 +136,7 @@ test("all 28 role/ending routes execute through authenticated API, database rest
           count = 0;
         const options = {
           databasePath: join(root, "game.sqlite"),
+          storyRoot,
           dice: (min: number, max: number) => {
             const draw = draws.shift();
             assert.ok(draw, `unexpected API dice ${min}..${max}`);
@@ -188,6 +193,16 @@ test("all 28 role/ending routes execute through authenticated API, database rest
           });
           assert.equal(started.statusCode, 201, started.body);
           let scene = started.json<SceneView>();
+          const saved = openDatabase(options.databasePath);
+          assert.equal(
+            (
+              saved
+                .prepare("SELECT story_version FROM runs WHERE id=?")
+                .get(scene.runId) as { story_version: string }
+            ).story_version,
+            expectedVersion,
+          );
+          saved.close();
           let duplicated = false;
           for (const [index, step] of witness.steps.entries()) {
             assert.equal(draws.length, 0);
@@ -269,10 +284,47 @@ test("all 28 role/ending routes execute through authenticated API, database rest
             ),
           );
           assert.ok(duplicated);
+          verified.push(witness);
         } finally {
           await app.close();
           rmSync(root, { recursive: true, force: true });
         }
       },
     );
+  if (process.env.STATIC_API_REPORT) {
+    assert.equal(verified.length, 28);
+    writeFileSync(
+      process.env.STATIC_API_REPORT,
+      JSON.stringify(
+        {
+          storyId: story.id,
+          version: expectedVersion,
+          manifestSha256: createHash("sha256")
+            .update(
+              readFileSync(
+                join(storyRoot, story.id, expectedVersion, "story.json"),
+              ),
+            )
+            .digest("hex"),
+          runtimeFingerprint: runtimeFingerprint(),
+          verifiedAt: new Date().toISOString(),
+          checks: [
+            "authenticated API",
+            "exact dice and transitions",
+            "command idempotency",
+            "database restart",
+            "ending collection",
+            "achievement unlock",
+          ],
+          roles: 2,
+          endingsPerRole: 14,
+          verifiedCount: verified.length,
+          missing: [],
+          routes: verified,
+        },
+        null,
+        2,
+      ) + "\n",
+    );
+  }
 });

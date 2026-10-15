@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "251"
+  ],
+  "text": [
+    "小屋里怎么会没有一件东西能用？你前后摸索着，但是没摸到任何堪用的武器。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 251",
+      "textRef": "default"
+    }
+  }
+}

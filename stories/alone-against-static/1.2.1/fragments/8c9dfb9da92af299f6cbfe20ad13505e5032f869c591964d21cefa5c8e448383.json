@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "257"
+  ],
+  "text": [
+    "“是谁？”你喊道。",
+    "屋外的男人无言地尖啸着。他更暴戾地撞着门。铰链开始扭曲，门锁开始变形。他随时都会闯进来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 257",
+      "textRef": "default"
+    }
+  }
+}

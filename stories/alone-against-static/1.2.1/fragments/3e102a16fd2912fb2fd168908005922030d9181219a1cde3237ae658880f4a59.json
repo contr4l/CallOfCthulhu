@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "342"
+  ],
+  "text": [
+    "你转过身，在空地边缘的树木前站着查理。他的衣服上飞溅着泥土，头发里缠着断枝。但他在这里，他活得好好的，他在冲着你笑。",
+    "“宝贝，”他说，“没事了。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 342",
+      "textRef": "default"
+    }
+  }
+}

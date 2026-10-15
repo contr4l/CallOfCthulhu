@@ -1,12 +1,13 @@
-"""Publish Static's web presentation using the already reviewed 1.0.0 rules.
-Keep the original TXT and published 1.0.0 package untouched.
+"""Publish reviewed Static presentation updates while retaining old packages.
+The 1.2.1 caption repair is derived from the published 1.2.0 runtime.
 """
 import copy
 import hashlib
 import json
 import re
 from pathlib import Path
-from pack import pack_story
+from pack import pack_story, unpack
+from static_choice_labels import static_choice_label
 from txt_graph import extract
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -43,7 +44,7 @@ def narrative(lines):
     return paragraphs
 
 
-def main():
+def build_legacy_presentations():
     folder = ROOT / "stories/alone-against-static"
     old = json.loads((folder / "1.0.0/story.json").read_text())
     source_text = SOURCE.read_text()
@@ -98,5 +99,49 @@ def main():
     print("Static 1.1.0/1.2.0:", len(story["nodes"]), "nodes,", len(ENDINGS), "endings")
 
 
+def main(output=None):
+    base = ROOT / "stories/alone-against-static/1.2.0/story.json"
+    story = unpack(base)
+    raw = {key: text.strip().splitlines() for key, text in re.findall(
+        r"\$t1 == '(\d+)'\?\s*`([\s\S]*?)`", SOURCE.read_text(),
+    ) if int(key) < 372}
+    expected = {
+        ("62", "to-57"): "返回棚屋", ("65", "to-57"): "返回棚屋",
+        ("138", "to-120"): "要回到小屋去锁好门",
+        ("177", "to-182"): "要回到小屋里锁好门",
+        ("240", "to-294"): "要回到小屋去",
+    }
+    updated = {}
+    for node in story["nodes"]:
+        for step in node.get("program", []):
+            for option in step.get("choices", []):
+                key = (node["id"], option["id"])
+                if key not in expected:
+                    continue
+                candidates = []
+                for line in raw[node["sourceId"]]:
+                    match = re.search(r"(?:转到|回到)\s*(\d+)", line)
+                    if match and match[1] == option["target"]:
+                        candidates.append(static_choice_label(node["sourceId"], line, match))
+                if candidates != [expected[key]]:
+                    raise ValueError(f"Source choice requires review: {key}: {candidates}")
+                option["label"] = candidates[0]
+                updated[key] = candidates[0]
+    assert updated == expected
+    story["version"] = "1.2.1"
+    story["source"]["notes"].append(
+        "1.2.1仅修复62、65、138、177、240五处选项文案。按带编号的跳转指令定位边界，"
+        "保留动作中的‘回到小屋’；62、65的‘或者’依据第57节补为‘返回棚屋’。"
+        "所有选项ID、目标、条件、次数、骰点、角色和正文均与1.2.0一致；旧包与旧局保留。"
+    )
+    target = Path(output) if output else ROOT / "stories/alone-against-static/1.2.1"
+    result = pack_story(story, target)
+    print(json.dumps({"version": story["version"], "updated": len(updated), **result}, ensure_ascii=False))
+
+
 if __name__ == "__main__":
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--output", type=Path)
+    args = parser.parse_args()
+    main(args.output)

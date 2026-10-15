@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "179"
+  ],
+  "text": [
+    "雪花。雪花。嚎叫着的雪花。在树林间。在土地上。在你面前。在你喉咙里。在你肠胃中。在你眼球后。嚎叫着、嚎叫着、嚎叫着。密不透风的雪花白噪声。你跑回屋里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 179",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "264"
+  ],
+  "text": [
+    "陌生人身形不稳，你的位置更占上风。你冲上前去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 264",
+      "textRef": "default"
+    }
+  }
+}

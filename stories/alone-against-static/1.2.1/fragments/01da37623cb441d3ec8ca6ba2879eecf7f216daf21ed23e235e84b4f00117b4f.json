@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "329",
+    "329-die"
+  ],
+  "text": [
+    "你遭遇的太多了。你的大脑短路了。你眨着眼，想理解刚才看见的一切。你无助地希望自己不要理解……",
+    "（疯狂发作）"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 329",
+      "textRef": "default"
+    }
+  }
+}

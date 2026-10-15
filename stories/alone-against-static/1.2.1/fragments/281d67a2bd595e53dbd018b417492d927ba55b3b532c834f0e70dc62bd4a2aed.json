@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "90"
+  ],
+  "text": [
+    "水流温暖、干净、治愈。你喜欢热水流过皮肤的感觉。你甚至感觉这里水的气味都和城里不一样。",
+    "你一直在热水里冲着，直到自己完全放松下来。你已经准备好微笑着面对下午了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 90",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "178"
+  ],
+  "text": [
+    "气温很低，风逐渐变强。外面比你想象得更吵闹。你分辨不出是什么声音，只听出一种长啸。",
+    "听起来像是一种沉重的白噪音，像是尖叫怒号着的雪花噪音。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 178",
+      "textRef": "default"
+    }
+  }
+}

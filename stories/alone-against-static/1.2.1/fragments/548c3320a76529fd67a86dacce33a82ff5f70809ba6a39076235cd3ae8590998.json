@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "230"
+  ],
+  "text": [
+    "你撞进小屋，想要把门甩上。门只关了一半男人就撞了上来。他的手臂插进门缝里，撑着不让你关门。被夹住的肢体朝着你狂野地挥舞着。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 230",
+      "textRef": "default"
+    }
+  }
+}

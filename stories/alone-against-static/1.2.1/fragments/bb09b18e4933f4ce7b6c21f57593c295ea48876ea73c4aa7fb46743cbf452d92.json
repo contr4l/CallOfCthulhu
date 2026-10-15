@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "293"
+  ],
+  "text": [
+    "你爬出浴缸，打开浴室门，冲进小屋。在你身后，陌生人正挤过窗框，发出咕噜咕噜的声音。",
+    "他就要进来了！",
+    "抬起头，你看到眼前的门开着。没有什么挡着你的路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 293",
+      "textRef": "default"
+    }
+  }
+}

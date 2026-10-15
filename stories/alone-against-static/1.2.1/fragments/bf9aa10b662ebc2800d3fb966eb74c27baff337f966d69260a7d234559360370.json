@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "325"
+  ],
+  "text": [
+    "疼痛击穿你的身体。你眼前发黑。",
+    "（重伤）"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 325",
+      "textRef": "default"
+    }
+  }
+}

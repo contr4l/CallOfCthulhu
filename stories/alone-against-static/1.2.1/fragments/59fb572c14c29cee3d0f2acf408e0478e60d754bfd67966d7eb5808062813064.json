@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "261"
+  ],
+  "text": [
+    "陌生人疯癫又危险，但你强壮、熟练、幸运，或者三者皆有。你一击得手。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 261",
+      "textRef": "default"
+    }
+  }
+}

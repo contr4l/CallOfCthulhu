@@ -3,6 +3,7 @@ Pattern extraction handles regular paragraphs; explicit overrides below encode s
 The build fails on a paragraph without an executable exit, or any missing target.
 """
 import json,re,zipfile,hashlib
+from static_choice_labels import static_choice_label
 from pathlib import Path
 from html.parser import HTMLParser
 ROOT=Path(__file__).resolve().parents[2]
@@ -96,7 +97,7 @@ def parse_static(k,lines):
   if es and not l.startswith(('要','或者，要')) and (not l.startswith('如果') or '生命值有损失' in l):prog.append(effects(*es));continue
   t=re.search(r'(?:转到|回到)\s*(\d+)',l)
   if t and not l.startswith('如果'):
-   label=re.split(r'(?:转到|回到)',l)[0].strip('，。 *') or '继续'
+   label=static_choice_label(k,l,t)
    cs.append(choice(label,t[1],once=(k+'-'+t[1]) if once else None,id='to-'+t[1]))
  if cs:prog.append(choices(*cs))
  elif any('结局' in l or '完成了整个故事' in l for l in lines):prog.append(end('结局 · '+k))

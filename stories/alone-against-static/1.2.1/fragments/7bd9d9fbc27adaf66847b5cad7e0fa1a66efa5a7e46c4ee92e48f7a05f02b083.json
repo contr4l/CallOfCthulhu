@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "115"
+  ],
+  "text": [
+    "你从这陌生人身边看去，在他身后你们停车的地方还是一片空地。这个人一定是走着来小屋的。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 115",
+      "textRef": "default"
+    }
+  }
+}

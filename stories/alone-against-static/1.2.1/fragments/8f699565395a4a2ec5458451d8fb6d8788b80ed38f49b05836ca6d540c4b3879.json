@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "247"
+  ],
+  "text": [
+    "本能驱使着你冲到厨房里打开抽屉，摸索着餐具。",
+    "你的手指碰到一把牛排刀。只能靠它了……",
+    "你走出厨房，站在门边，一只手紧紧握住牛排刀。只过了几秒钟，门砰地被撞开，陌生人走了进来。他朝着你冲来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 247",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "214"
+  ],
+  "text": [
+    "你用手指堵住耳朵，用手肘顶了一下停止键。",
+    "小屋又安静下来。电视静静地坐在那里发着光。",
+    "你把手了拿下来，心脏还在胸腔里狂跳。他的话。他是怎么知道这些名字的？他是怎么知道你的？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 214",
+      "textRef": "default"
+    }
+  }
+}

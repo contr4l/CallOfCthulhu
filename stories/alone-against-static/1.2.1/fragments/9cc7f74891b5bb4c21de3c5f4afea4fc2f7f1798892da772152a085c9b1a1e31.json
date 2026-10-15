@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "201"
+  ],
+  "text": [
+    "你的眼睛在视频的像素间游离。你贴到屏幕前，研究着、倾听着、寻找着一切隐藏的事物。",
+    "但是那里什么都没有。如果在这盘磁带中有什么隐藏的秘密，也不是你找得到的。",
+    "最终，你垂头丧气地退出磁带。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 201",
+      "textRef": "default"
+    }
+  }
+}

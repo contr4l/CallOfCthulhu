@@ -1,0 +1,18 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "303"
+  ],
+  "text": [
+    "你转过身朝着声音的方向。你没再听到那声音。“有人吗？”你朝着黑暗询问着。没有回复。",
+    "你把手电筒指向前方，照出树干、石头和倒下的枯木。没什么不寻常的。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 303",
+      "textRef": "default"
+    }
+  }
+}

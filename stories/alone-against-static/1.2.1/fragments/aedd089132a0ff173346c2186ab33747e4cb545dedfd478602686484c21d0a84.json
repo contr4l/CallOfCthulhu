@@ -1,0 +1,22 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "118"
+  ],
+  "text": [
+    "你不知道该说什么了。“你迷路了吗？”你问道。",
+    "“就是找茱莉。”他回答。",
+    "“你能告诉我你的名字吗？”",
+    "他盯着你。",
+    "你盯了回去。“先生？”你问道。",
+    "“茱莉在家吗？”他又问了一次。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 118",
+      "textRef": "default"
+    }
+  }
+}

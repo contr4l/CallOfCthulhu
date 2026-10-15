@@ -1,0 +1,19 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "149"
+  ],
+  "text": [
+    "你只跑出几步，就被男人追上。",
+    "他的双臂抱住你的肩膀。你向前扑倒，脸摔在土地上。",
+    "你挣扎拉扯着，但他像钢铁一样强硬。你感觉什么又湿又冷的东西抵住你的耳朵。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 149",
+      "textRef": "default"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-static",
+  "version": "1.2.1",
+  "nodeIds": [
+    "311"
+  ],
+  "text": [
+    "你刚进到崎岖的小路，手电筒就闪烁着熄灭了。你无力地喊叫着，但是没时间停下来了。你盲目地跑过树林，幸运地没有绊倒。然后，你的脚尖勾在一条蜷曲粗糙的树根上，你向前扑去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "静躁独行 · 311",
+      "textRef": "default"
+    }
+  }
+}
