@@ -6,6 +6,7 @@ import type {
 } from "../../../../packages/contracts/index";
 import { DiceRoller } from "./DiceRoller";
 import { Modal } from "./Modal";
+import { characterCreationDescription } from "../character-creation";
 const skillLabels: Record<string, string> = {
   spotHidden: "侦查",
   listen: "聆听",
@@ -21,7 +22,9 @@ export function SetupModal({
   characters,
   diceScope,
   reduced,
+  initialPresetId,
 }: {
+  initialPresetId?: string;
   story: StorySummary;
   onClose: () => void;
   onSubmit: (e: React.FormEvent<HTMLFormElement>) => Promise<void>;
@@ -37,7 +40,10 @@ export function SetupModal({
       story.presets.some((p) => p.templateId === c.character.templateId),
   );
   const [mode, setMode] = useState("preset"),
-    [preset, setPreset] = useState(story.presets[0].id),
+    [preset, setPreset] = useState(
+      story.presets.find((p) => p.id === initialPresetId)?.id ??
+        story.presets[0].id,
+    ),
     [characterId, setCharacterId] = useState(eligibleCharacters[0]?.id ?? ""),
     [name, setName] = useState(""),
     [values, setValues] = useState<Record<string, number>>({
@@ -50,21 +56,7 @@ export function SetupModal({
   const total = Object.values(values).reduce((a, b) => a + b, 0);
   return (
     <Modal title={`进入「${story.title}」`} onClose={onClose}>
-      <p className="modal-intro">
-        {story.creationPolicy === "guided"
-          ? story.rulesVersion === "aaf-solo@1"
-            ? "先为幸存者确定姓名。生命、理智、两项技能和起始装备将在剧情中确定。"
-            : story.id === "alone-against-frost"
-                ? "使用纳德尔曼博士的原书属性与幸运值，在剧情中分配职业与兴趣技能点。"
-                : story.id === "alone-against-tide"
-                  ? "选择自建调查员或伍兹博士。属性、技能加值及幸运将在剧情中确定。"
-                  : "本模组会在剧情中引导你分配属性和技能；先确定姓名。"
-          : story.creationPolicy === "fixed"
-            ? story.id === "alone-against-static"
-              ? "选择亚历克斯或查理，两人的视角与故事分支不同。"
-              : "选择一位调查员。"
-            : "先为这段故事，选择一位调查员。"}
-      </p>
+      <p className="modal-intro">{characterCreationDescription(story)}</p>
       <form onSubmit={(e) => void onSubmit(e)}>
         <label>
           {story.rulesVersion === "aaf-solo@1" ? "幸存者姓名" : "调查员姓名"}

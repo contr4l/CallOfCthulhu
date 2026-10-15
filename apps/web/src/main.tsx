@@ -1,3 +1,4 @@
+import type { CharacterLibraryEntry } from "../../../packages/character-library/index";
 import { STORY_UNLOCKS } from "../../../packages/contracts/shop";
 import { version as gameVersion } from "../../../package.json";
 import { ShopLibrary } from "./components/ShopLibrary";
@@ -153,8 +154,9 @@ function App() {
   const [stories, setStories] = useState<StorySummary[]>([]),
     [runs, setRuns] = useState<RunSummary[]>([]),
     [templates, setTemplates] = useState<
-      { id: string; character: Character }[]
+      CharacterLibraryEntry[]
     >([]);
+  const [setupPresetId, setSetupPresetId] = useState<string | undefined>();
   const [characterCatalog, setCharacterCatalog] =
     useState<CharacterTemplateCatalog>({ groups: [], templates: [] });
   const [scene, setScene] = useState<SceneView | null>(null),
@@ -233,7 +235,7 @@ function App() {
   async function refresh(includeShop = true) {
     const [r, c, wallet] = await Promise.all([
       api<RunSummary[]>("/runs"),
-      api<{ id: string; character: Character }[]>("/characters"),
+      api<CharacterLibraryEntry[]>("/characters"),
       includeShop ? api<ShopState>("/shop") : Promise.resolve(null),
     ]);
     setRuns(r);
@@ -261,10 +263,12 @@ function App() {
     setError("");
   }
   async function loadRun(id: string) {
+    const requestedFrom = location.hash;
     try {
       setBusy(true);
       setResult(null);
       const s = await api<SceneView>(`/runs/${encodeURIComponent(id)}`);
+      if (location.hash !== requestedFrom) return;
       readingPosition.current = {
         y: window.scrollY,
         visitId: s.visitId,
@@ -276,6 +280,8 @@ function App() {
       const checkWindow = await api<CheckWindow | null>(
         `/runs/${s.runId}/check-window`,
       );
+      // A late response must not reopen a run after the reader navigates away.
+      if (location.hash !== requestedFrom) return;
       setCanReroll(!!checkWindow);
       if (checkWindow) {
         sessionStorage.setItem(
@@ -456,6 +462,7 @@ function App() {
         diceStorageKey(`${user!.id}:story:${setup.id}`),
       );
       setSetup(null);
+      setSetupPresetId(undefined);
       readingPosition.current = {
         y: window.scrollY,
         visitId: s.visitId,
@@ -1316,6 +1323,15 @@ function App() {
                   owner={user!.id}
                   reduced={reduced}
                   catalog={characterCatalog}
+                  stories={stories.filter(s => AVAILABLE_STORY_IDS.has(s.id))}
+                  isStoryUnlocked={isStoryUnlocked}
+                  onStartStory={(story, presetId) => {
+                    if (!isStoryUnlocked(story.id)) { go("shop"); return; }
+                    setError("");
+                    setSetupPresetId(presetId);
+                    setSetup(story);
+                  }}
+                  onResume={(id) => void loadRun(id)}
                   characters={templates}
                   onCreate={createFromTemplate}
                   onEdit={async (
@@ -1505,7 +1521,8 @@ function App() {
             diceScope={`${user!.id}:story:${setup.id}`}
             reduced={reduced}
             story={setup}
-            onClose={() => setSetup(null)}
+            initialPresetId={setupPresetId}
+            onClose={() => { setSetup(null); setSetupPresetId(undefined); }}
             onSubmit={start}
             busy={busy}
             error={error}

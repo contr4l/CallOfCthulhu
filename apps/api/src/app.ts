@@ -1,3 +1,4 @@
+import type { CharacterLibraryEntry } from "../../../packages/character-library/index.js";
 import { SHOP_RULES_VERSION } from "../../../packages/contracts/shop.js";
 import {
   consumeItem,
@@ -222,12 +223,30 @@ export async function buildApp(
   );
   app.get("/api/characters", async (request) => {
     const owner = user(request);
+    const origins = new Map<string, CharacterLibraryEntry["origin"]>();
+    for (const run of db.prepare(
+      "SELECT id,story_id,story_version,state FROM runs WHERE user_id=? ORDER BY updated_at DESC, id",
+    ).all(owner.id)) {
+      const state = JSON.parse(run.state as string) as RunState;
+      const story = stories.get(`${run.story_id}@${run.story_version}`);
+      if (!story) continue;
+      const cards = [state, ...Object.values(state.investigators?.actors ?? {})];
+      for (const card of cards) {
+        if (!card.createdCharacterId || origins.has(card.createdCharacterId)) continue;
+        origins.set(card.createdCharacterId, {
+          storyId: story.id, storyTitle: story.title, storyVersion: story.version,
+          runId: run.id as string, status: state.status,
+        });
+      }
+    }
     return db
       .prepare(
         "SELECT id,character FROM character_templates WHERE user_id=? ORDER BY created_at DESC",
       )
       .all(owner.id)
-      .map((r) => ({ id: r.id, character: JSON.parse(r.character as string) }));
+      .map((r) => ({ id: r.id, character: JSON.parse(r.character as string),
+        ...(origins.has(r.id as string) ? { origin: origins.get(r.id as string) } : {}),
+      }));
   });
   app.get("/api/achievements", async (request) =>
     readAchievements(db, user(request).id, stories),

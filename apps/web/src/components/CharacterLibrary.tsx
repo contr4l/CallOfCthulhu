@@ -1,11 +1,12 @@
+import type { CharacterLibraryEntry } from "../../../../packages/character-library/index";
 import { CharacterProfileForm } from "./CharacterProfileForm";
 import React, { useState } from "react";
 import { ArrowRight, UserRound } from "lucide-react";
 import type {
   CharacterTemplate,
   CharacterTemplateCatalog,
-  SavedCharacter,
   CharacterProfile,
+  StorySummary,
 } from "../../../../packages/contracts/index";
 import {
   attributeLabels,
@@ -14,8 +15,13 @@ import {
 import { CharacterCard } from "./CharacterCard";
 import { DiceRoller, DiceWorkbench, diceStorageKey } from "./DiceRoller";
 import { Modal } from "./Modal";
+import { characterCreationDescription } from "../character-creation";
 export function CharacterLibrary({
   catalog,
+  stories,
+  isStoryUnlocked,
+  onStartStory,
+  onResume,
   characters,
   onCreate,
   onEdit,
@@ -25,7 +31,11 @@ export function CharacterLibrary({
   reduced,
 }: {
   catalog: CharacterTemplateCatalog;
-  characters: SavedCharacter[];
+  stories: StorySummary[];
+  isStoryUnlocked: (id: string) => boolean;
+  onStartStory: (story: StorySummary, presetId: string) => void;
+  onResume: (id: string) => void;
+  characters: CharacterLibraryEntry[];
   onEdit: (
     id: string,
     name: string,
@@ -37,7 +47,7 @@ export function CharacterLibrary({
   owner: string;
   reduced: boolean;
 }) {
-  const [editing, setEditing] = useState<SavedCharacter | null>(null);
+  const [editing, setEditing] = useState<CharacterLibraryEntry | null>(null);
   const [selected, setSelected] = useState<CharacterTemplate | null>(null);
   const [luckRollId, setLuckRollId] = useState("");
   async function submit(event: React.FormEvent<HTMLFormElement>) {
@@ -58,21 +68,49 @@ export function CharacterLibrary({
   return (
     <>
       <section className="template-section">
-        <h2>预设调查员</h2>
-        {catalog.groups.map((group) => (
-          <div className="template-group" key={group.storyId}>
-            <div className="template-group-heading">
-              <h3>{group.title}</h3>
-              <span>
-                {group.status === "official-pregenerated"
-                  ? "官方预设"
-                  : "随剧情建卡"}
-              </span>
-            </div>
-            <div className="template-grid">
-              {catalog.templates
-                .filter((t) => t.sourceStoryId === group.storyId)
-                .map((t) => (
+        <h2>按剧本创建调查员</h2>
+        <p>
+          角色创建方式由各剧本决定。随剧情建卡的角色会在开始调查后保存，并在完成分配后更新。
+        </p>
+        {stories.map((story) => {
+          const group = catalog.groups.find((g) => g.storyId === story.id);
+          const templates = catalog.templates.filter(
+            (t) =>
+              t.sourceStoryId === story.id &&
+              story.presets.some((p) => p.templateId === t.id),
+          );
+          const unlocked = isStoryUnlocked(story.id);
+          return (
+            <div className="template-group" key={story.id}>
+              <div className="template-group-heading">
+                <h3>{story.title}</h3>
+                <span>
+                  {story.creationPolicy === "fixed" ? "固定角色" : "随剧情建卡"}
+                </span>
+              </div>
+              <p>{characterCreationDescription(story)}</p>
+              <div className="template-grid">
+                {story.presets
+                  .filter((p) => !templates.some((t) => t.id === p.templateId))
+                  .map((preset) => (
+                    <article className="template-card" key={preset.id}>
+                      <h3>{preset.label}</h3>
+                      {story.id !== "alone-against-frost" && (
+                        <p>{preset.description}</p>
+                      )}
+                      <button
+                        className="secondary-button"
+                        disabled={busy}
+                        onClick={() => onStartStory(story, preset.id)}
+                      >
+                        {unlocked
+                          ? `使用${preset.label}开始调查`
+                          : `前往解锁${story.title}`}{" "}
+                        <ArrowRight size={15} />
+                      </button>
+                    </article>
+                  ))}
+                {templates.map((t) => (
                   <article className="template-card" key={t.id}>
                     <div className="template-name">
                       <UserRound size={22} />
@@ -98,6 +136,22 @@ export function CharacterLibrary({
                     </div>
                     <button
                       className="secondary-button"
+                      disabled={busy}
+                      onClick={() =>
+                        onStartStory(
+                          story,
+                          story.presets.find((p) => p.templateId === t.id)!.id,
+                        )
+                      }
+                    >
+                      {unlocked
+                        ? `使用${t.label}开始调查`
+                        : `前往解锁${story.title}`}{" "}
+                      <ArrowRight size={15} />
+                    </button>
+                    <button
+                      className="secondary-button"
+                      disabled={busy}
                       onClick={() => {
                         setLuckRollId("");
                         setSelected(t);
@@ -107,30 +161,51 @@ export function CharacterLibrary({
                     </button>
                   </article>
                 ))}
+              </div>
+              {group && (
+                <details className="template-source">
+                  <summary>来源与角色说明</summary>
+                  <p>{group.description}</p>
+                  <a
+                    className="template-source-link"
+                    href={group.sourceUrl}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    官方来源 ↗
+                  </a>
+                </details>
+              )}
             </div>
-            <details className="template-source">
-              <summary>来源与角色说明</summary>
-              <p>{group.description}</p>
-              <a
-                className="template-source-link"
-                href={group.sourceUrl}
-                target="_blank"
-                rel="noreferrer"
-              >
-                官方来源 ↗
-              </a>
-            </details>
-          </div>
-        ))}
+          );
+        })}
       </section>
       <section className="saved-characters">
         <h2>
           我的调查员 <span>{characters.length}</span>
         </h2>
+        <p>
+          这里保存建卡结果与个人资料；调查中的生命、理智与装备请在关联调查中查看。
+        </p>
         {characters.length ? (
           <div className="character-grid">
             {characters.map((t) => (
               <div key={t.id} className="saved-character-entry">
+                {t.origin && (
+                  <div className="saved-character-origin">
+                    <p>
+                      {t.origin.storyTitle} · 剧本版本 {t.origin.storyVersion}
+                    </p>
+                    <button
+                      className="text-button"
+                      onClick={() => onResume(t.origin!.runId)}
+                    >
+                      {t.origin.status === "active"
+                        ? "继续关联调查"
+                        : "查看关联调查"}
+                    </button>
+                  </div>
+                )}
                 <CharacterCard character={t.character} />
                 <button
                   className="secondary-button"

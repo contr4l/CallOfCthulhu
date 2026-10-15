@@ -23,7 +23,9 @@ export function CharacterCard({
         ? `${skillLabels[key] ?? key}（${c.specializations[key]}）`
         : (skillLabels[key] ?? key));
   const featured = d6
-    ? keys.filter((key) => c.skills[key] > 0).slice(0, 6)
+    ? keys.length <= 6
+      ? keys
+      : keys.filter((key) => c.skills[key] > 0).slice(0, 6)
     : keys.length <= 6
       ? keys
       : [
@@ -51,7 +53,8 @@ export function CharacterCard({
         <details className="character-source">
           <summary>角色来源</summary>
           <p>
-            {c.sourceStoryTitle} · 模板版本 {c.templateVersion}
+            {c.sourceStoryTitle}
+            {c.templateVersion && ` · 模板版本 ${c.templateVersion}`}
           </p>
         </details>
       )}

@@ -13,6 +13,7 @@ test("D6 survivor card shows skill levels and sanity maximum without percentile 
   assert.match(html, /SURVIVOR/);
   assert.match(html, /基础/);
   assert.match(html, /专家/);
+  assert.match(html, /未掌握/);
   assert.match(html, /\/8/);
   assert.doesNotMatch(html, /困难|极难|width:1%|width:2%|魔法/);
   const legacy = renderToStaticMarkup(createElement(CharacterCard, {
