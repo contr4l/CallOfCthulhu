@@ -1,3 +1,4 @@
+import { grantStoryAccess } from "./helpers/story-access.js";
 import test from "node:test";
 import assert from "node:assert/strict";
 import { createHash, randomUUID } from "node:crypto";
@@ -420,6 +421,7 @@ test("all 150 legal role/ending routes survive authenticated API replay, idempot
           },
         });
         assert.equal(account.statusCode, 200, account.body);
+        grantStoryAccess(options.databasePath, account.json().id, story.id);
         const cookies = { session: account.cookies[0].value };
         const created = await app.inject({
           method: "POST",

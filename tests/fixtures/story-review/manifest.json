@@ -1,6 +1,6 @@
 {
   "format": "coc-review-inputs@1",
-  "archiveSha256": "aae4426e2bbddce1f57377c2752de3361b486817686e002727960600ab900a4d",
+  "archiveSha256": "b38c395b8bbfedd8c1c1759c47acf600c85bd1d776d5547a2ab0a09fe792a9ae",
   "files": [
     {
       "path": "work/alone-against-fear/book-reading-review.json",
@@ -366,6 +366,41 @@
       "path": "work/alone-against-fear/root-current-insanity-routes.json",
       "sha256": "a66dad59851d4898893d4084c4d8778d90a301a81c365a3f9d41514f4e5d5f21",
       "bytes": 65364
+    },
+    {
+      "path": "work/alone-against-fear/shop-browser-witnesses-1.0.2.json",
+      "sha256": "2af48b4bbea828563bd83e09b76d8565a2d86c625b686192287c32cf2f75c25a",
+      "bytes": 91632
+    },
+    {
+      "path": "work/alone-against-fear/shop-m4-firearm-instance-threshold-witness.json",
+      "sha256": "edbdf07980ef23a4f2a36e4322e08872a392e8da6b87264b3bb6084c86b31deb",
+      "bytes": 9814
+    },
+    {
+      "path": "work/alone-against-fear/shop-m4-firearm-instance-witness.json",
+      "sha256": "d89cf08e6882ca63373199b6bb32666725a18f5d229cb1af68691700fc397373",
+      "bytes": 9817
+    },
+    {
+      "path": "work/alone-against-fear/shop-mission-api-1.0.2.json",
+      "sha256": "197bd505cf6d90f8fde76b337146bb3a828d5bd0298ba244aa525d1be19cd5e5",
+      "bytes": 982
+    },
+    {
+      "path": "work/alone-against-fear/shop-mission-witnesses-1.0.2.json",
+      "sha256": "db03a281e1961d7e088635dcbfb69c9b2e4340ecc469ef83a9b8f2feffb4868f",
+      "bytes": 65419
+    },
+    {
+      "path": "work/alone-against-fear/shop-terminal-api-1.0.2.json",
+      "sha256": "7aaf38cff99d9a0565df14aa3cf6382bb2298a9b58535d39514ad4a325fd26f6",
+      "bytes": 762
+    },
+    {
+      "path": "work/alone-against-fear/shop-terminal-witnesses-1.0.2.json",
+      "sha256": "bf85029ecb4e1741da530af6805039b3e0793d789399c71e0db2e005e979623e",
+      "bytes": 27800
     },
     {
       "path": "work/alone-against-fear/silver-source-review.json",
@@ -4331,6 +4366,21 @@
       "path": "work/alone-against-frost/root-target-345-077.json",
       "sha256": "0c983ec9412fafe204d24973352c7f7695fd0619f4e32bb2425d86e60417ab4d",
       "bytes": 1310838
+    },
+    {
+      "path": "work/alone-against-frost/shop-browser-witnesses-1.0.5.json",
+      "sha256": "0bd5692f12d46208e2265d3524b83950e9f1a5f30eb68d13bcd20cdd808e286d",
+      "bytes": 104721
+    },
+    {
+      "path": "work/alone-against-frost/shop-terminal-api-1.0.5.json",
+      "sha256": "d833ede58195e44367304b5d7f6737806bcfff5be54f425c163b59d41970068d",
+      "bytes": 11563
+    },
+    {
+      "path": "work/alone-against-frost/shop-terminal-witnesses-1.0.5.json",
+      "sha256": "02304a928a66b89f580bc3cf44d1789c6ab64a597e4f1dadf5bdc16078369c85",
+      "bytes": 963005
     },
     {
       "path": "work/alone-against-frost/verified-final-1.0.5-closeout.json",

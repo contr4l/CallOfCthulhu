@@ -6,22 +6,27 @@ import type {
 import type { Story } from "../../../../packages/contracts/index.js";
 import { readAchievements } from "./achievements.js";
 import {
-  STATIC_UNLOCK,
+  STORY_UNLOCKS,
   SHOP_ITEMS,
 } from "../../../../packages/contracts/shop.js";
 import { GameError } from "../../../../packages/engine/index.js";
 
-export function hasStaticAccess(db: DatabaseSync, owner: string): boolean {
+export function hasStoryAccess(
+  db: DatabaseSync,
+  owner: string,
+  storyId: string,
+): boolean {
+  if (!STORY_UNLOCKS.some((item) => item.storyId === storyId)) return true;
   // Retain access for accounts that already played this module before the gate.
   return (
     !!db
       .prepare(
         "SELECT 1 FROM shop_inventory WHERE user_id=? AND item_id=? AND quantity>0",
       )
-      .get(owner, `story:${STATIC_UNLOCK.storyId}`) ||
+      .get(owner, `story:${storyId}`) ||
     !!db
       .prepare("SELECT 1 FROM runs WHERE user_id=? AND story_id=? LIMIT 1")
-      .get(owner, STATIC_UNLOCK.storyId)
+      .get(owner, storyId)
   );
 }
 export function readShop(
@@ -38,16 +43,18 @@ export function readShop(
     .all(owner))
     if (String(row.item_id) in inventory)
       inventory[row.item_id as ShopItemId] = Number(row.quantity);
+  const achievements = readAchievements(db, owner, stories);
+  const published = new Set([...stories.values()].map((story) => story.id));
+  const unlocks = STORY_UNLOCKS.map((item) => ({
+    ...item,
+    completedEndings: achievements.filter(
+      (entry) => entry.storyId === item.prerequisiteStoryId && entry.unlockedAt,
+    ).length,
+    unlocked: hasStoryAccess(db, owner, item.storyId),
+  }));
   return {
-    storyUnlock: {
-      ...STATIC_UNLOCK,
-      completedEndings: readAchievements(db, owner, stories).filter(
-        (entry) =>
-          entry.storyId === STATIC_UNLOCK.prerequisiteStoryId &&
-          entry.unlockedAt,
-      ).length,
-      unlocked: hasStaticAccess(db, owner),
-    },
+    storyUnlock: unlocks[0],
+    storyUnlocks: unlocks.filter((item) => published.has(item.storyId)),
     balance: Number(wallet?.balance ?? 0),
     inventory,
     items: SHOP_ITEMS,
@@ -99,13 +106,17 @@ export function purchase(
   return result;
 }
 
-export function unlockStatic(
+export function unlockStory(
   db: DatabaseSync,
   owner: string,
   requestId: string,
+  storyId: string,
   stories: Map<string, Story>,
 ): ShopState {
-  const itemId = `story:${STATIC_UNLOCK.storyId}`;
+  const item = STORY_UNLOCKS.find((item) => item.storyId === storyId);
+  if (!item || ![...stories.values()].some((story) => story.id === storyId))
+    throw new GameError(404, "剧本未开放解锁。");
+  const itemId = `story:${storyId}`;
   const saved = db
     .prepare(
       "SELECT item_id FROM shop_purchases WHERE user_id=? AND request_id=?",
@@ -114,14 +125,15 @@ export function unlockStatic(
   if (saved && saved.item_id !== itemId)
     throw new GameError(409, "重复购买请求内容不一致。");
   const state = readShop(db, owner, stories);
-  if (saved || state.storyUnlock.unlocked) return state;
-  if (state.storyUnlock.completedEndings < STATIC_UNLOCK.requiredEndings)
-    throw new GameError(409, "请先完成《向火独行》的三个不同结局。");
+  const unlock = state.storyUnlocks.find((entry) => entry.storyId === storyId)!;
+  if (saved || unlock.unlocked) return state;
+  if (unlock.completedEndings < item.requiredEndings)
+    throw new GameError(409, `请先通关《${item.prerequisiteTitle}》至少一次。`);
   const debit = db
     .prepare(
       "UPDATE shop_wallets SET balance=balance-? WHERE user_id=? AND balance>=?",
     )
-    .run(STATIC_UNLOCK.price, owner, STATIC_UNLOCK.price);
+    .run(item.price, owner, item.price);
   if (debit.changes !== 1)
     throw new GameError(409, "余烬点不足，请先在成就页领取奖励。");
   db.prepare("INSERT INTO shop_inventory VALUES(?,?,1)").run(owner, itemId);

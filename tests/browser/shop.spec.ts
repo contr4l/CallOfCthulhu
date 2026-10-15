@@ -1,3 +1,4 @@
+import { STORY_UNLOCKS } from "../../packages/contracts/shop.js";
 import { test as base, expect, type Page } from "@playwright/test";
 import { mkdtempSync, mkdirSync, writeFileSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
@@ -10,16 +11,14 @@ const test = base.extend({
       path = join(root, fixture.id, fixture.version);
     mkdirSync(path, { recursive: true });
     writeFileSync(join(path, "story.json"), JSON.stringify(fixture));
-    const staticPath = join(root, "alone-against-static", fixture.version);
-    mkdirSync(staticPath, { recursive: true });
-    writeFileSync(
-      join(staticPath, "story.json"),
-      JSON.stringify({
-        ...fixture,
-        id: "alone-against-static",
-        title: "静躁独行",
-      }),
-    );
+    for (const item of STORY_UNLOCKS) {
+      const path = join(root, item.storyId, fixture.version);
+      mkdirSync(path, { recursive: true });
+      writeFileSync(
+        join(path, "story.json"),
+        JSON.stringify({ ...fixture, id: item.storyId, title: item.title }),
+      );
+    }
     let draws: number[] = [];
     const app = await buildApp({
       storyRoot: root,
@@ -152,7 +151,7 @@ test("claim points, buy items, reroll a failure after reload and use a target bo
   ).toBe(true);
 });
 
-test("unlock the second module after three distinct endings using shop points", async ({
+test("all campaigns appear in the shop and one predecessor completion permits a permanent unlock", async ({
   page,
 }, info) => {
   test.setTimeout(90000);
@@ -173,43 +172,40 @@ test("unlock the second module after three distinct endings using shop points", 
   await expect(unlock).toBeDisabled();
   await expect(
     page.getByRole("article", { name: "解锁静躁独行" }),
-  ).toContainText("0 / 3");
-  await nav(page, mobile, "剧本馆");
-  for (const [choice, title] of [
-    ["测试困难奖励", "困难奖励"],
-    ["测试生还奖励", "生还奖励"],
-  ]) {
-    await start(page);
-    await page.getByRole("button", { name: new RegExp(choice) }).click();
-    await expect(page.locator(".ending")).toBeVisible();
-    await nav(page, mobile, "成就");
-    await page
-      .locator(".achievement-card")
-      .filter({ has: page.getByRole("heading", { name: title, exact: true }) })
-      .getByRole("button", { name: "领取点数" })
-      .click();
-    await nav(page, mobile, "剧本馆");
+  ).toContainText("0 / 1");
+  for (const item of STORY_UNLOCKS) {
+    await expect(
+      page.getByRole("button", { name: `解锁${item.title}`, exact: true }),
+    ).toBeDisabled();
+    await expect(
+      page.getByRole("article", { name: `解锁${item.title}` }),
+    ).toContainText(`${item.prerequisiteTitle}通关 0 / 1`);
   }
-  await nav(page, mobile, "商店");
-  await expect(page.locator(".point-balance")).toContainText("5");
-  await expect(unlock).toBeDisabled();
   await nav(page, mobile, "剧本馆");
   await start(page);
-  await page.getByRole("button", { name: /进入测试检定/ }).click();
-  await page.getByRole("button", { name: /进行聆听检定/ }).click();
-  await page.getByRole("button", { name: "掷骰", exact: true }).click();
-  await page.getByRole("button", { name: "继续故事" }).click();
+  await page.getByRole("button", { name: /测试困难奖励/ }).click();
   await expect(page.locator(".ending")).toBeVisible();
   await nav(page, mobile, "商店");
-  await expect(
-    page.getByRole("article", { name: "解锁静躁独行" }),
-  ).toContainText("3 / 3");
+  const card = page.getByRole("article", { name: "解锁静躁独行" });
+  await expect(card).toContainText("1 / 1");
+  await expect(unlock).toBeDisabled(); // No claimed points yet.
+  await nav(page, mobile, "成就");
+  await page.getByLabel("选择剧本").selectOption("alone-against-flames");
+  await page
+    .locator(".achievement-card")
+    .filter({
+      has: page.getByRole("heading", { name: "困难奖励", exact: true }),
+    })
+    .getByRole("button", { name: "领取点数" })
+    .click();
+  await nav(page, mobile, "商店");
+  await expect(page.locator(".point-balance")).toContainText("3");
   await expect(unlock).toBeEnabled();
   await unlock.click();
   await expect(
     page.getByRole("button", { name: "已解锁", exact: true }),
   ).toBeDisabled();
-  await expect(page.locator(".point-balance")).toContainText("2");
+  await expect(page.locator(".point-balance")).toContainText("0");
   await page.reload();
   await expect(
     page.getByRole("button", { name: "已解锁", exact: true }),

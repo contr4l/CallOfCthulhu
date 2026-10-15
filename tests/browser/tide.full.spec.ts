@@ -1,3 +1,4 @@
+import { grantStoryAccess } from "../helpers/story-access.js";
 import { test as base, expect, type Page } from "@playwright/test";
 import { readFileSync, mkdtempSync, rmSync } from "node:fs";
 import { tmpdir } from "node:os";
@@ -81,6 +82,7 @@ const test = base.extend<{ witness: Witness | undefined }>({
         ...(payload ? { payload } : {}),
       });
       expect(draws).toHaveLength(0);
+      if (url.pathname === "/api/auth/register" && result.statusCode === 200) grantStoryAccess(join(folder, "game.sqlite"), result.json().id, "alone-against-tide");
       const headers: Record<string, string> = {};
       for (const [k, v] of Object.entries(result.headers))
         if (
@@ -258,8 +260,9 @@ for (const w of selected) {
 base(
   "third story opens from the public library and offers both Woods cards plus guided creation",
   async ({ page }) => {
+    const libraryFolder = mkdtempSync(join(tmpdir(), "tide-library-"));
     const app = await buildApp({
-      databasePath: ":memory:",
+      databasePath: join(libraryFolder, "game.sqlite"),
       dice: (min) => min,
     });
     await page.route("**/api/**", async (route) => {
@@ -272,6 +275,7 @@ base(
         headers: { ...req.headers(), host: url.host },
         ...(payload ? { payload } : {}),
       });
+      if (url.pathname === "/api/auth/register" && r.statusCode === 200) grantStoryAccess(join(libraryFolder, "game.sqlite"), r.json().id, "alone-against-tide");
       const headers: Record<string, string> = {};
       for (const [k, v] of Object.entries(r.headers))
         if (
@@ -313,6 +317,7 @@ base(
       await expect(page.locator(".narrative")).toContainText(scene.text[0]);
     } finally {
       await app.close();
+      rmSync(libraryFolder, { recursive: true, force: true });
     }
   },
 );

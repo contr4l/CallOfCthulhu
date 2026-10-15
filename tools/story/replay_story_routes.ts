@@ -1,3 +1,4 @@
+import { grantStoryAccess } from "../../tests/helpers/story-access.js";
 /** Authenticated story replay with role/ending coverage, pinned rules, restart and idempotence. */
 import assert from "node:assert/strict";
 import { createHash, randomUUID } from "node:crypto";
@@ -138,6 +139,7 @@ for (const route of report.routes) {
       },
     });
     assert.equal(registered.statusCode, 200, registered.body);
+    grantStoryAccess(options.databasePath, registered.json().id, manifest.id);
     const cookies = { session: registered.cookies[0].value };
     const creation = await app.inject({
       method: "POST",

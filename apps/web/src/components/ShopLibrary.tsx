@@ -3,6 +3,7 @@ import { Coins, ShoppingBag } from "lucide-react";
 import type {
   ShopState,
   ShopItemId,
+  StoryUnlockId,
 } from "../../../../packages/contracts/shop";
 import { api, ApiError } from "../api";
 import { createUuid } from "../uuid";
@@ -27,7 +28,7 @@ export function ShopLibrary({
   const key = `shop-purchase:${owner}`;
   const [pending, setPending] = useState<{
     requestId: string;
-    itemId: ShopItemId | "unlock-static";
+    itemId: ShopItemId | StoryUnlockId | "unlock-static";
   } | null>(() => {
     try {
       return JSON.parse(sessionStorage.getItem(key) || "null");
@@ -43,7 +44,7 @@ export function ShopLibrary({
   useEffect(() => {
     void refresh().catch((e) => setError(e.message));
   }, [owner]);
-  async function buy(itemId: ShopItemId | "unlock-static") {
+  async function buy(itemId: ShopItemId | StoryUnlockId | "unlock-static") {
     if (lock.current) return;
     lock.current = true;
     setBusy(true);
@@ -52,20 +53,24 @@ export function ShopLibrary({
     const body = pending ?? { requestId: createUuid(), itemId };
     setPending(body);
     sessionStorage.setItem(key, JSON.stringify(body));
+    const unlockId =
+      body.itemId === "unlock-static"
+        ? "alone-against-static"
+        : body.itemId.startsWith("alone-against-")
+          ? body.itemId
+          : undefined;
     try {
       const next = await api<ShopState>(
-        body.itemId === "unlock-static" ? "/shop/unlocks" : "/shop/purchases",
-        body.itemId === "unlock-static"
-          ? { requestId: body.requestId, storyId: "alone-against-static" }
-          : body,
+        unlockId ? "/shop/unlocks" : "/shop/purchases",
+        unlockId ? { requestId: body.requestId, storyId: unlockId } : body,
       );
       setState(next);
       onChange(next);
       setPending(null);
       sessionStorage.removeItem(key);
       setNotice(
-        body.itemId === "unlock-static"
-          ? "《静躁独行》已解锁。"
+        unlockId
+          ? `《${next.storyUnlocks.find((entry) => entry.storyId === unlockId)?.title ?? "剧本"}》已解锁。`
           : "购买成功。",
       );
     } catch (e) {
@@ -111,30 +116,35 @@ export function ShopLibrary({
           {convert("重试上次购买")}
         </button>
       )}
-      {state && (
-        <article className="shop-item" aria-label={convert("解锁静躁独行")}>
-          <h3>{convert("静躁独行 · 永久解锁")}</h3>
-          <p>
-            {convert(
-              `向火独行不同结局 ${state.storyUnlock.completedEndings} / ${state.storyUnlock.requiredEndings} · 解锁 ${state.storyUnlock.price} 点`,
-            )}
-          </p>
-          <button
-            className="primary-button"
-            disabled={
-              busy ||
-              !!pending ||
-              state.storyUnlock.unlocked ||
-              state.storyUnlock.completedEndings <
-                state.storyUnlock.requiredEndings ||
-              state.balance < state.storyUnlock.price
-            }
-            onClick={() => void buy("unlock-static")}
+      <div className="shop-grid">
+        {state?.storyUnlocks.map((unlock) => (
+          <article
+            className="shop-item"
+            key={unlock.storyId}
+            aria-label={convert(`解锁${unlock.title}`)}
           >
-            {convert(state.storyUnlock.unlocked ? "已解锁" : "解锁静躁独行")}
-          </button>
-        </article>
-      )}
+            <h3>{convert(`${unlock.title} · 永久解锁`)}</h3>
+            <p>
+              {convert(
+                `${unlock.prerequisiteTitle}通关 ${Math.min(unlock.completedEndings, 1)} / 1 · 解锁 ${unlock.price} 点`,
+              )}
+            </p>
+            <button
+              className="primary-button"
+              disabled={
+                busy ||
+                !!pending ||
+                unlock.unlocked ||
+                unlock.completedEndings < unlock.requiredEndings ||
+                state!.balance < unlock.price
+              }
+              onClick={() => void buy(unlock.storyId)}
+            >
+              {convert(unlock.unlocked ? "已解锁" : `解锁${unlock.title}`)}
+            </button>
+          </article>
+        ))}
+      </div>
       <div className="shop-grid">
         {state?.items.map((item) => (
           <article className="shop-item" key={item.id}>

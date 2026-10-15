@@ -15,18 +15,51 @@ export const SHOP_ITEMS = [
     description: "下一次普通 D100 检定目标值＋10，上限 99，仅对这一次生效。",
   },
 ];
-export const STATIC_UNLOCK = {
-  storyId: "alone-against-static",
-  title: "静躁独行",
-  prerequisiteStoryId: "alone-against-flames",
-  requiredEndings: 3,
-  price: 3,
-} as const;
+// Website progression follows this order; the introductory story stays free.
+export const STORY_UNLOCKS = [
+  {
+    storyId: "alone-against-static",
+    title: "静躁独行",
+    prerequisiteStoryId: "alone-against-flames",
+    prerequisiteTitle: "向火独行",
+    requiredEndings: 1,
+    price: 3,
+  },
+  {
+    storyId: "alone-against-tide",
+    title: "潮汐独行",
+    prerequisiteStoryId: "alone-against-static",
+    prerequisiteTitle: "静躁独行",
+    requiredEndings: 1,
+    price: 3,
+  },
+  {
+    storyId: "alone-against-frost",
+    title: "冰霜独行",
+    prerequisiteStoryId: "alone-against-tide",
+    prerequisiteTitle: "潮汐独行",
+    requiredEndings: 1,
+    price: 3,
+  },
+  {
+    storyId: "alone-against-fear",
+    title: "恐惧独行",
+    prerequisiteStoryId: "alone-against-frost",
+    prerequisiteTitle: "冰霜独行",
+    requiredEndings: 1,
+    price: 3,
+  },
+] as const;
+export const STATIC_UNLOCK = STORY_UNLOCKS[0];
+export type StoryUnlockId = (typeof STORY_UNLOCKS)[number]["storyId"];
+export type StoryUnlock = (typeof STORY_UNLOCKS)[number] & {
+  completedEndings: number;
+  unlocked: boolean;
+};
 export type ShopState = {
-  storyUnlock: typeof STATIC_UNLOCK & {
-    completedEndings: number;
-    unlocked: boolean;
-  };
+  // Retained for existing clients; new clients use the complete catalog.
+  storyUnlock: StoryUnlock;
+  storyUnlocks: StoryUnlock[];
   balance: number;
   inventory: Record<ShopItemId, number>;
   items: typeof SHOP_ITEMS;

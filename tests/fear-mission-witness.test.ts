@@ -12,7 +12,7 @@ import { runtimeFingerprint } from "../tools/story/runtime-fingerprint.js";
 
 const packageDir = resolve("stories/alone-against-fear/1.0.2");
 const manifestPath = resolve(packageDir, "story.json");
-const reportPath = resolve("work/alone-against-fear/final-mission-witnesses-1.0.2.json");
+const reportPath = resolve("work/alone-against-fear/shop-mission-witnesses-1.0.2.json");
 
 test("saved Fear mission witnesses replay using only legal public actions and their recorded dice", () => {
   const report = JSON.parse(readFileSync(reportPath, "utf8"));

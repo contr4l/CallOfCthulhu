@@ -1,3 +1,4 @@
+import { STORY_UNLOCKS } from "../../../packages/contracts/shop";
 import { version as gameVersion } from "../../../package.json";
 import { ShopLibrary } from "./components/ShopLibrary";
 import type { ShopState, CheckWindow } from "../../../packages/contracts/shop";
@@ -77,6 +78,7 @@ import { DiceAnimation, diceStorageKey } from "./components/DiceRoller";
 import { SetupModal } from "./components/SetupModal";
 import { CharacterLibrary } from "./components/CharacterLibrary";
 const FEATURED_STORY_ID = "alone-against-flames";
+const STORY_ORDER: readonly string[] = [FEATURED_STORY_ID, ...STORY_UNLOCKS.map((item) => item.storyId)];
 const AVAILABLE_STORY_IDS = new Set([
   FEATURED_STORY_ID,
   "alone-against-fear",
@@ -333,7 +335,10 @@ function App() {
     ])
       .then(([s, u, catalog]) => {
         if (!live) return;
-        setStories(s);
+        setStories(s.sort((a, b) => {
+          const rank = (id: string) => { const index = STORY_ORDER.indexOf(id); return index < 0 ? STORY_ORDER.length : index; };
+          return rank(a.id) - rank(b.id);
+        }));
         setUser(u);
         setCharacterCatalog(catalog);
         setReady(true);
@@ -690,6 +695,9 @@ function App() {
   const active = runs.filter((r) => r.status === "active"),
     ended = runs.filter((r) => r.status === "ended");
   const featured = stories.find((story) => story.id === FEATURED_STORY_ID);
+  const isStoryUnlocked = (storyId: string) =>
+    !STORY_UNLOCKS.some((item) => item.storyId === storyId) ||
+    !!shop?.storyUnlocks?.some((item) => item.storyId === storyId && item.unlocked);
   const filtered = stories.filter((s) =>
     `${s.title}${s.description}${s.tags.join("")}`.includes(search),
   );
@@ -936,15 +944,14 @@ function App() {
               <div className="story-grid">
                 {filtered.map((s) => (
                   <article
-                    className={`story-card ${s.accent}${AVAILABLE_STORY_IDS.has(s.id) && (s.id !== "alone-against-static" || shop?.storyUnlock?.unlocked) ? "" : " is-locked"}`}
+                    className={`story-card ${s.accent}${AVAILABLE_STORY_IDS.has(s.id) && isStoryUnlocked(s.id) ? "" : " is-locked"}`}
                     key={s.id}
                   >
                     <div className="card-image">
                       <img src={s.cover} alt={s.title} />
                       <span className="card-type">
                         {AVAILABLE_STORY_IDS.has(s.id) &&
-                        (s.id !== "alone-against-static" ||
-                          shop?.storyUnlock?.unlocked)
+                        isStoryUnlocked(s.id)
                           ? "可游玩"
                           : "已锁定"}
                       </span>
@@ -952,8 +959,7 @@ function App() {
                         className="card-open"
                         aria-label={
                           AVAILABLE_STORY_IDS.has(s.id)
-                            ? s.id === "alone-against-static" &&
-                              !shop?.storyUnlock?.unlocked
+                            ? !isStoryUnlocked(s.id)
                               ? `解锁${s.title}`
                               : `开始${s.title}`
                             : `已锁定：${s.title}`
@@ -961,8 +967,7 @@ function App() {
                         disabled={!AVAILABLE_STORY_IDS.has(s.id)}
                         title={
                           AVAILABLE_STORY_IDS.has(s.id)
-                            ? s.id === "alone-against-static" &&
-                              !shop?.storyUnlock?.unlocked
+                            ? !isStoryUnlocked(s.id)
                               ? `解锁${s.title}`
                               : `开始${s.title}`
                             : "此剧本暂未开放"
@@ -973,10 +978,7 @@ function App() {
                             setAuth(true);
                             return;
                           }
-                          if (
-                            s.id === "alone-against-static" &&
-                            !shop?.storyUnlock?.unlocked
-                          ) {
+                          if (!isStoryUnlocked(s.id)) {
                             go("shop");
                             return;
                           }
@@ -984,8 +986,7 @@ function App() {
                         }}
                       >
                         {AVAILABLE_STORY_IDS.has(s.id) &&
-                        (s.id !== "alone-against-static" ||
-                          shop?.storyUnlock?.unlocked) ? (
+                        isStoryUnlocked(s.id) ? (
                           <ArrowUpRight size={21} />
                         ) : (
                           <LockKeyhole size={18} />
@@ -996,13 +997,9 @@ function App() {
                       <span className="card-subtitle">{s.subtitle}</span>
                       <h3>{s.title}</h3>
                       <p>{s.description}</p>
-                      {s.id === "alone-against-static" &&
-                        !shop?.storyUnlock?.unlocked && (
-                          <p>
-                            完成向火独行三个不同结局后，使用 3 点解锁（
-                            {shop?.storyUnlock?.completedEndings ?? 0}/3）。
-                          </p>
-                        )}
+                      {STORY_UNLOCKS.filter((item) => item.storyId === s.id && !shop?.storyUnlocks?.some((entry) => entry.storyId === s.id && entry.unlocked)).map((item) => (
+                        <p key={item.storyId}>通关《{item.prerequisiteTitle}》至少一次后，使用 {item.price} 点解锁。</p>
+                      ))}
                       <div className="card-tags">
                         {s.tags.map((t) => (
                           <span key={t}>{t}</span>

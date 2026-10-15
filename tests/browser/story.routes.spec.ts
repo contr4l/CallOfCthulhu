@@ -1,3 +1,4 @@
+import { grantStoryAccess } from "../helpers/story-access.js";
 /** Exact source-bound complete terminal routes; missing terminals remain unverified. */
 import { test as base, expect } from "@playwright/test";
 import { createHash } from "node:crypto";
@@ -95,6 +96,7 @@ const test = base.extend<{ witness: Witness | undefined }>({
         ...(payload ? { payload } : {}),
       });
       expect(queue).toHaveLength(0);
+      if (url.pathname === "/api/auth/register" && response.statusCode === 200) grantStoryAccess(join(directory, "game.sqlite"), response.json().id, manifest.id);
       const headers: Record<string, string> = {};
       for (const [key, value] of Object.entries(response.headers))
         if (

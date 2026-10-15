@@ -1,3 +1,4 @@
+import { grantStoryAccess } from "../helpers/story-access.js";
 /** Candidate smoke only; complete book endings require separate legal witnesses. */
 import { test as base, expect } from "@playwright/test";
 import { cpSync, existsSync, mkdtempSync, mkdirSync, readFileSync, rmSync } from "node:fs";
@@ -19,6 +20,7 @@ const test = base.extend({
       const request = route.request(), url = new URL(request.url());
       const response = await app.inject({ method: request.method() as "GET" | "POST" | "PATCH", url: url.pathname + url.search,
         headers: { ...request.headers(), host: url.host }, ...(request.postData() ? { payload: request.postData()! } : {}) });
+      if (url.pathname === "/api/auth/register" && response.statusCode === 200) grantStoryAccess(join(temporary, "game.sqlite"), response.json().id, manifest.id);
       const headers: Record<string, string> = {};
       for (const [key, value] of Object.entries(response.headers)) if (value !== undefined && !["content-length", "transfer-encoding"].includes(key)) headers[key] = Array.isArray(value) ? value.join("\n") : String(value);
       await route.fulfill({ status: response.statusCode, headers, body: response.body });

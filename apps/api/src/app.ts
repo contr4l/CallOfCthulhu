@@ -3,8 +3,8 @@ import {
   consumeItem,
   readShop,
   purchase,
-  hasStaticAccess,
-  unlockStatic,
+  hasStoryAccess,
+  unlockStory,
 } from "./modules/shop.js";
 import { readAchievements } from "./modules/achievements.js";
 import { readCollections } from "./modules/collections.js";
@@ -240,12 +240,12 @@ export async function buildApp(
     const data = z
       .object({
         requestId: z.string().uuid(),
-        storyId: z.literal("alone-against-static"),
+        storyId: z.string().min(1).max(80),
       })
       .strict()
       .parse(request.body);
     return transaction(db, () =>
-      unlockStatic(db, owner.id, data.requestId, stories),
+      unlockStory(db, owner.id, data.requestId, data.storyId, stories),
     );
   });
   app.post("/api/shop/purchases", async (request) => {
@@ -504,10 +504,10 @@ export async function buildApp(
       data = creation.parse(request.body),
       story = latest.get(data.storyId);
     if (!story) throw new GameError(404, "剧本不存在。");
-    if (story.id === "alone-against-static" && !hasStaticAccess(db, owner.id))
+    if (!hasStoryAccess(db, owner.id, story.id))
       throw new GameError(
         403,
-        "请先完成《向火独行》的三个不同结局，并在商店解锁《静躁独行》。",
+        `请先在商店解锁《${story.title}》。`,
       );
     if (
       story.creationPolicy !== "guided" &&

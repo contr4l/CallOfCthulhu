@@ -1,3 +1,4 @@
+import { STORY_UNLOCKS } from "../packages/contracts/shop.js";
 import { fixture } from "./fixtures/shop-story.js";
 import { test } from "node:test";
 import assert from "node:assert/strict";
@@ -23,16 +24,14 @@ async function setup() {
   const packageRoot = join(storyRoot, fixture.id, fixture.version);
   mkdirSync(packageRoot, { recursive: true });
   writeFileSync(join(packageRoot, "story.json"), JSON.stringify(fixture));
-  const staticRoot = join(storyRoot, "alone-against-static", fixture.version);
-  mkdirSync(staticRoot, { recursive: true });
-  writeFileSync(
-    join(staticRoot, "story.json"),
-    JSON.stringify({
-      ...fixture,
-      id: "alone-against-static",
-      title: "静躁独行测试",
-    }),
-  );
+  for (const item of STORY_UNLOCKS) {
+    const packageRoot = join(storyRoot, item.storyId, fixture.version);
+    mkdirSync(packageRoot, { recursive: true });
+    writeFileSync(
+      join(packageRoot, "story.json"),
+      JSON.stringify({ ...fixture, id: item.storyId, title: item.title }),
+    );
+  }
   const databasePath = join(root, "state.sqlite");
   let draws: number[] = [];
   const makeApp = () =>
@@ -447,10 +446,10 @@ test("schema 2 upgrade preserves prior characters, dice receipts and run state",
   }
 });
 
-test("Static unlock requires three distinct confirmed Flames endings, points, and persists without charging twice", async () => {
+test("each campaign requires one confirmed predecessor ending plus points; entitlements persist and retries never charge twice", async () => {
   const t = await setup();
   try {
-    const startStatic = async (who = t.cookies) => {
+    const start = async (storyId: string, who = t.cookies) => {
       const luck = await t.post(
         "/api/dice/rolls",
         { id: randomUUID(), purpose: "luck", sides: 6, count: 3 },
@@ -459,101 +458,161 @@ test("Static unlock requires three distinct confirmed Flames endings, points, an
       return t.post(
         "/api/runs",
         {
-          storyId: "alone-against-static",
+          storyId,
           presetId: "actor",
-          name: "测试",
+          name: "解锁测试",
           luckRollId: luck.json().id,
         },
         who,
       );
     };
-    const unauthenticated = await t.app.inject({
-      method: "POST",
-      url: "/api/shop/unlocks",
-      headers,
-      payload: { requestId: randomUUID(), storyId: "alone-against-static" },
-    });
-    assert.equal(unauthenticated.statusCode, 401);
-    const forged = await t.post("/api/shop/unlocks", {
-      requestId: randomUUID(),
-      storyId: "alone-against-static",
-      price: 0,
-      completedEndings: 3,
-    });
-    assert.equal(forged.statusCode, 400);
-    const requestId = randomUUID();
-    const unlock = (id = requestId, who = t.cookies) =>
-      t.post(
-        "/api/shop/unlocks",
-        { requestId: id, storyId: "alone-against-static" },
-        who,
-      );
-    assert.equal((await startStatic()).statusCode, 403);
-    await t.earn("earn-hard", "255");
-    await t.earn("earn-hard", "255");
-    assert.equal((await t.read()).storyUnlock.completedEndings, 1);
-    assert.equal((await unlock()).statusCode, 409); // One 3-point ending isn't enough.
-    await t.earn("earn-easy", "223-end");
-    assert.equal((await unlock()).statusCode, 409);
-    const s = await t.start();
-    const check = (await t.command(s, "check")).body.scene;
-    t.setDraws([2, 1]);
-    const ending = (await t.command(check, "roll")).body.scene;
-    assert.equal((await t.read()).storyUnlock.completedEndings, 2); // Awaiting confirmation.
-    await t.post(`/api/runs/${s.runId}/check-window/close`, {
-      expectedRevision: ending.revision,
-    });
-    assert.equal((await t.read()).storyUnlock.completedEndings, 3);
-    await t.post("/api/shop/purchases", {
-      requestId: randomUUID(),
-      itemId: "reroll",
-    });
-    assert.equal((await t.read()).balance, 2);
-    assert.equal((await unlock()).statusCode, 409); // Three endings without sufficient points.
-    await t.post(
-      `/api/achievements/${encodeURIComponent(endingAchievementId(fixture.id, "won"))}/claim`,
-      {},
-    );
-    const result = await unlock();
-    assert.equal(result.statusCode, 200, result.body);
-    assert.equal(result.json().balance, 0);
-    assert.equal(result.json().storyUnlock.unlocked, true);
-    assert.equal((await unlock()).json().balance, 0);
-    assert.equal((await unlock(randomUUID())).json().balance, 0);
+    const unlock = (
+      storyId: string,
+      requestId = randomUUID(),
+      who = t.cookies,
+    ) => t.post("/api/shop/unlocks", { storyId, requestId }, who);
     assert.equal(
-      (await t.post("/api/shop/purchases", { requestId, itemId: "reroll" }))
-        .statusCode,
-      409,
+      (
+        await t.app.inject({
+          method: "POST",
+          url: "/api/shop/unlocks",
+          headers,
+          payload: {
+            storyId: STORY_UNLOCKS[0].storyId,
+            requestId: randomUUID(),
+          },
+        })
+      ).statusCode,
+      401,
     );
-    await t.restart();
-    assert.equal((await t.read()).storyUnlock.unlocked, true);
-    assert.equal((await startStatic()).statusCode, 201);
-    const other = await t.register("无权限的新玩家");
-    assert.equal((await startStatic(other)).statusCode, 403);
-    assert.equal((await unlock(randomUUID(), other)).statusCode, 409);
+    assert.equal(
+      (
+        await t.post("/api/shop/unlocks", {
+          requestId: randomUUID(),
+          storyId: STORY_UNLOCKS[0].storyId,
+          price: 0,
+        })
+      ).statusCode,
+      400,
+    );
+    assert.equal((await unlock("alone-against-flames")).statusCode, 404);
+    assert.equal((await unlock("unpublished-story")).statusCode, 404);
+    const other = await t.register("另一名解锁玩家");
+    const db = openDatabase(t.databasePath);
+    const owner = String(
+      db.prepare("SELECT id FROM users WHERE username=?").get("商店测试玩家")!
+        .id,
+    );
+    // Sufficient points alone, or owning the predecessor, cannot satisfy a completion.
+    db.prepare("INSERT INTO shop_wallets VALUES(?,100)").run(owner);
+    db.close();
+    assert.deepEqual(
+      (await t.read()).storyUnlocks.map(
+        (item: { storyId: string }) => item.storyId,
+      ),
+      STORY_UNLOCKS.map((item) => item.storyId),
+    );
+    for (const item of STORY_UNLOCKS) {
+      assert.equal((await start(item.storyId)).statusCode, 403);
+      assert.equal((await unlock(item.storyId)).statusCode, 409);
+    }
+    for (const item of STORY_UNLOCKS) {
+      const predecessor = await start(item.prerequisiteStoryId);
+      assert.equal(predecessor.statusCode, 201, predecessor.body);
+      const checked = (await t.command(predecessor.json(), "check")).body.scene;
+      t.setDraws([2, 1]);
+      const terminal = (await t.command(checked, "roll")).body.scene;
+      assert.equal(
+        (await unlock(item.storyId)).statusCode,
+        409,
+        "unconfirmed ending must not count",
+      );
+      await t.post(`/api/runs/${terminal.runId}/check-window/close`, {
+        expectedRevision: terminal.revision,
+      });
+      const balance = (await t.read()).balance;
+      // Completion is enough without claiming its reward, but points remain mandatory.
+      const db = openDatabase(t.databasePath);
+      db.prepare("UPDATE shop_wallets SET balance=0 WHERE user_id=?").run(
+        owner,
+      );
+      assert.equal((await unlock(item.storyId)).statusCode, 409);
+      db.prepare("UPDATE shop_wallets SET balance=? WHERE user_id=?").run(
+        balance,
+        owner,
+      );
+      db.close();
+      const requestId = randomUUID();
+      const result = await unlock(item.storyId, requestId);
+      assert.equal(result.statusCode, 200, result.body);
+      assert.equal(result.json().balance, balance - item.price);
+      assert.equal(
+        result
+          .json()
+          .storyUnlocks.find(
+            (entry: { storyId: string }) => entry.storyId === item.storyId,
+          ).unlocked,
+        true,
+      );
+      assert.equal(
+        (await unlock(item.storyId, requestId)).json().balance,
+        balance - item.price,
+      );
+      assert.equal(
+        (await unlock(item.storyId)).json().balance,
+        balance - item.price,
+      );
+      assert.equal(
+        (await t.post("/api/shop/purchases", { requestId, itemId: "reroll" }))
+          .statusCode,
+        409,
+      );
+      const different = STORY_UNLOCKS.find(
+        (entry) => entry.storyId !== item.storyId,
+      )!;
+      assert.equal(
+        (await unlock(different.storyId, requestId)).statusCode,
+        409,
+      );
+      assert.equal((await start(item.storyId, other)).statusCode, 403);
+      assert.equal(
+        (await unlock(item.storyId, randomUUID(), other)).statusCode,
+        409,
+      );
+      await t.restart();
+      assert.equal((await start(item.storyId)).statusCode, 201);
+    }
   } finally {
     await t.close();
   }
 });
-test("existing Static players retain access without spending points", async () => {
+test("existing players of every gated campaign retain access without spending points", async () => {
   const t = await setup();
   try {
-    const original = await t.start();
-    const db = openDatabase(t.databasePath);
-    // Represent a pre-gate save using the compatible test story and character.
-    db.prepare(
-      "UPDATE runs SET story_id='alone-against-static' WHERE id=?",
-    ).run(original.runId);
-    db.close();
-    await t.restart();
-    assert.equal((await t.read()).storyUnlock.unlocked, true);
-    assert.equal((await t.read()).balance, 0);
-    const response = await t.app.inject({
-      url: `/api/runs/${original.runId}`,
-      cookies: t.cookies,
-    });
-    assert.equal(response.statusCode, 200);
-    assert.deepEqual(response.json().character, original.character);
+    for (const item of STORY_UNLOCKS) {
+      const original = await t.start();
+      const db = openDatabase(t.databasePath);
+      // Represent a pre-gate save using the compatible test story and character.
+      db.prepare("UPDATE runs SET story_id=? WHERE id=?").run(
+        item.storyId,
+        original.runId,
+      );
+      db.close();
+      await t.restart();
+      assert.equal(
+        (await t.read()).storyUnlocks.find(
+          (entry: { storyId: string }) => entry.storyId === item.storyId,
+        ).unlocked,
+        true,
+      );
+      assert.equal((await t.read()).balance, 0);
+      const response = await t.app.inject({
+        url: `/api/runs/${original.runId}`,
+        cookies: t.cookies,
+      });
+      assert.equal(response.statusCode, 200);
+      assert.deepEqual(response.json().character, original.character);
+    }
   } finally {
     await t.close();
   }
