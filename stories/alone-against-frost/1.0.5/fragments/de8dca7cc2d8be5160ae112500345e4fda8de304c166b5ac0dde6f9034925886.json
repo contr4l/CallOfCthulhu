@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "538"
+  ],
+  "text": [
+    "审判持续了数周，期间你在野外做出的每项决定都受到质疑。你几乎觉得，被判犯有重大过失和过失杀人罪反而是一种解脱。你被关进加拿大监狱，变得孤僻离群，只能从牢房里遥望远处的树林。",
+    "一年后，你获得假释资格，委员会认可了你的表现。获准离开加拿大后，你回到美国，却发现事业已经毁了。",
+    "你失去了密斯卡托尼克大学的职位。你带回的探险证据在你服刑期间无人看管，最重要的材料都已遗失或损毁。尽管如此，你仍试图发表研究结果。",
+    "你的文章只招来耸人听闻的媒体攻击，说你是为了科学荣誉不惜牺牲人命的道德败类。大萧条来临时，你已从公众视野中消失。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 538",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 538",
+      "text": [
+        "Your trial lasts weeks, during which every field decision you made is questioned. It is almost a relief when you are convicted of gross negligence and contributory manslaughter. You are incarcerated in a Canadian penitentiary, where you become withdrawn and isolated, staring from your cell at distant woodland.",
+        "A year later, you become eligible for parole and the committee looks favorably on your conduct. Once you are free to leave Canada, you return to a ruined career in the USA.",
+        "You have lost your position at Miskatonic University. The evidence you brought back from your expedition has been neglected during your confinement. All the most important pieces have been lost or ruined. Nevertheless, you attempt to publish your findings.",
+        "Your article only draws sensational press attacks, characterizing you as a moral cretin willing to sacrifice human life for scientific glory. You vanish from public notice with the dawning of the Great Depression."
+      ]
+    }
+  }
+}

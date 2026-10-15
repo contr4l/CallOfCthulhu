@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "622"
+  ],
+  "text": [
+    "这趟旅程给了你很大压力。你说不清巨猿人究竟有什么地方让你如此震惊。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 622",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 622",
+      "text": [
+        "You have been under a lot of pressure on this trip. You cannot say what it is about the giant ape-men that shakes you so deeply."
+      ]
+    }
+  }
+}

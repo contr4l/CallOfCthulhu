@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "152"
+  ],
+  "text": [
+    "队伍围成一圈，开始拖着脚跳舞并吟唱。一只粉红色触手矿工从林中现身，手里拿着——伯纳德被砍下的头！老妇接过头颅，高高举起，咯咯笑着向诸神祈祷。更多粉红色、长满菌状物的生物从天而降！",
+    "你低声叫同伴闭上眼睛——可对你来说已经太迟了。",
+    "获得2点克苏鲁神话。进行理智检定：成功则前往173；失败则损失1D6点理智并前往238。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 152",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 152",
+      "text": [
+        "The procession forms a circle and commences a shuffling dance. It begins to chant. One of the pink tentacled miners emerges from the woods carrying—Bernard’s severed head! The old woman takes it, lifts it high, and cackles an invocation to the gods. Now more of the pink fungoid creatures come sailing out of the sky!",
+        "You whisper to your companions to close their eyes—but it’s too late for you.",
+        "Gain 2 points of Cthulhu Mythos. Make a Sanity roll: if you succeed, go to 173; if you fail, lose 1D6 Sanity and go to 238."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "454"
+  ],
+  "text": [
+    "一阵黑暗袭来，你被吸入咆哮、崩裂的漩涡。天地在贪婪的混沌中舞动。异时空的汹涌潮流席卷一切。你被吸过帷幕，坠入它们游弋的深渊。它们来了。它们来了！不，不——不要那样！不要那样！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 454",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 454",
+      "text": [
+        "A burst of darkness and you are sucked into the howling, crashing vortex. The earth and sky dance in hungry chaos. Everywhere whirls the roaring tides of Otherwhen. You have been sucked through the veil to the depths where They swim. They come. They come! No, no—not that! Not that!"
+      ]
+    }
+  }
+}

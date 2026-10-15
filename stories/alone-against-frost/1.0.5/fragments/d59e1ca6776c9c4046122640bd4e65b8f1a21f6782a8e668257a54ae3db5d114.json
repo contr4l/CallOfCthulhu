@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "536"
+  ],
+  "text": [
+    "湍流猛烈冲击你，把西尔维娅从你手中扯走。水流将你的头拖到水面之下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 536",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 536",
+      "text": [
+        "Turbulence batters you, tearing Sylvia from your grasp. The current drags your head beneath the surface."
+      ]
+    }
+  }
+}

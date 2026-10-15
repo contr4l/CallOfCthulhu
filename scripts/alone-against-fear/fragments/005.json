@@ -1,0 +1,18 @@
+{
+  "id": "5",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "5:p0",
+      "kind": "heading",
+      "text": "#5 - Pighead\n",
+      "sourceLocation": "pdf:spans:[[79,22,35]]"
+    },
+    {
+      "id": "5:p1",
+      "kind": "body",
+      "text": "As you step into the farm, you are\nsurrounded by lean, evil looking\npigs and a farmer wearing the\nbloodied skin of a pig’s head as a\ngrisly mask. The man is a giant and\nhe is armed with a dirty pitchfork.\nHe asks if you have brought food\nfor his pigs. You may sacrifice 3\nFood points, or 1 dose of Bone\npowder and avoid this encounter.\nOtherwise, you must fight the man\nand his pigs.\nPighead, Level 5 slasher, 3 Life,\ndamage 2.\n6 Pigs, Level 3, 2 Life each,\ndamage 1.\nThe pigs surround you. You may\ntry to Escape only after you have\nkilled at least 3 pigs. If you slay\nPighead and all the pigs, you may\nfurther investigate the farm by\ngoing to unique event #6.\nOnce you have killed Pighead,\nignore this event if it happens\nagain.\nIf you survive this encounter, you\nmay butcher each pig into d6 Food\npoints. All required ingredients\nand tools are easily found in the\narea.\n",
+      "sourceLocation": "pdf:spans:[[79,35,70],[79,70,103],[79,103,133],[79,133,168],[79,168,204],[79,204,240],[79,240,273],[79,273,307],[79,307,338],[79,338,371],[79,371,405],[79,405,419],[79,419,453],[79,453,463],[79,463,493],[79,493,503],[79,503,534],[79,534,568],[79,568,604],[79,604,638],[79,638,670],[79,670,696],[79,696,726],[79,726,758],[79,758,765],[79,765,800],[79,800,834],[79,834,867],[79,867,901],[79,901,907]]"
+    }
+  ]
+}

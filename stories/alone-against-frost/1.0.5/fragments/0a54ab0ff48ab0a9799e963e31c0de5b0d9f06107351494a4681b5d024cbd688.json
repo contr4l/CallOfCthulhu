@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "204"
+  ],
+  "text": [
+    "你解开绷带，没有惊醒睡着的人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 204",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 204",
+      "text": [
+        "You part the bandages without waking the sleeper."
+      ]
+    }
+  }
+}

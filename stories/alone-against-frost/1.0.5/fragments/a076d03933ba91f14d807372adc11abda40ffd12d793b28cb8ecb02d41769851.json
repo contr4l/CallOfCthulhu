@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "224",
+    "frost-auto-224"
+  ],
+  "text": [
+    "死里逃生后，你和学生们焦虑万分，迫切想回家。接下来的路好走多了，你们一路平安。也许你们已经偿还了森林诸神的债。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 224",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 224",
+      "text": [
+        "After so narrow an escape, you and the students are anxious, even desperate, to get home. The going becomes easier and you progress without incident. Perhaps you have paid your debt to the gods of the forest."
+      ]
+    }
+  }
+}

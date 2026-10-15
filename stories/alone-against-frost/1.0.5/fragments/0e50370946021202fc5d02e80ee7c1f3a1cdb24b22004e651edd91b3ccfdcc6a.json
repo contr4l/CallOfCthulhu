@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "645"
+  ],
+  "text": [
+    "经历险些丧命的一幕后，你知道必须带学生离开山谷。但为了探险，你还要再尝试一次，寻找实物证据。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 645",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 645",
+      "text": [
+        "After such a close call, you know you must lead the students from this valley. But for the expedition’s sake, you will make one more attempt to find physical proof."
+      ]
+    }
+  }
+}

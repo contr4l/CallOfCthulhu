@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "364"
+  ],
+  "text": [
+    "你失去了对现实的把握。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 364",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 364",
+      "text": [
+        "You lose your grip on reality."
+      ]
+    }
+  }
+}

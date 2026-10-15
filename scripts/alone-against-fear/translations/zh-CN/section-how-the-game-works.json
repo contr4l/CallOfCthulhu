@@ -1,0 +1,17 @@
+{
+  "id": "section-how-the-game-works",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "c16c941ef71911494d83e658e63ffbee902febabe26660f3b95c457ae6aab8c2",
+  "paragraphs": [
+    {
+      "id": "section-how-the-game-works:p0",
+      "text": "游戏流程"
+    },
+    {
+      "id": "section-how-the-game-works:p1",
+      "text": "创建角色后，在任务表上掷D6选择任务，获得本局要达成的总体目标。完成任务后获得表中所列奖励。若角色幸存，之后的任务继续使用该角色；若角色死亡，则必须创建新角色。战役的最终目标是关闭7道地狱之门。完成这项目标（可能需要进行多局任务）后，游戏获胜。"
+    }
+  ],
+  "notes": []
+}

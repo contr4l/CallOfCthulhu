@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "56"
+  ],
+  "text": [
+    "队伍收拾好行装，跟在你身后。拉姆山脉的群峰就在前方。你们从霜雪雕刻出的尖顶石柱下走过，穿行于风化山峰的庙宇般峰顶、扶壁与尖塔之间。那些奇异而庄严的形状令同伴们肃然无声。如果这些古老山脉是供奉被遗忘之神的神殿，你只希望它们不会把你们的闯入视为亵渎。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 56",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 56",
+      "text": [
+        "Your party packs and falls in behind you. The peaks of the Ram Mountains loom ahead. You advance beneath the staring eyes of frost-carved hoodoos, under the temples, buttresses, and steeples of the weathered peaks. The strange majesty of their shapes reduces your companions to a silent reverence. If these ancient mountains are a temple to forgotten gods, you can only hope that they do not judge your trespass as a blasphemy."
+      ]
+    }
+  }
+}

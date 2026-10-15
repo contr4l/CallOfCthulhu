@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "65"
+  ],
+  "text": [
+    "风向一转，你听见一阵嗡鸣，像是马达声——考虑到你们身处的地方，这几乎不可能。你命令队伍留在原地，自己沿沟壑谨慎往上走，探头查看转弯处。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 65",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 65",
+      "text": [
+        "As the wind turns, you catch the sound of humming, as if from a motor—an unlikely prospect, considering where you are. You order your party to hold position and work your way up the ravine, cautiously peering around the bend."
+      ]
+    }
+  }
+}

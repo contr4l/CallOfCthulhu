@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "28"
+  ],
+  "text": [
+    "交谈开始后，查理像被催眠一般盯着你的眼睛。长谈过后，她痛苦地耸了耸肩。“教授，你说得对。有时候，我们族人的传说也只是故事。我……和你一样理性。”她站起身，开始寻找失踪的学生。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 28",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 28",
+      "text": [
+        "Once engaged, Charlie watches your eyes as if hypnotized. After a long talk, she shrugs, pained. “You speak the truth, Professor. Sometimes the legends of my people are just stories. I am… rational, like you.” She stands up and begins to look for the missing student."
+      ]
+    }
+  }
+}

@@ -64,7 +64,7 @@
     },
     {
       "id": "1:p10",
-      "kind": "trace",
+      "kind": "body",
       "text": "(Beginning)",
       "sourceLocation": "pdf:visual:[[10,35]]"
     }

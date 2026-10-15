@@ -1,0 +1,17 @@
+{
+  "id": "section-street-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "365d62f78d8cb83b3d83d0eb13ffdb4c794c6b2d2f7ec0257de1fb12e3cd00c9",
+  "paragraphs": [
+    {
+      "id": "section-street-table:p0",
+      "text": "街道表（D6）"
+    },
+    {
+      "id": "section-street-table:p1",
+      "text": "1 发现一处适合藏身的地方。你可以建立安全屋，并恢复1点生命和1点理智。若建立后场上已有3个安全屋，则距离你最近的那个不再算安全屋。确定最近者时，计算在城镇地图上到达该地点需经过的格数；若有两个安全屋距离相同，随机选择一个。\n2 一切平静。没有遭遇。\n3 随机遭遇：掷不死生物表。\n4 随机遭遇：掷恶魔恐怖表。\n5 随机遭遇：掷杀手表。\n6 游玩独特事件#3。若已经游玩过，则掷随机遭遇表。"
+    }
+  ],
+  "notes": []
+}

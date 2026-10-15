@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "654"
+  ],
+  "text": [
+    "运气不错，你们发现一间废弃小屋，里面存着几罐生锈但仍能食用的罐头。这个好消息暂时解决了食物问题。屋主没有留下任何踪迹；他大概是个死于山谷危险的探矿者或猎人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 654",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 654",
+      "text": [
+        "By a stroke of luck, your party stumbles upon an abandoned cabin stocked with rusty but edible tins of food. This happy discovery solves your food problem for the time being. There is no trace of the person who built the cabin—probably a prospector or hunter who fell victim to the hazards of the valley."
+      ]
+    }
+  }
+}

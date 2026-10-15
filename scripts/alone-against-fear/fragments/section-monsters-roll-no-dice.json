@@ -1,89 +1,18 @@
 {
   "id": "section-monsters-roll-no-dice",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-monsters-roll-no-dice:p0000",
-      "kind": "body",
+      "id": "section-monsters-roll-no-dice:p0",
+      "kind": "heading",
       "text": "Monsters Roll No Dice\n",
       "sourceLocation": "pdf:spans:[[7,829,851]]"
     },
     {
-      "id": "section-monsters-roll-no-dice:p0001",
+      "id": "section-monsters-roll-no-dice:p1",
       "kind": "body",
-      "text": "All the dice rolls in the game are\n",
-      "sourceLocation": "pdf:spans:[[7,851,886]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0002",
-      "kind": "body",
-      "text": "performed by you, the player, from\n",
-      "sourceLocation": "pdf:spans:[[7,886,921]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0003",
-      "kind": "body",
-      "text": "the point of view of your character.\n",
-      "sourceLocation": "pdf:spans:[[7,921,958]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0004",
-      "kind": "body",
-      "text": "The power of a monster is\n",
-      "sourceLocation": "pdf:spans:[[7,958,984]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0005",
-      "kind": "body",
-      "text": "indicated by a number, the\n",
-      "sourceLocation": "pdf:spans:[[7,984,1011]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0006",
-      "kind": "body",
-      "text": "monster’s “level”, abbreviated as L.\n",
-      "sourceLocation": "pdf:spans:[[7,1011,1048]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0007",
-      "kind": "body",
-      "text": "When you attack, you roll a die and\n",
-      "sourceLocation": "pdf:spans:[[7,1048,1084]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0008",
-      "kind": "body",
-      "text": "compare it to the monster’s L to\n",
-      "sourceLocation": "pdf:spans:[[7,1084,1117]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0009",
-      "kind": "body",
-      "text": "determine if the monster is killed.\n",
-      "sourceLocation": "pdf:spans:[[7,1117,1153]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0010",
-      "kind": "body",
-      "text": "When it is the monster’s turn to\n",
-      "sourceLocation": "pdf:spans:[[7,1153,1186]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0011",
-      "kind": "body",
-      "text": "attack, you perform a defense roll\n",
-      "sourceLocation": "pdf:spans:[[7,1186,1221]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0012",
-      "kind": "body",
-      "text": "versus the monsters' L, taking\n",
-      "sourceLocation": "pdf:spans:[[7,1221,1252]]"
-    },
-    {
-      "id": "section-monsters-roll-no-dice:p0013",
-      "kind": "body",
-      "text": "wounds if the defense roll fails.\n",
-      "sourceLocation": "pdf:spans:[[7,1252,1286]]"
+      "text": "All the dice rolls in the game are\nperformed by you, the player, from\nthe point of view of your character.\nThe power of a monster is\nindicated by a number, the\nmonster’s “level”, abbreviated as L.\nWhen you attack, you roll a die and\ncompare it to the monster’s L to\ndetermine if the monster is killed.\nWhen it is the monster’s turn to\nattack, you perform a defense roll\nversus the monsters' L, taking\nwounds if the defense roll fails.\n",
+      "sourceLocation": "pdf:spans:[[7,851,886],[7,886,921],[7,921,958],[7,958,984],[7,984,1011],[7,1011,1048],[7,1048,1084],[7,1084,1117],[7,1117,1153],[7,1153,1186],[7,1186,1221],[7,1221,1252],[7,1252,1286]]"
     }
   ],
   "sourcePages": [

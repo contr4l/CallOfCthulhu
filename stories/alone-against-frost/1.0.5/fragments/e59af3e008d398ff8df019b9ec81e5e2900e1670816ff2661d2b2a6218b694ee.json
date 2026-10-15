@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "439",
+    "frost-auto-439"
+  ],
+  "text": [
+    "西尔维娅瞪大双眼尖叫起来，双手和脖子上深深的伤口裂开。她倒下时，死亡似乎反倒是一种解脱。你绝望地继续奔跑，大口喘气。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 439",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 439",
+      "text": [
+        "Sylvia screams, her eyes wide, as deep wounds open in her hands and neck. By the time she falls, it seems like a mercy. Desperate, you run on, gasping for air."
+      ]
+    }
+  }
+}

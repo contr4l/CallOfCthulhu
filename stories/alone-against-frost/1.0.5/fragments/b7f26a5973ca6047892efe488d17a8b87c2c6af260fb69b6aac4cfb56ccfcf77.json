@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "229",
+    "frost-auto-229"
+  ],
+  "text": [
+    "你醒了过来，双腿酸痛，满是瘀伤。灌木丛里到处都是小个子男人。伯纳德不见踪影，其他人也被抓走了。你对学术荣誉的渴望，可能让所有人都陷入危险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 229",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 229",
+      "text": [
+        "You come to, your legs aching and bruised. The brush teems with tiny men. Bernard is nowhere to be seen and the others have been captured. Your thirst for academic glory may have imperiled all your lives."
+      ]
+    }
+  }
+}

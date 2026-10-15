@@ -1,0 +1,94 @@
+{
+  "id": "section-random-skill-generation",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-random-skill-generation:p0",
+      "kind": "heading",
+      "text": "Random initial skill table 1 (d6)\n",
+      "sourceLocation": "pdf:spans:[[103,0,34]]"
+    },
+    {
+      "id": "section-random-skill-generation:p1",
+      "kind": "body",
+      "text": "1 Agile\n2 Bow\n3 Charisma\n4 Danger sense\n5 Dodge or Will (choose)\n6 Faith or Will (choose)\n",
+      "sourceLocation": "pdf:spans:[[103,34,42],[103,42,48],[103,48,59],[103,59,74],[103,74,99],[103,99,124]]"
+    },
+    {
+      "id": "section-random-skill-generation:p2",
+      "kind": "heading",
+      "text": "Random initial skill table 2 (d6)\n",
+      "sourceLocation": "pdf:spans:[[103,124,158]]"
+    },
+    {
+      "id": "section-random-skill-generation:p3",
+      "kind": "body",
+      "text": "1 Fighter\n2 Good Shot\n3 Investigator\n4 Medic\n5 Occultist\n6 Resilient or Vampire Hunter\n(choose)\n",
+      "sourceLocation": "pdf:spans:[[103,158,168],[103,168,180],[103,180,195],[103,195,203],[103,203,215],[103,215,245],[103,245,254]]"
+    },
+    {
+      "id": "section-random-skill-generation:p4",
+      "kind": "heading",
+      "text": "Random initial skill table 3 (d6)\n",
+      "sourceLocation": "pdf:spans:[[103,254,288]]"
+    },
+    {
+      "id": "section-random-skill-generation:p5",
+      "kind": "body",
+      "text": "1 Resistant to Hunger\n2 Strong Grip on Reality\n3 Slippery\n4 Stealth\n5 Strong\n6 Tough or Zombie Hunter\n(choose)\n",
+      "sourceLocation": "pdf:spans:[[103,288,310],[103,310,335],[103,335,346],[103,346,356],[103,356,365],[103,365,390],[103,390,399]]"
+    },
+    {
+      "id": "section-random-skill-generation:p6",
+      "kind": "heading",
+      "text": "Random Initial Skill Generation\n",
+      "sourceLocation": "pdf:spans:[[103,399,431]]"
+    },
+    {
+      "id": "section-random-skill-generation:p7",
+      "kind": "body",
+      "text": "If you prefer, instead of picking them, you can generate your character’s\nSkills randomly. Roll d6 for each Skill. On a 1-2, roll on table 1; on a 3-4,\nroll on table 2; and on a 5-6, roll on table 3. Then roll on the appropriate\ntable.\nEncumbrance Summary\nYou may carry 1 object in each hand or 1 two-handed weapon using 2\nhands; you may also carry:\n",
+      "sourceLocation": "pdf:spans:[[103,431,505],[103,505,583],[103,583,660],[103,660,667],[103,667,687],[103,687,754],[103,754,781]]"
+    },
+    {
+      "id": "section-random-skill-generation:p8",
+      "kind": "body",
+      "text": "● 10 objects;\n",
+      "sourceLocation": "pdf:spans:[[103,781,795]]"
+    },
+    {
+      "id": "section-random-skill-generation:p9",
+      "kind": "body",
+      "text": "● 10 Food points; Extra Food count as 1 object each.\n",
+      "sourceLocation": "pdf:spans:[[103,795,848]]"
+    },
+    {
+      "id": "section-random-skill-generation:p10",
+      "kind": "body",
+      "text": "● Any number of  objects with negligible weight;\n",
+      "sourceLocation": "pdf:spans:[[103,848,897]]"
+    },
+    {
+      "id": "section-random-skill-generation:p11",
+      "kind": "body",
+      "text": "● Add +3 items if you are Strong, or +5 if you are Strong (Expert);\n",
+      "sourceLocation": "pdf:spans:[[103,897,965]]"
+    },
+    {
+      "id": "section-random-skill-generation:p12",
+      "kind": "body",
+      "text": "● Add +5 items if you have a backpack; if the backpack is stolen or\ndestroyed, you lose ALL objects carried, except those in your hands.\nName XP Sanity Life\n",
+      "sourceLocation": "pdf:spans:[[103,965,1033],[103,1033,1102],[104,19,39]]"
+    },
+    {
+      "id": "section-random-skill-generation:p13",
+      "kind": "body",
+      "text": "3\nClues\nEquipment\nArcane Skills\nFood\nBooks read\n",
+      "sourceLocation": "pdf:spans:[[104,39,41],[104,41,47],[104,47,57],[104,57,71],[104,71,76],[104,76,87]]"
+    }
+  ],
+  "sourcePages": [
+    103,
+    104
+  ]
+}

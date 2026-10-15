@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "21"
+  ],
+  "text": [
+    "As your shovel breaks through the\nsoft ground, seven moaning,\nghostly children emerge from the\nground and stare at you with\naccusing eyes. Dark blood drips\nfrom their mouths. Their necks\nhave bruises and abrasions,\nprobably the signs of the ropes\nwith which someone hanged them.\n“Find those who killed us. Bury\nthem with us. Until you do so, a\ncurse will be on you”.\nYou are now cursed by the Seven\nSacrifices. Every time you play\nthrough a numbered event, you\nlose 1 Sanity. The only way to\nbreak the curse is to capture the\nRosen family and bring them here\n(to the location where the Rosen\nHouse is).\nIf you didn’t do so already, you\nmay climb the walnut tree (#19) or\nexplore the Rosen mansion (#20).\nRemember to subtract 1 Sanity per\nevery numbered event you visit.\nApply the loss at the end of the\nevent."
+  ],
+  "reading": {
+    "en": {
+      "title": "21 - digging around the tree",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "21 - 挖掘树周围",
+      "text": [
+        "你的铲子挖开松软的泥土时，7个呻吟的幽灵孩子从地下现身，用充满责备的目光盯着你。黑血从他们口中滴落。他们脖子上有瘀伤和擦痕，似乎是被人用绳子吊死留下的痕迹。\n“找出杀害我们的人。把他们和我们一起埋葬。在你做到之前，诅咒会缠着你。”\n你现在受到“七名祭品”的诅咒。每次你经历一个编号事件，都会失去1点理智。唯一能解除诅咒的方法，是抓住罗森一家并把他们带到这里（罗森宅邸所在的位置）。\n若你还没这么做，可以爬上胡桃树（#19）或探索罗森宅邸（#20）。记住，每访问一个编号事件都要扣除1点理智，并在该事件结束时结算。"
+      ]
+    }
+  }
+}

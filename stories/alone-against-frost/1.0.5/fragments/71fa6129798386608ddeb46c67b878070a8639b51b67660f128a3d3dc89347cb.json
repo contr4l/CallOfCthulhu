@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "186"
+  ],
+  "text": [
+    "一只怪物般的爪子打飞了你手中的步枪。你向后跃开。风行者咆哮起来，震得脚下大地摇动，随后向你扑来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 186",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 186",
+      "text": [
+        "A monstrous paw knocks the rifle from your grasp. You leap back. The wind-walker roars, shaking the earth beneath your boots. It lunges at you."
+      ]
+    }
+  }
+}

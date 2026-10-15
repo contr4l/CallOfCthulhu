@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "45",
+    "frost-auto-45"
+  ],
+  "text": [
+    "独木舟向右倾斜，把所有人都甩进冰冷的北汉尼纳河中。查理游向仍缠着诺曼不放的伯纳德，用手臂勒住这个发狂学生的脖子。伯纳德松开诺曼，转而用爪子抓向向导的眼睛。还没等其他人游过去帮忙，查理和伯纳德便沉入水下，再也没有浮上来。",
+    "你和诺曼、西尔维娅爬上岸。独木舟很快被冲走，但部分补给漂到了附近的岸边。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 45",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 45",
+      "text": [
+        "The canoe lists to the right, flinging all of you into the cold waters of the North Hanninah. Charlie swims to Bernard, who still clings to Norman, and wraps a choke-hold around the berserk student’s neck. Bernard lets Norman go, clawing at the guide’s eyes. Before any of your floundering party can help, Charlie and Bernard vanish beneath the surface. They do not rise again.",
+        "You crawl out of the water with Norman and Sylvia. The canoe is quickly swept away, but some of your supplies wash up on the nearby shore."
+      ]
+    }
+  }
+}

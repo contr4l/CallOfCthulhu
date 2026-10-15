@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "17"
+  ],
+  "text": [
+    "The large walnut tree that looks\nover the dilapidated Rosen\nmansion seems to move its\nbranches towards you. Do you\nwant to:\nClimb the tree? Go to #19\nExplore the house? Go to #20\nDig the ground around the tree (if\nyou have a shovel)? Go to #21, or\nif you think that this area is too\ndangerous, you may go back to\nyour exploration of the town."
+  ],
+  "reading": {
+    "en": {
+      "title": "17 - the rosen house",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "17 - 罗森家宅",
+      "text": [
+        "俯瞰着破败罗森宅邸的那棵巨大胡桃树，枝条似乎正朝你伸来。你要：\n爬树？前往#19。\n探索房屋？前往#20。\n挖掘树周围的地面（若你有铲子）？前往#21。若你觉得这里太危险，也可以回到小镇继续探索。"
+      ]
+    }
+  }
+}

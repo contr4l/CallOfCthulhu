@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "505",
+    "frost-auto-505"
+  ],
+  "text": [
+    "你被所见的一切恶心得逃进浓密的灌木，一直跑到远离那片被诅咒的空地。体力耗尽后，你躺下凝视天空。",
+    "只有一种解释。你在这座山谷里的经历都是自己的想象。也许你吸入了某种奇怪孢子，或是水源中渗入了天然致幻物。这想法带来一种奇异的平静，你放任自己陷入昏沉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 505",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 505",
+      "text": [
+        "Sickened by what you saw, you flee into the heavy undergrowth and keep going until you are far, far away from the cursed hollow. When your strength fails, you lie down and stare into the sky.",
+        "There can be only one explanation. Your experiences within this valley have been creations of your imagination. Perhaps you have breathed in some strange spore, or a natural hallucinogen has leached into the water supply. The thought brings you an odd peace, and you surrender to oblivion."
+      ]
+    }
+  }
+}

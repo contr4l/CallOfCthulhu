@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "7"
+  ],
+  "text": [
+    "A shooting star flares up in the sky.\nYou try to make a wish but your\nthoughts are ominous. Save vs. L2\nFear. If you fail, lose 1 Sanity and\nhave -1 to Attack and Defense rolls\nfor your next combat. If you\nsucceed, carry on as normal."
+  ],
+  "reading": {
+    "en": {
+      "title": "7 - Star of Ill Omen",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "7 - 不祥之星",
+      "text": [
+        "一颗流星划亮天空。你试着许愿，心中却尽是不祥的念头。进行一次L2恐惧防御检定。失败则失去1点理智，并在接下来一场战斗中攻击和防御检定均-1。成功则照常继续。"
+      ]
+    }
+  }
+}

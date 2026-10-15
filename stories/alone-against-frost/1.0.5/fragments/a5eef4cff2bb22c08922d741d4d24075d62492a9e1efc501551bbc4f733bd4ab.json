@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "626"
+  ],
+  "text": [
+    "兽人沿山坡谨慎逼近。它们直立行走，肌肉发达、头顶有猿类冠毛，虽像猿却也像人。它们靠近时，你开始咳嗽；那气味令人窒息。",
+    "多年的训练让你想到一些安抚大脚怪的技巧。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 626",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 626",
+      "text": [
+        "The beast-men advance down the slopes, wary. They are fully upright, human-like despite their muscular bulk and apish crests. When they get close, you start to cough. Their stench is overwhelming.",
+        "Your years of training suggest techniques to pacify and mollify the sasquatches."
+      ]
+    }
+  }
+}

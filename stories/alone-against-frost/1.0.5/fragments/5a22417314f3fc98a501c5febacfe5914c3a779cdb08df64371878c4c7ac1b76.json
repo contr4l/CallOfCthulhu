@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "438",
+    "frost-auto-438"
+  ],
+  "text": [
+    "伯纳德痛苦地尖叫，在一片血雾中倒地。你在灌木丛中飞奔，双脚不断被枝叶划伤。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 438",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 438",
+      "text": [
+        "Bernard shrieks in agony and falls to the ground in a mist of blood. You sprint away, your feet ripping through the underbrush."
+      ]
+    }
+  }
+}

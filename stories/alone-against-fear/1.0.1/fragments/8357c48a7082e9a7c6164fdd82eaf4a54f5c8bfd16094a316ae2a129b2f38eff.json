@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "4"
+  ],
+  "text": [
+    "You inject the mysterious fluid and\nfeel its power coursing through\nyour veins. Roll d6 on the Fluid\ntable."
+  ],
+  "reading": {
+    "en": {
+      "title": "4 - The Fluid",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "4 - 药剂",
+      "text": [
+        "你注射了神秘药剂，感觉它的力量在血管中奔涌。掷1D6查询流体表。"
+      ]
+    }
+  }
+}

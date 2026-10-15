@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "163",
+    "frost-auto-163"
+  ],
+  "text": [
+    "令你沮丧的是，独木舟已被砍成碎片，无法修复。你和学生们查看这片破坏现场。唯一的线索是残骸周围地面上那些像小手一样的足迹。",
+    "足迹是新的。肇事者一定就在附近。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 163",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 163",
+      "text": [
+        "To your dismay, your canoe has been chopped to pieces. It is beyond repair. You and your students study the vandalism. The only clues are tiny, hand-like tracks on the ground around the wreckage.",
+        "They are fresh. The perpetrators cannot be far."
+      ]
+    }
+  }
+}

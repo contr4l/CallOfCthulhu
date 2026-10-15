@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "491",
+    "frost-auto-491"
+  ],
+  "text": [
+    "同伴们的死在你脑海中不断重现。你不再在意急流会不会把你冲走，径直穿过裂隙，独自离开这座保存着史前生物的山谷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 491",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 491",
+      "text": [
+        "The deaths of your companions recur vividly in your imagination. Not caring whether or not the torrent carries you off, you dash through the fissure and out of the valley of prehistoric survivals, alone."
+      ]
+    }
+  }
+}

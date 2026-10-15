@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "110"
+  ],
+  "text": [
+    "继续前进并进入裂隙，前往125。转身回家，前往54。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 110",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 110",
+      "text": [
+        "To press on and enter the fissure, go to 125. To turn toward home, go to 54."
+      ]
+    }
+  }
+}

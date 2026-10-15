@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "199"
+  ],
+  "text": [
+    "很少有研究者需要做出如此绝望的决定。你犹豫实属人之常情。可就在这时，持刀的人突然挥砍，力气大得惊人。伯纳德几乎没发出声音，头颅便落在他身下的苔藓地毯上，滚到一旁。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 199",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 199",
+      "text": [
+        "Few researchers have had to make such a desperate decision. It is natural that you hesitate. Alas, while you do, the man with the blade swings it with surprising strength. Bernard barely makes a sound. His head drops to the moss carpet beneath his body and rolls aside."
+      ]
+    }
+  }
+}

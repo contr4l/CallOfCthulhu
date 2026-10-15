@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "29"
+  ],
+  "text": [
+    "A gaunt figure in a doctor’s garb\nstands before you. As he stretches\nhis bony fingers at you, you feel\nyour skin crawl. At the corner of\nyour eyes, long shadows creep on\nthe green walls and move closer.\nChoose one of the following:",
+    "● You  lose 1 Life for every Injury\nyou have and 1 Sanity for\nevery Mental Scar you have. If\nyou have no Injury or Mental\nScar, gain 1 Mental Scar and 1\nInjury; the Good Doctor will\ndisappear as soon as you\napply the damage; or",
+    "● Lose any medical equipment\n(drugs or first aid kits) you\ncarry; if you have no medical\nequipment, take 4 damage\ninstead; the Good Doctor will\ndisappear as soon as you\nsacrifice your medical\nequipment or take damage; or",
+    "● Fight the good doctor. He is a\nL6 unique Undead, 8 Life,\ndamage 1. No weapon may\ninflict more than 1 damage to\nhim. Your attacks against him\ndo not inflict additional\ndamage for exploding dice\nrolls. If you defeat him, you\ngain 1 first aid kit and d6 doses\nof painkillers. In addition, if\nyou are playing a mission that\nrequires to find prescription\ndrugs, you immediately find a\ndose of what you need. The\nGood Doctor is a unique\ncreature. If you defeat him and\nmeet him again in the\ncampaign, roll on the Unique\nZombie table instead."
+  ],
+  "reading": {
+    "en": {
+      "title": "29 - The Good Doctor",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "29 - 良医",
+      "text": [
+        "一个瘦削的人影穿着医生制服站在你面前。他向你伸出骨瘦如柴的手指，你感到浑身起鸡皮疙瘩。视野边缘的绿色墙面上，长长的影子正向你逼近。选择以下一项：",
+        "● 每有1处伤势，失去1点生命；每有1处精神创伤，失去1点理智。若你既没有伤势也没有精神创伤，则获得1处精神创伤和1处伤势。你结算完伤害后，良医便会消失；或",
+        "● 丢弃你携带的所有医疗装备（药品或急救包）。若你没有医疗装备，则改为受到4点伤害。献出医疗装备或承受伤害后，良医便会消失；或",
+        "● 与良医战斗。他是L6独特亡灵，8点生命，伤害1。任何武器对他造成的伤害都不超过1点；你对他的攻击不会因爆骰额外增加伤害。击败他可获得1个急救包和1D6剂止痛药。此外，若你正在执行一项要求寻找处方药的任务，你会立即找到所需的一剂药。良医是独特生物。若你击败他后在战役中再次遇到他，改掷独特僵尸表。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "380",
+    "frost-auto-380"
+  ],
+  "text": [
+    "你和同伴与那些奇异实体交火。看来它们必须靠得很近，冷束投射器才能发挥全部威力。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 380",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 380",
+      "text": [
+        "Your party exchanges salvos with the strange entities. It seems they must come quite close to use the full effect of their cold- beam projectors."
+      ]
+    }
+  }
+}

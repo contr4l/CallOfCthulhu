@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "279"
+  ],
+  "text": [
+    "你和诺曼前方的旅程漫长而艰难。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 279",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 279",
+      "text": [
+        "The journey before you and Norman promises to be long and hard."
+      ]
+    }
+  }
+}

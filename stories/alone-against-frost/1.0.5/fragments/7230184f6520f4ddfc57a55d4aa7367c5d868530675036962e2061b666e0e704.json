@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "50"
+  ],
+  "text": [
+    "查理主动提出去探索洞穴后方的通道，并请伯纳德与她同行。与此同时，你、诺曼和西尔维娅在洞穴前部搭起一个简陋营地。",
+    "搭建庇护所让学生们放松下来。听见诺曼被西尔维娅的笑话逗笑，你愉快地抬起头。但这轻松的闲谈很快被洞穴深处传来的恐惧哀号打断。",
+    "你们三人拿好武器、点燃火把，沿着查理仔细标出的路线前进。脚下岩石逐渐湿滑，你们发现了一处永久冻结的冰洞，冰层形似流石和钟乳石。洞内散落着野生驯鹿的骸骨，晶莹的霜晶在其上闪烁。数十只动物死在这里。这念头令人不安。",
+    "骸骨后方出现了可怕的一幕。伯纳德·埃布斯坦倒在一堆骨头上，肩膀插着一枚小飞镖。简单检查后，你发现他已经死亡。你拔下飞镖，发现它的末端是一片小小的燧石箭头，像早年猎鸟用的那种。箭头如此之小，伤口也如此浅，除非淬了毒，否则根本不可能致命。查理却不见踪影。",
+    "诺曼和西尔维娅震惊得说不出话。就这样折返，感觉像是认输；但你能拿剩下的学生性命冒险吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 50",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 50",
+      "text": [
+        "Charlie volunteers to explore the rear passages of the cave and asks Bernard to go with her. Meanwhile, you, Norman, and Sylvia put together a rustic camp in the forward section of the cavern.",
+        "Building a shelter helps the students relax, and you look up in pleasure when you hear Norman laugh at some joke made by Sylvia. Their lighthearted banter is cut short when howls of terror echo from deep within the caves.",
+        "With weapons ready and torches in hand, the three of you follow a route carefully marked by Charlie. The rocks underfoot turn slick and you discover a permanently frozen ice cavern, the ice resembling flowstones and stalactites. Within, you see a litter of wild caribou bones glittering with crystal hoarfrost. Dozens of animals perished here. The idea is unsettling.",
+        "Beyond the bones lies a terrible sight. Bernard Ebstein sprawls across a pile of bones, a small dart protruding from his shoulder. A quick inspection shows that he is dead. You remove the dart. It ends in a small flint arrowhead, like the kind used to hunt birds back in the day. It is so small, and the wound so shallow, it couldn’t have killed him unless it was poisoned. There is no sign of Charlie.",
+        "Norman and Sylvia are speechless with shock. It feels like defeat to turn back, but can you risk the lives of your remaining students?"
+      ]
+    }
+  }
+}

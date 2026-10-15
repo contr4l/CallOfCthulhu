@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "13"
+  ],
+  "text": [
+    "你奋力游到岸边。学生们为你欢呼，但从他们脸上，你看得出他们终于意识到：实地考察与温暖的讲堂截然不同。",
+    "你们损失了不少补给，还有一些武器被河水冲走。诺曼清点物品。所有刀具都在，但斧头和步枪是分开打包的。你们开始寻找丢失的东西。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 13",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 13",
+      "text": [
+        "You struggle to shore. Your students cheer, but in their faces you can see it strike home: the difference between a field trip and a warm lecture room.",
+        "Your group has lost many of its supplies and some of its weapons to the river. Norman takes stock. All your knives are safe, but the hatchets and rifles were packed separately. You search for the lost items."
+      ]
+    }
+  }
+}

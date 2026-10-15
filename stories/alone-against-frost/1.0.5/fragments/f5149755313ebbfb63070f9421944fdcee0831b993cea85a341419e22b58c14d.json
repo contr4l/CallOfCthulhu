@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "396"
+  ],
+  "text": [
+    "“她在这儿！”诺曼从阴影里低声说道。你蹑手蹑脚走到他身旁，低头看着他发现的苍白身影。",
+    "西尔维娅睁着眼，目光却没有焦点。她似乎认不出你。你拉她的手臂时，她毫不反抗地站起来，呆呆地立在那里。你和诺曼交换眼神；他显得很纠结。",
+    "“她这个状态，我们能带她逃出营地吗？”他问，“我们能一路把她带回家吗？”如果西尔维娅的理智已经崩溃，也许把她留在这里才是仁慈之举。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 396",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 396",
+      "text": [
+        "“She’s here!” Norman hisses from the shadows. You creep over to him and look down at the pale shape he has found.",
+        "Sylvia’s eyes are open, but they do not focus. She gives no sign of recognizing you. When you pull on her arm, she gets up without resisting and stands there, slack. You exchange glances with Norman. He looks conflicted.",
+        "“Can we make it back out of camp with her in this state?” he asks. “Can we make it all the way back home?” If Sylvia’s sanity is gone, perhaps it would be kindest to leave her here."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "517"
+  ],
+  "text": [
+    "真菌生物似乎打算用间接火力杀死你；不过树木长得密集，迫使它们靠近，也让它们暴露在你的攻击范围内。你的掩体位置不错。但手指已冻得麻木，冰霜正爬上你的眼睛。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 517",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 517",
+      "text": [
+        "The fungoid creatures seem content to kill you by indirect fire; however, the close-set trees require them to draw near, where they are vulnerable. You have a good covered position. But your fingers become numb with the cold, and ice creeps into your eyes."
+      ]
+    }
+  }
+}

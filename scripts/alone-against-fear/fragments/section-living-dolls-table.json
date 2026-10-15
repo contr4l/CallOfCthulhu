@@ -1,0 +1,51 @@
+{
+  "id": "section-living-dolls-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-living-dolls-table:p0",
+      "kind": "heading",
+      "text": "Living Dolls table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[67,22,51]]"
+    },
+    {
+      "id": "section-living-dolls-table:p1",
+      "kind": "body",
+      "text": "1\nVivina, porcelain doll. L5 Artificial creature, 4 Life, no damage. This doll cries and\nscreams so loudly that you feel a sharp pain in your ears. You can try to calm her\ndown by offering an object and passing a L3 Charisma roll. To see what object she\ncraves, roll d6: 1) a candle, 2) a book, 3) a doll, 4) a knife, 5) 1 Food, 6) a bell.  If you do\nnot have the required item or do not want to give it to Vivina or if you fail the roll, you\nwill have to fight her. For every turn in which she is still crying, roll a 1 in 6 chance of\na random encounter. If any other creature arrives, you must decide whether to attack\nthat creature or Vivina each turn.\n",
+      "sourceLocation": "pdf:spans:[[67,51,53],[67,53,140],[67,140,223],[67,223,305],[67,305,402],[67,402,494],[67,494,587],[67,587,672],[67,672,707]]"
+    },
+    {
+      "id": "section-living-dolls-table:p2",
+      "kind": "body",
+      "text": "2\nMuama, metal and leather doll. L6 Artificial creature, 6 Life, 1 damage. Muama\nlooks for fragments of a black mirror. If you have any, you can give them to her to\navoid this encounter. If you have no black mirror, she will attack you, clawing at you\nwith her coil-like arms.\n",
+      "sourceLocation": "pdf:spans:[[67,707,709],[67,709,788],[67,788,872],[67,872,959],[67,959,984]]"
+    },
+    {
+      "id": "section-living-dolls-table:p3",
+      "kind": "body",
+      "text": "3\nMirina, rag doll. Level 6 Artificial creature. You may not fight her. Perform a L6 Will\nsave to resist her evil influence. If you fail, you will have to kill the next human you\nmeet ( Slashers count as humans; if you meet a human that has no combat statistics,\nsuch as some friendly person who gives you Food or help, you automatically kill that\nperson and lose 1 Sanity). If you save, you move away and leave Mirina where she is.\nYou will however encounter her again if you roll this result again OR if you visit again\nthe box where you left her. Mirina is susceptible to exorcism, but you may try to\nexorcise her ONLY if you are not under her influence. If you exorcise her, remove her\nfrom the campaign.\n",
+      "sourceLocation": "pdf:spans:[[67,984,986],[67,986,1074],[67,1074,1163],[67,1163,1247],[67,1247,1332],[67,1332,1417],[67,1417,1506],[67,1506,1588],[67,1588,1674],[67,1674,1693]]"
+    },
+    {
+      "id": "section-living-dolls-table:p4",
+      "kind": "body",
+      "text": "4\nMaraya, wooden doll. L4 Artificial creature, 12 Life, 1 damage. Maraya attacks you\nwith a long rusty nail. If you roll a 1 on any Defense roll, she has stabbed you in an\neye. You will be at -1 on all Attack rolls until the wound is healed (you must reach a\nclinic or a Safe House and heal 1 Life there). If she stabs both of your eyes, your\nadventure ends here. If you roll any explosive 6 when attacking her, you will knock\nher head off her body. This will not kill her, but as she scrambles to find her head and\nput it back on, you may automatically escape the encounter. If you meet Maraya again\nlater, she will have healed all damage you inflicted on her UNLESS it was inflicted by\nfire.\n",
+      "sourceLocation": "pdf:spans:[[67,1693,1695],[67,1695,1778],[67,1778,1865],[67,1865,1952],[67,1952,2036],[67,2036,2120],[67,2120,2209],[67,2209,2294],[67,2294,2381],[67,2381,2387]]"
+    },
+    {
+      "id": "section-living-dolls-table:p5",
+      "kind": "body",
+      "text": "5\nAzolina, fabric doll. L5 Artificial creature,  6 Life, 1 damage. Roll a L5 Will save at the\nstart of the encounter. If you pass it, you may move out of this box. If you fail, you will\nbe drawn to hug her and she will attack you. If you fail any Defense roll, Azolina will\nautomatically choke you for 1 Life point of damage every turn until you destroy her.\nIf you pass the first Defense roll, you may try to Escape at -1.\n",
+      "sourceLocation": "pdf:spans:[[67,2387,2389],[67,2389,2481],[67,2481,2573],[67,2573,2661],[67,2661,2746],[67,2746,2811]]"
+    },
+    {
+      "id": "section-living-dolls-table:p6",
+      "kind": "body",
+      "text": "6\nKalina and Her Toy Dinosaur. L4 Artificial creature, 5 Life, damage 1, and L4 toy\ndinosaur, 6 Life, 2 damage. Kalina and her toy dinosaur will attack you at the same\ntime, both by biting. Both are hit at +1 by fire-based attacks. Every turn, you must\nchoose whom you attack, but if you attack Kalina, your Defense rolls against her\ndinosaur are at -1. If you destroy Kalina, her toy dinosaur will collapse to the ground.\nLoot: 3 in 6 chance of finding an item from the Useful Stuff table OR d6 candles (your\nchoice) if you defeat Kalina.",
+      "sourceLocation": "pdf:spans:[[67,2811,2813],[67,2813,2895],[67,2895,2979],[67,2979,3064],[67,3064,3145],[67,3145,3234],[67,3234,3321],[67,3321,3350]]"
+    }
+  ],
+  "sourcePages": [
+    67
+  ]
+}

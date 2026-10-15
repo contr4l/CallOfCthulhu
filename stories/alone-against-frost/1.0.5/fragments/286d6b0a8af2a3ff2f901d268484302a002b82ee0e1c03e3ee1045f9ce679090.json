@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "71"
+  ],
+  "text": [
+    "你叫醒查理、诺曼和西尔维娅，告诉他们刚才发生的事，并要求他们帮忙。三人一边打哈欠一边揉着眼睛。",
+    "“不！”查理抓住你，“我们不能去找那个男孩！他听见了伟大的风行者的召唤，已经不属于你了。我们必须逃走！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 71",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 71",
+      "text": [
+        "You rouse Charlie, Norman, and Sylvia. As they yawn and blink, you tell them what happened and demand their help.",
+        "“No!” Charlie grabs you. “We must not seek the boy! He has heard the call of the Great Wind-Walker. He is lost to you. We must flee!”"
+      ]
+    }
+  }
+}

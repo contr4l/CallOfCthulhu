@@ -1,131 +1,18 @@
 {
   "id": "section-sanity",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-sanity:p0000",
-      "kind": "body",
+      "id": "section-sanity:p0",
+      "kind": "heading",
       "text": "Sanity\n",
       "sourceLocation": "pdf:spans:[[10,301,308]]"
     },
     {
-      "id": "section-sanity:p0001",
+      "id": "section-sanity:p1",
       "kind": "body",
-      "text": "Sanity is a measure of how\n",
-      "sourceLocation": "pdf:spans:[[10,308,335]]"
-    },
-    {
-      "id": "section-sanity:p0002",
-      "kind": "body",
-      "text": "mentally sound you are. You lose\n",
-      "sourceLocation": "pdf:spans:[[10,335,368]]"
-    },
-    {
-      "id": "section-sanity:p0003",
-      "kind": "body",
-      "text": "Sanity by meeting supernatural\n",
-      "sourceLocation": "pdf:spans:[[10,368,399]]"
-    },
-    {
-      "id": "section-sanity:p0004",
-      "kind": "body",
-      "text": "menaces and failing to help other\n",
-      "sourceLocation": "pdf:spans:[[10,399,433]]"
-    },
-    {
-      "id": "section-sanity:p0005",
-      "kind": "body",
-      "text": "humans. You gain Sanity by resting\n",
-      "sourceLocation": "pdf:spans:[[10,433,468]]"
-    },
-    {
-      "id": "section-sanity:p0006",
-      "kind": "body",
-      "text": "in calm places. If your Sanity goes\n",
-      "sourceLocation": "pdf:spans:[[10,468,504]]"
-    },
-    {
-      "id": "section-sanity:p0007",
-      "kind": "body",
-      "text": "to 0, you are overcome by insanity\n",
-      "sourceLocation": "pdf:spans:[[10,504,539]]"
-    },
-    {
-      "id": "section-sanity:p0008",
-      "kind": "body",
-      "text": "and your game ends.\n",
-      "sourceLocation": "pdf:spans:[[10,539,559]]"
-    },
-    {
-      "id": "section-sanity:p0009",
-      "kind": "body",
-      "text": "You may at any moment prevent\n",
-      "sourceLocation": "pdf:spans:[[10,559,589]]"
-    },
-    {
-      "id": "section-sanity:p0010",
-      "kind": "body",
-      "text": "the loss of 1 or 2 Sanity points by\n",
-      "sourceLocation": "pdf:spans:[[10,589,625]]"
-    },
-    {
-      "id": "section-sanity:p0011",
-      "kind": "body",
-      "text": "rolling on the Insanity table. This\n",
-      "sourceLocation": "pdf:spans:[[10,625,661]]"
-    },
-    {
-      "id": "section-sanity:p0012",
-      "kind": "body",
-      "text": "will give you a lasting Mental Scar\n",
-      "sourceLocation": "pdf:spans:[[10,661,697]]"
-    },
-    {
-      "id": "section-sanity:p0013",
-      "kind": "body",
-      "text": "but will let you continue on playing.\n",
-      "sourceLocation": "pdf:spans:[[10,697,735]]"
-    },
-    {
-      "id": "section-sanity:p0014",
-      "kind": "body",
-      "text": "When you have 3 Mental Scars, you\n",
-      "sourceLocation": "pdf:spans:[[10,735,769]]"
-    },
-    {
-      "id": "section-sanity:p0015",
-      "kind": "body",
-      "text": "may no longer roll on the Insanity\n",
-      "sourceLocation": "pdf:spans:[[10,769,804]]"
-    },
-    {
-      "id": "section-sanity:p0016",
-      "kind": "body",
-      "text": "table and must accept any Sanity\n",
-      "sourceLocation": "pdf:spans:[[10,804,837]]"
-    },
-    {
-      "id": "section-sanity:p0017",
-      "kind": "body",
-      "text": "loss you receive.\n",
-      "sourceLocation": "pdf:spans:[[10,837,855]]"
-    },
-    {
-      "id": "section-sanity:p0018",
-      "kind": "body",
-      "text": "Between games, Sanity is restored\n",
-      "sourceLocation": "pdf:spans:[[10,855,889]]"
-    },
-    {
-      "id": "section-sanity:p0019",
-      "kind": "body",
-      "text": "to its maximum, but Mental Scars\n",
-      "sourceLocation": "pdf:spans:[[10,889,922]]"
-    },
-    {
-      "id": "section-sanity:p0020",
-      "kind": "body",
-      "text": "remain until the character’s death.\n",
-      "sourceLocation": "pdf:spans:[[10,922,958]]"
+      "text": "Sanity is a measure of how\nmentally sound you are. You lose\nSanity by meeting supernatural\nmenaces and failing to help other\nhumans. You gain Sanity by resting\nin calm places. If your Sanity goes\nto 0, you are overcome by insanity\nand your game ends.\nYou may at any moment prevent\nthe loss of 1 or 2 Sanity points by\nrolling on the Insanity table. This\nwill give you a lasting Mental Scar\nbut will let you continue on playing.\nWhen you have 3 Mental Scars, you\nmay no longer roll on the Insanity\ntable and must accept any Sanity\nloss you receive.\nBetween games, Sanity is restored\nto its maximum, but Mental Scars\nremain until the character’s death.\n",
+      "sourceLocation": "pdf:spans:[[10,308,335],[10,335,368],[10,368,399],[10,399,433],[10,433,468],[10,468,504],[10,504,539],[10,539,559],[10,559,589],[10,589,625],[10,625,661],[10,661,697],[10,697,735],[10,735,769],[10,769,804],[10,804,837],[10,837,855],[10,855,889],[10,889,922],[10,922,958]]"
     }
   ],
   "sourcePages": [

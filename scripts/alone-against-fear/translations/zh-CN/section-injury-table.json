@@ -1,0 +1,21 @@
+{
+  "id": "section-injury-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "e46748e3ed1685d2fe1d762eaa0ad8845a152664544951db88abbe2740838ad4",
+  "paragraphs": [
+    {
+      "id": "section-injury-table:p0",
+      "text": "伤残表（D6）"
+    },
+    {
+      "id": "section-injury-table:p1",
+      "text": "1 面部疤痕：魅力检定永久-1。\n2 手臂受损：使用近战武器进行攻击检定永久-1。\n3 眼部受损：远程攻击检定永久-1。\n4 跛行：所有逃跑检定永久-1。\n5 脑部受损：所有意志和魔法检定永久-1。"
+    },
+    {
+      "id": "section-injury-table:p2",
+      "text": "6 手臂残废：一条手臂失去功能，不能再使用需要双手的武器；仍可使用步枪和霰弹枪，但检定-1。"
+    }
+  ],
+  "notes": []
+}

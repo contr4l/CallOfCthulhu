@@ -1,0 +1,18 @@
+{
+  "id": "16",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "16:p0",
+      "kind": "heading",
+      "text": "#16 - train to nowhere\n",
+      "sourceLocation": "pdf:spans:[[83,1615,1638]]"
+    },
+    {
+      "id": "16:p1",
+      "kind": "body",
+      "text": "You sit down as the train reaches\nfull speed. Soon the rhythmic\nmotion of the train lulls you to\nsleep.\nYou wake up after a couple of\nstops. You feel refreshed. Heal 2\nLife.\nYou get off the train and continue\nyour exploration of the town, but\nyou now have traveled 1 or 2\nboxes from your previous location\n(you choose where).",
+      "sourceLocation": "pdf:spans:[[83,1638,1672],[83,1672,1702],[83,1702,1735],[83,1735,1742],[83,1742,1772],[83,1772,1806],[83,1806,1812],[83,1812,1847],[83,1847,1881],[83,1881,1910],[83,1910,1944],[83,1944,1963]]"
+    }
+  ]
+}

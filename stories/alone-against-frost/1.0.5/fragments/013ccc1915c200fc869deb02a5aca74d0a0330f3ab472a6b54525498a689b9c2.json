@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "12"
+  ],
+  "text": [
+    "你的四名同伴设法抓住了受损的独木舟。水流把他们冲到一处堆满漂木的沙洲上。查理带着学生们脱险；你则奋力对抗急流。裹挟着杂物的水流把你冲得东倒西歪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 12",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 12",
+      "text": [
+        "Your four companions manage to hold onto the battered canoe. The current carries them to a drift-strewn sandbar. Charlie gets the students to safety as you fight the rushing water. Thick with debris, it tosses you around."
+      ]
+    }
+  }
+}

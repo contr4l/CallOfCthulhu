@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "615",
+    "frost-auto-615"
+  ],
+  "text": [
+    "剑齿猫扑来时，你才听见它的动静。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 615",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 615",
+      "text": [
+        "You do not hear the saber-toothed cat until it springs."
+      ]
+    }
+  }
+}

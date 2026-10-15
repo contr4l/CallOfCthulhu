@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "42"
+  ],
+  "text": [
+    "A white ram with fiery red eyes and\nhuge horns appears before you. It\nis surrounded by an aura of\nwickedness that terrifies you. Save\nvs. L6 Fear, adding +1 if you have\nthe Will Skill at Expert level (add no\nbonus for the Will Skill at basic\nlevel). If you fail, you lose 2 Sanity\nAND you must run from this\nencounter. As you move to a\nneighboring area, roll on the Witch\nChildren table to determine who\nwill attack you.\nIf you succeed, you have to fight\nSnowy Samuel. Treat it as a L6\nDemon with 8 Life. He inflicts 2\nDamage with his horns, and is\nvulnerable to holy water (a\nsplashed vial will inflict 2 damage).\nYou may not escape from this\nencounter. In addition, if you have\na firearm, you will be able to use it\nonly on your first attack (or two\nattacks if you have an assault rifle\nand choose to shoot twice at the\ncharging goat, using 3 bullets to do\nso). After the first attack, Snowy\nSamuel will automatically disarm\nyou and you will have to spend 1\naction to draw a melee weapon like\na knife, or fight unarmed at -2.\nIf you defeat Snowy Samuel, you\ngain 2 XP and all creatures from the\nWitch Children table that you will\nencounter in the rest of the\ncampaign will have -1 to their L.\nThis is a permanent effect. In\naddition, at the end of the battle\nyou will find an item from the\nRandom Magic Items table.\nEach of these events may happen only once. As it happens cross it off the table.\nRoll on the Special Events table if you roll an event that already happened. If\nall Random events have occurred, treat any result of 7 on the exploration table\nas “House”."
+  ],
+  "reading": {
+    "en": {
+      "title": "42- Snowy Samuel",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "42 - 雪诺·塞缪尔",
+      "text": [
+        "一只白色公羊出现在你面前，双眼如火，长着巨大的犄角。它周身环绕着邪恶气息，令你胆寒。进行一次L6恐惧防御检定；只有意志技能达到专家级时才+1（基础级意志技能不加值）。失败则失去2点理智，并且必须逃离本次遭遇。移动到相邻区域时，掷女巫孩子表决定谁会攻击你。\n成功则必须与雪诺·塞缪尔战斗。将其视为L6恶魔，8点生命，犄角造成2点伤害；它容易受到圣水影响（泼洒一瓶圣水造成2点伤害）。这场遭遇中不能逃跑。若你有枪械，只能在第一次攻击时使用（若持有突击步枪并选择连续射击冲锋而来的公羊，可以攻击两次，但要消耗3发子弹）。第一次攻击后，雪诺·塞缪尔会自动缴下你的武器。你必须花费1个行动抽出小刀等近战武器，或徒手作战并承受-2减值。\n若击败雪诺·塞缪尔，获得2点经验；本战役剩余期间，女巫孩子表中的所有生物等级永久-1。战斗结束后，还可从随机魔法物品表获得一件物品。"
+      ]
+    }
+  }
+}

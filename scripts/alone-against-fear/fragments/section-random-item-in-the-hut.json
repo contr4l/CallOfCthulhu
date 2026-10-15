@@ -1,0 +1,21 @@
+{
+  "id": "section-random-item-in-the-hut",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-random-item-in-the-hut:p0",
+      "kind": "heading",
+      "text": "Random item in the hut\n",
+      "sourceLocation": "pdf:spans:[[82,1662,1685]]"
+    },
+    {
+      "id": "section-random-item-in-the-hut:p1",
+      "kind": "body",
+      "text": "1 Chainsaw.\n2-3 Hammer, nails, insecticide.\n4 Knife, d6 Food points.\n5 Rope, d6 Food points.\n6 Shotgun with 2d6 shells.\n",
+      "sourceLocation": "pdf:spans:[[82,1685,1697],[82,1697,1729],[82,1729,1754],[82,1754,1778],[82,1778,1805]]"
+    }
+  ],
+  "sourcePages": [
+    82
+  ]
+}

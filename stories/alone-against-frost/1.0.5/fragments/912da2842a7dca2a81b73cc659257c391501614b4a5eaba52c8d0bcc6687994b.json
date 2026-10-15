@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "327",
+    "frost-auto-327"
+  ],
+  "text": [
+    "离营地约一百码处，你发现一只加拿大雁。你稳住颤抖的手，开枪射击。你不敢瞄准头部，担心打不中，于是把子弹射进它的腹部。受伤的野兽拖着你在树林里追逐许久，终于倒下。",
+    "你兴高采烈地回到诺曼身边。一顿好饭正是他此刻需要的。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 327",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 327",
+      "text": [
+        "A hundred yards from camp, you spot a Canada goose. Steadying your shaky hand for a moment, you take the shot. You dare not aim for the head and miss, so you put a bullet in its gut. The agonized beast leads you on a fretful chase through the woods before keeling over.",
+        "You return to Norman elated. A good meal is exactly what he needs."
+      ]
+    }
+  }
+}

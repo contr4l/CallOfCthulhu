@@ -3012,3 +3012,18 @@ html {
 .modal .primary-button:hover {
   transform: none;
 }
+/* The paper map keeps the book's five columns on both desktop and phone. */
+.fear-resources { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; }
+.fear-resources dt { font-size: .8rem; opacity: .8; }
+.fear-resources dd { margin: .15rem 0 0; font-weight: 600; }
+.fear-map { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .3rem; }
+.fear-map-box { min-width: 0; min-height: 3.4rem; padding: .25rem .1rem; border: 1px solid #5f6268; border-radius: .3rem; text-align: center; opacity: .55; }
+.fear-map-box.visited { opacity: 1; }
+.fear-map-box.reachable { border-color: #d5af73; border-width: 2px; }
+.fear-map-box.current { background: #483522; color: #fff; opacity: 1; }
+.fear-map-box small { display: block; font-size: .6rem; overflow-wrap: anywhere; }
+.fear-map-legend { font-size: .8rem; }
+.fear-record select { display: block; max-width: 100%; margin: .4rem 0; }
+.fear-skill-choice { width: 100%; display: grid; gap: .8rem; }
+.fear-skill-choice label { display: grid; gap: .35rem; }
+.fear-skill-choice select { width: 100%; padding: .65rem; font: inherit; }

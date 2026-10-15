@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "305"
+  ],
+  "text": [
+    "“不！”西尔维娅嘶哑地说。她的脸扭曲成久远记忆中那个女孩的模样——当年她曾在密斯卡托尼克大学的辅导课上分析一篇艰深论文。但她的声音却属于恶魔。“别靠近我。它在我体内，我会把它传给你。快跑！我……渴望……”",
+    "你看向诺曼，惊讶地发现他已惊恐地盲目逃跑。若你迟疑，可能再也追不上他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 305",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 305",
+      "text": [
+        "“No!” Sylvia rasps. Her face is the misshapen echo of a girl from long ago, analyzing a thorny paper in a Miskatonic tutorial room. But her voice is that of a demon. “Come no closer. It is in me and I will take you. Run! I… crave...”",
+        "You glance at Norman. To your surprise, he speeds away in blind terror. If you hesitate, you may never find him again."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "381",
+    "frost-auto-381"
+  ],
+  "text": [
+    "战斗终于结束。你出去查看尸体，发现它们是体型巨大的粉红色真菌状甲壳生物。从它们战斗的方式来看，它们显然拥有高度智慧。你兴奋不已——这些将是多么珍贵的标本！",
+    "可惜尸体开始出现奇异的腐败。到了中午，它们只剩下一滩黏液。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 381",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 381",
+      "text": [
+        "Finally, the fight is over. You go out to check the bodies and find them to be pink, fungoid crustaceans of great size. From the way they fought, they must have been intelligent indeed. Your scientific excitement rises. What specimens they will make!",
+        "Unfortunately, a strange deterioration sets into the bodies. By midday, there is nothing left of them but slime."
+      ]
+    }
+  }
+}

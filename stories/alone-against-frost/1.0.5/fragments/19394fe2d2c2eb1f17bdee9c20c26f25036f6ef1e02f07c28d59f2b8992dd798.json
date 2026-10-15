@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "180",
+    "frost-auto-180"
+  ],
+  "text": [
+    "你掀开绷带查看，见那睡着的男人双脚青肿、伤痕累累，还已感染，心中不禁生出怜悯。你清洗伤口并换上新绷带。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 180",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 180",
+      "text": [
+        "Peering beneath the bandages, you are moved to pity by the bruised, cut, and infected condition of the sleeping man’s feet. You clean his wounds and change the bandages."
+      ]
+    }
+  }
+}

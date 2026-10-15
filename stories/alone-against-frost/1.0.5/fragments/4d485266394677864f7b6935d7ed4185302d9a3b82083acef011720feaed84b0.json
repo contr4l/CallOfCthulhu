@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "48",
+    "frost-auto-48"
+  ],
+  "text": [
+    "夜色退去时，树林渐渐回暖；然而黎明来临，你才意识到自己迷失在加拿大荒野中。当天剩余时间，你一直待在原地，以蓝莓果腹。黑暗再次降临，随后第二个黎明到来，你终于认清自己孤立无援的处境。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 48",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 48",
+      "text": [
+        "The woods warm up as night recedes, but as dawn breaks, you realize that you are lost in the Canadian wilds. You stay where you are for the remainder of the day, dining on blueberries. The fall of darkness and the arrival of a second dawn make your isolation clear."
+      ]
+    }
+  }
+}

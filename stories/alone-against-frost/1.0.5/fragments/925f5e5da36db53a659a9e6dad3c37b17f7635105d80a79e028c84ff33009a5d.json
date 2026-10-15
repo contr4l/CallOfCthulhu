@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "91"
+  ],
+  "text": [
+    "你整理好装备，沿着水下岩台一点点向前挪，抵抗膝深的湍急水流。裂缝处水道收窄，危险也最大。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 91",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 91",
+      "text": [
+        "You secure your gear and inch your way along a submerged ledge, fighting against the rushing, knee-deep water. It narrows at the fissure, and there the hazard is greatest."
+      ]
+    }
+  }
+}

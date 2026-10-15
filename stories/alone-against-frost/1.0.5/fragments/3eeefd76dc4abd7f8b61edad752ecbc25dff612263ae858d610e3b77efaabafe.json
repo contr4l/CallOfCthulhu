@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "149"
+  ],
+  "text": [
+    "停下帮助伯纳德，前往332。带着查理继续冲刺，前往153。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 149",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 149",
+      "text": [
+        "To stop and help Bernard, go to 332. To race on with Charlie, go to 153."
+      ]
+    }
+  }
+}

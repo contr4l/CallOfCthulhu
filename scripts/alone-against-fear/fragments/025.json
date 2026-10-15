@@ -1,0 +1,18 @@
+{
+  "id": "25",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "25:p0",
+      "kind": "heading",
+      "text": " #25 - The bloodthirsty blade.\n",
+      "sourceLocation": "pdf:spans:[[86,1745,1776]]"
+    },
+    {
+      "id": "25:p1",
+      "kind": "body",
+      "text": "The blade is cursed. You may not\nget rid of it until you find a ritual or\nan artifact that lets you remove a\ncurse. The blade lets you attack at\n+1 but you may not discard it in\nfavor of other weapons. You maynot perform ranged attacks (not\neven throwing the knife) until you\nhold the knife.\n",
+      "sourceLocation": "pdf:spans:[[86,1776,1809],[86,1809,1850],[86,1850,1885],[86,1885,1921],[86,1921,1954],[86,1954,1985],[87,22,54],[87,54,89],[87,89,105]]"
+    }
+  ]
+}

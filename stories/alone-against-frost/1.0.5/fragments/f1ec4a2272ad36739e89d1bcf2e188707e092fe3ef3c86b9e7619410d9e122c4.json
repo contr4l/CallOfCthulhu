@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "576"
+  ],
+  "text": [
+    "你悄悄示意诺曼和西尔维娅留在后方并找掩护。你观察这群人片刻，判断他们的举动。",
+    "其中一人走到附近树后，拽起一个女孩。她似乎属于他们的社群，但双手被绑着。你不明白他们为何如此对待自己人，便看着图苏蒂纳人用生皮绳把她绑在树干上。做完后，他们收拾行装，离开洼地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 576",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 576",
+      "text": [
+        "Silently, you motion Norman and Sylvia to stay back and get under cover. You observe the group for a moment, assessing their behavior.",
+        "One goes behind a nearby tree and yanks a girl to her feet. She looks like she belongs to their community, but her hands are bound. Puzzled by this rough treatment of one of their own, you watch the Tsuut’ina lash her to a tree trunk with rawhide thongs. When they are done, they gather their gear and depart from the hollow."
+      ]
+    }
+  }
+}

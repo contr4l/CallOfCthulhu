@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "40"
+  ],
+  "text": [
+    "你的值守平安无事。但后来，你在睡梦中打起寒战。查理把手伸进你的小帐篷，摇醒你时，你才真正感受到那股寒意。",
+    "“教授，快出来。”向导催促道。你披上外套跟她出去。你看着草地、石头和针叶树的针叶：一切都覆着灰色霜层。简直不可能。现在明明还是夏天。",
+    "“看，”查理嗓音沙哑，指向伯纳德开始值守时坐过的地方。",
+    "那名研究生半藏在树桩后面，蜷缩成一团。你倒抽一口气。埃布斯坦已经变成一个干瘪、松弛、淌着口水的怪物。他毫无血色的额头凹陷下去，像泄了气的篮球。你无法理解，这种状态下他竟然还活着。",
+    "西尔维娅拿来一条毯子，你用厚重的羊毛把伯纳德裹起来。你扶他时，注意到冷空气中有股令人作呕的气味。你抓住年轻人的外套，手指却从一层灰色油脂上滑开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 40",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 40",
+      "text": [
+        "Your watch passes without incident. But later, you shiver in your sleep. The chill is brought home to you when Charlie reaches into your small tent and shakes you awake.",
+        "“Professor, come quickly,” the guide snaps. You throw on your jacket and follow her. Outside, you stare at the grass, the stones, the needles of the conifers: all are gray with a frosty rime. This seems impossible. It is still summer.",
+        "“Look,” Charlie croaks, pointing to the spot where Bernard sat down to begin his watch.",
+        "The graduate student lies half-hidden behind a stump, curled up. You gasp. Ebstein has been reduced to a shrunken, flabby, drooling thing. His bloodless forehead is caved in like a deflated basketball. How he can still be alive in that condition is beyond your ken.",
+        "Sylvia brings a blanket, and you wrap Bernard in the heavy wool. As you do so, you notice a somewhat repugnant odor in the cold air. When you grasp the young man’s jacket, your fingers slip from a grayish grease that coats him."
+      ]
+    }
+  }
+}

@@ -1,107 +1,18 @@
 {
   "id": "section-mapping",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-mapping:p0000",
-      "kind": "body",
+      "id": "section-mapping:p0",
+      "kind": "heading",
       "text": "Mapping\n",
       "sourceLocation": "pdf:spans:[[5,1380,1388]]"
     },
     {
-      "id": "section-mapping:p0001",
+      "id": "section-mapping:p1",
       "kind": "body",
-      "text": "Your journey through the\n",
-      "sourceLocation": "pdf:spans:[[5,1388,1413]]"
-    },
-    {
-      "id": "section-mapping:p0002",
-      "kind": "body",
-      "text": "nightmare town is mapped in a\n",
-      "sourceLocation": "pdf:spans:[[5,1413,1443]]"
-    },
-    {
-      "id": "section-mapping:p0003",
-      "kind": "body",
-      "text": "series of “boxes”. Each box\n",
-      "sourceLocation": "pdf:spans:[[5,1443,1471]]"
-    },
-    {
-      "id": "section-mapping:p0004",
-      "kind": "body",
-      "text": "represents a different location.\n",
-      "sourceLocation": "pdf:spans:[[5,1471,1504]]"
-    },
-    {
-      "id": "section-mapping:p0005",
-      "kind": "body",
-      "text": "When you step into a box, you\n",
-      "sourceLocation": "pdf:spans:[[5,1504,1534]]"
-    },
-    {
-      "id": "section-mapping:p0006",
-      "kind": "body",
-      "text": "number the box (1, 2, 3, etc.) and\n",
-      "sourceLocation": "pdf:spans:[[5,1534,1569]]"
-    },
-    {
-      "id": "section-mapping:p0007",
-      "kind": "body",
-      "text": "roll on a table to generate events\n",
-      "sourceLocation": "pdf:spans:[[5,1569,1604]]"
-    },
-    {
-      "id": "section-mapping:p0008",
-      "kind": "body",
-      "text": "and potential opponents for that\n",
-      "sourceLocation": "pdf:spans:[[5,1604,1637]]"
-    },
-    {
-      "id": "section-mapping:p0009",
-      "kind": "body",
-      "text": "area. You fight monsters by rolling\n",
-      "sourceLocation": "pdf:spans:[[5,1637,1673]]"
-    },
-    {
-      "id": "section-mapping:p0010",
-      "kind": "body",
-      "text": "dice and taking tactical decisions,\n",
-      "sourceLocation": "pdf:spans:[[5,1673,1709]]"
-    },
-    {
-      "id": "section-mapping:p0011",
-      "kind": "body",
-      "text": "and keep a tally of the resources\n",
-      "sourceLocation": "pdf:spans:[[5,1709,1743]]"
-    },
-    {
-      "id": "section-mapping:p0012",
-      "kind": "body",
-      "text": "you use. Certain locations are safe\n",
-      "sourceLocation": "pdf:spans:[[5,1743,1779]]"
-    },
-    {
-      "id": "section-mapping:p0013",
-      "kind": "body",
-      "text": "areas and give you the opportunity\n",
-      "sourceLocation": "pdf:spans:[[5,1779,1814]]"
-    },
-    {
-      "id": "section-mapping:p0014",
-      "kind": "body",
-      "text": "to rest and lick your wounds. But\n",
-      "sourceLocation": "pdf:spans:[[5,1814,1848]]"
-    },
-    {
-      "id": "section-mapping:p0015",
-      "kind": "body",
-      "text": "don’t get too comfortable, because\n",
-      "sourceLocation": "pdf:spans:[[5,1848,1883]]"
-    },
-    {
-      "id": "section-mapping:p0016",
-      "kind": "body",
-      "text": "no location is safe forever.\n",
-      "sourceLocation": "pdf:spans:[[5,1883,1912]]"
+      "text": "Your journey through the\nnightmare town is mapped in a\nseries of “boxes”. Each box\nrepresents a different location.\nWhen you step into a box, you\nnumber the box (1, 2, 3, etc.) and\nroll on a table to generate events\nand potential opponents for that\narea. You fight monsters by rolling\ndice and taking tactical decisions,\nand keep a tally of the resources\nyou use. Certain locations are safe\nareas and give you the opportunity\nto rest and lick your wounds. But\ndon’t get too comfortable, because\nno location is safe forever.\n",
+      "sourceLocation": "pdf:spans:[[5,1388,1413],[5,1413,1443],[5,1443,1471],[5,1471,1504],[5,1504,1534],[5,1534,1569],[5,1569,1604],[5,1604,1637],[5,1637,1673],[5,1673,1709],[5,1709,1743],[5,1743,1779],[5,1779,1814],[5,1814,1848],[5,1848,1883],[5,1883,1912]]"
     }
   ],
   "sourcePages": [

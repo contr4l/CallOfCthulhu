@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "516"
+  ],
+  "text": [
+    "你从一个黑暗角落窜到另一个，冲出洞穴。然而，阴影中的入侵者挡住了所有逃生路线。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 516",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 516",
+      "text": [
+        "You dart from dark corner to dark corner and break out from the cave. But you can see no escape route through the shadowy intruders."
+      ]
+    }
+  }
+}

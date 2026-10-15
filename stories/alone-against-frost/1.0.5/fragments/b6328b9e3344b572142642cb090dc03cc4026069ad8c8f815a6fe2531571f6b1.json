@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "9"
+  ],
+  "text": [
+    "你凝神倾听，灌木丛中传来一阵奇怪的窸窣声。就在营火光芒之外，有什么东西在移动。声音停在你的研究生助理伯纳德·埃布斯坦身旁，他正发出轻微的鼾声。",
+    "你拿起武器，悄无声息地走过去。厚重的云层遮住了月亮和星星。直到火光突然一闪，你才看见入侵者——几个直立行走的小小身影！你只有一瞬间决定该怎么做。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 9",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 9",
+      "text": [
+        "As you listen, you hear a peculiar scurrying in the undergrowth. Just beyond the glow of the campfire, something is moving. The sound stops near the spot where your graduate assistant, Bernard Ebstein, is snoring faintly.",
+        "You pick up a weapon and pad through the silence. A heavy sky blocks the moon and stars. It is only by a sudden flaring of the fire that you see the intruders—tiny figures walking upright! You have only an instant to decide what to do."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "481",
+    "frost-auto-481"
+  ],
+  "text": [
+    "猿人此前大概从未听过枪声，因为第一声枪响后，它们便停止了投掷。一阵惊惶混乱之后，它们消失在树林里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 481",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 481",
+      "text": [
+        "The ape-men must never have heard gunfire before because they cease their barrage at the first blast. In a muddle of fear and confusion, they disappear into the woods."
+      ]
+    }
+  }
+}

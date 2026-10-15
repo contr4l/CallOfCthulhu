@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "188"
+  ],
+  "text": [
+    "踪迹偶尔会在岩石和碎石坡上消失，也会在绑走西尔维娅的人涉过沼泽和池塘时完全中断。但你的追踪本领足以应付所有障碍。你对追踪的生物感到惊奇：它的脚大得惊人，从脚跟到脚趾足有15英寸。你想起关于北方有巨猿人的传说。",
+    "无论这巨人究竟是什么，它都能不知疲倦地行走。你们曾两次沿途露宿。只有偶尔发现的衣服碎片，或沙地上划出的字样，才能让你不至于失去希望。",
+    "终于，你和诺曼来到一处被雷姆山脉环绕、溪流切出的峡谷。足迹沿着溪流延伸，看起来十分新鲜。你们兴冲冲地追踪，却失望地发现它们在岩壁裂隙前消失，溪水正从裂隙中喷涌而出。",
+    "要安全趟过急流，进入悬崖后的隐秘山谷并不容易；但若想救回西尔维娅，你必须一试。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 188",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 188",
+      "text": [
+        "The trail occasionally fades over rock and scree, or disappears entirely when the abductor wades through sloughs and ponds. Yet your tracking skill is up to every obstacle. The manner of creature that you follow fills you with wonder. Its feet are huge. From heel to toe the track measures 15 inches. You remember legends of a gigantic ape-man haunting the Northland.",
+        "Whatever else the giant may be, it is a tireless marcher. Twice you have to sleep along the trail. Only an occasional rag of clothing or a scratched word in the sand keeps you from losing hope.",
+        "At long last, you and Norman come to a stream-cut canyon enclosed by the Ram Mountains. The tracks parallel the creek and seem very fresh. You follow them eagerly but are disappointed to come to a fissure in a rock wall, through which the stream spurts and the tracks vanish.",
+        "It will be hard to wade safely through the fast water to enter the hidden valley beyond the cliffside, but if you hope to rescue Sylvia, you must try."
+      ]
+    }
+  }
+}

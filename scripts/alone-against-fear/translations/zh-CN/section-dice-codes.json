@@ -1,0 +1,17 @@
+{
+  "id": "section-dice-codes",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "789dc0d655d0b0f3f99d71b6ed036bb77a8270a2d5980a4d966e9f90c5d7e89f",
+  "paragraphs": [
+    {
+      "id": "section-dice-codes:p0",
+      "text": "骰子记法"
+    },
+    {
+      "id": "section-dice-codes:p1",
+      "text": "本游戏使用普通六面骰。以下是骰子记法和计算方式：\nD3：掷一颗六面骰并减半；掷出1–2算1，3–4算2，5–6算3，因此结果为1至3。\nD6：掷一颗六面骰。\nD6+1：掷一颗六面骰，结果加1。\n2D6：掷两颗六面骰并相加，结果为2至12。\n2D6+1：掷两颗六面骰并相加，再加1，结果为3至13。\nD6×D6：掷两颗六面骰并相乘，结果为1至36。\nD6−1：掷一颗六面骰并减1，结果为0至5。\nD66：掷两颗不同颜色的骰子，第一颗读作“十位”，第二颗读作“个位”，结果为11至66。"
+    }
+  ],
+  "notes": []
+}

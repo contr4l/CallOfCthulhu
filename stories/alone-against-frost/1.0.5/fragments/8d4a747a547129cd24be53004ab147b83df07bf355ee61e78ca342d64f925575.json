@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "216"
+  ],
+  "text": [
+    "你在雷姆山脉失落山谷中的重大发现，只能等到装备更完善、受过训练的人员到来后，才能进行适当调查。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 216",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 216",
+      "text": [
+        "Your monumental discoveries within the lost valley of the Ram Mountains will have to wait until you have better equipment and trained personnel to investigate it properly."
+      ]
+    }
+  }
+}

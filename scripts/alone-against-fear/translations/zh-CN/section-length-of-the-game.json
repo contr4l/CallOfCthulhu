@@ -1,0 +1,53 @@
+{
+  "id": "section-length-of-the-game",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "223f8da9f16d6c31fed3fbedf614f5aae070fcfb4ca26f655c4e78d1c3f31f35",
+  "paragraphs": [
+    {
+      "id": "section-length-of-the-game:p0",
+      "text": "游戏时长"
+    },
+    {
+      "id": "section-length-of-the-game:p1",
+      "text": "你无法在一次游戏时段内完成本游戏。本游戏设计为一场战役——由一系列相连的任务构成。你的角色会在这些游戏过程中成长和变化。\n游玩《Four Against Darkness》\n如果你玩过我们的奇幻游戏《Four Against Darkness》，会认出本游戏中的一些机制。但要留意，两者有重要差异："
+    },
+    {
+      "id": "section-length-of-the-game:p2",
+      "text": "1）没有等级或职业。角色通过分配点数创建，装备则随机生成；"
+    },
+    {
+      "id": "section-length-of-the-game:p3",
+      "text": "2）治疗更困难；"
+    },
+    {
+      "id": "section-length-of-the-game:p4",
+      "text": "3）你只有一名角色，并且必须记录所有武器的弹药；"
+    },
+    {
+      "id": "section-length-of-the-game:p5",
+      "text": "4）进行防御检定时，结果必须等于或高于对手的L（不像《Four Against Darkness》要求掷出高于L）；"
+    },
+    {
+      "id": "section-length-of-the-game:p6",
+      "text": "5）法术不是预先记忆的，而是以仪式施放；每种法术都有自己的规则和要求；"
+    },
+    {
+      "id": "section-length-of-the-game:p7",
+      "text": "6）远程战斗和近战战斗没有区别；"
+    },
+    {
+      "id": "section-length-of-the-game:p8",
+      "text": "7）只使用D6；"
+    },
+    {
+      "id": "section-length-of-the-game:p9",
+      "text": "8）不是绘制“地城”地图，而是用“区域格”绘制城镇地图。每个区域格代表一个地区、地标或事件。战役过程中，你会持续探索城镇，并在原有地图旁增添新纸张。"
+    },
+    {
+      "id": "section-length-of-the-game:p10",
+      "text": "9）没有经验检定。经验值是积累后用于学习技能的点数。"
+    }
+  ],
+  "notes": []
+}

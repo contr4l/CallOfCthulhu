@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "182",
+    "frost-auto-182"
+  ],
+  "text": [
+    "你的医术一度让陌生人恢复了些精神。他告诉你自己叫雅各布·麦卡锡，并讲述了部分经历。他曾在山谷里探矿，却遭到“小矮子印第安人”袭击。他逃了出来，却迷了路，开始挨饿。他仍带着发现黄金地点的地图。",
+    "他知道自己时日无多，便出于感激把地图交给你。埋葬他之后，你更加急于回家。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 182",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 182",
+      "text": [
+        "Your medical knowledge helps the stranger to rally for a time. He tells you his name—Jacob McCarthy—and some of his story. He was prospecting in the valley, but was set upon by “midget Indians.” He fled, but got lost and began to starve. He still carries the map of his gold discovery.",
+        "He knows these are his final hours and gives you the map out of gratitude. After you bury him, you are even more anxious to get home."
+      ]
+    }
+  }
+}

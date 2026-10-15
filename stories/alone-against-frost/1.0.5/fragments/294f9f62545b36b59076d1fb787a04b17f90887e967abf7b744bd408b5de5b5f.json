@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "362"
+  ],
+  "text": [
+    "追踪已经警觉的雪怪是个严重错误。它把你引进一片狭窄空地，你被一大群愤怒的巨猿包围。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 362",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 362",
+      "text": [
+        "Pursuing the alerted sasquatch was a serious mistake. It leads you into a tight clearing, where you are surrounded by a horde of large and angry ape-men."
+      ]
+    }
+  }
+}

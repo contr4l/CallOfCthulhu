@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "67"
+  ],
+  "text": [
+    "想到自己要徒步穿越西北地区最荒蛮的一片土地，你沮丧得发狂，粗暴地撞开灌木丛向前冲。西边山脉传来雷鸣，仿佛遥远的鼓声回响。群峰隐入逐渐压低的云层之下。",
+    "你涉过一条小河，又穿过一道松林山脊。沿途景色渐渐模糊成一片。接下来的几天，你试着徒手捕鱼、捕杀能吃的动物，并采摘路边的浆果充饥。你正在经受的考验，足以让经验丰富的拓荒者也望而却步。",
+    "若要扎营思考，前往 496。若要深入森林，前往 501。若要沿树线前行，前往 494。若要探索岩石地带，前往 427。若要沿河前进，进行一次幸运检定：若成功，前往 126；若失败，前往 119。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 67",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 67",
+      "text": [
+        "Despondent over the prospect of a trek through the wildest stretch of the Northwest Territories, you ram your way through the bush with bitter violence. Thunder rumbles in the western mountains like the echo of distant drums. The peaks fade into a lowering canopy of clouds.",
+        "You wade a small river and then cross a pine ridge. The scenery blurs together as you go. In the days that follow, you try to fish with your bare hands, eat whatever you can kill, and take the berries that grow along the way. You are undergoing a test that would daunt a seasoned frontiersman.",
+        "To establish a camp to think, go to 496. To strike deep into the forest, go to 501. To hug the tree line, go to 494. To explore rocky environs, go to 427. To stick to the river, make a Luck roll: if you succeed, go to 126; if you fail, go to 119."
+      ]
+    }
+  }
+}

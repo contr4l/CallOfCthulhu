@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "289"
+  ],
+  "text": [
+    "你沿着沟谷爬上长满橡树的山坡，闻到一股奇异的羊膻气味。抬头一看，两侧的沟沿都被占据了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 289",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 289",
+      "text": [
+        "You follow a gully up into oak-covered slopes. You notice an odd hircine odor. When you look up, you see that both rims are occupied."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "614"
+  ],
+  "text": [
+    "你为伯纳德之死悲痛不已。但现在必须决定是继续探索山谷，还是带两名幸存学生离开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 614",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 614",
+      "text": [
+        "You grieve over Bernard’s death. But for now, you must decide whether to continue exploring the valley or to take your two surviving students out."
+      ]
+    }
+  }
+}

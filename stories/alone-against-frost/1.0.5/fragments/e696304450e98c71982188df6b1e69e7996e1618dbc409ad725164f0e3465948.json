@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "267",
+    "frost-auto-267"
+  ],
+  "text": [
+    "这场遭遇注定以死亡告终。你身为人的一面渴望自己消亡，但伊塔库亚赋予你的冲动更为强烈，它渴望他人死去。",
+    "你像山猫扑向鹌鹑群一样冲进营地。猎人们惊叫着四散逃跑。只有一人鼓起勇气站了几秒，朝你开了一枪。冲击力把你打倒在地。你感到腹部被子弹贯穿，撕开一道伤口，却毫发无损地再次站起。那名英勇的猎人也加入同伴，逃之夭夭。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 267",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 267",
+      "text": [
+        "This encounter means death. The human core of you longs for your own extinction, but the drive that Ithaqua has bestowed on you is stronger and it yearns for the death of others.",
+        "You rush into the heart of the camp like a bobcat springing into a covey of quail. The hunters howl with terror and flee in all directions. Only one has the courage to stand for a few seconds and fire a round at you. The force of it knocks you off your feet. You can feel a painless gouge, ripped clear through your belly, but, unharmed, you rise again. The heroic hunter joins his fellows in flight."
+      ]
+    }
+  }
+}

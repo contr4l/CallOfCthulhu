@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "58"
+  ],
+  "text": [
+    "你的野外追踪本领并没有自己想象中那么好。你跟丢了伯纳德的踪迹，再也找不到新的线索。也许你只能接受现实：向导和独木舟都没了，还有一名年轻的学生也失踪了。不过，你仍可以设法推进最初的任务。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 58",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 58",
+      "text": [
+        "You are not quite the woodsperson you thought you were. You lose the threads of Bernard’s trail and are unable to pick them up again. You may have to accept the situation: you have lost your guide, your canoe, and one of your young charges. You still have the option of trying to accomplish something toward your original mission."
+      ]
+    }
+  }
+}

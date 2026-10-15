@@ -1,0 +1,8814 @@
+{
+  "format": "coc-frost-reviewed-program@1",
+  "sourceGraphSha256": "35d7ca4342efdf742edcc40e0a3a9fc6164c71ab150a514501f78cfee32c8f71",
+  "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+  "runtimePlayable": false,
+  "compiledRange": [
+    "1",
+    "240"
+  ],
+  "programs": [
+    {
+      "id": "1",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "2",
+            "failure": "3"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "1:p9"
+      ]
+    },
+    {
+      "id": "2",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "4",
+            "5",
+            "4",
+            "5",
+            "4",
+            "5",
+            "4",
+            "5",
+            "4",
+            "5"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "2:p3"
+      ]
+    },
+    {
+      "id": "3",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pilotBoat",
+            "label": "驾驶（船）",
+            "success": "6",
+            "failure": "7"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "3:p2"
+      ]
+    },
+    {
+      "id": "4",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "listen",
+            "label": "聆听",
+            "success": "9",
+            "failure": "8"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "4:p2"
+      ]
+    },
+    {
+      "id": "5",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-10",
+              "label": "加快行程，深入北汉尼纳",
+              "target": "10"
+            },
+            {
+              "id": "to-11",
+              "label": "放慢脚步，沿途探索",
+              "target": "11"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "5:p2"
+      ]
+    },
+    {
+      "id": "6",
+      "program": [
+        {
+          "kind": "route",
+          "target": "2"
+        }
+      ],
+      "sourceParagraphs": [
+        "6:p2"
+      ]
+    },
+    {
+      "id": "7",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "12",
+            "failure": "412"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "7:p2"
+      ]
+    },
+    {
+      "id": "8",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "persuade",
+            "label": "说服",
+            "success": "14",
+            "failure": "15"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "8:p6"
+      ]
+    },
+    {
+      "id": "9",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "shoot",
+              "label": "向入侵者开枪",
+              "target": "frost-9-firearm"
+            },
+            {
+              "id": "hold-fire",
+              "label": "不开枪",
+              "target": "17"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "9:p3"
+      ]
+    },
+    {
+      "id": "frost-9-firearm",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firearmsRifleShotgun",
+            "label": "枪械（步枪／霰弹枪）",
+            "success": "6",
+            "failure": "17",
+            "difficulty": "hard"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "9:p3"
+      ]
+    },
+    {
+      "id": "10",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-18",
+              "label": "划到岸边调查",
+              "target": "18"
+            },
+            {
+              "id": "to-20",
+              "label": "继续前进，直到扎营",
+              "target": "20"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "10:p3"
+      ]
+    },
+    {
+      "id": "11",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-19",
+              "label": "停下探索峡谷",
+              "target": "19"
+            },
+            {
+              "id": "to-20",
+              "label": "继续前行",
+              "target": "20"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "11:p2"
+      ]
+    },
+    {
+      "id": "12",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "swim",
+            "label": "游泳",
+            "success": "13",
+            "failure": "frost-12-fail",
+            "fumble": "frost-12-death"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "12:p2"
+      ]
+    },
+    {
+      "id": "frost-12-fail",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": "-1D6"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "13"
+        }
+      ],
+      "sourceParagraphs": [
+        "12:p2"
+      ]
+    },
+    {
+      "id": "frost-12-death",
+      "program": [
+        {
+          "kind": "end",
+          "label": "溺亡 · 原书第12节"
+        }
+      ],
+      "sourceParagraphs": [
+        "12:p2"
+      ]
+    },
+    {
+      "id": "13",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "first-aid",
+              "label": "受伤时尝试急救",
+              "target": "frost-13-first-aid",
+              "condition": {
+                "field": "hp",
+                "op": "lt",
+                "value": {
+                  "field": "maxHp"
+                }
+              }
+            },
+            {
+              "id": "skip-first-aid",
+              "label": "不做急救，继续",
+              "target": "frost-13-hatchet-roll"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-first-aid",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firstAid",
+            "label": "急救",
+            "success": "frost-13-heal",
+            "failure": "frost-13-hatchet-roll"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-heal",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": "1D3"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-13-hatchet-roll"
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-hatchet-roll",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-13-hatchet-1",
+            "frost-13-hatchet-2",
+            "frost-13-hatchet-3"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-hatchet-1",
+      "program": [
+        {
+          "kind": "route",
+          "target": "frost-13-inconsistent-hatchets",
+          "condition": {
+            "field": "counter.frostStartTotal.hatchet",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配河水冲走短柄斧后的队伍余量",
+          "resource": "item",
+          "total": {
+            "calc": "difference",
+            "values": [
+              {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "counter.frostBaseline.player.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.charlie.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.bernard.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.sylvia.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.norman.hatchet"
+                  }
+                ]
+              },
+              1
+            ]
+          },
+          "recipients": [
+            "$player",
+            "charlie",
+            "bernard",
+            "sylvia",
+            "norman"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "frost-13-rifle-roll"
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-hatchet-2",
+      "program": [
+        {
+          "kind": "route",
+          "target": "frost-13-inconsistent-hatchets",
+          "condition": {
+            "field": "counter.frostStartTotal.hatchet",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配河水冲走短柄斧后的队伍余量",
+          "resource": "item",
+          "total": {
+            "calc": "difference",
+            "values": [
+              {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "counter.frostBaseline.player.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.charlie.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.bernard.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.sylvia.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.norman.hatchet"
+                  }
+                ]
+              },
+              2
+            ]
+          },
+          "recipients": [
+            "$player",
+            "charlie",
+            "bernard",
+            "sylvia",
+            "norman"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "frost-13-rifle-roll"
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-hatchet-3",
+      "program": [
+        {
+          "kind": "route",
+          "target": "frost-13-inconsistent-hatchets",
+          "condition": {
+            "field": "counter.frostStartTotal.hatchet",
+            "op": "lt",
+            "value": 3
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配河水冲走短柄斧后的队伍余量",
+          "resource": "item",
+          "total": {
+            "calc": "difference",
+            "values": [
+              {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "counter.frostBaseline.player.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.charlie.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.bernard.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.sylvia.hatchet"
+                  },
+                  {
+                    "field": "counter.frostBaseline.norman.hatchet"
+                  }
+                ]
+              },
+              3
+            ]
+          },
+          "recipients": [
+            "$player",
+            "charlie",
+            "bernard",
+            "sylvia",
+            "norman"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "frost-13-rifle-roll"
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-inconsistent-hatchets",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：既有短柄斧数量不足以失去本次已掷出的数量；保留该骰结果并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-rifle-roll",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-13-rifles-2",
+            "frost-13-rifles-3",
+            "frost-13-rifles-4"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-rifles-2",
+      "program": [
+        {
+          "kind": "route",
+          "target": "frost-13-inconsistent-rifles",
+          "condition": {
+            "field": "counter.frostStartTotal.rifle",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原文指定剩余的2支步枪",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "charlie",
+            "bernard",
+            "sylvia",
+            "norman"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "25",
+            "failure": "22"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-rifles-3",
+      "program": [
+        {
+          "kind": "route",
+          "target": "frost-13-inconsistent-rifles",
+          "condition": {
+            "field": "counter.frostStartTotal.rifle",
+            "op": "lt",
+            "value": 3
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原文指定剩余的3支步枪",
+          "resource": "item",
+          "total": 3,
+          "recipients": [
+            "$player",
+            "charlie",
+            "bernard",
+            "sylvia",
+            "norman"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "25",
+            "failure": "22"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-rifles-4",
+      "program": [
+        {
+          "kind": "route",
+          "target": "frost-13-inconsistent-rifles",
+          "condition": {
+            "field": "counter.frostStartTotal.rifle",
+            "op": "lt",
+            "value": 4
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原文指定剩余的4支步枪",
+          "resource": "item",
+          "total": 4,
+          "recipients": [
+            "$player",
+            "charlie",
+            "bernard",
+            "sylvia",
+            "norman"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "25",
+            "failure": "22"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "frost-13-inconsistent-rifles",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原文骰出的剩余步枪数超过玩家登记的起始总数；保留骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "13:p3"
+      ]
+    },
+    {
+      "id": "14",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "track",
+            "label": "查理的追踪",
+            "success": "23",
+            "failure": "24",
+            "target": {
+              "field": "party.charlie.skill.track"
+            }
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "14:p3"
+      ]
+    },
+    {
+      "id": "15",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "psychology",
+            "label": "心理学",
+            "success": "27",
+            "failure": "29"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "15:p3"
+      ]
+    },
+    {
+      "id": "16",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-30",
+              "label": "与查理争辩",
+              "target": "30"
+            },
+            {
+              "id": "to-165",
+              "label": "同意查理，埋葬尸体并顺流返回",
+              "target": "165"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "16:p6"
+      ]
+    },
+    {
+      "id": "17",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "persuade",
+            "label": "说服",
+            "success": "35",
+            "failure": "26"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "17:p4"
+      ]
+    },
+    {
+      "id": "18",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-20",
+              "label": "听从查理的劝告",
+              "target": "20"
+            },
+            {
+              "id": "enter",
+              "label": "进入山谷，掷1D10判定",
+              "target": "frost-18-d10"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "18:p3"
+      ]
+    },
+    {
+      "id": "frost-18-d10",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "36",
+            "499",
+            "36",
+            "499",
+            "36",
+            "499",
+            "36",
+            "499",
+            "36",
+            "499"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "18:p3"
+      ]
+    },
+    {
+      "id": "19",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-64",
+              "label": "继续探索峡谷上游",
+              "target": "64"
+            },
+            {
+              "id": "to-20",
+              "label": "返回独木舟并继续上行",
+              "target": "20"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "19:p3"
+      ]
+    },
+    {
+      "id": "frost-20-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "21"
+        }
+      ],
+      "sourceParagraphs": [
+        "20:p3"
+      ]
+    },
+    {
+      "id": "20",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-20-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "21"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "20:p3"
+      ]
+    },
+    {
+      "id": "21",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-40",
+              "label": "自己值第一班岗",
+              "target": "40"
+            },
+            {
+              "id": "to-46",
+              "label": "让伯纳德值第一班岗",
+              "target": "46"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "21:p6"
+      ]
+    },
+    {
+      "id": "22",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-31",
+              "label": "继续探险",
+              "target": "31"
+            },
+            {
+              "id": "to-51",
+              "label": "造木筏顺流返回",
+              "target": "51"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "22:p4"
+      ]
+    },
+    {
+      "id": "23",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-137",
+              "label": "坚持追查杀害伯纳德的凶手",
+              "target": "137"
+            },
+            {
+              "id": "to-32",
+              "label": "撤离山谷",
+              "target": "32"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "23:p6"
+      ]
+    },
+    {
+      "id": "24",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-32",
+              "label": "认输离开山谷",
+              "target": "32"
+            },
+            {
+              "id": "to-52",
+              "label": "继续搜寻",
+              "target": "52"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "24:p2"
+      ]
+    },
+    {
+      "id": "25",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "restore-weapons",
+              "label": "恢复此前遗失的全部武器，然后继续",
+              "target": "frost-25-weapons"
+            },
+            {
+              "id": "turn-back",
+              "label": "不恢复，返回",
+              "target": "513"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "25:p2"
+      ]
+    },
+    {
+      "id": "frost-25-weapons",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "item-count",
+              "key": "hatchet",
+              "label": "短柄斧",
+              "action": "set",
+              "member": "$player",
+              "value": {
+                "field": "counter.frostBaseline.player.hatchet"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "knife",
+              "label": "猎刀",
+              "action": "set",
+              "member": "$player",
+              "value": {
+                "field": "counter.frostBaseline.player.knife"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "rifle",
+              "label": "步枪",
+              "action": "set",
+              "member": "$player",
+              "value": {
+                "field": "counter.frostBaseline.player.rifle"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "hatchet",
+              "label": "短柄斧",
+              "action": "set",
+              "member": "charlie",
+              "value": {
+                "field": "counter.frostBaseline.charlie.hatchet"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "knife",
+              "label": "猎刀",
+              "action": "set",
+              "member": "charlie",
+              "value": {
+                "field": "counter.frostBaseline.charlie.knife"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "rifle",
+              "label": "步枪",
+              "action": "set",
+              "member": "charlie",
+              "value": {
+                "field": "counter.frostBaseline.charlie.rifle"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "hatchet",
+              "label": "短柄斧",
+              "action": "set",
+              "member": "bernard",
+              "value": {
+                "field": "counter.frostBaseline.bernard.hatchet"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "knife",
+              "label": "猎刀",
+              "action": "set",
+              "member": "bernard",
+              "value": {
+                "field": "counter.frostBaseline.bernard.knife"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "rifle",
+              "label": "步枪",
+              "action": "set",
+              "member": "bernard",
+              "value": {
+                "field": "counter.frostBaseline.bernard.rifle"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "hatchet",
+              "label": "短柄斧",
+              "action": "set",
+              "member": "sylvia",
+              "value": {
+                "field": "counter.frostBaseline.sylvia.hatchet"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "knife",
+              "label": "猎刀",
+              "action": "set",
+              "member": "sylvia",
+              "value": {
+                "field": "counter.frostBaseline.sylvia.knife"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "rifle",
+              "label": "步枪",
+              "action": "set",
+              "member": "sylvia",
+              "value": {
+                "field": "counter.frostBaseline.sylvia.rifle"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "hatchet",
+              "label": "短柄斧",
+              "action": "set",
+              "member": "norman",
+              "value": {
+                "field": "counter.frostBaseline.norman.hatchet"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "knife",
+              "label": "猎刀",
+              "action": "set",
+              "member": "norman",
+              "value": {
+                "field": "counter.frostBaseline.norman.knife"
+              }
+            },
+            {
+              "op": "item-count",
+              "key": "rifle",
+              "label": "步枪",
+              "action": "set",
+              "member": "norman",
+              "value": {
+                "field": "counter.frostBaseline.norman.rifle"
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "2"
+        }
+      ],
+      "sourceParagraphs": [
+        "25:p2"
+      ]
+    },
+    {
+      "id": "26",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "psychology",
+            "label": "心理学",
+            "success": "410",
+            "failure": "409"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "26:p3"
+      ]
+    },
+    {
+      "id": "27",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "psychoanalysis",
+            "label": "精神分析",
+            "success": "28",
+            "failure": "29"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "27:p2"
+      ]
+    },
+    {
+      "id": "28",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "track",
+            "label": "查理的追踪",
+            "success": "23",
+            "failure": "24",
+            "target": {
+              "field": "party.charlie.skill.track"
+            }
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "28:p2"
+      ]
+    },
+    {
+      "id": "29",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-32",
+              "label": "接受失败，返回",
+              "target": "32"
+            },
+            {
+              "id": "to-52",
+              "label": "让查理留在营地，带其他人继续搜索",
+              "target": "52"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "29:p3"
+      ]
+    },
+    {
+      "id": "30",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-604",
+              "label": "没有独木舟和向导，继续探索",
+              "target": "604"
+            },
+            {
+              "id": "to-158",
+              "label": "沿河岸回到西支流与文明世界",
+              "target": "158"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "30:p2"
+      ]
+    },
+    {
+      "id": "frost-31-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "frost-31-exit"
+        }
+      ],
+      "sourceParagraphs": [
+        "31:p2"
+      ]
+    },
+    {
+      "id": "31",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-31-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "frost-31-exit"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "31:p2"
+      ]
+    },
+    {
+      "id": "frost-31-exit",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-50",
+              "label": "探索洞穴深处",
+              "target": "50"
+            },
+            {
+              "id": "to-98",
+              "label": "寻找附近有趣之处",
+              "target": "98"
+            },
+            {
+              "id": "to-434",
+              "label": "收拾行装继续前进",
+              "target": "434"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "31:p2"
+      ]
+    },
+    {
+      "id": "32",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pilotBoat",
+            "label": "驾驶（船）",
+            "success": "411",
+            "failure": "412"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "32:p2"
+      ]
+    },
+    {
+      "id": "33",
+      "program": [
+        {
+          "kind": "end",
+          "label": "探险结束 · 原书第33节"
+        }
+      ],
+      "sourceParagraphs": [
+        "33:p2"
+      ]
+    },
+    {
+      "id": "34",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "psychoanalysis",
+            "label": "精神分析",
+            "success": "62",
+            "failure": "61"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "34:p6"
+      ]
+    },
+    {
+      "id": "35",
+      "program": [
+        {
+          "kind": "route",
+          "target": "10"
+        }
+      ],
+      "sourceParagraphs": [
+        "35:p3"
+      ]
+    },
+    {
+      "id": "36",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "37",
+            "497",
+            "37",
+            "497",
+            "37",
+            "497",
+            "37",
+            "497",
+            "37",
+            "497"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "36:p2"
+      ]
+    },
+    {
+      "id": "37",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-498",
+              "label": "沿血迹追踪",
+              "target": "498"
+            },
+            {
+              "id": "to-20",
+              "label": "返回",
+              "target": "20"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "37:p3"
+      ]
+    },
+    {
+      "id": "38",
+      "program": [
+        {
+          "kind": "route",
+          "target": "63"
+        }
+      ],
+      "sourceParagraphs": [
+        "38:p2"
+      ]
+    },
+    {
+      "id": "39",
+      "program": [
+        {
+          "kind": "route",
+          "target": "67"
+        }
+      ],
+      "sourceParagraphs": [
+        "39:p3"
+      ]
+    },
+    {
+      "id": "40",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-41",
+              "label": "面对这场怪事并寻求报复",
+              "target": "41"
+            },
+            {
+              "id": "to-43",
+              "label": "惊惧逃离山谷",
+              "target": "43"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "40:p6"
+      ]
+    },
+    {
+      "id": "41",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-69",
+              "label": "让查理离开，独自追踪寒冷杀手",
+              "target": "69"
+            },
+            {
+              "id": "to-42",
+              "label": "听从查理的劝告",
+              "target": "42"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "41:p6"
+      ]
+    },
+    {
+      "id": "42",
+      "program": [
+        {
+          "kind": "route",
+          "target": "32"
+        }
+      ],
+      "sourceParagraphs": [
+        "42:p3"
+      ]
+    },
+    {
+      "id": "43",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostBernardContestStrength",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "查理的敏捷",
+            "successEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostBernardContestStrength",
+                "value": {
+                  "field": "party.charlie.attribute.str"
+                }
+              }
+            ],
+            "target": {
+              "field": "party.charlie.attribute.dex"
+            }
+          },
+          "condition": {
+            "field": "party.charlie.present",
+            "op": "eq",
+            "value": 1
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "西尔维娅的敏捷",
+            "successEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostBernardContestStrength",
+                "value": {
+                  "field": "party.sylvia.attribute.str"
+                }
+              }
+            ],
+            "target": {
+              "field": "party.sylvia.attribute.dex"
+            }
+          },
+          "condition": {
+            "field": "party.sylvia.present",
+            "op": "eq",
+            "value": 1
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "纳德尔曼的敏捷",
+            "successEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostBernardContestStrength",
+                "value": {
+                  "field": "attribute.str"
+                }
+              }
+            ],
+            "target": {
+              "field": "attribute.dex"
+            }
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "str",
+            "label": "对抗伯纳德的93点疯狂力量",
+            "success": "44",
+            "failure": "45",
+            "opposed": 93,
+            "target": {
+              "field": "counter.frostBernardContestStrength"
+            }
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "43:p4"
+      ]
+    },
+    {
+      "id": "44",
+      "program": [
+        {
+          "kind": "route",
+          "target": "32"
+        }
+      ],
+      "sourceParagraphs": [
+        "44:p2"
+      ]
+    },
+    {
+      "id": "45",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            },
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "status",
+              "value": "dead"
+            },
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "status",
+              "value": "dead"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-rifle"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-rifle",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-45-rifle-count-0",
+            "frost-45-rifle-count-1",
+            "frost-45-rifle-count-2"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-rifle-count-0",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.rifle",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.rifle.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-rifle-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.rifle",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的1件步枪",
+          "resource": "item",
+          "total": 1,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-knife"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-rifle-count-1",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.rifle",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.rifle.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-rifle-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.rifle",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的2件步枪",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-knife"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-rifle-count-2",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.rifle",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.rifle.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-rifle-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.rifle",
+            "op": "lt",
+            "value": 3
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的3件步枪",
+          "resource": "item",
+          "total": 3,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-knife"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-rifle-source-conflict",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原书骰出的步枪剩余数量超过队伍当前数量；保留本次骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ],
+      "blocked": "If the printed remaining 步枪 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll."
+    },
+    {
+      "id": "frost-45-knife",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-45-knife-count-0",
+            "frost-45-knife-count-1",
+            "frost-45-knife-count-2"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-knife-count-0",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.knife",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.knife.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.knife.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.knife.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-knife-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.knife",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的1件猎刀",
+          "resource": "item",
+          "total": 1,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "knife",
+          "itemLabel": "猎刀"
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-hatchet"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-knife-count-1",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.knife",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.knife.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.knife.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.knife.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-knife-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.knife",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的2件猎刀",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "knife",
+          "itemLabel": "猎刀"
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-hatchet"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-knife-count-2",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.knife",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.knife.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.knife.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.knife.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-knife-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.knife",
+            "op": "lt",
+            "value": 3
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的3件猎刀",
+          "resource": "item",
+          "total": 3,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "knife",
+          "itemLabel": "猎刀"
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-hatchet"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-knife-source-conflict",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原书骰出的猎刀剩余数量超过队伍当前数量；保留本次骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ],
+      "blocked": "If the printed remaining 猎刀 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll."
+    },
+    {
+      "id": "frost-45-hatchet",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-45-hatchet-count-0",
+            "frost-45-hatchet-count-1",
+            "frost-45-hatchet-count-2"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-hatchet-count-0",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.hatchet",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.hatchet.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-hatchet-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.hatchet",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的1件短柄斧",
+          "resource": "item",
+          "total": 1,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "324"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-hatchet-count-1",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.hatchet",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.hatchet.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-hatchet-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.hatchet",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的2件短柄斧",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "324"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-hatchet-count-2",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.hatchet",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.hatchet.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-45-hatchet-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.hatchet",
+            "op": "lt",
+            "value": 3
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的3件短柄斧",
+          "resource": "item",
+          "total": 3,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "324"
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ]
+    },
+    {
+      "id": "frost-45-hatchet-source-conflict",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原书骰出的短柄斧剩余数量超过队伍当前数量；保留本次骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "45:p3"
+      ],
+      "blocked": "If the printed remaining 短柄斧 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll."
+    },
+    {
+      "id": "46",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-47",
+              "label": "追赶伯纳德",
+              "target": "47"
+            },
+            {
+              "id": "to-71",
+              "label": "先叫醒其他人",
+              "target": "71"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "46:p5"
+      ]
+    },
+    {
+      "id": "47",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-72",
+              "label": "抬头看向呼喊处",
+              "target": "72"
+            },
+            {
+              "id": "cover-ears",
+              "label": "捂住耳朵闭眼等待，并进行意志检定",
+              "target": "frost-47-pow"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "47:p5"
+      ]
+    },
+    {
+      "id": "frost-47-pow",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pow",
+            "label": "意志",
+            "success": "49",
+            "failure": "48"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "47:p4"
+      ]
+    },
+    {
+      "id": "48",
+      "program": [
+        {
+          "kind": "route",
+          "target": "67"
+        }
+      ],
+      "sourceParagraphs": [
+        "48:p2"
+      ]
+    },
+    {
+      "id": "49",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "persuade",
+            "label": "说服",
+            "success": "73",
+            "failure": "74"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "49:p3"
+      ]
+    },
+    {
+      "id": "50",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-75",
+              "label": "继续探险",
+              "target": "75"
+            },
+            {
+              "id": "to-324",
+              "label": "返回文明世界",
+              "target": "324"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "50:p6"
+      ]
+    },
+    {
+      "id": "51",
+      "program": [
+        {
+          "kind": "route",
+          "target": "165"
+        }
+      ],
+      "sourceParagraphs": [
+        "51:p3"
+      ]
+    },
+    {
+      "id": "52",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "53"
+        }
+      ],
+      "sourceParagraphs": [
+        "52:p3"
+      ]
+    },
+    {
+      "id": "53",
+      "program": [
+        {
+          "kind": "route",
+          "target": "324"
+        }
+      ],
+      "sourceParagraphs": [
+        "53:p2"
+      ]
+    },
+    {
+      "id": "54",
+      "program": [
+        {
+          "kind": "route",
+          "target": "324"
+        }
+      ],
+      "sourceParagraphs": [
+        "54:p2"
+      ]
+    },
+    {
+      "id": "55",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "413",
+            "failure": "132"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "55:p2"
+      ]
+    },
+    {
+      "id": "frost-56-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "frost-56-listen"
+        }
+      ],
+      "sourceParagraphs": [
+        "56:p2"
+      ]
+    },
+    {
+      "id": "56",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-56-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "frost-56-listen"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "56:p2"
+      ]
+    },
+    {
+      "id": "frost-56-listen",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "listen",
+            "label": "聆听",
+            "success": "84",
+            "failure": "85"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "56:p2"
+      ]
+    },
+    {
+      "id": "57",
+      "program": [
+        {
+          "kind": "route",
+          "target": "54"
+        }
+      ],
+      "sourceParagraphs": [
+        "57:p2"
+      ]
+    },
+    {
+      "id": "58",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-59",
+              "label": "随机搜寻伯纳德",
+              "target": "59"
+            },
+            {
+              "id": "to-75",
+              "label": "继续探险",
+              "target": "75"
+            },
+            {
+              "id": "to-54",
+              "label": "返回文明世界",
+              "target": "54"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "58:p2"
+      ]
+    },
+    {
+      "id": "59",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "队伍中潜行技能最低者的检定",
+            "success": "86",
+            "failure": "85",
+            "target": {
+              "calc": "min",
+              "values": [
+                {
+                  "field": "party.charlie.skill.stealth"
+                },
+                {
+                  "field": "party.bernard.skill.stealth"
+                },
+                {
+                  "field": "party.sylvia.skill.stealth"
+                },
+                {
+                  "field": "party.norman.skill.stealth"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "59:p2"
+      ]
+    },
+    {
+      "id": "frost-60-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "frost-60-firearm"
+        }
+      ],
+      "sourceParagraphs": [
+        "60:p3"
+      ]
+    },
+    {
+      "id": "60",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-60-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "frost-60-firearm"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "60:p3"
+      ]
+    },
+    {
+      "id": "frost-60-firearm",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firearmsRifleShotgun",
+            "label": "枪械（步枪／霰弹枪）",
+            "success": "88",
+            "failure": "94"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "60:p3"
+      ]
+    },
+    {
+      "id": "61",
+      "program": [
+        {
+          "kind": "route",
+          "target": "95"
+        }
+      ],
+      "sourceParagraphs": [
+        "61:p4"
+      ]
+    },
+    {
+      "id": "62",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-107",
+              "label": "追查查理",
+              "target": "107"
+            },
+            {
+              "id": "to-109",
+              "label": "先叫醒学生",
+              "target": "109"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "62:p7"
+      ]
+    },
+    {
+      "id": "63",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "naturalWorld",
+            "label": "自然界",
+            "success": "112",
+            "failure": "213"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "63:p3"
+      ]
+    },
+    {
+      "id": "64",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "listen",
+            "label": "聆听",
+            "success": "65",
+            "failure": "104"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "64:p2"
+      ]
+    },
+    {
+      "id": "65",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "114",
+            "failure": "70",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "65:p2"
+      ]
+    },
+    {
+      "id": "66",
+      "program": [
+        {
+          "kind": "route",
+          "target": "116"
+        }
+      ],
+      "sourceParagraphs": [
+        "66:p4"
+      ]
+    },
+    {
+      "id": "67",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-self",
+              "label": "让自己恢复1点生命值",
+              "condition": {
+                "field": "hp",
+                "op": "lt",
+                "value": {
+                  "field": "maxHp"
+                }
+              },
+              "effects": [
+                {
+                  "op": "add",
+                  "field": "hp",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，进行生存（林地）检定",
+              "target": "frost-67-survival"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "67:p3"
+      ]
+    },
+    {
+      "id": "frost-67-survival",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "survivalWoodland",
+            "label": "生存（林地）",
+            "success": "513",
+            "failure": "frost-67-fail"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "67:p3"
+      ]
+    },
+    {
+      "id": "frost-67-fail",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-496",
+              "label": "扎营思考",
+              "target": "496"
+            },
+            {
+              "id": "to-501",
+              "label": "深入森林",
+              "target": "501"
+            },
+            {
+              "id": "to-494",
+              "label": "沿着林缘前进",
+              "target": "494"
+            },
+            {
+              "id": "to-427",
+              "label": "探索岩石地带",
+              "target": "427"
+            },
+            {
+              "id": "river",
+              "label": "沿河前进，进行幸运检定",
+              "target": "frost-67-luck"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "67:p3",
+        "67:p4"
+      ]
+    },
+    {
+      "id": "frost-67-luck",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "126",
+            "failure": "119"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "67:p4"
+      ]
+    },
+    {
+      "id": "68",
+      "program": [
+        {
+          "kind": "end",
+          "label": "中毒身亡 · 原书第68节"
+        }
+      ],
+      "sourceParagraphs": [
+        "68:p3"
+      ]
+    },
+    {
+      "id": "69",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-121",
+              "label": "爬上山丘查看另一侧",
+              "target": "121"
+            },
+            {
+              "id": "to-122",
+              "label": "失去勇气，沿原路撤退",
+              "target": "122"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "69:p5"
+      ]
+    },
+    {
+      "id": "70",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "skill.cthulhuMythos",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "143"
+        }
+      ],
+      "sourceParagraphs": [
+        "70:p3"
+      ]
+    },
+    {
+      "id": "71",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-521",
+              "label": "坚持追伯纳德",
+              "target": "521"
+            },
+            {
+              "id": "to-32",
+              "label": "听从查理的建议",
+              "target": "32"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "71:p3"
+      ]
+    },
+    {
+      "id": "72",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "39",
+            "failure": "frost-72-fail",
+            "successEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D10"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "72:p2"
+      ]
+    },
+    {
+      "id": "frost-72-fail",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "sanity",
+              "value": "-1D100"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "264"
+        }
+      ],
+      "sourceParagraphs": [
+        "72:p2"
+      ]
+    },
+    {
+      "id": "73",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "skill.cthulhuMythos",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-32",
+              "label": "接受伯纳德已经失踪",
+              "target": "32"
+            },
+            {
+              "id": "to-521",
+              "label": "要求查理協助搜寻",
+              "target": "521"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "73:p4"
+      ]
+    },
+    {
+      "id": "74",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-32",
+              "label": "离开伯纳德和谜团",
+              "target": "32"
+            },
+            {
+              "id": "to-521",
+              "label": "要求查理协助搜寻",
+              "target": "521"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "74:p2"
+      ]
+    },
+    {
+      "id": "frost-75-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "frost-75-exit"
+        }
+      ],
+      "sourceParagraphs": [
+        "75:p3"
+      ]
+    },
+    {
+      "id": "75",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-75-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "frost-75-exit"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "75:p3"
+      ]
+    },
+    {
+      "id": "frost-75-exit",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-124",
+              "label": "扎营休息，之后原路返回",
+              "target": "124"
+            },
+            {
+              "id": "to-125",
+              "label": "尝试涉水进入隐秘山谷",
+              "target": "125"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "75:p3"
+      ]
+    },
+    {
+      "id": "76",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "navigate",
+            "label": "导航",
+            "success": "513",
+            "failure": "324"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "76:p2"
+      ]
+    },
+    {
+      "id": "77",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-78",
+              "label": "向闯入者开枪",
+              "target": "78"
+            },
+            {
+              "id": "to-175",
+              "label": "放下枪，把他带到火边帮助他",
+              "target": "175"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "77:p5"
+      ]
+    },
+    {
+      "id": "78",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "81",
+            "failure": "79"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "78:p2"
+      ]
+    },
+    {
+      "id": "79",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "97",
+            "failure": "97",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "79:p3"
+      ]
+    },
+    {
+      "id": "80",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 6,
+          "targets": [
+            "219",
+            "219",
+            "219",
+            "219",
+            "180",
+            "180"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "80:p2"
+      ]
+    },
+    {
+      "id": "81",
+      "program": [
+        {
+          "kind": "route",
+          "target": "127"
+        }
+      ],
+      "sourceParagraphs": [
+        "81:p1"
+      ]
+    },
+    {
+      "id": "82",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-128",
+              "label": "沿踪迹追去",
+              "target": "128"
+            },
+            {
+              "id": "to-279",
+              "label": "放弃西尔维娅，设法救诺曼",
+              "target": "279"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "82:p1"
+      ]
+    },
+    {
+      "id": "83",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "anthropology",
+            "label": "人类学",
+            "success": "418",
+            "failure": "214"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "83:p1"
+      ]
+    },
+    {
+      "id": "84",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-129",
+              "label": "藏起来，等一切平静",
+              "target": "129"
+            },
+            {
+              "id": "to-130",
+              "label": "站起来与小人接触",
+              "target": "130"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "84:p2"
+      ]
+    },
+    {
+      "id": "85",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-113",
+              "label": "放弃伯纳德，带诺曼和西尔维娅逃走",
+              "target": "113"
+            },
+            {
+              "id": "to-135",
+              "label": "向小人开枪",
+              "target": "135"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "85:p1"
+      ]
+    },
+    {
+      "id": "86",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-133",
+              "label": "跟随抬着俘虏的人",
+              "target": "133"
+            },
+            {
+              "id": "to-134",
+              "label": "大喊吓退他们",
+              "target": "134"
+            },
+            {
+              "id": "to-135",
+              "label": "向抬俘虏者开枪",
+              "target": "135"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "86:p1"
+      ]
+    },
+    {
+      "id": "87",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "track",
+            "label": "追踪",
+            "success": "136",
+            "failure": "58"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "87:p1"
+      ]
+    },
+    {
+      "id": "88",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-232",
+              "label": "返回文明世界",
+              "target": "232"
+            },
+            {
+              "id": "to-604",
+              "label": "继续深入",
+              "target": "604"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "88:p1"
+      ]
+    },
+    {
+      "id": "frost-89-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "frost-89-luck"
+        }
+      ],
+      "sourceParagraphs": [
+        "89:p2"
+      ]
+    },
+    {
+      "id": "89",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-89-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "frost-89-luck"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "89:p1"
+      ]
+    },
+    {
+      "id": "frost-89-luck",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "90",
+            "failure": "85"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "89:p1"
+      ]
+    },
+    {
+      "id": "90",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-91",
+              "label": "尝试穿过岩缝",
+              "target": "91"
+            },
+            {
+              "id": "to-158",
+              "label": "返回麦克唐纳堡方向",
+              "target": "158"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "90:p1"
+      ]
+    },
+    {
+      "id": "91",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "伯纳德的敏捷",
+            "success": "642",
+            "failure": "643",
+            "target": {
+              "field": "party.bernard.attribute.dex"
+            }
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "91:p1"
+      ]
+    },
+    {
+      "id": "92",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-605",
+              "label": "继续探索岩缝",
+              "target": "605"
+            },
+            {
+              "id": "to-158",
+              "label": "启程回家",
+              "target": "158"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "92:p2"
+      ]
+    },
+    {
+      "id": "93",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-frost-93-str",
+              "label": "跳入水中救人",
+              "target": "frost-93-str"
+            },
+            {
+              "id": "to-534",
+              "label": "留在岩架上",
+              "target": "534"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "93:p1"
+      ]
+    },
+    {
+      "id": "frost-93-str",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "str",
+            "label": "力量",
+            "success": "frost-93-swim",
+            "failure": "536"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "93:p1"
+      ]
+    },
+    {
+      "id": "frost-93-swim",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "swim",
+            "label": "游泳",
+            "success": "533",
+            "failure": "536"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "93:p1"
+      ]
+    },
+    {
+      "id": "94",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-75",
+              "label": "继续探险",
+              "target": "75"
+            },
+            {
+              "id": "to-54",
+              "label": "因悲剧而返回",
+              "target": "54"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "94:p2"
+      ]
+    },
+    {
+      "id": "95",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-138",
+              "label": "一见身影就开枪",
+              "target": "138"
+            },
+            {
+              "id": "to-101",
+              "label": "等它靠近",
+              "target": "101"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "95:p1"
+      ]
+    },
+    {
+      "id": "96",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "97",
+            "failure": "97",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "96:p1"
+      ]
+    },
+    {
+      "id": "97",
+      "program": [
+        {
+          "kind": "route",
+          "target": "105"
+        }
+      ],
+      "sourceParagraphs": [
+        "97:p1"
+      ]
+    },
+    {
+      "id": "98",
+      "program": [
+        {
+          "kind": "route",
+          "target": "64"
+        }
+      ],
+      "sourceParagraphs": [
+        "98:p1"
+      ]
+    },
+    {
+      "id": "99",
+      "program": [
+        {
+          "kind": "route",
+          "target": "101"
+        }
+      ],
+      "sourceParagraphs": [
+        "99:p1"
+      ]
+    },
+    {
+      "id": "100",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "96",
+            "99",
+            "96",
+            "99",
+            "96",
+            "99",
+            "96",
+            "99",
+            "96",
+            "99"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "100:p1"
+      ]
+    },
+    {
+      "id": "101",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "anthropology",
+            "label": "人类学",
+            "success": "102",
+            "failure": "139"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "101:p1"
+      ]
+    },
+    {
+      "id": "102",
+      "program": [
+        {
+          "kind": "route",
+          "target": "177"
+        }
+      ],
+      "sourceParagraphs": [
+        "102:p1"
+      ]
+    },
+    {
+      "id": "103",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "105",
+            "failure": "105",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "103:p1"
+      ]
+    },
+    {
+      "id": "104",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "468",
+            "failure": "468",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "104:p1"
+      ]
+    },
+    {
+      "id": "105",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智（结果决定退场性质）",
+            "success": "frost-105-temporary",
+            "failure": "frost-105-permanent"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "105:p1"
+      ]
+    },
+    {
+      "id": "frost-105-temporary",
+      "program": [
+        {
+          "kind": "end",
+          "label": "暂时疯狂后的驱逐与失势 · 原书第105节"
+        }
+      ],
+      "sourceParagraphs": [
+        "105:p1"
+      ]
+    },
+    {
+      "id": "frost-105-permanent",
+      "program": [
+        {
+          "kind": "end",
+          "label": "被视为精神病罪犯而退场 · 原书第105节"
+        }
+      ],
+      "sourceParagraphs": [
+        "105:p1"
+      ]
+    },
+    {
+      "id": "106",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "敏捷对抗（风行者敏捷15）",
+            "success": "140",
+            "failure": "141",
+            "target": {
+              "field": "attribute.dex"
+            },
+            "opposed": 15
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "106:p1"
+      ]
+    },
+    {
+      "id": "107",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-72",
+              "label": "抬头仰望天空",
+              "target": "72"
+            },
+            {
+              "id": "to-109",
+              "label": "遮住脸和耳朵，等怪声消失",
+              "target": "109"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "107:p1"
+      ]
+    },
+    {
+      "id": "108",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BACKWATER",
+              "label": "回水湾"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "361"
+        }
+      ],
+      "sourceParagraphs": [
+        "108:p1"
+      ]
+    },
+    {
+      "id": "109",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "navigate",
+            "label": "导航",
+            "success": "142",
+            "failure": "48"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "109:p1"
+      ]
+    },
+    {
+      "id": "110",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-125",
+              "label": "继续进入裂隙",
+              "target": "125"
+            },
+            {
+              "id": "to-54",
+              "label": "转向回家",
+              "target": "54"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "110:p1"
+      ]
+    },
+    {
+      "id": "111",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "513",
+            "failure": "67"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "111:p1"
+      ]
+    },
+    {
+      "id": "112",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BACKWATER",
+              "label": "回水湾"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "361"
+        }
+      ],
+      "sourceParagraphs": [
+        "112:p1"
+      ]
+    },
+    {
+      "id": "113",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "敏捷",
+            "success": "147",
+            "failure": "146"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "113:p1"
+      ]
+    },
+    {
+      "id": "114",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "skill.cthulhuMythos",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-252",
+              "label": "站出来向外星生物问候",
+              "target": "252"
+            },
+            {
+              "id": "to-frost-114-stealth",
+              "label": "避免接触，尝试潜行",
+              "target": "frost-114-stealth"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "114:p2"
+      ]
+    },
+    {
+      "id": "frost-114-stealth",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "潜行",
+            "success": "159",
+            "failure": "115"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "114:p2"
+      ]
+    },
+    {
+      "id": "115",
+      "program": [
+        {
+          "kind": "route",
+          "target": "143"
+        }
+      ],
+      "sourceParagraphs": [
+        "115:p1"
+      ]
+    },
+    {
+      "id": "116",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "潜行",
+            "success": "111",
+            "failure": "117"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "116:p1"
+      ]
+    },
+    {
+      "id": "117",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "263",
+            "265",
+            "263",
+            "265",
+            "263",
+            "265",
+            "263",
+            "265",
+            "263",
+            "265"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "117:p1"
+      ]
+    },
+    {
+      "id": "118",
+      "program": [
+        {
+          "kind": "route",
+          "target": "116"
+        }
+      ],
+      "sourceParagraphs": [
+        "118:p1"
+      ]
+    },
+    {
+      "id": "119",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pow",
+            "label": "意志对抗（攻击的意志80）",
+            "success": "120",
+            "failure": "162",
+            "target": {
+              "field": "attribute.pow"
+            },
+            "opposed": 80
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "119:p1"
+      ]
+    },
+    {
+      "id": "120",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pow",
+            "label": "困难意志",
+            "success": "161",
+            "failure": "68",
+            "difficulty": "hard"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "120:p1"
+      ]
+    },
+    {
+      "id": "121",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "166",
+            "failure": "166",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "121:p1"
+      ]
+    },
+    {
+      "id": "122",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "171",
+            "failure": "172"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "122:p1"
+      ]
+    },
+    {
+      "id": "123",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "95"
+        }
+      ],
+      "sourceParagraphs": [
+        "123:p1"
+      ]
+    },
+    {
+      "id": "124",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "54",
+            "failure": "82"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "124:p1"
+      ]
+    },
+    {
+      "id": "125",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "174",
+            "failure": "93"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "125:p1"
+      ]
+    },
+    {
+      "id": "126",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-242",
+              "label": "乘独木舟冒险穿过险流",
+              "target": "242"
+            },
+            {
+              "id": "to-119",
+              "label": "把独木舟留在这里",
+              "target": "119"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "126:p1"
+      ]
+    },
+    {
+      "id": "127",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-184",
+              "label": "尝试与生物搏斗",
+              "target": "184"
+            },
+            {
+              "id": "to-187",
+              "label": "尝试逃跑",
+              "target": "187"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "127:p1"
+      ]
+    },
+    {
+      "id": "128",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "track",
+            "label": "追踪",
+            "success": "188",
+            "failure": "190"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "128:p1"
+      ]
+    },
+    {
+      "id": "129",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostStealthFailures",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "纳德尔曼潜行",
+            "successEffects": [],
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostStealthFailures",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "charlie潜行",
+            "target": {
+              "field": "party.charlie.skill.stealth"
+            },
+            "successEffects": [],
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostStealthFailures",
+                "value": 1
+              }
+            ]
+          },
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.awake",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "bernard潜行",
+            "target": {
+              "field": "party.bernard.skill.stealth"
+            },
+            "successEffects": [],
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostStealthFailures",
+                "value": 1
+              }
+            ]
+          },
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.awake",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "sylvia潜行",
+            "target": {
+              "field": "party.sylvia.skill.stealth"
+            },
+            "successEffects": [],
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostStealthFailures",
+                "value": 1
+              }
+            ]
+          },
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.awake",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "norman潜行",
+            "target": {
+              "field": "party.norman.skill.stealth"
+            },
+            "successEffects": [],
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "counter.frostStealthFailures",
+                "value": 1
+              }
+            ]
+          },
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.awake",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "416",
+          "condition": {
+            "field": "counter.frostStealthFailures",
+            "op": "gt",
+            "value": 0
+          }
+        },
+        {
+          "kind": "route",
+          "target": "195"
+        }
+      ],
+      "sourceParagraphs": [
+        "129:p1"
+      ]
+    },
+    {
+      "id": "130",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-196",
+              "label": "跟随受惊的原始人",
+              "target": "196"
+            },
+            {
+              "id": "to-131",
+              "label": "趁他去叫同伴前撤离",
+              "target": "131"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "130:p1"
+      ]
+    },
+    {
+      "id": "131",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "195",
+            "failure": "648"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "131:p1"
+      ]
+    },
+    {
+      "id": "132",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "survivalWoodland",
+            "label": "生存（林地）",
+            "success": "54",
+            "failure": "197"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "132:p1"
+      ]
+    },
+    {
+      "id": "133",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-199",
+              "label": "保持安静，继续观察",
+              "target": "199"
+            },
+            {
+              "id": "to-135",
+              "label": "采取行动并开枪",
+              "target": "135"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "133:p1"
+      ]
+    },
+    {
+      "id": "134",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pow",
+            "label": "困难意志",
+            "success": "200",
+            "failure": "201",
+            "difficulty": "hard"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "134:p1"
+      ]
+    },
+    {
+      "id": "135",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：须依据队员当前在场状态与武器数量逐人进行枪械及敏捷检定，再按两次命中条件路由",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "135:p1"
+      ],
+      "blocked": "Group shooting requires current rifle inventory, per-member firearm skills, per-member DEX bonus-shot checks, and automatic hit-count threshold; do not expose target selection as a generic choice."
+    },
+    {
+      "id": "136",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "203",
+            "failure": "203",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "136:p1"
+      ]
+    },
+    {
+      "id": "137",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-87",
+              "label": "追踪伯纳德的凶手",
+              "target": "87"
+            },
+            {
+              "id": "to-324",
+              "label": "放弃并徒步带剩余学生离开",
+              "target": "324"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "137:p2"
+      ]
+    },
+    {
+      "id": "138",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firearmsRifleShotgun",
+            "label": "枪械（步枪／霰弹枪）",
+            "success": "100",
+            "failure": "101"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "138:p1"
+      ]
+    },
+    {
+      "id": "139",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-204",
+              "label": "靠近伯纳德并检查绷带",
+              "target": "204"
+            },
+            {
+              "id": "to-179",
+              "label": "让他安静休息，结束守夜",
+              "target": "179"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "139:p1"
+      ]
+    },
+    {
+      "id": "140",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "sanity",
+              "value": "1D6"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "54"
+        }
+      ],
+      "sourceParagraphs": [
+        "140:p1"
+      ]
+    },
+    {
+      "id": "141",
+      "program": [
+        {
+          "kind": "route",
+          "target": "127"
+        }
+      ],
+      "sourceParagraphs": [
+        "141:p1"
+      ]
+    },
+    {
+      "id": "142",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-144",
+              "label": "再留一天寻找查理的踪迹",
+              "target": "144"
+            },
+            {
+              "id": "to-324",
+              "label": "放弃向导，继续旅程",
+              "target": "324"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "142:p1"
+      ]
+    },
+    {
+      "id": "143",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCharlieDodgeFailed",
+              "value": 1
+            },
+            {
+              "op": "set",
+              "field": "counter.frostBernardDodgeFailed",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dodge",
+            "label": "纳德尔曼闪避",
+            "success": "frost-143-companions",
+            "failure": "332"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "143:p1"
+      ]
+    },
+    {
+      "id": "frost-143-companions",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dodge",
+            "label": "查理闪避",
+            "target": {
+              "field": "party.charlie.skill.dodge"
+            },
+            "successEffects": [
+              {
+                "op": "set",
+                "field": "counter.frostCharlieDodgeFailed",
+                "value": 0
+              }
+            ],
+            "failureEffects": [
+              {
+                "op": "set",
+                "field": "counter.frostCharlieDodgeFailed",
+                "value": 1
+              }
+            ]
+          },
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.awake",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dodge",
+            "label": "伯纳德闪避",
+            "target": {
+              "field": "party.bernard.skill.dodge"
+            },
+            "successEffects": [
+              {
+                "op": "set",
+                "field": "counter.frostBernardDodgeFailed",
+                "value": 0
+              }
+            ],
+            "failureEffects": [
+              {
+                "op": "set",
+                "field": "counter.frostBernardDodgeFailed",
+                "value": 1
+              }
+            ]
+          },
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.awake",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "150",
+          "condition": {
+            "all": [
+              {
+                "field": "counter.frostCharlieDodgeFailed",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "counter.frostBernardDodgeFailed",
+                "op": "eq",
+                "value": 1
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "148",
+          "condition": {
+            "field": "counter.frostCharlieDodgeFailed",
+            "op": "eq",
+            "value": 1
+          }
+        },
+        {
+          "kind": "route",
+          "target": "149",
+          "condition": {
+            "field": "counter.frostBernardDodgeFailed",
+            "op": "eq",
+            "value": 1
+          }
+        },
+        {
+          "kind": "route",
+          "target": "143"
+        }
+      ],
+      "sourceParagraphs": [
+        "143:p1"
+      ]
+    },
+    {
+      "id": "144",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-206",
+              "label": "向出现的身影开枪",
+              "target": "206"
+            },
+            {
+              "id": "to-207",
+              "label": "让它靠近",
+              "target": "207"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "144:p1"
+      ]
+    },
+    {
+      "id": "145",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "210",
+            "211",
+            "210",
+            "211",
+            "210",
+            "211",
+            "210",
+            "211",
+            "210",
+            "211"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "145:p1"
+      ]
+    },
+    {
+      "id": "146",
+      "program": [
+        {
+          "kind": "route",
+          "target": "145"
+        }
+      ],
+      "sourceParagraphs": [
+        "146:p1"
+      ]
+    },
+    {
+      "id": "147",
+      "program": [
+        {
+          "kind": "route",
+          "target": "54"
+        }
+      ],
+      "sourceParagraphs": [
+        "147:p1"
+      ]
+    },
+    {
+      "id": "148",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-332",
+              "label": "停下帮助查理",
+              "target": "332"
+            },
+            {
+              "id": "to-157",
+              "label": "和伯纳德继续逃跑",
+              "target": "157"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "148:p1"
+      ]
+    },
+    {
+      "id": "149",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-332",
+              "label": "停下帮助伯纳德",
+              "target": "332"
+            },
+            {
+              "id": "to-153",
+              "label": "和查理继续逃跑",
+              "target": "153"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "149:p1"
+      ]
+    },
+    {
+      "id": "150",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-332",
+              "label": "回头帮助他们",
+              "target": "332"
+            },
+            {
+              "id": "to-151",
+              "label": "独自继续逃跑",
+              "target": "151"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "150:p1"
+      ]
+    },
+    {
+      "id": "151",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-152",
+              "label": "绕回去查看失踪同伴遭遇了什么",
+              "target": "152"
+            },
+            {
+              "id": "to-147",
+              "label": "尽量远离那些生物",
+              "target": "147"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "151:p1"
+      ]
+    },
+    {
+      "id": "152",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "skill.cthulhuMythos",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "173",
+            "failure": "frost-152-fail"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "152:p1"
+      ]
+    },
+    {
+      "id": "frost-152-fail",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "sanity",
+              "value": "-1D6"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "238"
+        }
+      ],
+      "sourceParagraphs": [
+        "152:p1"
+      ]
+    },
+    {
+      "id": "153",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-154",
+              "label": "坚持绕回去帮助伯纳德",
+              "target": "154"
+            },
+            {
+              "id": "to-155",
+              "label": "同意查理",
+              "target": "155"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "153:p1"
+      ]
+    },
+    {
+      "id": "154",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "152"
+        }
+      ],
+      "sourceParagraphs": [
+        "154:p1"
+      ]
+    },
+    {
+      "id": "155",
+      "program": [
+        {
+          "kind": "route",
+          "target": "51",
+          "condition": {
+            "flag": "BAREFOOT",
+            "equals": true
+          }
+        },
+        {
+          "kind": "route",
+          "target": "32",
+          "condition": {
+            "flag": "BAREFOOT",
+            "equals": false
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "155:p1"
+      ]
+    },
+    {
+      "id": "156",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "status",
+              "value": "missing"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-hatchet"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-hatchet",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-156-hatchet-count-0",
+            "frost-156-hatchet-count-1",
+            "frost-156-hatchet-count-2"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-hatchet-count-0",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.hatchet",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.hatchet.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-hatchet-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.hatchet",
+            "op": "lt",
+            "value": 0
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的0件短柄斧",
+          "resource": "item",
+          "total": 0,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-knife"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-hatchet-count-1",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.hatchet",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.hatchet.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-hatchet-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.hatchet",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的1件短柄斧",
+          "resource": "item",
+          "total": 1,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-knife"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-hatchet-count-2",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.hatchet",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.hatchet.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.hatchet.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-hatchet-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.hatchet",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的2件短柄斧",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "hatchet",
+          "itemLabel": "短柄斧"
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-knife"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-hatchet-source-conflict",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原书骰出的短柄斧剩余数量超过队伍当前数量；保留本次骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ],
+      "blocked": "If the printed remaining 短柄斧 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll."
+    },
+    {
+      "id": "frost-156-knife",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-156-knife-count-0",
+            "frost-156-knife-count-1",
+            "frost-156-knife-count-2"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-knife-count-0",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.knife",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.knife.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.knife.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.knife.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-knife-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.knife",
+            "op": "lt",
+            "value": 0
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的0件猎刀",
+          "resource": "item",
+          "total": 0,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "knife",
+          "itemLabel": "猎刀"
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-rifle"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-knife-count-1",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.knife",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.knife.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.knife.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.knife.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-knife-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.knife",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的1件猎刀",
+          "resource": "item",
+          "total": 1,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "knife",
+          "itemLabel": "猎刀"
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-rifle"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-knife-count-2",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.knife",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.knife.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.knife.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.knife.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-knife-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.knife",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的2件猎刀",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "knife",
+          "itemLabel": "猎刀"
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-rifle"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-knife-source-conflict",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原书骰出的猎刀剩余数量超过队伍当前数量；保留本次骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ],
+      "blocked": "If the printed remaining 猎刀 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll."
+    },
+    {
+      "id": "frost-156-rifle",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 3,
+          "targets": [
+            "frost-156-rifle-count-0",
+            "frost-156-rifle-count-1",
+            "frost-156-rifle-count-2"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-rifle-count-0",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.rifle",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.rifle.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-rifle-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.rifle",
+            "op": "lt",
+            "value": 0
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的0件步枪",
+          "resource": "item",
+          "total": 0,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "route",
+          "target": "54"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-rifle-count-1",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.rifle",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.rifle.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-rifle-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.rifle",
+            "op": "lt",
+            "value": 1
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的1件步枪",
+          "resource": "item",
+          "total": 1,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "route",
+          "target": "54"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-rifle-count-2",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "set",
+              "field": "counter.frostCurrentTotal.rifle",
+              "value": {
+                "calc": "sum",
+                "values": [
+                  {
+                    "field": "inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.norman.inventory.rifle.count"
+                  },
+                  {
+                    "field": "party.sylvia.inventory.rifle.count"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "frost-156-rifle-source-conflict",
+          "condition": {
+            "field": "counter.frostCurrentTotal.rifle",
+            "op": "lt",
+            "value": 2
+          }
+        },
+        {
+          "kind": "distribute",
+          "label": "分配原书剩余的2件步枪",
+          "resource": "item",
+          "total": 2,
+          "recipients": [
+            "$player",
+            "norman",
+            "sylvia"
+          ],
+          "key": "rifle",
+          "itemLabel": "步枪"
+        },
+        {
+          "kind": "route",
+          "target": "54"
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ]
+    },
+    {
+      "id": "frost-156-rifle-source-conflict",
+      "program": [
+        {
+          "kind": "end",
+          "label": "来源状态冲突：原书骰出的步枪剩余数量超过队伍当前数量；保留本次骰值并请求审校，不重掷",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "156:p4"
+      ],
+      "blocked": "If the printed remaining 步枪 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll."
+    },
+    {
+      "id": "157",
+      "program": [
+        {
+          "kind": "route",
+          "target": "158",
+          "condition": {
+            "flag": "BAREFOOT",
+            "equals": true
+          }
+        },
+        {
+          "kind": "route",
+          "target": "163",
+          "condition": {
+            "flag": "BAREFOOT",
+            "equals": false
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "157:p1"
+      ]
+    },
+    {
+      "id": "frost-158-healall",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "field": "hp",
+            "op": "lt",
+            "value": {
+              "field": "maxHp"
+            }
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "charlie",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.charlie.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.charlie.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.charlie.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "bernard",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.bernard.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.bernard.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.bernard.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.sylvia.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.sylvia.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.sylvia.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "hp",
+              "value": 1
+            }
+          ],
+          "condition": {
+            "all": [
+              {
+                "field": "party.norman.present",
+                "op": "eq",
+                "value": 1
+              },
+              {
+                "field": "party.norman.hp",
+                "op": "lt",
+                "value": {
+                  "field": "party.norman.maxHp"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "route",
+          "target": "frost-158-exit"
+        }
+      ],
+      "sourceParagraphs": [
+        "158:p2"
+      ]
+    },
+    {
+      "id": "158",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "heal-all",
+              "label": "为所有需要治疗的队员各恢复1点生命值",
+              "target": "frost-158-healall"
+            },
+            {
+              "id": "continue",
+              "label": "不恢复，继续",
+              "target": "frost-158-exit"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "158:p1"
+      ]
+    },
+    {
+      "id": "frost-158-exit",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-60",
+              "label": "沿河前进",
+              "target": "60"
+            },
+            {
+              "id": "to-552",
+              "label": "登高前进",
+              "target": "552"
+            },
+            {
+              "id": "to-56",
+              "label": "以群山为路标",
+              "target": "56"
+            },
+            {
+              "id": "to-233",
+              "label": "沿林缘前进",
+              "target": "233"
+            },
+            {
+              "id": "to-461",
+              "label": "探索深林",
+              "target": "461"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "158:p1"
+      ]
+    },
+    {
+      "id": "159",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-164",
+              "label": "主张留下并继续探索",
+              "target": "164"
+            },
+            {
+              "id": "to-160",
+              "label": "同意结束探险",
+              "target": "160"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "159:p1"
+      ]
+    },
+    {
+      "id": "160",
+      "program": [
+        {
+          "kind": "route",
+          "target": "51",
+          "condition": {
+            "flag": "BAREFOOT",
+            "equals": true
+          }
+        },
+        {
+          "kind": "route",
+          "target": "165",
+          "condition": {
+            "flag": "BAREFOOT",
+            "equals": false
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "160:p1"
+      ]
+    },
+    {
+      "id": "161",
+      "program": [
+        {
+          "kind": "route",
+          "target": "433"
+        }
+      ],
+      "sourceParagraphs": [
+        "161:p4"
+      ]
+    },
+    {
+      "id": "162",
+      "program": [
+        {
+          "kind": "route",
+          "target": "215"
+        }
+      ],
+      "sourceParagraphs": [
+        "162:p3"
+      ]
+    },
+    {
+      "id": "163",
+      "program": [
+        {
+          "kind": "route",
+          "target": "84"
+        }
+      ],
+      "sourceParagraphs": [
+        "163:p3"
+      ]
+    },
+    {
+      "id": "164",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "BAREFOOT",
+              "label": "赤脚"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "56"
+        }
+      ],
+      "sourceParagraphs": [
+        "164:p3"
+      ]
+    },
+    {
+      "id": "165",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：原文要求全队逐人驾驶检定并按成功数≥3判定；需要逐成员检定及固定阈值计数",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "165:p2"
+      ],
+      "blocked": "Party Pilot (Boat) rolls with an at-least-three-success threshold; requires sourced party iteration and automatic counting."
+    },
+    {
+      "id": "166",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "skill.cthulhuMythos",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-167",
+              "label": "向怪物开枪",
+              "target": "167"
+            },
+            {
+              "id": "hide",
+              "label": "伏地潜藏并进行潜行检定",
+              "target": "frost-166-stealth"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "166:p3"
+      ]
+    },
+    {
+      "id": "frost-166-stealth",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "潜行",
+            "success": "171",
+            "failure": "169"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "166:p3"
+      ]
+    },
+    {
+      "id": "167",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firearmsRifleShotgun",
+            "label": "步枪射击（基础射程内）",
+            "success": "168",
+            "failure": "170"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "167:p2"
+      ]
+    },
+    {
+      "id": "168",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "sanity",
+              "value": "1D6"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "171"
+        }
+      ],
+      "sourceParagraphs": [
+        "168:p2"
+      ]
+    },
+    {
+      "id": "169",
+      "program": [
+        {
+          "kind": "end",
+          "label": "探险结束 · 原书第169节"
+        }
+      ],
+      "sourceParagraphs": [
+        "169:p3"
+      ]
+    },
+    {
+      "id": "170",
+      "program": [
+        {
+          "kind": "route",
+          "target": "169"
+        }
+      ],
+      "sourceParagraphs": [
+        "170:p2"
+      ]
+    },
+    {
+      "id": "171",
+      "program": [
+        {
+          "kind": "route",
+          "target": "649"
+        }
+      ],
+      "sourceParagraphs": [
+        "171:p2"
+      ]
+    },
+    {
+      "id": "172",
+      "program": [
+        {
+          "kind": "route",
+          "target": "169"
+        }
+      ],
+      "sourceParagraphs": [
+        "172:p2"
+      ]
+    },
+    {
+      "id": "173",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-253",
+              "label": "继续观看仪式",
+              "target": "253"
+            },
+            {
+              "id": "to-250",
+              "label": "趁还能行动时逃离",
+              "target": "250"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "173:p2"
+      ]
+    },
+    {
+      "id": "174",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "INCHCAPE",
+              "label": "印奇凯普"
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-216",
+              "label": "离开山谷，筹备正式探险",
+              "target": "216"
+            },
+            {
+              "id": "to-225",
+              "label": "现在采集标本",
+              "target": "225"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "174:p3"
+      ]
+    },
+    {
+      "id": "175",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "anthropology",
+            "label": "人类学",
+            "success": "176",
+            "failure": "179"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "175:p2"
+      ]
+    },
+    {
+      "id": "176",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-177",
+              "label": "立即杀死陌生人",
+              "target": "177"
+            },
+            {
+              "id": "to-178",
+              "label": "继续查证",
+              "target": "178"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "176:p4"
+      ]
+    },
+    {
+      "id": "177",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 6,
+          "targets": [
+            "106",
+            "106",
+            "106",
+            "106",
+            "103",
+            "103"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "177:p2"
+      ]
+    },
+    {
+      "id": "178",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sleightOfHand",
+            "label": "妙手",
+            "success": "204",
+            "failure": "80"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "178:p2"
+      ]
+    },
+    {
+      "id": "179",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 6,
+          "targets": [
+            "194",
+            "194",
+            "194",
+            "194",
+            "193",
+            "193"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "179:p2"
+      ]
+    },
+    {
+      "id": "180",
+      "program": [
+        {
+          "kind": "route",
+          "target": "181"
+        }
+      ],
+      "sourceParagraphs": [
+        "180:p2"
+      ]
+    },
+    {
+      "id": "181",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-76",
+              "label": "回家",
+              "target": "76"
+            },
+            {
+              "id": "to-75",
+              "label": "继续探索",
+              "target": "75"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "181:p2"
+      ]
+    },
+    {
+      "id": "182",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "register",
+              "kind": "state",
+              "key": "RESONATE",
+              "label": "共鸣"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "513"
+        }
+      ],
+      "sourceParagraphs": [
+        "182:p3"
+      ]
+    },
+    {
+      "id": "183",
+      "program": [
+        {
+          "kind": "end",
+          "label": "探险结束 · 原书第183节"
+        }
+      ],
+      "sourceParagraphs": [
+        "183:p4"
+      ]
+    },
+    {
+      "id": "184",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firearmsRifleShotgun",
+            "label": "枪械（步枪／霰弹枪）",
+            "success": "185",
+            "failure": "186"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "184:p2"
+      ]
+    },
+    {
+      "id": "185",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "sanity",
+              "value": "1D6"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "224"
+        }
+      ],
+      "sourceParagraphs": [
+        "185:p3"
+      ]
+    },
+    {
+      "id": "186",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：原文包含风行者近战、逐回合伤害、队员理智检定与退场阈值，需完整战斗规则支持",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "186:p4"
+      ],
+      "blocked": "Source requires a multi-round combat with initiative, damage, companion SAN checks, flee threshold and death; no single check may substitute."
+    },
+    {
+      "id": "187",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "336",
+            "failure": "304"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "187:p3"
+      ]
+    },
+    {
+      "id": "188",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-279",
+              "label": "返回",
+              "target": "279"
+            },
+            {
+              "id": "cross",
+              "label": "继续穿越急流并进行敏捷检定",
+              "target": "frost-188-dex"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "188:p5"
+      ]
+    },
+    {
+      "id": "frost-188-dex",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "敏捷",
+            "success": "226",
+            "failure": "189"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "188:p5"
+      ]
+    },
+    {
+      "id": "189",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：原文要求逐回合溺水CON/游泳检定、1D3伤害并判定死亡",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "189:p2"
+      ],
+      "blocked": "Multi-round drowning requires per-round CON/Swim rolls, damage and death checks; do not collapse it into one roll."
+    },
+    {
+      "id": "190",
+      "program": [
+        {
+          "kind": "route",
+          "target": "279"
+        }
+      ],
+      "sourceParagraphs": [
+        "190:p2"
+      ]
+    },
+    {
+      "id": "191",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "con",
+            "label": "体质",
+            "success": "67",
+            "failure": "frost-191-end"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "191:p2"
+      ]
+    },
+    {
+      "id": "frost-191-end",
+      "program": [
+        {
+          "kind": "end",
+          "label": "探险结束 · 原书第191节"
+        }
+      ],
+      "sourceParagraphs": [
+        "191:p2"
+      ]
+    },
+    {
+      "id": "192",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "357",
+            "395",
+            "357",
+            "395",
+            "357",
+            "395",
+            "357",
+            "395",
+            "357",
+            "395"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "192:p3"
+      ]
+    },
+    {
+      "id": "193",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "firstAid",
+            "label": "急救",
+            "success": "182",
+            "failure": "181"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "193:p2"
+      ]
+    },
+    {
+      "id": "194",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "listen",
+            "label": "聆听",
+            "success": "220",
+            "failure": "221"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "194:p2"
+      ]
+    },
+    {
+      "id": "195",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-158",
+              "label": "返回文明世界",
+              "target": "158"
+            },
+            {
+              "id": "to-604",
+              "label": "继续前进",
+              "target": "604"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "195:p2"
+      ]
+    },
+    {
+      "id": "196",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "敏捷",
+            "success": "228",
+            "failure": "230"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "196:p2"
+      ]
+    },
+    {
+      "id": "197",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：原文要求依序对调查员、诺曼、西尔维娅进行意志检定，并由首个失败者分别路由234/235/237，否则198",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "197:p3"
+      ],
+      "blocked": "Ordered three-person POW sequence with first-failure precedence and companion status needs reviewed party-check iteration."
+    },
+    {
+      "id": "198",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "status",
+              "value": "dead"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "297"
+        }
+      ],
+      "sourceParagraphs": [
+        "198:p3"
+      ]
+    },
+    {
+      "id": "199",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "239",
+            "failure": "238",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "199:p2"
+      ]
+    },
+    {
+      "id": "200",
+      "program": [
+        {
+          "kind": "route",
+          "target": "131"
+        }
+      ],
+      "sourceParagraphs": [
+        "200:p2"
+      ]
+    },
+    {
+      "id": "201",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：需对仍存活队员分别SAN检定、应用失败损失并按两名学生结果路由",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "201:p2"
+      ],
+      "blocked": "Source routes according to distinct investigator/Norman/Sylvia SAN outcomes; needs status-aware multi-check counter logic."
+    },
+    {
+      "id": "202",
+      "program": [
+        {
+          "kind": "route",
+          "target": "131"
+        }
+      ],
+      "sourceParagraphs": [
+        "202:p2"
+      ]
+    },
+    {
+      "id": "203",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "add",
+              "field": "skill.cthulhuMythos",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-240",
+              "label": "向凶手开枪",
+              "target": "240"
+            },
+            {
+              "id": "hide",
+              "label": "全队潜行；所有人成功才安全",
+              "target": "frost-203-stealth"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "203:p3"
+      ],
+      "blocked": "All-present-party stealth checks with any-failure threshold need status-aware fixed iteration."
+    },
+    {
+      "id": "frost-203-stealth",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：必须逐一检定仍在场队员，任一失败即254，全部成功才248",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "203:p3"
+      ]
+    },
+    {
+      "id": "204",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 6,
+          "targets": [
+            "205",
+            "205",
+            "205",
+            "205",
+            "180",
+            "180"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "204:p2"
+      ]
+    },
+    {
+      "id": "205",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "stealth",
+            "label": "潜行",
+            "success": "140",
+            "failure": "141"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "205:p3"
+      ]
+    },
+    {
+      "id": "206",
+      "program": [
+        {
+          "kind": "route",
+          "target": "127"
+        }
+      ],
+      "sourceParagraphs": [
+        "206:p4"
+      ]
+    },
+    {
+      "id": "207",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pow",
+            "label": "困难意志（奖励骰）",
+            "success": "208",
+            "failure": "127",
+            "difficulty": "hard",
+            "bonusDice": 1
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "207:p2"
+      ]
+    },
+    {
+      "id": "208",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "209",
+            "failure": "209",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "208:p3"
+      ]
+    },
+    {
+      "id": "209",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "psychology",
+            "label": "心理学",
+            "success": "212",
+            "failure": "127"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "209:p4"
+      ]
+    },
+    {
+      "id": "210",
+      "program": [
+        {
+          "kind": "route",
+          "target": "255",
+          "condition": {
+            "templateId": "nadelmann-female"
+          }
+        },
+        {
+          "kind": "route",
+          "target": "260",
+          "condition": {
+            "templateId": "nadelmann-male"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "210:p5"
+      ]
+    },
+    {
+      "id": "211",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "265",
+            "263",
+            "265",
+            "263",
+            "265",
+            "263",
+            "265",
+            "263",
+            "265",
+            "263"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "211:p3"
+      ]
+    },
+    {
+      "id": "212",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "dex",
+            "label": "敏捷对抗查理敏捷",
+            "success": "651",
+            "failure": "141",
+            "target": {
+              "field": "attribute.dex"
+            },
+            "opposed": {
+              "field": "party.charlie.attribute.dex"
+            }
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "212:p3"
+      ]
+    },
+    {
+      "id": "213",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "困难成功=108，普通成功=315，失败=314",
+            "success": "108",
+            "failure": "314",
+            "hardSuccess": 108,
+            "regularSuccess": 315
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "213:p2"
+      ]
+    },
+    {
+      "id": "214",
+      "program": [
+        {
+          "kind": "end",
+          "label": "探险结束 · 原书第214节"
+        }
+      ],
+      "sourceParagraphs": [
+        "214:p3"
+      ]
+    },
+    {
+      "id": "215",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "pow",
+            "label": "困难意志",
+            "success": "266",
+            "failure": "267",
+            "difficulty": "hard"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "215:p8"
+      ]
+    },
+    {
+      "id": "216",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-217",
+              "label": "经水淹裂隙离开",
+              "target": "217"
+            },
+            {
+              "id": "search-exit",
+              "label": "寻找更安全的出口并进行幸运检定",
+              "target": "frost-216-luck"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "216:p2"
+      ]
+    },
+    {
+      "id": "frost-216-luck",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "293",
+            "failure": "483"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "216:p2"
+      ]
+    },
+    {
+      "id": "217",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：原文要求按调查员→Sylvia→Norman次序进行三次DEX检定，按个人/多人失败组合路由",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "217:p2"
+      ],
+      "blocked": "Three ordered DEX checks with six distinct party outcome routes require typed party check/counting logic."
+    },
+    {
+      "id": "218",
+      "program": [
+        {
+          "kind": "route",
+          "target": "113"
+        }
+      ],
+      "sourceParagraphs": [
+        "218:p2"
+      ]
+    },
+    {
+      "id": "219",
+      "program": [
+        {
+          "kind": "route",
+          "target": "127"
+        }
+      ],
+      "sourceParagraphs": [
+        "219:p2"
+      ]
+    },
+    {
+      "id": "220",
+      "program": [
+        {
+          "kind": "route",
+          "target": "127"
+        }
+      ],
+      "sourceParagraphs": [
+        "220:p2"
+      ]
+    },
+    {
+      "id": "221",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：原文是可重复回合的对抗格斗脱身，失败受1D6伤害，生命归零结束",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "221:p2"
+      ],
+      "blocked": "Repeated opposed combat with damage and death requires combat-loop support."
+    },
+    {
+      "id": "222",
+      "program": [
+        {
+          "kind": "route",
+          "target": "127"
+        }
+      ],
+      "sourceParagraphs": [
+        "222:p2"
+      ]
+    },
+    {
+      "id": "223",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-227",
+              "label": "冒险下水营救",
+              "target": "227"
+            },
+            {
+              "id": "to-67",
+              "label": "留在岸上",
+              "target": "67"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "223:p2"
+      ]
+    },
+    {
+      "id": "224",
+      "program": [
+        {
+          "kind": "route",
+          "target": "513"
+        }
+      ],
+      "sourceParagraphs": [
+        "224:p2"
+      ]
+    },
+    {
+      "id": "225",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "naturalWorld",
+            "label": "自然界",
+            "success": "269",
+            "failure": "275"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "225:p2"
+      ]
+    },
+    {
+      "id": "226",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "track",
+            "label": "追踪",
+            "success": "276",
+            "failure": "277"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "226:p3"
+      ]
+    },
+    {
+      "id": "227",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "swim",
+            "label": "困难游泳",
+            "success": "251",
+            "failure": "189",
+            "difficulty": "hard"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "227:p2"
+      ]
+    },
+    {
+      "id": "228",
+      "program": [
+        {
+          "kind": "end",
+          "label": "阻塞：近战包含敌方先攻/攻击、闪避、连续战技和重伤昏迷条件，需战斗回合原语",
+          "collect": false
+        }
+      ],
+      "sourceParagraphs": [
+        "228:p4"
+      ],
+      "blocked": "Source requires repeated combat actions, enemy-first attacks, Dodge and two successful maneuvers; no single-check shortcut."
+    },
+    {
+      "id": "229",
+      "program": [
+        {
+          "kind": "route",
+          "target": "145"
+        }
+      ],
+      "sourceParagraphs": [
+        "229:p2"
+      ]
+    },
+    {
+      "id": "230",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-85",
+              "label": "继续搜寻他们",
+              "target": "85"
+            },
+            {
+              "id": "flee",
+              "label": "逃离其领地并进行幸运检定",
+              "target": "frost-230-luck"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "230:p2"
+      ]
+    },
+    {
+      "id": "frost-230-luck",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "158",
+            "failure": "85"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "230:p2"
+      ]
+    },
+    {
+      "id": "231",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "158",
+            "failure": "85"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "231:p2"
+      ]
+    },
+    {
+      "id": "232",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "luck",
+            "label": "幸运",
+            "success": "513",
+            "failure": "158"
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "232:p3"
+      ]
+    },
+    {
+      "id": "233",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-128",
+              "label": "追踪踪迹",
+              "target": "128"
+            },
+            {
+              "id": "to-279",
+              "label": "放弃西尔维娅，设法救诺曼",
+              "target": "279"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "233:p4"
+      ]
+    },
+    {
+      "id": "234",
+      "program": [
+        {
+          "kind": "route",
+          "target": "162"
+        }
+      ],
+      "sourceParagraphs": [
+        "234:p2"
+      ]
+    },
+    {
+      "id": "235",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "norman",
+              "action": "status",
+              "value": "unconscious"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "236"
+        }
+      ],
+      "sourceParagraphs": [
+        "235:p3"
+      ]
+    },
+    {
+      "id": "236",
+      "program": [
+        {
+          "kind": "check",
+          "check": {
+            "skill": "sanity",
+            "label": "理智",
+            "success": "282",
+            "failure": "282",
+            "failureEffects": [
+              {
+                "op": "add",
+                "field": "sanity",
+                "value": "-1D6"
+              }
+            ]
+          }
+        }
+      ],
+      "sourceParagraphs": [
+        "236:p2"
+      ]
+    },
+    {
+      "id": "237",
+      "program": [
+        {
+          "kind": "effects",
+          "effects": [
+            {
+              "op": "party",
+              "member": "sylvia",
+              "action": "status",
+              "value": "unconscious"
+            }
+          ]
+        },
+        {
+          "kind": "route",
+          "target": "283"
+        }
+      ],
+      "sourceParagraphs": [
+        "237:p3"
+      ]
+    },
+    {
+      "id": "238",
+      "program": [
+        {
+          "kind": "route",
+          "target": "113"
+        }
+      ],
+      "sourceParagraphs": [
+        "238:p2"
+      ]
+    },
+    {
+      "id": "239",
+      "program": [
+        {
+          "kind": "choices",
+          "choices": [
+            {
+              "id": "to-240",
+              "label": "向凶手开枪",
+              "target": "240"
+            },
+            {
+              "id": "to-248",
+              "label": "继续躲藏",
+              "target": "248"
+            }
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "239:p2"
+      ]
+    },
+    {
+      "id": "240",
+      "program": [
+        {
+          "kind": "random",
+          "sides": 10,
+          "targets": [
+            "284",
+            "116",
+            "284",
+            "116",
+            "284",
+            "116",
+            "284",
+            "116",
+            "284",
+            "116"
+          ]
+        }
+      ],
+      "sourceParagraphs": [
+        "240:p2"
+      ]
+    }
+  ],
+  "blockedMechanisms": {
+    "13-hatchets": "If the player-entered source-unknown starting inventory is smaller than the printed 1D3 loss, stop and record a source/state conflict without rerolling.",
+    "13-rifles": "If the printed 1D3+1 rifles remaining exceeds the player-entered starting total, stop with the original roll retained; do not reroll or invent extra rifles.",
+    "frost-45-rifle-source-conflict": "If the printed remaining 步枪 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll.",
+    "frost-45-knife-source-conflict": "If the printed remaining 猎刀 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll.",
+    "frost-45-hatchet-source-conflict": "If the printed remaining 短柄斧 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll.",
+    "135": "Group shooting requires current rifle inventory, per-member firearm skills, per-member DEX bonus-shot checks, and automatic hit-count threshold; do not expose target selection as a generic choice.",
+    "frost-156-hatchet-source-conflict": "If the printed remaining 短柄斧 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll.",
+    "frost-156-knife-source-conflict": "If the printed remaining 猎刀 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll.",
+    "frost-156-rifle-source-conflict": "If the printed remaining 步枪 total exceeds current source-derived inventory, stop with the original roll retained; do not add items or reroll.",
+    "165": "Party Pilot (Boat) rolls with an at-least-three-success threshold; requires sourced party iteration and automatic counting.",
+    "186": "Source requires a multi-round combat with initiative, damage, companion SAN checks, flee threshold and death; no single check may substitute.",
+    "189": "Multi-round drowning requires per-round CON/Swim rolls, damage and death checks; do not collapse it into one roll.",
+    "197": "Ordered three-person POW sequence with first-failure precedence and companion status needs reviewed party-check iteration.",
+    "201": "Source routes according to distinct investigator/Norman/Sylvia SAN outcomes; needs status-aware multi-check counter logic.",
+    "203": "All-present-party stealth checks with any-failure threshold need status-aware fixed iteration.",
+    "217": "Three ordered DEX checks with six distinct party outcome routes require typed party check/counting logic.",
+    "221": "Repeated opposed combat with damage and death requires combat-loop support.",
+    "228": "Source requires repeated combat actions, enemy-first attacks, Dodge and two successful maneuvers; no single-check shortcut."
+  },
+  "uncompiledEntries": [
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442",
+    "443",
+    "444",
+    "445",
+    "446",
+    "447",
+    "448",
+    "449",
+    "450",
+    "451",
+    "452",
+    "453",
+    "454",
+    "455",
+    "456",
+    "457",
+    "458",
+    "459",
+    "460",
+    "461",
+    "462",
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469",
+    "470",
+    "471",
+    "472",
+    "473",
+    "474",
+    "475",
+    "476",
+    "477",
+    "478",
+    "479",
+    "480",
+    "481",
+    "482",
+    "483",
+    "484",
+    "485",
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497",
+    "498",
+    "499",
+    "500",
+    "501",
+    "502",
+    "503",
+    "504",
+    "505",
+    "506",
+    "507",
+    "508",
+    "509",
+    "510",
+    "511",
+    "512",
+    "513",
+    "514",
+    "515",
+    "516",
+    "517",
+    "518",
+    "519",
+    "520",
+    "521",
+    "522",
+    "523",
+    "524",
+    "525",
+    "526",
+    "527",
+    "528",
+    "529",
+    "530",
+    "531",
+    "532",
+    "533",
+    "534",
+    "535",
+    "536",
+    "537",
+    "538",
+    "539",
+    "540",
+    "541",
+    "542",
+    "543",
+    "544",
+    "545",
+    "546",
+    "547",
+    "548",
+    "549",
+    "550",
+    "551",
+    "552",
+    "553",
+    "554",
+    "555",
+    "556",
+    "557",
+    "558",
+    "559",
+    "560",
+    "561",
+    "562",
+    "563",
+    "564",
+    "565",
+    "566",
+    "567",
+    "568",
+    "569",
+    "570",
+    "571",
+    "572",
+    "573",
+    "574",
+    "575",
+    "576",
+    "577",
+    "578",
+    "579",
+    "580",
+    "581",
+    "582",
+    "583",
+    "584",
+    "585",
+    "586",
+    "587",
+    "588",
+    "589",
+    "590",
+    "591",
+    "592",
+    "593",
+    "594",
+    "595",
+    "596",
+    "597",
+    "598",
+    "599",
+    "600",
+    "601",
+    "602",
+    "603",
+    "604",
+    "605",
+    "606",
+    "607",
+    "608",
+    "609",
+    "610",
+    "611",
+    "612",
+    "613",
+    "614",
+    "615",
+    "616",
+    "617",
+    "618",
+    "619",
+    "620",
+    "621",
+    "622",
+    "623",
+    "624",
+    "625",
+    "626",
+    "627",
+    "628",
+    "629",
+    "630",
+    "631",
+    "632",
+    "633",
+    "634",
+    "635",
+    "636",
+    "637",
+    "638",
+    "639",
+    "640",
+    "641",
+    "642",
+    "643",
+    "644",
+    "645",
+    "646",
+    "647",
+    "648",
+    "649",
+    "650",
+    "651",
+    "652",
+    "653",
+    "654"
+  ],
+  "notes": [
+    "Program map is manually authored against the cited original English paragraph IDs; source graph edges were not converted into choices.",
+    "Entries 1–240 have explicit programs except the listed rule-specific blockers. Character creation uses the source card attributes, 360 professional skill points, 180 interest skill points, English 90 starting skill and fixed Luck 85.",
+    "This artifact is a review candidate, not a formal release."
+  ]
+}

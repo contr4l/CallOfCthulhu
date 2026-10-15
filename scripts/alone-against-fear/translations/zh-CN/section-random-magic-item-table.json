@@ -1,0 +1,33 @@
+{
+  "id": "section-random-magic-item-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "3842fac8b62e1992192cc04c05d637bbc603a4a821cf4368e0a9000485e263fa",
+  "paragraphs": [
+    {
+      "id": "section-random-magic-item-table:p0",
+      "text": "随机魔法物品表（D6）"
+    },
+    {
+      "id": "section-random-magic-item-table:p1",
+      "text": "1\n鬼刃：这把刀可以命中非实体目标，以及只有魔法武器才能命中的目标（例如鬼魂）。攻击这类目标时+1，造成2点伤害；对其他目标则视为普通刀，造成1点伤害。携带时算作1件物品。"
+    },
+    {
+      "id": "section-random-magic-item-table:p2",
+      "text": "2\n地狱锁链：这段锈链蕴含受折磨灵魂的痛苦与苦难。每次使用都要进行L5意志防御检定；失败损失1点理智。但它可以对任何目标（包括灵体和恶魔）自动造成1点伤害。累计命中6次后，锁链会化为一堆锈迹和干涸血迹。携带时算作1件物品。"
+    },
+    {
+      "id": "section-random-magic-item-table:p3",
+      "text": "3\n《许普诺斯之书》：花费1点经验后，可以用此魔法书学习一种法术，使单个活体目标（不包括不死生物、人造物或活动娃娃）陷入沉睡。对抗目标的L进行魔法检定即可施法。可以反复尝试直到成功；成功后，本局游戏剩余时间不能再次使用此法术。本书携带时算作1件物品。"
+    },
+    {
+      "id": "section-random-magic-item-table:p4",
+      "text": "4\n圣印子弹：共2D6发带有神圣铭文的子弹，只能用于手枪。对恶魔和吸血鬼造成2点伤害。用此子弹伤到恶魔或吸血鬼时掷D6；若结果高于其L，受伤生物会逃跑。"
+    },
+    {
+      "id": "section-random-magic-item-table:p5",
+      "text": "5\n祝圣蜡烛：点燃后可恢复1点理智或解除诅咒。任何需要蜡烛的仪式也可使用它。重量可忽略。\n6 护身符：佩戴后，所有对抗魔法的防御检定+1。重量可忽略。"
+    }
+  ],
+  "notes": []
+}

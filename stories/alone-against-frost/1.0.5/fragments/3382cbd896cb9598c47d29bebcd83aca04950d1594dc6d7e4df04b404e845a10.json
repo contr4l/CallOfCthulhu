@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "189"
+  ],
+  "text": [
+    "你力竭了，一股回流把你卷进河流最湍急的地段。你被岩石撞击，又被卷入深水。视线逐渐模糊。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 189",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 189",
+      "text": [
+        "Your strength fails and an eddy sweeps you off into the fastest part of the stream. You are battered on the rocks and plunged into deep water. Your vision becomes murky."
+      ]
+    }
+  }
+}

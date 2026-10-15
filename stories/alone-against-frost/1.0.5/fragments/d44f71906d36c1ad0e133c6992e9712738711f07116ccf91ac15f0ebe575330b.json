@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "166"
+  ],
+  "text": [
+    "你俯视着异界恐怖——它像是从噩梦维度中因宇宙意外而喷涌出来的怪物。不知为何，你仍保持理智，得以观察它。",
+    "面对它的那半边身体感到寒冷，仿佛这生物正在吸走周围环境的热能。也许是为了进食？一只邪恶的眼睛位于它身体中央，周围辐射出海星般的腿。它看起来像一组直立的辐条，却没有轮子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 166",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 166",
+      "text": [
+        "You gaze down upon alien horror—a monster belched by cosmic accident from a dimension of nightmare. Somehow your sanity holds and you are able to study it.",
+        "The side of your body that faces it feels cold, as if the creature drains heat energy from its environment. Perhaps for nourishment? Starfish-like legs radiate from one malignant eye at the center of its body. It looks something like an upright set of spokes with no wheel."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "139"
+  ],
+  "text": [
+    "西尔维娅舀了一碗汤递给这位归来的浪子。他的脸因恐惧而扭曲，挥手打翻热汤，汤汁溅在灰绿色地衣上。",
+    "“太……太冷了，没法觉得饿。”伯纳德喃喃道，“我睡觉去。”",
+    "你让诺曼去拿些铺盖。",
+    "“不，”伯纳德低声说，“我就在那儿休息。”他指向远离火堆的黑暗角落。你没有说什么，任由他躺在冰冷的苔藓上。",
+    "伯纳德的举止令你不安；守夜时，你一直留心观察他。他脚上的绷带让你放心不下。回麦克唐纳堡还有很长的路，你本该替他换掉绷带。",
+    "趁睡着时悄悄靠近那名学生，检查他的绷带，前往204。让他安静休息，结束守夜后前往179。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 139",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 139",
+      "text": [
+        "Sylvia ladles up a bowl of soup and offers it to the prodigal. His face twists in horror and he bats the warm broth away, spilling it on the gray-green lichen.",
+        "“It’s… too cold to have hunger,” Bernard mumbles. “I will sleep.”",
+        "You ask Norman to fetch some bedding.",
+        "“No,” Bernard rumbles, “I will rest there.” He points to a dark corner away from the fire. You say nothing and let him stretch out on the chill moss.",
+        "Perturbed by Bernard’s behavior, you keep an eye on him while you stand watch. The bandages on his feet bother you. It is a long way back to Fort McDonald and you should have changed them.",
+        "To creep up on the sleeping student and examine his bandages, go to 204. To leave him to rest in peace, finish your watch and go to 179."
+      ]
+    }
+  }
+}

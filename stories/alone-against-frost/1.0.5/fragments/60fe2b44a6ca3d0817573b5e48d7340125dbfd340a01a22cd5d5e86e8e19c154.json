@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "21"
+  ],
+  "text": [
+    "又一个徒劳无获的探索日结束后，你们在山谷底部准备了一顿丰盛晚餐：石烤饼干、肉干和豆子。蠓虫和蚊子成群袭来，但篝火的烟驱散了最恼人的虫子。吃饭时，你注意到查理独自待在一旁。你想让她融入大家，便问她有没有篝火歌曲，或是吓人的故事。",
+    "“提这种事会招来厄运。”她咕哝道，“树林不喜欢被人嘲笑。”",
+    "她站起来，扫视营地四周，嗅了嗅空气。你挑起眉毛。",
+    "“驼鹿。”你还没来得及发问，她便说道，“没什么。该睡觉了。”",
+    "你深吸一口气，只闻到食物、烟火和河水的清新气息。尽管如此，查理的态度影响了队伍的情绪，大家都准备结束这一天。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 21",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 21",
+      "text": [
+        "Following another day of fruitless exploration along the floor of the valley, your party fixes a hearty supper of stone-baked biscuits, jerky, and beans. Gnats and mosquitoes swarm close, but the smoke from your fire drives the worst of the pests away. While you eat, you notice Charlie has withdrawn from the group. You attempt to include her by asking if she has any campfire songs or hair-raising stories.",
+        "“It is bad luck to speak of such things,” she grunts. “The woods do not like to be mocked.”",
+        "She gets to her feet and scans the perimeter of the camp, sniffing the air. You raise an eyebrow.",
+        "“Moose,” she says, before you can frame your question. “It is nothing. It is time we went to bed.”",
+        "You draw in a deep breath, scenting nothing but the food, the smoke, and the fresh odor of the river. Nonetheless, Charlie’s manner has affected your party’s mood and they are ready to call it a day."
+      ]
+    }
+  }
+}

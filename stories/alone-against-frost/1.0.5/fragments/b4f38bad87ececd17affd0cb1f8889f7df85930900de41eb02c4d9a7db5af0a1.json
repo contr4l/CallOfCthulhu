@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "120"
+  ],
+  "text": [
+    "但你仍面临饿死的危险。",
+    "进行困难意志检定：成功则前往161；失败则前往68。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 120",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 120",
+      "text": [
+        "You still face death by hunger.",
+        "Make a Hard POW roll: if you succeed, go to 161; if you fail, go to 68."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "172",
+    "frost-auto-172"
+  ],
+  "text": [
+    "你听见身后有东西在动，声音仿佛雪地突然爆裂。你转过身，看见一个独眼、轮状、不断旋转的东西正追着你。它在坡顶停了下来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 172",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 172",
+      "text": [
+        "You hear something stir behind you, like an eruption in the snow. You turn and catch a flash of a one-eyed, wheel-like, revolving entity following you. It pauses at the top of the rise."
+      ]
+    }
+  }
+}

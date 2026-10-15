@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "612"
+  ],
+  "text": [
+    "你本能地低头躲闪，剑齿猫从你头顶掠过。它巨大的爪子刺入伯纳德胸膛，随即再次扑击。",
+    "伯纳德受到1D10点伤害。你可以再向剑齿猫开一枪。如果累计伤害达到12点，就杀死它并可取下头颅作战利品；记录关键词 BACKWATER。否则，剑齿猫杀死伯纳德后跃身离去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 612",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 612",
+      "text": [
+        "You duck by reflex and the cat passes over your head. Its huge claws bury themselves in Bernard’s chest. It lunges for another strike.",
+        "Bernard suffers 1D10 points of damage. You may fire once more at the cat. If you have now inflicted 12 points of cumulative damage, you kill it and may take its head for a trophy; record the keyword BACKWATER. Otherwise, the cat slaughters Bernard and bounds away."
+      ]
+    }
+  }
+}

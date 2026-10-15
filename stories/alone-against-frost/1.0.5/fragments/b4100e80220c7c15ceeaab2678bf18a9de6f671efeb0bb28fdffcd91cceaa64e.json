@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "621"
+  ],
+  "text": [
+    "你们离开山谷底部，攀上连绵的岩石山丘，寻找能证明发现的实物证据。",
+    "忽然，你们一直跟踪的猎径上有东西移动。你倒吸一口气：一头有蹄野兽，黄褐色，像羚羊，却是你从未见过的模样。它头部两侧长着六只Y形角。如果能把这颗头带回文明世界，就没人能怀疑你们发现的重要性。",
+    "hexacorn闻到陌生气味，立刻转身沿猎径逃走。你们全队追了上去。几秒后，伯纳德被一根枯枝绊倒，重重摔在地上。",
+    "眼看追猎无望，其他人停下来扶伯纳德起身。他扭伤了脚踝，只要小心行动就不算太严重；不过他未必做得到。",
+    "“教授！看！”诺曼指向山脊上方。你惊讶地望过去：那里有巨大的毛茸茸猿人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 621",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 621",
+      "text": [
+        "In search of physical evidence of your discovery, your party leaves the floor of the valley and climbs into a series of rocky, wooded hills.",
+        "Suddenly something moves along the game trail you have been following. You take a gulp of air. It’s a hoofed beast, a tawny animal more like an antelope than anything else you’ve ever seen. But it has six Y-shaped horns sprouting along the sides of its head. If you brought this head back to civilization, no one could doubt the importance of your discovery.",
+        "At the first whiff of your unfamiliar scent, the hexacorn spins and breaks along the trail. Your group races in pursuit. Within seconds, Bernard trips over a dead branch and suffers a bad spill.",
+        "Seeing the chase is futile, the rest of you stop and help Bernard to rise. His ankle is sprained; nothing too serious if he takes it easy. But he may not be able to.",
+        "“Professor! Look!” Norman points up the ridge. You stare with astonishment: gigantic, hairy ape-men."
+      ]
+    }
+  }
+}

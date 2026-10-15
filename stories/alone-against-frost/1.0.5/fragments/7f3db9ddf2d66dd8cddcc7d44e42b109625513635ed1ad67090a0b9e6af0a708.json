@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "86"
+  ],
+  "text": [
+    "若要跟踪这些抬着俘虏的人，前往 133。若要大喊吓退他们，前往 134。若要朝他们开枪，前往 135。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 86",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 86",
+      "text": [
+        "To follow the bearers and their captive, go to 133. To shout to scare them off, go to 134. To shoot at the bearers, go to 135."
+      ]
+    }
+  }
+}

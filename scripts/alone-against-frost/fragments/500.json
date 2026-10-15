@@ -22,15 +22,9 @@
     },
     {
       "id": "500:p3",
-      "kind": "trace",
+      "kind": "body",
       "text": "(353)",
       "sourceLocation": "pdf:visual:[[87,53]]"
-    },
-    {
-      "id": "500:p4",
-      "kind": "body",
-      "text": "86",
-      "sourceLocation": "pdf:visual:[[87,54]]"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "98",
+    "frost-auto-98"
+  ],
+  "text": [
+    "队伍沿着水道逆流而上。你注意到溪边石头上有矿物沉积，越往前走，沉积层就越厚。",
+    "前往 64。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 98",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 98",
+      "text": [
+        "Your group follows the waterway upstream. You notice mineral deposits on the stones around the creek. The farther you go, the heavier they become.",
+        "Go to 64."
+      ]
+    }
+  }
+}

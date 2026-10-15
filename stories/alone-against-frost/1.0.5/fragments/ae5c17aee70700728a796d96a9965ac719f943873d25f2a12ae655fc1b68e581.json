@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "652",
+    "frost-auto-652"
+  ],
+  "text": [
+    "接近离开此地的临水岩架时，战斗带来的肾上腺素已经消退，只剩深深的疲惫。你必须拖着脚步才能继续前行。也许正因如此，你没察觉一路尾随的狼。",
+    "你走在队伍前面，已经越过它藏身之处，狼才咆哮着扑出来。诺曼向后摔倒，巨狼却把西尔维娅撞翻，咬断她的脖子。",
+    "你和诺曼很快恢复过来，跃起反击，一起杀死了狼。但西尔维娅已经来不及救了。",
+    "你把她埋在能望见山谷入口的地方。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 652",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 652",
+      "text": [
+        "By the time you near the watery ledge that is the exit from this place, the adrenaline rush of combat has faded to a deep weariness and you have to drag your feet to keep them in motion. Perhaps that is why you do not sense the wolf that has stalked you all this way.",
+        "Leading the party, you have already stepped past its hiding place when it launches, snarling as it springs. Norman tumbles backward, but the huge brute knocks Sylvia off her feet and tears out her neck.",
+        "You and Norman recover quickly and leap to the attack. Together, you dispatch the wolf. But it is too late for Sylvia.",
+        "You bury her within sight of the valley entrance."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "258"
+  ],
+  "text": [
+    "黑夜漫长，你们这群倒霉的人始终无法解开基瓦内玛人巧妙打结的绳索。午夜时分，月亮像一只隔着朦胧云雾凝视的眼睛，森林中的野兽逐渐逼近。你告诉学生们，野兽袭击人类的报告其实并不常见。",
+    "这次袭击也不会有人听说。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 258",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 258",
+      "text": [
+        "Long into the hours of darkness, your hapless party struggles against the cunning knots of the Keywanema. About midnight, as the moon stares down like an eye behind a misty cataract, the beasts of the forest draw close. You remind the students that wild animal attacks upon humans are rarely reported.",
+        "No one will hear of this attack either."
+      ]
+    }
+  }
+}

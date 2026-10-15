@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "142"
+  ],
+  "text": [
+    "再在此地多留一天，寻找查理·福克斯泰尔的踪迹，前往144。放弃寻找向导，继续旅程，前往324。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 142",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 142",
+      "text": [
+        "To remain in the area a day longer, looking for some trace of Charlie Foxtail, go to 144. To give up on your guide and resume your journey, go to 324."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "427"
+  ],
+  "text": [
+    "每个孤独跋涉的日子结束后，你都会把破旧的睡毯铺在一块不起眼的岩石上，只求它干燥。今晚这块岩石看起来也和别处一样。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 427",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 427",
+      "text": [
+        "After each day of lonely travel, you spread your tattered sleeping blanket on an anonymous rock, concerned only that it be dry. This one seems like any other."
+      ]
+    }
+  }
+}

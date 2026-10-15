@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "630"
+  ],
+  "text": [
+    "你们在草甸中寻找可带回去的标本，忽然一个巨大阴影掠过草地，吓了你们一跳。你抬头望去，看到那宽阔的翼展，猜它也许是幸存至今的巨型秃鹫。它不是秃鹫。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 630",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 630",
+      "text": [
+        "Walking through the meadowland with an eye for a trophy to take back home, your group is startled by a vast shadow that glides across the grass around you. You glance up, imagining from its vast wingspan that it might be a surviving giant condor. It is not a condor."
+      ]
+    }
+  }
+}

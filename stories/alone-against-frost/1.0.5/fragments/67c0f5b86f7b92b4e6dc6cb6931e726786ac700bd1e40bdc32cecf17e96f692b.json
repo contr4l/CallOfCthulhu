@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "35",
+    "frost-auto-35"
+  ],
+  "text": [
+    "你设法安抚了惊慌的向导。“教授，你说得对，”她说，“族里会把这些故事讲给孩子们听。但我……和你一样理性。”过了一会儿，她凑近些，压低声音。“那些脚印和我小时候见过的一些很像。就在前一晚，我们村里有个孩子失踪了。”她眼中又浮现出恐惧。“人们说，被小灵——普克-乌吉——抓走的人再也回不来。或者更糟，他们确实回来了，但已经不是原来的那个人。”",
+    "尽管你仍抱有怀疑，还是耐心听查理讲述。谈过之后，向导平静了许多，能够继续前进。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 35",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 35",
+      "text": [
+        "You manage to calm down the distraught guide. “You speak the truth, Professor,” she says. “My people tell these stories to our children. But I am… rational, like you.” After a few moments, she draws closer and lowers her voice. “The tracks are like some I saw when I was a girl. The night before, a child of our village had vanished.” A hint of fear returns to her eyes. “They say that when someone is taken by the Little Ones—the puk-woogies—they do not come back. Or worse, they do come back. But they are not the same.”",
+        "Although skeptical, you listen to Charlie’s stories with patience. Talking it out has helped your guide, and she is fit to go on."
+      ]
+    }
+  }
+}

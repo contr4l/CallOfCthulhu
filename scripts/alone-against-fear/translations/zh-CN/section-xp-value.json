@@ -1,0 +1,17 @@
+{
+  "id": "section-xp-value",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "539fd7e899c83385bfca7f662c57e82ae1175b6c32f135f5240fef42f01a5589",
+  "paragraphs": [
+    {
+      "id": "section-xp-value:p0",
+      "text": "经验值"
+    },
+    {
+      "id": "section-xp-value:p1",
+      "text": "通常，所有暴力遭遇价值1点经验，但有些怪物价值更高。只有击败怪物才能获得其经验值；逃跑则没有经验。有些怪物被击败后会提供经验以外的奖励选择，例如获得2点经验或1点线索。"
+    }
+  ],
+  "notes": []
+}

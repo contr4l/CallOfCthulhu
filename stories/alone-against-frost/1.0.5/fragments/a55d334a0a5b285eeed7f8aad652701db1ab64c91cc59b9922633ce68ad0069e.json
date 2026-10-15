@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "269",
+    "frost-auto-269"
+  ],
+  "text": [
+    "探索一片史前空地时，你偶然发现一丛植物，正是密斯卡托尼克大学的古植物学家同事伊凡·库尔托夫最近详细描述的物种。人们原以为它在更新世冰川期之前就已灭绝。然而它此刻就在你周围，仍然繁盛生长。你很容易就能采集叶片、根茎、插枝和种子，以此说服密斯卡托尼克大学地质系与植物学系资助一场大型远征。",
+    "你兴奋地收好标本，带着同伴平安返回北汉尼纳外围山谷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 269",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 269",
+      "text": [
+        "While exploring a prehistoric glade, you chance upon a stand of plants of the very species recently described in detail by your Miskatonic colleague, the paleobotanist Ivan Kurtov. The species was thought extinct before the Pleistocene glaciations. Yet, here it is, all around you, still flourishing. You can easily take leaves, roots, cuttings, and seeds to convince Miskatonic’s geology and botany departments to sponsor a major expedition.",
+        "Excited, you pack the specimens and lead your companions without mishap back to the outer valley of the North Hanninah."
+      ]
+    }
+  }
+}

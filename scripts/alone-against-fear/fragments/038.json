@@ -1,0 +1,18 @@
+{
+  "id": "38",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "38:p0",
+      "kind": "heading",
+      "text": "#38- Mysterious Alien Stone\n",
+      "sourceLocation": "pdf:spans:[[93,1487,1515]]"
+    },
+    {
+      "id": "38:p1",
+      "kind": "body",
+      "text": "If at any point in the campaign you\nhave read the Necronomicon, you\nrecognize unholy signs from an\nalien culture. You lose 1 Sanity but\ngain 3 Clues. If you did not read\nthe Necronomicon, the stone\nturns to dust in your hands.\n",
+      "sourceLocation": "pdf:spans:[[93,1515,1551],[93,1551,1583],[93,1583,1614],[93,1614,1651],[93,1651,1685],[93,1685,1713],[93,1713,1742]]"
+    }
+  ]
+}

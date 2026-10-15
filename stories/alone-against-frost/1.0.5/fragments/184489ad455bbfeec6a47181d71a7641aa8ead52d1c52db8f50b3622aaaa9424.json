@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "114"
+  ],
+  "text": [
+    "眼前景象令人难以置信。几只与人等高、粉红色的甲壳类生物正在操作机械设备，清扫溪流中的岩石。这些生物必定具有智慧，尽管它们丑得连海鲜都比不上。它们身上长满菌状物。采矿机器嗡嗡作响，其间还能听见它们发出的嗡鸣。你来到这里寻找未知种族，所得发现远超想象！",
+    "获得2点克苏鲁神话。站起来向这些外星生物打招呼，前往252。若想避免接触，进行潜行检定：成功则前往159；失败则前往115。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 114",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 114",
+      "text": [
+        "The sight is incredible. Several human-sized, pinkish crustaceans are working mechanical equipment, sweeping the rocks of the stream. The creatures must be intelligent, though they look ugly even for seafood. Fungoid growths bedeck their bodies. Their buzzing is audible over the hum of the mineral-gathering machines. You came to this place looking for unknown races and have been rewarded beyond your wildest dreams!",
+        "Gain 2 points of Cthulhu Mythos. To stand up and greet the alien things, go to 252. If you want to avoid contact, make a Stealth roll; if you succeed, go to 159; if you fail, go to 115."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "247"
+  ],
+  "text": [
+    "远处传来小人的狩猎呼喊声，你们三人穿过一片片无边无际的原始森林。你们必须掩盖踪迹，以免被他们追上。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 247",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 247",
+      "text": [
+        "With the hunting cries of the little people audible in the distance, the three of you run through endless stands of virgin timber. You must disguise your trail to avoid capture."
+      ]
+    }
+  }
+}

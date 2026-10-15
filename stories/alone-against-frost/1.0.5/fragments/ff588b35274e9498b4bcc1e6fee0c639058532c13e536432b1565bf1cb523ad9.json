@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "168",
+    "frost-auto-168"
+  ],
+  "text": [
+    "子弹击中后，怪物颤抖起来！然而你看不出任何伤口。或许你不该轻率地认为，一个触碰就能抹除物质的存在会被铅弹伤害。尽管如此，你似乎还是惊动了它，它滚进森林深处。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 168",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 168",
+      "text": [
+        "The creature trembles under the impact of the bullet! However, you see no trace of a wound. Perhaps you were rash to believe that an entity whose touch annihilates matter could be harmed by a lead projectile. Nonetheless, you seem to have startled it, and it rolls away into the woods."
+      ]
+    }
+  }
+}

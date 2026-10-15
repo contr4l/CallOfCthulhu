@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "150"
+  ],
+  "text": [
+    "回去救他们，前往332。独自继续冲刺，前往151。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 150",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 150",
+      "text": [
+        "To turn back to help them, go to 332. To race on alone, go to 151."
+      ]
+    }
+  }
+}

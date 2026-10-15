@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "334",
+    "frost-auto-334"
+  ],
+  "text": [
+    "仿佛过了永恒之久，脚步声终于远去。猫头鹰再次鸣叫，蝉也开始嗡嗡作响。尽管如此，你们整晚都没有重新点燃火堆。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 334",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 334",
+      "text": [
+        "After minutes that feel like eternities, the steps depart. The owl hoots once more, the cicadas buzz. Even so, you do not relight the fire for the rest of the night."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "653"
+  ],
+  "text": [
+    "阴暗营地里突然响起一声尖锐惨叫。四周竖起巨大的毛茸茸身影，你们无路可逃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 653",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 653",
+      "text": [
+        "A high-pitched scream erupts in the shadowy camp. Huge, hairy shapes arise on every side. There is no place to run."
+      ]
+    }
+  }
+}

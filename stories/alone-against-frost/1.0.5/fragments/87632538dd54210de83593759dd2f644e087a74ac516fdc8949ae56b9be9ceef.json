@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "261",
+    "frost-auto-261"
+  ],
+  "text": [
+    "较量骤然结束。老妇人瘫倒在地。基瓦内玛人停止吟唱，其中一人急忙上前查看。她一动不动，你甚至无法确定她是否还在呼吸。",
+    "基瓦内玛人围住可怖的女王，将她抬起后匆匆离去，留下你们三人仍被绑在空地，却无人看守。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 261",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 261",
+      "text": [
+        "Abruptly, the contest ends. The hag collapses to the ground. As the Keywanema cease their chanting, one of them hurries to the old woman’s aid. She lies inert. You cannot even tell if she is breathing.",
+        "The Keywanema cluster around their hideous queen and pick her up. They hurry away with her, leaving the three of you in the glen, still bound, but alone and unguarded."
+      ]
+    }
+  }
+}

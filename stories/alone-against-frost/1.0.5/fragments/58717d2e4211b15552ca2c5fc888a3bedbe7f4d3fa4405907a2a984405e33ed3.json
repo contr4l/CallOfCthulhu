@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "397"
+  ],
+  "text": [
+    "你爬上岸，身体因高空跳水造成的剧痛而疼痛不已。你花了很久才喘匀气。你的俘虏肯定以为那次可怕的跳跃已经要了你的命。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 397",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 397",
+      "text": [
+        "You crawl up on the beach, your body aching from the punishing high dive. It takes you a long time to catch your breath. Surely your captors must think you have been killed by the terrifying leap."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "408",
+    "frost-auto-408"
+  ],
+  "text": [
+    "看见洞穴入口时，你几乎不敢相信自己的眼睛。你冲进去，发现洞穴足够深，能让你躲过浓烟和热浪。",
+    "第二天，你走进一片灾难后的荒地。个人的悲痛压倒了你，科学好奇心也已耗尽。你只想离开这片阴燃的土地，便沿着溪流切出的裂隙前往外界。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 408",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 408",
+      "text": [
+        "When you see the mouth of a cave, you can scarcely believe your eyes. You plunge inside and discover that the cave is deep enough to save you from the smoke and heat.",
+        "The next day you emerge into a devastated wasteland, a catastrophe. Your personal grief overwhelms you and your scientific curiosity is exhausted. Your only desire is to leave the smoldering landscape and you make your way to the outer world via the stream-cut fissure."
+      ]
+    }
+  }
+}

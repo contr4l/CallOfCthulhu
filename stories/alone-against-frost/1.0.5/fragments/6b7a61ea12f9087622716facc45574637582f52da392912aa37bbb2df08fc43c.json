@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "217",
+    "frost-auto-217"
+  ],
+  "text": [
+    "要离开山谷，你们三人必须再次冒险穿过带你们来到此处的危险水道。你走在最前面，西尔维娅跟在后面，诺曼最后。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 217",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 217",
+      "text": [
+        "To exit the valley, the three of you must dare the dangerous waterway that brought you here. You lead the way, followed by Sylvia and then Norman."
+      ]
+    }
+  }
+}

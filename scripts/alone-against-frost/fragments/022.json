@@ -34,7 +34,7 @@
     },
     {
       "id": "22:p5",
-      "kind": "trace",
+      "kind": "body",
       "text": "(13)",
       "sourceLocation": "pdf:visual:[[14,26]]"
     }

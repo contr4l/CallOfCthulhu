@@ -1,0 +1,45 @@
+{
+  "id": "section-fluid-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-fluid-table:p0",
+      "kind": "heading",
+      "text": "Fluid Table (d6)\n",
+      "sourceLocation": "pdf:spans:[[78,913,930]]"
+    },
+    {
+      "id": "section-fluid-table:p1",
+      "kind": "body",
+      "text": "1\nThe fluidgives you a strong allergic\nreaction. Lose 1 Life. Save vs. L3\npoison or lose 1 additional Life every\ntime you move to a new area. As\nsoon as you successfully save, the\nallergic reaction ends and you stop\ntaking damage.\n2 The fluid has no effect on you.\n",
+      "sourceLocation": "pdf:spans:[[78,930,932],[78,932,969],[78,969,1004],[78,1004,1043],[78,1043,1075],[78,1075,1110],[78,1110,1146],[78,1146,1161],[78,1161,1195]]"
+    },
+    {
+      "id": "section-fluid-table:p2",
+      "kind": "body",
+      "text": "3\nThe fluid gives you supernatural\nreflexes. Add +1 to all Defense rolls\nand ignore surprise attacks from\nmonsters for the next 3 encounters,\nafter which the effect ends.\n",
+      "sourceLocation": "pdf:spans:[[78,1195,1197],[78,1197,1230],[78,1230,1268],[78,1268,1301],[78,1301,1337],[78,1337,1366]]"
+    },
+    {
+      "id": "section-fluid-table:p3",
+      "kind": "body",
+      "text": "4\nThe fluid gives you superhuman\nstrength. Your melee attacks all\ninflict+1 damage. The effect wears\noff after your next 3 combat\nencounters.\n",
+      "sourceLocation": "pdf:spans:[[78,1366,1368],[78,1368,1399],[78,1399,1432],[78,1432,1467],[78,1467,1496],[78,1496,1508]]"
+    },
+    {
+      "id": "section-fluid-table:p4",
+      "kind": "body",
+      "text": "5\nThe fluid heals all damage  you\nhave taken, bringing you back to\nyour maximum Life point total.\n",
+      "sourceLocation": "pdf:spans:[[78,1508,1510],[78,1510,1542],[78,1542,1575],[78,1575,1606]]"
+    },
+    {
+      "id": "section-fluid-table:p5",
+      "kind": "body",
+      "text": "6\nThe fluid gives you superior aim.\nGain +1 to hit with ranged\nweapons for your next 3 combat\nencounters.",
+      "sourceLocation": "pdf:spans:[[78,1606,1608],[78,1608,1642],[78,1642,1669],[78,1669,1700],[78,1700,1711]]"
+    }
+  ],
+  "sourcePages": [
+    78
+  ]
+}

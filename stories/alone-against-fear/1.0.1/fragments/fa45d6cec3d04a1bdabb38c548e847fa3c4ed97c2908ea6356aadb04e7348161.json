@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "41"
+  ],
+  "text": [
+    "Now you know Eliza’s story, at\nleast in part. You need to gather 4\nClues to find the exact location of\nthe forest where she found her\nbook. Prepare a separate map\ndiagram. This will represent a\nforest just out of town. You may\nsearch every box until you have\ngathered 4 clues. If you already\nhave 4 Clues, you will find the\nlocation in the first box you visit.\nIn the unlikely event that you fail\nall the Search rolls, you will\nautomatically find the location in\nthe last box on the map.\nOn each roll of a 1 on any Search\nroll, you will have an encounter.\nRoll d6. On a 1-4, roll on the Beast\ntable. On a 5-6, roll on the Witch\nChildren table.\nWhen you find the location, you\nfind a clearing with a tree stump\nturned into an unholy altar. There\nare remains of wax candles, magicsymbols and unidentifiable\nbones scattered around. If you\ndid not have any encounter\nduring your trip in the forest, a\nrandom encounter from the\nDemonic Horror table will be\nwaiting for you here. If you had\nany encounter, no demon will\nwait for you.\nAfter the battle, if any, you may\nmake a L6 Magic roll. Add +1 if\nyou have Occultism, +2 if you\nhave Occultism (Expert). If you\nfail, nothing happens. If you\nsucceed, you gain a permanent\n+1 to all rolls against Witch\nChildren, Witches or Demons\nuntil the end of the campaign.\nThis bonus applies to all Attack,\nDefense rolls and to all saves,\nand also to all attempts to close\nhell gates.\nArmed with your newly acquired\noccult knowledge, you may now\nreturn to the exploration of the\ntown.\nEliza Dunforth"
+  ],
+  "reading": {
+    "en": {
+      "title": "41 - Eliza’s Forest",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "41 - 伊莱莎的森林",
+      "text": [
+        "你现在至少了解了部分伊莱莎的故事。你需要收集4条线索，才能找到她发现魔法书的森林的确切位置。另画一张地图来表示城外的森林。你可以搜索每个区域，直到收集到4条线索。若你已经有4条线索，进入第一个区域时便会找到该地点。万一你所有搜索检定都失败，则自动在地图最后一个区域找到地点。\n任何一次搜索检定掷出1时，都会触发遭遇。掷1D6：1–4，掷野兽表；5–6，掷女巫孩子表。\n找到地点后，你会发现一片空地，中央有个树桩被改造成亵渎祭坛，四周散落着蜡烛残蜡、魔法符号和无法辨认的骨头。若你在森林旅途中没有遭遇任何敌人，这里会有一只从恶魔恐怖生物表随机确定的怪物等着你；若途中遭遇过敌人，则这里没有恶魔。\n若发生战斗，战斗结束后你可以进行一次L6魔法检定。拥有神秘学技能时+1，专家级时+2。失败则没有效果；成功则在本战役结束前，对女巫孩子、女巫或恶魔的所有检定永久+1。加值适用于攻击、防御、所有防御检定，以及关闭地狱之门的尝试。\n掌握新的神秘学知识后，你可以回到小镇继续探索。\n伊莱莎·邓福斯"
+      ]
+    }
+  }
+}

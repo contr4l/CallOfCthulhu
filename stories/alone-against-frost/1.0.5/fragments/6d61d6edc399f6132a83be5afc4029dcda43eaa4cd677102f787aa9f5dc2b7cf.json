@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "601"
+  ],
+  "text": [
+    "你带着两名研究生沿河逆流而上。探险队需要振奋士气的东西。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 601",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 601",
+      "text": [
+        "You lead your two graduate students upriver. The expedition needs something to boost its morale."
+      ]
+    }
+  }
+}

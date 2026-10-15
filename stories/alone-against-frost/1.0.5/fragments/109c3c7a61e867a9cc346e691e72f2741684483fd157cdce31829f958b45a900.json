@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "338",
+    "frost-auto-338"
+  ],
+  "text": [
+    "你身后的树林传来撞击声。那听起来已不像你熟悉的西尔维娅。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 338",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 338",
+      "text": [
+        "Something crashes through the woods behind you. It does not sound like the Sylvia you knew."
+      ]
+    }
+  }
+}

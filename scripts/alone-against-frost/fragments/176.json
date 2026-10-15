@@ -23,24 +23,18 @@
     {
       "id": "176:p3",
       "kind": "body",
-      "text": "38",
-      "sourceLocation": "pdf:visual:[[39,53]]"
-    },
-    {
-      "id": "176:p4",
-      "kind": "body",
       "text": "The wind-walker is a creature of ice, you remember. It dares \nnot drink anything so hot as the broth.",
       "sourceLocation": "pdf:visual:[[39,55],[39,56]]"
     },
     {
-      "id": "176:p5",
+      "id": "176:p4",
       "kind": "body",
       "text": "To slay the stranger immediately, go to 177. If you need more proof \nthat he is a wind-walker, go to 178. ",
       "sourceLocation": "pdf:visual:[[39,57],[39,58]]"
     },
     {
-      "id": "176:p6",
-      "kind": "trace",
+      "id": "176:p5",
+      "kind": "body",
       "text": "(77, 175)",
       "sourceLocation": "pdf:visual:[[39,59]]"
     }

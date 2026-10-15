@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "300"
+  ],
+  "text": [
+    "“如果放了他，他就会带着族人回来。”伯纳德说得或许没错。但你是远征队领队，必须为自己对待其他文化的行为负责。",
+    "你解开小人的束缚，退到一旁。他出乎意料地敏捷，转眼便冲进树林。你催促队伍朝相反方向前进。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 300",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 300",
+      "text": [
+        "“If we release him, he’ll return with his people.” Bernard may be right. But you are the expedition leader and will be held responsible for your actions toward other cultures.",
+        "You unbind the little man and stand back. With surprising speed, he dashes away through the trees. You urge your party in the opposite direction."
+      ]
+    }
+  }
+}

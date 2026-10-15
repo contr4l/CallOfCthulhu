@@ -1,0 +1,54 @@
+{
+  "id": "31",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "31:p0",
+      "kind": "heading",
+      "text": "#31 - grabbed!\n",
+      "sourceLocation": "pdf:spans:[[90,1710,1725]]"
+    },
+    {
+      "id": "31:p1",
+      "kind": "body",
+      "text": "As you lean to pick up the object,\na couple of dirty, clawed hands\nrise from the ground. Roll d6.\n",
+      "sourceLocation": "pdf:spans:[[90,1725,1760],[90,1760,1792],[90,1792,1823]]"
+    },
+    {
+      "id": "31:p2",
+      "kind": "body",
+      "text": "1) The hands catch your neck and\nbegin to strangle you. Make a\nL4 strength save to break free.\nAdd +1 if you have the StrongSkill and +2 if you have Strong\n(Expert). Roll until you break\nfree. Every unsuccessful\nattempt costs you 1 Life. You\nmanage to pick up the object\nif you survive.\n",
+      "sourceLocation": "pdf:spans:[[90,1823,1856],[90,1856,1886],[90,1886,1918],[90,1918,1947],[91,22,54],[91,54,85],[91,85,110],[91,110,140],[91,140,169],[91,169,185]]"
+    },
+    {
+      "id": "31:p3",
+      "kind": "body",
+      "text": "2) The hands grab a carried\nobject and then disappear.\nCross 1 object of your choice\noff your play sheet.\n",
+      "sourceLocation": "pdf:spans:[[91,185,213],[91,213,240],[91,240,270],[91,270,291]]"
+    },
+    {
+      "id": "31:p4",
+      "kind": "body",
+      "text": "3) The hands claw at you,\ninflicting 1 Life on a failed\nDefense roll against a L5\nattack, and then disappear.\n",
+      "sourceLocation": "pdf:spans:[[91,291,317],[91,317,347],[91,347,373],[91,373,401]]"
+    },
+    {
+      "id": "31:p5",
+      "kind": "body",
+      "text": "4) The hands  wave  in front of\nyour eyes and disappear.\n",
+      "sourceLocation": "pdf:spans:[[91,401,433],[91,433,458]]"
+    },
+    {
+      "id": "31:p6",
+      "kind": "body",
+      "text": "5) The hands miss you and\ndisappear.\n",
+      "sourceLocation": "pdf:spans:[[91,458,484],[91,484,495]]"
+    },
+    {
+      "id": "31:p7",
+      "kind": "body",
+      "text": "6) The hands grab your clothes\nbut you manage to cut away\nthe right hand. The hand falls\nto the ground as the rest of the\narms disappear. If you have an\noccult guide and a candle, you\nmay build a Hand of Glory (go\nto #33).\n",
+      "sourceLocation": "pdf:spans:[[91,495,526],[91,526,553],[91,553,584],[91,584,617],[91,617,648],[91,648,679],[91,679,709],[91,709,718]]"
+    }
+  ]
+}

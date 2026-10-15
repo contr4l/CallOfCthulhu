@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "80"
+  ],
+  "text": [
+    "那人已经筋疲力尽。可你笨拙的搭救方式，简直能把死人都吵醒。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 80",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 80",
+      "text": [
+        "The man is exhausted. But your clumsy attempt could wake the dead."
+      ]
+    }
+  }
+}

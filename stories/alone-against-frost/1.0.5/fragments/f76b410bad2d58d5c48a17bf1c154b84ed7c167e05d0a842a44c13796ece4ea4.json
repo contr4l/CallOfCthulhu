@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "557"
+  ],
+  "text": [
+    "为避开河岸沼泽，你们穿过一片成熟落叶松林。地势崎岖，让你希望查理还在队伍里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 557",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 557",
+      "text": [
+        "To avoid a riverside marsh, you weave through a forest of mature larch. The uneven terrain makes you wish that Charlie was still with your party."
+      ]
+    }
+  }
+}

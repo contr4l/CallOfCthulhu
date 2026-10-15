@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "157",
+    "frost-auto-157"
+  ],
+  "text": [
+    "你和诺曼交换了心照不宣、满怀愧疚的眼神。显然，你们首要的责任是保护学生，不能再让他们冒险。西尔维娅把伯纳德叫到一旁，轻声与他交谈。两人回来时，他不敢与你对视。",
+    "若持有关键词 BAREFOOT，前往158；否则前往163。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 157",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 157",
+      "text": [
+        "You and Norman exchange knowing, guilty glances. It is clear your prime responsibility is to your students, and you cannot endanger them further. Sylvia takes Bernard aside for a quiet conversation. When they return, he cannot meet your eyes.",
+        "If you have the keyword BAREFOOT, go to 158. If not, go to 163."
+      ]
+    }
+  }
+}

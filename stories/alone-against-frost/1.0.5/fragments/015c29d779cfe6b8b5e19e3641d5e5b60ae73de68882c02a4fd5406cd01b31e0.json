@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "478"
+  ],
+  "text": [
+    "你举手表示和平，外星生物却伸手去拿扭曲的金属装置。它们的嗡鸣升高到令人毛骨悚然的音调。你还要继续表达善意吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 478",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 478",
+      "text": [
+        "As you raise your hand in a peaceful gesture, the aliens grab for twisted metal devices. Their buzzing rises to a pitch that makes your skin crawl. Should you follow through on your peaceful intentions?"
+      ]
+    }
+  }
+}

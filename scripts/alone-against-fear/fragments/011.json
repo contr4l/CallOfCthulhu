@@ -1,0 +1,18 @@
+{
+  "id": "11",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "11:p0",
+      "kind": "heading",
+      "text": "#11 - into the sewers\n",
+      "sourceLocation": "pdf:spans:[[82,231,253]]"
+    },
+    {
+      "id": "11:p1",
+      "kind": "body",
+      "text": "This section of the sewers is used\nby survivors as a shelter. There is\nrudimentary comfort and\ndefenses. If you want to convince\nthe survivors to let you in, you\nmust give them one of your items\nor 2 Food points and succeed a L4\nCharisma roll. Roll at +1 if you have\nCharisma, at +2 if you Charisma\n(Expert). If you fail, they will not let\nyou in and there is a 2 in 6 chance\nthat you will be attacked by a\nhorde of sewer rats.\nSewer rat horde, L2 animal, 5\nLife, damage 1. Treat as a single\ncreature. Once the horde is\nreduced to 2 Life or lower, you get\n+1 to your Defense rolls until the\nend of the combat. If you have a\ndose of rat poison, you may\ndiscard 1 Food and the rat poison\nto automatically inflict 2 damage\nto the horde.\nYou get a -1 on Attack rolls if you\nattack the horde with ranged\nweapons, except for a shotgun\nwhich hits them at an additional\n+1 instead.\nIf the survivor lets you in, you may\nconsider this area a Safe House as\nlong as you “pay” at least 1 Food\npoint every time you enter it. If you\ndo not pay, roll again a 2 in 6\nchance of an encounter with  the\nrats, and the area will no longer\ncount as a Safe House.\n",
+      "sourceLocation": "pdf:spans:[[82,253,288],[82,288,324],[82,324,348],[82,348,382],[82,382,415],[82,415,448],[82,448,482],[82,482,520],[82,520,552],[82,552,593],[82,593,629],[82,629,660],[82,660,681],[82,681,711],[82,711,745],[82,745,773],[82,773,809],[82,809,844],[82,844,877],[82,877,905],[82,905,939],[82,939,973],[82,973,987],[82,987,1023],[82,1023,1052],[82,1052,1082],[82,1082,1115],[82,1115,1127],[82,1127,1164],[82,1164,1199],[82,1199,1233],[82,1233,1271],[82,1271,1303],[82,1303,1336],[82,1336,1370],[82,1370,1393]]"
+    }
+  ]
+}

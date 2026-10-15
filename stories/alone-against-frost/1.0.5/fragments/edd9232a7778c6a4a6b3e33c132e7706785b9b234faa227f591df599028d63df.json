@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "582"
+  ],
+  "text": [
+    "猎人从你们身边经过，神情严肃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 582",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 582",
+      "text": [
+        "The hunters pass you by. Their demeanor is grim."
+      ]
+    }
+  }
+}

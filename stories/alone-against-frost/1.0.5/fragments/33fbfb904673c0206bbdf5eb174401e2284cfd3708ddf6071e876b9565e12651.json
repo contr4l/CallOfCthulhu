@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "237",
+    "frost-auto-237"
+  ],
+  "text": [
+    "西尔维娅开始抽搐。她大声喊叫，双手在空中挥舞，仿佛要驱赶看不见的袭击者。你和诺曼努力制住她。挣扎间，年轻女子瘫软下来，失去了意识。",
+    "你们想尽办法也没能唤醒她。诺曼虽然虚弱，仍帮你给她铺好干燥的床铺，又把火堆添旺。他似乎情绪不稳，于是你陪他聊了一会儿，听他讲些校园里做管理员时的日常琐事。这似乎让他平静下来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 237",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 237",
+      "text": [
+        "Sylvia falls into convulsions. She cries out, her hands beating at the air, as if trying to drive away an invisible attacker. You and Norman battle to subdue her. As you struggle, the young woman goes limp and slips into unconsciousness.",
+        "All your efforts fail to awaken her. Weak as he is, Norman helps you make a dry bed for her and builds up the fire. He seems volatile, and you spend some time with him, drawing out everyday campus stories from his time as a custodian. The process seems to settle him."
+      ]
+    }
+  }
+}

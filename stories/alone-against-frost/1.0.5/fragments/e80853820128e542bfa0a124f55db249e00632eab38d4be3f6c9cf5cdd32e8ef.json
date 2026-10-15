@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "209"
+  ],
+  "text": [
+    "“现在你明白了，”查理·福克斯泰尔低声说，“你看见我这双燃烧的脚了。在我其余部分也变形之前，动手吧。”",
+    "你喉咙发干，问她该怎么做。她似乎在压制心中的怒火。",
+    "“我说不出来！恶魔太强了。它饿了！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 209",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 209",
+      "text": [
+        "“Now you know,” Charlie Foxtail murmurs. “You see my burning feet. Act before the rest of me changes, too.”",
+        "With a dry throat, you ask her how. She seems to fight down the rage.",
+        "“I cannot tell! The demon is too strong. He hungers!”"
+      ]
+    }
+  }
+}

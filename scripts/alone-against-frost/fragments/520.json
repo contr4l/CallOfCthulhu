@@ -28,15 +28,9 @@
     },
     {
       "id": "520:p4",
-      "kind": "trace",
+      "kind": "body",
       "text": "(616)",
       "sourceLocation": "pdf:visual:[[90,19]]"
-    },
-    {
-      "id": "520:p5",
-      "kind": "body",
-      "text": "89",
-      "sourceLocation": "pdf:visual:[[90,20]]"
     }
   ]
 }

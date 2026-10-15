@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "18"
+  ],
+  "text": [
+    "你把独木舟转向岸边时，查理抓住了你的手臂。“教授，我的族人避开这座山谷。这里受到了诅咒。别去追赶住在里面的恶魔。”",
+    "向导以前也对你说过迷信之言，但查理的话中有种急切，让你感到不安。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 18",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 18",
+      "text": [
+        "When you turn the canoe toward shore, Charlie grabs your arm. “Professor. My people avoid this valley. It is under a curse. Do not chase the devils who inhabit it.”",
+        "It is not the first time you have heard such superstition from a guide. But there is an urgency to Charlie’s words that unsettles you."
+      ]
+    }
+  }
+}

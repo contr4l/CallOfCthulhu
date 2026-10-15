@@ -1,0 +1,25 @@
+{
+  "id": "500",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "84c32fecb7a6817a71f937e191b73d82767d9fe58f2dca1a489bd41edbceb42f",
+  "paragraphs": [
+    {
+      "id": "500:p0",
+      "text": "500"
+    },
+    {
+      "id": "500:p1",
+      "text": "大脚怪四散躲进岩石和灌木丛，你和诺曼冲下坡，闯进营地救西尔维娅。"
+    },
+    {
+      "id": "500:p2",
+      "text": "掷1D10：结果为偶数则前往395；结果为奇数则前往357。"
+    },
+    {
+      "id": "500:p3",
+      "text": "（353）"
+    }
+  ],
+  "notes": []
+}

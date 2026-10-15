@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "401"
+  ],
+  "text": [
+    "你躲在有掩护的地方观察西尔维娅点燃的火堆。片刻后，火苗猛然窜起，变成红色的火舌。",
+    "营地周围的守卫发出警报。几秒钟内，整个营地陷入混乱：浓烟滚滚，雪怪四处奔逃。你们附近的野兽也惊慌起来，你和诺曼趁机逃出。西尔维娅跑来与你们会合。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 401",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 401",
+      "text": [
+        "While you watch from your guarded spot, you observe the flicker of Sylvia’s fires. After a moment, they surge into red forks of flame.",
+        "Guards around the encampment scream an alarm. In seconds all is pandemonium, with smoke billowing and sasquatches running in every direction. The beasts near you succumb to panic, allowing you and Norman to scramble out. Sylvia runs to join you."
+      ]
+    }
+  }
+}

@@ -22,15 +22,9 @@
     },
     {
       "id": "36:p3",
-      "kind": "trace",
+      "kind": "body",
       "text": "(18)",
       "sourceLocation": "pdf:visual:[[16,41]]"
-    },
-    {
-      "id": "36:p4",
-      "kind": "body",
-      "text": "15",
-      "sourceLocation": "pdf:visual:[[16,42]]"
     }
   ]
 }

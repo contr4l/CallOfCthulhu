@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "540"
+  ],
+  "text": [
+    "西尔维娅一步踏错，失去平衡，从水下岩架滑入溪流最快的地方。她在致命的急流中挣扎，被水流抛向岩石。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 540",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 540",
+      "text": [
+        "With a single misstep, Sylvia loses her footing and slides off the submerged ledge into the fastest part of the stream. She thrashes in the deadly current, tossed against the rocks."
+      ]
+    }
+  }
+}

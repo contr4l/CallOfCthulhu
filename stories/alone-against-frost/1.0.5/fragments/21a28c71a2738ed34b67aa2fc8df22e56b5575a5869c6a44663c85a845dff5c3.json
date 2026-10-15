@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "106"
+  ],
+  "text": [
+    "风行者的敏捷为15。进行对抗敏捷检定以决定攻击结果：若你获胜，前往140；若你落败，前往141。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 106",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 106",
+      "text": [
+        "The wind-walker’s DEX is 15. Make an opposed DEX roll to determine the outcome of your attack. If you win the roll, go to 140. If you lose, go to 141."
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "section-mapping",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "9011739e9d70a860d2658a205504513528cd0b740e07559c587d7617349cdc25",
+  "paragraphs": [
+    {
+      "id": "section-mapping:p0",
+      "text": "地图绘制"
+    },
+    {
+      "id": "section-mapping:p1",
+      "text": "你在噩梦般的小镇中旅程要画在一系列“区域格”上。每格代表一个地点。进入某格时，给它编号（1、2、3等），并掷表生成该区域发生的事件和可能遭遇的敌人。你通过掷骰和战术决策与怪物战斗，并记录所用资源。有些地点是安全区域，可以休息养伤。但不要太放松，因为没有任何地点永远安全。"
+    }
+  ],
+  "notes": []
+}

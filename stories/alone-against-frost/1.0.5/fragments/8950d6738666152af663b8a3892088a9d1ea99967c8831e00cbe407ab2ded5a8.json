@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "474",
+    "frost-auto-474"
+  ],
+  "text": [
+    "眼前的景象出乎你的意料。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 474",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 474",
+      "text": [
+        "What you see is not what you expect."
+      ]
+    }
+  }
+}

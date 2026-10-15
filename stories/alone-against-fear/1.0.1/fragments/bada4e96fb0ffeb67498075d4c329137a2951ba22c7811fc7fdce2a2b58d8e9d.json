@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-special-event-3"
+  ],
+  "text": [
+    "3\nYou spot a random object that is precariously balanced on\nsome dangerous place. Feel free to invent the details, based\non your location and the object type. Reaching the object\nrequires a L4 climbing roll. Add +1 if you have the Agile skill,\nand +2 if you have it at Expert level. On a failure, you fall down\nand lose 1 Life. On a success, you gain the object and climb\ndown to safety. You may try as many times as you want."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special event 3",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件 3",
+      "text": [
+        "3\n发现一件随机物品，危险地放在某处。可根据所在地点和物品类型自行想象细节。要拿到物品，需进行L4攀爬检定；敏捷技能+1，专家级敏捷+2。失败则跌落并损失1点生命。成功则获得物品并安全爬下。可以反复尝试。"
+      ]
+    }
+  }
+}

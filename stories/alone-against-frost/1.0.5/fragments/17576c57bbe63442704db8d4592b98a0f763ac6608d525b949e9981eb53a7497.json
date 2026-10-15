@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "251"
+  ],
+  "text": [
+    "西尔维娅已被水流卷走，够不到了。你奋力游向诺曼，抓住他的皮夹克衣领，把他拖上岸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 251",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 251",
+      "text": [
+        "Sylvia has already been swept out of reach. Swimming strongly, you manage to reach Norman. You grab him by the collar of his leather jacket and drag him to shore."
+      ]
+    }
+  }
+}

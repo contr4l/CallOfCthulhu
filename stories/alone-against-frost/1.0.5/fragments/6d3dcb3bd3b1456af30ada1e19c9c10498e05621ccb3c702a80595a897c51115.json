@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "458"
+  ],
+  "text": [
+    "或许你一直过于谨慎，但迄今远征成果令人失望。队伍士气一天比一天低落。你必须尽快采取果断行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 458",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 458",
+      "text": [
+        "Perhaps you have been too cautious, but the results of the expedition have been disappointing so far. The morale of your party drops day by day. You will have to do something decisive soon."
+      ]
+    }
+  }
+}

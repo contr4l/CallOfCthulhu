@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "328",
+    "frost-auto-328"
+  ],
+  "text": [
+    "诺曼刚才明明已经奄奄一息，却突然坐起身来。你望向他的脸，随即低下目光。他似乎变了，像是披着人类面具的狂犬。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 328",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 328",
+      "text": [
+        "Norman, whom you thought moments from death, suddenly sits up. You look into his face, then drop your eyes. He has changed somehow; he is like a rabid wolf hiding behind the mask of a man."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "522"
+  ],
+  "text": [
+    "“好吧，教授。”查理瞪着你说。“我们这些一辈子生活在这片土地上的人，也不可能比外乡人更了解它。我们会去找那个孩子。”你们跟在闷闷不乐的猎人向导后面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 522",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 522",
+      "text": [
+        "“OK, Professor.’ Charlie glares at you. “We who live all our life in this land can never know its ways so well as those from other countries. We will search for the boy.” You and the others fall in behind your sullen hunting guide."
+      ]
+    }
+  }
+}

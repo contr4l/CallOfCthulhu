@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "1:p0",
+      "kind": "heading",
+      "text": "# 1 - Creepy Old Mansion\n",
+      "sourceLocation": "pdf:spans:[[77,36,61]]"
+    },
+    {
+      "id": "1:p1",
+      "kind": "body",
+      "text": "You end up in a creepy old\nmansion. There is a 1 in 6 chance\nof an encounter with a creature\nfrom the Possessed table. If this\ndoes not happen, there is a 3 in 6\nchance of an encounter from the\nGhosts Table. In any case, you have\nfound a hell gate and the name of\nthe demon FLAUROS written on a\nwall. If you have the Gate Arcane\nSkill, you may perform a L6 Magic\nroll to close it. If you close it, you\nmay ignore the next 3 encounters\nthat happen to you, and you\nrecover 2 Sanity. If you fail to close\nit, you are cursed and your chance\nof meeting wandering monsters\nincreases by 1 (so 2 in 6 every time\nyou visit an already visited box)\nuntil you find another hell gate and\nmanage to close it, or find a magic\nitem or ritual that dispels the curse.\nYou may just ignore the hell gate if\nyou prefer.\n",
+      "sourceLocation": "pdf:spans:[[77,61,88],[77,88,122],[77,122,154],[77,154,188],[77,188,223],[77,223,255],[77,255,291],[77,291,325],[77,325,356],[77,356,390],[77,390,424],[77,424,463],[77,463,496],[77,496,524],[77,524,563],[77,563,598],[77,598,628],[77,628,665],[77,665,699],[77,699,736],[77,736,772],[77,772,811],[77,811,848],[77,848,860]]"
+    }
+  ]
+}

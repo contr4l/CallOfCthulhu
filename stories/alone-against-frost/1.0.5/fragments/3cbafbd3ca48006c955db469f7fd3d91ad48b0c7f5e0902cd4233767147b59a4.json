@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "44",
+    "frost-auto-44"
+  ],
+  "text": [
+    "你们设法把埃布斯坦从诺曼身上拉开。他翻过独木舟边缘落入水中，溅起的水花淋湿了所有人。伯纳德沉入湍急的水流。你短暂地看见他在黑暗的河底附近用奇怪的姿势游动，随后便消失无踪。诺曼被抓伤，惊魂未定，但除此之外没有受伤。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 44",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 44",
+      "text": [
+        "Your party manages to wrestle Ebstein away from Norman. He topples over the side of the canoe. As the splash drenches your group, Bernard sinks into the swift current. For an instant you glimpse him, swimming with strange strokes near the dark bottom, and then nothing. Norman is scratched and shaken by the attack, but otherwise unharmed."
+      ]
+    }
+  }
+}

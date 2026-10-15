@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "101"
+  ],
+  "text": [
+    "“伯纳德……真的是你吗？”西尔维娅声音发颤。那人影发出咯咯笑声，嗓音嘶哑破碎。",
+    "他走到火边时，你心里某处不由得一阵畏缩。他的皮肤蜡黄，面部肌肉松弛地挂在颅骨上。你一瞬间觉得，某种野兽般的东西正从人皮面具的孔洞里窥视着你。理智上，你想把眼前的人当作伯纳德；情感上，你却无法确信。",
+    "进行人类学检定：成功则前往102；失败则前往139。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 101",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 101",
+      "text": [
+        "“Bernard… is that really you?” Sylvia’s voice quavers. The figure chortles, his voice broken.",
+        "Something inside you cringes as he walks up to the fire. His skin is sallow; his features hang slack on his skull. For a moment, you imagine something bestial is peering out through the holes of a human mask. Intellectually, you want to accept this person as Bernard. Emotionally, you are not so sure.",
+        "Make an Anthropology roll: if you succeed, go to 102; if you fail, go to 139."
+      ]
+    }
+  }
+}

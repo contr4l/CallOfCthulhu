@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "392"
+  ],
+  "text": [
+    "你像疯了一样跑，直到觉得安全，随后精疲力竭地瘫倒在地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 392",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 392",
+      "text": [
+        "You run like a lunatic until you think you are safe and then slump to the ground, exhausted."
+      ]
+    }
+  }
+}

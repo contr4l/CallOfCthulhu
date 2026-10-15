@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "507"
+  ],
+  "text": [
+    "一只可怕的粉红色真菌状生物！它看见你了！飞行者似乎笨拙不灵，摇摇晃晃地飞离，而你冲进深林。它能穿过树冠追踪你吗？",
+    "你突然来到一个洞口。长满苔藓的岩石像张开的嘴，露出绿色牙齿。你溜进洞里，蜷缩在入口附近。",
+    "你从洞外窥望，惊恐地看到一只真菌状生物在你刚跑过的灌木间摇晃。它看见你了吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 507",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 507",
+      "text": [
+        "A ghastly pink fungoid-thing! It sees you! The flyer seems clumsy; it wobbles away while you dash into the deep forests. Can it track you through the canopy?",
+        "Suddenly you come upon a cave entrance. Its moss-felted rocks yawn open like a mouth and green teeth. You slip inside and huddle near the opening.",
+        "Peering outside you see, to your terror, a fungoid-thing wavering through the bushes through which you ran. Did it see you?"
+      ]
+    }
+  }
+}

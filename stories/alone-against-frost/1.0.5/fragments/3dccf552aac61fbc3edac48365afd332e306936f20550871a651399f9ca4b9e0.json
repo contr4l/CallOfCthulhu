@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "257",
+    "frost-auto-257"
+  ],
+  "text": [
+    "已经没有人会来救你们。队伍中必须有人挣脱束缚。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 257",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 257",
+      "text": [
+        "There is no hope of rescue. One of your party must escape your bonds."
+      ]
+    }
+  }
+}

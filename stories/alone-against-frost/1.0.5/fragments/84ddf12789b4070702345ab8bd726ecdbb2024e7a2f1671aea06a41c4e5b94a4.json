@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "107"
+  ],
+  "text": [
+    "你扯开嗓子呼喊查理的名字，回荡而来的粗厉回声令你惊愕。黑暗森林的无边无际让你感到无助；你正准备撤退，头顶高处却传来一声哀嚎。",
+    "“我的脚！它们在烧！”",
+    "抬头望向天空，前往72。捂住脸和耳朵，直到那不可能存在的哭喊声停止，前往109。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 107",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 107",
+      "text": [
+        "You yell Charlie’s name at the top of your lungs, startled by the raucous echo that answers you. Feeling helpless before the vastness of the dark woods, you are ready to retreat when a wail comes from high above.",
+        "“My feet! They burn!”",
+        "To look up in the sky, go to 72. To cover your face and ears until the impossible cry ceases, go to 109."
+      ]
+    }
+  }
+}

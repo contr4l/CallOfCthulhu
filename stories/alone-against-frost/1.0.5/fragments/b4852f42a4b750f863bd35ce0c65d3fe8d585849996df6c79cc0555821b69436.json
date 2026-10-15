@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "283"
+  ],
+  "text": [
+    "西尔维娅不再昏迷。她蹲在毯子上，脸扭曲得骇人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 283",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 283",
+      "text": [
+        "Sylvia is no longer comatose. She squats on her blanket, her face hideously twisted."
+      ]
+    }
+  }
+}

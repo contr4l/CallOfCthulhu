@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "411"
+  ],
+  "text": [
+    "队伍的划船技术让你们平安渡过难关。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 411",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 411",
+      "text": [
+        "Your party’s boating skills pull you through without mishap."
+      ]
+    }
+  }
+}

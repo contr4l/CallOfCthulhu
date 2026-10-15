@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "471"
+  ],
+  "text": [
+    "几天里，你们几乎找不到猎物，鱼也越来越难捕。继续这样下去，终将饿死。你们需要转运。",
+    "你们三人脚底疼痛，沿北汉尼纳山侧徒步时，西尔维娅用胳膊肘碰了碰你：“教授，快看！一艘独木舟！附近一定有人！”",
+    "不过，你们搜寻后确信船主不在附近。你犹豫着要不要拿走船，但队伍饥肠辘辘，而乘独木舟顺流而下远比徒步快。你们划船的本领足以通过急流吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 471",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 471",
+      "text": [
+        "For a few days, you see little game, and the fish become elusive. If you go on in this way, you face starvation. You need a change of luck.",
+        "As your party of three hikes, sore-footed, along the flank of the North Hanninah, Sylvia pokes you in the ribs and exclaims, “Look, Professor! A canoe! Somebody must be around here!”",
+        "However, a search satisfies you that the owner is nowhere near. You hesitate to take the boat, but your party is hungry and a canoe will speed you downriver much more swiftly than you can walk. Are you good enough boaters to pass the rapids?"
+      ]
+    }
+  }
+}

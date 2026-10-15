@@ -1,0 +1,25 @@
+{
+  "id": "100",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "433d6d88b6f760909deab4f37df752440eeb63ee00ec7c898a895e6cadaedfb2",
+  "paragraphs": [
+    {
+      "id": "100:p0",
+      "text": "100"
+    },
+    {
+      "id": "100:p1",
+      "text": "你的步枪轰然作响。"
+    },
+    {
+      "id": "100:p2",
+      "text": "掷 1D10：结果为偶数时，前往 96；结果为奇数时，前往 99。"
+    },
+    {
+      "id": "100:p3",
+      "text": "（138）"
+    }
+  ],
+  "notes": []
+}

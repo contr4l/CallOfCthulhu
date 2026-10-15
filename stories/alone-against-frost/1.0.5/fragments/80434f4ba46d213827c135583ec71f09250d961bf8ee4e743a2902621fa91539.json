@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "545"
+  ],
+  "text": [
+    "你查看了通往金矿的地图。它没有科学价值，但黄金财富可以资助你想要进行的任何探险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 545",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 545",
+      "text": [
+        "You examine your map to the gold deposit. It has no scientific value. But a fortune in gold could finance as many expeditions as you wish."
+      ]
+    }
+  }
+}

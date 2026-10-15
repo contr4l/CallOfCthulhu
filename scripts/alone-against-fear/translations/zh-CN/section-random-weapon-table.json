@@ -1,0 +1,17 @@
+{
+  "id": "section-random-weapon-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "1bb1a5fa3a9e298dd28f81412def8cc2d53a49835fe549d27705963a764a58a6",
+  "paragraphs": [
+    {
+      "id": "section-random-weapon-table:p0",
+      "text": "随机武器表（1D6）"
+    },
+    {
+      "id": "section-random-weapon-table:p1",
+      "text": "1：棒球棒或锤子。\n2：链锯或正宗武士刀（任选其一）。\n3：1枚手榴弹，或一把弓和2D6+3支箭（任选其一）。\n4：霰弹枪和2D6发霰弹。\n5：手枪和2D6发子弹。\n6：步枪和2D6发子弹。"
+    }
+  ],
+  "notes": []
+}

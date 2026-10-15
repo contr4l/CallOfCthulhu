@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "559"
+  ],
+  "text": [
+    "你沿踪迹走了将近一英里，终于听见低声交谈。你爬到一大片熊果灌木旁，拨开枝叶向另一侧窥望。",
+    "落叶松的阴影下有几个原住民。从人类学角度，你认出一些迹象，判断他们属于图苏蒂纳族，而且似乎是个相当与世隔绝的群体。他们穿着皮衬衫、绑腿和林地风格的莫卡辛鞋，显然很少接触外界。你看见几支十九世纪的步枪，其中一些还是单发式。查理提到过被放逐者——这会不会就是她说的那群人？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 559",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 559",
+      "text": [
+        "You follow the trail for almost a mile and finally hear a mutter of voices. Crawling up to a mass of bearberry bushes, you part them enough to see the other side.",
+        "There, in the shadow of the larches, you observe several Native people. Anthropologically, you recognize indicators of the Tsuut’ina, apparently a very isolated group. Their skin shirts, leggings, and woodland-style moccasins indicate minimal contact with the outside. You see several 19th- century rifles—some only single-shot weapons—among them. Charlie said something about outcasts—could this be the group she mentioned?"
+      ]
+    }
+  }
+}

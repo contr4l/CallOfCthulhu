@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "221"
+  ],
+  "text": [
+    "你因疲惫而听觉迟钝，身后有双有力的手抓住你时，你毫无察觉。你丢下步枪，抓住对方的手，惊讶地发现那双手冷得刺骨。突然，你想起了风行者的传说。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 221",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 221",
+      "text": [
+        "Your hearing is dulled by exhaustion, so you have no warning before powerful hands grab you from behind. As you drop your rifle and seize the hands that hold you, you are astonished by their icy surface. Suddenly, you remember the wind-walker legend."
+      ]
+    }
+  }
+}

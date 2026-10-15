@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "105"
+  ],
+  "text": [
+    "进行理智检定：成功则判定你曾遭受暂时性精神错乱——这意味着你将被驱逐出境并蒙受耻辱；失败则你会被视为精神病罪犯。等你获释时，已无人记得你的名字，也没人记得你那些说辞。纳德尔曼探险队就此结束。全书完。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 105",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 105",
+      "text": [
+        "Make a Sanity roll: if you succeed, you are judged to have suffered from temporary insanity—which means deportation and disgrace; if you fail, you are considered a psychotic criminal. By the time you are freed, no one remembers your name nor your claims. The Nadelmann Expedition is over. THE END."
+      ]
+    }
+  }
+}

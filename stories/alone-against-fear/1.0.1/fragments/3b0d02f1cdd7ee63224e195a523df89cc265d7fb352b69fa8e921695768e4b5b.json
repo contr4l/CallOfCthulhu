@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "36"
+  ],
+  "text": [
+    "The cord has d6+1 knots. You may\nundo one knot to reroll one die at\nany point of the game, as a free\naction. However, every time to do\nso, roll d6. If the total is lower than\nthe number of knots you have\nundone so far, you lose 1 Sanity.\nWhen the last knot is undone, you\nroll for the last time and the cord\nloses its powers."
+  ],
+  "reading": {
+    "en": {
+      "title": "36 - Witch’s knots",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "36 - 女巫绳结",
+      "text": [
+        "绳子上有1D6+1个绳结。游戏中任何时候，你都可以免费解开一个绳结，重掷一颗骰子。但每次这样做，都要掷1D6；若结果小于你已经解开的绳结数量，就失去1点理智。解开最后一个绳结时，你最后一次掷骰，之后绳子便失去力量。"
+      ]
+    }
+  }
+}

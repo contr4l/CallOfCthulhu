@@ -1,0 +1,21 @@
+{
+  "id": "section-insanity-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "bbd3a6236ab6752e08f499be310f8def44dd2aa67f9bbb908ca99657809a9d14",
+  "paragraphs": [
+    {
+      "id": "section-insanity-table:p0",
+      "text": "精神失常表（D6）"
+    },
+    {
+      "id": "section-insanity-table:p1",
+      "text": "1 偏执：遇到友善的人时，你不能接受他们提供的食物或治疗。\n2 饮食失调：每经过3格就需要1点食物。"
+    },
+    {
+      "id": "section-insanity-table:p2",
+      "text": "3 心不在焉：每当仪式需要材料，或任务需要工具（武器除外）时，掷D6；掷出1则无法获得该工具或物品。若安全屋仍在使用中，该物品被你留在安全屋；若没有安全屋，该物品遗失。\n4 恐惧症：所有避免理智损失或抵抗任何恐惧效果的检定-1。\n5 过度自信：除非生命只剩1或2点，否则不能进行逃跑检定。\n6 易受惊：理智上限永久降低1点。"
+    }
+  ],
+  "notes": []
+}

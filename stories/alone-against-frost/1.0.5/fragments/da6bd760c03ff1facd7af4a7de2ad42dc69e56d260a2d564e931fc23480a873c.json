@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "544"
+  ],
+  "text": [
+    "猿人把你们安置在一处有人看守的岩棚下过夜。诺曼和西尔维娅都伤得很重。你尽力照料他们，也照料自己。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 544",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 544",
+      "text": [
+        "The ape-men put you all away for the night under a guarded overhang. Both Norman and Sylvia are badly injured. You do what you can for them—and for yourself."
+      ]
+    }
+  }
+}

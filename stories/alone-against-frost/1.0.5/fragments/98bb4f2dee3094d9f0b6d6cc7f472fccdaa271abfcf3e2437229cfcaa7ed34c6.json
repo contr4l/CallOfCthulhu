@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "234",
+    "frost-auto-234"
+  ],
+  "text": [
+    "你醒来时独自一人，而且不在营地。诺曼和西尔维娅都不见了。你是在谵妄中走远了吗？此时这些问题已无关紧要。你感觉自己变了。饥饿感仍在，却转化成更黑暗的渴求。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 234",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 234",
+      "text": [
+        "You awaken alone. You are not at the campsite. Norman and Sylvia are nowhere to be seen. Have you wandered away in delirium? Such questions have little meaning now. You feel altered. Your hunger is still with you, but it has become a darker craving."
+      ]
+    }
+  }
+}

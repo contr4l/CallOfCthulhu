@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "453",
+    "frost-auto-453"
+  ],
+  "text": [
+    "更黑暗的印象涌入你发烧的感官。",
+    "大地浸没于翻腾的污秽洪流之中。它们挤向这个世界，离这里如此之近，如此容易抵达！它们在孤寂之地无形行走，污秽不堪；风中充斥着它们的胡言乱语。大地低语着它们的意识。球体在帷幕处相遇！它们曾统治人类如今统治的地方。它们终将再次统治。阿撒托斯！撒托古亚！克图格亚！加塔诺托亚！阿布霍斯！乌波·萨斯拉！",
+    "你再也承受不住了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 453",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 453",
+      "text": [
+        "Darker impressions now rush through your fevered senses.",
+        "The Earth immersed in seething currents of foulness. They crowd upon the world. So close. So short to reach! They walk unseen and foul in lonely places; the wind gibbers with Their voices. The earth mutters with Their consciousness. The sphere meets at the veil! They once ruled where humankind rules now. And They shall rule again. Azathoth! Tsathoggua! Cthugha! Ghatanothoa! Abhoth! Ubbo-Sathla!",
+        "You can bear no more."
+      ]
+    }
+  }
+}

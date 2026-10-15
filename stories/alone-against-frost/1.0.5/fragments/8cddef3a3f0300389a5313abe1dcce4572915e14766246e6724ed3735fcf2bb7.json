@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "76"
+  ],
+  "text": [
+    "这次冲击让你确信，理智的选择是尽快离开荒野。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 76",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 76",
+      "text": [
+        "The shock convinces you that the sane thing to do is to get out of the wilderness as quickly as possible."
+      ]
+    }
+  }
+}

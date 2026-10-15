@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "428",
+    "frost-auto-428"
+  ],
+  "text": [
+    "你的目光掠过夜宿的石英伟晶岩平台时，发现有东西在闪光。你用刀刮下矿脉里的一小块矿物，似乎是黄金！",
+    "你尽可能画下详尽的地图，然后继续前进。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 428",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 428",
+      "text": [
+        "As your glance passes over the ledge of quartz pegmatite where you spent the night, you spot something that glitters. You take your knife and scratch out a bit of the mineral deposited in the vein. It seems to be gold!",
+        "You scratch out the best map you can before moving on."
+      ]
+    }
+  }
+}

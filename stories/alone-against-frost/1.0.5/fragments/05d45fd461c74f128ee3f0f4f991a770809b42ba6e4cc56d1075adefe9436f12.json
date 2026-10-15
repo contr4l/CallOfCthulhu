@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "607"
+  ],
+  "text": [
+    "附近生长着许多植物，但你对古植物学了解不足，无法挑选能证明发现的样本。",
+    "据称已经灭绝的动物标本可以为你在家乡的同事提供可靠证据。但若留在这座奇异山谷，你可能会让学生陷入严重危险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 607",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 607",
+      "text": [
+        "Although many varieties of plants grow near at hand, your knowledge of paleobotany is too meager to allow you to select samples as proof of discovery.",
+        "A trophy of a supposedly extinct animal would offer reliable proof to your colleagues at home. But you might subject your students to grave hazard if you remain in this fantastic valley."
+      ]
+    }
+  }
+}

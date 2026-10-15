@@ -1,0 +1,18 @@
+{
+  "id": "6",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "6:p0",
+      "kind": "heading",
+      "text": "     #6 - Pighead’s farm\n",
+      "sourceLocation": "pdf:spans:[[79,907,932]]"
+    },
+    {
+      "id": "6:p1",
+      "kind": "body",
+      "text": "You explore Pighead’s farm. You\nfind 1 large knife, 1 rope, 3 Food\npoints, and 1 shotgun (but no\nshotgun shells). Pighead has also\na collection of human victims (Save\nvs. L2 Fear 2 or lose 1 Sanity).\nYou find a little girl chained to a\nwall. Her eyes are blank and you\nshudder at the thought of the\nhorrors she must have\nexperienced.\nWhy didn’t the maniac feed her to\nhis demonic pigs? And why did\nPighead draw a rough pentacle\nwith blood on the floor around\nher?  You try to talk to the girl but\nshe won’t respond. You may free\nher by going to unique event #8\nor leave her to her fate. This\nhowever will cause you to\nautomatically lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[79,932,964],[79,964,999],[79,999,1029],[79,1029,1063],[79,1063,1099],[79,1099,1132],[79,1132,1168],[79,1168,1201],[79,1201,1231],[79,1231,1253],[79,1253,1266],[79,1266,1300],[79,1300,1330],[79,1330,1360],[79,1360,1391],[79,1391,1429],[79,1429,1461],[79,1461,1493],[79,1493,1524],[79,1524,1550],[79,1550,1579]]"
+    }
+  ]
+}

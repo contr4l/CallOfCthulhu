@@ -30,7 +30,7 @@ def extract(source,graph_path):
     def finish():
         nonlocal paragraph
         if paragraph:
-            rows=nodes[current]['paragraphs']; rows.append({'id':f'{current}:p{len(rows)}','kind':paragraph.get('kind','body'),'text':paragraph['text'],'sourceLocation':'pdf:visual:'+json.dumps([[v[0],v[1]] for v in paragraph['spans']],separators=(',',':'))})
+            rows=nodes[current]['paragraphs']; rows.append({'id':f'{current}:p{len(rows)}','kind':'body','text':paragraph['text'],'sourceLocation':'pdf:visual:'+json.dumps([[v[0],v[1]] for v in paragraph['spans']],separators=(',',':'))})
         paragraph=None
     def supp(text,span,section):
         supplements.append({'kind':'p','section':section,'text':text,'sourceLocation':'pdf:visual:'+json.dumps([[span[0],span[1]]],separators=(',',':'))})
@@ -55,6 +55,13 @@ def extract(source,graph_path):
                     if current in nodes: raise ValueError(f'duplicate entry {current}')
                     nodes[current]={'id':current,'document':source.name,'paragraphs':[{'id':current+':p0','kind':'heading','text':stripped,'sourceLocation':'pdf:visual:'+json.dumps([[span[0],span[1]]],separators=(',',':'))}]}
                     continue
+                # Page numbers are page-furniture only when the visible glyph string agrees with
+                # the printed-page ledger and the centered bottom geometry. Numeric story content
+                # elsewhere (including tables and narrow columns) remains in its source entry.
+                printed_page=str(pi-1) if 3<=pi<=121 else None
+                if (printed_page is not None and r['top']>=725 and r['fontSize']>=12
+                    and 285<=r['x0']<=325 and stripped==printed_page):
+                    supp(stripped,span,'page-furniture');continue
                 # Running header/footer, watermark and outside-column labels are supplements, never discarded.
                 if r['column']==2 or r['top']<65 or r['top']>744 or not stripped or (r['x0']<56):
                     supp(t,span,'page-wrapper-or-artwork-label');continue
@@ -114,17 +121,31 @@ def verify(source,graph_path):
             if not loc.startswith('pdf:visual:'): continue
             coords=json.loads(loc.removeprefix('pdf:visual:')); line_text=[]
             for pg,li in coords:
-                canonical=pages[pg-1]['canonicalLines'][li]['text'];uses[(pg,li)].append(row.get('id','supplement'));line_text.append(canonical)
+                canonical=pages[pg-1]['canonicalLines'][li]['text'];uses[(pg,li)].append({'id':row.get('id','supplement'),'nodeId':node_id,'section':row.get('section')});line_text.append(canonical)
             if row['text']!='\n'.join(line_text): raise ValueError('visual canonical source mismatch: '+row['id'])
+    footer_candidates=[]
     for pi,page in enumerate(pages,1):
         if sha(('\n'.join(x['text'] for x in page['canonicalLines'])).encode())!=page['canonicalTextSha256']: raise ValueError(f'canonical text hash mismatch page {pi}')
         missing=[i for i in range(len(page['canonicalLines'])) if (pi,i) not in uses]
         duplicate=[i for i in range(len(page['canonicalLines'])) if len(uses[(pi,i)])!=1]
         if missing or duplicate: raise ValueError(f'canonical glyph-line coverage failed page {pi}: missing={missing[:5]} duplicate={duplicate[:5]}')
+        printed=page.get('printedPage')
+        for li,line in enumerate(page['canonicalLines']):
+            x0,y0,x1,y1=line['bbox']; candidate=(printed is not None and y0>=725 and line['fontSize']>=12 and 285<=x0<=325 and line['text'].strip()==str(printed))
+            if candidate:
+                ref=uses[(pi,li)][0]
+                if ref['nodeId'] is not None or ref.get('section')!='page-furniture': raise ValueError(f'printed page number not classified as page-furniture: PDF p.{pi}')
+                footer_candidates.append(pi)
+    audit=metadata.get('pageFooterAudit',{})
+    if audit.get('matchedCount')!=len(footer_candidates) or audit.get('pdfPages')!=footer_candidates: raise ValueError('page footer audit does not match canonical geometry')
     for asset in metadata['assets']:
         p=(graph_path.parent/asset['path']).resolve()
         if not p.is_relative_to(graph_path.parent.resolve()) or sha(p.read_bytes())!=asset['sha256']: raise ValueError('image asset integrity mismatch')
-    return {'entries':len(g['nodes']),'sourceSha256Verified':True,'pdfPages':len(pages),'canonicalLineCoverage':'complete','assets':len(metadata['assets'])}
+    for ocr in metadata.get('ocrPages',[]):
+        p=(graph_path.parent/ocr['path']).resolve()
+        if not p.is_relative_to(graph_path.parent.resolve()) or sha(p.read_bytes())!=ocr['sha256']: raise ValueError('OCR asset integrity mismatch')
+        if json.loads(p.read_text()).get('sourcePdfSha256')!=g['source']['sha256']: raise ValueError('OCR belongs to a different source PDF')
+    return {'entries':len(g['nodes']),'sourceSha256Verified':True,'pdfPages':len(pages),'canonicalLineCoverage':'complete','assets':len(metadata['assets']),'ocrPages':len(metadata.get('ocrPages',[])),'pageFooters':len(footer_candidates)}
 
 if __name__=='__main__':
     ap=argparse.ArgumentParser();ap.add_argument('command',choices=['extract','verify']);ap.add_argument('source');ap.add_argument('graph');a=ap.parse_args()

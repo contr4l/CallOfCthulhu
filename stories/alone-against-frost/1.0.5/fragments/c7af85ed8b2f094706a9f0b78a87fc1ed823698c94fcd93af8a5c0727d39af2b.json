@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "595"
+  ],
+  "text": [
+    "艰难跋涉一天后，你和诺曼提高警惕，留意山谷中的危险和奇异之处；夜里你们在花岗岩岩棚下生火过夜，燃料是树枝和松针。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 595",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 595",
+      "text": [
+        "After a hard day’s trek, alert for the dangers and oddities of the valley, you and Norman withdraw for the night under a granite overhang and light a fire of twigs and pine needles."
+      ]
+    }
+  }
+}

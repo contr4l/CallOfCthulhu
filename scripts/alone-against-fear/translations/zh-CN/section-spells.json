@@ -1,0 +1,17 @@
+{
+  "id": "section-spells",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "7c6648fea5cfab03608cc8115d064c72f71dca7b2a347d60fc3177e0eadabd18",
+  "paragraphs": [
+    {
+      "id": "section-spells:p0",
+      "text": "法术"
+    },
+    {
+      "id": "section-spells:p1",
+      "text": "一般而言，法术属于奥术技能，可从书籍或图书馆中找到，也可能由友善的女巫传授。有些法术需要进行魔法检定。例如，某法术可能要求进行L3魔法检定，也就是掷出D6并得到3+，才能成功完成仪式。拥有神秘学者技能时，魔法检定+1；拥有专家级神秘学者技能时，检定+2。"
+    }
+  ],
+  "notes": []
+}

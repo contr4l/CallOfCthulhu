@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "366"
+  ],
+  "text": [
+    "你朝这个新物种猛烈开火。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 366",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 366",
+      "text": [
+        "You blaze away at this new species."
+      ]
+    }
+  }
+}

@@ -8,12 +8,12 @@ import tempfile
 from pathlib import Path
 from pack import pack_story, unpack
 from txt_graph import extract, verify
+from pdf_resources import verify_resources
 
 HERE = Path(__file__).resolve().parent
 PDF_ADAPTERS = {
     "alone-against-tide": "pdf_tide.py",
     "alone-against-frost": "pdf_frost.py",
-    "alone-against-dark": "extract_dark.py",
     "alone-against-fear": "fear_pdf.py",
 }
 
@@ -23,7 +23,13 @@ def run_pdf_adapter(story_id, operation, source, graph):
     adapter = PDF_ADAPTERS.get(story_id)
     if adapter is None:
         raise ValueError(f"尚无已检查的 PDF 来源适配器：{story_id}")
-    subprocess.run([pdf_python(), str(HERE / adapter), operation, str(source), str(graph)], check=True)
+    result = subprocess.run([pdf_python(), str(HERE / adapter), operation, str(source), str(graph)], capture_output=True, text=True)
+    if result.returncode:
+        sys.stderr.write(result.stderr)
+        result.check_returncode()
+    report = json.loads(result.stdout)
+    report.update(verify_resources(graph))
+    print(json.dumps(report, ensure_ascii=False))
 
 
 def pdf_python():
@@ -51,7 +57,7 @@ def main():
     pdf = commands.add_parser("extract-pdf-tide", help="按《潮汐独行》已检查的PDF版面提取原文，不发布")
     pdf.add_argument("source", type=Path)
     pdf.add_argument("--output", type=Path, required=True)
-    for story_id in ("alone-against-frost", "alone-against-dark", "alone-against-fear"):
+    for story_id in ("alone-against-frost", "alone-against-fear"):
         command = commands.add_parser("extract-pdf-" + story_id.removeprefix("alone-against-"),
                                       help="按该作品的专用 PDF 版面提取来源；不编译或发布")
         command.add_argument("source", type=Path)
@@ -62,6 +68,15 @@ def main():
     tide = commands.add_parser("compile-tide", help="离线编译已核对的潮汐独行规则及双语片段")
     tide.add_argument("--output", type=Path, required=True)
     tide.add_argument("--version", default="1.0.1")
+    frost = commands.add_parser("compile-frost", help="编译冰霜审校候选；完整验收前不发布")
+    frost.add_argument("--output", type=Path, required=True)
+    frost.add_argument("--version", help="候选内容版本；省略时沿用作品编译器的候选版本")
+    frost.add_argument("--review", type=Path, default=HERE.parents[1] / "scripts/alone-against-frost/review/runtime-program-001-654.json")
+    frost.add_argument("--translations", type=Path, default=HERE.parents[1] / "scripts/alone-against-frost/translations/zh-CN")
+    fear = commands.add_parser("compile-fear", help="校验恐惧的独立D6规则定义并构建审校候选")
+    fear.add_argument("--definition", type=Path, required=True)
+    fear.add_argument("--template", type=Path, required=True)
+    fear.add_argument("--output", type=Path, required=True)
     package = commands.add_parser("pack", help="将已审校规则包及语言包拆为精简图和正文片段")
     package.add_argument("reviewed", type=Path)
     package.add_argument("--output", type=Path, required=True)
@@ -82,6 +97,10 @@ def main():
         subprocess.run([pdf_python(), str(HERE / "ocr_tide.py"), str(args.source), str(args.output)], check=True)
     elif args.command == "compile-tide":
         subprocess.run([sys.executable, str(HERE / "build_tide.py"), "--output", str(args.output.resolve()), "--version", args.version], cwd=HERE.parents[1], check=True)
+    elif args.command == "compile-frost":
+        subprocess.run([sys.executable, str(HERE / "build_frost.py"), "compile", "--review", str(args.review.resolve()), "--translations", str(args.translations.resolve()), "--output", str(args.output.resolve()), *(["--version", args.version] if args.version else [])], cwd=HERE.parents[1], check=True)
+    elif args.command == "compile-fear":
+        subprocess.run([sys.executable, str(HERE / "build_fear.py"), "build", str(args.definition.resolve()), str(args.template.resolve()), str(args.output.resolve())], cwd=HERE.parents[1], check=True)
     elif args.command == "pack":
         story = unpack(args.reviewed)
         # Invalid or unreviewed rules never reach the requested publish folder.

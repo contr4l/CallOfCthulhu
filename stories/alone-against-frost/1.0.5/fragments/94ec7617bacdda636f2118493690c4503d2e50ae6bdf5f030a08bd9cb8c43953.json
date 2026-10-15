@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "31"
+  ],
+  "text": [
+    "雨停后，你把学生们召集到洞口，简短地发表了一番鼓舞人心的讲话。队员们各自提出接下来的行动建议。查理和伯纳德强调，可以把这个避风的洞穴作为基地，探索周边环境；西尔维娅和诺曼则希望继续前进。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 31",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 31",
+      "text": [
+        "Once the rain stops, you gather the students in the cave mouth and make a short inspirational speech to raise their spirits. Your party offers suggestions about the best way to proceed. Charlie and Bernard emphasize the advantages of the sheltered cave as a base to explore the local environment; Sylvia and Norman would like to keep moving."
+      ]
+    }
+  }
+}

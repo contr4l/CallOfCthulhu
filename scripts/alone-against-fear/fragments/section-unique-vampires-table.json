@@ -1,0 +1,51 @@
+{
+  "id": "section-unique-vampires-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-unique-vampires-table:p0",
+      "kind": "heading",
+      "text": "Unique Vampires table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[70,22,54]]"
+    },
+    {
+      "id": "section-unique-vampires-table:p1",
+      "kind": "body",
+      "text": "1\nUpyr. L5 Undead, vampire, 8 Life, damage 1. When you encounter the\nUpyr, d6 Food points that you carry will rot. If more Food will rot than\nyou carry, Save vs. L5 disease (add +1 if you have the Resilient Skill, +2 if\nat expert level). If you fail, you must save again on every box until you\nreach a Safe House, where the disease stops. Vulnerable to holy symbols.\nLoot: 1 random item.\n",
+      "sourceLocation": "pdf:spans:[[70,54,56],[70,56,123],[70,123,196],[70,196,274],[70,274,348],[70,348,421],[70,421,442]]"
+    },
+    {
+      "id": "section-unique-vampires-table:p2",
+      "kind": "body",
+      "text": "2\nWurdalak. L5 Undead, vampire, 8 Life, damage 1. There is a 3 in 6 chance\nthat this shapeshifting vampire will be in wolf form when encountered.\nIn wolf form, its damage is 2 and you have -1 on any Escape roll.\nVulnerable to holy symbols.  Loot: 1 random item.\n",
+      "sourceLocation": "pdf:spans:[[70,442,444],[70,444,517],[70,517,588],[70,588,654],[70,654,704]]"
+    },
+    {
+      "id": "section-unique-vampires-table:p3",
+      "kind": "body",
+      "text": "3\nKempir. L6 Undead, vampire, 6 Life, damage 1. Every time she attacks,\nroll a 4 in 6 chance that she tries to suck blood from your knees. In this\ncase, you defend at +2 but if you are hit, you automatically receive the\nLimping injury until you heal ALL damage (see the Injury table).\nVulnerable to holy symbols. Loot: 1 rope.\n",
+      "sourceLocation": "pdf:spans:[[70,704,706],[70,706,776],[70,776,851],[70,851,924],[70,924,989],[70,989,1031]]"
+    },
+    {
+      "id": "section-unique-vampires-table:p4",
+      "kind": "body",
+      "text": "4\nVehn. L6 Undead, vampire, 5 Life, damage 1. If you roll a 1 on any Defense\nroll, the Vehn tears away one large slice of your skin, giving you a -1 on\nCharisma rolls. The modifier remains until you heal all damage. The Vehn\ntakes 3 damage (not 2) from holy water.\n",
+      "sourceLocation": "pdf:spans:[[70,1031,1033],[70,1033,1108],[70,1108,1183],[70,1183,1256],[70,1256,1296]]"
+    },
+    {
+      "id": "section-unique-vampires-table:p5",
+      "kind": "body",
+      "text": "5\nVetala. L4 Undead, vampire, 6 Life, damage 1. The Vetala can foretell the\nfuture: if you offer 6 Food (or 2 Life points in your blood) and pass a L5\nCharisma roll, you may use the equivalent of one use of the Foretell\nArcane Skill and the Vetala will let you move through her area. If you fail\nor do not attempt this, you must fight. The Vetala recovers 1 Life every\ntime she damages you, up to her maximum Life. Loot: 2 random items.\n",
+      "sourceLocation": "pdf:spans:[[70,1296,1298],[70,1298,1372],[70,1372,1447],[70,1447,1516],[70,1516,1592],[70,1592,1665],[70,1665,1733]]"
+    },
+    {
+      "id": "section-unique-vampires-table:p6",
+      "kind": "body",
+      "text": "6\nThe Midnight Man. L6 Undead, vampire, 8 Life, damage 2. 4 in 6 chance\nof surprise. If this dark-clad predator surprises you, he grabs your arms.\nYou may not attack until you perform a L6 Strength roll. Roll at +1 if you\nhave the Strong Skill, +2 if you have Strong (Expert). Until you are held,\nyou take automatic damage every turn.\nThese encounters will happen only once per game. Reroll if you encounter again\na vampire that you destroyed.  Vampires are vulnerable to holy water, taking\n2 damage from a vial. In addition, they all use rules for a vampire returning\nfrom the dead (see vampire in the Undead table, p.60).",
+      "sourceLocation": "pdf:spans:[[70,1733,1735],[70,1735,1805],[70,1805,1880],[70,1880,1955],[70,1955,2030],[70,2030,2068],[70,2068,2147],[70,2147,2224],[70,2224,2302],[70,2302,2356]]"
+    }
+  ],
+  "sourcePages": [
+    70
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "255"
+  ],
+  "text": [
+    "老妇人凑近你，凝视着你的双眼。“你的躯壳适合容纳我的本质。孩子们，准备好这具躯壳。”",
+    "灰色小战士把你的手腕和脚踝绑在地上的木桩上。其中一人逼你喝下一只陶杯里的酒液。你顿时感到飘飘然，仿佛陷入迷醉，对周围那些举着粗制火把、喋喋不休并吟唱的人毫不在意。",
+    "老妇人费力地在你头后跪下，把如爪的手指按在你的太阳穴上，大声祈祷：“伊亚，奈亚拉托提普！伊亚，雷巴托斯！伊亚，伊塔库亚！N’ehye n’grkudlu’lh！”",
+    "突然间，你无忧无虑的心情烟消云散。女祭司的心灵像污秽的利爪，在你的头骨里攀爬，企图侵入并取代你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 255",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 255",
+      "text": [
+        "The crone leans close, gazing deep into your eyes. “You are a suitable shell for my essence. Prepare her, my children.”",
+        "The little gray warriors bind your wrists and ankles to stakes in the earth. One of them forces you to drink from a clay beaker. The liquor makes you feel light, entranced. You are unconcerned about the people around you, holding crude tapers, chattering, and chanting.",
+        "Grunting with the effort, the old woman kneels behind your head. She places her claw-like fingers on your temples and prays loudly. “Iä Nyarlathotep! Iä Rebathoth! Iä Ithaqua! N’ehye n’grkudlu’lh!”",
+        "Suddenly your carefree mood evaporates. The priestess’s psyche feels like a foul, clawing thing inside your skull. It intends to infiltrate and replace you."
+      ]
+    }
+  }
+}

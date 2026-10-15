@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "635"
+  ],
+  "text": [
+    "你、诺曼和西尔维娅把伯纳德抬到林间空地的庇护处，试图让他暖和起来，却毫无用处。他陷入昏迷，黄昏时死亡。",
+    "那晚你几乎没睡。剩下的同伴在睡袋里辗转反侧。天刚亮，你们便在空地埋葬伯纳德。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 635",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 635",
+      "text": [
+        "You, Norman, and Sylvia carry Bernard to the shelter of the glade and try to warm him up. It does no good. He enters a coma and dies at dusk.",
+        "You get very little sleep that night. Your remaining companions turn, restless in their bedrolls. At first light, you bury Bernard in the glade."
+      ]
+    }
+  }
+}

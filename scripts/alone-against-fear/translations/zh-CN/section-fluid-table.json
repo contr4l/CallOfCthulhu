@@ -1,0 +1,33 @@
+{
+  "id": "section-fluid-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "7cd907a339d6a8bf7b5b9b295f68d1929d9cb5f4cdf5eb8c6c22e8f3e735f14a",
+  "paragraphs": [
+    {
+      "id": "section-fluid-table:p0",
+      "text": "液体表（D6）"
+    },
+    {
+      "id": "section-fluid-table:p1",
+      "text": "1\n液体引发强烈过敏反应。损失1点生命。进行L3毒素防御检定；失败则每次移动到新区域时额外损失1点生命。成功通过检定后，过敏反应立即结束，不再受到伤害。\n2 液体对你没有影响。"
+    },
+    {
+      "id": "section-fluid-table:p2",
+      "text": "3\n液体赋予你超自然反射。接下来3次遭遇中，所有防御检定+1，并无视怪物突袭；效果随后结束。"
+    },
+    {
+      "id": "section-fluid-table:p3",
+      "text": "4\n液体赋予你超人力量。所有近战攻击额外造成1点伤害。经过接下来3场战斗后，效果消退。"
+    },
+    {
+      "id": "section-fluid-table:p4",
+      "text": "5\n液体治愈你受到的所有伤害，使生命恢复至上限。"
+    },
+    {
+      "id": "section-fluid-table:p5",
+      "text": "6\n液体赋予你精准瞄准能力。接下来3场战斗中，远程武器命中检定+1。"
+    }
+  ],
+  "notes": []
+}

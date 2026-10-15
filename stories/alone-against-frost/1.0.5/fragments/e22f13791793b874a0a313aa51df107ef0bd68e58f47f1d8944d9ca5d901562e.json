@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "602"
+  ],
+  "text": [
+    "你宣布计划时，查理像看疯子一样看着你，并挺直身子。",
+    "“回到那片邪恶之地太愚蠢了。我不去！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 602",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 602",
+      "text": [
+        "When you announce your plan, Charlie looks at you like you have lost your mind. She draws herself up.",
+        "“It is foolish to return to that evil place. I will not go!”"
+      ]
+    }
+  }
+}

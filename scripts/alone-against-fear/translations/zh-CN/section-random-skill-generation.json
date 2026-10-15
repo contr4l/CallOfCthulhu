@@ -1,0 +1,65 @@
+{
+  "id": "section-random-skill-generation",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "a6e4df0de892a360719fdad7ed862844cc07a71037c794dd3be70a72cc55cae0",
+  "paragraphs": [
+    {
+      "id": "section-random-skill-generation:p0",
+      "text": "随机初始技能表1（D6）"
+    },
+    {
+      "id": "section-random-skill-generation:p1",
+      "text": "1 敏捷\n2 弓术\n3 魅力\n4 危险感知\n5 闪避或意志（二选一）\n6 信仰或意志（二选一）"
+    },
+    {
+      "id": "section-random-skill-generation:p2",
+      "text": "随机初始技能表2（D6）"
+    },
+    {
+      "id": "section-random-skill-generation:p3",
+      "text": "1 战士\n2 神射手\n3 调查员\n4 医护员\n5 神秘学者\n6 坚韧或吸血鬼猎人（二选一）"
+    },
+    {
+      "id": "section-random-skill-generation:p4",
+      "text": "随机初始技能表3（D6）"
+    },
+    {
+      "id": "section-random-skill-generation:p5",
+      "text": "1 耐饥\n2 坚守现实\n3 滑溜\n4 潜行\n5 强壮\n6 强健或僵尸猎人（二选一）"
+    },
+    {
+      "id": "section-random-skill-generation:p6",
+      "text": "随机生成初始技能"
+    },
+    {
+      "id": "section-random-skill-generation:p7",
+      "text": "若不想自行选择技能，也可以随机生成角色技能。每项技能掷一次D6：1–2掷表1，3–4掷表2，5–6掷表3；然后掷相应的技能表。\n\n负重摘要\n每只手可拿1件物品，或用双手拿1件双手武器；此外还可携带："
+    },
+    {
+      "id": "section-random-skill-generation:p8",
+      "text": "● 10件物品；"
+    },
+    {
+      "id": "section-random-skill-generation:p9",
+      "text": "● 10点食物。额外食物每点算作1件物品。"
+    },
+    {
+      "id": "section-random-skill-generation:p10",
+      "text": "● 任意数量的重量可忽略物品；"
+    },
+    {
+      "id": "section-random-skill-generation:p11",
+      "text": "● 强壮技能+3件携带物品，专家级强壮+5件；"
+    },
+    {
+      "id": "section-random-skill-generation:p12",
+      "text": "● 若有背包，再加5件物品。若背包被偷或损毁，除手中物品外，携带物品全部失去。\n姓名 经验 理智 生命"
+    },
+    {
+      "id": "section-random-skill-generation:p13",
+      "text": "3\n线索\n装备\n奥术技能\n食物\n已读书籍"
+    }
+  ],
+  "notes": []
+}

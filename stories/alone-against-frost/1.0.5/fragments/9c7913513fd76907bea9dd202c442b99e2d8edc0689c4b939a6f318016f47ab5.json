@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "164",
+    "frost-auto-164"
+  ],
+  "text": [
+    "“你疯了！”向导喊道。她举起武器，目光危险地盯着你。“那你就留下吧！等死吧。”",
+    "她退向河边。你等了几分钟，随后跟上去。如果你原本还有能用的独木舟，它已经被她带走了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 164",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 164",
+      "text": [
+        "“You are mad!” your guide cries. She raises her weapon, watching you with dangerous eyes. “Stay then! And die.”",
+        "She backs off toward the river. You give her a few minutes and then follow. If you still had a serviceable canoe, it has gone with her."
+      ]
+    }
+  }
+}

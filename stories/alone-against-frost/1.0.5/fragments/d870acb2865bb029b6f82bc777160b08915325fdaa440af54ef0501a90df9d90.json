@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "205"
+  ],
+  "text": [
+    "他没有脚，只有发黑的野兽蹄子！他已不再是人，而是披着人形外壳的恐怖怪物。必须在它吞噬你们之前将其消灭。",
+    "你想起听过的风行者传说。要杀死这种野兽，必须融化它冰冷的心脏。你悄悄回到火边，抓起一根烧得通红的木棍，再蹑手蹑脚走回怪物身边。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 205",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 205",
+      "text": [
+        "He has no feet, only blackened, bestial hooves! He is no longer human, but a horror masquerading in a human body. He must be destroyed before he consumes the rest of you.",
+        "You remember the legends that you have heard about the wind-walker. To kill such a beast, its icy heart must be melted. You steal back to the fire, grab a stiff, burning brand, and creep back to the monster."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "97",
+    "frost-auto-97"
+  ],
+  "text": [
+    "你让脸色苍白的诺曼和西尔维娅把尸体抬到火边。你检查尸体，尤其仔细查看他的双脚。双脚几乎被暴露在外的环境摧毁：泛紫、流血，甚至像是被烧伤了？你无法理解，他怎么可能靠这样的脚走路。",
+    "前往 105。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 97",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 97",
+      "text": [
+        "You get an ashen-faced Norman and Sylvia to carry the body to the fire. You examine it, particularly the feet. They are almost destroyed by exposure: purple-tinged, bleeding, and—burnt? It is beyond you how he could have walked on them.",
+        "Go to 105."
+      ]
+    }
+  }
+}

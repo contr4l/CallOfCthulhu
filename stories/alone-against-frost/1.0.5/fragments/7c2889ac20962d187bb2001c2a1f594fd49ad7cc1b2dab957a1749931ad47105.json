@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "43"
+  ],
+  "text": [
+    "你和其他人匆忙收拾装备，把它们和伯纳德一起放进独木舟。查理急切地发动马达，烧掉大量燃料，只想尽快逃离这片闹鬼的河岸。所有人都盯着令人畏惧的刽子手峡谷河岸，没有人注意到伯纳德的身体开始抽动——直到一切都来不及了。",
+    "诺曼大叫起来。受创的年轻人猛扑向他，用指甲乱抓，用牙齿撕咬，像野兽般嚎叫。他发狂似的挣扎，眼看就要把独木舟掀翻！",
+    "你、查理和西尔维娅一起抓住伯纳德。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 43",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 43",
+      "text": [
+        "You and the others gather your gear in haste and place it in the canoe with Bernard. Charlie revs up the motor, burning an extravagant amount of fuel in her eagerness to get away from the haunted shore. With all eyes fixed on the forbidding banks of Headsman’s Glen, no one sees Bernard’s body quicken— until it is too late.",
+        "Norman yells as the stricken youth springs at him, clawing with his nails, snapping with his teeth, howling like an animal. His lunatic struggle threatens to capsize the canoe!",
+        "You, Charlie, and Sylvia grab at Bernard together."
+      ]
+    }
+  }
+}

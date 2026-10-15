@@ -1,0 +1,17 @@
+{
+  "id": "section-vulnerabilities",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "aaded2ec81210903c56c22f4aa48e69700049285bb3d35fa597ec448a8e9349c",
+  "paragraphs": [
+    {
+      "id": "section-vulnerabilities:p0",
+      "text": "弱点"
+    },
+    {
+      "id": "section-vulnerabilities:p1",
+      "text": "怪物若对某种物质具有弱点，接触该物质后失去2点生命。除非怪物描述另有说明，此效果自动生效。使用触发其弱点的物品或物质需要消耗1个行动。例如，某些不死生物和恶魔怕圣水；消耗1个行动并使用1瓶圣水，即可对目标造成2点伤害。"
+    }
+  ],
+  "notes": []
+}

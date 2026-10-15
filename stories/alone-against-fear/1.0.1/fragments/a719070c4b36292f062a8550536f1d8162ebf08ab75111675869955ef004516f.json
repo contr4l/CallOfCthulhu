@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "27"
+  ],
+  "text": [
+    "The kid walks into a dark alley, a\nfew steps from you, and does not\nreturn. You either ignore his\ndisappearance (lose 1 Sanity if you\ndo so) or go after him (go to event\n#30)."
+  ],
+  "reading": {
+    "en": {
+      "title": "27 - The kid gets in trouble",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "27 - 孩子遇险",
+      "text": [
+        "孩子走进离你几步远的一条黑暗小巷，之后没有回来。你可以不理会他的失踪（如此做会失去1点理智），也可以跟上去（前往事件#30）。"
+      ]
+    }
+  }
+}

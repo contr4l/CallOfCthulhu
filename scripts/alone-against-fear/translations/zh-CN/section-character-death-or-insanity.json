@@ -1,0 +1,17 @@
+{
+  "id": "section-character-death-or-insanity",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "cc029171f70f6e383a29a740a176c8cf3d1e14a9085395ba3ed55228d5cac029",
+  "paragraphs": [
+    {
+      "id": "section-character-death-or-insanity:p0",
+      "text": "角色死亡或疯狂"
+    },
+    {
+      "id": "section-character-death-or-insanity:p1",
+      "text": "若角色死亡（生命降至0）或陷入疯狂（理智降至0），你就输掉游戏，必须创建新角色重新开始。不要因此气馁——获胜需要运气和审慎决策兼备。"
+    }
+  ],
+  "notes": []
+}

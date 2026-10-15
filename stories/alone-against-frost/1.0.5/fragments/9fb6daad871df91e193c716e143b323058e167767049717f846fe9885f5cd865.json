@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "63"
+  ],
+  "text": [
+    "你很快就证实了自己的猜想：成千上万的物种在这座巨大的箱形峡谷中存活下来，数千年来没有发生变化。这里有奇异的灌木和花朵，还有一些野兽，它们在外界的祖先如今只生活在非洲或亚洲——骆驼、犀牛和大象。",
+    "你几乎不敢相信这一切。米斯卡托尼克大学的同僚们肯定也不会相信，除非你能带回确凿的实物证据。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 63",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 63",
+      "text": [
+        "It does not take much time to confirm your hypothesis that thousands of species survive unchanged in this gigantic box canyon. There are weird shrubs and flowers, and beasts whose outer-world ancestors live only in Africa or Asia—camels, rhinos, and elephants.",
+        "You can hardly believe it. Your Miskatonic colleagues will certainly not believe it without conclusive physical evidence."
+      ]
+    }
+  }
+}

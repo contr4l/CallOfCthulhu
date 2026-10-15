@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "287",
+    "frost-auto-287"
+  ],
+  "text": [
+    "你和学生们走出来查看屠杀现场。恐狼的头颅虽然沉重，却足以成为你们发现的有力证据。西尔维娅开始处理它，以便带回文明世界。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 287",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 287",
+      "text": [
+        "You emerge with your students to survey the slaughter. Although heavy, a dire wolf’s head would be convincing proof of your discoveries. Sylvia prepares it for transport back to civilization."
+      ]
+    }
+  }
+}

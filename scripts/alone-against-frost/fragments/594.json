@@ -17,18 +17,12 @@
     {
       "id": "594:p2",
       "kind": "body",
-      "text": "If you still have all your companions, go to 602.\nIf you have all three graduate students with you, but not Charlie, ",
-      "sourceLocation": "pdf:visual:[[100,60],[100,61]]"
+      "text": "If you still have all your companions, go to 602.\nIf you have all three graduate students with you, but not Charlie, \ngo to 158.\nIf you have Norman, Sylvia, and Charlie with you, go to 598.\nIf you have two companions, go to 324.\nIf you have one companion, go to 279.\nIf you are alone, go to 597.",
+      "sourceLocation": "pdf:visual:[[100,60],[100,61],[100,62],[100,63],[100,64],[100,65],[100,66]]"
     },
     {
       "id": "594:p3",
       "kind": "body",
-      "text": "go to 158.\nIf you have Norman, Sylvia, and Charlie with you, go to 598.\nIf you have two companions, go to 324.\nIf you have one companion, go to 279.\nIf you are alone, go to 597.",
-      "sourceLocation": "pdf:visual:[[100,62],[100,63],[100,64],[100,65],[100,66]]"
-    },
-    {
-      "id": "594:p4",
-      "kind": "trace",
       "text": "(513)",
       "sourceLocation": "pdf:visual:[[100,67]]"
     }

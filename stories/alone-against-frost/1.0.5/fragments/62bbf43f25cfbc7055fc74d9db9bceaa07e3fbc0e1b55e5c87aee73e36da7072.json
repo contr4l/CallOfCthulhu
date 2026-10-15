@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "109"
+  ],
+  "text": [
+    "进行导航检定：成功则前往142；失败则前往48。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 109",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 109",
+      "text": [
+        "Make a Navigate roll; if you succeed, go to 142; if you fail, go to 48."
+      ]
+    }
+  }
+}

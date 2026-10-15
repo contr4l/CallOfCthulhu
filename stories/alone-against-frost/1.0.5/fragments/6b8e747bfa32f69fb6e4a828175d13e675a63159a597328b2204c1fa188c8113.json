@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "85"
+  ],
+  "text": [
+    "若要丢下伯纳德，和诺曼、西尔维娅一起逃走，前往 113。若要朝那些矮小男子开枪，前往 135。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 85",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 85",
+      "text": [
+        "To abandon Bernard and flee with Norman and Sylvia, go to 113. To shoot at the tiny men, go to 135."
+      ]
+    }
+  }
+}

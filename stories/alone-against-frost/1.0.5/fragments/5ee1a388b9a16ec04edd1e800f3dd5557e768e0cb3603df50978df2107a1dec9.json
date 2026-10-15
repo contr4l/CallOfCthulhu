@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "348"
+  ],
+  "text": [
+    "这些生物看起来像猿，但实际上与人类更为接近。你运用人类学训练安抚它们，避免可能发生的敌意。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 348",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 348",
+      "text": [
+        "Despite superficial appearances, these creatures are closer to humans than apes. You use your anthropological training to mollify them and avert potential hostility."
+      ]
+    }
+  }
+}

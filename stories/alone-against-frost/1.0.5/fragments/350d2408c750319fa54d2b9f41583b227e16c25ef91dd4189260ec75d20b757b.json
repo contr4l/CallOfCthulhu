@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "339"
+  ],
+  "text": [
+    "你颤抖的手臂让子弹偏离目标。风行者扑向你，把步枪撞飞到够不着的地方。它发出令人毛骨悚然的尖叫，随即袭来。你转身逃跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 339",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 339",
+      "text": [
+        "Your shaking arm spoils your shot. The wind-walker springs at you, knocking the rifle far out of reach. Then, with a blood- chilling shout, it attacks. You turn and flee."
+      ]
+    }
+  }
+}

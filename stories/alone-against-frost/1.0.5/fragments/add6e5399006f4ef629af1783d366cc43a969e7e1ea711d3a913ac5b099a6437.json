@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "154",
+    "frost-auto-154"
+  ],
+  "text": [
+    "但你现在顾不上这些。伯纳德需要帮助。",
+    "记录关键词 BAREFOOT。前往152。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 154",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 154",
+      "text": [
+        "But you cannot think of that now. Bernard needs your help.",
+        "Record the keyword BAREFOOT. Go to 152."
+      ]
+    }
+  }
+}

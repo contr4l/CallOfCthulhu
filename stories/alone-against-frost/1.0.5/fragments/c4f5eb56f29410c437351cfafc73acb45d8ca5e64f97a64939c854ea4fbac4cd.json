@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "385"
+  ],
+  "text": [
+    "你以糟糕的角度撞入水中，呛了一大口水。眼前一切变得模糊，你无法确定哪个方向才是水面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 385",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 385",
+      "text": [
+        "You hit the water at a bad angle and swallow a mouthful of it. Everything becomes murky. You cannot be sure which direction is up."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "12"
+  ],
+  "text": [
+    "You follow the shadows to spy on\nthem. Make a L5 Stealth roll. If you\nsucceed, you are not seen and you\nmay steal d6 Food point from the\nsewer people. If you fail, you are\ncaught in the act and the sewer\ndwelling sub-humans will try to kill\nyou.",
+    "d6+3 sewer people, L2, 1 Life,\ndamage 1. Loot: 6 Food points.\nYou may bribe your way out of this\nfight by succeeding an L5\nCharisma roll (roll at +1 if you have\nCharisma, and +2 if you have it at\nExpert level) and giving them all of\nyour Food, as long as you have at\nleast 1 Food point. If you give 6 or\nmore Food points, gain a +1\nmodifier to the Charisma roll."
+  ],
+  "reading": {
+    "en": {
+      "title": "12 - the sewer people",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "12 - 下水道居民",
+      "text": [
+        "你循着阴影跟踪他们，想暗中窥探。进行一次L5潜行检定。成功则不会被发现，可以从下水道居民那里偷走1D6点食物。失败则当场被抓，这些住在下水道的亚人会试图杀死你。",
+        "1D6+3名下水道居民：L2，每人1点生命，伤害1。战利品：6点食物。只要你至少有1点食物，就可以通过一次L5魅力检定贿赂他们，脱离战斗，并交出你所有的食物。拥有魅力技能时检定+1，专家级时+2。若交出6点或更多食物，魅力检定额外+1。"
+      ]
+    }
+  }
+}

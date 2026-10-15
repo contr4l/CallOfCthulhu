@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "596"
+  ],
+  "text": [
+    "虽然四周昏暗，你的地质学训练仍让你注意到身后岩层中的闪光。一条六英寸宽的粗大石英晶脉沿岩壁蜿蜒，其中夹杂着颜色更深、质地不同的斑块。你叫诺曼过来确认判断。那是黄金。",
+    "如果你和诺曼能活着回到麦克唐纳堡，就能一辈子衣食无忧！你们尽可能绘制地图，继续朝文明世界前进。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 596",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 596",
+      "text": [
+        "Despite the gloom, your geological training registers a glitter in the seams of rock behind your back. A six-inch vein of large quartz crystals wavers along the rock face. Within the vein are patches of darker color and different texture. You call Norman over to confirm your identification. It’s gold.",
+        "If you can get back to Fort McDonald alive, you and Norman will be set up for life! You scratch together the best map you can and continue toward civilization."
+      ]
+    }
+  }
+}

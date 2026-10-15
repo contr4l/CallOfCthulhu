@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "415"
+  ],
+  "text": [
+    "你独自躺在岸边，是队伍中最后的幸存者。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 415",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 415",
+      "text": [
+        "You lie alone on the shore, the last survivor of your party."
+      ]
+    }
+  }
+}

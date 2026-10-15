@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "413"
+  ],
+  "text": [
+    "幸运的是，队伍发现一间废弃小屋，里面堆着锈迹斑斑但仍可食用的罐头。这个意外发现暂时解决了食物问题。小屋的建造者不知去向——多半是某位淘金者或猎人，最终没能躲过山谷中的危险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 413",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 413",
+      "text": [
+        "By a stroke of luck, your party stumbles upon an abandoned cabin stocked with rusty but edible tins of food. This happy discovery solves your food problem for the time being. There is no trace of the person who built the cabin—probably a prospector or hunter who fell victim to the hazards of the valley."
+      ]
+    }
+  }
+}

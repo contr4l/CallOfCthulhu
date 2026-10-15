@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "281"
+  ],
+  "text": [
+    "听见打斗声，伯纳德从灌木中冲出来，帮你用皮鞋带绑住那个矮小的男人。",
+    "后来在营地里，你仔细检查了他。他脸上的色素异常单一，仿佛血液不是红色。他的手臂比例比常人更长，手指像爪子。他戴着几件小饰物，你希望那是用动物骨头制成的。",
+    "你们尝试各种方式与小人沟通，都以失败告终。他十分孤僻，近乎出神。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 281",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 281",
+      "text": [
+        "Following the sounds of struggle, Bernard crashes out of the brush. He helps you bind the diminutive man with leather shoelaces.",
+        "Later, in camp, you examine the man thoroughly. The pigment in his face seems unnaturally monochromatic, as if his blood did not run red. His arms are proportionally longer than a normal man’s, with claw-like fingers. He wears a few small items of jewelry constructed from what you hope are animal bones.",
+        "Every attempt to communicate with the little man fails. He is withdrawn, almost entranced."
+      ]
+    }
+  }
+}

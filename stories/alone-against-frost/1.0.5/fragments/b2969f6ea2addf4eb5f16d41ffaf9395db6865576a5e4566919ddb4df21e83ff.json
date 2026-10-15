@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "337"
+  ],
+  "text": [
+    "你再也跑不动了，却感到风行者冰冷的吐息就在背后。它伸出手来，你感觉自己被抓住了！",
+    "你必须为性命而战。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 337",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 337",
+      "text": [
+        "You cannot run any farther, but you feel the cold breath of the wind-walker on your back. It reaches out. You feel its grasp. It has you!",
+        "You must fight for your life."
+      ]
+    }
+  }
+}

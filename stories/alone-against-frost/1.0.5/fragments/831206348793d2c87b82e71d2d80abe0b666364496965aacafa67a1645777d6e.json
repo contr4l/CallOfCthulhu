@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "405"
+  ],
+  "text": [
+    "一棵燃烧的树朝你倒下。你猛地扑开，险险避过。它砸在同伴身上。你担心最坏的情况发生，急忙爬过去。",
+    "西尔维娅的头骨被压碎了。她失去光彩的双眼已经说明一切。",
+    "另一边的诺曼还活着。你试图接近他，却被火焰逼退。透过热浪，你看见他的双腿被困在燃烧的树干下，一根树枝把他的肩膀钉在地上。他已无力获救。",
+    "他痛苦的目光找到你。“教授……你会不会给……死去的人……授予学位？”诺曼喘息着，咳出一口血。“我想要……优等……”他的头无力垂下，火焰吞噬了他的身体。",
+    "你擦掉眼泪，逃离这片火海。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 405",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 405",
+      "text": [
+        "A flaming tree topples toward you. You dive, avoiding its trajectory by inches. It crashes onto your companions. Fearing the worst, you scramble over.",
+        "Sylvia’s skull is crushed. Her sightless eyes tell you everything you need to know.",
+        "Norman is still alive on the other side. You try to reach him, but the flames drive you back. Through the heat haze, you see his legs are trapped beneath the blazing trunk and a branch has skewered his shoulder to the ground. There is no hope for him.",
+        "His agonized eyes find yours. “Do you award… posthumous… degrees, Professor?” Norman splutters and coughs up a mouthful of blood. “I’d like… a distinction...” His head lolls back and the flames take his body.",
+        "Wiping away tears, you flee from the inferno."
+      ]
+    }
+  }
+}

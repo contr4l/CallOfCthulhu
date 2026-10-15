@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "30"
+  ],
+  "text": [
+    "你上床休息，思绪仍被发现新物种一事搅得纷乱。或许你本该更重视向导的焦虑。到了早晨，查理和那具小小的尸体都不见了——独木舟也被她一并带走了。不过，她把属于你们小队的武器和补给留了下来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 30",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 30",
+      "text": [
+        "You turn in for the night, your thoughts racing with the discovery of a new species. Perhaps you should have taken your guide’s distress more seriously. In the morning Charlie and the small cadaver are gone—and with them the canoe. She has, however, left your group its share of the weapons and supplies."
+      ]
+    }
+  }
+}

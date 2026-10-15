@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "113"
+  ],
+  "text": [
+    "进行敏捷检定：成功则前往147；失败则前往146。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 113",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 113",
+      "text": [
+        "Make a DEX roll: if you succeed, go to 147; if you fail, go to 146."
+      ]
+    }
+  }
+}

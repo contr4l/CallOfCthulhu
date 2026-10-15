@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "624"
+  ],
+  "text": [
+    "你们三人追赶伯纳德。由于他脚踝受伤，你们很快超过了他。身后的猿人闻到你们恐惧的气味，开始追赶。它们体型庞大，却行动迅速。你必须利用地形摆脱它们。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 624",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 624",
+      "text": [
+        "The three of you bound after Bernard. Since he is hobbled, you quickly get ahead of him. The ape-men behind are incited by your scent of fear and run after you. Despite their size and bulk, they move swiftly. You will have to use the terrain against them."
+      ]
+    }
+  }
+}

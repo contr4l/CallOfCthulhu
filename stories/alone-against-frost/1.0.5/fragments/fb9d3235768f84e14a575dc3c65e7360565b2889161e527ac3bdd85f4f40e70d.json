@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "228",
+    "frost-auto-228"
+  ],
+  "text": [
+    "你较长的双腿轻而易举地追上了那个小个子。你伸手牢牢抓住他的手臂，把他从地上拽了起来。",
+    "那人瞬间不再惊慌，转而怒吼着向你扑来。职业道德要求你活捉他。",
+    "对手的格斗（斗殴）技能为50%（25/10），他只想把你打昏。他先行动，每次攻击造成1D3点伤害。你可以尝试闪避他的攻击。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 228",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 228",
+      "text": [
+        "Your longer legs decisively outstrip the tiny man. You reach out, clench him firmly around the arm, and yank him off his feet.",
+        "The man’s distress drops in an instant. He snarls and comes at you in a rage. Professional ethics require you to take him alive.",
+        "Your opponent’s Fighting (Brawl) skill is 50% (25/10) and he simply tries to pummel you into unconsciousness. He acts first and his blows deal 1D3 damage. You may attempt to Dodge against his attacks."
+      ]
+    }
+  }
+}

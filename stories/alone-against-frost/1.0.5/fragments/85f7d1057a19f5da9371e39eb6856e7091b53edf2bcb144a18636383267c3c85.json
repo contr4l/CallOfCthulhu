@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "178"
+  ],
+  "text": [
+    "传说风行者的双脚很奇怪。你让嫌疑人继续睡着。等你觉得他睡熟了，便悄悄靠近。要取得所需证据，你只需解开绷带检查他的脚，同时不要惊醒他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 178",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 178",
+      "text": [
+        "Legend says that the wind-walker has strange feet. You let the suspect sleep. When you think he is deep in slumber, you creep toward him. To get the proof you need, you must merely open the bandages and examine his feet, without waking him."
+      ]
+    }
+  }
+}

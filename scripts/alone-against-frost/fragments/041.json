@@ -41,12 +41,12 @@
     {
       "id": "41:p6",
       "kind": "body",
-      "text": "16\nTo let Charlie go while you search alone for the cold-killer, go to 69; \nto listen to her urgings, go to 42.",
-      "sourceLocation": "pdf:visual:[[17,59],[17,61],[17,62]]"
+      "text": "To let Charlie go while you search alone for the cold-killer, go to 69; \nto listen to her urgings, go to 42.",
+      "sourceLocation": "pdf:visual:[[17,61],[17,62]]"
     },
     {
       "id": "41:p7",
-      "kind": "trace",
+      "kind": "body",
       "text": "(40)",
       "sourceLocation": "pdf:visual:[[17,63]]"
     }

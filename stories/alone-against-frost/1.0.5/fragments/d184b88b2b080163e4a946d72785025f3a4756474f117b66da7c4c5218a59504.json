@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "254",
+    "frost-auto-254"
+  ],
+  "text": [
+    "队伍中有人挪动位置，摇晃了你身旁的灌木。下面的舞蹈顿时停下。一个小人径直指向你们的藏身处，大声喊叫；飞行的甲壳生物随即窸窣着逃入树林。其他舞者伸手去拿武器。你拉起学生们逃跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 254",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 254",
+      "text": [
+        "Changing position, a member of your party shakes the bush next to you. The dance below stops. One of the little people points directly at your hiding place. He shouts something that causes the flying crustaceans to scuttle off into the woods. The other dancers grab for their weapons. You drag the students into flight."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "526"
+  ],
+  "text": [
+    "你费了好大劲才平息查理的恐惧，并与她一起回到营地。现在你必须决定探险的下一步。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 526",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 526",
+      "text": [
+        "With considerable difficulty, you quell Charlie’s fears and return to camp. Now you must decide the future of your expedition."
+      ]
+    }
+  }
+}

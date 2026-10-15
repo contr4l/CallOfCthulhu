@@ -1,0 +1,18 @@
+{
+  "id": "24",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "24:p0",
+      "kind": "heading",
+      "text": "#24 - Amusement park ride\n",
+      "sourceLocation": "pdf:spans:[[86,1207,1233]]"
+    },
+    {
+      "id": "24:p1",
+      "kind": "body",
+      "text": "You show your ticket and a ghost\nlets you climb into a funfair ride\nleading into a cave. Everything is\nmade of plastic. Fake spider webs\nand skeletons hang from the walls.\nThe ride brings back nice\nchildhood memories and you\nrecover 1 Sanity.\nOn the seat next to you, you find a\nnote, probably left by another\ncustomer. “Walrus the Clown\nhaunts the old railway station. He\nused to be a good soul but he is\ncontrolled by the demonic rubber\nmask he is wearing.”\nYou leave the ride and go back to\nyour exploration.\n",
+      "sourceLocation": "pdf:spans:[[86,1233,1266],[86,1266,1301],[86,1301,1336],[86,1336,1370],[86,1370,1405],[86,1405,1431],[86,1431,1458],[86,1458,1476],[86,1476,1512],[86,1512,1543],[86,1543,1571],[86,1571,1606],[86,1606,1639],[86,1639,1672],[86,1672,1693],[86,1693,1727],[86,1727,1745]]"
+    }
+  ]
+}

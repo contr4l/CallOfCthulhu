@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "222",
+    "frost-auto-222"
+  ],
+  "text": [
+    "你以精准的力量对抗袭击者沉重的钳制，终于挣脱了致命的抓握，踉跄着逃开。你转身面对从森林里走出来的男人……可他已经变了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 222",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 222",
+      "text": [
+        "By applying precise force against the attacker’s hulking grasp, you slip out of the death grip and stumble away. You turn to confront the man who came out of the forest... but he has changed."
+      ]
+    }
+  }
+}

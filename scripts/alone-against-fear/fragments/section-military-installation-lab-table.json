@@ -1,227 +1,48 @@
 {
   "id": "section-military-installation-lab-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-military-installation-lab-table:p0000",
-      "kind": "body",
+      "id": "section-military-installation-lab-table:p0",
+      "kind": "heading",
       "text": "Military installation/Lab table (d6)\n",
       "sourceLocation": "pdf:spans:[[47,22,59]]"
     },
     {
-      "id": "section-military-installation-lab-table:p0001",
+      "id": "section-military-installation-lab-table:p1",
       "kind": "body",
-      "text": "1\n",
-      "sourceLocation": "pdf:spans:[[47,59,61]]"
+      "text": "1\nExperimental weapon site. Roll on the Lab Horror table. 2 in\n6 chance of finding a random weapon (roll twice and choose\nthe best result).\n",
+      "sourceLocation": "pdf:spans:[[47,59,61],[47,61,122],[47,122,181],[47,181,199]]"
     },
     {
-      "id": "section-military-installation-lab-table:p0002",
+      "id": "section-military-installation-lab-table:p2",
       "kind": "body",
-      "text": "Experimental weapon site. Roll on the Lab Horror table. 2 in\n",
-      "sourceLocation": "pdf:spans:[[47,61,122]]"
+      "text": "2\nA respiratory toxin was released here. Save vs. L4 Poison. Roll\nat +1 if you have the Resilient Skill, +2 if you have Resilient\n(Expert) or lose 2 Life. If you are wearing a gas mask, you are\nimmune to this damage.\n",
+      "sourceLocation": "pdf:spans:[[47,199,201],[47,201,265],[47,265,329],[47,329,393],[47,393,416]]"
     },
     {
-      "id": "section-military-installation-lab-table:p0003",
+      "id": "section-military-installation-lab-table:p3",
       "kind": "body",
-      "text": "6 chance of finding a random weapon (roll twice and choose\n",
-      "sourceLocation": "pdf:spans:[[47,122,181]]"
+      "text": "3\nYou find computer printouts about mutants. If you spend\n2XP studying them, you gain the Mutant Hunter Arcane Skill.\nYou may study the papers right here or, if you do not have the\nXP right now, carry them with you (they count as a carried\nobject) and study them later. You may roll a 2 in 6 chance of\nfinding a random weapon here, but if you do so, you must also\nroll a 2 in 6 chance of an encounter from the Lab Horror table.\n",
+      "sourceLocation": "pdf:spans:[[47,416,418],[47,418,474],[47,474,534],[47,534,597],[47,597,656],[47,656,718],[47,718,780],[47,780,844]]"
     },
     {
-      "id": "section-military-installation-lab-table:p0004",
+      "id": "section-military-installation-lab-table:p4",
       "kind": "body",
-      "text": "the best result).\n",
-      "sourceLocation": "pdf:spans:[[47,181,199]]"
+      "text": "4\nHere a crate containing  d3 grenades on a bandolier is\nguarded by 2d6 L2 zombies, Slow Undead, damage 1, 1 Life\npoint each. You may take the grenades if you destroy all\nzombies. You may choose to ignore the encounter and run\naway. The zombies (and the grenades) remain in the area if\nyou leave.\n",
+      "sourceLocation": "pdf:spans:[[47,844,846],[47,846,901],[47,901,958],[47,958,1015],[47,1015,1071],[47,1071,1130],[47,1130,1141]]"
     },
     {
-      "id": "section-military-installation-lab-table:p0005",
+      "id": "section-military-installation-lab-table:p5",
       "kind": "body",
-      "text": "2\n",
-      "sourceLocation": "pdf:spans:[[47,199,201]]"
+      "text": "5\nThis was a military lab. You find a single hypodermic needle\ncontaining a  fluorescent fluid . You can keep it in your\ninventory (as an item of negligible weight) or inject it (go to\nEvent #4 if you do so). This is a unique event. Reroll if you get\nthis again.\n",
+      "sourceLocation": "pdf:spans:[[47,1141,1143],[47,1143,1204],[47,1204,1262],[47,1262,1326],[47,1326,1392],[47,1392,1404]]"
     },
     {
-      "id": "section-military-installation-lab-table:p0006",
+      "id": "section-military-installation-lab-table:p6",
       "kind": "body",
-      "text": "A respiratory toxin was released here. Save vs. L4 Poison. Roll\n",
-      "sourceLocation": "pdf:spans:[[47,201,265]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0007",
-      "kind": "body",
-      "text": "at +1 if you have the Resilient Skill, +2 if you have Resilient\n",
-      "sourceLocation": "pdf:spans:[[47,265,329]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0008",
-      "kind": "body",
-      "text": "(Expert) or lose 2 Life. If you are wearing a gas mask, you are\n",
-      "sourceLocation": "pdf:spans:[[47,329,393]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0009",
-      "kind": "body",
-      "text": "immune to this damage.\n",
-      "sourceLocation": "pdf:spans:[[47,393,416]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0010",
-      "kind": "body",
-      "text": "3\n",
-      "sourceLocation": "pdf:spans:[[47,416,418]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0011",
-      "kind": "body",
-      "text": "You find computer printouts about mutants. If you spend\n",
-      "sourceLocation": "pdf:spans:[[47,418,474]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0012",
-      "kind": "body",
-      "text": "2XP studying them, you gain the Mutant Hunter Arcane Skill.\n",
-      "sourceLocation": "pdf:spans:[[47,474,534]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0013",
-      "kind": "body",
-      "text": "You may study the papers right here or, if you do not have the\n",
-      "sourceLocation": "pdf:spans:[[47,534,597]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0014",
-      "kind": "body",
-      "text": "XP right now, carry them with you (they count as a carried\n",
-      "sourceLocation": "pdf:spans:[[47,597,656]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0015",
-      "kind": "body",
-      "text": "object) and study them later. You may roll a 2 in 6 chance of\n",
-      "sourceLocation": "pdf:spans:[[47,656,718]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0016",
-      "kind": "body",
-      "text": "finding a random weapon here, but if you do so, you must also\n",
-      "sourceLocation": "pdf:spans:[[47,718,780]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0017",
-      "kind": "body",
-      "text": "roll a 2 in 6 chance of an encounter from the Lab Horror table.\n",
-      "sourceLocation": "pdf:spans:[[47,780,844]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0018",
-      "kind": "body",
-      "text": "4\n",
-      "sourceLocation": "pdf:spans:[[47,844,846]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0019",
-      "kind": "body",
-      "text": "Here a crate containing  d3 grenades on a bandolier is\n",
-      "sourceLocation": "pdf:spans:[[47,846,901]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0020",
-      "kind": "body",
-      "text": "guarded by 2d6 L2 zombies, Slow Undead, damage 1, 1 Life\n",
-      "sourceLocation": "pdf:spans:[[47,901,958]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0021",
-      "kind": "body",
-      "text": "point each. You may take the grenades if you destroy all\n",
-      "sourceLocation": "pdf:spans:[[47,958,1015]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0022",
-      "kind": "body",
-      "text": "zombies. You may choose to ignore the encounter and run\n",
-      "sourceLocation": "pdf:spans:[[47,1015,1071]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0023",
-      "kind": "body",
-      "text": "away. The zombies (and the grenades) remain in the area if\n",
-      "sourceLocation": "pdf:spans:[[47,1071,1130]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0024",
-      "kind": "body",
-      "text": "you leave.\n",
-      "sourceLocation": "pdf:spans:[[47,1130,1141]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0025",
-      "kind": "body",
-      "text": "5\n",
-      "sourceLocation": "pdf:spans:[[47,1141,1143]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0026",
-      "kind": "body",
-      "text": "This was a military lab. You find a single hypodermic needle\n",
-      "sourceLocation": "pdf:spans:[[47,1143,1204]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0027",
-      "kind": "body",
-      "text": "containing a  fluorescent fluid . You can keep it in your\n",
-      "sourceLocation": "pdf:spans:[[47,1204,1262]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0028",
-      "kind": "body",
-      "text": "inventory (as an item of negligible weight) or inject it (go to\n",
-      "sourceLocation": "pdf:spans:[[47,1262,1326]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0029",
-      "kind": "body",
-      "text": "Event #4 if you do so). This is a unique event. Reroll if you get\n",
-      "sourceLocation": "pdf:spans:[[47,1326,1392]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0030",
-      "kind": "body",
-      "text": "this again.\n",
-      "sourceLocation": "pdf:spans:[[47,1392,1404]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0031",
-      "kind": "body",
-      "text": "6\n",
-      "sourceLocation": "pdf:spans:[[47,1404,1406]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0032",
-      "kind": "body",
-      "text": "As you step into the installation, there is an explosion. Save\n",
-      "sourceLocation": "pdf:spans:[[47,1406,1469]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0033",
-      "kind": "body",
-      "text": "vs. L4 explosion, at +1 if you have Danger Sense and/or\n",
-      "sourceLocation": "pdf:spans:[[47,1469,1525]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0034",
-      "kind": "body",
-      "text": "Agile, or lose 2 Life. There is a 2 in 6 chance that the\n",
-      "sourceLocation": "pdf:spans:[[47,1525,1582]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0035",
-      "kind": "body",
-      "text": "explosion attracts d3 L2 Zombies (Slow Undead) that will\n",
-      "sourceLocation": "pdf:spans:[[47,1582,1639]]"
-    },
-    {
-      "id": "section-military-installation-lab-table:p0036",
-      "kind": "body",
-      "text": "attack you.",
-      "sourceLocation": "pdf:spans:[[47,1639,1650]]"
+      "text": "6\nAs you step into the installation, there is an explosion. Save\nvs. L4 explosion, at +1 if you have Danger Sense and/or\nAgile, or lose 2 Life. There is a 2 in 6 chance that the\nexplosion attracts d3 L2 Zombies (Slow Undead) that will\nattack you.",
+      "sourceLocation": "pdf:spans:[[47,1404,1406],[47,1406,1469],[47,1469,1525],[47,1525,1582],[47,1582,1639],[47,1639,1650]]"
     }
   ],
   "sourcePages": [

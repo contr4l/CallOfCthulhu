@@ -29,8 +29,14 @@
     {
       "id": "67:p4",
       "kind": "body",
-      "text": "To establish a camp to think, go to 496. \nTo strike deep into the forest, go to 501. \nTo hug the tree line, go to 494. \nTo explore rocky environs, go to 427. \nTo stick to the river, make a Luck roll: if you succeed, go to 126; if \nyou fail, go to 119.\n(39, 48, 111, 191, 223, 251, 284, 295, 302, 319, 327, 336, 337, \n365, 377, 408, 415, 442, 473, 489, 491) ",
-      "sourceLocation": "pdf:visual:[[22,29],[22,30],[22,31],[22,32],[22,33],[22,34],[22,35],[22,36]]"
+      "text": "To establish a camp to think, go to 496. \nTo strike deep into the forest, go to 501. \nTo hug the tree line, go to 494. \nTo explore rocky environs, go to 427. \nTo stick to the river, make a Luck roll: if you succeed, go to 126; if \nyou fail, go to 119.",
+      "sourceLocation": "pdf:visual:[[22,29],[22,30],[22,31],[22,32],[22,33],[22,34]]"
+    },
+    {
+      "id": "67:p5",
+      "kind": "body",
+      "text": "(39, 48, 111, 191, 223, 251, 284, 295, 302, 319, 327, 336, 337, \n365, 377, 408, 415, 442, 473, 489, 491) ",
+      "sourceLocation": "pdf:visual:[[22,35],[22,36]]"
     }
   ]
 }

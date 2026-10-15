@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "299"
+  ],
+  "text": [
+    "小人不肯走路，只好由队伍抬着。到了中午，他似乎昏了过去。你们扎营后再次试着喂俘虏，他仍然拒绝，仿佛存心寻死。",
+    "第二天早晨，他死了，尸体迅速腐烂。继续带着它令人作呕。没过几天，连骨头也散架，化成灰尘。你的标本计划就此落空。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 299",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 299",
+      "text": [
+        "The little man refuses to walk, so your party carries him. By noon he appears to have fallen unconscious. You set up camp and try once more to feed your captive. He refuses; he seems to be actually willing himself to die.",
+        "By morning he is dead; his corpse rots rapidly. Carrying it becomes a repugnant prospect. Even the bones fall apart and crumble to gray dust in only a few days. So much for your specimen."
+      ]
+    }
+  }
+}

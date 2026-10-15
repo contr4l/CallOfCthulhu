@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "633"
+  ],
+  "text": [
+    "身受致命伤的飞行者迅速盘旋着坠落，砸进草甸。你们走近查看它那诡异、扭曲的身体。你切下几块部位当作标本，赶紧离开山谷。然而，在抵达出口前，你发现背包里的肢体已经化成黏滑的脓液。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 633",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 633",
+      "text": [
+        "The mortally wounded flyer makes a rapid corkscrew spiral and crashes into the meadow grass. Your party approaches and examines its uncanny, mangled form. You sever a few parts to serve as trophies and hurry to leave the valley. Before you reach the exit, however, you discover that the creature’s limbs have deteriorated to a slimy ichor in your packs."
+      ]
+    }
+  }
+}

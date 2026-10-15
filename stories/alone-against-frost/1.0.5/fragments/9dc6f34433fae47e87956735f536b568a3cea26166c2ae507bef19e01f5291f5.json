@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "66",
+    "frost-auto-66"
+  ],
+  "text": [
+    "诺曼恐惧地嚎叫起来，开始向后爬，逃离仪式谋杀现场。你瞥见那些矮小男子拿起长矛、弓和箭袋。西尔维娅惊叫一声。你转过头，只见诺曼的背影消失在树丛间。",
+    "西尔维娅蜷缩在一堆树叶中。你把她翻过来。你倒吸一口气，发现一把猎刀插在她胸口。“是诺曼干的，”她盯着刀子低声说，“我……想让他冷静下来……”一缕鲜血从她嘴角流下。",
+    "西尔维娅已经无药可救。你必须自救。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 66",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 66",
+      "text": [
+        "Norman howls with fear and starts scrambling backward, away from the scene of ritual murder. You glance at the small men and see them grab spears, bows, and quivers. Sylvia cries out. You turn your head and see Norman’s back disappear between the trees.",
+        "Sylvia lies huddled in a nest of leaves. You turn her over. With a gasp, you see a hunting knife buried in her breast. “It was Norman,” she whispers, staring at the knife. “I… tried to calm him down...” A thread of blood descends from the corner of her mouth.",
+        "There is no hope for Sylvia. You must save yourself."
+      ]
+    }
+  }
+}

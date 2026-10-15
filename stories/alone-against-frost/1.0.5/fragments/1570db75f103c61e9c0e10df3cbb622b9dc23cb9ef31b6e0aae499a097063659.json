@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "94"
+  ],
+  "text": [
+    "狼獾的爪牙撕咬着伯纳德的身体。他痛苦的叫声令你心如刀割。人和野兽在地上扭打时，你朝那团笨重的身体开了一枪，但伤害已经造成。",
+    "你必须决定，是为了纪念伯纳德而继续探险，还是因为这场悲剧折返。其他学生都望着你，等你带领大家。",
+    "若要继续，前往 75。若你已心灰意冷，前往 54。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 94",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 94",
+      "text": [
+        "The wolverine’s claws and teeth rip into Bernard’s body. His anguished cry tears at your heart. As man and beast wrestle on the earth, you put a slug into the animal’s lumpish body. But the damage is done.",
+        "You must decide whether to honor Bernard by continuing the expedition—or to turn back because of this tragedy. The other students look to you for leadership.",
+        "To continue, go to 75. If you are discouraged, go to 54."
+      ]
+    }
+  }
+}

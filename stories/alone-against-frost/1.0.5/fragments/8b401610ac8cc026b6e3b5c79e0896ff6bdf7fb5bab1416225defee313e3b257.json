@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "74"
+  ],
+  "text": [
+    "“不！”查理露出牙齿。“白人永远不懂！谈起伟大的风行者，就会把它召到附近来！我们必须逃离北汉尼纳河！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 74",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 74",
+      "text": [
+        "“No!” Charlie bares her teeth. “The white man never understands! To speak of the Great Wind-Walker is to summon it near! We must flee the North Hanninah!”"
+      ]
+    }
+  }
+}

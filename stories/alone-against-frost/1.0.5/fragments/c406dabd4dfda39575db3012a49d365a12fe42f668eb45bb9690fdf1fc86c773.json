@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "130"
+  ],
+  "text": [
+    "跟随这个受惊的原始人，前往196。趁他带朋友回来之前离开此地，前往131。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 130",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 130",
+      "text": [
+        "To follow the frightened primitive, go to 196. To clear out of the area before he returns with friends, go to 131."
+      ]
+    }
+  }
+}

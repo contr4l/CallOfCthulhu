@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "321"
+  ],
+  "text": [
+    "你和诺曼拔腿就跑。受惊的兽群在身后冲过草地，迅速逼近。你们根本跑不到树林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 321",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 321",
+      "text": [
+        "You and Norman take to your heels. The panicked herds crash through the grass behind you, gaining fast. You will never make it to the woods."
+      ]
+    }
+  }
+}

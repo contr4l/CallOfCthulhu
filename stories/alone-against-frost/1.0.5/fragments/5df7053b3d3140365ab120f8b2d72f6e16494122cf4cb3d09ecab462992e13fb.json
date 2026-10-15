@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "15"
+  ],
+  "text": [
+    "“我什么都不知道！什么都不知道！”查理极为激动地大叫。你费了些工夫才让她平静下来。等她安静后，你转向诺曼，请他安排人手寻找伯纳德。",
+    "你回头看了一眼闷闷不乐的查理。你确实很需要她的野外生存本领，但你能信任她吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 15",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 15",
+      "text": [
+        "“I know nothing! Nothing!” Charlie bellows, deeply agitated. You calm her with some difficulty. Once she subsides, you turn to Norman and ask him to arrange a search for Bernard.",
+        "You glance back at the sullen Charlie. You could really use her woodcraft skills. But can you depend on her?"
+      ]
+    }
+  }
+}

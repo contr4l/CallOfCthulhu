@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "431"
+  ],
+  "text": [
+    "失落山谷以及其中史前生物的存在，足以震动科学界并让你声名大噪——前提是有人相信你的报告。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 431",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 431",
+      "text": [
+        "The existence of the lost valley and its prehistoric survivals will shake the scientific world and make your name—if your account is taken seriously."
+      ]
+    }
+  }
+}

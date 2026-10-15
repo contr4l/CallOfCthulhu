@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "373",
+    "frost-auto-373"
+  ],
+  "text": [
+    "那巨大的生物发出一声惨叫，踉跄着倒在洞穴深处的流石上。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 373",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 373",
+      "text": [
+        "With a scream, the immense creature staggers and collapses upon the flowstone at the cave’s rear."
+      ]
+    }
+  }
+}

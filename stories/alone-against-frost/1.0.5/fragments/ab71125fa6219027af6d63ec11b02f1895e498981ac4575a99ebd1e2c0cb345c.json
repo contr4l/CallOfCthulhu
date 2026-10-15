@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "424"
+  ],
+  "text": [
+    "你在河边停下。没有查理·狐尾带路，你是否仍有理由继续深入荒野？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 424",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 424",
+      "text": [
+        "You pause at the riverside. Can you justify pressing on into the wilderness without Charlie Foxtail?"
+      ]
+    }
+  }
+}

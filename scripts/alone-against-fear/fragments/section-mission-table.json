@@ -1,0 +1,33 @@
+{
+  "id": "section-mission-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-mission-table:p0",
+      "kind": "heading",
+      "text": "Mission table (d6)\n",
+      "sourceLocation": "pdf:spans:[[40,22,41]]"
+    },
+    {
+      "id": "section-mission-table:p1",
+      "kind": "body",
+      "text": "1\nMedical Supplies. A loved one is in need for specific medicines. You\ngain 3 XP as soon as you return to your starting box with 3 doses of\nthe required medicines. You have a 1 in 6 of finding 1 “dose” every\ntime you roll on a House or Lab box, and a 3 in 6 every time you visit\na Clinic box. If you have visited all boxes and didn’t find any, you will\nautomatically find 3 doses in the last box you visit.\n",
+      "sourceLocation": "pdf:spans:[[40,41,43],[40,43,112],[40,112,181],[40,181,249],[40,249,320],[40,320,394],[40,394,448]]"
+    },
+    {
+      "id": "section-mission-table:p2",
+      "kind": "body",
+      "text": "2\nPredator and Prey. You must defeat a random slasher from the\nslasher table. You must spend a number of Clues equal to the\nslasher’s level to locate your target in the next box you enter. If\nyou meet ANY slasher through a random roll, there is a 4 in 6\nchance that you encounter exactly the one you are hunting. Once\nyou have defeated the slasher and returned to your starting\nlocation OR to any Safe House, you gain 5 XP or 2 rolls on the\nUseful Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[40,448,450],[40,450,511],[40,511,572],[40,572,640],[40,640,702],[40,702,766],[40,766,826],[40,826,889],[40,889,909]]"
+    },
+    {
+      "id": "section-mission-table:p3",
+      "kind": "body",
+      "text": "3\nBring Home the Bacon . You must bring back to your starting\nlocation a large quantity (2d6+12) of Food. This is IN ADDITION to\nany Food points currently on your character’s sheet. You\nautomatically are given a backpack if desired, and you may leave\nany of your items in your starting box (or in any Safe House) in order\nto have more space to carry Food. You have a 3 in 6 chance of finding\nd6 Food points every time you visit a location from the Street, Store\nor Farm tables. Once you return to your starting box with the Food,\nthe Food is given to the local survivors and you gain 3 XP OR 3 rolls\non the Useful Stuff table, your choice. You may also keep the\nbackpack.\n",
+      "sourceLocation": "pdf:spans:[[40,909,911],[40,911,971],[40,971,1038],[40,1038,1095],[40,1095,1160],[40,1160,1231],[40,1231,1301],[40,1301,1371],[40,1371,1439],[40,1439,1509],[40,1509,1571],[40,1571,1581]]"
+    }
+  ],
+  "sourcePages": [
+    40
+  ]
+}

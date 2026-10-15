@@ -1,0 +1,51 @@
+{
+  "id": "section-demonic-horrors-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-demonic-horrors-table:p0",
+      "kind": "heading",
+      "text": "Demonic horrors table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[63,22,54]]"
+    },
+    {
+      "id": "section-demonic-horrors-table:p1",
+      "kind": "body",
+      "text": "1\nDemon child , L3 Demon, 3 Life. Each turn, you must save vs. L3 Magic\nat +1 if you have Will, +2 if you have Will (Expert) or be cursed (-1 on\nall rolls until you perform 1 action that increases your Sanity or you\nremove the curse). After cursing you, s/he will attack physically, clawing\nfor 1 damage. Susceptible to exorcism and vulnerable to holy water.\nYou may distract the demon child, offering any one object from the\nChildren’s Stuff table ( see p. 55) gaining a +2 to your Escape roll.\n",
+      "sourceLocation": "pdf:spans:[[63,54,56],[63,56,126],[63,126,199],[63,199,270],[63,270,345],[63,345,413],[63,413,480],[63,480,550]]"
+    },
+    {
+      "id": "section-demonic-horrors-table:p2",
+      "kind": "body",
+      "text": "2\nSuccubus/Incubus, L4 Demon, 4 Life. Save vs. L5 seduction  (add +1\nif you have Will or +2 if you have it at Expert level) to avoid being\nseduced. If you are seduced, lose permanently 1 Life. If you resist the\nseduction, you have to fight. Susceptible to exorcism and vulnerable\nto holy water. The demon will appear as the gender of your preference.\n",
+      "sourceLocation": "pdf:spans:[[63,550,552],[63,552,619],[63,619,689],[63,689,761],[63,761,830],[63,830,901]]"
+    },
+    {
+      "id": "section-demonic-horrors-table:p3",
+      "kind": "body",
+      "text": "3\nDemonic goat, L3 Demon, 4 Life, damage 1. If the goat inflicts any\ndamage, you are knocked down and must spend 1 action to stand up\nor Defend at -2. Susceptible to exorcism and vulnerable to holy water.\nIf you have the keyword SNOWY on your play sheet, play event #42.\n",
+      "sourceLocation": "pdf:spans:[[63,901,903],[63,903,970],[63,970,1035],[63,1035,1106],[63,1106,1172]]"
+    },
+    {
+      "id": "section-demonic-horrors-table:p4",
+      "kind": "body",
+      "text": "4\nNight shadow, L2 Demonic Undead, 2 Life, damage 1. The night\nshadow may be damaged only by attacks that roll 6, holy water, or\nmagic weapons. Susceptible to exorcism and light-based attacks\n(flashlights hit at +2 for 1 Damage). Each hit inflicted by its chilly touch\nis either subtracted from (roll d6): Life points (on a 1-3) or Sanity (on\na 4-6).\n",
+      "sourceLocation": "pdf:spans:[[63,1172,1174],[63,1174,1235],[63,1235,1301],[63,1301,1364],[63,1364,1441],[63,1441,1515],[63,1515,1523]]"
+    },
+    {
+      "id": "section-demonic-horrors-table:p5",
+      "kind": "body",
+      "text": "5\nHorned Demon, L5 Demon, 4 Life, damage 2. At the beginning of the\ncombat, save vs. L6 Fear (add +1 if you have Will or +2 if you have it at\nExpert level) or lose 1 Sanity. Flying (you may not run away from this\nencounter). Susceptible to exorcism and vulnerable to holy water.\n",
+      "sourceLocation": "pdf:spans:[[63,1523,1525],[63,1525,1591],[63,1591,1665],[63,1665,1736],[63,1736,1802]]"
+    },
+    {
+      "id": "section-demonic-horrors-table:p6",
+      "kind": "body",
+      "text": "6\nHell Hound, L4 Demon, 3 Life, damage 1. Its baying may attract\nmonsters. Roll a 1 on 6 chance of this happening  at the end of combat.\nIf monsters appear, roll again on this table, on the Possessed or on\nthe Undead table (your choice) to determine which monsters attack\nyou. Susceptible to exorcism and vulnerable to holy water. You gain\na +1 to your Escape roll if you sacrifice 1 can of dog food or 1 dog toy.\nEven if you Escape, you must still roll a 1 in 6 chance of being attacked\nby a random monster attracted by the hell hound’s baying.",
+      "sourceLocation": "pdf:spans:[[63,1802,1804],[63,1804,1867],[63,1867,1939],[63,1939,2008],[63,2008,2074],[63,2074,2142],[63,2142,2216],[63,2216,2290],[63,2290,2347]]"
+    }
+  ],
+  "sourcePages": [
+    63
+  ]
+}

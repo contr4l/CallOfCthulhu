@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "155",
+    "frost-auto-155"
+  ],
+  "text": [
+    "若持有关键词 BAREFOOT，前往51；否则前往32。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 155",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 155",
+      "text": [
+        "If you have the keyword BAREFOOT, go to 51. If not, go to 32."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "75"
+  ],
+  "text": [
+    "诺曼和西尔维娅默默跟着你。你猜他们觉得你很偏执，因为伯纳德和查理都已失踪，你却仍坚持继续前行。你没有试图解释。",
+    "沿途你们遇到一处峡谷，决定顺着它走。向上游走了一英里左右，你们在山腰发现一道裂隙，那正是溪流的源头。这里溪水湍急，要涉水穿过、探索后方山谷，十分危险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 75",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 75",
+      "text": [
+        "Norman and Sylvia follow you in silence. You suspect they think you obsessive, for continuing after the loss of Bernard and Charlie. You do not try to explain yourself.",
+        "Along your trek, you come upon a gorge and elect to follow it. A mile or so upstream, you find a crevice in the mountainside, the source of the stream. Since the creek runs rapidly here, it will be hazardous to attempt to wade through in order to explore the valley beyond."
+      ]
+    }
+  }
+}

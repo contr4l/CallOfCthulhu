@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "451"
+  ],
+  "text": [
+    "你站在时间与空间的咆哮洪流前，心灵饮下更深、更可怖的真相。",
+    "基瓦内玛！他们如恶魔般显现。无法承受的邪恶浩劫！灵魂不过是喂养他们咆哮诸神的火星。还有狡诈的巫师！肉体被轰碎！灵魂被撕裂！惊人的诅咒落在一代又一代人身上！愤怒，愤怒地针对那些站在他们大陆上的人，他们如基瓦内梅亚大陆一般高耸。人必须死。文明必须毁灭！他们脚下的岩石将会粉碎！无尽的仇恨！神庙充满鲜血。灵魂尖叫着冲向通往远古者的门户。祭品无穷无尽。基瓦内玛繁荣昌盛。诸神满意了。力量奔涌而出。海岬崩塌！大陆坠入海中！万物都反抗亚特兰蒂斯，反抗姆大陆。虽然基瓦内玛的诅咒需要漫长万年才会生效，但其进程从未停歇。姆大陆和亚特兰蒂斯都不复存在。只剩下基瓦内梅亚！基瓦内梅亚与它渴求的诸神！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 451",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 451",
+      "text": [
+        "As you stand before the roaring currents of time and space, your mind drinks in greater and more terrible truths.",
+        "The Keywanema! Like fiends, they are seen. Unbearable holocausts of evil! Souls are but sparks to feed their roaring gods and cunning sorcerers! Bodies blasted! Souls torn! Breathtaking curses laid on generations! Fury, fury against those who stand upon their continents as tall as Keywanemeia is tall. Men must die. Civilizations must die! The rocks they stand upon will shatter! Hatred without end! The temples fill with blood. Souls hurtle screaming through the gateways to the Elder Ones. Offerings without end. The Keywanema prosper. The gods are pleased. Their power surges forth. Headlands break! Continents crash into the sea! Every element turns upon Atlantis, upon Mu. Though the Keywanema’s curse takes an eon to work, its progress is relentless. Mu and Atlantis are no more. There is only Keywanemeia! Keywanemeia and its thirsting gods!"
+      ]
+    }
+  }
+}

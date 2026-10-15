@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "99",
+    "frost-auto-99"
+  ],
+  "text": [
+    "那是伯纳德·埃布斯坦！谢天谢地，你没打中他——也就是说，你肯定没打中他！",
+    "前往 101。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 99",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 99",
+      "text": [
+        "It’s Bernard Ebstein! Thank the Lord you missed him—that is, you must have missed him!",
+        "Go to 101."
+      ]
+    }
+  }
+}

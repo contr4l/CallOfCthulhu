@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "598"
+  ],
+  "text": [
+    "你宣布要带队改道，查理看着你的眼神仿佛你疯了。",
+    "“回到那片邪恶之地简直是疯了。我不会去。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 598",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 598",
+      "text": [
+        "When you announce your intent to divert the party, Charlie stares at you like you have lost your mind.",
+        "“It is madness to return to that evil place. I will not do so.”"
+      ]
+    }
+  }
+}

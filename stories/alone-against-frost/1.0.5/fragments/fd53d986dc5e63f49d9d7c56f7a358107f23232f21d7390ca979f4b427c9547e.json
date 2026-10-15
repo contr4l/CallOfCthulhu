@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "643"
+  ],
+  "text": [
+    "急流突然把伯纳德冲倒！他的呼喊被水声吞没，转眼便消失在浪头下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 643",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 643",
+      "text": [
+        "The current suddenly sweeps Bernard off his feet! His cry is lost as he disappears beneath a surge."
+      ]
+    }
+  }
+}

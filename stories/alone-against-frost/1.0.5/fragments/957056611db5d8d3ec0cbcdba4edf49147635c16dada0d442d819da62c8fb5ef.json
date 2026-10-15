@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "333",
+    "frost-auto-333"
+  ],
+  "text": [
+    "你们两人蜷缩在潮湿黑暗中，躲避外面的生物。附近传来许多双奇怪脚掌窸窣爬行的声音。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 333",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 333",
+      "text": [
+        "Huddled in dank darkness, the two of you hide from the creatures outside. You hear many pairs of strange feet scuttling, close by."
+      ]
+    }
+  }
+}

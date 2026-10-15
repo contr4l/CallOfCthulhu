@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "534"
+  ],
+  "text": [
+    "你和诺曼沿湍急的溪流走了很远，终于在岸边发现西尔维娅的尸体。她面色苍白，已经溺亡。",
+    "你埋葬了年轻的学生，诺曼让你独处了一会儿。他回来时直视着你的眼睛说：“她会希望我们继续前进，教授。她不会愿意因为自己的死让我们掉头回去。”",
+    "诺曼说的是实话。但作为探险队领队，你感到了沉重的责任。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 534",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 534",
+      "text": [
+        "You and Norman follow the turbulent stream for a great distance and finally discover Sylvia’s body on the bank, pale and drowned.",
+        "After you bury your young student, Norman gives you some time alone. When he finally returns, he looks you in the eyes. “She would want us to press on, Professor. She wouldn’t want her death to be the reason we turned back.”",
+        "Norman is speaking the truth. But as the expedition leader, you feel the heavy weight of responsibility."
+      ]
+    }
+  }
+}

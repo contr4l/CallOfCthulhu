@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "69"
+  ],
+  "text": [
+    "你命令诺曼和西尔维娅留在营地并提高警惕。你没有权利让剩下的学生也陷入危险。你全副武装，独自沿着寒冷杀手留下的踪迹出发。",
+    "那生物留下的踪迹很特别，是一串单调重复的圆形冰斑，因此很容易追踪。它留下的印痕在岩石上也和在土壤中一样清晰。",
+    "后来，晚餐时间早已过去，空气中出现深沉而刺骨的寒意，穿透你的猎装。周围的苔藓和松针都覆上白霜。",
+    "绕过一处林木茂密的小丘，你听见另一侧传来机器运转的声音。你把子弹上膛，准备面对敌人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 69",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 69",
+      "text": [
+        "You order Norman and Sylvia to wait at the camp and stay alert. You have no right to endanger the lives of your remaining students. Armed to the teeth, you set out alone on the trail of the cold-killer.",
+        "The peculiar trail of the creature, the monotonous pattern of circular ice-patches, makes it easy to track. The tracks scar rock as distinctly as the soil.",
+        "Later, well past supper time, the air takes on a deep, penetrating chill which pierces your hunting jacket. The moss and pine needles around you whiten with hoarfrost.",
+        "On the other side of a wooded knoll, you catch the sound of a moving machine. With a bullet ready in the chamber, you prepare to face your foe."
+      ]
+    }
+  }
+}

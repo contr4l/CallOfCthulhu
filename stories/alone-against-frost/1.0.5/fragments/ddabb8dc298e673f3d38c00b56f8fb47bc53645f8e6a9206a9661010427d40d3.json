@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "472",
+    "frost-auto-472"
+  ],
+  "text": [
+    "独木舟解决了你们的难题。通过一连串急流后，猎物和野果都多了起来。你们日复一日快速前进，直到一块岩石撞穿船底，迫使你们弃船。但这时你们已经抵达常有人行走的小径。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 472",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 472",
+      "text": [
+        "The canoe is the answer to your problems. After you pass a series of rapids, the game and wild fruits become much more common. You continue on swiftly day by day, until a rock holes the canoe’s bottom, forcing you to abandon it. However, you have already reached frequently traveled trails."
+      ]
+    }
+  }
+}

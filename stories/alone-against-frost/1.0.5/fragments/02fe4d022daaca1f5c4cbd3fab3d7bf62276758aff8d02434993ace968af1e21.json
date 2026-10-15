@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "442",
+    "frost-auto-442"
+  ],
+  "text": [
+    "你被死亡般的恐惧驱使，跑到精疲力竭，最后靠着一棵树倒下，大口喘气。但流血已经停止。也许那个隐形杀手与遭遇它的石阵有关。然而你已深入森林，找不到返回营地的路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 442",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 442",
+      "text": [
+        "You run, propelled by mortal terror, until your strength gives out. You collapse against a tree, gulping air. But the bloodletting is over. Perhaps the invisible killer is somehow tied to the stone formation where you encountered it. However, you have run deep into the woods and cannot find your way back to camp."
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "206",
+    "frost-auto-206"
+  ],
+  "text": [
+    "你条件反射般扣下扳机。那人影中弹后猛地一弓，倒了下去。你震惊地发现，她竟是失踪的向导查理·福克斯泰尔。接着你注意到她的脚，心中的恐惧更深了：那根本不是人脚，而是腐蚀发黑的残桩！",
+    "在河上时，查理曾讲过当地的传说——风行者骑着畸形蹄足，掠过树梢，追随它们可怕的主人。如今荒野中的某种力量把她变成了她曾恐惧的东西。",
+    "查理站了起来，神情疯狂而危险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 206",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 206",
+      "text": [
+        "You squeeze off a shot by reflex. The figure bucks under the impact and falls. With a shock, you realize it is Charlie Foxtail, your missing guide. Your horror deepens as you notice her feet. They are not human feet, but corroded black stumps!",
+        "On the river, Charlie talked about legends of the area—the wind-walker, who raced on malformed hooves above the treetops in the train of their monstrous master. Now, something in the wilderness has transformed her into that which she feared.",
+        "Charlie gets up. Her look is crazed and dangerous."
+      ]
+    }
+  }
+}

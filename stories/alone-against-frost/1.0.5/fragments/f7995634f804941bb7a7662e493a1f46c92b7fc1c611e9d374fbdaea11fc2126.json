@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "585"
+  ],
+  "text": [
+    "你推诺曼和西尔维娅站起来，三人朝深林冲刺。恐惧驱使你们穿过灌木，给了你们足够的额外速度，抵消追兵对地形的熟悉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 585",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 585",
+      "text": [
+        "You shove Norman and Sylvia to their feet. The three of you sprint for the deep woods. Fear drives you through the undergrowth, lending you enough extra speed to counter your pursuers’ knowledge of the landscape."
+      ]
+    }
+  }
+}

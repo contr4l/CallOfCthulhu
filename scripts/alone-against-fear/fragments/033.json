@@ -1,0 +1,18 @@
+{
+  "id": "33",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "33:p0",
+      "kind": "heading",
+      "text": "#33 - the hand of glory\n",
+      "sourceLocation": "pdf:spans:[[92,156,180]]"
+    },
+    {
+      "id": "33:p1",
+      "kind": "body",
+      "text": "Using a severed hand that holds a\ncandle, you assemble a magic item\ncalled a Hand of Glory. If you light\nthe candle, you may use this to\nautomatically avoid any one\nencounter (except encounters\nwith undead, zombies, unique\nzombies, demons or a monster\nfrom the Lab Horrors table - these\nare all immune), as the Hand of\nGlory gives you the power to\nparalyze any one mortal staring at\nthe flickering candle. After one\nuse, the hand will wither and the\ncandle will be used up. You may\ncreate another Hand of Glory if\nyou happen on this event again.\nEach use of the candle forces you\nto pass a L5 Will roll or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[92,180,214],[92,214,248],[92,248,285],[92,285,317],[92,317,345],[92,345,374],[92,374,403],[92,403,432],[92,432,467],[92,467,499],[92,499,528],[92,528,563],[92,563,596],[92,596,630],[92,630,662],[92,662,694],[92,694,726],[92,726,760],[92,760,801]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "25"
+  ],
+  "text": [
+    "奇迹般地，你们在不远处一堆漂木中找到了丢失的背包。查理点了点头。你望着几名研究生，第一次怀疑他们是否准备好了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 25",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 25",
+      "text": [
+        "By a miracle, you find the lost packs not far away, caught in a drift pile. Charlie nods. You look at your graduate students and, for the first time, wonder if they are ready for this."
+      ]
+    }
+  }
+}

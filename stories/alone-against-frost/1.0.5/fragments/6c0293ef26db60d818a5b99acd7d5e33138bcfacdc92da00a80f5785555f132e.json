@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "490",
+    "frost-auto-490"
+  ],
+  "text": [
+    "一声惊呼提醒你诺曼被击中——一块二十磅重的石头砸在他身上。西尔维娅转身去救他。你大喊着让她继续跑，但西尔维娅不会抛弃同伴。",
+    "你只能眼睁睁看着一块从悬崖上掷来的玄武岩碎片击中西尔维娅的头。她的头骨像西瓜一样迸裂。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 490",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 490",
+      "text": [
+        "A gasp warns you that Norman has been hit—crushed beneath a twenty-pound rock. Sylvia turns back to help him. You cry out, urging her to keep going, but it is not in Sylvia’s nature to abandon a companion.",
+        "You can only watch as a fragment of basalt, hurled from the cliff, strikes Sylvia’s head. Her skull bursts like a melon."
+      ]
+    }
+  }
+}

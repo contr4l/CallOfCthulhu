@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "291"
+  ],
+  "text": [
+    "你寻找那处水下岩架，想从那里离开失落山谷。诺曼望向天空，担忧地看着聚集的云层。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 291",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 291",
+      "text": [
+        "You look for the submerged ledge that will lead you from the lost valley. Norman watches the skies, concerned by gathering clouds."
+      ]
+    }
+  }
+}

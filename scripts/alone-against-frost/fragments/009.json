@@ -23,14 +23,14 @@
     {
       "id": "9:p3",
       "kind": "body",
-      "text": "If  you  shoot  at  the  intruders,  make  a  Hard  Firearms  (Rifle/\nShotgun) roll because of the conditions. If you hit your target, go to ",
-      "sourceLocation": "pdf:visual:[[11,43],[11,44]]"
+      "text": "If  you  shoot  at  the  intruders,  make  a  Hard  Firearms  (Rifle/\nShotgun) roll because of the conditions. If you hit your target, go to \n6. If you miss or do not shoot, go to 17.",
+      "sourceLocation": "pdf:visual:[[11,43],[11,44],[11,45]]"
     },
     {
       "id": "9:p4",
       "kind": "body",
-      "text": "6. If you miss or do not shoot, go to 17.\n4)",
-      "sourceLocation": "pdf:visual:[[11,45],[11,46]]"
+      "text": "4)",
+      "sourceLocation": "pdf:visual:[[11,46]]"
     }
   ]
 }

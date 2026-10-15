@@ -28,7 +28,7 @@
     },
     {
       "id": "185:p4",
-      "kind": "trace",
+      "kind": "body",
       "text": "(184)",
       "sourceLocation": "pdf:visual:[[40,53]]"
     }

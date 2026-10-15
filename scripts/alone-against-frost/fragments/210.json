@@ -29,24 +29,18 @@
     {
       "id": "210:p4",
       "kind": "body",
-      "text": "43",
-      "sourceLocation": "pdf:visual:[[44,40]]"
-    },
-    {
-      "id": "210:p5",
-      "kind": "body",
       "text": "She cackles. “You see a woman of your own kind, but millennia \nago I was mother-queen of the Keywanema! As the power of our \nstock diminished, we decided that one of us should pass their soul \ninto the body of a woman untainted by the old magic.” Her eyes \ngleam. “Since then, I have taken many bodies. Each I use till it \nis  corrupted  by  sorcery,  then  I  take  another.”  A  wizened  finger \nexplores the wrinkles of her face. “This body is almost used up. I \nrequire another.”",
       "sourceLocation": "pdf:visual:[[44,42],[44,43],[44,44],[44,45],[44,46],[44,47],[44,48],[44,49]]"
     },
     {
-      "id": "210:p6",
+      "id": "210:p5",
       "kind": "body",
       "text": "If Dr. Nadelmann is female, go to 255. If Dr. Nadelmann is male, \ngo to 260.",
       "sourceLocation": "pdf:visual:[[44,50],[44,51]]"
     },
     {
-      "id": "210:p7",
-      "kind": "trace",
+      "id": "210:p6",
+      "kind": "body",
       "text": "(145, 568)",
       "sourceLocation": "pdf:visual:[[44,52]]"
     }

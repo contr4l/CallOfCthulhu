@@ -1,95 +1,18 @@
 {
   "id": "section-moving-through-visited-areas",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-moving-through-visited-areas:p0000",
-      "kind": "body",
+      "id": "section-moving-through-visited-areas:p0",
+      "kind": "heading",
       "text": "Moving Through Visited areas\n",
       "sourceLocation": "pdf:spans:[[38,22,51]]"
     },
     {
-      "id": "section-moving-through-visited-areas:p0001",
+      "id": "section-moving-through-visited-areas:p1",
       "kind": "body",
-      "text": "You may move through boxes that\n",
-      "sourceLocation": "pdf:spans:[[38,51,83]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0002",
-      "kind": "body",
-      "text": "you already visited, and you may\n",
-      "sourceLocation": "pdf:spans:[[38,83,116]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0003",
-      "kind": "body",
-      "text": "Search them (see below) if you\n",
-      "sourceLocation": "pdf:spans:[[38,116,147]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0004",
-      "kind": "body",
-      "text": "didn’t do it already. Every time\n",
-      "sourceLocation": "pdf:spans:[[38,147,180]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0005",
-      "kind": "body",
-      "text": "you move through a box that\n",
-      "sourceLocation": "pdf:spans:[[38,180,208]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0006",
-      "kind": "body",
-      "text": "you already visited, do NOT roll\n",
-      "sourceLocation": "pdf:spans:[[38,208,241]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0007",
-      "kind": "body",
-      "text": "on the Exploration table. Roll a\n",
-      "sourceLocation": "pdf:spans:[[38,241,274]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0008",
-      "kind": "body",
-      "text": "1 in 6 chance of a Random\n",
-      "sourceLocation": "pdf:spans:[[38,274,300]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0009",
-      "kind": "body",
-      "text": "Encounter instead. If you move\n",
-      "sourceLocation": "pdf:spans:[[38,300,331]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0010",
-      "kind": "body",
-      "text": "through an area that is occupied\n",
-      "sourceLocation": "pdf:spans:[[38,331,364]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0011",
-      "kind": "body",
-      "text": "(you encountered some creature\n",
-      "sourceLocation": "pdf:spans:[[38,364,395]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0012",
-      "kind": "body",
-      "text": "there and fled) you must perform\n",
-      "sourceLocation": "pdf:spans:[[38,395,428]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0013",
-      "kind": "body",
-      "text": "a Stealth roll to avoid the creature\n",
-      "sourceLocation": "pdf:spans:[[38,428,465]]"
-    },
-    {
-      "id": "section-moving-through-visited-areas:p0014",
-      "kind": "body",
-      "text": "or have to face it again.\n",
-      "sourceLocation": "pdf:spans:[[38,465,491]]"
+      "text": "You may move through boxes that\nyou already visited, and you may\nSearch them (see below) if you\ndidn’t do it already. Every time\nyou move through a box that\nyou already visited, do NOT roll\non the Exploration table. Roll a\n1 in 6 chance of a Random\nEncounter instead. If you move\nthrough an area that is occupied\n(you encountered some creature\nthere and fled) you must perform\na Stealth roll to avoid the creature\nor have to face it again.\n",
+      "sourceLocation": "pdf:spans:[[38,51,83],[38,83,116],[38,116,147],[38,147,180],[38,180,208],[38,208,241],[38,241,274],[38,274,300],[38,300,331],[38,331,364],[38,364,395],[38,395,428],[38,428,465],[38,465,491]]"
     }
   ],
   "sourcePages": [

@@ -1,0 +1,17 @@
+{
+  "storyId": "alone-against-fear",
+  "locale": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "terms": [
+    { "source": "Four Against Darkness", "translation": "《四人对抗黑暗》", "note": "原书所述D6规则引擎来源；不与CoC百分骰规则混用。" },
+    { "source": "Life", "translation": "生命", "note": "角色生命资源。" },
+    { "source": "Sanity", "translation": "理智", "note": "角色理智资源；保留Sanity上限与当前值的区别。" },
+    { "source": "Save", "translation": "防御检定", "note": "使用D6的防护/抵抗检定；不是CoC属性检定。" },
+    { "source": "Level (L)", "translation": "等级（L）", "note": "怪物/目标等级；用于比较D6结果及计算命中伤害。" },
+    { "source": "Hit", "translation": "命中", "note": "按书中攻击总值与目标等级计算；不泛化为CoC战斗检定。" },
+    { "source": "Clue", "translation": "线索", "note": "可用于调查或支付特定效果的资源。" },
+    { "source": "Food", "translation": "食物", "note": "按移动格数消耗的战役资源。" },
+    { "source": "Unique Event", "translation": "独特事件", "note": "书中#1–#42编号事件。" },
+    { "source": "Mission", "translation": "任务", "note": "任务表/任务目标；目录页不作为正文任务规则重复导入。" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "37"
+  ],
+  "text": [
+    "Mark tells you that there are two\ngroups of children and teens in\ntown. They used fight each other.\nThey call themselves the Witch\nchildren and the Halloween gang.\nThe members of the Halloween\nGang were older. The Witch\nchildren were a group of bullied\nchildren assembled and led by a\ngirl called Eliza Dunforth. Eliza got\nMirina, a talking doll, as a present\nfrom Marjorie McAllister, a very\nold lady from out of town.\nEverybody said that this old lady\nwas a witch. Following instructions\nfrom Mirina, Eliza found a book of\nmagic spells in a forest. She then\nused these spells to punish the\nHalloween Gang. But something\nwent wrong. The magic she used\nwas too powerful for her to\nhandle. Strange, dangerous doors\nstarted to open into other places.\nThe Halloween Gang got in contact\nwith some creatures who came\nout of these doors, and started to\ndo what they asked.\nIf you want, you could go in the\nforest and check the place where,\naccording to Mark’s story, Eliza\nfound her spell book. If you want\nto do so, go to #41. If you do not\nwant to do so, continue with your\nexploration of the town."
+  ],
+  "reading": {
+    "en": {
+      "title": "37. Mark Tells a Story",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "37. 马克讲述故事",
+      "text": [
+        "马克告诉你，镇上有两群孩子和青少年，他们过去经常打架，分别叫女巫孩子帮和万圣节帮派。万圣节帮派成员年纪更大。女巫孩子帮则是一群遭受霸凌的孩子，由一个叫伊莱莎·邓福斯的女孩组织并领导。镇外一位年迈老妇人玛乔丽·麦卡利斯特把会说话的娃娃米莉娜送给伊莱莎作礼物。大家都说那老妇人是女巫。按照米莉娜的指示，伊莱莎在森林里找到一本魔法咒语书，随后用书上的咒语惩罚万圣节帮派。然而事情出了岔子，她使用的魔法太过强大，自己无法控制。通往异界的奇异危险之门开始打开。万圣节帮派与从门中出来的生物接触，并开始听从它们的要求。\n如果你愿意，可以前往森林，调查马克所说伊莱莎找到咒语书的地方。要去的话，前往#41；否则继续探索小镇。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "503"
+  ],
+  "text": [
+    "粉红色、像龙虾的生物在林地落叶间爬行，足有五英尺长。嗡鸣声仍在继续。突然，一声人的呼喊划破噪声。你看见一个穿猎装的男人被拖下沟壑，带进空洞；两个可憎的生物把他放下后，他试图爬走。其中一只在他身上操纵一个Y形物体，一道蓝雾掠过那人。他顿时不再出声，脸朝下倒地。即使隔着这么远，你仍看见他在发抖。他的夹克、长裤、头发和胡须都结满了冰晶。",
+    "这些生物的嗡鸣声调变了。它们排成一列，绕着人类受害者爬行，仿佛在跳一种怪异的舞。",
+    "一只生物在男人身上方直立起来，拿出一根像深色吸管的管子。你还来不及反应，一道红光便如铅笔线般精确地闪过，无血无肉地将男人的头与身体分开。你把拳头塞进嘴里，不让自己出声。",
+    "舞蹈停止了。另一只生物把一个大胶囊递给那名“外科医生”；它用前肢捧起头颅并加以摆弄，然后举起封装好的战利品给同伴看。",
+    "到目前为止，你一直压抑着恐惧。但当断头的眼神变了、下颚动起来时，你再也承受不住。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 503",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 503",
+      "text": [
+        "Pink, lobster-like creatures, five feet long, crawl through the forest litter below. The buzzing continues. Suddenly, a human cry slices through the noise. You see a man in a hunting jacket being dragged down a ravine into the hollow behind two of the abominable things. When they drop him, he tries to crawl away. One of the creatures plays a Y-shaped object over him and a streak of blue mist coats the escaping man. He becomes silent and falls on his face. Even from this distance, you can see him shiver. Ice crystals cover his jacket and trousers, as well as his hair and beard.",
+        "The creatures’ buzzing takes on a different tone as they fall in behind one another and scuttle around the human victim, as if engaged in a strange dance.",
+        "One rears up over the man and holds out a tube, like a dark drinking straw. Before you can react, a red beam shines as precisely as a pencil line and bloodlessly separates the man’s head from his body. You jam a fist against your mouth to keep quiet.",
+        "The dance ceases and another creature passes a large capsule to the surgeon, who gathers the head up with its forward limbs. It manipulates the head and then holds the now-encapsulated prize up for its fellows to behold.",
+        "So far you have suppressed your horror. But when the severed head’s eyes change their expression—when the jaws move—it is too much to endure."
+      ]
+    }
+  }
+}

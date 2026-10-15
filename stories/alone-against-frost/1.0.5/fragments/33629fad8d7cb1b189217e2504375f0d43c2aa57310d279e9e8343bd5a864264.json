@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "349",
+    "frost-auto-349"
+  ],
+  "text": [
+    "几只体型最大的雪怪试探着从山脊走下来。你做出希望能被普遍理解的臣服手势。它们一步步靠近，突然其中一只伸手把你夹在腋下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 349",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 349",
+      "text": [
+        "A few of the largest sasquatches tentatively descend from the ridges. You use what you hope are universally acknowledged gestures of submission. The creatures advance by stages. Suddenly one reaches out and tucks you under his arm."
+      ]
+    }
+  }
+}

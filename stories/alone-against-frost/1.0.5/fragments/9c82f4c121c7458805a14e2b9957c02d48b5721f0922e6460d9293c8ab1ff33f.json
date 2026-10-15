@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "508"
+  ],
+  "text": [
+    "你开火时，步枪向后一震，射向那只骇人的外星生物。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 508",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 508",
+      "text": [
+        "Your rifle kicks as you fire at the alien horror."
+      ]
+    }
+  }
+}

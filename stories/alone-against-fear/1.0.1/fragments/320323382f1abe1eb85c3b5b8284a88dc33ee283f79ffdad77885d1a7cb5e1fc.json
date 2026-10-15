@@ -1,0 +1,35 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "31"
+  ],
+  "text": [
+    "As you lean to pick up the object,\na couple of dirty, clawed hands\nrise from the ground. Roll d6.",
+    "1) The hands catch your neck and\nbegin to strangle you. Make a\nL4 strength save to break free.\nAdd +1 if you have the StrongSkill and +2 if you have Strong\n(Expert). Roll until you break\nfree. Every unsuccessful\nattempt costs you 1 Life. You\nmanage to pick up the object\nif you survive.",
+    "2) The hands grab a carried\nobject and then disappear.\nCross 1 object of your choice\noff your play sheet.",
+    "3) The hands claw at you,\ninflicting 1 Life on a failed\nDefense roll against a L5\nattack, and then disappear.",
+    "4) The hands  wave  in front of\nyour eyes and disappear.",
+    "5) The hands miss you and\ndisappear.",
+    "6) The hands grab your clothes\nbut you manage to cut away\nthe right hand. The hand falls\nto the ground as the rest of the\narms disappear. If you have an\noccult guide and a candle, you\nmay build a Hand of Glory (go\nto #33)."
+  ],
+  "reading": {
+    "en": {
+      "title": "31 - grabbed!",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "31 - 被抓住了！",
+      "text": [
+        "你俯身捡起物品时，几只肮脏、长着利爪的手从地里伸了出来。掷1D6。",
+        "1）双手抓住你的脖子，开始勒你。进行L4力量防御检定挣脱；拥有强壮技能时+1，强壮达到专家级时+2。不断重复检定，直到挣脱为止。每次失败都会损失1点生命。若你幸存，就能捡起物品。",
+        "2）双手抓走你携带的一件物品，然后消失。从游戏记录表中划掉你选择的1件物品。",
+        "3）双手抓挠你；若你未能通过对方L5攻击的防御检定，失去1点生命。随后双手消失。",
+        "4）双手在你眼前挥舞一番，随后消失。",
+        "5）双手没抓到你，随后消失。",
+        "6）双手抓住你的衣服，但你设法砍下其中一只右手。手掉在地上，其余手臂消失。若你有神秘学指南和蜡烛，可以制作“荣耀之手”（前往#33）。"
+      ]
+    }
+  }
+}

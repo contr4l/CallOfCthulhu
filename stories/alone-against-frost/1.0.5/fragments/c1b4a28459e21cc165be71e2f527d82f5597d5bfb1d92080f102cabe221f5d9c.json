@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "423"
+  ],
+  "text": [
+    "你举起步枪，瞄准它的眉脊开火。距离近得几乎是抵着它射击。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 423",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 423",
+      "text": [
+        "You raise the rifle at its brow ridge and fire. Your shot is point-blank."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "34",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "34:p0",
+      "kind": "heading",
+      "text": "#34 - the Axe\n",
+      "sourceLocation": "pdf:spans:[[92,801,815]]"
+    },
+    {
+      "id": "34:p1",
+      "kind": "body",
+      "text": "As you enter the building, a young\nwoman stands before you. She is\ntranslucent, her hair buffeted by\nan eerie wind that you cannot feel.\nThe woman speaks. Her voice\nsends shivers down your spine.\nShe has a visible wound on neck.\n“He killed me with that axe and i\ncannot rest until the same\nhappens to him.”  She points at a\nlarge blood spattered axe in a dark\ncorner of the room.\nYou may pick up the axe. The axe\nwill give you a +1 to attacks against\nthe Polka-Dot-Dress Maniac if you\nmeet him.\n",
+      "sourceLocation": "pdf:spans:[[92,815,850],[92,850,882],[92,882,916],[92,916,952],[92,952,980],[92,980,1011],[92,1011,1044],[92,1044,1078],[92,1078,1105],[92,1105,1139],[92,1139,1175],[92,1175,1195],[92,1195,1228],[92,1228,1266],[92,1266,1300],[92,1300,1310]]"
+    }
+  ]
+}

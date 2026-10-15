@@ -1,281 +1,54 @@
 {
   "id": "section-keep-track-of-ammo",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-keep-track-of-ammo:p0000",
-      "kind": "body",
+      "id": "section-keep-track-of-ammo:p0",
+      "kind": "heading",
       "text": "Keep Track of Ammo\n",
       "sourceLocation": "pdf:spans:[[31,211,230]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0001",
+      "id": "section-keep-track-of-ammo:p1",
       "kind": "body",
-      "text": "You must keep track of how many\n",
-      "sourceLocation": "pdf:spans:[[31,230,262]]"
+      "text": "You must keep track of how many\nbullets/arrows/shotgun shells you\nhave with each ranged weapon.\nYou may NOT use a weapon’s\nammo with another weapon,\nunless the weapons are exactly the\nsame. Here are the different ammo\ntypes paired with their weapons.\nNote: these are game terms only\nand do not reflect the reality of\nfirearms.\n",
+      "sourceLocation": "pdf:spans:[[31,230,262],[31,262,296],[31,296,326],[31,326,353],[31,353,379],[31,379,414],[31,414,448],[31,448,481],[31,481,513],[31,513,547],[31,547,557]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0002",
-      "kind": "body",
-      "text": "bullets/arrows/shotgun shells you\n",
-      "sourceLocation": "pdf:spans:[[31,262,296]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0003",
-      "kind": "body",
-      "text": "have with each ranged weapon.\n",
-      "sourceLocation": "pdf:spans:[[31,296,326]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0004",
-      "kind": "body",
-      "text": "You may NOT use a weapon’s\n",
-      "sourceLocation": "pdf:spans:[[31,326,353]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0005",
-      "kind": "body",
-      "text": "ammo with another weapon,\n",
-      "sourceLocation": "pdf:spans:[[31,353,379]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0006",
-      "kind": "body",
-      "text": "unless the weapons are exactly the\n",
-      "sourceLocation": "pdf:spans:[[31,379,414]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0007",
-      "kind": "body",
-      "text": "same. Here are the different ammo\n",
-      "sourceLocation": "pdf:spans:[[31,414,448]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0008",
-      "kind": "body",
-      "text": "types paired with their weapons.\n",
-      "sourceLocation": "pdf:spans:[[31,448,481]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0009",
-      "kind": "body",
-      "text": "Note: these are game terms only\n",
-      "sourceLocation": "pdf:spans:[[31,481,513]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0010",
-      "kind": "body",
-      "text": "and do not reflect the reality of\n",
-      "sourceLocation": "pdf:spans:[[31,513,547]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0011",
-      "kind": "body",
-      "text": "firearms.\n",
-      "sourceLocation": "pdf:spans:[[31,547,557]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0012",
+      "id": "section-keep-track-of-ammo:p2",
       "kind": "body",
       "text": "● Pistols use bullets\n",
       "sourceLocation": "pdf:spans:[[31,557,579]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0013",
+      "id": "section-keep-track-of-ammo:p3",
       "kind": "body",
       "text": "● Rifles use rifle bullets\n",
       "sourceLocation": "pdf:spans:[[31,579,606]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0014",
+      "id": "section-keep-track-of-ammo:p4",
       "kind": "body",
       "text": "● Crossbows use bolts\n",
       "sourceLocation": "pdf:spans:[[31,606,628]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0015",
+      "id": "section-keep-track-of-ammo:p5",
       "kind": "body",
       "text": "● Bows use arrows\n",
       "sourceLocation": "pdf:spans:[[31,628,646]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0016",
+      "id": "section-keep-track-of-ammo:p6",
       "kind": "body",
       "text": "● Shotguns use shells\n",
       "sourceLocation": "pdf:spans:[[31,646,668]]"
     },
     {
-      "id": "section-keep-track-of-ammo:p0017",
+      "id": "section-keep-track-of-ammo:p7",
       "kind": "body",
-      "text": "● Thrown knives use knives\n",
-      "sourceLocation": "pdf:spans:[[31,668,695]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0018",
-      "kind": "body",
-      "text": "To keep track of ammo, use\n",
-      "sourceLocation": "pdf:spans:[[31,695,722]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0019",
-      "kind": "body",
-      "text": "differently colored counters (dice,\n",
-      "sourceLocation": "pdf:spans:[[31,722,758]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0020",
-      "kind": "body",
-      "text": "glass beads, etc.) for each weapon.\n",
-      "sourceLocation": "pdf:spans:[[31,758,794]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0021",
-      "kind": "body",
-      "text": "It sounds complicated, but in reality\n",
-      "sourceLocation": "pdf:spans:[[31,794,832]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0022",
-      "kind": "body",
-      "text": "you will be using just one weapon\n",
-      "sourceLocation": "pdf:spans:[[31,832,866]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0023",
-      "kind": "body",
-      "text": "most of the time. If you do not have\n",
-      "sourceLocation": "pdf:spans:[[31,866,903]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0024",
-      "kind": "body",
-      "text": "any appropriate tokens,  just cross\n",
-      "sourceLocation": "pdf:spans:[[31,903,939]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0025",
-      "kind": "body",
-      "text": "off squares on a piece of paper.\n",
-      "sourceLocation": "pdf:spans:[[31,939,972]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0026",
-      "kind": "body",
-      "text": "You may feel that it is\n",
-      "sourceLocation": "pdf:spans:[[31,972,996]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0027",
-      "kind": "body",
-      "text": "unrealistic that a single bullet\n",
-      "sourceLocation": "pdf:spans:[[31,996,1029]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0028",
-      "kind": "body",
-      "text": "or arrow can cause the death\n",
-      "sourceLocation": "pdf:spans:[[31,1029,1058]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0029",
-      "kind": "body",
-      "text": "of multiple enemies. This\n",
-      "sourceLocation": "pdf:spans:[[31,1058,1084]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0030",
-      "kind": "body",
-      "text": "happens especially when you\n",
-      "sourceLocation": "pdf:spans:[[31,1084,1112]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0031",
-      "kind": "body",
-      "text": "roll a 6 (an “explosion”). Did\n",
-      "sourceLocation": "pdf:spans:[[31,1112,1143]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0032",
-      "kind": "body",
-      "text": "the single bullet go through\n",
-      "sourceLocation": "pdf:spans:[[31,1143,1172]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0033",
-      "kind": "body",
-      "text": "the head of 4 zombies that\n",
-      "sourceLocation": "pdf:spans:[[31,1172,1199]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0034",
-      "kind": "body",
-      "text": "were just standing in line?\n",
-      "sourceLocation": "pdf:spans:[[31,1199,1227]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0035",
-      "kind": "body",
-      "text": "Certainly not. We are not\n",
-      "sourceLocation": "pdf:spans:[[31,1227,1253]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0036",
-      "kind": "body",
-      "text": "counting each single bullet\n",
-      "sourceLocation": "pdf:spans:[[31,1253,1281]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0037",
-      "kind": "body",
-      "text": "used but a “finite amount of\n",
-      "sourceLocation": "pdf:spans:[[31,1281,1310]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0038",
-      "kind": "body",
-      "text": "bullets in game terms”. So, for\n",
-      "sourceLocation": "pdf:spans:[[31,1310,1342]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0039",
-      "kind": "body",
-      "text": "example, when an assault\n",
-      "sourceLocation": "pdf:spans:[[31,1342,1367]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0040",
-      "kind": "body",
-      "text": "rifle performs 2 attacks in a\n",
-      "sourceLocation": "pdf:spans:[[31,1367,1397]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0041",
-      "kind": "body",
-      "text": "turn and uses up 3 ammo, the\n",
-      "sourceLocation": "pdf:spans:[[31,1397,1426]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0042",
-      "kind": "body",
-      "text": "rifle didn’t fire exactly 3\n",
-      "sourceLocation": "pdf:spans:[[31,1426,1454]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0043",
-      "kind": "body",
-      "text": "bullets. That number is just\n",
-      "sourceLocation": "pdf:spans:[[31,1454,1483]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0044",
-      "kind": "body",
-      "text": "an abstract way to keep track\n",
-      "sourceLocation": "pdf:spans:[[31,1483,1513]]"
-    },
-    {
-      "id": "section-keep-track-of-ammo:p0045",
-      "kind": "body",
-      "text": "of a consumable resource.\n",
-      "sourceLocation": "pdf:spans:[[31,1513,1539]]"
+      "text": "● Thrown knives use knives\nTo keep track of ammo, use\ndifferently colored counters (dice,\nglass beads, etc.) for each weapon.\nIt sounds complicated, but in reality\nyou will be using just one weapon\nmost of the time. If you do not have\nany appropriate tokens,  just cross\noff squares on a piece of paper.\nYou may feel that it is\nunrealistic that a single bullet\nor arrow can cause the death\nof multiple enemies. This\nhappens especially when you\nroll a 6 (an “explosion”). Did\nthe single bullet go through\nthe head of 4 zombies that\nwere just standing in line?\nCertainly not. We are not\ncounting each single bullet\nused but a “finite amount of\nbullets in game terms”. So, for\nexample, when an assault\nrifle performs 2 attacks in a\nturn and uses up 3 ammo, the\nrifle didn’t fire exactly 3\nbullets. That number is just\nan abstract way to keep track\nof a consumable resource.\n",
+      "sourceLocation": "pdf:spans:[[31,668,695],[31,695,722],[31,722,758],[31,758,794],[31,794,832],[31,832,866],[31,866,903],[31,903,939],[31,939,972],[31,972,996],[31,996,1029],[31,1029,1058],[31,1058,1084],[31,1084,1112],[31,1112,1143],[31,1143,1172],[31,1172,1199],[31,1199,1227],[31,1227,1253],[31,1253,1281],[31,1281,1310],[31,1310,1342],[31,1342,1367],[31,1367,1397],[31,1397,1426],[31,1426,1454],[31,1454,1483],[31,1483,1513],[31,1513,1539]]"
     }
   ],
   "sourcePages": [

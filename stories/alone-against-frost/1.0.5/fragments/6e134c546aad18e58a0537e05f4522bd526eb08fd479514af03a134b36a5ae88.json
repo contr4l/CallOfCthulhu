@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "564"
+  ],
+  "text": [
+    "你们其中一人很快挣脱绳索并解开另一人。趁天色尚未暗到无法原路返回，你们勉强找回先前走过的路线。",
+    "你们找到被捆住的西尔维娅。诺曼割断绳索，她颤抖着倒进你怀里。她安静了几分钟，随后挺直身子；你几乎能看见她召回了那种支撑家族发迹的决心。",
+    "她准备好走路后，你们赶紧带队离开。研究祭祀地点或许有些人类学价值，但现在不是时候。你们短暂休息，等到黎明前再行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 564",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 564",
+      "text": [
+        "One of you quickly slips out of his bonds and frees the other. You are just able to retrace your path before the failing light makes backtracking impossible.",
+        "You find the bound form of Sylvia. Norman cuts her bonds and she falls into your arms, trembling. She is quiet for a few minutes before she draws herself up, and you can almost see her summon the determination that built her family’s fortunes.",
+        "Once she is ready to walk, you hurry your group away. There might be some anthropological value in studying a place of sacrifice, but this is not the time for it. You take a brief rest before dawn."
+      ]
+    }
+  }
+}

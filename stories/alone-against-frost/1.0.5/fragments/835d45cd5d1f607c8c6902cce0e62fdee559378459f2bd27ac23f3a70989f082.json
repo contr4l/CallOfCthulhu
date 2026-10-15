@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "238",
+    "frost-auto-238"
+  ],
+  "text": [
+    "你惊恐的尖叫暴露了藏身之处，那些小人伸手去拿武器。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 238",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 238",
+      "text": [
+        "Your scream of horror gives away your presence to the little men, who grab for their weapons."
+      ]
+    }
+  }
+}

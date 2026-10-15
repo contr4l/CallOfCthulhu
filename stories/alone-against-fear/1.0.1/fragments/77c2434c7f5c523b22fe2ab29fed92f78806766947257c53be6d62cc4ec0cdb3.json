@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-farm"
+  ],
+  "text": [
+    "1\nCreepy abandoned farm. If you investigate, play unique event #5.\nIf you already played #5 or do not want to investigate, keep moving\nthrough town.",
+    "2\nAbandoned farm. There is a 2 in 6 chance of a random encounter\nfrom the Undead, Possessed or Witch Children table (your choice).\nIn any case, you find d6 Food OR you may perform a Search roll\n(your choice), gaining one of the following on a success: 1 pitchfork,\n1 axe, d6 doses of salt, 1 holy book, d3 shotgun shells, 1 Clue.",
+    "3\nFriendly farmers. You may heal up to 2 Life and 1 Sanity. You also\ngain 2 or d3 (your choice) Food OR 1 roll on the Random Objects or\non the Useful Stuff tables (your choice). As you leave, the farm is\nattacked by an unknown foe. You may choose to defend the farmers\nand fight the creatures, or leave. If you remain and defeat the\ncreature/s, gain 1 XP. If you leave, lose 1 Sanity. If you remain to\nfight, roll d6 to determine the nature of the attackers: 1-2 Undead,\n3 Slasher, 4 Possessed, 5 Beast, 6 Demonic horror, then roll on the\nappropriate sub-table.",
+    "4\nCries for help from a farm. If you want to help, play Unique event\n#9. If you have already played it in this mission or do not want to\nintervene, keep moving through town.",
+    "5\nThe farm is besieged by 2d6 L3 Zombies, Slow Undead, 1 Life point\neach, damage 1. If you defeat the zombies, the farmers will give you\nd6 Food points or d6 shotgun shells (choose) as a thank you.",
+    "6\nPlay unique event #10. If you already played that event during\nthis mission, roll on the Beasts table. You may avoid this\nencounter by performing a successful Stealth roll against the\ncreature’s L. Add +1 if you have the Stealth Skill, and +2 if you have\nStealth (Expert).  If the roll fails, you must fight the creature. If you\ndefeat the creature, choose: 1) you gain d3 Food points; or 2) roll\nonce on the Useful Stuff table."
+  ],
+  "reading": {
+    "en": {
+      "title": "farm table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "农场表（D6）",
+      "text": [
+        "1\n阴森的废弃农场。若调查，游玩独特事件#5。若已游玩过#5或不想调查，就继续在城镇中移动。",
+        "2\n废弃农场：有2/6概率从不死生物、附身者或女巫之子表中随机遭遇（由你选择一张表）。无论结果如何，你都可以获得D6点食物，或进行一次搜索检定（二选一）。搜索成功时，从下列物品中选一项获得：1把干草叉、1把斧头、D6剂盐、1本圣书、D3发霰弹、1点线索。",
+        "3\n友善的农夫：可恢复至多2点生命和1点理智。另可获得2点或D3点食物（由你选择），或在随机物品表/有用物品表上掷1次（由你选择）。你离开时农场遭到未知敌人袭击。你可以选择留下保护农夫并与生物战斗，或离开。留下并击败生物则获得1点经验；离开则损失1点理智。若留下战斗，掷D6决定袭击者：1–2不死生物，3杀手，4附身者，5野兽，6恶魔恐怖，然后掷相应子表。",
+        "4\n农场传来求救声。若想帮忙，游玩独特事件#9。若本次任务中已经游玩过该事件，或不想介入，就继续在城镇中移动。",
+        "5\n农场遭到2D6只L3僵尸围攻。它们是行动迟缓的不死生物，每只生命1、伤害1。若击败僵尸，农夫会感谢你，并让你选择D6点食物或D6发霰弹。",
+        "6\n游玩独特事件#10。若本次任务中已经游玩过该事件，则掷野兽表。你可以对抗该生物的L进行成功的潜行检定以避开遭遇；潜行技能+1，专家级潜行+2。失败则必须战斗。击败生物后任选：1）获得D3点食物；或2）在有用物品表上掷1次。"
+      ]
+    }
+  }
+}

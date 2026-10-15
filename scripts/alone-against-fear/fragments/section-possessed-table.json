@@ -1,0 +1,45 @@
+{
+  "id": "section-possessed-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-possessed-table:p0",
+      "kind": "heading",
+      "text": "Possessed table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[61,22,48]]"
+    },
+    {
+      "id": "section-possessed-table:p1",
+      "kind": "body",
+      "text": "1\nd6+1 Cultists, L2 Humans, 1 Life each, armed with knives\n(damage 1). They are trying to capture sacrifices. You may\navoid this encounter succeeding in an L5 Charisma roll and\ngiving them one of the following items:  book, candle, 1 Food\npoint each,1 magic item. Add +1 if you have Charisma and +2\nif you have Charisma (Expert).\n",
+      "sourceLocation": "pdf:spans:[[61,48,50],[61,50,107],[61,107,166],[61,166,225],[61,225,287],[61,287,347],[61,347,378]]"
+    },
+    {
+      "id": "section-possessed-table:p2",
+      "kind": "body",
+      "text": "2\nPossessed Doll, L3 Artificial creature, 4 Life. Save vs. L4 Fear\n(add +1 if you have Will or +2 if you have it at Expert level) or\nlose 1 Sanity when you first meet a doll in the campaign.\nSusceptible to exorcism.\n3 d6 Possessed Objects  L2 Artificial creatures, 1 Life. They  have\na 2 in 6 chance of surprise. Susceptible to exorcism.\n",
+      "sourceLocation": "pdf:spans:[[61,378,380],[61,380,445],[61,445,511],[61,511,569],[61,569,594],[61,594,662],[61,662,716]]"
+    },
+    {
+      "id": "section-possessed-table:p3",
+      "kind": "body",
+      "text": "4\nDemon Cat, L4 Animal, 4 Life.  Has a 2 in 6 chance of surprise.\nEvery turn, you must save vs. L1 Magic or lose 1 Sanity and 1\nLife. This is its only attack. Susceptible to exorcism. Once the\ncat has taken 2 or 3 points of damage, roll a 4 in 6 chance that\nit will flee. You may distract the cat, gaining a +2 to your Escape\nroll, if you use 1 can of cat food.\n",
+      "sourceLocation": "pdf:spans:[[61,716,718],[61,718,782],[61,782,844],[61,844,909],[61,909,974],[61,974,1042],[61,1042,1078]]"
+    },
+    {
+      "id": "section-possessed-table:p4",
+      "kind": "body",
+      "text": "5\nDemon Dog, L5, 6 Life. Susceptible to exorcism. Vulnerable\nto holy water. If the encounter  happens in a place of worship\nor in an area neighboring a place of worship, as soon as the\nDemon Dog loses 3 Life, roll d6. On a 1 to 3, it flees. On a 4+,\nit continues to fight to the death. You may distract the dog,\ngaining a +2 to your Escape roll, using 1 can of dog food or 1\ndog toy.\n",
+      "sourceLocation": "pdf:spans:[[61,1078,1080],[61,1080,1139],[61,1139,1202],[61,1202,1263],[61,1263,1328],[61,1328,1390],[61,1390,1453],[61,1453,1462]]"
+    },
+    {
+      "id": "section-possessed-table:p5",
+      "kind": "body",
+      "text": "6\nd6 Possessed People, L3 Humans, 2 Life each. When the last\none is killed, roll d6. If you roll a 1, play unique event #3. If you\nroll 2-6, ignore the roll.\nPossessed are demon-worshippers, or people, animals and objects powered\nby evil spirits.",
+      "sourceLocation": "pdf:spans:[[61,1462,1464],[61,1464,1523],[61,1523,1593],[61,1593,1620],[61,1620,1692],[61,1692,1708]]"
+    }
+  ],
+  "sourcePages": [
+    61
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "30",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "30:p0",
+      "kind": "heading",
+      "text": "#30 - one of us\n",
+      "sourceLocation": "pdf:spans:[[90,1263,1279]]"
+    },
+    {
+      "id": "30:p1",
+      "kind": "body",
+      "text": "You follow the kid into the alley.\nHe is being harassed by a group\nof mean looking teens wearing\ncreepy Halloween masks. They\ncircle him and shove him off\nbalance. As you intervene to stop\nthe bullies, they turn to you,\nhissing “He was one of us and he\nwent away. Now he has to pay!”\nYou may leave the kid to this\ncompany of delinquent youths (go\nback to your exploration of the\ntown) or ask that they leave him\nalone (go to #32).\n",
+      "sourceLocation": "pdf:spans:[[90,1279,1314],[90,1314,1346],[90,1346,1376],[90,1376,1405],[90,1405,1434],[90,1434,1468],[90,1468,1499],[90,1499,1532],[90,1532,1563],[90,1563,1593],[90,1593,1626],[90,1626,1658],[90,1658,1691],[90,1691,1710]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "637"
+  ],
+  "text": [
+    "你们四人逃跑时，那只生物似乎锁定了伯纳德。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 637",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 637",
+      "text": [
+        "As the four of you run, the creature seems to zero in on Bernard."
+      ]
+    }
+  }
+}

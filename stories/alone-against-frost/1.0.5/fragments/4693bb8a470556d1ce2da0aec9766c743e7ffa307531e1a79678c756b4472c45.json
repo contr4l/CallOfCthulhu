@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "537"
+  ],
+  "text": [
+    "你摸索着抓住岸边时，诺曼一把抓住你，将你拉上岸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 537",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 537",
+      "text": [
+        "As you grope for a handhold on the bank, Norman seizes you and pulls you to land."
+      ]
+    }
+  }
+}

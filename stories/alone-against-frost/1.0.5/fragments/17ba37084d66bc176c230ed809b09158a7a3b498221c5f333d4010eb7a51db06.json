@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "493"
+  ],
+  "text": [
+    "一个巨大的毛茸茸身影蹒跚着出现在你面前。起初你把它当成大猩猩；再看一眼，人类学家的眼光便认出这是一个从未有科学描述的物种。此时最恰当的做法是递给它食物，表示友好。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 493",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 493",
+      "text": [
+        "A gigantic hairy shape shuffles out before you. At first, you mistake it for a gorilla—but at second glance, your anthropologist’s eye marks it as a species never before described scientifically. The appropriate action here is to offer it food as a gesture of friendship."
+      ]
+    }
+  }
+}

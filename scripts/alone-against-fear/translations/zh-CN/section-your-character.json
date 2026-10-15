@@ -1,0 +1,33 @@
+{
+  "id": "section-your-character",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "154101ded49e4f44a3025f41dfccc25fbe56966cd2762484cbed26070d7a9f50",
+  "paragraphs": [
+    {
+      "id": "section-your-character:p0",
+      "text": "你的角色"
+    },
+    {
+      "id": "section-your-character:p1",
+      "text": "给角色取个名字，并想象一下他或她的样子。如果一时没有头绪，可以把角色想成你喜欢的电视剧或电影中的人物。创建角色很简单；如果你想直接开始行动，也可以使用书末的预设角色。\n你的角色初始拥有："
+    },
+    {
+      "id": "section-your-character:p2",
+      "text": "● 两项数值（理智和生命）。"
+    },
+    {
+      "id": "section-your-character:p3",
+      "text": "● 自选2项技能（不能选奥术技能）。"
+    },
+    {
+      "id": "section-your-character:p4",
+      "text": "● 随机武器表中的1件武器（第20页）和1把小刀。"
+    },
+    {
+      "id": "section-your-character:p5",
+      "text": "● 随机物品表中的1件物品（第22页），以及实用物品表中的1件物品（第25页）。重复结果要重掷。\n生命和理智初始值均为8。你还有3点额外点数，可以按喜好分配到这两项数值。例如，你可以设为生命8、理智11；生命10、理智9；或生命11、理智8。\n你也可以用这3点额外点数获得一项额外技能，或从随机武器表、随机物品表、实用物品表中任选其一额外掷一次。"
+    }
+  ],
+  "notes": []
+}

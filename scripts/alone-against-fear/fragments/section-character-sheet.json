@@ -1,23 +1,18 @@
 {
   "id": "section-character-sheet",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-character-sheet:p0000",
-      "kind": "body",
+      "id": "section-character-sheet:p0",
+      "kind": "heading",
       "text": "Character Sheet\n",
       "sourceLocation": "pdf:spans:[[100,174,190]]"
     },
     {
-      "id": "section-character-sheet:p0001",
+      "id": "section-character-sheet:p1",
       "kind": "body",
-      "text": "Injuries\n",
-      "sourceLocation": "pdf:spans:[[100,190,199]]"
-    },
-    {
-      "id": "section-character-sheet:p0002",
-      "kind": "body",
-      "text": " Mental scars\n",
-      "sourceLocation": "pdf:spans:[[100,199,213]]"
+      "text": "Injuries\n Mental scars\nSkills\n weapons\nammo\ncandles\nKeywords",
+      "sourceLocation": "pdf:spans:[[100,190,199],[100,199,213],[100,213,220],[100,220,229],[100,229,234],[100,234,242],[100,242,250]]"
     }
   ],
   "sourcePages": [

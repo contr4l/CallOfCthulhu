@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "230"
+  ],
+  "text": [
+    "你被灌木丛缠住，灰色人影却灵巧地逃走了。等他回到族人那里，他们可能会躲开你们的探险队，也可能组成一支复仇战团。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 230",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 230",
+      "text": [
+        "You become entangled in the undergrowth while the gray figure speeds nimbly on to freedom. When he reaches his people, they may hide from your expedition. But they also may form a vengeful war party."
+      ]
+    }
+  }
+}

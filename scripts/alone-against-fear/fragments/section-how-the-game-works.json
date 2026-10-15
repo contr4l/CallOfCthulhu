@@ -1,101 +1,18 @@
 {
   "id": "section-how-the-game-works",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-how-the-game-works:p0000",
-      "kind": "body",
+      "id": "section-how-the-game-works:p0",
+      "kind": "heading",
       "text": "How the Game Works\n",
       "sourceLocation": "pdf:spans:[[37,22,41]]"
     },
     {
-      "id": "section-how-the-game-works:p0001",
+      "id": "section-how-the-game-works:p1",
       "kind": "body",
-      "text": "After creating your character,\n",
-      "sourceLocation": "pdf:spans:[[37,41,72]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0002",
-      "kind": "body",
-      "text": "select a mission by rolling d6 on\n",
-      "sourceLocation": "pdf:spans:[[37,72,106]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0003",
-      "kind": "body",
-      "text": "the Mission Table. This will give you\n",
-      "sourceLocation": "pdf:spans:[[37,106,144]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0004",
-      "kind": "body",
-      "text": "a general goal to accomplish.\n",
-      "sourceLocation": "pdf:spans:[[37,144,174]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0005",
-      "kind": "body",
-      "text": "When you complete that mission,\n",
-      "sourceLocation": "pdf:spans:[[37,174,206]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0006",
-      "kind": "body",
-      "text": "you will receive the listed rewards.\n",
-      "sourceLocation": "pdf:spans:[[37,206,243]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0007",
-      "kind": "body",
-      "text": "If your character survives, you will\n",
-      "sourceLocation": "pdf:spans:[[37,243,280]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0008",
-      "kind": "body",
-      "text": "continue to play this character in\n",
-      "sourceLocation": "pdf:spans:[[37,280,315]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0009",
-      "kind": "body",
-      "text": "future missions. If s/he dies, you\n",
-      "sourceLocation": "pdf:spans:[[37,315,350]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0010",
-      "kind": "body",
-      "text": "will have to create a new one. The\n",
-      "sourceLocation": "pdf:spans:[[37,350,385]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0011",
-      "kind": "body",
-      "text": "final Campaign goal is to close 7\n",
-      "sourceLocation": "pdf:spans:[[37,385,419]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0012",
-      "kind": "body",
-      "text": "hell gates. Once that is done (this\n",
-      "sourceLocation": "pdf:spans:[[37,419,455]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0013",
-      "kind": "body",
-      "text": "will happen over the course of\n",
-      "sourceLocation": "pdf:spans:[[37,455,486]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0014",
-      "kind": "body",
-      "text": "multiple missions), you win the\n",
-      "sourceLocation": "pdf:spans:[[37,486,518]]"
-    },
-    {
-      "id": "section-how-the-game-works:p0015",
-      "kind": "body",
-      "text": "game.\n",
-      "sourceLocation": "pdf:spans:[[37,518,524]]"
+      "text": "After creating your character,\nselect a mission by rolling d6 on\nthe Mission Table. This will give you\na general goal to accomplish.\nWhen you complete that mission,\nyou will receive the listed rewards.\nIf your character survives, you will\ncontinue to play this character in\nfuture missions. If s/he dies, you\nwill have to create a new one. The\nfinal Campaign goal is to close 7\nhell gates. Once that is done (this\nwill happen over the course of\nmultiple missions), you win the\ngame.\n",
+      "sourceLocation": "pdf:spans:[[37,41,72],[37,72,106],[37,106,144],[37,144,174],[37,174,206],[37,206,243],[37,243,280],[37,280,315],[37,315,350],[37,350,385],[37,385,419],[37,419,455],[37,455,486],[37,486,518],[37,518,524]]"
     }
   ],
   "sourcePages": [

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "533"
+  ],
+  "text": [
+    "你和西尔维娅一起挣扎着游到岸边。安全上岸后，你们松开彼此，躺着仰望天空，大口喘气，等诺曼赶来。",
+    "你对学术的执着逐渐消退。你们冒着生命危险究竟为了什么？只是进入一个很可能空无一物的箱形峡谷吗？探险队已一团糟。该结束了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 533",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 533",
+      "text": [
+        "Together, you and Sylvia struggle to the shore. Safe on dry land, you disengage and lie staring into the sky, gasping for breath and waiting for Norman to join you.",
+        "Your academic commitment fades. For what purpose have you been risking your lives? To enter what is probably an empty box canyon? The expedition is in a shambles. It’s time you ended it."
+      ]
+    }
+  }
+}

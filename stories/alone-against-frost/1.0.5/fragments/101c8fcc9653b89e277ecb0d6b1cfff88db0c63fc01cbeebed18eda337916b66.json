@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "77"
+  ],
+  "text": [
+    "你和其他人在老旧木屋摇摇欲坠的空壳里铺床休息。倾斜的墙壁能挡住一些冷风；至于屋顶的状况，你只希望别下雨。",
+    "外面青蛙叫得很响，但你觉得自己听见了什么。你请大家安静，仔细倾听。没错——森林地面腐烂的落叶上，传来踉跄脚步声。你让学生们拿好武器，再出去查看。",
+    "你的步枪微微颤动。",
+    "你看见一个白人男子。他的胡须又乱又油腻，身上除了一些裹在脚上的破布和系在腰间的兽皮，什么也没穿。他脸上疯狂的神情让你不安，但他没有携带武器。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 77",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 77",
+      "text": [
+        "You and the others make your beds in the decrepit shell of the old cabin. The sagging walls afford some shelter from the chilly wind, though the condition of the roof makes you hope it doesn’t rain.",
+        "The frogs are noisy outside, but you think you hear something. You ask for silence and listen. There—the rustle of unsteady feet walking through the dead matting of the forest floor. You tell the students to arm themselves before stepping outside.",
+        "Your rifle wavers.",
+        "You see a white man. His beard is wild and greasy. He is naked except for rags wrapped around his feet and an animal hide tied about his waist. The crazed expression on his face worries you, but he carries no weapons."
+      ]
+    }
+  }
+}

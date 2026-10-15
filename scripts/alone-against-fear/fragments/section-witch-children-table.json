@@ -1,0 +1,51 @@
+{
+  "id": "section-witch-children-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-witch-children-table:p0",
+      "kind": "heading",
+      "text": "Witch children table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[66,22,53]]"
+    },
+    {
+      "id": "section-witch-children-table:p1",
+      "kind": "body",
+      "text": "1\nWitch Child. L4, 3 Life, no damage. Each attack from the witch child\ncauses a save vs. L4 Fear. If you fail the save, you must either lose 1\nSanity or leave the area (treat like a successful Escape roll). Loot: 2 in 6\nchance of a book (roll on the random book table) and a 3 in 6 of a roll\non the Children’s Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[66,53,55],[66,55,124],[66,124,196],[66,196,273],[66,273,345],[66,345,376]]"
+    },
+    {
+      "id": "section-witch-children-table:p2",
+      "kind": "body",
+      "text": "2\nd3+1 Children in Pumpkin Masks. L2, 1 Life each, armed with damage\n1 kitchen knives. Save vs. L3 Fear (add +1 if you have Will or +2 if you\nhave it at Expert level) or lose 1 Sanity every time you kill a child. Loot:\n2 in 6 chance of (choose) d3 Food or a random item from the Useful\nStuff or Random Item table, your choice, + 1 knife per child defeated.\n",
+      "sourceLocation": "pdf:spans:[[66,376,378],[66,378,445],[66,445,518],[66,518,595],[66,595,662],[66,662,733]]"
+    },
+    {
+      "id": "section-witch-children-table:p3",
+      "kind": "body",
+      "text": "3\nSchax. L5 unique demon, 4 Life, damage 1. He is a large humanoid\ncrane, attacking with his long, pointed beak. Vulnerable to exorcism\nand holy water. Schax may not be killed: if you bring his Life to 0, he\ndisappears in a pool of rotting flesh. You may encounter him again\nlater, with all wounds healed, if you roll again this result. Each time you\nmeet Schax, save vs. L5 Fear  (add +1 if you have Will or +2 if you have\nit at Expert level) or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[66,733,735],[66,735,800],[66,800,869],[66,869,941],[66,941,1008],[66,1008,1084],[66,1084,1157],[66,1157,1195]]"
+    },
+    {
+      "id": "section-witch-children-table:p4",
+      "kind": "body",
+      "text": "4\nd6 Children in Rabbit Masks. L2, 1 Life each, armed with damage 1\nsticks. Save vs. L3 Fear (+1 if you have Will, +2 if you have it at Expert\nlevel) or lose 1 Sanity each time you kill a child. If you do not want to\nkill them, you may attack them with bare hands (-2 on Attack rolls). Loot:\nRoll a 3 in 6 chance of d3 Food or 1 roll on the Children’s Stuff table.\n",
+      "sourceLocation": "pdf:spans:[[66,1195,1197],[66,1197,1263],[66,1263,1338],[66,1338,1412],[66,1412,1487],[66,1487,1560]]"
+    },
+    {
+      "id": "section-witch-children-table:p5",
+      "kind": "body",
+      "text": "5\nPied Piper. L3 apparition, unlimited Life. He plays his magic flute. Save\nvs. L4 Magic each turn  (add +1 if you have Will or +2 if you have it at\nExpert level) or be compelled to dance, unable to attack. Every time you\ndance, roll a 2 in 6 chance of losing either 1 Life point or 1 item (your\nchoice). The piper has an unlimited number of Life points. Roll d6 every\ntime you wound him. If the result is equal to or lower than the Life\npoints you inflicted so far in this encounter, he disappears. Loot: 2 in 6\nchance of d3 doses of bone powder.\n",
+      "sourceLocation": "pdf:spans:[[66,1560,1562],[66,1562,1636],[66,1636,1709],[66,1709,1782],[66,1782,1856],[66,1856,1929],[66,1929,1998],[66,1998,2073],[66,2073,2108]]"
+    },
+    {
+      "id": "section-witch-children-table:p6",
+      "kind": "body",
+      "text": "6\nMaster Scarecrow. L5 demon, 6 Life, 1 Damage, 2 Damage if you roll\na 1 on a Defense roll. A molotov cocktail thrown at it will destroy it\nautomatically. If you have a lighter and a torch, you may also\nautomatically inflict 1 damage every turn. Loot: 1 in 6 chance of d3 Food.\nIt is armed with a scythe.",
+      "sourceLocation": "pdf:spans:[[66,2108,2110],[66,2110,2177],[66,2177,2248],[66,2248,2311],[66,2311,2386],[66,2386,2412]]"
+    }
+  ],
+  "sourcePages": [
+    66
+  ]
+}

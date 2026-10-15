@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "462"
+  ],
+  "text": [
+    "那晚你在睡梦中瑟瑟发抖。西尔维娅摇醒你，她呼出的气在空中凝成白雾。“纳德尔曼博士！”她焦急地说，“伯尼出事了！”",
+    "伯纳德躺在树桩后，身体已经萎缩、松弛得不成样子。额头像泄了气的篮球一样凹陷下去。你无法理解，他这样竟然还活着。",
+    "一串圆形脚印走近伯纳德，又从他身旁经过。它们首尾相接，排成直线；每个脚印都微微凸起，覆着冰霜并散发蓝色蒸气。树林里有东西。",
+    "去寻找它，前往69。逃离这片闹鬼的树林，前往463。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 462",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 462",
+      "text": [
+        "That night you shiver in your sleep. Sylvia shakes you awake, her breath misting in the air. “Dr. Nadelmann!” she says urgently. “It’s Bernie! He’s been hurt!”",
+        "Bernard lies behind a stump. He has been reduced to a shrunken, flabby thing. His forehead is caved in like a deflated basketball. How he can be alive in that condition is beyond your ken.",
+        "A set of round tracks approaches Bernard and goes on past him. They follow one another in a straight line—and each is convex, coated with a glaze of ice that gives off a blue vapor. Something is in the woods.",
+        "To seek it out, go to 69. To flee this haunted wood, go to 463."
+      ]
+    }
+  }
+}

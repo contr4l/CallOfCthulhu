@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "8"
+  ],
+  "text": [
+    "值守期间，没有任何声音打扰你。到了午夜，你打了个哈欠，穿过小小一圈火光，走到熟睡的伯纳德·埃布斯坦身边，低声唤醒他。学生没有回应，你用靴尖探了探阴影中的地面，脚下只有沙土——毯子里空无一人。",
+    "你很担心，又提高声音喊了一遍伯纳德的名字。队里其他人从睡袋里慌忙爬出来，睡眼惺忪地七嘴八舌地问发生了什么。",
+    "“安静！”查理厉声喝道。她从营火中抽出一根火把，高高举起，在伯纳德毯子周围的地面上照了一圈。她停下脚步。火把在她棕色、粗糙的手掌中颤抖着。1",
+    "即使是你这种外行也看得出，泥土上留下了清晰的印痕。你问查理，那是不是浣熊的脚印。",
+    "“不是浣熊。”向导用一种古怪的语气低声回答。她不再多说。你能说服她开口吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 8",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 8",
+      "text": [
+        "You hear nothing to disturb your watch. At midnight, you yawn and cross the tiny circle of firelight to where Bernard Ebstein sleeps, whispering to wake him up. When the student makes no sound, you probe the shadows with the toe of your boot. You feel only sandy soil beneath the empty blankets.",
+        "Concerned, you repeat Bernard’s name, louder. The other members of your party scramble out of their bedrolls, bleary and asking questions.",
+        "“Be silent!” barks Charlie. She takes a brand from the campfire and holds it aloft, passing it over the ground surrounding Bernard’s blankets. She pauses. The brand trembles in her brown, leathery fist. 1",
+        "Even your amateur eye can spot the marks impressed into ( the earth. You ask Charlie if they are the tracks of a raccoon.",
+        "“Not a raccoon,” the guide whispers in an odd tone. She says no more. Can you convince her to open up?"
+      ]
+    }
+  }
+}

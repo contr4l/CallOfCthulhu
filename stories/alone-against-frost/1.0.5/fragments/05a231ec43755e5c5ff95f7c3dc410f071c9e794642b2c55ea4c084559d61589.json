@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "128"
+  ],
+  "text": [
+    "进行追踪检定：成功则前往188；失败则前往190。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 128",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 128",
+      "text": [
+        "Attempt a Track roll: if you succeed, go to 188; if you fail, go to 190."
+      ]
+    }
+  }
+}

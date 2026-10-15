@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "514"
+  ],
+  "text": [
+    "漩涡控制住独木舟，把它拖过一根水下树桩，船身被撕裂，你也被抛进急流。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 514",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 514",
+      "text": [
+        "The whirlpools take charge of the canoe and pull it across a snag, tearing the craft open and throwing you into the boil."
+      ]
+    }
+  }
+}

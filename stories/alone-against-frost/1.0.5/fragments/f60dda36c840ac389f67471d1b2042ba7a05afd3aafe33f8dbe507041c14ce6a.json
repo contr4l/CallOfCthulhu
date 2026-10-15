@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "527",
+    "frost-auto-527"
+  ],
+  "text": [
+    "连续三天，你和学生们每天都用整个白天寻找伯纳德。查理留在营地守候，惊恐地望着天空。到了第四天，你不得不接受研究生可能永远失踪的事实。",
+    "令你意外的是，查理承担起这场悲剧的责任，主动来向你道歉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 527",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 527",
+      "text": [
+        "For three days, you and the students spend every daylight hour looking for Bernard. Charlie guards the camp, watching the sky with fearful eyes. On the fourth day, you have to accept that your grad student may be gone for good.",
+        "To your surprise, Charlie takes responsibility for the tragedy. She approaches you to apologize."
+      ]
+    }
+  }
+}

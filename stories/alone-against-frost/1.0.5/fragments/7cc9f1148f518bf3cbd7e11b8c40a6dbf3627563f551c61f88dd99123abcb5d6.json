@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "627"
+  ],
+  "text": [
+    "大脚怪走近时没有明显敌意。你屏住呼吸忍受臭气，任它们像好奇的孩子般窥看你的脸、用笨拙的手指触摸衣服。它们困惑地看着衣料，或许在想那是不是一种奇怪的彩色皮肤。几分钟后，它们失去兴趣，蹒跚离去。",
+    "西尔维娅和诺曼惊讶地面面相觑。这正是他们期待的实地体验，是理论付诸实践的真实例子。你只希望能把他们带回密斯卡托尼克大学，让这次经历影响他们的研究。",
+    "片刻后，你想起还在寻找伯纳德。失落山谷似乎把他吞没了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 627",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 627",
+      "text": [
+        "The sasquatches approach without overt threatening gestures. Holding your breath against their odor, you allow them to peer like curious children into your face and to touch your garments with clumsy fingers. They wear puzzled expressions, perhaps unable to decide if the cloth is a strange kind of colorful skin. After a few minutes of this, the creatures lose interest and shuffle away.",
+        "Sylvia and Norman stare at each other, amazement in their eyes. This is the field experience they had hoped for, a true example of theory into practice. You only hope you can get them back to Miskatonic University and see its effect on their studies.",
+        "After a moment, you remember the search for Bernard. The lost valley seems to have swallowed him up."
+      ]
+    }
+  }
+}

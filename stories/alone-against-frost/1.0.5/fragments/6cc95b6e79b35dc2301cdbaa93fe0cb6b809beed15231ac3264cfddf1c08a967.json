@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "398",
+    "frost-auto-398"
+  ],
+  "text": [
+    "你想起西尔维娅敏锐的才智、忠诚，以及即使远征一路厄运不断仍坚持到底的毅力。只要她还有一口气，你就不能把她丢给这些生物。你牵着她的手，穿过熟睡的雪怪营地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 398",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 398",
+      "text": [
+        "You think of Sylvia’s keen intellect, her loyalty, and her persistence despite the doom that has seemed to dog this expedition. While life remains within her, you cannot abandon her to these creatures. You lead her by hand through the camp of sleeping sasquatches."
+      ]
+    }
+  }
+}

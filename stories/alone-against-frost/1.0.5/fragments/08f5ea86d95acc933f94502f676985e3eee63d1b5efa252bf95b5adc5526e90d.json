@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "370",
+    "frost-auto-370"
+  ],
+  "text": [
+    "你和两名学生穿过草甸时，雷姆山脉上空乌云堆积。你们朝一棵高大、枝叶宽展的树跑去避雨，途经一群正在长满花草的草地上吃草、被认为早已灭绝的动物。",
+    "突然，一声炮响般的巨响伴随耀眼闪光传来。一道闪电击中你们原本要躲避的那棵树，树身从中裂开，碎裂的树干里燃起火光。",
+    "你们似乎逃过一劫，但周围这些奇异动物的哀鸣、嘶叫和长啸提醒你们危险尚未过去。受惊的兽群即将奔逃！",
+    "你带领队伍尽可能快地跑向树林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 370",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 370",
+      "text": [
+        "As you and the two students cross a meadow, thunderheads build above the Ram Mountains. You head toward a tall, wide- spreading tree for shelter, past many supposedly extinct species of herd animals feeding on the long, flowering grasses.",
+        "Suddenly, there is a blast like a cannon shot and a blinding flash. A bolt of lightning has struck the tree that was your destination. It cracks in half. Fire flashes in the shattered trunk.",
+        "This seems like a near escape, until the bleating, neighs, and trumpeting of the fabulous animals around you warn you of danger. The terrified beasts are about to stampede!",
+        "You lead your party toward the woods as fast as they can sprint."
+      ]
+    }
+  }
+}

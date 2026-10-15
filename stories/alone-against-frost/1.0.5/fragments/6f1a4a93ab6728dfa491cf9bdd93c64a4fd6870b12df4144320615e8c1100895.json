@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "309"
+  ],
+  "text": [
+    "巨大的猿类身影——至少有二十只！它们兴奋地挥舞着棍棒和石块。你被困在沟谷里，深感自己毫无还手之力。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 309",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 309",
+      "text": [
+        "Huge, ape-like figures—at least a score of them! They appear excited, waving clubs and rocks in their huge paws. Hemmed in the gully, you feel very vulnerable."
+      ]
+    }
+  }
+}

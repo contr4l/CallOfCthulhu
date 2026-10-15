@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "477"
+  ],
+  "text": [
+    "你们两人都没有喊叫，或许是太过惊讶。前方不远处，一群怪异生物正在劳作，它们用灵巧的爪子操纵机器，吸取岩石上的矿物沉积物。这些生物像粉红色、五英尺高的甲壳动物，身上长着真菌。它们肯定不是这颗星球的原住民。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 477",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 477",
+      "text": [
+        "Neither of you cry out; perhaps you’re too astonished to do so. A short distance up ahead, a band of bizarre creatures toil, using machines held in delicate claws to suck up mineral deposits precipitated on the rocks. These entities resemble pink, five-foot-high crustaceans infested with fungoid growths. They surely could not have originated on this planet."
+      ]
+    }
+  }
+}

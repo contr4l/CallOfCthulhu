@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "575",
+    "frost-auto-575"
+  ],
+  "text": [
+    "身后响起枪声。子弹砸进前方覆苔的土地，其中一人踉跄倒下。转瞬间，猎人已从四面围住你们。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 575",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 575",
+      "text": [
+        "Shots ring out behind you. As slugs thump into the mossy earth ahead, one of you stumbles. In an instant, the hunters are on every side."
+      ]
+    }
+  }
+}

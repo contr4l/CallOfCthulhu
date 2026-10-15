@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "29"
+  ],
+  "text": [
+    "“不！”心烦意乱的查理大喊，“你不明白！我们必须马上离开这座山谷！留在这里简直是发疯！”",
+    "若要认输回家，前往 32。若要让迷信的向导留在营地生闷气，由你带其他人出去搜索，前往 52。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 29",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 29",
+      "text": [
+        "“No!” shouts the distraught Charlie. “You do not understand! We must leave this valley at once! It is madness to stay!”",
+        "To accept defeat and go home, go to 32. To let the superstitious guide sulk in camp while you lead the others in a search, go to 52."
+      ]
+    }
+  }
+}

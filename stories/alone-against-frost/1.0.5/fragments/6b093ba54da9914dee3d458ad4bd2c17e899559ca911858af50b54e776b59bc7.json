@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "153"
+  ],
+  "text": [
+    "查理转身面对你。“你简直疯了！我的族人讲过远方来客的故事，也讲过他们可怕的魔法。他们会惩罚窥探他们的人。”",
+    "坚持折返回去救伯纳德，前往154。同意查理的说法，前往155。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 153",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 153",
+      "text": [
+        "Charlie rounds on you. “You speak madness! My people tell stories of the Fishers-From-Afar and their terrible magic. They punish those who spy upon them.”",
+        "To insist upon circling back to help Bernard, go to 154. To agree with Charlie, go to 155."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "495",
+    "frost-auto-495"
+  ],
+  "text": [
+    "经历了过去一周的身心折磨后，你的状态糟透了。紧张让你不由自主地抽搐，腿踢动干枯的落叶。杀人者尖声叫喊，指向你藏身处。你必须逃跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 495",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 495",
+      "text": [
+        "After the physical and mental ordeals of the last week, you are in terrible shape. Your tension causes an involuntary spasm, and your leg jerks in the dry leaves. The murderous men call out shrilly and point your way. You must run for it."
+      ]
+    }
+  }
+}

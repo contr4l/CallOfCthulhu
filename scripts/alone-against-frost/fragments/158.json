@@ -17,8 +17,14 @@
     {
       "id": "158:p2",
       "kind": "body",
-      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo follow the river, go to 60. To gain elevation where you can, go to \n552. To use the mountains as a landmark, go to 56. To hug the tree \nline, go to 233. To explore the deep woods, go to 461.\n(30, 90, 92, 157, 195, 231, 232, 299, 300, 409, 424, 442, 498, \n594, 603, 604, 606, 607, 613)",
-      "sourceLocation": "pdf:visual:[[37,28],[37,29],[37,30],[37,31],[37,32],[37,33]]"
+      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo follow the river, go to 60. To gain elevation where you can, go to \n552. To use the mountains as a landmark, go to 56. To hug the tree \nline, go to 233. To explore the deep woods, go to 461.",
+      "sourceLocation": "pdf:visual:[[37,28],[37,29],[37,30],[37,31]]"
+    },
+    {
+      "id": "158:p3",
+      "kind": "body",
+      "text": "(30, 90, 92, 157, 195, 231, 232, 299, 300, 409, 424, 442, 498, \n594, 603, 604, 606, 607, 613)",
+      "sourceLocation": "pdf:visual:[[37,32],[37,33]]"
     }
   ]
 }

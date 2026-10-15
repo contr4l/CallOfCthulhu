@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "409"
+  ],
+  "text": [
+    "查理坚持说自己并不困，只是需要时间思考。早晨你发现她已经离开，独木舟和她那份补给也一并不见了。",
+    "你把消息告诉西尔维娅和诺曼，他们都皱起眉头。伯纳德则惊讶得合不拢嘴。你看得出，他正在盘算已经走过的路程以及自己即将举行的婚礼。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 409",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 409",
+      "text": [
+        "Charlie insists she is not sleepy and simply needs a chance to think. In the morning you find her gone, along with the canoe and her share of the supplies.",
+        "Sylvia and Norman frown as you break the news. But Bernard’s jaw drops. You can tell he is thinking about all the distance you have covered and his upcoming wedding."
+      ]
+    }
+  }
+}

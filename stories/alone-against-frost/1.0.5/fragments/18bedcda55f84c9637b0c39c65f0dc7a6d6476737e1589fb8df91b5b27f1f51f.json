@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "445"
+  ],
+  "text": [
+    "“你是什么？”你质问道，“告诉我你的本质！”",
+    "那个曾经是查理的东西嘶声说：“你不能逼我开口！”她的嗓音像石块拖过路面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 445",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 445",
+      "text": [
+        "“What are you?” you demand. “Tell me your nature!”",
+        "The thing that was Charlie rasps, “You cannot compel me to speak!” Her voice sounds like a sledge dragged over stones."
+      ]
+    }
+  }
+}

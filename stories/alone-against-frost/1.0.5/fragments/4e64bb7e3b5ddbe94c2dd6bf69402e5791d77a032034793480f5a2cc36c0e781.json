@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "302",
+    "frost-auto-302"
+  ],
+  "text": [
+    "命中了！你的前学生惊恐地嚎叫，捂住胸口。你想起传说中风行者的心脏是最脆弱的器官。你瞄准同一部位再次开枪，但那怪物已受够了，转身逃离营地。",
+    "现在你必须独自面对森林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 302",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 302",
+      "text": [
+        "It’s a hit! Your former student howls with fear and clutches at their heart. You remember something in the legends about a wind-walker’s heart being the most vulnerable organ. You aim for the same target and fire again, but the creature has had enough and bolts from the camp.",
+        "Now you must face the forest—alone."
+      ]
+    }
+  }
+}

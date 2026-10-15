@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "52",
+    "frost-auto-52"
+  ],
+  "text": [
+    "你和学生们在暮色中的灌木丛里徒劳搜索一番后回到营地，却发现独木舟不见了。查理也走了，还带走了一些补给。",
+    "学生们交换了一下眼神。你努力掩饰自己的沮丧。为了他们，你必须坚强。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 52",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 52",
+      "text": [
+        "After a fruitless search through the twilit bush, you and your students return to camp, to find that the canoe has disappeared. Charlie is gone, and she has taken some of the supplies.",
+        "The students exchange a look. You struggle to hide your own dismay. You must be strong for their sake."
+      ]
+    }
+  }
+}

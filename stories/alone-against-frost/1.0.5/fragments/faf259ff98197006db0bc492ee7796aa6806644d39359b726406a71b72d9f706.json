@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "496"
+  ],
+  "text": [
+    "你独自在河岸徘徊，细雨带走了身上的热量。你发现一个洞穴入口，便钻进去避雨。",
+    "你刚走进去一步便停住了。洞中散出的恶臭令人窒息。黑暗里传来沉重的呼吸声。洞里的居民突然走进灰暗的光线中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 496",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 496",
+      "text": [
+        "As you wander alone along the bank of the river, a thin drizzle chills you. You notice a cave opening and duck into it for shelter.",
+        "You stop short one pace in. The stench coming out of the cave is overpowering. You sense heavy breathing in the darkness. Suddenly the inhabitants step into the gray light."
+      ]
+    }
+  }
+}

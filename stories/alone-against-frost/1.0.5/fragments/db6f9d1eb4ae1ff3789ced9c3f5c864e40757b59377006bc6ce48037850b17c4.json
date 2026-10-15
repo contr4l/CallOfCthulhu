@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "649"
+  ],
+  "text": [
+    "诺曼和西尔维娅朝你跑来。看到他们仍然健康站立，你松了口气；而意识到自己的期待已变得如此之低，又让你心头一沉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 649",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 649",
+      "text": [
+        "Norman and Sylvia run toward you. You are relieved to see them still fit and upright—and your stomach sinks when you realize how your expectations have changed."
+      ]
+    }
+  }
+}

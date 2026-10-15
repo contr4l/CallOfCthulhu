@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "461",
+    "frost-auto-461"
+  ],
+  "text": [
+    "队伍各自回到小帐篷休息。伯纳德负责第一班守夜。你在一层树枝上铺好羽绒睡袋，再铺上床单。临睡前，你照例环顾四周；营地已经安顿妥当，所有东西都在原位。",
+    "当晚，你被黑暗中的呼喊惊醒：“埃布斯坦！埃布斯坦！”队伍里没有人能用如此冰冷、干涩的嗓音说话。你起身套上夹克，抓起步枪，正好看见伯纳德用一声含混的叫喊回应呼唤者，随后冲进漆黑的森林。",
+    "诺曼和西尔维娅也赶来，连声追问发生了什么。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 461",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 461",
+      "text": [
+        "Your party turns in, each to their own small tent. Bernard takes the first watch. Over a mat of branches, you throw your eiderdown roll. Upon this, you spread a sheet. You take your customary final look around before turning in; the camp is settled and everything is in place.",
+        "That night you wake to a cry in the darkness: “Eb-stein! Eb- stein!” No one in your party could speak in such a chill, brittle timbre. You rise, throw on your jacket, and seize your rifle. You are just in time to see Bernard answering his caller with an unintelligible shout and darting into the black forest.",
+        "Norman and Sylvia join you, jabbering questions."
+      ]
+    }
+  }
+}

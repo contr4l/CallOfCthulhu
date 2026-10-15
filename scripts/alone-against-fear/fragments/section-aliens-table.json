@@ -1,0 +1,51 @@
+{
+  "id": "section-aliens-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-aliens-table:p0",
+      "kind": "heading",
+      "text": "aliens table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[69,22,45]]"
+    },
+    {
+      "id": "section-aliens-table:p1",
+      "kind": "body",
+      "text": "1\nd6 Grays.  L4 aliens, 1 Life, damage 1. Armed with alien\nrayguns. In your hands, they have +1 to Attack rolls, damage\n1,  damage 2 vs. shadow creatures; on any Attack roll of 1\nthe gun stops working and there is nothing you can do to\nrepair it. Loot: 1 raygun per alien.\n",
+      "sourceLocation": "pdf:spans:[[69,45,47],[69,47,104],[69,104,165],[69,165,224],[69,224,281],[69,281,318]]"
+    },
+    {
+      "id": "section-aliens-table:p2",
+      "kind": "body",
+      "text": "2\nAlien Hunter. L6 alien, 8 Life, damage 2, 4 in 6 chance of\nsurprise. If you are not surprised, you may avoid this\nencounter with a L6 Stealth roll. Escape rolls against the\nHunter are at -1. Loot: 1 grenade.\n",
+      "sourceLocation": "pdf:spans:[[69,318,320],[69,320,379],[69,379,434],[69,434,493],[69,493,528]]"
+    },
+    {
+      "id": "section-aliens-table:p3",
+      "kind": "body",
+      "text": "3\nAlien beast. L6 alien, 6 Life, damage 2, 3 in 6 chance of\nsurprise. Every time you wound the alien, there is a 2 in 6\nchance that a splash from its acid blood will hit you, inflicting\n1 damage if you fail a Defense roll.\n",
+      "sourceLocation": "pdf:spans:[[69,528,530],[69,530,588],[69,588,648],[69,648,714],[69,714,751]]"
+    },
+    {
+      "id": "section-aliens-table:p4",
+      "kind": "body",
+      "text": "4\nd6 Reptilians. L4 aliens, 2 Life each, damage 1. Each blow\nthat hits a reptilian has a 1 in 6 chance of bouncing off its\nscaly skin. Loot: 1 sword per alien.\n",
+      "sourceLocation": "pdf:spans:[[69,751,753],[69,753,812],[69,812,874],[69,874,911]]"
+    },
+    {
+      "id": "section-aliens-table:p5",
+      "kind": "body",
+      "text": "5\nd3 Mi-Go. L5 alien fungi, 1 Life each, damage 2. Upon seeing\nthese creatures, Save vs. L5 Fear or lose 1 Sanity. Each blow\nthat hits a mi-go has a 2 in 6 chance of having no effect. Loot:\n1 mysterious black stone covered in hieroglyphs. If you pick\nit up, read unique event #30.\n",
+      "sourceLocation": "pdf:spans:[[69,911,913],[69,913,974],[69,974,1036],[69,1036,1101],[69,1101,1162],[69,1162,1192]]"
+    },
+    {
+      "id": "section-aliens-table:p6",
+      "kind": "body",
+      "text": "6\nTentacled Beast. L4 alien, 4 Life, damage 1. The beast\nattacks each turn with 4 tentacles. You must defend\nseparately from each tentacle. As long as the beast has 3 or\n4 tentacles, you may not Escape from this encounter. For\neach point of damage inflicted on the beast, it loses 1 tentacle.\nVarious alien civilizations have been studying Earth since ancient times.\nSome use alien beasts as watchdogs. Aliens are very interested in\nunderstanding the reasons for the supernatural disaster that has opened\nup the Gates of Hell.",
+      "sourceLocation": "pdf:spans:[[69,1192,1194],[69,1194,1249],[69,1249,1301],[69,1301,1362],[69,1362,1419],[69,1419,1485],[69,1485,1559],[69,1559,1625],[69,1625,1697],[69,1697,1718]]"
+    }
+  ],
+  "sourcePages": [
+    69
+  ]
+}

@@ -17,102 +17,18 @@
     {
       "id": "451:p2",
       "kind": "body",
-      "text": "The  Keywanema!  Like  fiends,  they  are  seen.  Unbearable \nholocausts of evil! Souls are but sparks to feed their roaring gods ",
-      "sourceLocation": "pdf:visual:[[79,45],[79,46]]"
+      "text": "The  Keywanema!  Like  fiends,  they  are  seen.  Unbearable \nholocausts of evil! Souls are but sparks to feed their roaring gods \nand cunning sorcerers! Bodies blasted! Souls torn! Breathtaking \ncurses  laid  on  generations!  Fury,  fury  against  those  who \nstand  upon  their  continents  as  tall  as  Keywanemeia  is \ntall.  Men  must  die.  Civilizations  must  die! The  rocks \nthey  stand  upon  will  shatter!  Hatred  without  end! \nThe  temples  fill  with  blood.  Souls  hurtle  screaming \nthrough the gateways to the Elder Ones. Offerings \nwithout end. The Keywanema prosper. The gods are \npleased. Their power surges forth. Headlands break! \nContinents crash into the sea! Every element turns upon \nAtlantis, upon Mu. Though the Keywanema’s curse takes \nan eon to work, its progress is relentless. Mu and Atlantis \nare no more. There is only Keywanemeia! Keywanemeia \nand its thirsting gods!",
+      "sourceLocation": "pdf:visual:[[79,45],[79,46],[79,47],[79,48],[79,49],[79,50],[79,51],[79,52],[79,53],[79,54],[79,55],[79,56],[79,57],[79,58],[79,59],[79,60]]"
     },
     {
       "id": "451:p3",
-      "kind": "body",
-      "text": "and cunning sorcerers! Bodies blasted! Souls torn! Breathtaking ",
-      "sourceLocation": "pdf:visual:[[79,47]]"
-    },
-    {
-      "id": "451:p4",
-      "kind": "body",
-      "text": "curses  laid  on  generations!  Fury,  fury  against  those  who ",
-      "sourceLocation": "pdf:visual:[[79,48]]"
-    },
-    {
-      "id": "451:p5",
-      "kind": "body",
-      "text": "stand  upon  their  continents  as  tall  as  Keywanemeia  is ",
-      "sourceLocation": "pdf:visual:[[79,49]]"
-    },
-    {
-      "id": "451:p6",
-      "kind": "body",
-      "text": "tall.  Men  must  die.  Civilizations  must  die! The  rocks ",
-      "sourceLocation": "pdf:visual:[[79,50]]"
-    },
-    {
-      "id": "451:p7",
-      "kind": "body",
-      "text": "they  stand  upon  will  shatter!  Hatred  without  end! ",
-      "sourceLocation": "pdf:visual:[[79,51]]"
-    },
-    {
-      "id": "451:p8",
-      "kind": "body",
-      "text": "The  temples  fill  with  blood.  Souls  hurtle  screaming ",
-      "sourceLocation": "pdf:visual:[[79,52]]"
-    },
-    {
-      "id": "451:p9",
-      "kind": "body",
-      "text": "through the gateways to the Elder Ones. Offerings ",
-      "sourceLocation": "pdf:visual:[[79,53]]"
-    },
-    {
-      "id": "451:p10",
-      "kind": "body",
-      "text": "without end. The Keywanema prosper. The gods are ",
-      "sourceLocation": "pdf:visual:[[79,54]]"
-    },
-    {
-      "id": "451:p11",
-      "kind": "body",
-      "text": "pleased. Their power surges forth. Headlands break! ",
-      "sourceLocation": "pdf:visual:[[79,55]]"
-    },
-    {
-      "id": "451:p12",
-      "kind": "body",
-      "text": "Continents crash into the sea! Every element turns upon ",
-      "sourceLocation": "pdf:visual:[[79,56]]"
-    },
-    {
-      "id": "451:p13",
-      "kind": "body",
-      "text": "Atlantis, upon Mu. Though the Keywanema’s curse takes ",
-      "sourceLocation": "pdf:visual:[[79,57]]"
-    },
-    {
-      "id": "451:p14",
-      "kind": "body",
-      "text": "an eon to work, its progress is relentless. Mu and Atlantis ",
-      "sourceLocation": "pdf:visual:[[79,58]]"
-    },
-    {
-      "id": "451:p15",
-      "kind": "body",
-      "text": "are no more. There is only Keywanemeia! Keywanemeia ",
-      "sourceLocation": "pdf:visual:[[79,59]]"
-    },
-    {
-      "id": "451:p16",
-      "kind": "body",
-      "text": "and its thirsting gods!",
-      "sourceLocation": "pdf:visual:[[79,60]]"
-    },
-    {
-      "id": "451:p17",
       "kind": "body",
       "text": "Gain 6 points of Cthulhu Mythos. If you now stagger from the \ntemple back to your group, go to 532. If you wish to stay and learn \nmore, make a Sanity roll and then a Hard POW roll: if you fail \nthe Sanity roll, lose 1D6 Sanity; if you fail the POW roll, lose 1D3 \nPOW; if you fail both, go to 456; otherwise, go to 452. ",
       "sourceLocation": "pdf:visual:[[79,61],[79,62],[79,63],[79,64],[79,65]]"
     },
     {
-      "id": "451:p18",
-      "kind": "trace",
+      "id": "451:p4",
+      "kind": "body",
       "text": "(450)",
       "sourceLocation": "pdf:visual:[[79,66]]"
     }

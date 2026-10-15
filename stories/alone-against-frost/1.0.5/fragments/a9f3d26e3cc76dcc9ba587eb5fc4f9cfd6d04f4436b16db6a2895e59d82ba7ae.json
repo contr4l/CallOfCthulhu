@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "456",
+    "frost-auto-456"
+  ],
+  "text": [
+    "通往彼方维度的帷幕猛然闭合！但你并非孤身一人；裂隙关闭前，已有某些东西穿了过来。皮肤阵阵刺痛，你感知到了它们。你知道那是异时空的害虫。你曾看见它们的影子，也在混沌洪流中听过它们的名字：Ten`a-ranide！",
+    "你冲出神庙，大叫：“快离开这里！”同伴们已经知道，在北汉尼纳不能轻视这样的警告。他们立刻转身，沿原路飞奔。",
+    "受到1D6点伤害。若队伍仍有五名成员，前往547；若失去一人，前往437。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 456",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 456",
+      "text": [
+        "The veil to the dimension beyond slams shut! But you are not alone; things emerged from the rift before it closed. You sense them in the prickling of your skin. You know them as the vermin of Otherwhen. You saw their shadows, heard their name in the currents of chaos: Ten`a-ranide!",
+        "You dash from the temple and shriek, “Get away from here!” Your companions have learned that such warnings should not be taken lightly in the North Hanninah. They wheel and dash back the way you came.",
+        "Take 1D6 damage. If your party still has five members, go to 547. If you have lost one, go to 437."
+      ]
+    }
+  }
+}

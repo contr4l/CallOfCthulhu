@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "233"
+  ],
+  "text": [
+    "你们靠着能打到或在森林中采到的少量食物勉强维生。一天比一天难熬。",
+    "一晚轮到伯纳德守夜时，诺曼把你摇醒。他双眼睁大，满脸恐惧。“教授！西尔维娅不见了！而且……伯纳德……”",
+    "你心头一沉。伯纳德·埃布斯坦的尸体倒在火边，头骨已经粉碎。旁边丢着一块沉重木头，很可能就是凶器。潮湿地面上的巨大足迹通向黑暗深处。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 233",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 233",
+      "text": [
+        "You subsist on the scant provender which you can shoot or pick up from the forest. Each day’s walk grows harder than the one before.",
+        "One night, on Bernard’s watch, Norman shakes you awake. His eyes are wide and fearful. “Professor! Sylvia’s gone! And… Bernard...”",
+        "Your stomach sinks. Bernard Ebstein’s corpse sprawls by the fire. His skull has been shattered; the likely murder weapon, a heavy piece of wood, lies discarded beside him. Large tracks in the moist earth lead into the darkness."
+      ]
+    }
+  }
+}

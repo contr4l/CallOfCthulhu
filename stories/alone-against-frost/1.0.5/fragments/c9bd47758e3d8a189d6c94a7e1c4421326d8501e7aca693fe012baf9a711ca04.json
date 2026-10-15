@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "278",
+    "frost-auto-278"
+  ],
+  "text": [
+    "你和诺曼因没能救下西尔维娅而愧疚不已，沿着水下岩架缓慢前进，那里通往外界。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 278",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 278",
+      "text": [
+        "Guilt-ridden over the loss of Sylvia and your own inability to save her, you and Norman edge along the submerged ledge that leads to the outside world."
+      ]
+    }
+  }
+}

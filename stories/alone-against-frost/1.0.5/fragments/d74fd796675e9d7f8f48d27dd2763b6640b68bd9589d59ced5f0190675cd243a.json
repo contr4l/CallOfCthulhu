@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "432"
+  ],
+  "text": [
+    "关于失落之地的故事让你得到“爱上森林的纳德尔曼”这个绰号。你成了大学的笑柄，系里暗中施压，要求你辞职。",
+    "两年令人沮丧的日子过后，你离开大学，为私人远征筹款。时机糟透了：大萧条让资助者一贫如洗，计划最终夭折。你仍有一小群支持者，但科学界的敌人给你贴上了“怪人”的标签，再也无法抹去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 432",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 432",
+      "text": [
+        "Your story of a lost land earns you the epithet “Woods-Happy Nadelmann.” You become an embarrassment to the university, and the department subtly pressures you to resign.",
+        "After two frustrating years, you quit the university in order to fundraise for a private expedition. Your timing is poor. The Great Depression impoverishes your sponsors and the effort dies. You retain a small cadre of supporters, but enemies in the scientific community place the indelible label of “crank” upon you."
+      ]
+    }
+  }
+}

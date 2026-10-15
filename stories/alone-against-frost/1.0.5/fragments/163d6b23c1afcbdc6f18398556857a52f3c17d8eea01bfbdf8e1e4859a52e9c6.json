@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "5"
+  ],
+  "text": [
+    "你们在北汉尼纳河边的第一个夜晚平安度过。现在，你必须决定，是加快进度，深入这片地区；还是放慢脚步，边走边探索。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 5",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 5",
+      "text": [
+        "Your first night along the North Hanninah passes without mishap. You must now decide whether to press on hard to penetrate deep into the region or set a more leisurely pace, exploring as you go."
+      ]
+    }
+  }
+}

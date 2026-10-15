@@ -1,0 +1,41 @@
+{
+  "id": "section-keep-track-of-ammo",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "8d766c6de02a4d1d4232c5655995dd021e076572c6d686f63080d8c24ea3bcc4",
+  "paragraphs": [
+    {
+      "id": "section-keep-track-of-ammo:p0",
+      "text": "弹药记录"
+    },
+    {
+      "id": "section-keep-track-of-ammo:p1",
+      "text": "必须分别记录每件远程武器的子弹、箭或霰弹数量。除非两件武器完全相同，否则不能把一件武器的弹药用于另一件。以下弹药类型与武器的对应关系仅为游戏术语，不代表现实中的枪械分类："
+    },
+    {
+      "id": "section-keep-track-of-ammo:p2",
+      "text": "● 手枪使用子弹"
+    },
+    {
+      "id": "section-keep-track-of-ammo:p3",
+      "text": "● 步枪使用步枪子弹"
+    },
+    {
+      "id": "section-keep-track-of-ammo:p4",
+      "text": "● 弩使用弩箭"
+    },
+    {
+      "id": "section-keep-track-of-ammo:p5",
+      "text": "● 弓使用箭"
+    },
+    {
+      "id": "section-keep-track-of-ammo:p6",
+      "text": "● 霰弹枪使用霰弹"
+    },
+    {
+      "id": "section-keep-track-of-ammo:p7",
+      "text": "● 飞刀使用飞刀。\n你可以用不同颜色的标记物（骰子、玻璃珠等）分别记录每件武器的弹药。听起来复杂，但实际上大多数时候你只会用一件武器。若没有合适的标记物，可在纸上划掉对应格子。你可能觉得一颗子弹或一支箭不现实地能杀死多个敌人；掷出6（“爆骰”）时尤其如此。那颗子弹是否穿过了排成一列的4只僵尸的脑袋？当然不是。游戏并非逐发计算子弹，而是用抽象的“有限弹药量”表示资源。例如，突击步枪一回合攻击两次并消耗3点弹药，并不代表它恰好发射了3颗子弹；这个数字只是用于记录消耗资源的游戏抽象。"
+    }
+  ],
+  "notes": []
+}

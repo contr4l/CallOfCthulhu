@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "140",
+    "frost-auto-140"
+  ],
+  "text": [
+    "你、诺曼和西尔维娅必须开始漫长的撤退，返回麦克唐纳堡。",
+    "你战胜了风行者，获得1D6点理智。前往54。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 140",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 140",
+      "text": [
+        "You, Norman, and Sylvia must begin the long retreat back to Fort McDonald.",
+        "Gain 1D6 Sanity for triumphing over the wind-walker. Go to 54."
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "617"
+  ],
+  "text": [
+    "山谷展开为一片草甸，许多有蹄哺乳动物在此吃草，掠食者则潜伏在附近，等待捕捉年老、幼小或病弱的猎物。",
+    "尽管你对古生物学所知有限，眼前的景象仍令你震惊。无需专业知识也能认出，这里生活着早期马、骆驼和野牛，还有大象、犀牛，以及如今已没有近亲的动物；它们在古老年代存在，如今仍然存在。",
+    "一个身影从伯纳德面前的高草中跃出。你看见一只没有驼峰、体型如大型鹿的骆驼，显然是被食肉动物从草甸惊起。伯纳德一时冲动，举枪射击。野兽痛苦地叫了一声，踉跄逃走。伯纳德不愿放弃猎物和你要求的标本，立刻追了上去。",
+    "他没意识到枪声像雷鸣般惊动了平原上的动物。惊恐的叫声回荡开来，兽群开始奔逃。伯纳德发现自己正站在一群长角野牛冲锋的路线上时，已经太迟。他转身沿原路飞奔。",
+    "尽管伯纳德身处险境，你也无法停下救他。你们全都面临危险。附近树林是躲避角、鹿角和蹄潮的唯一庇护所。其他人朝树林逃去，脚下仿佛发生了地震。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 617",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 617",
+      "text": [
+        "The valley opens into grassy meadows, upon which numerous herds of hoofed mammals graze—while predators skulk nearby, hoping to isolate one who is old, young, or sick.",
+        "Despite your limited background in paleontology, the sight of these creatures astonishes you. It does not require expertise to recognize that early varieties of horse, camel, and bison—as well as elephant, rhinoceros, and beasts with no close modern relative—exist here, now, as they did in earlier epochs.",
+        "A shape bounds out of the high grass in front of Bernard. You glimpse a humpless camel about the size of a large deer, doubtless flushed from the meadow by a carnivore. Impulsively, Bernard lifts his rifle and fires. The beast gives a squeal of pain and lurches away. Rather than lose his kill and the trophy you require, Bernard bounds after it.",
+        "He does not realize that his shot has fallen like a thunderclap among the animals of the plain. Their frightened cries echo through the air and they begin to stampede. Too late, Bernard realizes that he stands in the path of a charging herd of long- horned bison. He spins and races back the way he came.",
+        "Despite his danger, you cannot pause to help him. You are all in peril. Only the nearby woods afford refuge from the tide of horns, antlers, and hooves. The rest of you run for the trees, feeling something like an earthquake beneath your soles."
+      ]
+    }
+  }
+}

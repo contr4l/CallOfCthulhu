@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "200",
+    "frost-auto-200"
+  ],
+  "text": [
+    "那些惊恐的小人吓得跳起一英尺高，随即冲进灌木丛，头也不回地逃走。你和其他人从掩体中冲出，解开伯纳德身上的绳索。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 200",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 200",
+      "text": [
+        "Each of the terrified little men leaps a foot off the ground and dashes off into the brush without a backward glance. You and the others rush from cover and cut Bernard free."
+      ]
+    }
+  }
+}

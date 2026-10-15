@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "17"
+  ],
+  "text": [
+    "幻影受惊后消失在灌木丛中。你大喊着叫醒同伴。他们拿着步枪从睡袋里跳起来。“怎么了，医生？”埃布斯坦喘着气问。你解释说，自己看到几个奇怪的小生物在他睡觉时围着他。",
+    "查理倒吸一口气。“我们不能再待在这里了。必须离开北汉尼纳河！”",
+    "你问她缘由，她只是摇头。查理不像是个容易受惊的女人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 17",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 17",
+      "text": [
+        "Startled, the apparitions vanish into the brush. You yell to wake your comrades. They spring from their bedrolls, rifles in hand. “What is it, Doc?” gasps Ebstein. You explain that you saw strange little beings standing over him as he slept.",
+        "Charlie gasps. “We cannot stay here now. We must leave the North Hanninah!”",
+        "You ask her to explain, but she only shakes her head. Charlie does not seem like a woman who is easily frightened."
+      ]
+    }
+  }
+}

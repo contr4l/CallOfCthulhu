@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "449",
+    "frost-auto-449"
+  ],
+  "text": [
+    "你被迷住了，甩开西尔维娅，走近那座小建筑。三面墙上各有一扇狭窄的拱门。你走了进去。",
+    "此地的气息令你头晕目眩。一股惊人的心智力量涌来，层层高耸的感知浪潮侵入你狭小的头颅。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 449",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 449",
+      "text": [
+        "Fascinated, you shake off Sylvia and approach the little building. Three of its sides feature a narrow, arched door. You step inside.",
+        "Your head swims from the aura of the place. You feel an incredible mental surge, as a tide of towering perceptions penetrates the tiny confines of your skull."
+      ]
+    }
+  }
+}

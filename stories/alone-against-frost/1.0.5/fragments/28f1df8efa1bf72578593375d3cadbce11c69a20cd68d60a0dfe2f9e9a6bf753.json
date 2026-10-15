@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "473",
+    "frost-auto-473"
+  ],
+  "text": [
+    "西尔维娅先被冲下岩架，随后诺曼也被急流卷走，冲进狂暴的河水。你挣扎着爬回坚实地面，沿着狭窄峡谷奔跑，试图保持在他们视线范围内。他们撞入白浪，随后从一道山脊边消失。",
+    "你在附近逗留了一两天，四处搜寻，盼望他们中的一人或两人能自行脱险。但你没找到任何足迹。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 473",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 473",
+      "text": [
+        "First Sylvia, and then Norman are swept off the ledge and flushed down the wild stream. You struggle back to solid ground and run along the narrow canyon, trying to keep them in sight. They hit whitewater and disappear over a ridge.",
+        "You linger in the area for a day or two, searching, hoping that either or both of them got out by themselves. You find no tracks."
+      ]
+    }
+  }
+}

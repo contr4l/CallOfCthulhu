@@ -1,0 +1,32 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "469",
+    "frost-auto-469"
+  ],
+  "text": [
+    "空气中已有秋意，这说明今年秋天会来得很早。北方早降雪让你忧心忡忡。你正思索此事，一条狭窄却很深的峡谷横在路上，里面的急流看起来无法安全涉过。",
+    "“看，”诺曼指着横跨峡谷的一棵倒树，“我们可以把它当桥。”",
+    "西尔维娅用手杖戳了戳倒树，摇头说：“它腐烂了，可能连一个人的重量都承受不了。”诺曼显得有些不高兴，但你支持西尔维娅。你们就在附近扎营。",
+    "清晨醒来时，你听见一声巨大的断裂声，紧接着是诺曼低沉的呼喊和西尔维娅奔跑的脚步声。",
+    "你睡眼惺忪地冲过去，看见学生们就在眼前。诺曼吊在峡谷边缘，只有西尔维娅用手臂勉强拉住他。这个笨蛋！尽管你警告过，他还是试了试树桥的承重，结果树桥断裂。能否避免惨剧，全看西尔维娅还能撑多久。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 469",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 469",
+      "text": [
+        "There is a tang of autumn in the air. This suggests that it will be an early fall—which worries you, as it means early snow in the Northland. As you ponder this, a narrow but deep ravine cuts across your way, and the rushing stream within seems too rapid to cross safely.",
+        "“Look,” says Norman, pointing at a tree that has fallen across the ravine. “We can use that for a bridge.”",
+        "Sylvia pokes at it with her stick and shakes her head. “It’s rotten. It might not hold our weight, even one at a time.” Norman seems petulant, but you support Sylvia. You make camp in the vicinity.",
+        "As you open your eyes to the morning light, you hear a great cracking sound. It is immediately followed by Norman’s baritone cry and Sylvia’s running feet.",
+        "Groggy, you race toward the sound and spot the students. Norman hangs over the edge of the ravine, prevented from falling by no more than Sylvia’s arm. The idiot! Despite your warning, he tested the strength of the tree-bridge, and it collapsed. Whether you can prevent tragedy depends on how long Sylvia can hold on."
+      ]
+    }
+  }
+}

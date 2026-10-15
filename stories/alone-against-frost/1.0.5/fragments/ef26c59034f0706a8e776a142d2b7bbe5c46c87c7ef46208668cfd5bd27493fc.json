@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "312"
+  ],
+  "text": [
+    "诺曼短促而尖锐地叫了一声。你只瞥见灌木里的东西——一只巨猿，或者猿人。它一定和掳走西尔维娅的生物相似！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 312",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 312",
+      "text": [
+        "Norman gives a short, shrill yelp. You only get a glimpse of the thing in the bushes: a giant ape—or ape-man. It must be a creature similar to the one that carried off Sylvia!"
+      ]
+    }
+  }
+}

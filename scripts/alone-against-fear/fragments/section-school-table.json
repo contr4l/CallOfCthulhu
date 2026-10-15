@@ -1,233 +1,48 @@
 {
   "id": "section-school-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-school-table:p0000",
-      "kind": "body",
+      "id": "section-school-table:p0",
+      "kind": "heading",
       "text": "school table (d6)\n",
       "sourceLocation": "pdf:spans:[[54,22,40]]"
     },
     {
-      "id": "section-school-table:p0001",
+      "id": "section-school-table:p1",
       "kind": "body",
-      "text": "1\n",
-      "sourceLocation": "pdf:spans:[[54,40,42]]"
+      "text": "1\nAncient Egypt exhibit. Fight with a Mummy! L4 Undead, 8 Life, Slow,\nVulnerable to fire. Loot: 2 in 6 chance of 1 roll on the Random Magic\nItem or 3 in 6 chance of 1 Clue (choose before rolling).\n",
+      "sourceLocation": "pdf:spans:[[54,40,42],[54,42,110],[54,110,180],[54,180,237]]"
     },
     {
-      "id": "section-school-table:p0002",
+      "id": "section-school-table:p2",
       "kind": "body",
-      "text": "Ancient Egypt exhibit. Fight with a Mummy! L4 Undead, 8 Life, Slow,\n",
-      "sourceLocation": "pdf:spans:[[54,42,110]]"
+      "text": "2\nAbandoned primary school. Roll on the Children’s Stuff table on\np.55. Roll a 2 in 6 chance of an encounter with Witch Children (Roll\non the Witch Children table).\n",
+      "sourceLocation": "pdf:spans:[[54,237,239],[54,239,303],[54,303,372],[54,372,402]]"
     },
     {
-      "id": "section-school-table:p0003",
+      "id": "section-school-table:p3",
       "kind": "body",
-      "text": "Vulnerable to fire. Loot: 2 in 6 chance of 1 roll on the Random Magic\n",
-      "sourceLocation": "pdf:spans:[[54,110,180]]"
+      "text": "3\nThis school had a small horticultural garden, or a still working\nvending machine. Gain 1 Food point.  Roll a 1 in 6 chance of a random\nencounter from the Possessed table.\n",
+      "sourceLocation": "pdf:spans:[[54,402,404],[54,404,469],[54,469,539],[54,539,575]]"
     },
     {
-      "id": "section-school-table:p0004",
+      "id": "section-school-table:p4",
       "kind": "body",
-      "text": "Item or 3 in 6 chance of 1 Clue (choose before rolling).\n",
-      "sourceLocation": "pdf:spans:[[54,180,237]]"
+      "text": "4\nSchool library. Roll a 2 in 6 chance of a random book, and a 2 in 6\nchance of an encounter with d6 zombie children (L2 Undead, Slow,\ndamage 1). You may perform a Search roll here after defeating the\nzombie children, if there are any, gaining 1 roll on the Children’s Stuff\ntable (see p. 55) on a success.\n",
+      "sourceLocation": "pdf:spans:[[54,575,577],[54,577,645],[54,645,710],[54,710,776],[54,776,850],[54,850,882]]"
     },
     {
-      "id": "section-school-table:p0005",
+      "id": "section-school-table:p5",
       "kind": "body",
-      "text": "2\n",
-      "sourceLocation": "pdf:spans:[[54,237,239]]"
+      "text": "5\nArt school. You find art materials (colors, brushes, etc.; they count\nas a single item if carried). There is a 1 in 6 chance of an encounter\nwith a random monster. Roll d6 to determine on which table to roll:\n1-2 Witch Children, 3 Possessed, 4 Unique Vampire, 5-6 Demonic\nHorrors. After rolling for encounters, you have a 2 in 6 chance of\nfinding a sketchbook. You may ignore it or play event #35 if you pick\nit up. If you do not find the sketchbook, you may perform a Search\nroll and find 1 Clue on a success.\n",
+      "sourceLocation": "pdf:spans:[[54,882,884],[54,884,954],[54,954,1025],[54,1025,1093],[54,1093,1156],[54,1156,1223],[54,1223,1293],[54,1293,1360],[54,1360,1395]]"
     },
     {
-      "id": "section-school-table:p0006",
+      "id": "section-school-table:p6",
       "kind": "body",
-      "text": "Abandoned primary school. Roll on the Children’s Stuff table on\n",
-      "sourceLocation": "pdf:spans:[[54,239,303]]"
-    },
-    {
-      "id": "section-school-table:p0007",
-      "kind": "body",
-      "text": "p.55. Roll a 2 in 6 chance of an encounter with Witch Children (Roll\n",
-      "sourceLocation": "pdf:spans:[[54,303,372]]"
-    },
-    {
-      "id": "section-school-table:p0008",
-      "kind": "body",
-      "text": "on the Witch Children table).\n",
-      "sourceLocation": "pdf:spans:[[54,372,402]]"
-    },
-    {
-      "id": "section-school-table:p0009",
-      "kind": "body",
-      "text": "3\n",
-      "sourceLocation": "pdf:spans:[[54,402,404]]"
-    },
-    {
-      "id": "section-school-table:p0010",
-      "kind": "body",
-      "text": "This school had a small horticultural garden, or a still working\n",
-      "sourceLocation": "pdf:spans:[[54,404,469]]"
-    },
-    {
-      "id": "section-school-table:p0011",
-      "kind": "body",
-      "text": "vending machine. Gain 1 Food point.  Roll a 1 in 6 chance of a random\n",
-      "sourceLocation": "pdf:spans:[[54,469,539]]"
-    },
-    {
-      "id": "section-school-table:p0012",
-      "kind": "body",
-      "text": "encounter from the Possessed table.\n",
-      "sourceLocation": "pdf:spans:[[54,539,575]]"
-    },
-    {
-      "id": "section-school-table:p0013",
-      "kind": "body",
-      "text": "4\n",
-      "sourceLocation": "pdf:spans:[[54,575,577]]"
-    },
-    {
-      "id": "section-school-table:p0014",
-      "kind": "body",
-      "text": "School library. Roll a 2 in 6 chance of a random book, and a 2 in 6\n",
-      "sourceLocation": "pdf:spans:[[54,577,645]]"
-    },
-    {
-      "id": "section-school-table:p0015",
-      "kind": "body",
-      "text": "chance of an encounter with d6 zombie children (L2 Undead, Slow,\n",
-      "sourceLocation": "pdf:spans:[[54,645,710]]"
-    },
-    {
-      "id": "section-school-table:p0016",
-      "kind": "body",
-      "text": "damage 1). You may perform a Search roll here after defeating the\n",
-      "sourceLocation": "pdf:spans:[[54,710,776]]"
-    },
-    {
-      "id": "section-school-table:p0017",
-      "kind": "body",
-      "text": "zombie children, if there are any, gaining 1 roll on the Children’s Stuff\n",
-      "sourceLocation": "pdf:spans:[[54,776,850]]"
-    },
-    {
-      "id": "section-school-table:p0018",
-      "kind": "body",
-      "text": "table (see p. 55) on a success.\n",
-      "sourceLocation": "pdf:spans:[[54,850,882]]"
-    },
-    {
-      "id": "section-school-table:p0019",
-      "kind": "body",
-      "text": "5\n",
-      "sourceLocation": "pdf:spans:[[54,882,884]]"
-    },
-    {
-      "id": "section-school-table:p0020",
-      "kind": "body",
-      "text": "Art school. You find art materials (colors, brushes, etc.; they count\n",
-      "sourceLocation": "pdf:spans:[[54,884,954]]"
-    },
-    {
-      "id": "section-school-table:p0021",
-      "kind": "body",
-      "text": "as a single item if carried). There is a 1 in 6 chance of an encounter\n",
-      "sourceLocation": "pdf:spans:[[54,954,1025]]"
-    },
-    {
-      "id": "section-school-table:p0022",
-      "kind": "body",
-      "text": "with a random monster. Roll d6 to determine on which table to roll:\n",
-      "sourceLocation": "pdf:spans:[[54,1025,1093]]"
-    },
-    {
-      "id": "section-school-table:p0023",
-      "kind": "body",
-      "text": "1-2 Witch Children, 3 Possessed, 4 Unique Vampire, 5-6 Demonic\n",
-      "sourceLocation": "pdf:spans:[[54,1093,1156]]"
-    },
-    {
-      "id": "section-school-table:p0024",
-      "kind": "body",
-      "text": "Horrors. After rolling for encounters, you have a 2 in 6 chance of\n",
-      "sourceLocation": "pdf:spans:[[54,1156,1223]]"
-    },
-    {
-      "id": "section-school-table:p0025",
-      "kind": "body",
-      "text": "finding a sketchbook. You may ignore it or play event #35 if you pick\n",
-      "sourceLocation": "pdf:spans:[[54,1223,1293]]"
-    },
-    {
-      "id": "section-school-table:p0026",
-      "kind": "body",
-      "text": "it up. If you do not find the sketchbook, you may perform a Search\n",
-      "sourceLocation": "pdf:spans:[[54,1293,1360]]"
-    },
-    {
-      "id": "section-school-table:p0027",
-      "kind": "body",
-      "text": "roll and find 1 Clue on a success.\n",
-      "sourceLocation": "pdf:spans:[[54,1360,1395]]"
-    },
-    {
-      "id": "section-school-table:p0028",
-      "kind": "body",
-      "text": "6\n",
-      "sourceLocation": "pdf:spans:[[54,1395,1397]]"
-    },
-    {
-      "id": "section-school-table:p0029",
-      "kind": "body",
-      "text": "Library. You find d3 random books. There’s a 3 in 6 chance of an\n",
-      "sourceLocation": "pdf:spans:[[54,1397,1462]]"
-    },
-    {
-      "id": "section-school-table:p0030",
-      "kind": "body",
-      "text": "encounter with a witch librarian. Make a L4 Charisma roll. Add +1 if\n",
-      "sourceLocation": "pdf:spans:[[54,1462,1531]]"
-    },
-    {
-      "id": "section-school-table:p0031",
-      "kind": "body",
-      "text": "you have the Charisma Skill, +2 if you have Charisma (Expert). On a\n",
-      "sourceLocation": "pdf:spans:[[54,1531,1599]]"
-    },
-    {
-      "id": "section-school-table:p0032",
-      "kind": "body",
-      "text": "success, the Witch Librarian lets you trade one of you objects or 2\n",
-      "sourceLocation": "pdf:spans:[[54,1599,1667]]"
-    },
-    {
-      "id": "section-school-table:p0033",
-      "kind": "body",
-      "text": "Food per book desired (from the d3 books above). On a failure, you\n",
-      "sourceLocation": "pdf:spans:[[54,1667,1734]]"
-    },
-    {
-      "id": "section-school-table:p0034",
-      "kind": "body",
-      "text": "must fight. Her first attack is a spell (save vs. L5 magic or lose 2 Sanity),\n",
-      "sourceLocation": "pdf:spans:[[54,1734,1812]]"
-    },
-    {
-      "id": "section-school-table:p0035",
-      "kind": "body",
-      "text": "then she will draw a knife (damage 1). She is L4, 5 Life. If you choose\n",
-      "sourceLocation": "pdf:spans:[[54,1812,1884]]"
-    },
-    {
-      "id": "section-school-table:p0036",
-      "kind": "body",
-      "text": "to Escape from this encounter, the Witch Librarian will cast another\n",
-      "sourceLocation": "pdf:spans:[[54,1884,1953]]"
-    },
-    {
-      "id": "section-school-table:p0037",
-      "kind": "body",
-      "text": "spell at you (same rules as above) as you flee.",
-      "sourceLocation": "pdf:spans:[[54,1953,2000]]"
+      "text": "6\nLibrary. You find d3 random books. There’s a 3 in 6 chance of an\nencounter with a witch librarian. Make a L4 Charisma roll. Add +1 if\nyou have the Charisma Skill, +2 if you have Charisma (Expert). On a\nsuccess, the Witch Librarian lets you trade one of you objects or 2\nFood per book desired (from the d3 books above). On a failure, you\nmust fight. Her first attack is a spell (save vs. L5 magic or lose 2 Sanity),\nthen she will draw a knife (damage 1). She is L4, 5 Life. If you choose\nto Escape from this encounter, the Witch Librarian will cast another\nspell at you (same rules as above) as you flee.",
+      "sourceLocation": "pdf:spans:[[54,1395,1397],[54,1397,1462],[54,1462,1531],[54,1531,1599],[54,1599,1667],[54,1667,1734],[54,1734,1812],[54,1812,1884],[54,1884,1953],[54,1953,2000]]"
     }
   ],
   "sourcePages": [

@@ -35,36 +35,30 @@
     {
       "id": "215:p5",
       "kind": "body",
-      "text": "You peer at your feet. They have been transformed. What \nwas human about them has been burned away, leaving only \ncorroded,  black,  stump-like  hooves.  Ithaqua  has  blessed  you \nwith feet better suited to follow him above the treetops. You ",
-      "sourceLocation": "pdf:visual:[[45,52],[45,53],[45,54],[45,55]]"
+      "text": "You peer at your feet. They have been transformed. What \nwas human about them has been burned away, leaving only \ncorroded,  black,  stump-like  hooves.  Ithaqua  has  blessed  you \nwith feet better suited to follow him above the treetops. You \nknow this is only the beginning and that, each time you fly \nwith the Great Wind-Walker, more of your human form will \nmutate. Finally, no portion of the old you will remain.",
+      "sourceLocation": "pdf:visual:[[45,52],[45,53],[45,54],[45,55],[45,58],[45,59],[45,60]]"
     },
     {
       "id": "215:p6",
-      "kind": "body",
-      "text": "44\nknow this is only the beginning and that, each time you fly \nwith the Great Wind-Walker, more of your human form will \nmutate. Finally, no portion of the old you will remain.",
-      "sourceLocation": "pdf:visual:[[45,56],[45,58],[45,59],[45,60]]"
-    },
-    {
-      "id": "215:p7",
       "kind": "body",
       "text": "Oblivious  to  time  and  distance,  you  wander  through  the \nforest that is now your home, the forest that fills every particle \nof you with its ancient spirit. Your craving returns, a hunger \nthat leads you along like a famished beast on a leash.",
       "sourceLocation": "pdf:visual:[[45,61],[45,62],[45,63],[45,64]]"
     },
     {
-      "id": "215:p8",
+      "id": "215:p7",
       "kind": "body",
       "text": "You see a campfire burning ahead. Only now do you fully \nrealize the hideous repast you crave. Some small part of you, \nwhich is still human, revolts against your new hunger.",
       "sourceLocation": "pdf:visual:[[45,65],[45,66],[45,67]]"
     },
     {
-      "id": "215:p9",
+      "id": "215:p8",
       "kind": "body",
       "text": "Attempt a Hard POW roll: if you succeed, go to 266; if you fail, go \nto 267.",
       "sourceLocation": "pdf:visual:[[45,68],[45,69]]"
     },
     {
-      "id": "215:p10",
-      "kind": "trace",
+      "id": "215:p9",
+      "kind": "body",
       "text": "(162, 264, 550)",
       "sourceLocation": "pdf:visual:[[45,70]]"
     }

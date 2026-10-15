@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "313"
+  ],
+  "text": [
+    "你和诺曼在失落山谷中漫步，为每一处新奇景象惊叹。很容易就会忘记潜在的危险。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 313",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 313",
+      "text": [
+        "You and Norman wander through the lost valley, staring at each new marvel. It is easy to forget about the potential hazards."
+      ]
+    }
+  }
+}

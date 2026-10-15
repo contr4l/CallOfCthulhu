@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "306"
+  ],
+  "text": [
+    "西尔维娅发出可怕的胜利呼喊。随着她的叫声，她似乎发生了变化。黑色冰斑从她皮肤上冒出。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 306",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 306",
+      "text": [
+        "Sylvia gives a terrible cry of triumph. As she shouts, she seems to change. Patches of dark ice break out on her flesh."
+      ]
+    }
+  }
+}

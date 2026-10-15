@@ -17,12 +17,12 @@
     {
       "id": "306:p2",
       "kind": "body",
-      "text": "58\nMake  a  Sanity  roll:  if  you  fail,  lose  1D6  Sanity;  if  you  retain \ncontrol, go to 304.",
-      "sourceLocation": "pdf:visual:[[59,47],[59,49],[59,50]]"
+      "text": "Make  a  Sanity  roll:  if  you  fail,  lose  1D6  Sanity;  if  you  retain \ncontrol, go to 304.",
+      "sourceLocation": "pdf:visual:[[59,49],[59,50]]"
     },
     {
       "id": "306:p3",
-      "kind": "trace",
+      "kind": "body",
       "text": "(283, 305)",
       "sourceLocation": "pdf:visual:[[59,51]]"
     }

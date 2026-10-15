@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "68"
+  ],
+  "text": [
+    "你躺在原地许多个小时，看着天空从黑暗转为明亮。仿佛烧红的钉子刺入肠胃，剧痛不止。肿胀的舌头伸出口外。你迷迷糊糊想起了饥饿，随后拼命吞下某种陌生野果。没过多久，毒性就发作了。",
+    "同伴离去时的面容在你发烧的脑海中闪现。你短暂地沉浸在原本可能实现的学术成就中，想象自己回到米斯卡托尼克大学后，同事们会如何赞誉你。但随着死亡降临，你的视线逐渐暗淡，这些念头也随之消散。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 68",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 68",
+      "text": [
+        "You lie in place for many hours, watching the sky turn dark and then light again. Pain like hot nails courses through your bowels. Your swollen tongue protrudes from your mouth. Dimly you remember starvation and then a desperate feast on a strange wild fruit. The poison took you shortly after that.",
+        "Images of your departed companions’ faces flash through your feverish mind. For a few moments, you linger on the academic triumph that might have been, the acclaim of your colleagues after you return to Miskatonic University. The thought fades as your eyes darken with death."
+      ]
+    }
+  }
+}

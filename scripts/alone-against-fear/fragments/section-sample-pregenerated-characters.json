@@ -1,0 +1,65 @@
+{
+  "id": "section-sample-pregenerated-characters",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-sample-pregenerated-characters:p0",
+      "kind": "heading",
+      "text": "Pregenerated Character\n",
+      "sourceLocation": "pdf:spans:[[104,87,110]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p1",
+      "kind": "body",
+      "text": "Injuries\n Mental scars\nSkills\n weapons\nammo\ncandles\nKeywords\nAnna Miller 9 10\n",
+      "sourceLocation": "pdf:spans:[[104,110,119],[104,119,133],[104,133,140],[104,140,149],[104,149,154],[104,154,162],[104,162,171],[104,171,188]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p2",
+      "kind": "body",
+      "text": "4\nWill (basic) +1 to Will-based rolls\nOccultist (basic) +1 to Magic rolls\n",
+      "sourceLocation": "pdf:spans:[[104,188,190],[104,190,226],[104,226,262]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p3",
+      "kind": "body",
+      "text": "6\nPistol, +1\nHammer, +1 vs.\nzombies and flaming\nskeletons\nHammer, 3 stakes, first aid kit with 3 points",
+      "sourceLocation": "pdf:spans:[[104,262,264],[104,264,275],[104,275,290],[104,290,310],[104,310,320],[104,320,365]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p4",
+      "kind": "body",
+      "text": "3\nEquipment\nArcane Skills\nFood\nBooks read\nSkills\n weapons\nammo\ncandles\nKeywords\n",
+      "sourceLocation": "pdf:spans:[[105,0,2],[105,2,12],[105,12,26],[105,26,31],[105,31,42],[105,42,49],[105,49,58],[105,58,63],[105,63,71],[105,71,80]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p5",
+      "kind": "body",
+      "text": "4\nSlippery (+1 to Escape rolls)\nStrong +2 to Strength rolls, +3 carried items\nKnife -1\nChainsaw 2 hands.\n+1 to Attack, Damage\n",
+      "sourceLocation": "pdf:spans:[[105,80,82],[105,82,112],[105,112,158],[105,158,167],[105,167,185],[105,185,206]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p6",
+      "kind": "body",
+      "text": "2.\nChainsaw: Two handed. +1 to Attack rolls. Damage 2. At the\nend of any combat, roll a 1 in 6 chance that the noise attracts\nd6 zombies (L3 Slow Undead).\nBag of salt (6 doses)\nKnife (-1 to Attack rolls)\nName XP Sanity Life Clues\n",
+      "sourceLocation": "pdf:spans:[[105,206,209],[105,209,268],[105,268,332],[105,332,361],[105,361,383],[105,383,410],[105,429,455]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p7",
+      "kind": "heading",
+      "text": "Pregenerated Character\n",
+      "sourceLocation": "pdf:spans:[[105,455,478]]"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p8",
+      "kind": "body",
+      "text": "Douglas Harrison 8 11\nInjuries Mental scars\nComputer printout of “They Are Among Us”.There are monsters out there, And you walk alone.\nwww.ganeshagames.net\nAlone against the walking dead .  Alone Against the demons,\nalone against vampires and werewolves. Alone Against\nshapeless monstrosities and devil worshippers and\nwitches and maniacs and evil clowns.\nALONE AGAINST FEAR",
+      "sourceLocation": "pdf:spans:[[105,478,500],[105,500,522],[105,522,563],[106,0,50],[106,50,71],[106,71,131],[106,131,184],[106,184,234],[106,234,271],[106,271,289]]"
+    }
+  ],
+  "sourcePages": [
+    104,
+    105,
+    106
+  ]
+}

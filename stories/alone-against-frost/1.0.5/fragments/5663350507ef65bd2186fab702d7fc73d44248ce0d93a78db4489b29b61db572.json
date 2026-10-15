@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "648",
+    "frost-auto-648"
+  ],
+  "text": [
+    "转眼间，灌木丛四周冒出许多小矮人。一阵飞镖雨落向你们。你大喊着还击，试图组织学生有序撤退。",
+    "伯纳德惨叫一声，捂住胸口插着的飞镖。他倒下了，你冲过去救他。他四肢僵硬，手指张开。这些飞镖一定有毒。你们不能留下，也无法带他一起走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 648",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 648",
+      "text": [
+        "Suddenly tiny men are in the bushes all around you. A flurry of darts rain in on your party. You yell as you return fire, trying to marshal the students into an organized retreat.",
+        "Bernard cries out, clutching a dart lodged in his breast. He falls and you rush to his aid. His limbs stiffen and his fingers splay. The darts must be poisoned. You cannot stay and you cannot carry him."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "59"
+  ],
+  "text": [
+    "你找到了那串小小的脚印，看上去留下没多久。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 59",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 59",
+      "text": [
+        "You pick up the trail of tiny footprints. They look very fresh."
+      ]
+    }
+  }
+}

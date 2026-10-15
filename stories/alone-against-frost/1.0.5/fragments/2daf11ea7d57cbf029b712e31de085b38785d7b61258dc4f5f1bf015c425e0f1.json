@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "486",
+    "frost-auto-486"
+  ],
+  "text": [
+    "大脚怪把你从一只抛给另一只。你忽然明白它们并没有生气，只是在和你玩耍。最后，它们让筋疲力尽的你摔在地上。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 486",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 486",
+      "text": [
+        "The sasquatches toss you from one to the other. Suddenly you understand that they are not angry, but that they are playing with you. Finally, they let you fall, exhausted, to the ground."
+      ]
+    }
+  }
+}

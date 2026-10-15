@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "37"
+  ],
+  "text": [
+    "你跪在垂死男子身旁时，他突然抬手抓住你的外套领子。“小心，”他嘶哑地说，“小印第安人……灰色的人。上面……他们抓走了杰克……天哪……”",
+    "他的手指松开，手臂垂落在地。他停止了呼吸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 37",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 37",
+      "text": [
+        "As you kneel beside the dying man, his hand shoots up and grips your jacket collar. “Beware,” he rasps. “Little Indians… Gray men. Up there… They got Jake… Oh, God…”",
+        "His fingers loosen and his arm drops to the ground. He has stopped breathing."
+      ]
+    }
+  }
+}

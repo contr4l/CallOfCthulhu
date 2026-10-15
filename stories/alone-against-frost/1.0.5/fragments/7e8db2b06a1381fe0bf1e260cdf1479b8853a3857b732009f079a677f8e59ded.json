@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "26"
+  ],
+  "text": [
+    "在米斯卡托尼克大学里颇为管用的辩论方式，对你的原住民向导毫无作用。查理听着你的话，却没有回应；你也逐渐厌倦了继续劝说。最后，你让她按自己的方式处理。",
+    "“教授，我今晚不想睡。”她说，“下一班岗由我来守。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 26",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 26",
+      "text": [
+        "The argumentative style that serves you so well at Miskatonic University does not wash with your Native guide. Charlie nods at your words but makes no response, and you become weary of trying. Eventually, you let her deal with it in her own way.",
+        "“I do not feel like sleep tonight, Professor,” she says. “I will take the next watch.”"
+      ]
+    }
+  }
+}

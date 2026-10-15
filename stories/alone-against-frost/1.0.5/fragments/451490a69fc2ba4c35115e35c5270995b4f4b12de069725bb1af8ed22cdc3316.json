@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "210",
+    "frost-auto-210"
+  ],
+  "text": [
+    "一个身材正常、披着鹿皮兜帽的人影蹒跚走进空地，在你面前停下并摘掉兜帽。兜帽下是一位白人老妇，松弛的石板灰色皮肤间，一双眼睛炯炯有神。令你惊讶的是，她开口说起英语。",
+    "“我们是基瓦内玛族。别人称我们为‘小人’，或马马圭索，或普克伍吉。我们的祖先和你一样高大，在冰河时代之前统治着这片大陆。但我们过于长久地修习古老魔法，身体渐渐被它改变。我们越来越矮小、虚弱，也越来越……不美观。”",
+    "“你为什么自称基瓦内玛？”你问。",
+    "她咯咯笑起来。“你看到的是和你同族的女人，可在几千年前，我曾是基瓦内玛的母后！当我们族人的力量日渐衰退，我们便决定让其中一人把灵魂转移到一个未受古老魔法污染的女人体内。”她的眼睛闪着光。“从那以后，我占据过许多具身体。每一具被巫术腐蚀后，我就换一个。”一根枯瘦的手指抚过脸上的皱纹。“这具身体快用尽了，我需要另一个。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 210",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 210",
+      "text": [
+        "A full-sized figure in a deerskin cowl hobbles into the clearing. It pauses before you and casts off its hood. Beneath is an old Caucasian woman, her eyes intense amid saggy slate-colored skin. You are startled to hear her speak in English.",
+        "“We are the Keywanema. Others call us the “Little Ones,” or the Mamagweeso, or the puk-woogies. Our ancestors were tall like yourself, and they ruled this continent before the age of ice. But we practiced too long the elder magic, and slowly it changed us. We grew smaller, weaker. Less… handsome.”",
+        "“Why do you call yourself a Keywanema?” you ask.",
+        "She cackles. “You see a woman of your own kind, but millennia ago I was mother-queen of the Keywanema! As the power of our stock diminished, we decided that one of us should pass their soul into the body of a woman untainted by the old magic.” Her eyes gleam. “Since then, I have taken many bodies. Each I use till it is corrupted by sorcery, then I take another.” A wizened finger explores the wrinkles of her face. “This body is almost used up. I require another.”"
+      ]
+    }
+  }
+}

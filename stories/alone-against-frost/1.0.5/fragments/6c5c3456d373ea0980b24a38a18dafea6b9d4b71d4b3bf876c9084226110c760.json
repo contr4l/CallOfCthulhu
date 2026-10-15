@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "590"
+  ],
+  "text": [
+    "面对你们的枪支，狩猎队犹豫了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 590",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 590",
+      "text": [
+        "In the face of your firearms, the hunting party hesitates."
+      ]
+    }
+  }
+}

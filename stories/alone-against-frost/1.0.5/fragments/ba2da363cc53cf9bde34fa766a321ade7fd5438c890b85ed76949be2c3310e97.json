@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "547",
+    "frost-auto-547"
+  ],
+  "text": [
+    "你以为自己随时会再次感到灼痛。但发出叫声的是查理。你看见向导倒在地上，鲜血大量涌出。你们无法与那种东西战斗；唯一的希望就是逃跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 547",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 547",
+      "text": [
+        "You expect any second to feel another sear of pain. But it is Charlie who cries out. You see the guide roll to the ground, bleeding profusely. You cannot fight such a thing; your only hope lies in flight."
+      ]
+    }
+  }
+}

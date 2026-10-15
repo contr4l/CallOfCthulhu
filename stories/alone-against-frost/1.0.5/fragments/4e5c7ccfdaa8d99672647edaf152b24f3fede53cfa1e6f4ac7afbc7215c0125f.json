@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "256",
+    "frost-auto-256"
+  ],
+  "text": [
+    "对你意志的攻击骤然停止。你听见老妇人倒吸一口气，随后她瘫倒在你身后的地上。吟唱声止息，营地一片寂静。众人散开，聚到老妇人身边。",
+    "基瓦内玛人显得十分慌乱，彼此商议了几分钟，随后抬起昏迷的女王离开。他们留下你和学生们，仍被绑在原地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 256",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 256",
+      "text": [
+        "Abruptly, the attack upon your will ceases. You hear the hag gasp, and she collapses on the earth behind you. The chanting stops. A hush spreads through the camp. They break from the ring and gather over the old woman.",
+        "In some distress, the Keywanema confer. After a few minutes, they gather up their unconscious queen and carry her away. They leave you and the students still bound."
+      ]
+    }
+  }
+}

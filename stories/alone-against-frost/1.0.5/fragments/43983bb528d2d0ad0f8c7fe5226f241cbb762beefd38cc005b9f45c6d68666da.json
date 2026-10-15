@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "528"
+  ],
+  "text": [
+    "你和诺曼悄悄离开大脚怪熟睡的营地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 528",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 528",
+      "text": [
+        "You and Norman silently depart the camp of sleeping sasquatches."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "330"
+  ],
+  "text": [
+    "你被赶出洞穴，一心只想活命，猛地冲进灌木丛，逃离那些怪异的袭击者。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 330",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 330",
+      "text": [
+        "Flushed from the cave, intent upon survival, you dive for the thickets to escape the weird attackers."
+      ]
+    }
+  }
+}

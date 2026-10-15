@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "463"
+  ],
+  "text": [
+    "伯纳德伤成这样，根本不可能走路。既然他破败的身体还留有一丝生命，你们只能抬着他。你和诺曼砍下树苗，削成担架杆。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 463",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 463",
+      "text": [
+        "It is impossible for Bernard to walk in his condition. Since life somehow lingers in his ruined body, you will have to carry him. You and Norman trim saplings into poles to make a litter."
+      ]
+    }
+  }
+}

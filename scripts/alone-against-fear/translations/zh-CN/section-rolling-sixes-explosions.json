@@ -1,0 +1,17 @@
+{
+  "id": "section-rolling-sixes-explosions",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "dbb4560de1ad62429d19a5accd0acf6a1393e92ee45526a8a0b4e4623bd5e414",
+  "paragraphs": [
+    {
+      "id": "section-rolling-sixes-explosions:p0",
+      "text": "掷出6：爆骰"
+    },
+    {
+      "id": "section-rolling-sixes-explosions:p1",
+      "text": "攻击骰掷出自然6时（忽略所有修正：只看骰面是否为6），再掷一枚D6并将结果加到总值中。如果再次掷出自然6，就再掷一枚D6并继续累加，如此反复。运气足够好时，骰子总值可以不断增加。这称为“爆骰”或“爆骰检定”。"
+    }
+  ],
+  "notes": []
+}

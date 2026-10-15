@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "103"
+  ],
+  "text": [
+    "检查尸体时，你意识到自己犯下了可怕的错误。你被荒诞的想象冲昏头脑，杀害了一个再普通不过的人。",
+    "进行理智检定：若失败，损失1D6点理智。然后前往105。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 103",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 103",
+      "text": [
+        "In examining the body, you realize you have made a terrible mistake. Carried away by wild imaginings, you have murdered a perfectly ordinary person.",
+        "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 105."
+      ]
+    }
+  }
+}

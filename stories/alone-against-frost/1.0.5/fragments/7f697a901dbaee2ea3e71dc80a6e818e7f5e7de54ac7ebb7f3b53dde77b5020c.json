@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "556",
+    "frost-auto-556"
+  ],
+  "text": [
+    "你们一行人抵达河边。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 556",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 556",
+      "text": [
+        "Your party makes it to the river."
+      ]
+    }
+  }
+}

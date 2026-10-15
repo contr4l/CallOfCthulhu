@@ -1,0 +1,18 @@
+{
+  "id": "27",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "27:p0",
+      "kind": "heading",
+      "text": "#27 - The kid gets in trouble\n",
+      "sourceLocation": "pdf:spans:[[87,240,270]]"
+    },
+    {
+      "id": "27:p1",
+      "kind": "body",
+      "text": "The kid walks into a dark alley, a\nfew steps from you, and does not\nreturn. You either ignore his\ndisappearance (lose 1 Sanity if you\ndo so) or go after him (go to event\n#30).\n",
+      "sourceLocation": "pdf:spans:[[87,270,305],[87,305,338],[87,338,368],[87,368,404],[87,404,440],[87,440,446]]"
+    }
+  ]
+}

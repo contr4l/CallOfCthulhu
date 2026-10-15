@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "284"
+  ],
+  "text": [
+    "你甩开了那些小猎人，但终于停下喘息时，发现自己孤身一人。你不知道诺曼和西尔维娅是否也逃脱了，更不知道他们身在何处。你能找到失散的学生吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 284",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 284",
+      "text": [
+        "You outdistance the tiny hunters, but when you finally pause for breath, you are quite alone. You do not know whether Norman and Sylvia also got away, or where they ended up. Can you locate the lost students?"
+      ]
+    }
+  }
+}

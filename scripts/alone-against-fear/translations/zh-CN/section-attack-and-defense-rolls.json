@@ -1,0 +1,17 @@
+{
+  "id": "section-attack-and-defense-rolls",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "e163e0bb31d9a5f14ad5e73f2fb6b611059e6b36030a28befb2d48f9679b42a0",
+  "paragraphs": [
+    {
+      "id": "section-attack-and-defense-rolls:p0",
+      "text": "攻击与防御检定"
+    },
+    {
+      "id": "section-attack-and-defense-rolls:p1",
+      "text": "战斗检定遵循相同流程。攻击命中或防御对手所需的目标数字，就是对手的L。\n例如：你与一只L3僵尸战斗。轮到你时，掷D6达到3+即可击中僵尸。轮到僵尸时，你掷D6达到3+即可躲过它的攻击。"
+    }
+  ],
+  "notes": []
+}

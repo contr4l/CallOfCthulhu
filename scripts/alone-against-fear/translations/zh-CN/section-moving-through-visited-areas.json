@@ -1,0 +1,17 @@
+{
+  "id": "section-moving-through-visited-areas",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "2bda5403a0a7e06d5c8bdc88f0b68c385c52509c736dba238d15f073ee1aebd7",
+  "paragraphs": [
+    {
+      "id": "section-moving-through-visited-areas:p0",
+      "text": "穿过已探索区域"
+    },
+    {
+      "id": "section-moving-through-visited-areas:p1",
+      "text": "你可以穿过已经探索的格子；若尚未搜索，也可以搜索该格（见下文）。每次穿过已探索格时，不要再掷探索表；改为掷D6，掷出1时发生随机遭遇。若该区域有尚未解决的生物（你曾遭遇并逃跑），必须进行潜行检定以避开它，否则将再次面对它。"
+    }
+  ],
+  "notes": []
+}

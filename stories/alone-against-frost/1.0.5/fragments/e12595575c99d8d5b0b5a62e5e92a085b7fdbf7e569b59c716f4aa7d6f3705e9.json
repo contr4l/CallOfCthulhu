@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "525"
+  ],
+  "text": [
+    "查理沿着伯纳德的路线走了约二十分钟。他的足迹很快与某种大型动物——或者说你猜测是动物的东西——留下的踪迹交织在一起。那东西似乎有蹄，留下边缘不规则的大圆弧印，却没有分趾。你们走得越远，查理就越焦躁。最后，你学生和那生物的步幅变得长得不可思议，随后两种足迹都完全消失。",
+    "稀疏的残雪中，伯纳德最后留下的脚印似乎变了形。到末尾，它们只剩圆形的凹痕，与“动物”的足迹一模一样。",
+    "“哎呀！”查理再也压不住涌起的恐惧，叫了出来。",
+    "你解释道，融雪扭曲并抹去了足迹，这与风行者传说毫无关系。",
+    "查理睁大眼睛看着你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 525",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 525",
+      "text": [
+        "Charlie follows Bernard’s route for about 20 minutes. His tracks are soon joined by those of some large animal—or what you suppose is an animal. It has hooves of a kind, large round crescents showing an irregular edge, but no split. The farther your party goes, the more agitated Charlie becomes. Eventually, the strides made by your student and the creature extend to an unbelievable length and then vanish completely.",
+        "In the receding dusting of snow, it seems that Bernard’s final prints alter in shape. At the end, they are nothing but round impressions—identical to those of the “animal.”",
+        "“Ayiie!” Charlie cries, no longer able to contain her welling fear.",
+        "You explain that the melting snow has distorted and erased the tracks and that this has nothing to do with the wind- walker legend.",
+        "Charlie looks at you, eyes wide."
+      ]
+    }
+  }
+}

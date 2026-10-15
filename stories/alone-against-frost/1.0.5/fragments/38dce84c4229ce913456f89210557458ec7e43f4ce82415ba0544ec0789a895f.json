@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "379"
+  ],
+  "text": [
+    "你举起火把照亮洞穴地上的尸体。那是肌肉发达得惊人的猿人。你仔细检查后确信，这必定就是北方传说所说的雪怪。你已经有了足以证明这一发现的实体证据。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 379",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 379",
+      "text": [
+        "You raise a torch to illuminate the body on the floor of the cave. It is a man-ape of incredible musculature. Your examination satisfies you that this must be what northern legend calls a sasquatch. You have the physical evidence here to prove your discovery."
+      ]
+    }
+  }
+}

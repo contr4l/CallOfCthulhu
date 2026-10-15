@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "447"
+  ],
+  "text": [
+    "曾经是查理的恐怖存在颤抖起来。她被撕裂的嘴唇动了动，仿佛被迫违背意愿说话。“若要知晓 Ten`a-ranide 所知之事，就去它们去的地方！说出守护之词！Hallapjora-syojatar。”",
+    "说完这句奇异的话，查理被肢解的尸体倒下，不再动弹。石阵中恢复了平静。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 447",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 447",
+      "text": [
+        "The horror that was Charlie shudders. Her torn lips move as if forced to speak against her will. “If you would know what the Ten`a-ranide know, go where the Ten`a-ranide go! Speak the word that protects! Hallapjora-syojatar.’’",
+        "With that strange utterance, Charlie’s mangled corpse falls over and lies inert. All is still within the formation of stones."
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "577"
+  ],
+  "text": [
+    "你顺坡滑进女孩被绑的洼地。她看着你走来，咬紧牙关，眼里满是恐惧与戒备。",
+    "你保持礼貌距离，问道：“他们为什么这样对你？你愿意让我们帮忙吗？”",
+    "她阴沉地盯着你，用断断续续的本族语言和英语回答：“我的族人害怕森林里的异类。每年这个时候，都要把我们中的一个献给它们，这样它们就不会迷惑所有人。走吧。”",
+    "她似乎已经认命。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 577",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 577",
+      "text": [
+        "You slide down the slope into the hollow where the girl is tied. She watches you come, her jaw set with fear and suspicion.",
+        "At a respectful distance, you ask, “Why have they done this to you? Will you let us help you?”",
+        "She gives you a sullen stare and answers with a halting mixture of native and English words. “My people fear the strange ones of the forest. Each year at this time, one of us is given to them so they will not bewitch all the people. Go.”",
+        "She seems resigned to her fate."
+      ]
+    }
+  }
+}

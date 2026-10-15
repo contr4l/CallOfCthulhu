@@ -1,0 +1,21 @@
+{
+  "id": "section-town-map",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-town-map:p0",
+      "kind": "heading",
+      "text": "Alone Against Fear   town map\n",
+      "sourceLocation": "pdf:spans:[[101,0,30]]"
+    },
+    {
+      "id": "section-town-map:p1",
+      "kind": "body",
+      "text": "Permission granted to reproduce this sheet for personal use © Ganesha Games, 2020.  Enlarge this page\nso there is more space for notes in the boxes.",
+      "sourceLocation": "pdf:spans:[[101,30,132],[101,132,178]]"
+    }
+  ],
+  "sourcePages": [
+    101
+  ]
+}

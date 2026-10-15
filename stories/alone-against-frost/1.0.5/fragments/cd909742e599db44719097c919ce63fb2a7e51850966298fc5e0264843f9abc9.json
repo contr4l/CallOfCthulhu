@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "100"
+  ],
+  "text": [
+    "掷 1D10：结果为偶数时，前往 96；结果为奇数时，前往 99。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 100",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 100",
+      "text": [
+        "Roll 1D10: if the result is even, go to 96; if the result is odd, go to 99."
+      ]
+    }
+  }
+}

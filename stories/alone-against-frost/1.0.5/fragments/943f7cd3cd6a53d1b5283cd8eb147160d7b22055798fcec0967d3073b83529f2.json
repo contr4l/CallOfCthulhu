@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "268"
+  ],
+  "text": [
+    "猎人们惊恐地哀嚎，四散逃入森林。你的人生记忆永远熄灭了。你渴望人肉，而伊塔库亚赐予你获取它的力量！你仰天向星辰嚎叫，开始行走，随后越跑越快。你感知到逃跑者温热流淌的血液，便循着血迹追去。",
+    "很快，你来到一道峡谷边，听见下方有人喘息。一名猎人跌落下来，摔断了脚踝。他绝望地向你扔石块。你轻易地飘下谷底，朝他浮去。冰爪扣住他的喉咙，冻人的吐息让他的脸变黑，他发出惨叫。你的冰冷獠牙刺入他温热的血肉。很快，你将再次饱餐，并继续蜕变。这便是伊塔库亚的诅咒，也是风行者的道路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 268",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 268",
+      "text": [
+        "The hunters, bleating with terror, scatter through the forests. The memory of your human life blinks out forever. You crave human flesh—and Ithaqua endows you with the power to obtain it! You cry at the stars. You start to walk and your pace quickens into a run. You sense the warm, flowing blood of the fleeing men, and you follow it.",
+        "Soon, you reach the edge of a ravine and hear breathing below. One hunter has fallen and broken his ankle. Desperate, he throws a rock at you. You easily glide through the air to the bottom and float toward him. He cries out as your ice-claws close about his throat and as your frigid breath turns his face black. Your freezing fangs sink into his warm flesh. Soon you will eat again and continue your metamorphosis. Such is the curse of Ithaqua, the way of a wind-walker."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-military"
+  ],
+  "text": [
+    "1\nExperimental weapon site. Roll on the Lab Horror table. 2 in\n6 chance of finding a random weapon (roll twice and choose\nthe best result).",
+    "2\nA respiratory toxin was released here. Save vs. L4 Poison. Roll\nat +1 if you have the Resilient Skill, +2 if you have Resilient\n(Expert) or lose 2 Life. If you are wearing a gas mask, you are\nimmune to this damage.",
+    "3\nYou find computer printouts about mutants. If you spend\n2XP studying them, you gain the Mutant Hunter Arcane Skill.\nYou may study the papers right here or, if you do not have the\nXP right now, carry them with you (they count as a carried\nobject) and study them later. You may roll a 2 in 6 chance of\nfinding a random weapon here, but if you do so, you must also\nroll a 2 in 6 chance of an encounter from the Lab Horror table.",
+    "4\nHere a crate containing  d3 grenades on a bandolier is\nguarded by 2d6 L2 zombies, Slow Undead, damage 1, 1 Life\npoint each. You may take the grenades if you destroy all\nzombies. You may choose to ignore the encounter and run\naway. The zombies (and the grenades) remain in the area if\nyou leave.",
+    "5\nThis was a military lab. You find a single hypodermic needle\ncontaining a  fluorescent fluid . You can keep it in your\ninventory (as an item of negligible weight) or inject it (go to\nEvent #4 if you do so). This is a unique event. Reroll if you get\nthis again.",
+    "6\nAs you step into the installation, there is an explosion. Save\nvs. L4 explosion, at +1 if you have Danger Sense and/or\nAgile, or lose 2 Life. There is a 2 in 6 chance that the\nexplosion attracts d3 L2 Zombies (Slow Undead) that will\nattack you."
+  ],
+  "reading": {
+    "en": {
+      "title": "Military installation/Lab table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "军事设施/实验室表（D6）",
+      "text": [
+        "1\n实验武器试验场：掷实验室恐怖表。另有2/6概率找到一件随机武器（掷两次并选择较好的结果）。",
+        "2\n此处释放了呼吸道毒剂。进行L4毒素防御检定；坚韧技能+1，专家级坚韧+2。失败则损失2点生命。若戴着防毒面具，则免疫此伤害。",
+        "3\n找到有关变种人的计算机打印资料。花费2点经验研究后，获得变种人猎手奥术技能。可以当场研究；若当前经验不足，也可携带资料（算作1件携带物品）以后研究。此处有2/6概率找到随机武器；若选择进行此检定，还必须另掷一次2/6概率，决定是否遭遇实验室恐怖表中的生物。",
+        "4\n一箱弹带式手榴弹（D3枚）由2D6只L2僵尸守卫；它们是行动迟缓的不死生物，每只生命1、伤害1。只有消灭所有僵尸才能拿走手榴弹。你可以无视遭遇并逃跑。若离开，僵尸和手榴弹都会留在此区域。",
+        "5\n这是一间军事实验室。找到一支装有荧光液体的皮下注射器。可以将它作为重量可忽略的物品放入库存，也可以注射（若这样做，前往事件#4）。这是独特事件；再次掷出时重掷。",
+        "6\n你踏入设施时发生爆炸。进行L4爆炸防御检定；危险感知和/或敏捷技能提供+1（合计+1），失败则损失2点生命。另有2/6概率吸引D3只L2僵尸（行动迟缓的不死生物）前来攻击。"
+      ]
+    }
+  }
+}

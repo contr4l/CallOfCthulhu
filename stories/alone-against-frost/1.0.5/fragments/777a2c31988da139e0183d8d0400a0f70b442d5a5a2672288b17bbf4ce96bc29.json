@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "201"
+  ],
+  "text": [
+    "持刀者虽然吃了一惊，但仍镇定地完成致命一击，随后才逃跑。可怜的男孩还没弄清发生了什么，镰刀便闪过，伯纳德的头颅应声落下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 201",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 201",
+      "text": [
+        "Although startled, the blade-wielder has the presence of mind to complete his deadly work before running. Before the doomed boy understands what is happening, the sickle flashes and Bernard’s head drops free."
+      ]
+    }
+  }
+}

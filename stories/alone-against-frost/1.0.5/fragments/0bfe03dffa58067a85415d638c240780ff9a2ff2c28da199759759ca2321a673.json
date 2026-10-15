@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "36"
+  ],
+  "text": [
+    "一个穿格子外套的白人男子瘫倒在灌木丛下，血从他嘴里涌出。他看起来奄奄一息。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 36",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 36",
+      "text": [
+        "A white man in a checkered coat is sprawled under a bush. Blood spills from his mouth. He looks like he is at the point of death."
+      ]
+    }
+  }
+}

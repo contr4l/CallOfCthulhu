@@ -1,0 +1,18 @@
+{
+  "id": "10",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "10:p0",
+      "kind": "heading",
+      "text": "#10 - giant earthworm\n",
+      "sourceLocation": "pdf:spans:[[81,1826,1848]]"
+    },
+    {
+      "id": "10:p1",
+      "kind": "body",
+      "text": "As torrential rains pour from the\nsky, you seek shelter from the\nweather in a ramshackle hut. As\nyou get close, the ground shakes\nand a giant earthworm lunges at\nyou.\nGiant Worm, L4 animal, 8 Life, on\nany Defense roll of 1, it inflicts 2\ndamage. 1 damage otherwise. Once\nreduced to 4 or fewer Life, roll d6. Ona 1 to 3  it will flee, retreating\nunderground; on a 4 to 6, it will\ncontinue to fight to the death.\nIf you survive the fight, you find a\nrandom item in the hut. You also\ngain 1 XP if you kill the giant worm.\n",
+      "sourceLocation": "pdf:spans:[[81,1848,1882],[81,1882,1913],[81,1913,1945],[81,1945,1978],[81,1978,2010],[81,2010,2015],[81,2015,2049],[81,2049,2086],[81,2086,2119],[81,2119,2158],[82,22,57],[82,57,91],[82,91,123],[82,123,160],[82,160,193],[82,193,231]]"
+    }
+  ]
+}

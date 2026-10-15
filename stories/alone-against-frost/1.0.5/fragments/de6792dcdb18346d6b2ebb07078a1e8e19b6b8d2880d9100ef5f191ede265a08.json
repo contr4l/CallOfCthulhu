@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "23"
+  ],
+  "text": [
+    "查理循着细微的迹象，带领队伍穿过泥泞的沟壑、石质冰碛脊和寂静的红松林。空气潮湿、霉闷，弥漫着腐木气味。沿途的蕨类丛中，新叶卷曲着破土而出，舒展开来时，像一双双刚松开的手指。",
+    "查理最先看见了什么，随即僵在原地。西尔维娅发出一声尖叫。",
+    "“关于这条河的传说……”诺曼低声说道，“都是真的。”",
+    "“我们必须离开这座山谷，”查理断言，“必须走，否则我们也会像他一样死在这里！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 23",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 23",
+      "text": [
+        "Following subtle signs, Charlie leads your party along muddy ravines, over stony moraine ridges, and through silent stands of red pine. The air is damp and musty with the smell of decaying wood. The coiled new leaves of lady ferns thrust up in thickets along your route, opening like fingers from unclenching fists.",
+        "Charlie sees it first and freezes. Sylvia gives a shrill scream.",
+        "“The stories about this river,” Norman hisses, “They’re true.”",
+        "“We must get out of this valley,” Charlie declares. “We must go, or we will die like him!”"
+      ]
+    }
+  }
+}

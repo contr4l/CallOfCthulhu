@@ -1,0 +1,18 @@
+{
+  "id": "15",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "15:p0",
+      "kind": "heading",
+      "text": "#15 - Wearing the mask\n",
+      "sourceLocation": "pdf:spans:[[83,1155,1178]]"
+    },
+    {
+      "id": "15:p1",
+      "kind": "body",
+      "text": "You put on the mask. It fits snugly\non your face. You feel an evil\npresence trying to take control of\nyou. Save vs. L5 Magic (roll at +1 if\nyou have the Will Skill, at +2 if you\nhave it at Expert level). If you make\nit, you lose 1 Sanity and will have\n-2 on all Charisma rolls until you\nfind a way to break the curse. If\nyour Sanity reaches 0 or lower, you\nwill haunt this area until someone\nkills you and takes the mask for\nthemselves.\n",
+      "sourceLocation": "pdf:spans:[[83,1178,1214],[83,1214,1245],[83,1245,1280],[83,1280,1318],[83,1318,1356],[83,1356,1394],[83,1394,1430],[83,1430,1465],[83,1465,1499],[83,1499,1535],[83,1535,1570],[83,1570,1603],[83,1603,1615]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "560"
+  ],
+  "text": [
+    "那些男人一看见你，便举起武器向前逼近。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 560",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 560",
+      "text": [
+        "At the first sight of you, the men raise their weapons and advance."
+      ]
+    }
+  }
+}

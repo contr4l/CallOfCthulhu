@@ -5,6 +5,7 @@
       "entries": [
         {
           "kind": "pdf-provenance",
+          "section": "source-integrity",
           "sourceLocation": "pdf:document",
           "metadata": {
             "pdfPages": [
@@ -22,7 +23,8 @@
                     "assetSha256": "6fdac336b3ba55b2d9c1debd58317584f3b2647003d190466ff00ef59354728e"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "cover reviewed; title is visible in stylized image text and Tesseract did not recover it"
               },
               {
                 "pdfPage": 2,
@@ -38,7 +40,8 @@
                     "assetSha256": "8cd7f329b37886e8b6d4ca892b16dce071305667703dfe96d5794afc881fcbd7"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 3,
@@ -59,7 +62,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 4,
@@ -85,7 +89,8 @@
                     "assetSha256": "450e483b5ff6f5fb1d31a5c43aa3ab5426b7022e840df26d225ecf09d84365db"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 5,
@@ -106,7 +111,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 6,
@@ -127,7 +133,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 7,
@@ -153,7 +160,8 @@
                     "assetSha256": "faee562ea4df41b651b66a6eaa6ecaff0aa78906839f5b1962d5734d63ad289d"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 8,
@@ -174,7 +182,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 9,
@@ -200,7 +209,8 @@
                     "assetSha256": "8c65f89bfa009b84b0af2d704d07eda99680a6022b98bdfc12a016b2a173a479"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 10,
@@ -221,7 +231,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 11,
@@ -242,7 +253,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 12,
@@ -263,7 +275,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 13,
@@ -284,7 +297,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 14,
@@ -305,7 +319,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 15,
@@ -326,7 +341,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 16,
@@ -347,7 +363,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 17,
@@ -368,7 +385,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Reviewed 110-DPI rendered page: both columns legible and in left-to-right reading order; Exorcism lists Components (Holy water, Incense, Essential oils), while the adjacent ritual explicitly uses Sacrifice wording. The distinction supports requiring but not consuming an Exorcism component.",
+                "visualReviewRenderSha256": "c41a0184b204f37250e451db2eb012c6180930de540dbc471d6c9c532a0ce787"
               },
               {
                 "pdfPage": 18,
@@ -389,7 +408,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 19,
@@ -415,7 +435,8 @@
                     "assetSha256": "4130c4c37a29f2a41455258d9bb789fc7d9541baad3d600900feb837888cd9ba"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 20,
@@ -436,7 +457,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 21,
@@ -462,7 +484,8 @@
                     "assetSha256": "b50331d4f1e3db259ebcb068f20d4b814507c46eb4c914d1eef9ec23156f8654"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 22,
@@ -483,7 +506,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 23,
@@ -504,7 +528,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 24,
@@ -530,7 +555,8 @@
                     "assetSha256": "30f82d5abb9baacf45b24db541814846a96372666afc882045981d053f7c0d50"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 25,
@@ -551,7 +577,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 26,
@@ -572,7 +599,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 27,
@@ -593,7 +621,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 28,
@@ -609,7 +638,8 @@
                     "assetSha256": "2f35d63b17e02c7d507006a89535ee1d1efb79ecb122c1ad9a9c1c80dc524d01"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 29,
@@ -630,7 +660,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 30,
@@ -656,7 +687,8 @@
                     "assetSha256": "c23e845f0b328e8a4e13b79133d084223b004141a77272aa757631e8e81d80e2"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 31,
@@ -682,7 +714,8 @@
                     "assetSha256": "93a315f0f8c852b38efac6a4e3d2ef0421b6f7b2b77fd24c8074e4e12dce29fb"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 32,
@@ -703,7 +736,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 33,
@@ -729,7 +763,8 @@
                     "assetSha256": "c7bfa4c5ef4e9ba99decedcfa0f02d06e0bef13b192285fb952fc9461276b480"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 34,
@@ -750,7 +785,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 35,
@@ -771,7 +807,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 36,
@@ -797,7 +834,8 @@
                     "assetSha256": "ea0f9f8217de9763695395cb5308953eaf245a19db07b29fe19a6a79af93d8b0"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 37,
@@ -818,7 +856,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 38,
@@ -839,7 +878,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 39,
@@ -865,7 +905,8 @@
                     "assetSha256": "fd716103bc4d000b39d0cd0a44300ee569c740b5a16c6cf74a9496d66dbdfac5"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 40,
@@ -886,7 +927,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 41,
@@ -907,7 +949,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 42,
@@ -928,7 +971,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 43,
@@ -949,7 +993,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 44,
@@ -970,7 +1015,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 45,
@@ -991,7 +1037,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 46,
@@ -1012,7 +1059,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 47,
@@ -1033,7 +1081,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 48,
@@ -1054,7 +1103,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 49,
@@ -1080,7 +1130,8 @@
                     "assetSha256": "86cb56ea0185cb7eaf8ea6f294f9bcd1cf545c4a2f2a997c440269251f066744"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 50,
@@ -1101,7 +1152,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 51,
@@ -1122,7 +1174,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 52,
@@ -1143,7 +1196,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 53,
@@ -1164,7 +1218,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 54,
@@ -1185,7 +1240,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 55,
@@ -1206,7 +1262,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 56,
@@ -1232,7 +1289,8 @@
                     "assetSha256": "1e16180545b748e78581e69cb10cd3090027f20f67499ab5aea7f41b842fc67e"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 57,
@@ -1253,7 +1311,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 58,
@@ -1274,7 +1333,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 59,
@@ -1295,7 +1355,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "98789b0f3108a99bdfd4f9a65dbc8dce6ce71a47d9f0bc2e39325633c412e509"
               },
               {
                 "pdfPage": 60,
@@ -1316,7 +1378,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "a1ae7349a3ae752425ff052bdb21512a7f1e67bff53d884b0af20699f1787dc4"
               },
               {
                 "pdfPage": 61,
@@ -1337,7 +1401,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "83b0578cbc111214ecacec053f6e4ed27a09f0a05861974d5aa08269b973643f"
               },
               {
                 "pdfPage": 62,
@@ -1363,7 +1429,9 @@
                     "assetSha256": "52aefd7ab36baf7bb056d277b9320853a720cd798f225e0a339615e32f68bb11"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "Full-page illustration only; visually confirmed no body text or table is omitted.",
+                "visualReviewRenderSha256": "dd315a04bcc7c7f227646fce6c02c11803edb70a6780aab3f7e822735cd4e168"
               },
               {
                 "pdfPage": 63,
@@ -1384,7 +1452,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "335e369f11c5e0778fd47c8cba8842a85530af9a7f393addd7b9ec8da82cb513"
               },
               {
                 "pdfPage": 64,
@@ -1405,7 +1475,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "857742c27b9bef8147be4799c2dd050eb0b49fd032724f43bc5f970b55550ffc"
               },
               {
                 "pdfPage": 65,
@@ -1426,7 +1498,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "d698d21386c9ac9686ddce629ca0b202eb8d01e6a811d1e31c77c06479c299b6"
               },
               {
                 "pdfPage": 66,
@@ -1447,7 +1521,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "9c4de3a686ac4aebbe66395fe7789fb353e58c05b8005b95cbfe3ac83098bdf7"
               },
               {
                 "pdfPage": 67,
@@ -1468,7 +1544,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "25dd8e809f7bf9fc2e3f3f4ab707852f5b562e4bd636767a86706938b930cf2c"
               },
               {
                 "pdfPage": 68,
@@ -1489,7 +1567,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "3ce37ec806cbe1db0aaad24b0e3aed4f30cb6be63fa4b0759ca6fe0e97d2b9e9"
               },
               {
                 "pdfPage": 69,
@@ -1510,7 +1590,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "f295486f48e1ed7a270740f76a362ceccb27bcdac5a052ec0a575ba5f8be5ba2"
               },
               {
                 "pdfPage": 70,
@@ -1531,7 +1613,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "f93855f4e751bb6f254cf7d02976d9cfbf38a91d0efb14e2e2eed37c5d454f01"
               },
               {
                 "pdfPage": 71,
@@ -1552,7 +1636,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "f7e331127f040a1036b7e6fe26fcc7ef051d849737cb4edc7f2e24df00dace04"
               },
               {
                 "pdfPage": 72,
@@ -1573,7 +1659,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "5fb83a867903709f550a2db063a92bf137cdbe706ae9698dc5447ed282ea87f9"
               },
               {
                 "pdfPage": 73,
@@ -1599,7 +1687,9 @@
                     "assetSha256": "9100b497af3aad680143c0d44b961ae03fd78f661e607b0a0569034c0c9dcc63"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "368bda50c79dfac99cc8d5fb89a9c8ec6aa8bbb2ba2f1d9c6db96bd968a9c2ca"
               },
               {
                 "pdfPage": 74,
@@ -1620,7 +1710,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "745319fcf7ede60d0d7104e119490fe8e5670bb9a14cb07f7e4da56bcc43fa7d"
               },
               {
                 "pdfPage": 75,
@@ -1641,7 +1733,9 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "Compared visible page headings, numbered table rows, row boundaries, notes and reading order against extracted source/Chinese paragraphs. Page is single-column; no continuation crosses columns.",
+                "visualReviewRenderSha256": "3a888df9e338205546f6e286c0914977ffd0d3e6485b4f3cf3ff9a77e20bd927"
               },
               {
                 "pdfPage": 76,
@@ -1667,7 +1761,8 @@
                     "assetSha256": "61b9ca76d107888b9a6a48d2ca380ec54455c6d1d3346d55e0f14467c4d6ba67"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 77,
@@ -1688,7 +1783,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 78,
@@ -1709,7 +1805,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 79,
@@ -1730,7 +1827,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 80,
@@ -1756,7 +1854,8 @@
                     "assetSha256": "9509e3aae4f064a4f1b36202b8add79a8614374f65f0456027a5e0808f2b3dae"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 81,
@@ -1777,7 +1876,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 82,
@@ -1803,7 +1903,8 @@
                     "assetSha256": "7f2265533e5d498b9ebe8e246daec54b18b361eec185e8c30bb581b842923a35"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 83,
@@ -1824,7 +1925,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 84,
@@ -1845,7 +1947,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 85,
@@ -1866,7 +1969,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 86,
@@ -1887,7 +1991,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 87,
@@ -1908,7 +2013,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 88,
@@ -1934,7 +2040,8 @@
                     "assetSha256": "6b511103893f8580135f1eebd9fd15cfab0f1e89c319fbd3a61f0743e4b7a8bc"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 89,
@@ -1960,7 +2067,8 @@
                     "assetSha256": "14e415ee27b2adbb43e691a7604a7f2745b7178903468f30b5e77749b782f9ca"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "full-page illustration reviewed; no body prose or table text embedded"
               },
               {
                 "pdfPage": 90,
@@ -1981,7 +2089,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 91,
@@ -2002,7 +2111,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 92,
@@ -2023,7 +2133,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 93,
@@ -2044,7 +2155,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 94,
@@ -2065,7 +2177,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 95,
@@ -2091,7 +2204,8 @@
                     "assetSha256": "384e8163294d475de91f5e8f6d9a35dcd7cd6d724b4c84a783e3699700f5ad2d"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 96,
@@ -2117,7 +2231,8 @@
                     "assetSha256": "7edb8bcd17c126227c6fa1520e047ee26b763206feb296e6c371e9b5884b256e"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 97,
@@ -2138,7 +2253,8 @@
                     "assetSha256": "803ba214e8a3449b9083c920d58cda45318bc6ff498911dbbefee0931ea8cc3c"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 98,
@@ -2164,7 +2280,8 @@
                     "assetSha256": "9d8b9848bab819339a6b575c24553df2ac2a4b0c8e27b1a569a8564505ce2656"
                   }
                 ],
-                "ocrStatus": "ocr-generated-visual-review-pending"
+                "ocrStatus": "ocr-generated-visual-review-pending",
+                "visualReview": "title divider reviewed; heading text is visible in the image and in text layer"
               },
               {
                 "pdfPage": 99,
@@ -2174,7 +2291,8 @@
                 "textLayerSha256": "20d86c1ff15aec7ebe4f61e90888bf803417b386cf5f6920ea0209823405fc8a",
                 "imageCount": 0,
                 "images": [],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 100,
@@ -2245,7 +2363,8 @@
                     "assetSha256": "0474c3c88995d2515bdbeff177d7211fbfc77911ddb7b2f035f825f8a94e982e"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 101,
@@ -2261,7 +2380,8 @@
                     "assetSha256": "4930f05b65a67b9c800e18beb358d7af11ca89eec15fa50bf02d0c924a4fbc53"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 102,
@@ -2282,7 +2402,8 @@
                     "assetSha256": "05bd0c9a09fd002a70c9940a68c5fd1516a773ed4a0305bedc651bf403b48c1b"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 103,
@@ -2298,7 +2419,8 @@
                     "assetSha256": "83a9792a19aad5cf2fbc71050a3327b8d030424dd13b54e2c4b695992409eac0"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 104,
@@ -2369,7 +2491,8 @@
                     "assetSha256": "0474c3c88995d2515bdbeff177d7211fbfc77911ddb7b2f035f825f8a94e982e"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 105,
@@ -2440,7 +2563,8 @@
                     "assetSha256": "0474c3c88995d2515bdbeff177d7211fbfc77911ddb7b2f035f825f8a94e982e"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               },
               {
                 "pdfPage": 106,
@@ -2456,7 +2580,8 @@
                     "assetSha256": "74ca440d1239041eb758ce48239b38050cd751ed35fbb495c445713e3df5396b"
                   }
                 ],
-                "ocrStatus": "not-required-by-character-count"
+                "ocrStatus": "not-required-by-character-count",
+                "visualReview": "pending"
               }
             ],
             "assets": [
@@ -4056,7 +4181,7 @@
               },
               {
                 "path": "alone-against-fear/ocr/page-062.json",
-                "sha256": "480425c46dc338cb1e4b71be81922761acd3da3f23726a35ed6f459765ecb5ff",
+                "sha256": "f554a55e0c70c97a9433ab0ab38db04365225790518718d40c56fce19b3df400",
                 "pdfPage": 62
               },
               {
@@ -4864,7 +4989,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/front-matter.json",
-                  "sha256": "51123e58593eeae45d6fc5b0acc6dcbc881575a675dd5bb6d8c660b4b419592b"
+                  "sha256": "577ef7b5d569e7a716205a694f841f116789c8ea2a257b32867efaa157598e0e"
                 },
                 "sourcePages": [
                   2,
@@ -4873,24 +4998,11 @@
                 ]
               },
               {
-                "sectionId": "section-mission",
-                "kind": "chapter-or-table",
-                "fragment": {
-                  "path": "alone-against-fear/fragments/section-mission.json",
-                  "sha256": "bb83177eac387c3486e12561127abf8a98ef80fc3678df6c79ba8ee2616981fa"
-                },
-                "sourcePages": [
-                  4,
-                  40,
-                  46
-                ]
-              },
-              {
                 "sectionId": "section-all-hell-breaks-loose",
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-all-hell-breaks-loose.json",
-                  "sha256": "f03c649c6779db789cec5248e03a464c1adc05dd8f087c9a994664fdee6475bf"
+                  "sha256": "4b2c02f407dad8297819f3e34aa14214aa7e776a6f9c8a10fd755745498690ab"
                 },
                 "sourcePages": [
                   5
@@ -4901,7 +5013,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-overview-of-play.json",
-                  "sha256": "25dd867c399f5ae7a0fca4e538a3fcc51c5f79e31764a760ff64712ae56b253e"
+                  "sha256": "b318f629942e91929a28898ee82d44c442045686a5e4d31a08e77842c587b604"
                 },
                 "sourcePages": [
                   5
@@ -4912,7 +5024,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-mapping.json",
-                  "sha256": "7619e8cddc0ed38f849ef5609a460c83f2fe19970b4bf198629b23909cfbc6f6"
+                  "sha256": "9011739e9d70a860d2658a205504513528cd0b740e07559c587d7617349cdc25"
                 },
                 "sourcePages": [
                   5
@@ -4923,7 +5035,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-events.json",
-                  "sha256": "797107647ec342387809d91d23365efb7d521e05584f223fc2a2fe3481a2fa7e"
+                  "sha256": "ad7015fab507c150e3cfbc7f9ceb0371069253659fa98d9d018bcb822ac99433"
                 },
                 "sourcePages": [
                   5,
@@ -4935,7 +5047,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-character-death-or-insanity.json",
-                  "sha256": "0e89a95d0e8d6be52fc49aa5db01f9acb4c3a37a7a717abbc7b37b0cf466c8e0"
+                  "sha256": "cc029171f70f6e383a29a740a176c8cf3d1e14a9085395ba3ed55228d5cac029"
                 },
                 "sourcePages": [
                   6
@@ -4946,7 +5058,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-length-of-the-game.json",
-                  "sha256": "eb7ee981dfce70d42ac0200bbcbbdc5258ca1bbd24fccc7f5124552863e5be93"
+                  "sha256": "223f8da9f16d6c31fed3fbedf614f5aae070fcfb4ca26f655c4e78d1c3f31f35"
                 },
                 "sourcePages": [
                   6
@@ -4957,7 +5069,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-what-you-need-to-play.json",
-                  "sha256": "243fe700a7b0e05a918e15797fb8a52d29651dcf1d9c70509dccec536fe3b3de"
+                  "sha256": "4044379614380cb2362283f94c85407e1ede4bc7795e2c9451a7f47e2cc196bc"
                 },
                 "sourcePages": [
                   6
@@ -4968,7 +5080,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-dice-codes.json",
-                  "sha256": "23511c241b9a5960572e6a8fbc05637c67c3cf0798492633e65fb008d4c05063"
+                  "sha256": "789dc0d655d0b0f3f99d71b6ed036bb77a8270a2d5980a4d966e9f90c5d7e89f"
                 },
                 "sourcePages": [
                   7
@@ -4979,7 +5091,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-monsters-roll-no-dice.json",
-                  "sha256": "c65fb193286238a8525621f8a63d2095525b810e50aeae63e986eea01df5d6d9"
+                  "sha256": "b9b83e332d564d6ae00d227ab7f7236fe7398634898b242f88da919e4b0b291c"
                 },
                 "sourcePages": [
                   7
@@ -4990,7 +5102,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-saves.json",
-                  "sha256": "295359d77897e1a5eae88b073814bc04ee044b706f62fc325edcf3f1752eee9c"
+                  "sha256": "6d7c36805611ea4c4c969857a3127084d82390fc82cfb5193701d6d2047fea58"
                 },
                 "sourcePages": [
                   7
@@ -5001,7 +5113,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-other-rolls.json",
-                  "sha256": "d9e86452aeba5ff8b3868e49b371606598551b2248a17b4d6bb443f845db2a16"
+                  "sha256": "ebf8e4d2a1a9433b24af0db7d3c3fd276d000a80e400207871cc931a042603d1"
                 },
                 "sourcePages": [
                   8
@@ -5012,7 +5124,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-attack-and-defense-rolls.json",
-                  "sha256": "fa8b74b05f59c6051dd4c0899fc5ef92e2771951271b6d1569a64836cd7c79cc"
+                  "sha256": "e163e0bb31d9a5f14ad5e73f2fb6b611059e6b36030a28befb2d48f9679b42a0"
                 },
                 "sourcePages": [
                   8
@@ -5023,7 +5135,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-your-character.json",
-                  "sha256": "136f116c26649e02cf24796416ddd088aca51ebbdd892b42fecd57036cf0d5a6"
+                  "sha256": "154101ded49e4f44a3025f41dfccc25fbe56966cd2762484cbed26070d7a9f50"
                 },
                 "sourcePages": [
                   8,
@@ -5035,7 +5147,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-sanity.json",
-                  "sha256": "b25957e88609ef66dc381dfde5e7b307c6a2d8ff14816a2ff7cb52c358776080"
+                  "sha256": "40d3071047847fc1b4ae36110ac5cf7d0e621b299d40dd0952ac290164a7e101"
                 },
                 "sourcePages": [
                   10
@@ -5046,7 +5158,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-life.json",
-                  "sha256": "46bff46a729fbabf6d6178d99e16bbd76f8ad67f61091ae4aec6b59a93fb8a5b"
+                  "sha256": "55b004d700fff202210a6c0db3dc91392e07bbdd4dbd18164ae82f72167ad161"
                 },
                 "sourcePages": [
                   10
@@ -5057,14 +5169,11 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-food.json",
-                  "sha256": "c7cea8307c5dde0659d2c2b700777d67479fea858cd77e6a737079ff4689dcb5"
+                  "sha256": "80cc51426537d6eb11ddd55ea77dfd959a501ab2cc324e6c6af6d9704f6fe0fb"
                 },
                 "sourcePages": [
                   10,
-                  11,
-                  100,
-                  104,
-                  105
+                  11
                 ]
               },
               {
@@ -5072,7 +5181,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-experience.json",
-                  "sha256": "5cf901e665875ceb9c08f76fdb7334e0397f3dd9b8ff8c2a3f1c97d15247b5d1"
+                  "sha256": "4a9ec3dca0d03b113067e6578a0a76aede4370035d2f8feb26ef3ef676bb1897"
                 },
                 "sourcePages": [
                   11
@@ -5083,14 +5192,11 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-equipment.json",
-                  "sha256": "d21c14d283d02afcc37beb5a9404c454cc3a5de1d61abb11ee0993da82b500fc"
+                  "sha256": "bfb5f2ebcadf91aa6d51403d8eb3a73b8a7bb680b0e0e9cfb56b194e1c3ef526"
                 },
                 "sourcePages": [
                   11,
-                  12,
-                  100,
-                  104,
-                  105
+                  12
                 ]
               },
               {
@@ -5098,18 +5204,13 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-skills.json",
-                  "sha256": "15597e1477dc67c91372a3633b627ce0d873e55c2346b8195b43a767cf091635"
+                  "sha256": "c474a27cdb273d2b80ee37bc928e644c21da3c060e787e2f4c48c51ceb5bc173"
                 },
                 "sourcePages": [
                   12,
                   13,
                   14,
-                  15,
-                  100,
-                  101,
-                  104,
-                  105,
-                  106
+                  15
                 ]
               },
               {
@@ -5117,17 +5218,14 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-arcane-skills.json",
-                  "sha256": "3cf7eb91c94599caa0aff06054e10599a5df265c1c04d51fbcc9109bd904db12"
+                  "sha256": "34c7aec3405e72046fbab477fcd35162a51481376d8b7984b8fb13b5f87ef077"
                 },
                 "sourcePages": [
                   15,
                   16,
                   17,
                   18,
-                  19,
-                  100,
-                  104,
-                  105
+                  19
                 ]
               },
               {
@@ -5135,7 +5233,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-random-weapon-table.json",
-                  "sha256": "e8042cd607eaa98b3a2e299d648174b9477267e4480fdf97baa11a5025935f77"
+                  "sha256": "1bb1a5fa3a9e298dd28f81412def8cc2d53a49835fe549d27705963a764a58a6"
                 },
                 "sourcePages": [
                   20
@@ -5146,7 +5244,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-weapon-rules.json",
-                  "sha256": "7237a3d12ab67e237a1e68c999fbc03493792d1e3345212f26f821e6b5057ae3"
+                  "sha256": "a4e13c626b66ded2e542c5da3f02b6373a173d90a9109fdae23af7bf6d1be851"
                 },
                 "sourcePages": [
                   20
@@ -5157,7 +5255,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-random-objects-table.json",
-                  "sha256": "d770f90494a14f47c4c7dcff4a85d83ccb262fa8ed87e40342116f56a1ae372d"
+                  "sha256": "5c3d8b83d5554dc67e7b0b6ab3d5e1d87100df1a859bbd1312436330580d2aad"
                 },
                 "sourcePages": [
                   22,
@@ -5170,7 +5268,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-useful-stuff-table.json",
-                  "sha256": "46f69f1522162910aa0cd1bba8b46975115cb193c7fb67929028006f32fa05cb"
+                  "sha256": "e0fad78712d84396eb5581c4ec892e24ce9e41373b8e5edb8410110f673ea140"
                 },
                 "sourcePages": [
                   25,
@@ -5183,7 +5281,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-spells.json",
-                  "sha256": "fe85b5ff69131d61d5ed9b8bfe320fa49c12db378156369d3ad88885038a1f5b"
+                  "sha256": "7c6648fea5cfab03608cc8115d064c72f71dca7b2a347d60fc3177e0eadabd18"
                 },
                 "sourcePages": [
                   29
@@ -5194,7 +5292,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-combat.json",
-                  "sha256": "37466828477a17e4ead4088dfd0a881bab9b7e08b13a9412f977fd29f2d7e2ff"
+                  "sha256": "3d1483a6602b32653fee03cf04241e1a3022555bf7adccf8b93eddd7008dd95b"
                 },
                 "sourcePages": [
                   29,
@@ -5206,7 +5304,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-keep-track-of-ammo.json",
-                  "sha256": "604a48a54d1ec604a22527c07a0bdd992c59aa805425176392d7768573509b2e"
+                  "sha256": "8d766c6de02a4d1d4232c5655995dd021e076572c6d686f63080d8c24ea3bcc4"
                 },
                 "sourcePages": [
                   31
@@ -5217,7 +5315,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-rolling-sixes-explosions.json",
-                  "sha256": "e48a87be4977505223c1e2ec0f573109715cfe712ab39dae306866f95cd91159"
+                  "sha256": "dbb4560de1ad62429d19a5accd0acf6a1393e92ee45526a8a0b4e4623bd5e414"
                 },
                 "sourcePages": [
                   31
@@ -5228,7 +5326,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-rolling-ones.json",
-                  "sha256": "9d265b3d82295309a97621c39ea04b96f76e6ef2af93eaad9ca80482211e7ee0"
+                  "sha256": "b58df81d1893a3ff6dee497547699276be0144786d2c5bc43051eca4a4bda0ee"
                 },
                 "sourcePages": [
                   32
@@ -5239,7 +5337,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-surprise.json",
-                  "sha256": "1e3136b7808b11727b67a75debeb8028ff19d5ef0db0494d774e9049cdf27701"
+                  "sha256": "6ce0e45e9b2365ee4b17c56338c9131622ad550960acba48dc4dcc792a16433c"
                 },
                 "sourcePages": [
                   32
@@ -5250,7 +5348,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-charisma-rolls.json",
-                  "sha256": "f06b8619cf7141f5a9b33658efc7f6278e96f4c5da20cbeb9506c993215f0138"
+                  "sha256": "3bf4e9e80ad462dfee217928791ec78c334ca912d1ae9af03e483aceada6c474"
                 },
                 "sourcePages": [
                   32,
@@ -5262,7 +5360,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-insanity-table.json",
-                  "sha256": "0793ca4d5bd32b44066f77d24d4bb4a07bee1b76702afe0d2475d4fd4e9e6d27"
+                  "sha256": "bbd3a6236ab6752e08f499be310f8def44dd2aa67f9bbb908ca99657809a9d14"
                 },
                 "sourcePages": [
                   34
@@ -5273,7 +5371,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-injury-table.json",
-                  "sha256": "3d15c897cf3c25c7a0507c9e2b8f2fbfcc04f57b637a23253474c1b4afcdcd5f"
+                  "sha256": "e46748e3ed1685d2fe1d762eaa0ad8845a152664544951db88abbe2740838ad4"
                 },
                 "sourcePages": [
                   34
@@ -5284,7 +5382,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-stealth-rolls.json",
-                  "sha256": "54a2fe51ada01b5b3c6f72b70888c59dc32e99190094f3b958c3f575bdba2b4e"
+                  "sha256": "1c81c6188895c1c22ae7c82a1b3c70ed5d999ee2425c14b7467257e9b814bd5c"
                 },
                 "sourcePages": [
                   35
@@ -5295,7 +5393,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-monster-descriptions.json",
-                  "sha256": "59fa4bb1229ab1d450329ea6769531c6e29fca9ff8d2f22eb560d0dc91915fc6"
+                  "sha256": "a53f9c7eddfffee57df5a38f8ea302af7801d76ceef4f9177e252a14639621a0"
                 },
                 "sourcePages": [
                   35
@@ -5306,7 +5404,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-vulnerabilities.json",
-                  "sha256": "42582c1d11474c1099c1d19783f8af4bf33c3db707193e7f0c67d66117931df8"
+                  "sha256": "aaded2ec81210903c56c22f4aa48e69700049285bb3d35fa597ec448a8e9349c"
                 },
                 "sourcePages": [
                   36
@@ -5317,7 +5415,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-susceptible-to-exorcism.json",
-                  "sha256": "49b3997fb09aee3aedddcf8fad0b81e6d37cec1143327316cd374cc3208846d5"
+                  "sha256": "6a8379261ad93077c998404e932b42a13c353d0f6cb6b4eb715a9e67905e76d3"
                 },
                 "sourcePages": [
                   36
@@ -5328,7 +5426,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-xp-value.json",
-                  "sha256": "74e0f7e247ac5e6dc9ccc7db296ee1021fa4ce18716fc39b74443735ca56081f"
+                  "sha256": "539fd7e899c83385bfca7f662c57e82ae1175b6c32f135f5240fef42f01a5589"
                 },
                 "sourcePages": [
                   36
@@ -5339,7 +5437,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-how-the-game-works.json",
-                  "sha256": "f2ca5550b3c2dbda3061709ccbe6eba28579b27acacd40a4242a9ceaa47ba4d0"
+                  "sha256": "c16c941ef71911494d83e658e63ffbee902febabe26660f3b95c457ae6aab8c2"
                 },
                 "sourcePages": [
                   37
@@ -5350,7 +5448,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-movement-and-mapping.json",
-                  "sha256": "38ae365e034f923a7b819071a247442a8af8409561d1cda964149d36cc05bcd6"
+                  "sha256": "a432f82f266ccd13d4ee98d676575660310a25203d9412177d93ff9985296f41"
                 },
                 "sourcePages": [
                   37
@@ -5361,7 +5459,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-moving-through-visited-areas.json",
-                  "sha256": "b35a0ddf99b7ec82640b5532bb16fa6c91b564803b84fc26ddb9a1858829818f"
+                  "sha256": "2bda5403a0a7e06d5c8bdc88f0b68c385c52509c736dba238d15f073ee1aebd7"
                 },
                 "sourcePages": [
                   38
@@ -5372,7 +5470,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-search-rolls.json",
-                  "sha256": "8ad12c686ba0566f975810294bd5923ec4367ba448ec32b58243d6c13b5816f8"
+                  "sha256": "ecaa99541dbf20dc71ea1f95e4ac4cbde22ff53c534420d4dca46cfdf37e0852"
                 },
                 "sourcePages": [
                   38
@@ -5383,7 +5481,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-hunting.json",
-                  "sha256": "be29bc9d99173e6f0308b024d40807bbfad87c884474491fcef512beaba57eb9"
+                  "sha256": "6dd213a7d4ce58bf9e16a44397ac1df845b2b4c842f2c86b02324706122328e0"
                 },
                 "sourcePages": [
                   38
@@ -5394,10 +5492,32 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-random-encounter.json",
-                  "sha256": "ac4035c042dfc3f2a65f55ae808fd62a59cbe569965a9023249b15f6b3260944"
+                  "sha256": "0dc6ede83c99193efceca4f29a885bb54e9f866fb31f99fc385cc4164dd458c8"
                 },
                 "sourcePages": [
                   39
+                ]
+              },
+              {
+                "sectionId": "section-mission-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-mission-table.json",
+                  "sha256": "146b968450135d543ceb4808a7f7183a4212668812e17df01b56aa42ab898b34"
+                },
+                "sourcePages": [
+                  40
+                ]
+              },
+              {
+                "sectionId": "section-mission",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-mission.json",
+                  "sha256": "bcfaf7eda2bbb1e27559a5554032cfd9c37cd663fda095d5e3ba3ed71d10d767"
+                },
+                "sourcePages": [
+                  40
                 ]
               },
               {
@@ -5405,10 +5525,9 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-mission-table-continued.json",
-                  "sha256": "ada2d4ffcc4ed7fe56c2edb547eddb22f32a3d2f1fdad4c4a360b14e0f867c54"
+                  "sha256": "2183b92d0b4b3fa48f42caaf9c26535e69b0d7f50cb500adf04a2b4e7124d497"
                 },
                 "sourcePages": [
-                  40,
                   41
                 ]
               },
@@ -5417,7 +5536,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-town-exploration-table.json",
-                  "sha256": "451c85c565d5e9fd180e8f368f3df1a2d385af175724a8703a6ceae363b51f74"
+                  "sha256": "ac23a3a001e348c448c3a2c63ded28fa55066a2af596c29852a78553ff34d2ad"
                 },
                 "sourcePages": [
                   42
@@ -5428,7 +5547,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-street-table.json",
-                  "sha256": "5c6099e3c95e8526419ed69da663608812322f8e25e3a88e85e5c6cf539dfef6"
+                  "sha256": "365d62f78d8cb83b3d83d0eb13ffdb4c794c6b2d2f7ec0257de1fb12e3cd00c9"
                 },
                 "sourcePages": [
                   43
@@ -5439,7 +5558,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-cemetery-table.json",
-                  "sha256": "e0d4d8c362dd6335a7d38d96b57d76b816e3ac2f3400ea6df129e484d3184f03"
+                  "sha256": "76ded946bd6d76a1edb51228145b718882c900e92ef4871f8093bd30cc3089e1"
                 },
                 "sourcePages": [
                   43
@@ -5450,7 +5569,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-house-table.json",
-                  "sha256": "716896ac0a26045fee6d7b1dab5de31abda16585e9b9499895a47d0f8a025e8c"
+                  "sha256": "bd8e22447854136dbce3afb7491ac01be97f31a610ea936f7ff2c3b76d868efe"
                 },
                 "sourcePages": [
                   44
@@ -5461,7 +5580,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-clinic-table.json",
-                  "sha256": "348091fbab590493ae162c7ade4f9a45aeb59b10c7d81016eeaf476430807882"
+                  "sha256": "682fd64d128bf5d7d713796f39250789895f1a4d08de821cbf009eae508d5595"
                 },
                 "sourcePages": [
                   45
@@ -5472,7 +5591,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-place-of-worship-table.json",
-                  "sha256": "c3bc86eb8d528fcd00af388929f794b9748f5c230253de2ee4e11e9dfd44b9c1"
+                  "sha256": "efe924facfd62ca5de81048cdd62aeed733a4425949a0588e63cdf662b7fb068"
                 },
                 "sourcePages": [
                   46
@@ -5483,7 +5602,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-military-installation-lab-table.json",
-                  "sha256": "57f62c77d911238e8c1dddcec1051ef1d9ae3b6498f14ef31c20cb18e9498a03"
+                  "sha256": "c3701c4d88dfb92cdb4cff050eba146e6c926f5521c8a797f06126f438392c60"
                 },
                 "sourcePages": [
                   47
@@ -5494,18 +5613,326 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-farm-table.json",
-                  "sha256": "72b5ea4ace62bc226cdbee2cd3eb8d0823b611c805ea2744fe7ec38d6b4f9528"
+                  "sha256": "5956dd1aac6bcc6b511bb6753adaa426995828018576e78557402049e40846e6"
                 },
                 "sourcePages": [
                   48
                 ]
               },
               {
-                "sectionId": "play-aids-and-summaries",
+                "sectionId": "section-haunted-house-table",
                 "kind": "chapter-or-table",
                 "fragment": {
-                  "path": "alone-against-fear/fragments/play-aids-and-summaries.json",
-                  "sha256": "1752eae43cdf40a431ae0282ccadb50a18137bee8f23a01b482f726e1d4d1239"
+                  "path": "alone-against-fear/fragments/section-haunted-house-table.json",
+                  "sha256": "f91166cecf6bf18bceb33a3a8487d1bc61e83b7c9f991de0907bbf8e04bad9aa"
+                },
+                "sourcePages": [
+                  50
+                ]
+              },
+              {
+                "sectionId": "section-store-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-store-table.json",
+                  "sha256": "5335ff0b6ba6d54af37cb05349f88c408f794cc05470a8fd1e71fe12ea2839da"
+                },
+                "sourcePages": [
+                  51
+                ]
+              },
+              {
+                "sectionId": "section-sewers-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-sewers-table.json",
+                  "sha256": "aefdbdf168abdd0eb376db0fec8c2b86763b060cb300bdad18f56e360acbdb91"
+                },
+                "sourcePages": [
+                  52
+                ]
+              },
+              {
+                "sectionId": "section-railways-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-railways-table.json",
+                  "sha256": "04a1747931e1a1b34e8dea9356248f94ce084366690e318883c9c8e9de65f2ed"
+                },
+                "sourcePages": [
+                  53
+                ]
+              },
+              {
+                "sectionId": "section-school-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-school-table.json",
+                  "sha256": "b7de8e9c4e124a6911d55dd86afd292f86486af05455f4ac8a4fa5a7529f1878"
+                },
+                "sourcePages": [
+                  54
+                ]
+              },
+              {
+                "sectionId": "section-children-s-stuff-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-children-s-stuff-table.json",
+                  "sha256": "8cdc3b3e74a2d02b6aee7ceccf2cb94c7f5a54dff734b079c29c958f76e68e84"
+                },
+                "sourcePages": [
+                  55
+                ]
+              },
+              {
+                "sectionId": "section-woods-park-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-woods-park-table.json",
+                  "sha256": "d5f749f3631922ef106f0c2979c1e0c24848532dd3ae6947ed657717c6e7b0d9"
+                },
+                "sourcePages": [
+                  57
+                ]
+              },
+              {
+                "sectionId": "section-special-events-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-special-events-table.json",
+                  "sha256": "abea2c2b8f7b50161fde61fbc9bea100cc5f881c8173cae7425eb3b422af6c2b"
+                },
+                "sourcePages": [
+                  58
+                ]
+              },
+              {
+                "sectionId": "section-beasts-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-beasts-table.json",
+                  "sha256": "a41400175ef73bfe422335f8c2e7edbff4120921cb4ac1424050a3275c6b21f0"
+                },
+                "sourcePages": [
+                  59
+                ]
+              },
+              {
+                "sectionId": "section-undead-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-undead-table.json",
+                  "sha256": "174e1c5bf85f44f56467e743a64a28b98226b27d70554785b78ab4923ec2185b"
+                },
+                "sourcePages": [
+                  60
+                ]
+              },
+              {
+                "sectionId": "section-possessed-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-possessed-table.json",
+                  "sha256": "032acdd8db3808e7df50d2772713439e8bc41b04113097b2da583d762d23ce3c"
+                },
+                "sourcePages": [
+                  61
+                ]
+              },
+              {
+                "sectionId": "section-demonic-horrors-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-demonic-horrors-table.json",
+                  "sha256": "b8efccace0ba210f737cef830df09f225bec7e4ddbb4d0625df3b26d9e9eb939"
+                },
+                "sourcePages": [
+                  63
+                ]
+              },
+              {
+                "sectionId": "section-slashers-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-slashers-table.json",
+                  "sha256": "6629ea20e03cc11b814c8904d606cca9d6f0cb595d46306084cb1d1fc6689eac"
+                },
+                "sourcePages": [
+                  64
+                ]
+              },
+              {
+                "sectionId": "section-lab-horrors-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-lab-horrors-table.json",
+                  "sha256": "92330f56b06d01ac58f8afabe9c960d17f08cff745c564de16a8a3ea04355cef"
+                },
+                "sourcePages": [
+                  65
+                ]
+              },
+              {
+                "sectionId": "section-witch-children-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-witch-children-table.json",
+                  "sha256": "e7e51c98b825f841cb01c40680f2a2bcdea075d46035b08ce58b0fa79e15e603"
+                },
+                "sourcePages": [
+                  66
+                ]
+              },
+              {
+                "sectionId": "section-living-dolls-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-living-dolls-table.json",
+                  "sha256": "c0e92ef8351c57bed1a8f988460c36e20dd425157ee94a6ef9fefda3de909028"
+                },
+                "sourcePages": [
+                  67
+                ]
+              },
+              {
+                "sectionId": "section-ghosts-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-ghosts-table.json",
+                  "sha256": "11141dab5ab5735eca580cc363e9caed555c8d646dd5cf5764841f84944b7c07"
+                },
+                "sourcePages": [
+                  68
+                ]
+              },
+              {
+                "sectionId": "section-aliens-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-aliens-table.json",
+                  "sha256": "0ef05272d0312222e8976d259ce9ae392868ed0346de0f68e33a9fb00fc04ee8"
+                },
+                "sourcePages": [
+                  69
+                ]
+              },
+              {
+                "sectionId": "section-unique-vampires-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-unique-vampires-table.json",
+                  "sha256": "f7c5b569f99f56bc7310e8d14b4cd069ccfeb1481264c7eb5b7a9bdf91679d6d"
+                },
+                "sourcePages": [
+                  70
+                ]
+              },
+              {
+                "sectionId": "section-unique-zombies-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-unique-zombies-table.json",
+                  "sha256": "915ca91220ad8f14c746be2606e45ed1df574417fd5a1d929b1fe4f37feb4932"
+                },
+                "sourcePages": [
+                  71
+                ]
+              },
+              {
+                "sectionId": "section-random-book-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-random-book-table.json",
+                  "sha256": "6c52f9a8e96be3f9f9f32ace7a25d79594e6677d28c93913962b8e49299654ab"
+                },
+                "sourcePages": [
+                  72
+                ]
+              },
+              {
+                "sectionId": "section-rewards-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-rewards-table.json",
+                  "sha256": "bf8bc58520a96f663b86b49648b338b462b722b8689adc2bdf85fd84a98d2dc4"
+                },
+                "sourcePages": [
+                  73
+                ]
+              },
+              {
+                "sectionId": "section-side-mission-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-side-mission-table.json",
+                  "sha256": "440ca349febadaafdb4e10aa3c2128e3237bf64d92bfaa307915f6f44aef08cb"
+                },
+                "sourcePages": [
+                  74
+                ]
+              },
+              {
+                "sectionId": "section-random-magic-item-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-random-magic-item-table.json",
+                  "sha256": "3842fac8b62e1992192cc04c05d637bbc603a4a821cf4368e0a9000485e263fa"
+                },
+                "sourcePages": [
+                  75
+                ]
+              },
+              {
+                "sectionId": "section-unique-events",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-unique-events.json",
+                  "sha256": "9999868453cc203f019c2ea5506d921b67225d7dcdba58ebe155610bff4e96be"
+                },
+                "sourcePages": [
+                  77
+                ]
+              },
+              {
+                "sectionId": "section-fluid-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-fluid-table.json",
+                  "sha256": "7cd907a339d6a8bf7b5b9b295f68d1929d9cb5f4cdf5eb8c6c22e8f3e735f14a"
+                },
+                "sourcePages": [
+                  78
+                ]
+              },
+              {
+                "sectionId": "section-random-item-in-the-hut",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-random-item-in-the-hut.json",
+                  "sha256": "73c56dcab4df3ff73f1c9e90262bd621fe685d53ff74fa25afc6eecceb63b61d"
+                },
+                "sourcePages": [
+                  82
+                ]
+              },
+              {
+                "sectionId": "section-random-events-table",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-random-events-table.json",
+                  "sha256": "f7a82a77aa2e3869ac16e29399afdb0db7c14339a1f73e9666d370a093c7f94f"
+                },
+                "sourcePages": [
+                  97
+                ]
+              },
+              {
+                "sectionId": "section-play-aids-and-summaries",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-play-aids-and-summaries.json",
+                  "sha256": "852e51ed44fbe495f93d2ffd88da152af8e593416ee89bc0fba0742e4e59e254"
                 },
                 "sourcePages": [
                   98
@@ -5516,7 +5943,7 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-weapon-summary-table.json",
-                  "sha256": "c0c070967f1bb6f13fb1632b9e2fdad2e43f3f7ff51b9f69ad58441065bd35ce"
+                  "sha256": "dea261db324d12ec67f3fa5a74898a6ef5287fc60fe2895911589896daee45f2"
                 },
                 "sourcePages": [
                   99,
@@ -5528,10 +5955,21 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-character-sheet.json",
-                  "sha256": "c7956cc0dcb1cb45bf313aa0a057a5384044bf735ad7fa6c145d8d6bbd2005c4"
+                  "sha256": "f047876c4b93af9c4533809e1660e9c3b6096cb178c48134eb3b3ad8a734b2de"
                 },
                 "sourcePages": [
                   100
+                ]
+              },
+              {
+                "sectionId": "section-town-map",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-town-map.json",
+                  "sha256": "3ccfe93b624e856b192937ae42db3d695c908913366eaf0bdada2c4aa01a3526"
+                },
+                "sourcePages": [
+                  101
                 ]
               },
               {
@@ -5539,13 +5977,86 @@
                 "kind": "chapter-or-table",
                 "fragment": {
                   "path": "alone-against-fear/fragments/section-game-overview.json",
-                  "sha256": "6b59f9d4725807eb143821abc6b3fbe300d92103e6cb5eb8d6994951b44ba509"
+                  "sha256": "c92d4bdb63ad4554cfea4457f23f503f00fd1cfe3bda518427d37183455c7841"
                 },
                 "sourcePages": [
-                  102,
+                  102
+                ]
+              },
+              {
+                "sectionId": "section-random-skill-generation",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-random-skill-generation.json",
+                  "sha256": "a6e4df0de892a360719fdad7ed862844cc07a71037c794dd3be70a72cc55cae0"
+                },
+                "sourcePages": [
                   103,
                   104
                 ]
+              },
+              {
+                "sectionId": "section-sample-pregenerated-characters",
+                "kind": "chapter-or-table",
+                "fragment": {
+                  "path": "alone-against-fear/fragments/section-sample-pregenerated-characters.json",
+                  "sha256": "57cf539e3e65e63ecc60e6bb33cad083d6937c87c67a75795de0315bd4f2e71f"
+                },
+                "sourcePages": [
+                  104,
+                  105,
+                  106
+                ]
+              }
+            ],
+            "visualReviews": [
+              {
+                "pdfPage": 1,
+                "result": "cover reviewed; title is visible in stylized image text and Tesseract did not recover it"
+              },
+              {
+                "pdfPage": 9,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 21,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 28,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 30,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 49,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 56,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 62,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 76,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 80,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 89,
+                "result": "full-page illustration reviewed; no body prose or table text embedded"
+              },
+              {
+                "pdfPage": 98,
+                "result": "title divider reviewed; heading text is visible in the image and in text layer"
               }
             ],
             "canonicalTextClaim": "pypdf extract_text pages, in page order, reconstructed from paragraph source spans; PDF binary and visual assets remain authoritative",

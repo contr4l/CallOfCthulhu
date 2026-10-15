@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "193"
+  ],
+  "text": [
+    "你陷入沉思，西尔维娅轻拍你的手肘来替你守夜，吓了你一跳。你去查看睡着的男人，随后才上床休息。他的状况似乎每小时都在恶化。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 193",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 193",
+      "text": [
+        "Lost in thought, you jump as Sylvia touches your elbow to relieve you. You check on the sleeper before turning in. His condition seems be deteriorating by the hour."
+      ]
+    }
+  }
+}

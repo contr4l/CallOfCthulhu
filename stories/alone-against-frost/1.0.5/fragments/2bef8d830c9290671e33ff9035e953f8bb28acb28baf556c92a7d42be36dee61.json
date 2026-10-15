@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "171",
+    "frost-auto-171"
+  ],
+  "text": [
+    "你很庆幸逃离了冰寒杀手，回到营地与同伴会合。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 171",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 171",
+      "text": [
+        "Glad to have escaped the cold-killer, you rejoin your comrades in camp."
+      ]
+    }
+  }
+}

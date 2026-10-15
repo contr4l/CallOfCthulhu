@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "293",
+    "frost-auto-293"
+  ],
+  "text": [
+    "你、诺曼和西尔维娅避开了史前景观中的种种危险。一处碎石坡可让你们更安全地离开山谷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 293",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 293",
+      "text": [
+        "You, Norman, and Sylvia elude the menaces of the prehistoric landscape. A scree slope offers you a less hazardous descent from the valley."
+      ]
+    }
+  }
+}

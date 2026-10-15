@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "340"
+  ],
+  "text": [
+    "你挣脱狼群，狼群开始撕扯你那些不幸学生的尸体。趁这残酷的分心时刻，你抢先拉开一段距离，几头捕食者随后脱离狼群追来。你能坚持到它们失去兴趣吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 340",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 340",
+      "text": [
+        "You break free of the pack, which tears at the bodies of your hapless students. That grisly diversion allows you to get a good head start before a few of the predators break off to give chase. Can you keep going until they lose interest?"
+      ]
+    }
+  }
+}

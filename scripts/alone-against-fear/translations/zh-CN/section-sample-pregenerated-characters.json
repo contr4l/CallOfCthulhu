@@ -1,0 +1,47 @@
+{
+  "id": "section-sample-pregenerated-characters",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "57cf539e3e65e63ecc60e6bb33cad083d6937c87c67a75795de0315bd4f2e71f",
+  "paragraphs": [
+    {
+      "id": "section-sample-pregenerated-characters:p0",
+      "text": "预生成角色"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p1",
+      "text": "伤残\n精神创伤\n技能\n武器\n弹药\n蜡烛\n关键词\nAnna Miller（视觉核对：理智9，生命10；经验和线索栏为空）。"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p2",
+      "text": "4（视觉核对：食物4）\n意志（基础）+1 意志检定\n神秘学者（基础）+1 魔法检定"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p3",
+      "text": "6（视觉核对：弹药6）\n手枪，攻击+1\n锤子，对抗僵尸和燃烧骷髅时+1\n装备：锤子、3根木桩、急救包（3点）。"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p4",
+      "text": "3\n装备\n奥术技能\n食物\n已读书籍\n技能\n武器\n弹药\n蜡烛\n关键词"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p5",
+      "text": "4（视觉核对：食物4）\n滑溜（逃跑检定+1）\n强壮：力量检定+2，携带物品+3\n刀，攻击-1\n电锯：双手使用，攻击+1，伤害2。"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p6",
+      "text": "2（原文版面中的独立数值，栏位不明）\n电锯：双手武器，攻击检定+1，伤害2。每场战斗结束时掷1/6概率，检查噪音是否引来D6只僵尸（L3、行动迟缓的不死生物）。\n一袋盐（6剂）\n刀（攻击-1）\n姓名 经验 理智 生命 线索"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p7",
+      "text": "预生成角色"
+    },
+    {
+      "id": "section-sample-pregenerated-characters:p8",
+      "text": "Douglas Harrison（视觉核对：理智8，生命11；经验和线索栏为空）。\n\n电脑打印资料《他们就在我们之中》。\n\n外面有怪物，而你独自行走。\n独自对抗行尸，独自对抗恶魔；独自对抗吸血鬼和狼人；独自对抗无形怪物、恶魔崇拜者、女巫、疯子和邪恶小丑。\n《恐惧独行》\nwww.ganeshagames.net"
+    }
+  ],
+  "notes": [
+    "页104–105样例卡数值按PDF视觉核对；PDF文本层将表单标题、独立数值和行内容按流顺序混排。页105独立数字“3”“2.”的栏位无法从对应文本跨度确定，保留原数值并注明不确定，不推断字段。页106封底宣传文案在原章节片段内，已完整翻译。"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "421",
+    "frost-auto-421"
+  ],
+  "text": [
+    "继续拿自己和诺曼的性命冒险毫无意义。救出西尔维娅的机会微乎其微。你和诺曼带着无法释怀的悔恨，试图沿原路悄悄退出营地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 421",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 421",
+      "text": [
+        "It’s useless to continue risking your life and Norman’s. The odds are heavily against rescuing Sylvia. Carrying your private burdens of regret, you and Norman try to withdraw from the camp the same way you entered it."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "422"
+  ],
+  "text": [
+    "你穿过营地，继续低声呼唤西尔维娅的名字。你知道诺曼也在一旁做着同样的事。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 422",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 422",
+      "text": [
+        "You thread through the camp, continuing to whisper Sylvia’s name. You are conscious of Norman, off to your side, doing the same."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "440"
+  ],
+  "text": [
+    "诺曼粗哑的喊叫声变得尖锐，他的脸和头皮裂开伤口。他在血雾中倒下。只剩你一个人了，而你的力气也快耗尽。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 440",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 440",
+      "text": [
+        "Norman’s gruff cry becomes high-pitched as wounds rip open his face and scalp. He goes down in a bloody haze. You are the only one left, and your strength is failing."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "60"
+  ],
+  "text": [
+    "北汉尼纳河穿行于陡峭峡谷和无法通过的沼泽之间。队伍几次被迫深入内陆，也几次险些跟丢河道。第二天傍晚，你们在一处排水良好的小丘停下，扎营后让伯纳德跟你一起去打猎。",
+    "你在苔藓覆盖的岩棚下追踪一只雪鞋兔时，听见左上方传来一声咆哮。一只狼獾张着嘴，涎液从口中滴落，径直朝你的同伴扑去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 60",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 60",
+      "text": [
+        "The North Hanninah runs through sheer chasms and uncrossable sloughs. Your party is forced inland several times, and you risk losing the river. On the second evening, your march stops at a well-drained knoll, where you pitch camp and take Bernard off to hunt.",
+        "While stalking a snowshoe hare under a mossy rock shelf, you hear a growl above and to your left. Foam oozing from its jaws, a wolverine leaps straight for your companion."
+      ]
+    }
+  }
+}

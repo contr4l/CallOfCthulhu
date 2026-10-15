@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "126"
+  ],
+  "text": [
+    "然而，绕过一个弯道时，你发现了一艘被遗弃的独木舟。",
+    "乘独木舟冒险穿过前方险恶水域，前往242。把它留在原地，前往119。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 126",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 126",
+      "text": [
+        "Around one bend, however, you find an abandoned canoe.",
+        "To use the canoe to dare the rough water ahead, go to 242. To leave it behind, go to 119."
+      ]
+    }
+  }
+}

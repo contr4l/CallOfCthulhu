@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "0"
+  ],
+  "text": [
+    "选择纳德尔曼博士的男性或女性角色卡，然后依照原书分配技能点。角色卡列出短柄斧、猎刀和步枪的武器数据，但没有打印持有数量；请登记队伍起始总数并分配，系统会记录每人的原始数量供后文恢复。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "建立调查员",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Create Investigator",
+      "text": [
+        "Choose the male or female Dr. Nadelmann sheet, then allocate skills as directed by the book. The character sheets list hatchet, knife and rifle weapon profiles but print no quantities; register the expedition totals and distribute them. The runtime records each person’s starting quantities for later restoration."
+      ]
+    }
+  }
+}

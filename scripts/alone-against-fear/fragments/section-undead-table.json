@@ -1,0 +1,51 @@
+{
+  "id": "section-undead-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-undead-table:p0",
+      "kind": "heading",
+      "text": "Undead table (d6) 1 xp\n",
+      "sourceLocation": "pdf:spans:[[60,22,45]]"
+    },
+    {
+      "id": "section-undead-table:p1",
+      "kind": "body",
+      "text": "1\n2d6 Zombies, L2 Undead, 1 Life each, damage 1. Zombies are Slow:\nyou may Escape with no ill effect. You gain no XP if you flee. Zombies\nremain in the area. If you are killed by zombies, you become a\nzombie and remain in this area.\n",
+      "sourceLocation": "pdf:spans:[[60,45,47],[60,47,112],[60,112,183],[60,183,246],[60,246,278]]"
+    },
+    {
+      "id": "section-undead-table:p2",
+      "kind": "body",
+      "text": "2\nd6 Twitchers, L4 Undead, 1 Life each, damage 1. Twitchers are\nfaster, smarter zombies that lay ambushes. They have a  2 in 6\nchance of  surprise. If you are killed by twitchers, you become a\ntwitcher and remain in this area.\n",
+      "sourceLocation": "pdf:spans:[[60,278,280],[60,280,342],[60,342,405],[60,405,471],[60,471,505]]"
+    },
+    {
+      "id": "section-undead-table:p3",
+      "kind": "body",
+      "text": "3\nd6 Flaming Skeletons, L3 Undead, 1 Life each, damage 2. These\nare walking corpses whose flesh is perpetually on fire. They attack\nby touching with their fiery hands. Hammers and baseball bats strike\nthem at +1. Molotov cocktails do no damage against them. If you\nhit them with an unarmed attack, even with Martial Arts, you\nautomatically take 1 damage.\n",
+      "sourceLocation": "pdf:spans:[[60,505,507],[60,507,569],[60,569,637],[60,637,706],[60,706,770],[60,770,831],[60,831,860]]"
+    },
+    {
+      "id": "section-undead-table:p4",
+      "kind": "body",
+      "text": "4\nd6 Howlers, L3 Undead, 2 Life each, damage 2. Howlers are walking\ndead with distorted faces who yell loudly as they claw at you.  At the\nbeginning of the combat you must save vs. L3 Fear  (add +1 if you\nhave Will or +2 if you have it at Expert level) or lose 1 Sanity. At the\nend of the combat, there is a 2 in 6 chance that their howls will\nattract something (roll on this table again).\n",
+      "sourceLocation": "pdf:spans:[[60,860,862],[60,862,928],[60,928,999],[60,999,1065],[60,1065,1138],[60,1138,1204],[60,1204,1250]]"
+    },
+    {
+      "id": "section-undead-table:p5",
+      "kind": "body",
+      "text": "5\nPumpkin Head, L4 Undead, 5 Life, damage 1. Vulnerable to holy\nwater. Before the combat, save vs. L4 Fear (add +1 if you have Will\nor +2 if you have it at Expert level) or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[60,1250,1252],[60,1252,1314],[60,1314,1382],[60,1382,1438]]"
+    },
+    {
+      "id": "section-undead-table:p6",
+      "kind": "body",
+      "text": "6\nVampire, L5 Undead, 8 Life, damage 2. Vulnerable to holy water. It\nwill not appear in a place of worship (reroll). If  confronted with a\nreligious symbol or garlic, roll d6. On a 3 or less, the vampire flees.\nRoll once per encounter. Roll twice if both religious symbols and\ngarlic are used. A slain vampire will come back to life and attack you\nagain (roll a 2 in 6 chance per every box traveled to meet the vampire\nBEFORE rolling for exploration of that box) unless you use a stake\nor destroy its body with holy water or fire (to destroy it with holy\nwater, the last Life point must be taken by holy water; to destroy it\nby fire, you need matches and a can of fuel).",
+      "sourceLocation": "pdf:spans:[[60,1438,1440],[60,1440,1507],[60,1507,1577],[60,1577,1649],[60,1649,1715],[60,1715,1786],[60,1786,1857],[60,1857,1924],[60,1924,1993],[60,1993,2063],[60,2063,2108]]"
+    }
+  ],
+  "sourcePages": [
+    60
+  ]
+}

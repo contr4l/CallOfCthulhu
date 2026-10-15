@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "133"
+  ],
+  "text": [
+    "一个矮小的人走向伯纳德，举起一把月牙形镰刀。他的两个同伴蹲伏在旁，不停发出啼鸣。",
+    "保持沉默，继续观察，前往199。采取行动并开枪，前往135。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 133",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 133",
+      "text": [
+        "One of the diminutive men now steps toward Bernard, lifting a moon-shaped sickle. His two comrades crouch and keep up a trill.",
+        "To remain silent and watch, go to 199. To take action and shoot, go to 135."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "487",
+    "frost-auto-487"
+  ],
+  "text": [
+    "猿人骚动起来。其中一只手掌朝天指向天空。远处有几个黑点——是飞行生物。它们逐渐变大。",
+    "你简直不敢相信自己的眼睛：飞行的甲壳类生物，以触手作为前端。大脚怪放开你，畏缩着尖叫臣服。你转身惊恐逃跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 487",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 487",
+      "text": [
+        "The ape-men stir. One points with his great palm outward against the sky. Out there are several black specks—flying things. They steadily grow larger.",
+        "You cannot believe your eyes. Flying crustaceanoids, with tentacles as their forward parts. The sasquatches release you and cower and shriek in submission. You turn and flee in terror."
+      ]
+    }
+  }
+}

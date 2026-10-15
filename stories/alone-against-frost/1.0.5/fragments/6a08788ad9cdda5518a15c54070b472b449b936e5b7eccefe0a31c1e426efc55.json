@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "316"
+  ],
+  "text": [
+    "一条急流横在你们面前。你猜想，如果诺曼和西尔维娅从这条路逃走，就必须停在河的这一侧，甚至可能沿河而行。你沿着水道并行前进，很快就在湿润土壤里发现了失踪学生的靴印。",
+    "你加快脚步，突然听见同伴惊恐的呼喊。你朝声音跑去，看见西尔维娅站在陡峭峡谷边缘。诺曼已经跌落下去，西尔维娅正靠力量阻止他坠入汹涌的河水！你能及时赶到吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 316",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 316",
+      "text": [
+        "A swift stream cuts across your path. You guess that if Norman and Sylvia ran this way, they would be forced to remain this side of such a barrier—perhaps even follow its course. You walk parallel to the waterway and soon you see the bootprints of your missing students in the moist soil.",
+        "You step up your pace and suddenly hear your companions’ frightened shouts. Running toward the source, you see Sylvia on the edge of a steep ravine. Norman has fallen over the edge and only Sylvia’s strength prevents him from plummeting into the roaring waters! Can you reach them in time?"
+      ]
+    }
+  }
+}

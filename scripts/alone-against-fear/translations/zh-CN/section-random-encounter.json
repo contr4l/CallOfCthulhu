@@ -1,0 +1,45 @@
+{
+  "id": "section-random-encounter",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "0dc6ede83c99193efceca4f29a885bb54e9f866fb31f99fc385cc4164dd458c8",
+  "paragraphs": [
+    {
+      "id": "section-random-encounter:p0",
+      "text": "随机遭遇表（掷D6，再掷一次D6）"
+    },
+    {
+      "id": "section-random-encounter:p1",
+      "text": "1\n1、2）掷杀手表。若掷出本战役中已经击败的杀手则重掷。若所有杀手都已击败，则视为没有遭遇。\n3–6）掷女巫之子表。"
+    },
+    {
+      "id": "section-random-encounter:p2",
+      "text": "2\n1–3）掷恶魔恐怖表。\n4–6）掷野兽表。"
+    },
+    {
+      "id": "section-random-encounter:p3",
+      "text": "3\n1、2）掷实验室恐怖表。\n3–5）掷不死生物表。"
+    },
+    {
+      "id": "section-random-encounter:p4",
+      "text": "6）掷独特吸血鬼表。"
+    },
+    {
+      "id": "section-random-encounter:p5",
+      "text": "4\n1–4）掷附身者表。\n5、6）掷活人偶表。"
+    },
+    {
+      "id": "section-random-encounter:p6",
+      "text": "5\n1–5）掷鬼魂表。"
+    },
+    {
+      "id": "section-random-encounter:p7",
+      "text": "6）掷外星人表。"
+    },
+    {
+      "id": "section-random-encounter:p8",
+      "text": "6\n1–3）掷独特吸血鬼表。\n4–6）掷独特僵尸表。掷独特生物表时，若结果是已经杀死的怪物则重掷。若所有独特怪物都已杀死，则视为没有遭遇。"
+    }
+  ],
+  "notes": []
+}

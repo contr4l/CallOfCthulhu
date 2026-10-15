@@ -1,4 +1,10 @@
 import type { Instruction, ProgramState, SceneInput } from "./program.js";
+import type { PartyDefinition, PartyState } from "./party.js";
+import type { CalendarDefinition, CalendarState } from "./calendar.js";
+import type { FearDefinition, FearState, FearProjected } from "./fear.js";
+import type { InvestigatorDefinition, InvestigatorState } from "./investigators.js";
+import type { FrostCombatProjection } from "./frost-combat.js";
+import type { FearDiceWindow } from "./fear-dice-window.js";
 export type CharacterProfile = {
   age?: number;
   pronouns?: string;
@@ -12,6 +18,8 @@ export type CharacterProfile = {
   notes?: string;
 };
 export type Character = {
+  skillNames?: Record<string, string>;
+  rulesVersion?: string;
   specializations?: Record<string, string>;
   profile?: CharacterProfile;
   name: string;
@@ -19,6 +27,7 @@ export type Character = {
   hp: number;
   maxHp: number;
   sanity: number;
+  maxSanity?: number;
   luck: number;
   skills: Record<string, number>;
   attributes?: Record<string, number>;
@@ -56,6 +65,7 @@ export type SceneReading = Partial<
   Record<"en" | "zh-CN", { title: string; text: string[] }>
 >;
 export type StoryNode = {
+  healthRouting?: { sanity?: "source"; injury?: "source" };
   reading?: SceneReading;
   help?: string[];
   illustration?: SceneIllustration;
@@ -63,7 +73,7 @@ export type StoryNode = {
   title: string;
   chapter: string;
   text: string[];
-  type: "narrative" | "choice" | "check" | "ending" | "program";
+  type: "narrative" | "choice" | "check" | "ending" | "program" | "fear";
   program?: Instruction[];
   sourceId?: string;
   background: string;
@@ -132,9 +142,14 @@ export type CharacterTemplateCatalog = {
   templates: CharacterTemplate[];
 };
 export type SavedCharacter = { id: string; character: Character };
+export type InventoryItem = { key: string; label: string; quantity?: number };
 export type Story = {
+  investigators?: InvestigatorDefinition;
+  fear?: FearDefinition;
+  calendar?: CalendarDefinition;
+  party?: PartyDefinition;
   creationPolicy?: "guided" | "fixed";
-  healthPolicy?: "static" | "tide";
+  healthPolicy?: "static" | "tide" | "frost";
   spendLuck?: boolean;
   source?: { file: string; sha256: string; notes: string[] };
   id: string;
@@ -152,8 +167,17 @@ export type Story = {
   presets: CharacterPreset[];
   nodes: StoryNode[];
 };
-export type StorySummary = Omit<Story, "nodes" | "entry">;
+export type StorySummary = Omit<
+  Story,
+  "nodes" | "entry" | "fear" | "party" | "calendar" | "investigators"
+>;
 export type RunState = {
+  investigators?: InvestigatorState;
+  fear?: FearState;
+  fearDiceWindow?: FearDiceWindow;
+  creationDice?: RuleDiceResult;
+  calendar?: CalendarState;
+  party?: PartyState;
   savedCharacterId?: string;
   createdCharacterId?: string;
   program?: ProgramState;
@@ -161,10 +185,11 @@ export type RunState = {
   visitId: string;
   character: Character;
   flags: Record<string, boolean>;
-  inventory: { key: string; label: string }[];
+  inventory: InventoryItem[];
   status: "active" | "ended";
 };
 export type RuleDiceResult = {
+  aggregate?: boolean;
   label: string;
   groups: { sides: number; results: number[] }[];
   total: number;
@@ -180,12 +205,13 @@ export type CombatOutcome = {
   recipient: "player" | "enemy" | "none";
 };
 export type CheckResult = {
+  performer?: { id: string; name: string };
   assistance?: {
     targetBonus: number;
     previousRoll?: number;
     rulesVersion?: string;
   };
-  opponent?: { roll: number; target: number; grade: CheckResult["grade"] };
+  opponent?: { roll: number; target: number; grade: CheckResult["grade"]; candidates?: number[] };
   combat?: CombatOutcome;
   label: string;
   skill: string;
@@ -204,6 +230,11 @@ export type Registration = {
   label: string;
 };
 export type SceneView = {
+  frostCombat?: FrostCombatProjection;
+  playerNotes?: { key: string; label: string; text: string }[];
+  fear?: FearProjected;
+  calendar?: CalendarState;
+  party?: PartyState;
   help?: string[];
   nextHint?: string;
   illustration?: SceneIllustration;
@@ -213,8 +244,10 @@ export type SceneView = {
   notices?: string[];
   records?: string[];
   combat?: {
+    enemyLives?: number[];
     name: string;
-    hp: number;
+    hp?: number;
+    damageGoal?: { label: string; amount: number; dealt: number; remaining: number };
     round: number;
     turn?: string;
     armor?: number;
@@ -235,7 +268,7 @@ export type SceneView = {
   actions: ActionView[];
   check?: { label: string; target: number; difficulty: string };
   character: Character;
-  inventory: { key: string; label: string; illustration?: SceneIllustration }[];
+  inventory: (InventoryItem & { illustration?: SceneIllustration })[];
   ending?: string;
 };
 export type HistoryFrame = {

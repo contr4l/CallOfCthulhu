@@ -1,0 +1,17 @@
+{
+  "id": "section-monsters-roll-no-dice",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "b9b83e332d564d6ae00d227ab7f7236fe7398634898b242f88da919e4b0b291c",
+  "paragraphs": [
+    {
+      "id": "section-monsters-roll-no-dice:p0",
+      "text": "怪物不掷骰"
+    },
+    {
+      "id": "section-monsters-roll-no-dice:p1",
+      "text": "游戏中所有骰子都由你掷，代表你的角色所经历的情况。怪物的力量用一个数字表示，称为怪物的“等级”，缩写为L。你攻击时掷骰并与怪物的L比较，以决定是否击杀怪物。轮到怪物攻击时，由你进行防御检定；若失败则受到伤害。"
+    }
+  ],
+  "notes": []
+}

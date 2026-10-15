@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "108",
+    "frost-auto-108"
+  ],
+  "text": [
+    "你朝动物头顶上方开了几枪，小心不伤到它们。捕食者慢慢跑开后，你和诺曼一起取走那具啃了一半的尸体。只要有头部样本，就足以说服密大同事。现在得把它带回阿卡姆。",
+    "记录关键词 BACKWATER。前往361。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 108",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 108",
+      "text": [
+        "You fire a couple of rounds over the animals’ heads, careful not to wound any of them. The predators lope off, and together you and Norman claim the half-eaten corpse. The head should be enough to convince your Miskatonic colleagues. Now to get it back to Arkham.",
+        "Record the keyword BACKWATER. Go to 361."
+      ]
+    }
+  }
+}

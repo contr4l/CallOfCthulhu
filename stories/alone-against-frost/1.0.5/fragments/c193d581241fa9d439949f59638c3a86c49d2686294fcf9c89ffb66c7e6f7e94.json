@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "529"
+  ],
+  "text": [
+    "你必须决定把什么宣布为北汉尼纳山谷探险的主要成果。其他发现可以留待以后报告。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 529",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 529",
+      "text": [
+        "You must decide what to announce as the primary result of your explorations in the valley of the North Hanninah. The other discoveries can wait."
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-useful-stuff"
+  ],
+  "text": [
+    "11 d6 jars of cat food (all jars count as 1 carried item). They may be used\nas 1 Food each or to avoid one encounter with a cat-like monster.\n12 Flower bunch/present. Use once to gain a +1 on a Charisma roll.\n13 Small bell. Useful for some spells.  Negligible weight.\n14 Backpack. You may carry 15 objects instead of 10.",
+    "15\nBody armor. The body armor has 4 Life points. Every time you take\ndamage, roll d6. On a 1-3, you take damage normally. On a 4 or 5, you\ntake the damage off the body armor. On a 6, the damage bounces off\nthe body armor and is ignored. When the body armor loses its last Life,\nit is rendered useless. Wearing body armor counts as carrying 2 objects.\n16 Butterfly collection.\n21 Martial arts handbook. Reduce by 1 XP the cost for learning the\nFighter Skill, but not the Fighter Skill at expert level.",
+    "22\nAntique flail weapon. If you roll a 6, it inflicts Damage 2 instead of 1.\nIf you roll a 1 when attacking, however, you hit yourself for 1 damage.\nYou may spend 2 XP to train with the flail and remove the chance of\nhitting yourself.",
+    "23\nCheap holy symbol/beads. You may use it against creatures that are\nsusceptible to holy symbols, but if you roll a 1 it breaks and must be\ndiscarded.  Negligible weight.\n24 Toy. You may sacrifice it to gain a +1 on an Escape roll or Charisma\nroll with any encounter described as a “child” or “kid”.\n25 Box of essential oils. Useful for some rituals.",
+    "26\nBook of Inspirational Quotes. If you spend 1 XP and read this, you\ngain +1 to your next 3 rolls to avoid Sanity loss. After you have used\nthis bonus 3 times, even if the rolls fail, the bonus is lost and you do\nnot again any other benefits from reading this book.",
+    "31\nEgyptian scarab. You gain +1 to Defense rolls against mummies.\nAfter an encounter with a mummy, the scarab loses its powers and\nthe bonus is lost. Negligible weight.\n32 Dog toy. You may sacrifice it to gain a +1 on an Escape roll to flee\nfrom an encounter with any dog or hound creature.Useful stuff table (continued, d66)\n33 Stuffed bird. If you meet a bird-shaped demon, its first attack will be\ndirected at the Stuffed bird, that will be destroyed.",
+    "34\nHelmet.  This full biker’s helmet has 3 Life points and can protect your\nhead. Every time you take damage, roll d6. On a 1-5, you take damage\nnormally. On a 6, the helmet takes the damage instead. When the\nhelmet loses its last Life, it is rendered useless. If worn, the weight of\nthe helmet is negligible. If carried, it counts as 1 object. If the helmet\nand the body armor are worn in conjunction, on a 3, 5 or 5 you take\ndamage off the body armor and on a 6 you take damage off the helmet.",
+    "35\nd3 bottles of liquor. If you drink a whole bottle before an encounter,\nyou will fight at -1 on Attack and Defense rolls, but you may ignore the\nfirst point of Sanity lost in that encounter. While drunk, you may not\nperform Exorcism or any ritual, and you may not learn anything from\nbooks. The effect lasts for d6 boxes. You may shorten its duration by 1\nbox by drinking coffee.\n36 Strong coffee. Drink to reduce the effect of liquor, above. This is\nenough for drinking 6 times.\n41 2d6 candles. Useful for many spells.",
+    "42\nFlashlight. This is a source of light; it may be used as a ranged weapon to\nattack shadow creatures at +2, damage 1. After each encounter with\nshadow creatures, there is a 1 in 6 chance of the batteries running out.\n43 Box of matches. Useful to start a fire or to use a Molotov cocktail.\n44 Grooming/beauty products as appropriate to your gender. When\nyou use this, you get a +1 to your single next Charisma roll.",
+    "45\nBag of marbles. You may sacrifice them to gain a +1 to an Escape roll\nagainst any creature that walks. Does not work with slithering, flying\nor immaterial creatures (ghosts), or creatures like giant bugs,\ntentacled horrors, giant slugs, and so on.\n46 Bandages, plasters, disinfectant. Sacrifice them to heal 1 Life.\n51 Protein bars. This count as 1 Food point, negligible weight.",
+    "52\nd6 Energy drinks. These count as 1 Food point each. However they\nshould be used together with regular Food points. If you use them\ntwice in a row, you get a -1 on all Magic rolls.\n53 Kitchen knife. Damage 1, -1 on Attack rolls. It breaks if you roll a 1\non the Attack roll.Useful stuff table (continued, d66)\n54 Cell phone. There is no reception or electricity to recharge it. Negligible\nweight.\n55 d6 plastic jars. May be used to collect samples.",
+    "56\nDark clothes. Once per game, you can claim a +1 bonus to a Stealth\nroll if you wear these clothes. You may wear only one set of clothes at\na time. Worn clothes have negligible weight. Carried clothes count as\n1 carried object.",
+    "61\nStylish clothes.  Once per game, you can claim a +1 bonus to a\nCharisma roll if you wear these clothes. You may wear only one set of\nclothes at a time. Worn clothes have negligible weight. Carried clothes\ncount as 1 carried object.",
+    "62\nSport clothes. Once per game, you may claim a +1 bonus to an Escape\nroll if you wear these clothes. You may wear only one set of clothes at\na time. Worn clothes have negligible weight. Carried clothes count as\n1 carried object.\n63 Hockey stick/ golf club. This may be used as a two-handed weapon.\nDamage 1, or Damage 2 on an explosive die roll (6 on the Attack roll).",
+    "64\nMolotov cocktail. This can be thrown as a one use weapon. It allows\nyou to automatically destroy 1 zombie or perform an Attack roll at +2\nagainst any other opponent. You need a lighter or a box of matches to\nuse this. This is considered fire damage so it can destroy vampires\npermanently.",
+    "65\nSilver ring. May be turned into a single silver bullet if you have\nsmelting equipment, or just used in  a shotgun shell. Negligible\nweight.",
+    "66\nGas Mask. If you wear it, it does not count as a carried item and you\nare immune to the effect of any gas or respiratory agent. If you carry\nit, it counts as a carried object and it can be worn in 1 Action."
+  ],
+  "reading": {
+    "en": {
+      "title": "Useful stuff table (d66)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "实用物品表（D66）",
+      "text": [
+        "11 D6罐猫粮（所有罐子合计计为1件携带物品）。每罐可作为1点食物，也可用来避开一次猫类怪物遭遇。\n12 花束/礼物。使用一次，使魅力检定+1。\n13 小铃铛。某些法术会用到。重量可忽略。\n14 背包。携带物品上限从10件增加到15件。",
+        "15\n防弹衣。防弹衣有4点生命。每次你受到伤害时掷D6：1–3时照常受到伤害；4或5时将伤害从防弹衣生命中扣除；6时伤害被防弹衣弹开，完全忽略。防弹衣生命耗尽后失效。穿着防弹衣计为携带2件物品。\n16 蝴蝶收藏。\n21 武术手册。学习战士技能的经验花费减少1点，但不适用于战士技能的专家级。",
+        "22\n古董连枷。攻击掷出6时造成2点伤害而非1点。但攻击掷出1时会误伤自己，造成1点伤害。你可以花费2点经验训练连枷，从而消除误伤概率。",
+        "23\n廉价圣徽/念珠。可用于对付易受圣徽影响的生物；但掷出1时会损坏，必须丢弃。重量可忽略。\n24 玩具。可以献出玩具，使对手描述中含“孩子”或“小孩”的遭遇中，逃跑或魅力检定+1。\n25 一盒精油。某些仪式会用到。",
+        "26\n励志语录集。花费1点经验阅读后，接下来3次避免理智损失的检定+1。使用该加值3次后，无论检定成功与否，加值都会消失；阅读此书不再带来其他好处。",
+        "31\n埃及圣甲虫。对木乃伊的防御检定+1。与木乃伊遭遇后，圣甲虫失去力量，加值也消失。重量可忽略。\n32 狗玩具。可献出它，使你逃离任意狗或猎犬遭遇的逃跑检定+1。\n实用物品表（续，D66）\n33 填充鸟。若遇到鸟形恶魔，它的第一次攻击会转向填充鸟，填充鸟随即被毁。",
+        "34\n头盔。这是一顶完整的摩托车头盔，有3点生命，可以保护头部。每次受到伤害时掷D6：1–5时照常受伤；6时由头盔承受伤害。头盔生命耗尽后失效。佩戴时重量可忽略；携带时计为1件物品。若同时佩戴头盔和防弹衣，掷出3、5或5时从防弹衣扣除伤害，掷出6时从头盔扣除。",
+        "35\nD3瓶酒。遭遇前喝下一整瓶，会使该遭遇中攻击和防御检定-1，但可以忽略本次遭遇失去的第1点理智。醉酒期间不能驱魔、施放仪式或从书籍中学习。效果持续D6个区域格。喝咖啡可令持续时间缩短1格。\n36 浓咖啡。饮用以缩短上文酒醉效果；足够饮用6次。\n41 2D6支蜡烛。许多法术会用到。",
+        "42\n手电筒。可作为光源，也可作为远程武器，以+2攻击暗影生物，造成1点伤害。每次与暗影生物遭遇后，有1/6的概率电池耗尽。\n43 火柴盒。可用于生火或制作燃烧瓶。\n44 适合你性别的梳洗/美容用品。使用后，你下一次魅力检定+1。",
+        "45\n弹珠袋。可献出它，使你对抗任何会行走的生物时逃跑检定+1。对爬行、飞行或非实体生物（鬼魂）无效，也不适用于巨型昆虫、触手怪、巨型蛞蝓等生物。\n46 绷带、创可贴、消毒剂。献出它们以治疗1点生命。\n51 蛋白棒。计为1点食物，重量可忽略。",
+        "52\nD6罐能量饮料。每罐计为1点食物，但必须和普通食物一起使用。若连续两次使用能量饮料，所有魔法检定-1。\n53 厨房小刀。伤害1，攻击检定-1。攻击掷出1时小刀会损坏。\n实用物品表（续，D66）\n54 手机。没有信号，也没有电力给它充电。重量可忽略。\n55 D6个塑料罐。可用于收集样本。",
+        "56\n深色衣物。每局游戏一次，穿着时可让一次潜行检定+1。你一次只能穿一套衣服。穿着时重量可忽略；携带时计为1件物品。",
+        "61\n时髦衣物。每局游戏一次，穿着时可让一次魅力检定+1。你一次只能穿一套衣服。穿着时重量可忽略；携带时计为1件物品。",
+        "62\n运动服。每局游戏一次，穿着时可让一次逃跑检定+1。你一次只能穿一套衣服。穿着时重量可忽略；携带时计为1件物品。\n63 曲棍球杆/高尔夫球杆。可作为双手武器。普通造成1点伤害，攻击骰爆骰（攻击掷出6）时造成2点伤害。",
+        "64\n燃烧瓶。可投掷一次，自动摧毁1只僵尸；对其他对手进行攻击检定时+2。使用需要打火机或火柴盒。视为火焰伤害，可以永久摧毁吸血鬼。",
+        "65\n银戒指。有熔炼工具时可制成1发银弹，也可以直接装入霰弹枪弹药。重量可忽略。",
+        "66\n防毒面具。佩戴时不计为携带物品，并免疫任何气体或呼吸道毒剂的影响。若只是携带，可计为1件物品，并可花费1个行动戴上。"
+      ]
+    }
+  }
+}

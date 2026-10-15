@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "391"
+  ],
+  "text": [
+    "两只雪怪挡住了你的退路。你无暇回头张望，它们咆哮着挥爪袭来。",
+    "两只雪怪的攻击均为30%（15/6），造成2D6点伤害，初始各有18点生命值。若你有步枪，可在近距离开一枪（获得一个奖励骰），之后只能依靠手边的近战武器。战斗期间你随时可以投降。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 391",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 391",
+      "text": [
+        "Two sasquatches move to block your retreat. There is no time to look over your shoulder. They grunt and swipe at you.",
+        "Both of the sasquatch have an attack of 30% (15/6), deal 2D6 damage, and begin with 18 hit points. If you have a rifle, you may fire once at point-blank range (gaining a bonus die), but thereafter you must depend on whatever melee weapons you have. You may surrender at any time during the fight."
+      ]
+    }
+  }
+}

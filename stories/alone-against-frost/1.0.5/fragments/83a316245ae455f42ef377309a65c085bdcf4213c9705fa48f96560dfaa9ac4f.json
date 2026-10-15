@@ -1,0 +1,32 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "620",
+    "frost-auto-620"
+  ],
+  "text": [
+    "山谷中心的草地是许多据称已经灭绝的食草动物的栖息地。使用步枪可能引发兽群奔逃。如果你想取一个标本，就得讲究策略。",
+    "你让队伍分散到树丛间，占据俯瞰一片草甸的位置。",
+    "傍晚时，动物逐渐不再警惕陌生的人类气味。终于，你们的耐心得到回报。一只带黑白斑纹的叉角羚跑进附近空地，显然是北美其他地方没有的品种。鬣狗咬住它的腿。一对强壮的下颚咬住它的脚跟，它便倒了下去。其余鬣狗蜂拥而上，撕扯猎物。",
+    "你们谨慎地开了几枪，赶走鬣狗。枪声惊动远处的食草动物，但没有引发大规模奔逃。",
+    "你和同伴从树上下来，拿到标本。这足以让家乡的同事对你们感兴趣。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 620",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 620",
+      "text": [
+        "The meadowland in the heart of the valley is the home of many supposedly extinct grazing beasts. Using your rifle might provoke a stampede. If you are going to take a trophy, you will need to be cunning.",
+        "You deploy your group amongst the trees and take up a position overlooking a patch of meadow.",
+        "Toward evening, the animals have lost some of their wariness of the unusual human scent. Finally, your patience pays off. A prongbuck with black and white markings, obviously not present elsewhere in North America, races into the space near you. Hyenas nip at its legs. When a pair of strong jaws snaps shut on the creature’s heel, it goes down. The rest of the pack pounce, tearing and ripping.",
+        "A few careful shots drive off the hyenas. The noise sends other, more distant grazers running, but it does not develop into a full stampede.",
+        "You and the others climb down from the trees and claim the trophy. Here is all you need to interest your colleagues back home."
+      ]
+    }
+  }
+}

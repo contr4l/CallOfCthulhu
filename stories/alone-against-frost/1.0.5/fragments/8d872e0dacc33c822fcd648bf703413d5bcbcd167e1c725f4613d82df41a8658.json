@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "611",
+    "frost-auto-611"
+  ],
+  "text": [
+    "你听见肉垫脚步的轻响，转身举起步枪。一只长着剑齿的巨大狮子跃上你上方的岩柱，张开大口扑来。",
+    "向剑齿猫开一枪。如果伯纳德有武器，他也可以开一枪。如果你们任意一人通过困难难度的 DEX 检定，就可以再开第二枪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 611",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 611",
+      "text": [
+        "You hear the soft lope of padded feet and whirl your rifle around. A monstrous lion with saber-toothed fangs springs to the top of a rock chimney above you and leaps, jaws wide.",
+        "Take one shot at the saber-toothed cat. Bernard may also take a shot if he is armed. If either of you succeeds with a Hard DEX roll, you may squeeze off a second shot."
+      ]
+    }
+  }
+}

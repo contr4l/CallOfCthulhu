@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "2"
+  ],
+  "text": [
+    "This place of worship has been\nturned into its opposite. Roll d6 to\ndetermine what is going on:\n1-3) Human sacrifice! There are 2d6\nL2 cultists. You may choose to\nEscape but if you do, you lose 2\nSanity and there is a 2 in 6 chance\nof a cultist chasing you to fight.\nEvery time you come back to the\nchurch, roll a 2 in 6 chance that they\nare still there.\n4-5) There is no one in the church\nright now. If you know an exorcism,\nyou may re-consecrate the church\nwith a L5 Magic roll. Add +1 if you\nhave the Occultism and +2 if you\nhave Occultism at Expert level. If\nthe Save fails, a random monster\nfrom the Demonic Horrors Table\nwill attack you. If you re-consecrate\nthe church, increase permanently\nyour Sanity by 1 (this is a\npermanent increase), gain 1 XP and\nfind 2 vials of holy water.",
+    "6) Save vs. L4 curse (add +1 if you\nhave the Will Skill, +2 if you have it\nat Expert level). If you fail, you are\nCursed. You will be at -1 on all saves\nuntil you perform any action that\nincreases your Sanity (like 4-5\nabove). When that happens, the\ncurse will be broken. You may also\nfind rituals or magic item letting\nyou remove a curse."
+  ],
+  "reading": {
+    "en": {
+      "title": "2 - Desecrated church",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "2 - 亵渎的教堂",
+      "text": [
+        "这座礼拜场所已被彻底扭曲，变成了与其本意相反的地方。掷1D6决定这里发生了什么：\n1–3）活人献祭！有2D6名L2邪教徒。你可以选择逃跑，但会损失2点理智，并有2/6的概率被一名邪教徒追上并与之战斗。每次你回到教堂，都掷骰检查他们是否仍在此处，概率为2/6。\n4–5）此刻教堂里没有人。若你会驱魔术，可以进行一次L5魔法检定重新祝圣教堂；拥有神秘学技能时加值+1，神秘学达到专家级时加值+2。若检定失败，一只从恶魔恐怖生物表随机确定的怪物会攻击你。若成功重新祝圣，你的理智上限永久提高1点，获得1点经验，并找到2瓶圣水。",
+        "6）进行一次L4诅咒防御检定（拥有意志技能时+1，专家级时+2）。失败则受到诅咒：在你采取任何能提高理智的行动（例如上文4–5的做法）之前，所有防御检定均-1。理智提高时诅咒解除。你也可以寻找能解除诅咒的仪式或魔法物品。"
+      ]
+    }
+  }
+}

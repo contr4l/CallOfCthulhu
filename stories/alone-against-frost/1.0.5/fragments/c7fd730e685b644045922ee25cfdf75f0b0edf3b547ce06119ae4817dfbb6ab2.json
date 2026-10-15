@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "203"
+  ],
+  "text": [
+    "那光并非火焰。在一片小空地里，发光的气体贴着地面翻涌，没有容器却能维持形状。你难以理解眼前景象。火堆旁有些东西正在跳舞——矮小的灰皮肤人类，以及身高五英尺、比你听说过的任何甲壳类动物都大的生物。那些甲壳类生物的头部是一团短触手，背上折叠着巨大的膜质翅膀。粉红色外壳上长着菌状物。",
+    "你示意学生们留在后面，自己则看得入了迷，注视着仪式。一名矮小舞者跪在一只菌状甲壳生物面前，把某样东西递给它那不断摸索的触手。你把手塞进嘴里，强忍着不出声——那生物接过的，正是伯纳德·埃布斯坦被砍下的头颅。你的思绪飞转之际，那生物似乎还对头颅进行了某种微妙的操弄。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 203",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 203",
+      "text": [
+        "The light is no fire. In a small clearing, glowing gas swirls low to the ground, holding its shape without a container. Your eyes struggle to comprehend the scene. Things dance around the fire— diminutive, gray-skinned humans and five-foot crustaceans, larger than any species you have ever heard of. The crustaceans have a mass of short tentacles for a head and large, membranous wings folded upon their backs. Fungoid growths mar their pink shells.",
+        "You wave to the students to stay back. Transfixed, you watch the ceremony. One of the little dancers kneels before a fungus-crustacean and offers something to the creature’s groping tentacles. You jam your hand into your mouth to stay silent as the creature receives what you now recognize as the severed head of Bernard Ebstein. While your thoughts race, the creature performs some sort of subtle manipulation."
+      ]
+    }
+  }
+}

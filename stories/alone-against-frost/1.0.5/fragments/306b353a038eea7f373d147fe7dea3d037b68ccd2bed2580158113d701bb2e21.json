@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "297"
+  ],
+  "text": [
+    "猎兽小径空无一物。先前遍地都是的浆果如今已枯萎，落在枝头下方。饥荒已成迫在眉睫的威胁。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 297",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 297",
+      "text": [
+        "The game trails are empty. The berries, so abundant earlier, have withered and dropped off the branches. The threat of starvation is real."
+      ]
+    }
+  }
+}

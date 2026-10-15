@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "3"
+  ],
+  "text": [
+    "河水从四面八方冲击着你们的船。无论转向哪里，情况都只会更糟。独木舟像受惊的野牛般颠簸，在一片片暗礁急流上猛然跃起。你望着那些尖峰和利齿，仿佛它们随时会撕开船底。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 3",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 3",
+      "text": [
+        "The river batters your craft from every side. No matter which way you turn, it gets worse. The canoe bucks like a saddled buffalo, bounding over sets of snaggling rapids. You eye peaks and teeth that could tear out the belly of your craft."
+      ]
+    }
+  }
+}

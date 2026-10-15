@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "530",
+    "frost-auto-530"
+  ],
+  "text": [
+    "加拿大当局分析你关于队伍遭遇不幸的报告后，认定你没有失职或疏忽。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 530",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 530",
+      "text": [
+        "When your report of your party’s misfortunes is analyzed by the Canadian authorities, they absolve you of any wrongdoing or neglect."
+      ]
+    }
+  }
+}

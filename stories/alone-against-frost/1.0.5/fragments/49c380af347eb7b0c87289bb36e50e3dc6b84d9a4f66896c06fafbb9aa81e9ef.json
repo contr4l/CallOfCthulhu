@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "72"
+  ],
+  "text": [
+    "你看见一团巨大的身影高悬在树林上方。它在天空中奔跑，脚踏虚空。月光照亮了它细长扭曲的腿骨，以及长长的手指——那些手指如同幼枝般蜷曲抓握。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 72",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 72",
+      "text": [
+        "Your eyes behold an immense shape high above the trees. Through the sky it runs, treading the empty air. Moonlight picks out elongated, twisted leg bones and long, grasping fingers like young branches."
+      ]
+    }
+  }
+}

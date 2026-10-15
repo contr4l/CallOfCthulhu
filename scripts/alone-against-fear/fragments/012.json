@@ -1,0 +1,24 @@
+{
+  "id": "12",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "12:p0",
+      "kind": "heading",
+      "text": "#12 - the sewer people\n",
+      "sourceLocation": "pdf:spans:[[82,1393,1416]]"
+    },
+    {
+      "id": "12:p1",
+      "kind": "body",
+      "text": "You follow the shadows to spy on\nthem. Make a L5 Stealth roll. If you\nsucceed, you are not seen and you\nmay steal d6 Food point from the\nsewer people. If you fail, you are\ncaught in the act and the sewer\ndwelling sub-humans will try to kill\nyou.\n",
+      "sourceLocation": "pdf:spans:[[82,1416,1449],[82,1449,1486],[82,1486,1520],[82,1520,1553],[82,1553,1588],[82,1588,1620],[82,1620,1657],[82,1657,1662]]"
+    },
+    {
+      "id": "12:p2",
+      "kind": "body",
+      "text": "d6+3 sewer people, L2, 1 Life,\ndamage 1. Loot: 6 Food points.\nYou may bribe your way out of this\nfight by succeeding an L5\nCharisma roll (roll at +1 if you have\nCharisma, and +2 if you have it at\nExpert level) and giving them all of\nyour Food, as long as you have at\nleast 1 Food point. If you give 6 or\nmore Food points, gain a +1\nmodifier to the Charisma roll.\n",
+      "sourceLocation": "pdf:spans:[[83,22,53],[83,53,84],[83,84,119],[83,119,145],[83,145,183],[83,183,218],[83,218,255],[83,255,289],[83,289,326],[83,326,354],[83,354,385]]"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "638",
+    "frost-auto-638"
+  ],
+  "text": [
+    "那生物装置发出的光束正中伯纳德后背。他闷哼一声，脸朝下倒地。飞行者转而攻击西尔维娅。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 638",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 638",
+      "text": [
+        "A blast from the creature’s device strikes Bernard squarely in the back. He gives a stifled cry and falls on his face. The flyer wheels and turns its attention to Sylvia."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "frost-407-smoke-ending"
+  ],
+  "text": [
+    "吸入烟雾造成的伤害夺去了你的生命。纳德尔曼远征就此结束。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "探险结束",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Adventure End",
+      "text": [
+        "You die from smoke inhalation. The Nadelmann Expedition is over."
+      ]
+    }
+  }
+}

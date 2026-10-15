@@ -1,47 +1,18 @@
 {
   "id": "section-random-weapon-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-random-weapon-table:p0000",
-      "kind": "body",
+      "id": "section-random-weapon-table:p0",
+      "kind": "heading",
       "text": "Random weapon table (d6)\n",
       "sourceLocation": "pdf:spans:[[20,22,47]]"
     },
     {
-      "id": "section-random-weapon-table:p0001",
+      "id": "section-random-weapon-table:p1",
       "kind": "body",
-      "text": "1 Baseball bat or hammer.\n",
-      "sourceLocation": "pdf:spans:[[20,47,73]]"
-    },
-    {
-      "id": "section-random-weapon-table:p0002",
-      "kind": "body",
-      "text": "2 Chainsaw or authentic samurai sword (choose)\n",
-      "sourceLocation": "pdf:spans:[[20,73,120]]"
-    },
-    {
-      "id": "section-random-weapon-table:p0003",
-      "kind": "body",
-      "text": "3 1 Grenade or bow with 2d6+3 arrows (choose).\n",
-      "sourceLocation": "pdf:spans:[[20,120,167]]"
-    },
-    {
-      "id": "section-random-weapon-table:p0004",
-      "kind": "body",
-      "text": "4 Shotgun with 2d6 shells.\n",
-      "sourceLocation": "pdf:spans:[[20,167,194]]"
-    },
-    {
-      "id": "section-random-weapon-table:p0005",
-      "kind": "body",
-      "text": "5 Pistol with 2d6 bullets.\n",
-      "sourceLocation": "pdf:spans:[[20,194,221]]"
-    },
-    {
-      "id": "section-random-weapon-table:p0006",
-      "kind": "body",
-      "text": "6 Rifle with 2d6 bullets.\n",
-      "sourceLocation": "pdf:spans:[[20,221,247]]"
+      "text": "1 Baseball bat or hammer.\n2 Chainsaw or authentic samurai sword (choose)\n3 1 Grenade or bow with 2d6+3 arrows (choose).\n4 Shotgun with 2d6 shells.\n5 Pistol with 2d6 bullets.\n6 Rifle with 2d6 bullets.\n",
+      "sourceLocation": "pdf:spans:[[20,47,73],[20,73,120],[20,120,167],[20,167,194],[20,194,221],[20,221,247]]"
     }
   ],
   "sourcePages": [

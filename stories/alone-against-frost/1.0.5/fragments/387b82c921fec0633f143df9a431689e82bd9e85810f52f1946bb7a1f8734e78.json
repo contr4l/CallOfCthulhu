@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "22"
+  ],
+  "text": [
+    "你们彻底搜查河道，却没能找到丢失的补给。没有工坊，独木舟就无法修复——而在荒野里，你们几乎不可能找到工坊。",
+    "天气开始变坏；雷雨云倾泻闪电和刺骨的冷雨。查理勘察归来时，雨水顺着她的辫子往下淌。“那边有个洞穴，教授。大约一百步远。”",
+    "到达洞穴时，你们全身早已湿透，但洞壁多少能让你们躲避暴风雨的鞭打。独木舟没了，探险便陷入危机。这次行动的经费筹措了很久，而你们已经走了这么远。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 22",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 22",
+      "text": [
+        "A thorough search of the river fails to turn up your missing supplies. The canoe is beyond repair without a workshop— something you are unlikely to find in the wilderness.",
+        "The weather turns against you; the thunderheads unleash lightning and stinging torrents of cold rain. Charlie returns from a survey, rain streaming from her braids. “A cave, Professor. A hundred paces in that direction.”",
+        "Your party is already soaked through by the time you reach the cave, but its walls provide some respite from the lash of the storm. With the canoe gone, the expedition is in jeopardy. It took a long time to raise the resources for this one, and you have already come so far."
+      ]
+    }
+  }
+}

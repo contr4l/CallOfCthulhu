@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "365",
+    "frost-auto-365"
+  ],
+  "text": [
+    "你穿越这个失落世界的山川，几乎不去想如果能将它报告给文明世界，自己会获得怎样空洞的名声。悲伤始终伴随着你，你为自己未能尽到领队责任而懊悔。最终，你找到了离开失落山谷的路，远远地把它抛在身后。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 365",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 365",
+      "text": [
+        "You cross the landscape of the lost world, little thinking of the hollow fame that will be yours if you can report it to civilization. Grief is your constant companion and the regret of your failure as a leader. You finally find the way out of the lost valley and leave it behind."
+      ]
+    }
+  }
+}

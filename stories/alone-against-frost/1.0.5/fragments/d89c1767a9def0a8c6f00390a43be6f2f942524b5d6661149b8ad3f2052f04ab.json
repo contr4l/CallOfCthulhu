@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "634"
+  ],
+  "text": [
+    "那生物俯冲了一小段，用武器全力轰击伯纳德，随后滑翔离去。",
+    "你冲到伯纳德身旁。他躺在地上，双眼圆睁，眼睑和脸上结满冰霜。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 634",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 634",
+      "text": [
+        "The creature makes a shallow dive and blasts Bernard with the full force of its weapon before gliding away.",
+        "You rush to Bernard, where he lies on the ground. His eyes are wide and caked with ice."
+      ]
+    }
+  }
+}

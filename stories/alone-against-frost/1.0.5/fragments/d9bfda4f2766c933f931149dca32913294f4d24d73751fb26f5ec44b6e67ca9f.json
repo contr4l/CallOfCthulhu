@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "292",
+    "frost-auto-292"
+  ],
+  "text": [
+    "你和诺曼寻找西尔维娅可能经过的踪迹。但你们专注于追踪时，也可能被人发现。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 292",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 292",
+      "text": [
+        "You and Norman search for signs that Sylvia has gone this way. But while your attention is on the tracks, you may be noticed."
+      ]
+    }
+  }
+}

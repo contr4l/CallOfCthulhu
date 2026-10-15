@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "600"
+  ],
+  "text": [
+    "你们继续穿越北汉尼纳无边无际的旷野。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 600",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 600",
+      "text": [
+        "You press on through the interminable landscape of the North Hanninah."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "184"
+  ],
+  "text": [
+    "你猛地转过步枪，朝那东西的心脏扣下扳机。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 184",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 184",
+      "text": [
+        "You swing your rifle barrel around and squeeze off a shot at the thing’s heart."
+      ]
+    }
+  }
+}

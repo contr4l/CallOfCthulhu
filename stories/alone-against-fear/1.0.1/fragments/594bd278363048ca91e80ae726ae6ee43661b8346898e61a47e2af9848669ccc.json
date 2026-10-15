@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "24"
+  ],
+  "text": [
+    "You show your ticket and a ghost\nlets you climb into a funfair ride\nleading into a cave. Everything is\nmade of plastic. Fake spider webs\nand skeletons hang from the walls.\nThe ride brings back nice\nchildhood memories and you\nrecover 1 Sanity.\nOn the seat next to you, you find a\nnote, probably left by another\ncustomer. “Walrus the Clown\nhaunts the old railway station. He\nused to be a good soul but he is\ncontrolled by the demonic rubber\nmask he is wearing.”\nYou leave the ride and go back to\nyour exploration."
+  ],
+  "reading": {
+    "en": {
+      "title": "24 - Amusement park ride",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "24 - 游乐园设施",
+      "text": [
+        "你出示门票，一名鬼魂让你登上通往洞穴的游乐设施。里面的一切都是塑料制成的，假蜘蛛网和骷髅挂满墙壁。这趟游乐之旅唤起了快乐的童年回忆，你恢复1点理智。\n你在旁边的座位上发现一张纸条，可能是另一位游客留下的：“小丑海象在旧火车站闹鬼。他本来是个善良的灵魂，却被自己戴着的恶魔橡胶面具控制了。”\n你离开游乐设施，回到小镇继续探索。"
+      ]
+    }
+  }
+}

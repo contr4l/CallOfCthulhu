@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "367"
+  ],
+  "text": [
+    "鸟怪猛然一跃，落在你和诺曼之间。你躲开它凶狠的喙，和诺曼朝相反方向逃跑。你们唯一的机会，是它决定追赶诺曼。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 367",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 367",
+      "text": [
+        "With a spring, the bird-monster leaps between you and Norman. You duck its cruel beak and the two of you flee in opposite directions. Your only chance is if the creature decides to chase Norman."
+      ]
+    }
+  }
+}

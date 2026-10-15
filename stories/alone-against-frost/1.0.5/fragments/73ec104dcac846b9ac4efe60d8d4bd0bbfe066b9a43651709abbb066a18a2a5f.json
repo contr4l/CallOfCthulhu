@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "506"
+  ],
+  "text": [
+    "你吵闹地穿过灌木丛时，一个巨大的阴影从头顶掠过。你抬头望去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 506",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 506",
+      "text": [
+        "As you go noisily through the thickets, a vast shadow passes overhead. You look up."
+      ]
+    }
+  }
+}

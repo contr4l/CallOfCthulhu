@@ -1,197 +1,42 @@
 {
   "id": "section-sewers-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-sewers-table:p0000",
-      "kind": "body",
+      "id": "section-sewers-table:p0",
+      "kind": "heading",
       "text": "sewers table (d6)\n",
       "sourceLocation": "pdf:spans:[[52,22,40]]"
     },
     {
-      "id": "section-sewers-table:p0001",
+      "id": "section-sewers-table:p1",
       "kind": "body",
-      "text": "1 You find an entrance to the sewers. You may ignore this\n",
-      "sourceLocation": "pdf:spans:[[52,40,98]]"
+      "text": "1 You find an entrance to the sewers. You may ignore this\nor enter (play event #11 if you do).\n",
+      "sourceLocation": "pdf:spans:[[52,40,98],[52,98,135]]"
     },
     {
-      "id": "section-sewers-table:p0002",
+      "id": "section-sewers-table:p2",
       "kind": "body",
-      "text": "or enter (play event #11 if you do).\n",
-      "sourceLocation": "pdf:spans:[[52,98,135]]"
+      "text": "2\nAs you walk close to the sewers, you are attacked by a\ngiant rat thing. It fears fire: if you have a lit torch,a lighter,\nor use a Molotov cocktail, ignore this encounter.\nGiant Rat Thing: L3 Animal, 4 Life, damage 1. If you have a\ndose of rat poison and 1 Food point, you may\nautomatically inflict 2 damage to the creature. If you roll a\n1 on a Defense roll, you must save vs L5 Infection (add +1\nif you have the Resilient Skill, +2 if you have it at Expert\nlevel) or be infected. If you are infected, you lose 1 Life\nevery time you cross a box until you reach a Safe House or\nyou use a dose from a first aid kit to clean the infected\nwound.\n3 You find something. Roll on the Random Objects or on\nthe Useful Stuff table (your choice).\n",
+      "sourceLocation": "pdf:spans:[[52,135,137],[52,137,192],[52,192,259],[52,259,309],[52,309,369],[52,369,414],[52,414,476],[52,476,535],[52,535,596],[52,596,656],[52,656,715],[52,715,773],[52,773,780],[52,780,835],[52,835,873]]"
     },
     {
-      "id": "section-sewers-table:p0003",
+      "id": "section-sewers-table:p3",
       "kind": "body",
-      "text": "2\n",
-      "sourceLocation": "pdf:spans:[[52,135,137]]"
+      "text": "4\nYou see shadows of people moving through the sewers.\nGain 1 Clue. If you want to follow them and investigate,\nplay event #12.\n",
+      "sourceLocation": "pdf:spans:[[52,873,875],[52,875,928],[52,928,985],[52,985,1001]]"
     },
     {
-      "id": "section-sewers-table:p0004",
+      "id": "section-sewers-table:p4",
       "kind": "body",
-      "text": "As you walk close to the sewers, you are attacked by a\n",
-      "sourceLocation": "pdf:spans:[[52,137,192]]"
+      "text": "5\nYou find a section of the sewers that can become a Safe\nHouse if you first clean it up from the 2d6 zombies (L3,\nSlow, Undead, 1 Life each, damage 1) occupying it.\n",
+      "sourceLocation": "pdf:spans:[[52,1001,1003],[52,1003,1059],[52,1059,1116],[52,1116,1167]]"
     },
     {
-      "id": "section-sewers-table:p0005",
+      "id": "section-sewers-table:p5",
       "kind": "body",
-      "text": "giant rat thing. It fears fire: if you have a lit torch,a lighter,\n",
-      "sourceLocation": "pdf:spans:[[52,192,259]]"
-    },
-    {
-      "id": "section-sewers-table:p0006",
-      "kind": "body",
-      "text": "or use a Molotov cocktail, ignore this encounter.\n",
-      "sourceLocation": "pdf:spans:[[52,259,309]]"
-    },
-    {
-      "id": "section-sewers-table:p0007",
-      "kind": "body",
-      "text": "Giant Rat Thing: L3 Animal, 4 Life, damage 1. If you have a\n",
-      "sourceLocation": "pdf:spans:[[52,309,369]]"
-    },
-    {
-      "id": "section-sewers-table:p0008",
-      "kind": "body",
-      "text": "dose of rat poison and 1 Food point, you may\n",
-      "sourceLocation": "pdf:spans:[[52,369,414]]"
-    },
-    {
-      "id": "section-sewers-table:p0009",
-      "kind": "body",
-      "text": "automatically inflict 2 damage to the creature. If you roll a\n",
-      "sourceLocation": "pdf:spans:[[52,414,476]]"
-    },
-    {
-      "id": "section-sewers-table:p0010",
-      "kind": "body",
-      "text": "1 on a Defense roll, you must save vs L5 Infection (add +1\n",
-      "sourceLocation": "pdf:spans:[[52,476,535]]"
-    },
-    {
-      "id": "section-sewers-table:p0011",
-      "kind": "body",
-      "text": "if you have the Resilient Skill, +2 if you have it at Expert\n",
-      "sourceLocation": "pdf:spans:[[52,535,596]]"
-    },
-    {
-      "id": "section-sewers-table:p0012",
-      "kind": "body",
-      "text": "level) or be infected. If you are infected, you lose 1 Life\n",
-      "sourceLocation": "pdf:spans:[[52,596,656]]"
-    },
-    {
-      "id": "section-sewers-table:p0013",
-      "kind": "body",
-      "text": "every time you cross a box until you reach a Safe House or\n",
-      "sourceLocation": "pdf:spans:[[52,656,715]]"
-    },
-    {
-      "id": "section-sewers-table:p0014",
-      "kind": "body",
-      "text": "you use a dose from a first aid kit to clean the infected\n",
-      "sourceLocation": "pdf:spans:[[52,715,773]]"
-    },
-    {
-      "id": "section-sewers-table:p0015",
-      "kind": "body",
-      "text": "wound.\n",
-      "sourceLocation": "pdf:spans:[[52,773,780]]"
-    },
-    {
-      "id": "section-sewers-table:p0016",
-      "kind": "body",
-      "text": "3 You find something. Roll on the Random Objects or on\n",
-      "sourceLocation": "pdf:spans:[[52,780,835]]"
-    },
-    {
-      "id": "section-sewers-table:p0017",
-      "kind": "body",
-      "text": "the Useful Stuff table (your choice).\n",
-      "sourceLocation": "pdf:spans:[[52,835,873]]"
-    },
-    {
-      "id": "section-sewers-table:p0018",
-      "kind": "body",
-      "text": "4\n",
-      "sourceLocation": "pdf:spans:[[52,873,875]]"
-    },
-    {
-      "id": "section-sewers-table:p0019",
-      "kind": "body",
-      "text": "You see shadows of people moving through the sewers.\n",
-      "sourceLocation": "pdf:spans:[[52,875,928]]"
-    },
-    {
-      "id": "section-sewers-table:p0020",
-      "kind": "body",
-      "text": "Gain 1 Clue. If you want to follow them and investigate,\n",
-      "sourceLocation": "pdf:spans:[[52,928,985]]"
-    },
-    {
-      "id": "section-sewers-table:p0021",
-      "kind": "body",
-      "text": "play event #12.\n",
-      "sourceLocation": "pdf:spans:[[52,985,1001]]"
-    },
-    {
-      "id": "section-sewers-table:p0022",
-      "kind": "body",
-      "text": "5\n",
-      "sourceLocation": "pdf:spans:[[52,1001,1003]]"
-    },
-    {
-      "id": "section-sewers-table:p0023",
-      "kind": "body",
-      "text": "You find a section of the sewers that can become a Safe\n",
-      "sourceLocation": "pdf:spans:[[52,1003,1059]]"
-    },
-    {
-      "id": "section-sewers-table:p0024",
-      "kind": "body",
-      "text": "House if you first clean it up from the 2d6 zombies (L3,\n",
-      "sourceLocation": "pdf:spans:[[52,1059,1116]]"
-    },
-    {
-      "id": "section-sewers-table:p0025",
-      "kind": "body",
-      "text": "Slow, Undead, 1 Life each, damage 1) occupying it.\n",
-      "sourceLocation": "pdf:spans:[[52,1116,1167]]"
-    },
-    {
-      "id": "section-sewers-table:p0026",
-      "kind": "body",
-      "text": "6\n",
-      "sourceLocation": "pdf:spans:[[52,1167,1169]]"
-    },
-    {
-      "id": "section-sewers-table:p0027",
-      "kind": "body",
-      "text": "You have found a hell gate! You may attempt a ritual to\n",
-      "sourceLocation": "pdf:spans:[[52,1169,1225]]"
-    },
-    {
-      "id": "section-sewers-table:p0028",
-      "kind": "body",
-      "text": "close it if you have the necessary spell components and\n",
-      "sourceLocation": "pdf:spans:[[52,1225,1281]]"
-    },
-    {
-      "id": "section-sewers-table:p0029",
-      "kind": "body",
-      "text": "book describing the ritual. In any case, there is a 3 in 6\n",
-      "sourceLocation": "pdf:spans:[[52,1281,1340]]"
-    },
-    {
-      "id": "section-sewers-table:p0030",
-      "kind": "body",
-      "text": "chance that the gate is guarded by a random monster\n",
-      "sourceLocation": "pdf:spans:[[52,1340,1392]]"
-    },
-    {
-      "id": "section-sewers-table:p0031",
-      "kind": "body",
-      "text": "from the demonic horror table.",
-      "sourceLocation": "pdf:spans:[[52,1392,1422]]"
+      "text": "6\nYou have found a hell gate! You may attempt a ritual to\nclose it if you have the necessary spell components and\nbook describing the ritual. In any case, there is a 3 in 6\nchance that the gate is guarded by a random monster\nfrom the demonic horror table.",
+      "sourceLocation": "pdf:spans:[[52,1167,1169],[52,1169,1225],[52,1225,1281],[52,1281,1340],[52,1340,1392],[52,1392,1422]]"
     }
   ],
   "sourcePages": [

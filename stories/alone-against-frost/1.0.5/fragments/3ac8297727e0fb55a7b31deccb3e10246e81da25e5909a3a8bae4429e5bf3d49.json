@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "498"
+  ],
+  "text": [
+    "“不行，教授！”查理焦急地走近你。“我的族人讲过小矮人的故事。我父亲见过他们的足迹。见到他们就会死，比死更可怕。”",
+    "探险队终于有所发现，你却撞上了迷信。这种事似乎总会发生。“把独木舟上剩下的背包拿来，”你并不严厉地对她说。",
+    "查理一边愤怒地嘟囔，一边走向船只。你望向垂死者指示的方向，计划接下来的行动。",
+    "你过了一秒才意识到那是船桨拍水声。你张口结舌地看着愤愤不平又迷信的向导划着独木舟顺流而去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 498",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 498",
+      "text": [
+        "“No, Professor!” Charlie approaches you, frantic. “My people tell stories about the Little Ones. My father has seen their tracks. It is death to see them. Worse than death.”",
+        "Just when the expedition finally makes a discovery, you encounter superstition. It always seems to be the way. “Get the rest of the packs from the canoe,” you tell her, not unkindly.",
+        "Charlie goes to the vessel, muttering in anger. You look where the dying man indicated and plan your approach.",
+        "It takes a second to recognize the slap of the paddle against water. Your mouth drops open as you see your disgruntled, superstitious guide heading away down the river in your canoe."
+      ]
+    }
+  }
+}

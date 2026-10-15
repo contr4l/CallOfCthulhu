@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "14"
+  ],
+  "text": [
+    "你温和而执着地追问，终于让查理放下戒心。“普克-乌吉，”她喃喃道，“夜之小灵。它们会施展邪恶魔法，隐去身形，穿墙而过。以前，我父亲见过一个普克-乌吉——就在我们村里一个孩子失踪的那晚。小屋周围留下了这样的脚印。”",
+    "查理渐渐止住话头，眼神陷入往事。看来现在该采取行动了。你吩咐大家拿上武器、彼此不要走散，并开始寻找伯纳德。查理也回过神来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 14",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 14",
+      "text": [
+        "Your gentle persistence breaks down Charlie’s reserve. “Puk- woogies,” she murmurs. “The Little Ones of the Night. They do bad magic, turn invisible, walk through stone. Once, my father saw a puk-woogie—the night a child vanished from our village. Around the cabin were tracks like these.”",
+        "Charlie tails off, staring into the past. It seems best to call for action. You instruct the party to fetch weapons, stay together, and begin a search for Bernard. Charlie snaps back to the present."
+      ]
+    }
+  }
+}

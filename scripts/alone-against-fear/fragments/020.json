@@ -1,0 +1,18 @@
+{
+  "id": "20",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "20:p0",
+      "kind": "heading",
+      "text": "#20 - exploring the Rosen House\n",
+      "sourceLocation": "pdf:spans:[[84,1539,1571]]"
+    },
+    {
+      "id": "20:p1",
+      "kind": "body",
+      "text": "The house is filled with religious\nparaphernalia. Pages from holy\nbooks are posted over the doors.\nQuite unusual for a family of\nalleged devil-worshippers! You\nstep into a bedroom and see a\nmiddle-aged couple, Seth and\nTabitha Rosen, looking at you from\na large dark mirror. Roll a Save vs.\nL3 Fear or lose 1 Sanity.If you didn’t go insane, you stagger\ntowards the mirror.\n”Free us. A great evil is coming. We\ncan help you against the  the witch\nchildren. But we can do so only if\nyou break the mirror.”\nIf you want to take the mirror with\nyou, just add it to your belongings.\nIt is large and will count as 2\ncarried objects.\nIf you want to break the mirror, go\nto #22.\nIf you are cursed and you think you\ncan break the curse by bringing\nthe mirror to a certain location you\nhave visited, go to #23.\n",
+      "sourceLocation": "pdf:spans:[[84,1571,1606],[84,1606,1637],[84,1637,1670],[84,1670,1700],[84,1700,1731],[84,1731,1761],[84,1761,1790],[84,1790,1825],[84,1825,1862],[84,1862,1887],[85,22,59],[85,59,79],[85,79,116],[85,116,152],[85,152,187],[85,187,210],[85,210,246],[85,246,283],[85,283,315],[85,315,332],[85,332,368],[85,368,376],[85,376,412],[85,412,444],[85,444,481],[85,481,506]]"
+    }
+  ]
+}

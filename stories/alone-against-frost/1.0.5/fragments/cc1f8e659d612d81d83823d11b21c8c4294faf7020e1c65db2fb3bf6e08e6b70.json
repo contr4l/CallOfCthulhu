@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "479",
+    "frost-auto-479"
+  ],
+  "text": [
+    "你们中持步枪的人开始向外星生物射击。其中一只抓起扭曲的银色装置指向你，一道光束击中你躲藏的岩石！",
+    "冰晶在你眼前形成，覆盖岩石表面。碎片在一声巨响中崩裂。",
+    "你击中那只外星生物的腹部，它倒了下去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 479",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 479",
+      "text": [
+        "Each of you with a rifle starts firing at the alien creatures. One of them grabs a twisted silvery device and points it at you. A beam strikes the rock you crouch behind!",
+        "Ice crystals form before your eyes, coating the surface of the rock. Fragments shatter off with a loud crack.",
+        "You hit that alien in its midriff, and it falls."
+      ]
+    }
+  }
+}

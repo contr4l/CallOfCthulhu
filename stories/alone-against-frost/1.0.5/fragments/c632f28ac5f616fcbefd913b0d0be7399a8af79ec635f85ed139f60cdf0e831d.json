@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "246",
+    "frost-auto-246"
+  ],
+  "text": [
+    "诺曼和西尔维娅望着眼前的惨状，仍能保持理智。你心底某个遥远的角落为他们感到骄傲。",
+    "你声音空洞地解释说，不能停下来埋葬伯纳德，因为那些杀人的小人很快就会回来。你看见他们思量着你的话，最终接受了这个事实。你们早已远离密斯卡托尼克大学的讲堂。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 246",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 246",
+      "text": [
+        "Both Norman and Sylvia are able to hold onto their wits while gazing down on the scene of mayhem. Some distant part of you is proud of them.",
+        "With a hollow voice, you explain that you cannot stop to bury Bernard because the murderous little people will soon return. You see them weigh your words and accept the truth there. You are a long way from Miskatonic’s lecture rooms."
+      ]
+    }
+  }
+}

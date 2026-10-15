@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "253"
+  ],
+  "text": [
+    "你内心的理智几近崩溃，但仍勉强压低声音，命令学生们不要看。",
+    "飞行的恐怖生物落入空地，收起膜质翅膀，用后面那对肢体站立，开始与灰色小人围着火光起舞。一只真菌生物和老妇人离开舞圈，前者取出一个盒子。它从老妇人手中接过头颅，将其放进容器。经过短暂摆弄，异族生物退到一旁。伯纳德的头颅出现在开口处——他的眼睛竟在眨动！嘴唇和下颌也在活动。他似乎还保有意识，正试图尖叫，却没有肺和声带发出声音。",
+    "这些怪物甚至夺走了伯纳德死后的安宁。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 253",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 253",
+      "text": [
+        "Inside, your reason frays. But you manage a harsh whisper, ordering the students not to look.",
+        "The flying horrors settle into the glen. Folding their membranous wings, they rear up on their hindmost pair of limbs and begin to dance around the light with the little gray people. One fungoid creature and the old woman separate themselves from the dance and the former produces a box. It takes the head from the woman and puts it into the receptacle. After a brief manipulation, the alien steps aside. Bernard’s head shows through the aperture—his eyes are blinking! His lips, his jaws are moving. It is as if Bernard is aware, trying to scream, but lacks the lungs and vocal cords to give himself voice.",
+        "These monstrosities have stolen even the peace of death from Bernard."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "296"
+  ],
+  "text": [
+    "松林深处威胁般的狼嚎让诺曼坐立不安。你们决定在洞穴停下过夜，以躲避捕食者。",
+    "你们在洞口生起火，裹着破旧毯子安顿下来。你快要入睡时，突然意识到洞穴深处有东西正在呼吸，而且体型巨大。你提醒诺曼，随后听见那东西动了动。它散发出的恶臭扑面而来，令人作呕，几乎难以忍受。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 296",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 296",
+      "text": [
+        "The threatening chorus of howls out in the pine forest has Norman jumpy. You decide to halt at a cave for the night and take advantage of its protection against predators.",
+        "The two of you build a fire in the entrance and settle down inside your ragged blankets. As you drift toward sleep, you become conscious of something breathing at the back of the cave, something huge. You alert Norman. Then, you hear it stir. Its odor rises to press upon you, a sickening stench you can hardly bear."
+      ]
+    }
+  }
+}

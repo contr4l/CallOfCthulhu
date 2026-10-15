@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "553",
+    "frost-auto-553"
+  ],
+  "text": [
+    "河岸沼泽迫使你们上坡。四人艰难地砍开荆棘和灌木前进。队伍经过斜坡边缘时，伯纳德拉住你的手肘。“教授，您看那边！”他说。",
+    "你从高处俯瞰，不禁倒吸一口气。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 553",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 553",
+      "text": [
+        "Forced uphill by the sloughs along the riverside, the four of you laboriously hack through brambles and thicket. As your group passes close to the lip of a slope, Bernard catches your elbow. “Look there, Professor!” he says.",
+        "From your lofty perspective, you gaze down and gasp."
+      ]
+    }
+  }
+}

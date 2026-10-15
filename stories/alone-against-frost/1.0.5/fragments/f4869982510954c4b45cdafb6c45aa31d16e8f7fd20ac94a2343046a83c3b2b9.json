@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "310",
+    "frost-auto-310"
+  ],
+  "text": [
+    "体型巨大的猿人，口水直流！你被困住了！死定了！你的双腿一软，顿时昏厥。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 310",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 310",
+      "text": [
+        "Colossal drooling ape-men! You’re trapped! Doomed! Your legs buckle and you faint dead away."
+      ]
+    }
+  }
+}

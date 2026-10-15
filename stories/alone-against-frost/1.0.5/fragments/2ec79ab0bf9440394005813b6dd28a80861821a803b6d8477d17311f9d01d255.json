@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "646",
+    "frost-auto-646"
+  ],
+  "text": [
+    "你一定是昏过去了，已经记不起原因。此刻是黄昏。更糟的是，队伍不见了。你喊学生的名字，却无人回应。取而代之的是史前夜行猎食者可怕的叫声。",
+    "天亮后，你仍独自一人，开始失去希望。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 646",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 646",
+      "text": [
+        "You must have fainted. You cannot quite remember why. It is twilight. Worse, your party is nowhere to be seen. You shout the students’ names, but no voice sounds in answer. Instead, you hear the frightful calls of prehistoric nightstalkers.",
+        "When morning comes and you are still alone, you lose hope."
+      ]
+    }
+  }
+}

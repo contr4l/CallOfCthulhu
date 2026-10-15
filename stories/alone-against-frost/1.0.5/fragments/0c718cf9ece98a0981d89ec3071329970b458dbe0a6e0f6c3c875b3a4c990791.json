@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "419"
+  ],
+  "text": [
+    "那毛茸茸的生物从你手中接过食物，随后动了动眉毛，显得很感兴趣。你望着它，意识到这样的标本足以成就你的科学声望；但你真的能向这只看起来温顺的生物开枪吗？它是否已经接近人类？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 419",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 419",
+      "text": [
+        "The hairy creature takes the piece of food you offer from your hands and then moves its brows, indicating fascination. As you stare at it, you realize that such a specimen would make your scientific reputation, but can you actually shoot this peaceful- seeming creature? Is it too close to humanity?"
+      ]
+    }
+  }
+}

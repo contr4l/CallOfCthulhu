@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "357",
+    "frost-auto-357"
+  ],
+  "text": [
+    "你望着西尔维娅蜡白的脸。她眼中活力尽失，只剩空洞；深赤褐色的头发夹杂着白丝。她看着你们两人，却认不出你们。那场折磨摧毁了她的心智。",
+    "你带她离开雪怪营地。她被动地机械跟随。第二天，你们抵达急流，河水穿过裂隙通往外界。她跌进翻腾的急流，甚至没有试图游泳，像木偶一样被冲走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 357",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 357",
+      "text": [
+        "You look into Sylvia’s waxen face. An emptiness has replaced the vitality in her eyes. Her dark auburn hair is streaked with white. She looks at the pair of you without recognition. Her ordeal has destroyed her mind.",
+        "You lead her away from the sasquatch camp. She follows with passive, mechanical steps. When, the next day, you reach the swift-flowing stream that leads through the fissure to the other world, she falls into the churning rapids. Not even attempting to swim, she is swept along like a wooden doll."
+      ]
+    }
+  }
+}

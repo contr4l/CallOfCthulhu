@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "571",
+    "frost-auto-571"
+  ],
+  "text": [
+    "眼下的局面不太妙。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 571",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 571",
+      "text": [
+        "The situation does not look promising."
+      ]
+    }
+  }
+}

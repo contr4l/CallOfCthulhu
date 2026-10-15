@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "531",
+    "frost-auto-531"
+  ],
+  "text": [
+    "加拿大当局分析你关于队伍遭遇不幸的报告后，将你拘押并正式起诉。他们似乎对你发现的任何证据都不感兴趣。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 531",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 531",
+      "text": [
+        "When your report of your party’s misfortunes is analyzed by the Canadian authorities, they take you into custody and bring formal charges against you. They seem uninterested in any evidence of your discoveries."
+      ]
+    }
+  }
+}

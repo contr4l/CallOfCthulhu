@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "579"
+  ],
+  "text": [
+    "走了几英里后，女子眼神逐渐恢复清明，不再愿意被森林中神秘的恶魔带走。她感激你救了她，畅谈北汉尼纳山谷的传说与神话。",
+    "她对白人城镇十分好奇，对这片地形似乎也很熟悉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 579",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 579",
+      "text": [
+        "Once you have covered a few miles, the woman’s eyes clear and she no longer wishes to be taken by the mysterious demons of the forest. Grateful for her rescue, she speaks easily and you gain many stories and myths of the North Hanninah Valley.",
+        "She is very curious about the towns of the white men and seems to have great knowledge of the landscape."
+      ]
+    }
+  }
+}

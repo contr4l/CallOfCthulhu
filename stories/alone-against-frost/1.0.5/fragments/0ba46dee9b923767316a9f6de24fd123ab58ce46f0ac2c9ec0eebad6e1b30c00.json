@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "584"
+  ],
+  "text": [
+    "一只蜜蜂飞起，撞到一名队员脸上。那人本能地挥手拍打，发出的声音足以让经过的武士注意到。你们隐秘接近的计划失败了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 584",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 584",
+      "text": [
+        "A bee darts up and bounces off the face of a party member, who instinctively swats at it, making a noise that the passing warriors cannot fail to notice. Your stealthy approach has failed."
+      ]
+    }
+  }
+}

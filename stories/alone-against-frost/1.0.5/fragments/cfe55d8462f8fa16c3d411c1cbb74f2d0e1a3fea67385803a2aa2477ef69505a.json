@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "515"
+  ],
+  "text": [
+    "一道冰冻能量射线从你头顶掠过。身后阴冷潮湿的石壁炸裂，覆冰的岩块纷纷落下。你感觉藏身处的温度骤降了二十度。你向外窥视，几只粉红色生物正摇摇摆摆地穿过灌木朝你走来。另一只举起武器开火。你的脸和手指开始冻结。",
+    "再过几分钟，洞穴就会冷得无法忍受。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 515",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 515",
+      "text": [
+        "A bolt of freezing energy streaks over your head. The dank stone wall behind you shatters and chunks of ice-covered rock rain down. You feel the temperature of your hiding place fall 20 degrees. You peer outside. Several of the pink creatures waddle through the undergrowth toward you. Another raises its weapon and fires. Your face and fingers begin to freeze.",
+        "In a few minutes, the cave will be impossibly cold."
+      ]
+    }
+  }
+}

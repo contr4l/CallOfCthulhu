@@ -17,14 +17,14 @@
     {
       "id": "324:p2",
       "kind": "body",
-      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo follow the river, go to 470. To scale a ridge, go to 469. To thread ",
-      "sourceLocation": "pdf:visual:[[62,34],[62,35]]"
+      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo follow the river, go to 470. To scale a ridge, go to 469. To thread \nthrough light woodland, go to 218. To penetrate deeper into the \nforest, go to 557. To concentrate on finding supplies, make a Luck \nroll: if you succeed, go to 654; if you fail, go to 132.",
+      "sourceLocation": "pdf:visual:[[62,34],[62,35],[62,38],[62,39],[62,40]]"
     },
     {
       "id": "324:p3",
       "kind": "body",
-      "text": "61\nthrough light woodland, go to 218. To penetrate deeper into the \nforest, go to 557. To concentrate on finding supplies, make a Luck \nroll: if you succeed, go to 654; if you fail, go to 132.\n(45, 50, 53, 54, 76, 137, 142, 217, 244, 245, 293, 322, 404, 425, \n442, 465, 533, 594, 599, 650)",
-      "sourceLocation": "pdf:visual:[[62,36],[62,38],[62,39],[62,40],[62,41],[62,42]]"
+      "text": "(45, 50, 53, 54, 76, 137, 142, 217, 244, 245, 293, 322, 404, 425, \n442, 465, 533, 594, 599, 650)",
+      "sourceLocation": "pdf:visual:[[62,41],[62,42]]"
     }
   ]
 }

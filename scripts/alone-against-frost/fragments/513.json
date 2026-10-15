@@ -17,8 +17,14 @@
     {
       "id": "513:p2",
       "kind": "body",
-      "text": "To return to Fort McDonald, go to 593. To take a side trip, go to \n594. If your party still has at least three members, you may return \nto the wilds; go to 425.\n(25, 67, 76, 111, 165, 182, 224, 232, 242, 297, 322, 334, 338, 377, \n379, 381, 411, 419, 427, 428, 457, 472, 476, 480, 509, 512, 514, \n517, 518, 543, 564, 567, 572, 577, 580, 587, 589, 591, 595, 596)",
-      "sourceLocation": "pdf:visual:[[89,30],[89,31],[89,32],[89,33],[89,34],[89,35]]"
+      "text": "To return to Fort McDonald, go to 593. To take a side trip, go to \n594. If your party still has at least three members, you may return \nto the wilds; go to 425.",
+      "sourceLocation": "pdf:visual:[[89,30],[89,31],[89,32]]"
+    },
+    {
+      "id": "513:p3",
+      "kind": "body",
+      "text": "(25, 67, 76, 111, 165, 182, 224, 232, 242, 297, 322, 334, 338, 377, \n379, 381, 411, 419, 427, 428, 457, 472, 476, 480, 509, 512, 514, \n517, 518, 543, 564, 567, 572, 577, 580, 587, 589, 591, 595, 596)",
+      "sourceLocation": "pdf:visual:[[89,33],[89,34],[89,35]]"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "id": "section-rolling-ones",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "b58df81d1893a3ff6dee497547699276be0144786d2c5bc43051eca4a4bda0ee",
+  "paragraphs": [
+    {
+      "id": "section-rolling-ones:p0",
+      "text": "掷出1"
+    },
+    {
+      "id": "section-rolling-ones:p1",
+      "text": "防御检定掷出1时，再掷一次。如果第二次仍是1，你必须选择：额外承受1点伤害、跳过下一次攻击，或毁掉主要武器（徒手战斗时显然不能选择毁掉武器）。"
+    }
+  ],
+  "notes": []
+}

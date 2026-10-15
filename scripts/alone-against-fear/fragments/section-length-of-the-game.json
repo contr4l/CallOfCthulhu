@@ -1,245 +1,72 @@
 {
   "id": "section-length-of-the-game",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-length-of-the-game:p0000",
-      "kind": "body",
+      "id": "section-length-of-the-game:p0",
+      "kind": "heading",
       "text": "Length of the Game\n",
       "sourceLocation": "pdf:spans:[[6,360,379]]"
     },
     {
-      "id": "section-length-of-the-game:p0001",
+      "id": "section-length-of-the-game:p1",
       "kind": "body",
-      "text": "You will not complete the game in\n",
-      "sourceLocation": "pdf:spans:[[6,379,413]]"
+      "text": "You will not complete the game in\na single session. The game is meant\nto be played as a CAMPAIGN - a\nseries of connected missions. Your\ncharacter will grow and change\nduring these games.\nIf you Play Four Against Darkness\nIf you play our fantasy game Four\nAgainst Darkness, you will recognize\nsome mechanics in this game. Be\ncareful because there are\nimportant differences:\n",
+      "sourceLocation": "pdf:spans:[[6,379,413],[6,413,449],[6,449,480],[6,480,515],[6,515,546],[6,546,566],[6,566,600],[6,600,634],[6,634,671],[6,671,703],[6,703,729],[6,729,752]]"
     },
     {
-      "id": "section-length-of-the-game:p0002",
+      "id": "section-length-of-the-game:p2",
       "kind": "body",
-      "text": "a single session. The game is meant\n",
-      "sourceLocation": "pdf:spans:[[6,413,449]]"
+      "text": "1) No levels or classes. A character\nis created by allocating points and\nrolling up random equipment;\n",
+      "sourceLocation": "pdf:spans:[[6,752,789],[6,789,825],[6,825,854]]"
     },
     {
-      "id": "section-length-of-the-game:p0003",
-      "kind": "body",
-      "text": "to be played as a CAMPAIGN - a\n",
-      "sourceLocation": "pdf:spans:[[6,449,480]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0004",
-      "kind": "body",
-      "text": "series of connected missions. Your\n",
-      "sourceLocation": "pdf:spans:[[6,480,515]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0005",
-      "kind": "body",
-      "text": "character will grow and change\n",
-      "sourceLocation": "pdf:spans:[[6,515,546]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0006",
-      "kind": "body",
-      "text": "during these games.\n",
-      "sourceLocation": "pdf:spans:[[6,546,566]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0007",
-      "kind": "body",
-      "text": "If you Play Four Against Darkness\n",
-      "sourceLocation": "pdf:spans:[[6,566,600]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0008",
-      "kind": "body",
-      "text": "If you play our fantasy game Four\n",
-      "sourceLocation": "pdf:spans:[[6,600,634]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0009",
-      "kind": "body",
-      "text": "Against Darkness, you will recognize\n",
-      "sourceLocation": "pdf:spans:[[6,634,671]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0010",
-      "kind": "body",
-      "text": "some mechanics in this game. Be\n",
-      "sourceLocation": "pdf:spans:[[6,671,703]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0011",
-      "kind": "body",
-      "text": "careful because there are\n",
-      "sourceLocation": "pdf:spans:[[6,703,729]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0012",
-      "kind": "body",
-      "text": "important differences:\n",
-      "sourceLocation": "pdf:spans:[[6,729,752]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0013",
-      "kind": "body",
-      "text": "1) No levels or classes. A character\n",
-      "sourceLocation": "pdf:spans:[[6,752,789]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0014",
-      "kind": "body",
-      "text": "is created by allocating points and\n",
-      "sourceLocation": "pdf:spans:[[6,789,825]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0015",
-      "kind": "body",
-      "text": "rolling up random equipment;\n",
-      "sourceLocation": "pdf:spans:[[6,825,854]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0016",
+      "id": "section-length-of-the-game:p3",
       "kind": "body",
       "text": "2) Healing is more difficult;\n",
       "sourceLocation": "pdf:spans:[[6,854,884]]"
     },
     {
-      "id": "section-length-of-the-game:p0017",
+      "id": "section-length-of-the-game:p4",
       "kind": "body",
-      "text": "3) You have only one character, and\n",
-      "sourceLocation": "pdf:spans:[[6,884,920]]"
+      "text": "3) You have only one character, and\nyou must keep track of ammunition\nfor all weapons;\n",
+      "sourceLocation": "pdf:spans:[[6,884,920],[6,920,954],[6,954,971]]"
     },
     {
-      "id": "section-length-of-the-game:p0018",
+      "id": "section-length-of-the-game:p5",
       "kind": "body",
-      "text": "you must keep track of ammunition\n",
-      "sourceLocation": "pdf:spans:[[6,920,954]]"
+      "text": "4) To perform a Defense roll, you\nmust roll equal to or higher than\nthe opponent’s L (not just higher as\nit is in Four Against Darkness);\n",
+      "sourceLocation": "pdf:spans:[[6,971,1005],[6,1005,1039],[6,1039,1076],[6,1076,1109]]"
     },
     {
-      "id": "section-length-of-the-game:p0019",
+      "id": "section-length-of-the-game:p6",
       "kind": "body",
-      "text": "for all weapons;\n",
-      "sourceLocation": "pdf:spans:[[6,954,971]]"
+      "text": "5) Spells are not memorized, but\ncast as rituals; each spell has its\nown rules and requirements;\n",
+      "sourceLocation": "pdf:spans:[[6,1109,1142],[6,1142,1178],[6,1178,1206]]"
     },
     {
-      "id": "section-length-of-the-game:p0020",
+      "id": "section-length-of-the-game:p7",
       "kind": "body",
-      "text": "4) To perform a Defense roll, you\n",
-      "sourceLocation": "pdf:spans:[[6,971,1005]]"
+      "text": "6) There is no distinction between\nRanged and melee combat;\n",
+      "sourceLocation": "pdf:spans:[[6,1206,1241],[6,1241,1266]]"
     },
     {
-      "id": "section-length-of-the-game:p0021",
-      "kind": "body",
-      "text": "must roll equal to or higher than\n",
-      "sourceLocation": "pdf:spans:[[6,1005,1039]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0022",
-      "kind": "body",
-      "text": "the opponent’s L (not just higher as\n",
-      "sourceLocation": "pdf:spans:[[6,1039,1076]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0023",
-      "kind": "body",
-      "text": "it is in Four Against Darkness);\n",
-      "sourceLocation": "pdf:spans:[[6,1076,1109]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0024",
-      "kind": "body",
-      "text": "5) Spells are not memorized, but\n",
-      "sourceLocation": "pdf:spans:[[6,1109,1142]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0025",
-      "kind": "body",
-      "text": "cast as rituals; each spell has its\n",
-      "sourceLocation": "pdf:spans:[[6,1142,1178]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0026",
-      "kind": "body",
-      "text": "own rules and requirements;\n",
-      "sourceLocation": "pdf:spans:[[6,1178,1206]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0027",
-      "kind": "body",
-      "text": "6) There is no distinction between\n",
-      "sourceLocation": "pdf:spans:[[6,1206,1241]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0028",
-      "kind": "body",
-      "text": "Ranged and melee combat;\n",
-      "sourceLocation": "pdf:spans:[[6,1241,1266]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0029",
+      "id": "section-length-of-the-game:p8",
       "kind": "body",
       "text": "7) Only d6s are used;\n",
       "sourceLocation": "pdf:spans:[[6,1266,1288]]"
     },
     {
-      "id": "section-length-of-the-game:p0030",
+      "id": "section-length-of-the-game:p9",
       "kind": "body",
-      "text": "8) There is no “dungeon” mapping\n",
-      "sourceLocation": "pdf:spans:[[6,1288,1321]]"
+      "text": "8) There is no “dungeon” mapping\nbut you create a map of a town\nusing  “boxes”. Each box represents\nan area, landmark or event. Over a\ncampaign, you continue exploring\nthe town, adding more sheets next\nto the previous ones.\n",
+      "sourceLocation": "pdf:spans:[[6,1288,1321],[6,1321,1352],[6,1352,1388],[6,1388,1423],[6,1423,1456],[6,1456,1490],[6,1490,1512]]"
     },
     {
-      "id": "section-length-of-the-game:p0031",
+      "id": "section-length-of-the-game:p10",
       "kind": "body",
-      "text": "but you create a map of a town\n",
-      "sourceLocation": "pdf:spans:[[6,1321,1352]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0032",
-      "kind": "body",
-      "text": "using  “boxes”. Each box represents\n",
-      "sourceLocation": "pdf:spans:[[6,1352,1388]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0033",
-      "kind": "body",
-      "text": "an area, landmark or event. Over a\n",
-      "sourceLocation": "pdf:spans:[[6,1388,1423]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0034",
-      "kind": "body",
-      "text": "campaign, you continue exploring\n",
-      "sourceLocation": "pdf:spans:[[6,1423,1456]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0035",
-      "kind": "body",
-      "text": "the town, adding more sheets next\n",
-      "sourceLocation": "pdf:spans:[[6,1456,1490]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0036",
-      "kind": "body",
-      "text": "to the previous ones.\n",
-      "sourceLocation": "pdf:spans:[[6,1490,1512]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0037",
-      "kind": "body",
-      "text": "9) There are no XP rolls. XP are\n",
-      "sourceLocation": "pdf:spans:[[6,1512,1545]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0038",
-      "kind": "body",
-      "text": "points that are accumulated and\n",
-      "sourceLocation": "pdf:spans:[[6,1545,1577]]"
-    },
-    {
-      "id": "section-length-of-the-game:p0039",
-      "kind": "body",
-      "text": "spent to gain Skills.\n",
-      "sourceLocation": "pdf:spans:[[6,1577,1599]]"
+      "text": "9) There are no XP rolls. XP are\npoints that are accumulated and\nspent to gain Skills.\n",
+      "sourceLocation": "pdf:spans:[[6,1512,1545],[6,1545,1577],[6,1577,1599]]"
     }
   ],
   "sourcePages": [

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "319"
+  ],
+  "text": [
+    "太迟了！西尔维娅滑下了边缘！你赶到崖边时，两个学生都在湍急水流中挣扎。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 319",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 319",
+      "text": [
+        "Too late! Sylvia slides over the edge! As you reach the brink, both the students are being battered by the turbulence."
+      ]
+    }
+  }
+}

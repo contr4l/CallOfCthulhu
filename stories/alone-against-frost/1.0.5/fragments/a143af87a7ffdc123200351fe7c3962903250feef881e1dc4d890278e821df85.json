@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "240"
+  ],
+  "text": [
+    "你向那群堕落的仪式参与者开火。他们四散逃入灌木时，你欣赏着那些受伤倒地、在苔藓上痛苦翻滚的人。“教授！”西尔维娅拉着你的袖子，“他们从后面包抄过来了！”你推开她的手，朝灌木丛中逼近的声音打空弹匣。突然，你发现同伴们已经逃走。你不想和他们失散，便立刻追上去，但前方传来的喧闹声迫使你转向，冲下一处沟谷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 240",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 240",
+      "text": [
+        "You open fire on the depraved celebrants. As they rout into the bush, you relish the sight of those who writhe wounded on the mossy ground. “Professor!” Sylvia tugs at your sleeve. “They’re coming around behind us!” You shove her hand away and empty your magazine toward the sounds approaching through the thickets. Suddenly, you notice that your companions have fled. Not wanting to become separated, you dart after them, but chattering noises in your path force you to veer down a ravine."
+      ]
+    }
+  }
+}

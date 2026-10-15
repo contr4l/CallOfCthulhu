@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "175"
+  ],
+  "text": [
+    "你让西尔维娅给陌生人端来热汤。你站在他面前，胃里渐渐泛起不安。他的脸令人厌恶，五官比例也怪得出奇。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 175",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 175",
+      "text": [
+        "You urge Sylvia to bring hot soup for the stranger. While you stand looking at him, unease builds in your stomach. His face is repulsive and oddly proportioned."
+      ]
+    }
+  }
+}

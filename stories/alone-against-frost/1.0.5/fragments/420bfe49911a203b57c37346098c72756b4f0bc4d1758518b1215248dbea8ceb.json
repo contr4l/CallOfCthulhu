@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "323",
+    "frost-auto-323"
+  ],
+  "text": [
+    "你瞥见一旁有处小小的地质构造，便把诺曼拉到后面躲好。哀鸣嘶叫的兽群从你们周围奔腾而过，几双脚只差几英寸就会踩到你们的头。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 323",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 323",
+      "text": [
+        "Off to one side, you spot a small geological formation. You drag Norman down behind it. The bleating, bawling stampede passes over and around you, several pairs of feet missing your heads by inches."
+      ]
+    }
+  }
+}

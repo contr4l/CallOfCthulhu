@@ -1,101 +1,18 @@
 {
   "id": "section-susceptible-to-exorcism",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-susceptible-to-exorcism:p0000",
-      "kind": "body",
+      "id": "section-susceptible-to-exorcism:p0",
+      "kind": "heading",
       "text": "Susceptible to Exorcism\n",
       "sourceLocation": "pdf:spans:[[36,431,455]]"
     },
     {
-      "id": "section-susceptible-to-exorcism:p0001",
+      "id": "section-susceptible-to-exorcism:p1",
       "kind": "body",
-      "text": "If a creature is said to be\n",
-      "sourceLocation": "pdf:spans:[[36,455,483]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0002",
-      "kind": "body",
-      "text": "susceptible to exorcism,\n",
-      "sourceLocation": "pdf:spans:[[36,483,508]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0003",
-      "kind": "body",
-      "text": "you may use the\n",
-      "sourceLocation": "pdf:spans:[[36,508,524]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0004",
-      "kind": "body",
-      "text": "Exorcism Arcane Skill\n",
-      "sourceLocation": "pdf:spans:[[36,524,546]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0005",
-      "kind": "body",
-      "text": "against it. If you\n",
-      "sourceLocation": "pdf:spans:[[36,546,565]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0006",
-      "kind": "body",
-      "text": "successfully use the\n",
-      "sourceLocation": "pdf:spans:[[36,565,586]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0007",
-      "kind": "body",
-      "text": "Exorcism Arcane Skill\n",
-      "sourceLocation": "pdf:spans:[[36,586,608]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0008",
-      "kind": "body",
-      "text": "against the creature’s L,\n",
-      "sourceLocation": "pdf:spans:[[36,608,634]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0009",
-      "kind": "body",
-      "text": "the creature is forced to\n",
-      "sourceLocation": "pdf:spans:[[36,634,660]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0010",
-      "kind": "body",
-      "text": "leave the box\n",
-      "sourceLocation": "pdf:spans:[[36,660,674]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0011",
-      "kind": "body",
-      "text": "immediately. If the\n",
-      "sourceLocation": "pdf:spans:[[36,674,694]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0012",
-      "kind": "body",
-      "text": "creature is guarding\n",
-      "sourceLocation": "pdf:spans:[[36,694,715]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0013",
-      "kind": "body",
-      "text": "some item, you will gain\n",
-      "sourceLocation": "pdf:spans:[[36,715,740]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0014",
-      "kind": "body",
-      "text": "access to that item as the\n",
-      "sourceLocation": "pdf:spans:[[36,740,767]]"
-    },
-    {
-      "id": "section-susceptible-to-exorcism:p0015",
-      "kind": "body",
-      "text": "creature runs away.\n",
-      "sourceLocation": "pdf:spans:[[36,767,787]]"
+      "text": "If a creature is said to be\nsusceptible to exorcism,\nyou may use the\nExorcism Arcane Skill\nagainst it. If you\nsuccessfully use the\nExorcism Arcane Skill\nagainst the creature’s L,\nthe creature is forced to\nleave the box\nimmediately. If the\ncreature is guarding\nsome item, you will gain\naccess to that item as the\ncreature runs away.\n",
+      "sourceLocation": "pdf:spans:[[36,455,483],[36,483,508],[36,508,524],[36,524,546],[36,546,565],[36,565,586],[36,586,608],[36,608,634],[36,634,660],[36,660,674],[36,674,694],[36,694,715],[36,715,740],[36,740,767],[36,767,787]]"
     }
   ],
   "sourcePages": [

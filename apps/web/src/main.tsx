@@ -68,6 +68,10 @@ import { api, ApiError } from "./api";
 import { audio } from "./audio";
 import "./styles.css";
 import { CharacterCard } from "./components/CharacterCard";
+import { CampaignState } from "./components/CampaignState";
+import { FearRecord } from "./components/FearRecord";
+import { FearSkillChoice } from "./components/FearSkillChoice";
+import { ruleDiceDescription } from "./rule-dice";
 import { Modal } from "./components/Modal";
 import { DiceAnimation, diceStorageKey } from "./components/DiceRoller";
 import { SetupModal } from "./components/SetupModal";
@@ -75,6 +79,8 @@ import { CharacterLibrary } from "./components/CharacterLibrary";
 const FEATURED_STORY_ID = "alone-against-flames";
 const AVAILABLE_STORY_IDS = new Set([
   FEATURED_STORY_ID,
+  "alone-against-fear",
+  "alone-against-frost",
   "alone-against-static",
   "alone-against-tide",
 ]);
@@ -1076,7 +1082,7 @@ function App() {
                         <span>D100</span>
                       </div>
                     )}
-                    {scene.check && !scene.combat && (
+                    {scene.check && (!scene.combat || scene.actions.some(action => action.id === "accept" || action.id === "spend-luck")) && (
                       <label className="check-assistance">
                         <input
                           type="checkbox"
@@ -1111,6 +1117,7 @@ function App() {
                         )}
                       </div>
                     )}
+                    {scene.fear?.pending?.prompt && <p className="check-note"><CheckOutcomeText text={scene.fear.pending.prompt} /></p>}
                     {scene.notices?.map((notice, i) => (
                       <p className="check-note" key={`notice-${i}`}>
                         <CheckOutcomeText text={notice} />
@@ -1119,7 +1126,12 @@ function App() {
                     {scene.combat && (
                       <p className="check-note">
                         第 {scene.combat.round} 回合 · {scene.combat.name} ·
-                        剩余生命 {scene.combat.hp}
+                        {scene.combat.damageGoal
+                          ? <>{scene.combat.damageGoal.label}：已造成 {scene.combat.damageGoal.dealt}，还需 {scene.combat.damageGoal.remaining}</>
+                          : <>剩余生命 {scene.combat.hp}</>}
+                        {scene.combat.enemyLives && (
+                          <> · 各对手：{scene.combat.enemyLives.join("、")}</>
+                        )}
                         <br />
                         {scene.combat.turn}
                         <br />
@@ -1136,12 +1148,27 @@ function App() {
                         draftKey={`allocation:${user?.id}:${scene.runId}:${scene.visitId}:${scene.revision}`}
                         busy={busy || !!result || !!ruleDice}
                         onSubmit={(action, input) =>
-                          void command(action, input)
+                          void command(
+                            scene.actions.length === 1 && !scene.actions.some((available) => available.id === action)
+                              ? scene.actions[0].id
+                              : action,
+                            input,
+                          )
                         }
                       />
                     )}
                     <div className="choices">
+                      {scene.fear?.pending?.kind === "creation-skills" && (
+                        <FearSkillChoice
+                          key={`${scene.visitId}-${scene.revision}`}
+                          pending={scene.fear.pending}
+                          actions={scene.actions}
+                          busy={busy || !!result || !!ruleDice}
+                          onChoose={(id) => void command(id)}
+                        />
+                      )}
                       {!scene.input &&
+                        scene.fear?.pending?.kind !== "creation-skills" &&
                         scene.actions.map((a, i) => (
                           <button
                             key={a.id}
@@ -1219,6 +1246,7 @@ function App() {
                       scene.inventory.map((i) => (
                         <div key={i.key}>
                           ◇ {i.label}
+                          {i.quantity !== undefined ? ` × ${i.quantity}` : ""}
                           {i.illustration && (
                             <button
                               className="text-button"
@@ -1245,24 +1273,23 @@ function App() {
             </main>
           ) : (
             <main className="account-page">
-              <span className="section-eyebrow">YOUR PERSONAL ARCHIVE</span>
               <h1>{titles[page]}</h1>
               <p className="page-description">
                 {page === "runs"
-                  ? "尚未结束的旅程，与你曾经抵达的结局。"
+                  ? "继续未完成的调查，或重看已抵达的结局。"
                   : page === "achievements"
-                    ? "每一个不同的结局，都会成为你独有的成就。首次抵达后永久解锁。"
+                    ? "每个结局对应一项成就，抵达后解锁并可领取余烬点。"
                     : page === "shop"
                       ? "购买检定道具，准备下一次调查。"
                       : page === "archive"
-                        ? "你经历过的故事，不会因为离开而消失。"
-                        : "每一位调查员，都有自己的观察世界的方式。"}
+                        ? "收集的结局与章节，以及历次调查的回忆。"
+                        : "创建和管理调查员，填写角色资料。"}
               </p>
               {!user ? (
                 <div className="empty-state">
                   <UserRound size={32} />
                   <h2>进入你的档案室</h2>
-                  <p>登录后保存调查，管理角色，重访故事。</p>
+                  <p>登录后保存调查进度，管理调查员。</p>
                   <button
                     className="primary-button"
                     onClick={() => setAuth(true)}
@@ -1507,7 +1534,7 @@ function App() {
                   <p>
                     {ruleDice.groups
                       .map((g) => `${g.results.length}D${g.sides}`)
-                      .join(" + ")}
+                      .join(ruleDice.aggregate === false ? "；" : " + ")}
                     {ruleDice.multiplier !== 1
                       ? ` × ${ruleDice.multiplier}`
                       : ""}
@@ -1529,11 +1556,7 @@ function App() {
                 {rolling && <p>骰子摇动中…</p>}
                 {dicePhase === "revealed" && (
                   <p className="roll-equation">
-                    {ruleDice.groups.flatMap((g) => g.results).join(" + ")} ={" "}
-                    {ruleDice.total}
-                    {ruleDice.multiplier !== 1
-                      ? `；${ruleDice.total} × ${ruleDice.multiplier} = ${ruleDice.value}`
-                      : ""}
+                    {ruleDiceDescription(ruleDice)}
                   </p>
                 )}
               </div>
@@ -1696,9 +1719,7 @@ function App() {
                       )}
                       {f.dice && (
                         <p className="history-action">
-                          {f.dice.label}：
-                          {f.dice.groups.flatMap((g) => g.results).join(" + ")}{" "}
-                          × {f.dice.multiplier} = {f.dice.value}
+                          {f.dice.label}：{ruleDiceDescription(f.dice)}
                         </p>
                       )}
                       <h3>
@@ -1759,11 +1780,7 @@ function App() {
                     {history[frameIndex].dice && (
                       <p className="memory-note">
                         {history[frameIndex].dice!.label}：
-                        {history[frameIndex]
-                          .dice!.groups.flatMap((g) => g.results)
-                          .join(" + ")}{" "}
-                        × {history[frameIndex].dice!.multiplier} ={" "}
-                        {history[frameIndex].dice!.value}
+                        {ruleDiceDescription(history[frameIndex].dice!)}
                       </p>
                     )}
                     <NarrativeText

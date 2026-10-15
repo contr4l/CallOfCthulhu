@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "90"
+  ],
+  "text": [
+    "若要尝试穿过裂缝，前往 91。若要返回麦克唐纳堡的方向，前往 158。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 90",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 90",
+      "text": [
+        "To attempt to pass through the fissure, go to 91. To head back toward Fort McDonald, go to 158."
+      ]
+    }
+  }
+}

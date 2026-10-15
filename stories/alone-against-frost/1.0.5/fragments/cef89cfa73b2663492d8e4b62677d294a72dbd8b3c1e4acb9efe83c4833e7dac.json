@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "591"
+  ],
+  "text": [
+    "一名武士举起步枪瞄准开火，其他人也跟着射击。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 591",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 591",
+      "text": [
+        "One warrior lifts his rifle to his shoulder and fires. The others follow suit."
+      ]
+    }
+  }
+}

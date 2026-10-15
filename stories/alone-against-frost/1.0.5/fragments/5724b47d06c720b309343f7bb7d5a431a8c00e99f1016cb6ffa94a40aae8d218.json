@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "390"
+  ],
+  "text": [
+    "一声尖锐的叫喊划破阴暗的营地，四面八方都有雪怪应声。你们无处可逃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 390",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 390",
+      "text": [
+        "A high-pitched scream splits the shadowed camp, echoed by sasquatches on every side. There is nowhere to run."
+      ]
+    }
+  }
+}

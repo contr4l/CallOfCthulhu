@@ -60,7 +60,7 @@ const commandSchema = z
     input: z
       .record(
         z.string().max(80),
-        z.union([z.number().finite(), z.string().max(80)]),
+        z.union([z.number().finite(), z.string().max(4000)]),
       )
       .optional(),
   })
@@ -571,6 +571,8 @@ export async function buildApp(
           },
           roll?.luck ?? 0,
         );
+      if (story.rulesVersion === "aaf-solo@1")
+        character.rulesVersion = story.rulesVersion;
       if (data.age !== undefined) {
         if (story.creationPolicy !== "guided")
           throw new GameError(400, "本剧本使用模板的角色资料。");
@@ -597,13 +599,14 @@ export async function buildApp(
         db.prepare("INSERT INTO character_templates VALUES(?,?,?,?)").run(
           savedCharacterId,
           owner.id,
-          JSON.stringify(character),
+          JSON.stringify(story.fear ? state.character : character),
           now,
         );
       const frame: HistoryFrame = {
         sequence: 0,
         createdAt: now,
         scene: view,
+        ...(state.creationDice ? { dice: state.creationDice } : {}),
         memory: getNode(story, state.nodeId).memory,
       };
       db.prepare("INSERT INTO run_history VALUES(?,?,?)").run(
@@ -731,6 +734,16 @@ export async function buildApp(
             targetBonus,
             ...(retry ? { previousRoll } : {}),
           };
+        if (result.state.investigators &&
+            before.investigators?.current !== result.state.investigators.current &&
+            !result.state.createdCharacterId) {
+          const actorCardId = randomUUID();
+          db.prepare("INSERT INTO character_templates VALUES(?,?,?,?)").run(
+            actorCardId, owner.id, JSON.stringify(result.state.character), new Date().toISOString(),
+          );
+          result.state.createdCharacterId = actorCardId;
+          result.state.savedCharacterId = actorCardId;
+        }
         const revision = r.revision + 1,
           now = new Date().toISOString(),
           scene = project(story, result.state, r.id, revision),
@@ -744,6 +757,9 @@ export async function buildApp(
         if (
           story.creationPolicy === "guided" &&
           (data.actionId === "allocate" ||
+            before.fear?.pending?.kind === "creation-stats" ||
+            before.fear?.pending?.kind === "creation-skills" ||
+            before.fear?.pending?.kind === "creation-bonus-skill" ||
             (story.id === "alone-against-tide" &&
               !before.flags["tide-created"] &&
               result.state.flags["tide-created"])) &&

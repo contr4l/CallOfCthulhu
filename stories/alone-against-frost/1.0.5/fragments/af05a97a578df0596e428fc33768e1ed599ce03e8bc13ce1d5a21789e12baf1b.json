@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "539"
+  ],
+  "text": [
+    "你发现了大脚怪，举枪朝它们射了几发。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 539",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 539",
+      "text": [
+        "You sight and squeeze off a few rounds at the sasquatches."
+      ]
+    }
+  }
+}

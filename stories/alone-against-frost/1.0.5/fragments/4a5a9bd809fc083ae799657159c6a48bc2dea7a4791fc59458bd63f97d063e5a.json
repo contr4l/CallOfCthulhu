@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "304"
+  ],
+  "text": [
+    "你飞奔向森林深处躲藏。怪物紧追不舍，正在逐渐逼近。大森林是它同类的家园。你唯一的希望就是藏身于树冠之下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 304",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 304",
+      "text": [
+        "You race for the cover of the deep woods. The monster follows, and it is catching up. The Big Woods are home to its kind. Your only hope is to bury yourself beneath the canopy."
+      ]
+    }
+  }
+}

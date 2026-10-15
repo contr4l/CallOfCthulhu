@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "355",
+    "frost-auto-355"
+  ],
+  "text": [
+    "强有力的毛茸茸的手扣住你的肩膀，把你从地上拽起。恶臭的巨大身影围拢过来，撕咬你，用拳头和木棍殴打你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 355",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 355",
+      "text": [
+        "Powerful hairy hands clamp on your shoulders, snatching you from your feet. Foul-smelling hulking bodies close in, biting and clubbing with fists and pieces of wood."
+      ]
+    }
+  }
+}

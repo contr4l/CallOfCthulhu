@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "191"
+  ],
+  "text": [
+    "后来，你躺在河岸边，脸朝下，不知道已经过去多久。你动了动，痛苦地呻吟起来。浑身都疼。你还能鼓起力量继续前行吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 191",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 191",
+      "text": [
+        "It is later, on a riverbank. You are face down. You don’t know how much time has passed. You stir and then moan with pain. Everything hurts. Can you find the strength to continue?"
+      ]
+    }
+  }
+}

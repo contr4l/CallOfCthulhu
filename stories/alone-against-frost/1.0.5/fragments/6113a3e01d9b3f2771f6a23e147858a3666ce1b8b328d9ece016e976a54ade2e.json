@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "46"
+  ],
+  "text": [
+    "伯纳德·埃布斯坦留下值守，队伍中的其他人各自回到小帐篷里休息。你把羽绒睡袋铺在树枝垫上，再盖上一条床单。你打着哈欠最后望了一眼外面；营地里大家都已安顿好，一切物品也各归其位。",
+    "当晚，你梦见自己赤身走过雪原。每迈出一步，寒战就愈发剧烈。醒来时，你躺在睡袋里，发现至少气温绝不是梦。外面结霜的树枝在寒风中断裂。但你还听见别的声音：风中传来一道潮湿、刺骨的低语。那声音吐出两个清晰的音节，仿佛古老荒野开口说话：“埃布——斯坦。”",
+    "你告诉自己，那只是某个同伴在叫研究生。但那声音再次响起，你知道这绝非人间之声：“埃布——斯坦！”",
+    "你起身披上外套，抓起武器。掀开帐篷门时，你看见伯纳德站在营地边缘，凝望着树林。他发出一声听不清的喊叫，随后冲进逐渐逼近的黑暗树林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 46",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 46",
+      "text": [
+        "Leaving Bernard Ebstein on watch, your party turns in, each to their own small tent. You throw your eiderdown roll over a mat of branches and cover it with a sheet. Yawning, you take a last look outside; the camp is bedded down and everything is in its place.",
+        "That night you dream of walking naked across a snowfield. Your shivering becomes more pronounced with every step you take. When you wake in your sleeping roll, you realize the temperature, at least, is no dream. Frigid branches crack outside, tossed by frosty gusts. But you hear something else: a breathy, chilling voice on the wind. It whispers two clear syllables, like ancient wilderness given speech: “Eb-stein.”",
+        "You tell yourself it is only one of your companions calling the graduate student. But it comes again, and you know it is no earthly sound: “Eb-stein!”",
+        "You rise, throw on your jacket, and seize your weapons. As you lift the tent flap, you see Bernard at the camp’s edge, staring into the woods. He gives an unintelligible shout and darts into the blackness of the encroaching trees."
+      ]
+    }
+  }
+}

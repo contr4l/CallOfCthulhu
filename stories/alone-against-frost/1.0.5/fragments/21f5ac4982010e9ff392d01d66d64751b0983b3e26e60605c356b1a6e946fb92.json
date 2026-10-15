@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "183"
+  ],
+  "text": [
+    "次年春天，你带着地图再次出发探险，终于发现加拿大本十年来最大的金矿。一家总部位于萨德伯里的矿业公司以惊人高价买下你的矿权。此后，你得以用私人资金终身从事研究。",
+    "然而，汉尼纳地区始终未能真正开发。矿业公司麻烦不断，越来越多的人进入该地区，非但没有平息当地的威胁传闻，反而让传闻愈演愈烈。第二年，一起骇人事件给这项事业蒙上阴影：12名矿工遭斩首杀害，尸体被发现时，头颅全都不见了。",
+    "大萧条开始时，矿场关闭，此后再未重开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 183",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 183",
+      "text": [
+        "The following spring, you embark on another expedition, following your map. You make the biggest Canadian gold strike of the decade. A Sudbury-based mining company buys out your share of the claim for an extraordinary fee. Thereafter, you are able to devote your life to privately financed research.",
+        "However, the Hanninah never truly becomes developed. Trouble plagues the mining company. Increased human penetration of the area does not dispel the stories of menace but actually increases them. In the second year, a ghastly incident shadows the enterprise, when the bodies of 12 miners are discovered, murdered by decapitation. The heads are never found.",
+        "The mine closes at the onset of the Great Depression and does not reopen."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "352"
+  ],
+  "text": [
+    "“教授！”她冲进你怀里。连平时不善表达的诺曼也站起来拥抱她。西尔维娅经历了身心折磨，因被掳走而憔悴不堪，却顽强地活了下来。她解释说，雪怪给她食物，并未伤害她。有段时间她被关在岩棚下；但她善待年幼的雪怪后，便获准在营地边界附近活动。她觉得有机会逃走，但你们到来之前，她害怕独自留在失落山谷及周围的大森林里。",
+    "你们三人商量逃跑计划。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 352",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 352",
+      "text": [
+        "“Professor!” She rushes to your arms. Even Norman, not known for demonstrative gestures, rises to embrace her. Sylvia is haggard from the physical and psychological ordeal of her abduction but has proven tough enough to survive. She explains that she has been fed by the sasquatches and not harmed. For a time, she was not allowed to leave the rock overhang, but by showing kindness and consideration to the young sasquatches, she was permitted to roam around the vague limits of the encampment. She thinks that it would be possible to escape, but before you came, she feared to be alone in the lost valley and the Big Woods around it.",
+        "The three of you plot your escape."
+      ]
+    }
+  }
+}

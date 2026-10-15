@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "407"
+  ],
+  "text": [
+    "同伴的死令你备受折磨，浓烟也正在卷来。你真的还想活下去吗？",
+    "要继续穿过火场，你必须成功通过三次困难 CON 检定。可以尝试任意多次，但第一次失败时，以及之后每次失败时，你都会因吸入浓烟受到1D3点伤害。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 407",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 407",
+      "text": [
+        "The loss of your companions torments you even as the smoke swirls in. Do you truly want to survive?",
+        "To keep going through the fire, you must succeed with three Hard CON rolls. You may try as many times as you wish, but the first time you fail, and on every fail thereafter, you suffer 1D3 damage from smoke inhalation."
+      ]
+    }
+  }
+}

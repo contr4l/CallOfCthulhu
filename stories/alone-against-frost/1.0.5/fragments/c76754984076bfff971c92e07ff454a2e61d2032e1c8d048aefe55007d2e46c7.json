@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "286"
+  ],
+  "text": [
+    "你提醒西尔维娅和诺曼做好准备。你们躲在一丛开满兰花状花朵的灌木后，等待那些嚎叫的野兽出现。",
+    "片刻后，它们冲了出来——这些惊人的犬科动物仿佛博物馆复原的恐狼标本。两个学生都倒吸一口气。你让他们身陷死地了吗？现在已经来不及逃跑。",
+    "共有2D6头狼。队伍中每名持步枪的成员都可以在狼群扑来前射击两次。无需计算伤害；每次命中都会击倒一头狼。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 286",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 286",
+      "text": [
+        "You warn Sylvia and Norman to get ready. Your party takes position behind a bush heavy with orchid-like blossoms and waits for the yelping beasts.",
+        "Moments later, they burst into view—incredible canines which resemble reconstructed museum specimens of dire wolves. You hear a sudden intake of breath from both students. Have you put them in mortal danger? It’s too late to run.",
+        "There are 2D6 wolves. Each member of your party with a rifle may fire twice before the wolves are upon you. Do not calculate damage; any successful hit drops one of the pack."
+      ]
+    }
+  }
+}

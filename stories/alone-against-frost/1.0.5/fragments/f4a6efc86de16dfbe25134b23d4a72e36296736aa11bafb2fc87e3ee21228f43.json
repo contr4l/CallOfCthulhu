@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "41"
+  ],
+  "text": [
+    "你和查理在营地附近搜寻线索。她发现几串非常奇怪的足迹，从营地一直延伸出去。它们笔直成行，仿佛某种单足生物一路蹦跳留下的。脚印呈圆形，微微凸起，散发出淡淡的蓝色蒸汽，表面还结着冰。你用刀刮开其中一个脚印周围的地面，想看看冰层有多深。你不耐烦地用刀刃挖掘，却只挖到坚硬如岩的冰沙柱，仿佛永远挖不到尽头。",
+    "清晨阳光的暖意融化了营地周围的霜，却没能融化脚印里的冰。你开始感到头痛，其他三名身体原本健康的同伴也纷纷抱怨起来。",
+    "沿着圆形脚印离开营地，谜团反而更深了。脚印穿过溪流时，溪底留下了冰冻的圆环，奔流的河水也无法将其冲蚀。",
+    "这些痕迹显示，入侵者的脚一旦触碰坚实物体，就会将其湮灭。有一处脚印踩在伯纳德的斧头上，钢铁上竟然留下一个圆形缺口，仿佛整块钢铁就这么凭空消失了。天哪，你们究竟面对着什么？",
+    "查理跟在你身后，喋喋不休地讲述那名带来寒冷的杀手的传说。“你不该去寻找你要找的东西，”她说，“我要离开这里！你和年轻人必须跟我回麦克唐纳堡——否则我就独自走！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 41",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 41",
+      "text": [
+        "You and Charlie search the area for clues. She finds some very strange tracks leaving the camp. They follow a straight line as if made by a one-legged hopper. The prints are round and convex. Each gives off a faint bluish vapor and is glazed with ice. You scratch around one track with your knife, to find out how deeply the ice extends. Frustrated, you dig with the blade, only to find a rock-hard column of ice and sand that seems to have no end.",
+        "The warmth of the morning sun evaporates the rime surrounding the camp but does not melt the ice in the tracks. You feel an increasing headache, a complaint echoed by all three of your otherwise sound companions.",
+        "Following the round tracks out of camp adds to the mystery. Where they cross streams, they leave icy circlets at the bottom that the running water has not worn down.",
+        "The prints show that where the intruder’s feet touched solid matter, they annihilated it. In one place, where a track steps on Bernard’s hatchet, a circle of steel has vanished, blinked cleanly out of existence. What in God’s name are you up against?",
+        "Charlie tags after you and babbles legends about the killer who comes with cold. “You do not want to find what you seek,” she says. “I will leave this place! You and the young people must return with me to Fort McDonald—or I will go alone.”"
+      ]
+    }
+  }
+}

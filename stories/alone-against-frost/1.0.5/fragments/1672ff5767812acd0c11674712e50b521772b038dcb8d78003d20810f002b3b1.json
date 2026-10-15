@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "412"
+  ],
+  "text": [
+    "同伴挣扎时发出的尖叫，是你在水灌满耳朵前听见的最后声音。急流像重量级拳击手一样猛击你的身体。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 412",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 412",
+      "text": [
+        "The screams of your floundering companions are the last things you hear before water fills your ears. The turbulence pummels your body like a heavyweight boxer."
+      ]
+    }
+  }
+}

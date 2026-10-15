@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "483"
+  ],
+  "text": [
+    "队伍停下来休息，西尔维娅离开视线几分钟。过了一会儿，你开始担心，便呼唤她的名字。没有回应。",
+    "你仔细搜遍灌木丛，却只发现她的足迹与……巨人的足迹混在一起。诺曼查看后摇了摇头。他站起身时，你从他身上看到了自己也熟悉的疲惫。你们真的要抛下西尔维娅吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 483",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 483",
+      "text": [
+        "Your party takes a break and Sylvia steps out of sight for a few minutes. After a time, you become concerned and call her name. There is no answer.",
+        "You search the bushes thoroughly, but find nothing except her tracks commingled with those of… a giant. Norman examines them and shakes his head. When he stands up, you see a weariness that you recognize in yourself. Could you really be thinking of abandoning Sylvia?"
+      ]
+    }
+  }
+}

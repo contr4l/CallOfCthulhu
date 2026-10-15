@@ -1,107 +1,18 @@
 {
   "id": "section-stealth-rolls",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-stealth-rolls:p0000",
-      "kind": "body",
+      "id": "section-stealth-rolls:p0",
+      "kind": "heading",
       "text": "Stealth rolls\n",
       "sourceLocation": "pdf:spans:[[35,22,36]]"
     },
     {
-      "id": "section-stealth-rolls:p0001",
+      "id": "section-stealth-rolls:p1",
       "kind": "body",
-      "text": "Sometime, you are given the option\n",
-      "sourceLocation": "pdf:spans:[[35,36,71]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0002",
-      "kind": "body",
-      "text": "to act unnoticed by an opponent,\n",
-      "sourceLocation": "pdf:spans:[[35,71,104]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0003",
-      "kind": "body",
-      "text": "or to slip past a guard. This requires\n",
-      "sourceLocation": "pdf:spans:[[35,104,143]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0004",
-      "kind": "body",
-      "text": "a Stealth save vs. the target’s L. Roll\n",
-      "sourceLocation": "pdf:spans:[[35,143,183]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0005",
-      "kind": "body",
-      "text": "at +1 if you have the Stealth Skill\n",
-      "sourceLocation": "pdf:spans:[[35,183,219]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0006",
-      "kind": "body",
-      "text": "and at +2 if you have Stealth\n",
-      "sourceLocation": "pdf:spans:[[35,219,249]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0007",
-      "kind": "body",
-      "text": "(Expert). If you succeed, you can\n",
-      "sourceLocation": "pdf:spans:[[35,249,283]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0008",
-      "kind": "body",
-      "text": "either attack that opponent at +2\n",
-      "sourceLocation": "pdf:spans:[[35,283,317]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0009",
-      "kind": "body",
-      "text": "on your first attack (due to surprise)\n",
-      "sourceLocation": "pdf:spans:[[35,317,356]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0010",
-      "kind": "body",
-      "text": "or slip past that enemy unnoticed\n",
-      "sourceLocation": "pdf:spans:[[35,356,390]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0011",
-      "kind": "body",
-      "text": "(you may move through the box as\n",
-      "sourceLocation": "pdf:spans:[[35,390,423]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0012",
-      "kind": "body",
-      "text": "if the opponent did not exist). If you\n",
-      "sourceLocation": "pdf:spans:[[35,423,462]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0013",
-      "kind": "body",
-      "text": "fail, the enemy will attack and gain\n",
-      "sourceLocation": "pdf:spans:[[35,462,499]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0014",
-      "kind": "body",
-      "text": "the initiative, acting before you, and\n",
-      "sourceLocation": "pdf:spans:[[35,499,538]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0015",
-      "kind": "body",
-      "text": "will have +1 to its L for the duration\n",
-      "sourceLocation": "pdf:spans:[[35,538,577]]"
-    },
-    {
-      "id": "section-stealth-rolls:p0016",
-      "kind": "body",
-      "text": "of the combat.\n",
-      "sourceLocation": "pdf:spans:[[35,577,592]]"
+      "text": "Sometime, you are given the option\nto act unnoticed by an opponent,\nor to slip past a guard. This requires\na Stealth save vs. the target’s L. Roll\nat +1 if you have the Stealth Skill\nand at +2 if you have Stealth\n(Expert). If you succeed, you can\neither attack that opponent at +2\non your first attack (due to surprise)\nor slip past that enemy unnoticed\n(you may move through the box as\nif the opponent did not exist). If you\nfail, the enemy will attack and gain\nthe initiative, acting before you, and\nwill have +1 to its L for the duration\nof the combat.\n",
+      "sourceLocation": "pdf:spans:[[35,36,71],[35,71,104],[35,104,143],[35,143,183],[35,183,219],[35,219,249],[35,249,283],[35,283,317],[35,317,356],[35,356,390],[35,390,423],[35,423,462],[35,462,499],[35,499,538],[35,538,577],[35,577,592]]"
     }
   ],
   "sourcePages": [

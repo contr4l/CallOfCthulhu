@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "70",
+    "frost-auto-70"
+  ],
+  "text": [
+    "恶心！不可思议！石头上爬着一群粉红色的龙虾状生物，个头和人一样大！一声疯狂的尖叫响起——过了一会儿你才意识到，尖叫的人正是自己。",
+    "你冲回同伴身边，大喊：“我们快离开这里！”他们也跟着你跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 70",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 70",
+      "text": [
+        "Hideous! Unbelievable! Man-sized pink lobster-like things crawling over the stones! You hear an insane shriek—and a moment passes before you realize the scream was yours.",
+        "You dash back to your comrades yelling: “Let’s get out of here!” They race after you."
+      ]
+    }
+  }
+}

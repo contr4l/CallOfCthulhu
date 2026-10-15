@@ -1,0 +1,33 @@
+{
+  "id": "section-children-s-stuff-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "8cdc3b3e74a2d02b6aee7ceccf2cb94c7f5a54dff734b079c29c958f76e68e84",
+  "paragraphs": [
+    {
+      "id": "section-children-s-stuff-table:p0",
+      "text": "儿童物品表（D6）"
+    },
+    {
+      "id": "section-children-s-stuff-table:p1",
+      "text": "1 找到一只穿着溅血连衣裙的诡异娃娃。可选择拿走（算作1件携带物品）。\n2 找到一盒塑料拼插积木。可选择拿走（算作1件携带物品）。"
+    },
+    {
+      "id": "section-children-s-stuff-table:p2",
+      "text": "3\n找到一本9岁孩子署名的写生簿。里面画着父母头戴山羊角的写实画作，令人不安。你意识到画中棕色颜料是干涸的血。进行L2恐惧防御检定，失败则损失1点理智。获得1点线索。"
+    },
+    {
+      "id": "section-children-s-stuff-table:p3",
+      "text": "4\n找到一段打了几个结的绳子。若有神秘学指南，游玩事件#36。可以保留绳子；找到神秘学指南后立即前往事件#36。绳子重量可忽略。"
+    },
+    {
+      "id": "section-children-s-stuff-table:p4",
+      "text": "5\n找到一个橡胶面具，看起来像小丑的脸。重量可忽略。你可以戴上，并将关键词CLOWNFACE记在角色记录上；但魅力检定-1。"
+    },
+    {
+      "id": "section-children-s-stuff-table:p5",
+      "text": "6\n找到一只刻成南瓜灯的南瓜。若有蜡烛，可以点燃并放入其中；若这样做，游玩事件#40。南瓜算作1件携带物品。\n以上物品均为独一无二。若掷出已掷过的结果，重掷直到得到不同结果。若已找到或丢弃上面全部物品，却仍被要求掷此表，则改掷有用物品表或随机物品表（由你选择）。"
+    }
+  ],
+  "notes": []
+}

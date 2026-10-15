@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "389",
+    "frost-auto-389"
+  ],
+  "text": [
+    "你们三人在岩棚下待了一夜。黎明时，雪怪走来抓住你们的手臂，把你单独拖出营地。“教授？”诺曼听起来很紧张。你提醒他别冲动行事，同时也希望自己说话时有那么自信。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 389",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 389",
+      "text": [
+        "The three of you remain under the overhang all night. At dawn, the sasquatches come and seize you by the arms. They drag you, and you alone, from camp. “Professor?” Norman sounds nervous. You warn him against impulsive moves, wishing you felt as confident as you sound."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "324"
+  ],
+  "text": [
+    "你和两名学生在无路可循的森林中跋涉，口粮所剩无几。短暂夏季渐渐结束，崎岖的亚寒带秋季到来，空气一天比一天冷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 324",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 324",
+      "text": [
+        "You and the two students travel over trackless woods on short rations. From day to day, the air cools as the short summer declines into the rugged subarctic autumn."
+      ]
+    }
+  }
+}

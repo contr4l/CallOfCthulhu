@@ -1,0 +1,17 @@
+{
+  "id": "section-hunting",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "6dd213a7d4ce58bf9e16a44397ac1df845b2b4c842f2c86b02324706122328e0",
+  "paragraphs": [
+    {
+      "id": "section-hunting:p0",
+      "text": "追踪猎物"
+    },
+    {
+      "id": "section-hunting:p1",
+      "text": "若要寻找某个特定生物（例如连环杀手），可支付等同于该生物L的线索，在你下一个进入的格子遭遇它。拥有调查员技能时，所需线索减少1；专家级调查员减少2。"
+    }
+  ],
+  "notes": []
+}

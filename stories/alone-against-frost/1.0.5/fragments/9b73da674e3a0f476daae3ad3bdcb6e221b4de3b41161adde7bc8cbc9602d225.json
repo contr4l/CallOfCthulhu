@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "650"
+  ],
+  "text": [
+    "“伯纳德刚才还像你离开时那样昏迷着躺在火边。下一分钟人就不见了。”诺曼说。“我们沿足迹找到河边。看起来足迹进了河，却没有出来。”搜查周围也证实了他的说法。你们别无他法。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 650",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 650",
+      "text": [
+        "“One minute Bernard was lying by the fire, unconscious, like you left him. The next minute he was gone,” Norman says. “We followed his tracks to the river. As far as we can tell, they go in and don’t come out.” A search of the area confirms his report. You can do nothing further."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "13",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "13:p0",
+      "kind": "heading",
+      "text": "#13 - The Clown’s Mask\n",
+      "sourceLocation": "pdf:spans:[[83,385,408]]"
+    },
+    {
+      "id": "13:p1",
+      "kind": "body",
+      "text": "The clown is wearing a rubber\nmask. He is not anyone you know.\nAs you unmask him, you realize\nthat the mask is alive. Its mind is in\nyour head, and is trying to force\nyou to wear the mask. You may\nthrow away the mask and return\nto your activities, or put it on by\ngoing to #15.\n",
+      "sourceLocation": "pdf:spans:[[83,408,438],[83,438,471],[83,471,502],[83,502,541],[83,541,575],[83,575,605],[83,605,636],[83,636,672],[83,672,686]]"
+    }
+  ]
+}

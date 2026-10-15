@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "414"
+  ],
+  "text": [
+    "你躲进阴影，屏住浅浅的呼吸，仔细聆听。附近某处树叶沙沙作响。远处是不是传来了嗡鸣？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 414",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 414",
+      "text": [
+        "You press yourself into the shadows, listening hard and keeping your breaths shallow. Somewhere nearby, leaves rustle. Is that a buzzing in the distance?"
+      ]
+    }
+  }
+}

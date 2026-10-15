@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "245"
+  ],
+  "text": [
+    "你把西尔维娅扶起。她双眼空洞，仿佛视线穿过了你。诺曼着手扎营，试图营造熟悉的环境。她在睡袋里躺了几个小时后，似乎终于恢复过来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 245",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 245",
+      "text": [
+        "You pick Sylvia up off the ground. Her eyes stare through you, vacant. Norman sets up camp, attempting to create a familiar environment. After a few hours in her bedroll, Sylvia seems to come out of it."
+      ]
+    }
+  }
+}

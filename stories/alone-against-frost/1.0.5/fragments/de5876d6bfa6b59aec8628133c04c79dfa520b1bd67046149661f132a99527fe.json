@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "455",
+    "frost-auto-455"
+  ],
+  "text": [
+    "一阵飓风把你从伊塔库亚神庙中吹了出去。神庙外，狂风仍在拱门间怒吼，带着刺骨的寒意。",
+    "你看见学生们一边按住帽子，一边挣扎着寻找立足点。狂风发出恶毒的尖啸，撕扯着他们。西尔维娅最先被卷离地面，头发在脸上狂舞，她徒劳地挥动四肢。诺曼试图趴下，双腿却被掀起，手指拼命抓着地面。最后是伯纳德；他凝视着你的双眼，缓缓升空。他们像尘卷风中的枯叶一样被卷向天空。天空变暗，充满压迫性的存在——来自彼方的神！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 455",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 455",
+      "text": [
+        "A hurricane blasts you from the temple of Ithaqua.It continues outside, roaring through the arch with a cold fury.",
+        "You see your students, holding hats to heads and scrabbling for purchase. The winds tear at them with a malignant scream. Sylvia is the first to leave the ground, hair whipping around her face as she flails. Norman tries to fall prone, but his legs lift as his fingers try to grip the earth. Bernard is last, staring into your eyes as he levitates. Their figures swirl into the sky like dry leaves in a dust devil. The sky darkens and fills with a crushing, oppressive presence. A god from Beyond!"
+      ]
+    }
+  }
+}

@@ -12,6 +12,7 @@ export function allocationInput(
   rng: (min: number, max: number) => number,
 ): Record<string, number | string> {
   if (input.kind === "number") return { value: input.min };
+  if (input.kind !== "allocation") throw new Error("潮汐路线工具不接受其他剧本的分配输入");
   const a = input.allocation,
     values: Record<string, number | string> = {};
   const allowed = input.skills.filter(

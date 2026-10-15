@@ -17,24 +17,18 @@
     {
       "id": "119:p2",
       "kind": "body",
-      "text": "29",
-      "sourceLocation": "pdf:visual:[[30,35]]"
-    },
-    {
-      "id": "119:p3",
-      "kind": "body",
       "text": "Something  presses  down  upon  you,  something  oppressive \nand stifling. It forces you to your knees in the pebbly sand. Is \nthis real or some creation of your imagination?",
       "sourceLocation": "pdf:visual:[[30,37],[30,38],[30,39]]"
     },
     {
-      "id": "119:p4",
+      "id": "119:p3",
       "kind": "body",
       "text": "This attack has a POW of 80. Make an opposed roll with your own \nPOW. If you win, go to 120. If you lose, go to 162. ",
       "sourceLocation": "pdf:visual:[[30,40],[30,41]]"
     },
     {
-      "id": "119:p5",
-      "kind": "trace",
+      "id": "119:p4",
+      "kind": "body",
       "text": "(67, 126, 597)",
       "sourceLocation": "pdf:visual:[[30,42]]"
     }

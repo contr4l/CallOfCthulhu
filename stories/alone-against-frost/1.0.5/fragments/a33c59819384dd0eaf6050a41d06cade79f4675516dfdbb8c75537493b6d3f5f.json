@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "241"
+  ],
+  "text": [
+    "西尔维娅发出一声尖锐的嚎叫，冲进了草木深处。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 241",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 241",
+      "text": [
+        "Sylvia lets out a high-pitched yowl and dashes off into the vegetation."
+      ]
+    }
+  }
+}

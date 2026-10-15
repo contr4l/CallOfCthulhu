@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "636"
+  ],
+  "text": [
+    "冰冷光束造成的伤害没有你担心的那么严重。伯纳德被扶到附近林间空地休息，逐渐暖和起来并恢复体力。你们可以继续探索。但神秘飞行生物还会不会回来？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 636",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 636",
+      "text": [
+        "The cold blast did not hurt Bernard as badly as you feared. Helped to the shelter of a nearby glade, he warms up and recovers his strength. You can explore further. But can you risk the return of the mysterious flying being?"
+      ]
+    }
+  }
+}

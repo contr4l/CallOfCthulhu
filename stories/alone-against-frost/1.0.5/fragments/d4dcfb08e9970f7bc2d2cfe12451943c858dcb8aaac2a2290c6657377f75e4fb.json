@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "586"
+  ],
+  "text": [
+    "你们小心沿着图苏蒂纳被放逐者离开的路线前进。要追踪这些经验丰富的林地居民并不容易。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 586",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 586",
+      "text": [
+        "Your party moves carefully along the trail of the departing Tsuut’ina outcasts. To track these practiced woodsmen will not be easy."
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "section-cemetery-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "76ded946bd6d76a1edb51228145b718882c900e92ef4871f8093bd30cc3089e1",
+  "paragraphs": [
+    {
+      "id": "section-cemetery-table:p0",
+      "text": "墓地表（D6）"
+    },
+    {
+      "id": "section-cemetery-table:p1",
+      "text": "1 掷不死生物表。\n2 遇到乐于助人的人。恢复1点生命。\n3 掷独特僵尸表。"
+    },
+    {
+      "id": "section-cemetery-table:p2",
+      "text": "4\n安全屋：找到一处易于防守的地方。每次到访都可恢复至多2点理智和4点生命。到访安全屋时无需掷随机遭遇。若掷出此结果时场上已有3个安全屋，则建立一个新安全屋，但距离当前位置最近的安全屋不再算安全屋。确定最近者时，计算城镇地图上到达该处需经过的格数。若两个安全屋距离相同，随机选择。\n5 掷独特吸血鬼表。\n6 掷鬼魂表。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "176"
+  ],
+  "text": [
+    "刹那间，你想起了风行者的传说——那些在北方发疯、被荒野食人恶魔附身的人。你摇摇头，觉得自己一定是在森林里待得太久，才会考虑这种荒唐事。",
+    "这时西尔维娅从营火旁回来，给陌生人端来一碗肉汤。他厌恶地瞥了眼冒着热气的碗，把它推开，滚烫的汤洒在你的学生腿上。",
+    "你想起来了：风行者是冰雪构成的生物，不敢喝这么烫的汤。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 176",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 176",
+      "text": [
+        "In a flash, you remember the legends of the wind-walker— those who go mad in the Northland and become possessed by cannibal demons of the wild. You shake your head; you must be going woods-happy to consider such nonsense.",
+        "At that moment Sylvia returns from the campfire, carrying a bowl of broth for the stranger. He glances into the steaming bowl with a look of disgust and pushes it away, spilling some of the hot stuff on your student’s leg.",
+        "The wind-walker is a creature of ice, you remember. It dares not drink anything so hot as the broth."
+      ]
+    }
+  }
+}

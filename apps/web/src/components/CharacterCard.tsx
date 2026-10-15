@@ -13,9 +13,18 @@ export function CharacterCard({
   compact?: boolean;
 }) {
   const [expanded, setExpanded] = useState(false);
+  const d6 = c.rulesVersion === "aaf-solo@1";
   const keys = Object.keys(c.skills);
-  const featured =
-    keys.length <= 6
+  const label = (key: string) =>
+    c.skillNames?.[key] ??
+    (key === "languageOwn" && c.specializations?.[key]
+      ? `母语（${c.specializations[key]}）`
+      : c.specializations?.[key]
+        ? `${skillLabels[key] ?? key}（${c.specializations[key]}）`
+        : (skillLabels[key] ?? key));
+  const featured = d6
+    ? keys.filter((key) => c.skills[key] > 0).slice(0, 6)
+    : keys.length <= 6
       ? keys
       : [
           "spotHidden",
@@ -33,7 +42,9 @@ export function CharacterCard({
           <UserRound size={30} />
         </span>
       </div>
-      <span className="section-eyebrow">INVESTIGATOR</span>
+      <span className="section-eyebrow">
+        {d6 ? "SURVIVOR" : "INVESTIGATOR"}
+      </span>
       <h2>{c.name}</h2>
       <p>{c.occupation}</p>
       {!compact && c.sourceStoryTitle && (
@@ -54,14 +65,19 @@ export function CharacterCard({
         </div>
         <div>
           <span>理智</span>
-          <strong>{c.sanity}</strong>
+          <strong>
+            {c.sanity}
+            {c.maxSanity !== undefined && <small>/{c.maxSanity}</small>}
+          </strong>
         </div>
-        <div>
-          <span>幸运</span>
-          <strong>{c.luck}</strong>
-        </div>
+        {!d6 && (
+          <div>
+            <span>幸运</span>
+            <strong>{c.luck}</strong>
+          </div>
+        )}
       </div>
-      {c.attributes && (
+      {c.attributes && !d6 && (
         <div className="attribute-grid">
           {Object.entries(c.attributes).map(([key, value]) => (
             <div key={key}>
@@ -76,7 +92,7 @@ export function CharacterCard({
           ))}
         </div>
       )}
-      {c.mp !== undefined && (
+      {c.mp !== undefined && !d6 && (
         <div className="derived-stats">
           <span>魔法 {c.mp}</span>
           <span>伤害加值 {c.damageBonus}</span>
@@ -87,12 +103,12 @@ export function CharacterCard({
       {expanded ? (
         <div className="character-sheet-scroll">
           <table className="character-sheet">
-            <caption>技能检定值</caption>
+            <caption>{d6 ? "技能掌握程度" : "技能检定值"}</caption>
             <thead>
               <tr>
                 <th>技能</th>
-                <th>{compact ? "当前" : "普通"}</th>
-                {!compact && (
+                <th>{d6 ? "等级" : compact ? "当前" : "普通"}</th>
+                {!compact && !d6 && (
                   <>
                     <th>困难</th>
                     <th>极难</th>
@@ -103,13 +119,14 @@ export function CharacterCard({
             <tbody>
               {keys.map((key) => (
                 <tr key={key}>
-                  <th>
-                    {c.specializations?.[key]
-                      ? `${skillLabels[key] ?? key}（${c.specializations[key]}）`
-                      : (skillLabels[key] ?? key)}
-                  </th>
-                  <td>{c.skills[key]}</td>
-                  {!compact && (
+                  <th>{label(key)}</th>
+                  <td>
+                    {d6
+                      ? (["未掌握", "基础", "专家"][c.skills[key]] ??
+                        c.skills[key])
+                      : c.skills[key]}
+                  </td>
+                  {!compact && !d6 && (
                     <>
                       <td>{Math.floor(c.skills[key] / 2)}</td>
                       <td>{Math.floor(c.skills[key] / 5)}</td>
@@ -124,15 +141,17 @@ export function CharacterCard({
         <div className="skills">
           {featured.map((key) => (
             <div key={key}>
-              <span>
-                {c.specializations?.[key]
-                  ? `${skillLabels[key] ?? key}（${c.specializations[key]}）`
-                  : (skillLabels[key] ?? key)}
-              </span>
-              <span className="skill-bar">
-                <i style={{ width: `${c.skills[key]}%` }} />
-              </span>
-              <strong>{c.skills[key]}</strong>
+              <span>{label(key)}</span>
+              {!d6 && (
+                <span className="skill-bar">
+                  <i style={{ width: `${c.skills[key]}%` }} />
+                </span>
+              )}
+              <strong>
+                {d6
+                  ? (["未掌握", "基础", "专家"][c.skills[key]] ?? c.skills[key])
+                  : c.skills[key]}
+              </strong>
             </div>
           ))}
         </div>

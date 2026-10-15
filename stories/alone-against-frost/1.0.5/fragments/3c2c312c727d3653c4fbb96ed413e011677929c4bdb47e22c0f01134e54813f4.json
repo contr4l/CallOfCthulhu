@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "344",
+    "frost-auto-344"
+  ],
+  "text": [
+    "你奋力爬上树枝，正赶上时候！野兽跃起、咆哮、嘶吼，但你的落脚处很稳固。最后它们穿过草甸离开了。险些丧命的经历提醒你：自己根本没有做好探索这片土地的准备。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 344",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 344",
+      "text": [
+        "You scramble higher into the tree. Just in time! The beasts leap, growl, and snarl, but your perch is secure. At last, they trek off across the meadow. Your narrow escape emphasizes that you are ill-equipped to explore this land."
+      ]
+    }
+  }
+}

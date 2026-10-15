@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "433"
+  ],
+  "text": [
+    "在河上漂流多日、在森林中度过许多夜晚之后，如今坐在闷热的房间里回答有关你行为的问题，感觉十分陌生。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 433",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 433",
+      "text": [
+        "After so many days on the river and nights in the woods, it feels strange to sit in a stifling room and answer questions about your conduct."
+      ]
+    }
+  }
+}

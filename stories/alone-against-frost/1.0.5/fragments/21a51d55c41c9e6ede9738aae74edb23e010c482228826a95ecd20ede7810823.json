@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "220",
+    "frost-auto-220"
+  ],
+  "text": [
+    "你听见营地铺满干燥地衣的地面上传来动静，转身举起步枪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 220",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 220",
+      "text": [
+        "You hear movement across the dry lichen that carpets the campsite. You turn and lift your rifle."
+      ]
+    }
+  }
+}

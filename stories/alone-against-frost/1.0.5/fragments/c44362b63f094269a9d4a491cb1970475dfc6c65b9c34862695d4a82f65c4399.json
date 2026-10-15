@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "322"
+  ],
+  "text": [
+    "西尔维娅刚开始滑向诺曼，你就抓住了她的脚。你奋力拉扯了几秒，终于把他们两人都安全地拉上崖边。你们几乎没有时间庆幸死里逃生，因为返回家园的胜算仍然渺茫。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 322",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 322",
+      "text": [
+        "You grab Sylvia’s feet just as she begins to slide down after Norman. You battle for a few seconds until you have both of them safely up on the cliff beside you. Your party can spare little time to celebrate its preservation. The odds are still against returning safely home."
+      ]
+    }
+  }
+}

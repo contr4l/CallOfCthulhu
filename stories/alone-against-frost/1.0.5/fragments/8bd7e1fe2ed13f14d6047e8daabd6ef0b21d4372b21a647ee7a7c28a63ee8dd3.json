@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "270"
+  ],
+  "text": [
+    "受伤的狼从诺曼身上退开，你迅速转向西尔维娅。但已经来不及救她了。你怒不可遏地攻击那头狼，把它从猎物身边赶开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 270",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 270",
+      "text": [
+        "The stricken wolf falls away from Norman and you turn swiftly toward Sylvia. But, it is too late for her. In a rage, you attack the beast and drive it from its kill."
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "21",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "21:p0",
+      "kind": "heading",
+      "text": " #21 - digging around the tree\n",
+      "sourceLocation": "pdf:spans:[[85,506,537]]"
+    },
+    {
+      "id": "21:p1",
+      "kind": "body",
+      "text": "As your shovel breaks through the\nsoft ground, seven moaning,\nghostly children emerge from the\nground and stare at you with\naccusing eyes. Dark blood drips\nfrom their mouths. Their necks\nhave bruises and abrasions,\nprobably the signs of the ropes\nwith which someone hanged them.\n“Find those who killed us. Bury\nthem with us. Until you do so, a\ncurse will be on you”.\nYou are now cursed by the Seven\nSacrifices. Every time you play\nthrough a numbered event, you\nlose 1 Sanity. The only way to\nbreak the curse is to capture the\nRosen family and bring them here\n(to the location where the Rosen\nHouse is).\nIf you didn’t do so already, you\nmay climb the walnut tree (#19) or\nexplore the Rosen mansion (#20).\nRemember to subtract 1 Sanity per\nevery numbered event you visit.\nApply the loss at the end of the\nevent.\n",
+      "sourceLocation": "pdf:spans:[[85,537,571],[85,571,599],[85,599,632],[85,632,661],[85,661,693],[85,693,724],[85,724,752],[85,752,784],[85,784,816],[85,816,848],[85,848,881],[85,881,904],[85,904,936],[85,936,968],[85,968,998],[85,998,1029],[85,1029,1063],[85,1063,1096],[85,1096,1129],[85,1129,1140],[85,1140,1173],[85,1173,1208],[85,1208,1241],[85,1241,1275],[85,1275,1307],[85,1307,1340],[85,1340,1347]]"
+    }
+  ]
+}

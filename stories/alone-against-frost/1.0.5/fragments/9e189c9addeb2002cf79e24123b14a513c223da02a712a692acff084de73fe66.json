@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "190",
+    "frost-auto-190"
+  ],
+  "text": [
+    "足迹爬上陡峭的碎石坡后便消失了。你搜索了一整天，仍没能重新找到踪迹。最后，你和诺曼默默坐在一起。你们谁都不愿承认，西尔维娅和伯纳德一样下落不明。但你们已经无计可施，只能试着返回文明世界。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 190",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 190",
+      "text": [
+        "When the tracks climb a slope of jagged talus, the trail vanishes. You search for the remainder of the day but fail to reacquire it. Finally, you and Norman sit together in silence. Neither of you wants to admit that Sylvia is just as lost as Bernard. But you are out of options and must attempt to return to civilization."
+      ]
+    }
+  }
+}

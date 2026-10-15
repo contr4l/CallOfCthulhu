@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "38",
+    "frost-auto-38"
+  ],
+  "text": [
+    "你和诺曼为西尔维娅的失踪而神情凝重。商量过后，你们一致认为必须抓住这个惊人的机会，于是朝隐秘山谷的腹地进发。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 38",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 38",
+      "text": [
+        "Grim-faced over the loss of Sylvia, you and Norman confer and agree you must pursue this astonishing opportunity. You head into the heart of the hidden valley."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "177"
+  ],
+  "text": [
+    "学生们不会理解你的举动。但你是探险队领队，他们的生死由你负责。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 177",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 177",
+      "text": [
+        "The students will not understand your action. But you are the expedition leader, and their survival is your responsibility."
+      ]
+    }
+  }
+}

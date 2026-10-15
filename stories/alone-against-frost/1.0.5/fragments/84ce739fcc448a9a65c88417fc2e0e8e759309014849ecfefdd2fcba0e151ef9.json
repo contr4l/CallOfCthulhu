@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "79"
+  ],
+  "text": [
+    "子弹击中后，陌生人踉跄着向后退去，脸上带着惊骇的表情，随后倒下。你急忙上前。简单检查便证实了最坏的结果。你杀死——谋杀了——一名无辜的人，他很可能是迷路的猎人或勘探者。你回头看向惊恐的学生们。",
+    "如果你们能回到文明世界，西尔维娅和诺曼就不得不把事情经过说出来。即使事出有因，能够以过失杀人辩护，你要坐多少年牢？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 79",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 79",
+      "text": [
+        "The stranger stumbles backward under the bullet’s impact and collapses with a thunderstruck grimace. You hurry to him. A brief examination confirms the worst. You have killed— murdered—an innocent man, probably a lost woodsman or prospector. You glance back at the horrified students.",
+        "If you get back to civilization, Sylvia and Norman will be obliged to recount what happened. Even if circumstances allow a manslaughter plea, how many years will that mean in prison?"
+      ]
+    }
+  }
+}

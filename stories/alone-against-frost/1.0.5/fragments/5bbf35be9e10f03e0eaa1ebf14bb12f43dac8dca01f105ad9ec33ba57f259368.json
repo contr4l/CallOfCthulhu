@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "7"
+  ],
+  "text": [
+    "河水如巨人挥出的一记上勾拳，重重撞上你们脆弱的小船，将它掀翻，把全队抛进汹涌的回旋急流中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 7",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 7",
+      "text": [
+        "The river strikes your fragile vessel with a titanic uppercut, upending it and hurling your party into the surging boil."
+      ]
+    }
+  }
+}

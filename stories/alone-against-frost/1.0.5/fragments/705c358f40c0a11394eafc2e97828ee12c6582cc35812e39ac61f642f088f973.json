@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "282",
+    "frost-auto-282"
+  ],
+  "text": [
+    "西尔维娅一动不动地躺在诺曼怀里。他看起来像一头进食时受惊的野兽。这个比喻再恰当不过：女孩浑身是血，身上布满可怕的、如咬伤般的小伤口。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 282",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 282",
+      "text": [
+        "Sylvia sprawls lifeless in Norman’s arms. He looks like a beast startled whilst feeding. And the observation is apt, for the girl is drenched in blood from terrible, bite-sized wounds."
+      ]
+    }
+  }
+}

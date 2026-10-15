@@ -1,0 +1,264 @@
+{
+  "format": "coc-frost-character-audit@1",
+  "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+  "visualReview": "Rendered the original character-sheet pages at 160 DPI and compared OCR against the visible printed values. OCR text remains an index, not the authority.",
+  "characters": [
+    {
+      "id": "nadelmann",
+      "source": {
+        "pdfPage": 111,
+        "printedPage": 110
+      },
+      "role": "player",
+      "age": 29,
+      "attributes": {
+        "str": 65,
+        "con": 85,
+        "siz": 70,
+        "dex": 70,
+        "app": 70,
+        "pow": 80,
+        "int": 90,
+        "edu": 90
+      },
+      "derived": {
+        "hp": 15,
+        "sanity": 80,
+        "luck": 85,
+        "mp": 16,
+        "movement": 8,
+        "damageBonus": "+1D4",
+        "build": 1
+      },
+      "skillMode": "guided allocation: 360 professional points among Anthropology, History, Library Use, Natural World, Other Language, Own Language (English), Psychology, Persuade; Anthropology minimum 75; 180 personal-interest points. Printed sheet shows Credit Rating 64 and Own Language (English) 90.",
+      "review": "Attributes and derived values visually checked. Skill allocation is player-built; printed skill values must not be treated as a fixed preset.",
+      "printedSkillValues": {
+        "Credit Rating": 64,
+        "Language (Own) English": 90
+      }
+    },
+    {
+      "id": "sylvia-davidson",
+      "source": {
+        "pdfPage": 113,
+        "printedPage": 112
+      },
+      "role": "companion",
+      "age": 23,
+      "sex": "F",
+      "attributes": {
+        "str": 50,
+        "con": 60,
+        "siz": 50,
+        "dex": 65,
+        "app": 55,
+        "pow": 70,
+        "int": 60,
+        "edu": 84
+      },
+      "derived": {
+        "hp": 11,
+        "sanity": 70,
+        "luck": 65,
+        "mp": 14,
+        "movement": 8,
+        "damageBonus": "none",
+        "build": 0
+      },
+      "review": "All printed non-default skill values, attributes and derived values visually checked against the original character sheet; OCR kept as a separate fallible index.",
+      "skillValues": {
+        "Anthropology": 40,
+        "Climb": 40,
+        "Dodge": 32,
+        "Fighting (Brawl)": 25,
+        "Hatchet": 25,
+        "Firearms (Rifle/Shotgun)": 40,
+        "First Aid": 35,
+        "Language (Own) English": 84,
+        "Listen": 50,
+        "Navigate": 10,
+        "Pilot (Boat)": 30,
+        "Psychology": 10,
+        "Psychoanalysis": 1,
+        "Science (Geology)": 15,
+        "Sleight of Hand": 25,
+        "Stealth": 40,
+        "Survival (Woodland)": 10,
+        "Swim": 40,
+        "Throw": 10
+      }
+    },
+    {
+      "id": "norman-falkner",
+      "source": {
+        "pdfPage": 115,
+        "printedPage": 114
+      },
+      "role": "companion",
+      "age": 41,
+      "sex": "M",
+      "attributes": {
+        "str": 60,
+        "con": 80,
+        "siz": 60,
+        "dex": 70,
+        "app": 45,
+        "pow": 75,
+        "int": 65,
+        "edu": 74
+      },
+      "derived": {
+        "hp": 14,
+        "sanity": 75,
+        "luck": 55,
+        "mp": 15,
+        "movement": 7,
+        "damageBonus": "none",
+        "build": 0
+      },
+      "review": "All printed non-default skill values, attributes and derived values visually checked against the original character sheet; OCR kept as a separate fallible index.",
+      "skillValues": {
+        "Anthropology": 30,
+        "Climb": 45,
+        "Dodge": 35,
+        "Fighting (Brawl)": 55,
+        "Hatchet": 55,
+        "Firearms (Rifle/Shotgun)": 50,
+        "First Aid": 35,
+        "Language (Own) English": 74,
+        "Listen": 30,
+        "Navigate": 10,
+        "Pilot (Boat)": 40,
+        "Psychology": 25,
+        "Psychoanalysis": 1,
+        "Science (Geology)": 20,
+        "Sleight of Hand": 10,
+        "Stealth": 40,
+        "Survival (Woodland)": 20,
+        "Swim": 40,
+        "Track": 15
+      }
+    },
+    {
+      "id": "charlie-foxtail",
+      "source": {
+        "pdfPage": 117,
+        "printedPage": 116
+      },
+      "role": "companion",
+      "age": 35,
+      "sex": "F",
+      "attributes": {
+        "str": 65,
+        "con": 85,
+        "siz": 55,
+        "dex": 55,
+        "app": 60,
+        "pow": 55,
+        "int": 50,
+        "edu": 43
+      },
+      "derived": {
+        "hp": 14,
+        "sanity": 55,
+        "luck": 45,
+        "mp": 11,
+        "movement": 8,
+        "damageBonus": "none",
+        "build": 0
+      },
+      "review": "All printed non-default skill values, attributes and derived values visually checked against the original character sheet; OCR kept as a separate fallible index.",
+      "skillValues": {
+        "Anthropology": 1,
+        "Climb": 80,
+        "Dodge": 27,
+        "Fighting (Brawl)": 50,
+        "Axe": 50,
+        "Firearms (Rifle/Shotgun)": 70,
+        "First Aid": 50,
+        "Language (Other) English": 43,
+        "Language (Own) Tsuut’ina": 65,
+        "Listen": 70,
+        "Navigate": 70,
+        "Pilot (Boat)": 60,
+        "Psychology": 25,
+        "Psychoanalysis": 1,
+        "Science (Geology)": 1,
+        "Sleight of Hand": 10,
+        "Stealth": 85,
+        "Survival (Woodland)": 85,
+        "Swim": 50,
+        "Track": 80
+      }
+    },
+    {
+      "id": "bernard-ebstein",
+      "source": {
+        "pdfPage": 119,
+        "printedPage": 118
+      },
+      "role": "companion",
+      "age": 22,
+      "sex": "M",
+      "attributes": {
+        "str": 55,
+        "con": 70,
+        "siz": 65,
+        "dex": 60,
+        "app": 75,
+        "pow": 70,
+        "int": 55,
+        "edu": 82
+      },
+      "derived": {
+        "hp": 13,
+        "sanity": 70,
+        "luck": 25,
+        "mp": 14,
+        "movement": 7,
+        "damageBonus": "none",
+        "build": 0
+      },
+      "review": "All printed non-default skill values, attributes and derived values visually checked against the original character sheet; OCR kept as a separate fallible index.",
+      "skillValues": {
+        "Anthropology": 40,
+        "Climb": 60,
+        "Dodge": 30,
+        "Fighting (Brawl)": 25,
+        "Hatchet": 25,
+        "Firearms (Rifle/Shotgun)": 25,
+        "First Aid": 30,
+        "Language (Own) English": 82,
+        "Listen": 35,
+        "Navigate": 65,
+        "Pilot (Boat)": 30,
+        "Psychology": 10,
+        "Psychoanalysis": 1,
+        "Science (Geology)": 15,
+        "Sleight of Hand": 10,
+        "Stealth": 35,
+        "Survival (Woodland)": 10,
+        "Swim": 40,
+        "Track": 10
+      }
+    }
+  ],
+  "runtimeCorrection": {
+    "version": "1.0.5",
+    "creditRating": 64,
+    "hatchetBase": 15,
+    "hatchetBaseIsWebAdaptation": true,
+    "authorization": "User 2026-10-14: subsequent necessary web adaptations use the recommended minimal treatment",
+    "sourceEvidence": {
+      "pdfPage": 111,
+      "printedPage": 110,
+      "renderPath": "scripts/alone-against-frost/ocr/page-111.png",
+      "renderSha256": "ccd61f75e2f25f8ae8e8429a0ca6fe9c5e894601f994640ee3d7e3c249de736f"
+    },
+    "references": [
+      "https://cthulhuwiki.chaosium.com/equipment/weapons.html",
+      "https://www.chaosium.com/content/FreePDFs/BRP/BRP%20SRD%20-%20V1.0.pdf"
+    ],
+    "rationale": "Credit Rating 64 is printed, not an adaptation. Hatchet has a separate blank skill row; using Brawl ignores the player allocation. Use its own skill with an explicitly adapted 15 base and the printed companion values; Charlie’s Axe label is aliased to Hatchet. Damage stays printed 1D6+1+DB. No existing candidate or save is rewritten."
+  }
+}

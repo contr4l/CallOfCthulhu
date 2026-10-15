@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "55"
+  ],
+  "text": [
+    "北汉尼纳河传说中的浓雾向你们逼近。白天看不见太阳，夜晚星辰也被遮蔽。某种磁场异常还干扰了指南针。究竟因为这里靠近磁极，还是另有原因，你无法确定；但队伍已经迷路，你完全不知道河流位于哪个方向。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 55",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 55",
+      "text": [
+        "The legendary mists of the North Hanninah press in. By day, you cannot see the sun, and by night the stars are obscured. Some magnetic anomaly also affects your compass. Whether it is the proximity to the pole or some other reason, you cannot say, but your party has gotten itself lost and you have no idea in which direction the river lies."
+      ]
+    }
+  }
+}

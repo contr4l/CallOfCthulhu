@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "242"
+  ],
+  "text": [
+    "你登上独木舟，顺流而下。下一处休息地点鱼兽丰足，一顿饱餐令你们恢复不少。终于，你们来到查理·狐尾所说的那段险恶河道——“分流之地”。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 242",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 242",
+      "text": [
+        "You climb aboard the canoe and set out downriver. At your next rest spot, fish and game abound. A good meal does wonders to restore you. At last, you come to the treacherous segment of the river that Charlie Foxtail called “the place of splitting water.”"
+      ]
+    }
+  }
+}

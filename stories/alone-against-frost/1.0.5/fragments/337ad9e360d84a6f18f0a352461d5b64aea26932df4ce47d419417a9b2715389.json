@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "651",
+    "frost-auto-651"
+  ],
+  "text": [
+    "查理的脸突然扭曲，燃起异样的怒火。你凭本能把燃烧的木棒刺进她被诅咒的心脏。",
+    "被刺穿的风行者咯咯作响，踉跄倒下。你看着她的身体不断缩小、向内塌陷，很快只剩下一堆骨头。",
+    "诺曼和西尔维娅被动静惊醒，走上前来，盯着地上的白骨。你决定不把全部经过告诉他们。明早，你们就开始长途跋涉，返回麦克唐纳堡。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 651",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 651",
+      "text": [
+        "Charlie’s face twists in a sudden blaze of alien fury. On instinct, you ram the blazing brand into her cursed heart.",
+        "The impaled wind-walker gurgles, staggers, and falls. As you watch, her body shrinks, collapsing in upon itself. Soon nothing is left but bones.",
+        "Norman and Sylvia approach, awakened by the disturbance. They stare at the bones on the ground. You decide to spare them the full story. In the morning, you will begin the long trek back to Fort McDonald."
+      ]
+    }
+  }
+}

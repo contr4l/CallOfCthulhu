@@ -1,0 +1,37 @@
+{
+  "id": "section-unique-zombies-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "915ca91220ad8f14c746be2606e45ed1df574417fd5a1d929b1fe4f37feb4932",
+  "paragraphs": [
+    {
+      "id": "section-unique-zombies-table:p0",
+      "text": "独特僵尸表（D6）1点经验"
+    },
+    {
+      "id": "section-unique-zombies-table:p1",
+      "text": "1\n僵尸虎：L5不死生物，生命6，伤害2。防御检定掷出1时，僵尸虎会撕咬你的身体，你必须掷伤残表。若你已有3处伤残，则改为损失3点生命。"
+    },
+    {
+      "id": "section-unique-zombies-table:p2",
+      "text": "2\n僵尸松鼠群：L4不死生物，生命8，伤害1。整群视为一个生物。每回合掷2/6概率检查是否失去1件自选携带物品，或2点食物（二选一）；直到松鼠群被击败。"
+    },
+    {
+      "id": "section-unique-zombies-table:p3",
+      "text": "3\n你的僵尸宠物：L3不死生物，生命3，伤害1。每回合必须通过L3意志检定（加上意志技能加值），否则无法攻击这只从宠物墓园归来的宠物。"
+    },
+    {
+      "id": "section-unique-zombies-table:p4",
+      "text": "4\n你的僵尸朋友：L5不死生物，生命4，伤害1，行动迟缓。每回合必须通过L3意志检定；拥有意志技能+1，专家级意志+2。失败则无法攻击这位从坟墓中归来、想吃掉你的故友（配偶、亲属等，可自行补充细节）。"
+    },
+    {
+      "id": "section-unique-zombies-table:p5",
+      "text": "5\nD6只食脑者：L5不死生物，每只生命1，伤害1。若与3只或更多食脑者战斗时防御检定掷出1，你会被抓住；在数量降至2只或更少前不能逃脱。"
+    },
+    {
+      "id": "section-unique-zombies-table:p6",
+      "text": "6\n僵尸畸怪：L7不死生物，生命12，伤害2，行动迟缓。若你逃跑，畸怪会追赶你。在接下来经过的3格中，每格掷2/6概率，检查它是否以完全恢复伤势的状态再次出现。若该格有遭遇，先处理该遭遇，再遇到僵尸畸怪。若连续成功逃脱3次，畸怪就不再追赶。\n这些遭遇每局游戏只发生一次。若再次掷出已经遭遇过的结果，重掷直到选出不同遭遇。"
+    }
+  ],
+  "notes": []
+}

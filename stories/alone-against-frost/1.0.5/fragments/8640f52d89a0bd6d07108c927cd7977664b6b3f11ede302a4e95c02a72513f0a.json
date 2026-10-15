@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "329",
+    "frost-auto-329"
+  ],
+  "text": [
+    "火没有把外面的生物吓走，反而像灯塔一样将它们引来。树枝和褐色松针铺成的地面响起它们古怪的脚步声，奇异的影子沿洞壁滑过。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 329",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 329",
+      "text": [
+        "Instead of repelling the creatures out there, the fire serves as a beacon to bring them in. The mat of twigs and brown pine needles rustles with their strange tread. Odd shadows slip along the cave walls."
+      ]
+    }
+  }
+}

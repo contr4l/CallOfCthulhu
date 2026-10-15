@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "568",
+    "frost-auto-568"
+  ],
+  "text": [
+    "猎人巧妙的绳结让你们所有努力都失败。天色渐暗，寒冷漫长的夜晚到来，你们只能留在原地等待。",
+    "黎明的微光中，你靠着树干坐着睁开眼，发现一群小个子正盯着你。他们只有你的大腿那么高。你怀疑自己仍在做梦。",
+    "他们皮肤灰白，面部特征过分分明，仿佛雕刻而成。毫无血色让他们看起来不像人类。他们携带弓箭和系着木球的绳索——是某种流星锤吗？他们戴着怪异、棱角分明的装饰物，你希望那是动物骨头做的。",
+    "他们割开绑住你的绳子，却又将你们制住以便搬运。一群矮小的野人半扶半拖地带你们离开。直到他们在一片空地停下，你已被磨得满身擦伤。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 568",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 568",
+      "text": [
+        "The clever knots of the hunters foil your party’s best attempts. You have no choice but to wait where you are as a long, cold night begins.",
+        "Slumped against your tree in the half-light of dawn, you open your eyes to see a group of tiny figures watching you. They stand only as tall as your thigh. You wonder if you are dreaming.",
+        "The group has pale gray skin and over-defined, almost sculpted features. Their lack of color makes them seem inhuman. They carry bows and cords with wooden balls attached—some sort of bolas? They wear grotesque, angular ornamentation, made from what you hope are animal bones.",
+        "They cut you free from the tree, but immobilize you for transport. Half-carrying, half-dragging, the little wild men bustle your party away. You are chafed and bruised when they finally pause in a clearing."
+      ]
+    }
+  }
+}

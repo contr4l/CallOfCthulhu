@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { readFileSync } from "node:fs";
+import { readFileSync, realpathSync } from "node:fs";
 import { dirname, isAbsolute, relative, resolve } from "node:path";
 import { z } from "zod";
 
@@ -11,6 +11,21 @@ const fileReference = z
   .strict();
 const numberId = z.string().regex(/^(0|[1-9][0-9]*)$/);
 const paragraphId = z.string().regex(/^(0|[1-9][0-9]*):p[0-9]+$/);
+const sectionDirectory = z.array(z.object({
+  sectionId: z.string().regex(/^[a-z0-9][a-z0-9-]*$/),
+  kind: z.literal("chapter-or-table"),
+  fragment: fileReference,
+  sourcePages: z.array(z.number().int().positive()).optional(),
+}).strict());
+const sectionFragment = z.object({
+  id: z.string().regex(/^[a-z0-9][a-z0-9-]*$/),
+  document: z.string(),
+  paragraphs: z.array(z.object({
+    id: z.string(), kind: z.enum(["heading", "body"]),
+    text: z.string(), sourceLocation: z.string(),
+  }).strict()).min(1),
+  sourcePages: z.array(z.number().int().positive()).optional(),
+}).strict();
 export const sourceFragmentSchema = z
   .object({
     id: numberId,
@@ -166,6 +181,11 @@ function readReferenced(
   const local = relative(root, path);
   if (isAbsolute(local) || local === ".." || local.startsWith("../"))
     fail("invalid fragment path");
+  const physicalRoot = realpathSync(root);
+  const physicalPath = realpathSync(path);
+  const physicalLocal = relative(physicalRoot, physicalPath);
+  if (isAbsolute(physicalLocal) || physicalLocal === ".." || physicalLocal.startsWith("../"))
+    fail("fragment symlink escapes source directory");
   const bytes = readFileSync(path);
   if (digest(bytes) !== ref.sha256)
     fail(`fragment integrity mismatch: ${ref.path}`);
@@ -219,15 +239,39 @@ export function validateSourceFragments(
   const supplements = supplementsSchema.parse(
     readReferenced(graphPath, graph.supplements),
   );
+  let sectionParagraphs = 0;
+  const sectionIds = new Set<string>();
+  const fragmentPaths = new Set([graph.supplements.path, ...graph.nodes.map(n => n.fragment.path)]);
+  for (const document of supplements.documents) {
+    for (const entry of document.entries) {
+      if (entry.kind !== "pdf-provenance" || !entry.metadata || typeof entry.metadata !== "object") continue;
+      const metadata = entry.metadata as Record<string, unknown>;
+      if (metadata.sections === undefined) continue;
+      for (const section of sectionDirectory.parse(metadata.sections)) {
+        if (sectionIds.has(section.sectionId) || fragmentPaths.has(section.fragment.path))
+          fail("duplicate supplement section or fragment path");
+        sectionIds.add(section.sectionId);
+        fragmentPaths.add(section.fragment.path);
+        const fragment = sectionFragment.parse(readReferenced(graphPath, section.fragment));
+        if (fragment.id !== section.sectionId || fragment.document !== document.document)
+          fail("supplement section identity mismatch");
+        for (const [index, paragraph] of fragment.paragraphs.entries()) {
+          if (paragraph.id !== `${section.sectionId}:p${index}`)
+            fail("supplement paragraph identity mismatch");
+        }
+        sectionParagraphs += fragment.paragraphs.length;
+      }
+    }
+  }
   return {
     nodes: graph.nodes.length,
     edges: graph.edges.length,
     originalParagraphs:
-      paragraphs.size +
+      paragraphs.size + sectionParagraphs +
       supplements.documents.reduce(
         (sum, d) => sum + d.entries.filter((e) => e.kind === "p").length,
         0,
       ),
-    fragmentFiles: graph.nodes.length + 1,
+    fragmentFiles: graph.nodes.length + 1 + sectionIds.size,
   };
 }

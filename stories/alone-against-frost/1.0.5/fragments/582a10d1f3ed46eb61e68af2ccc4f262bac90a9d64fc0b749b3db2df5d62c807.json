@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "181"
+  ],
+  "text": [
+    "尽管你尽力救治，那人的足部感染仍不断扩散，双腿开始坏疽。很快，他衰败的身体便断了气，你在林中为他安葬。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 181",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 181",
+      "text": [
+        "Despite efforts to help, the sufferer’s infection spreads from his foot wounds; his legs turn gangrenous. Soon his wasted body gives up the ghost and you lay him in a forest grave."
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "section-town-exploration-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "ac23a3a001e348c448c3a2c63ded28fa55066a2af596c29852a78553ff34d2ad",
+  "paragraphs": [
+    {
+      "id": "section-town-exploration-table:p0",
+      "text": "城镇探索表（2D6）"
+    },
+    {
+      "id": "section-town-exploration-table:p1",
+      "text": "2 掷随机事件表。\n3 掷军事设施表或诊所表，由你选择。\n4 掷农场表或墓地表，由你选择。\n5 掷礼拜场所表。\n6 掷街道表。\n7 掷D6：1–5掷房屋表；掷出6则掷特殊事件表。\n8 掷商店表或街道表，由你选择。\n9 掷下水道表。\n10 掷铁路表或树林/公园表，由你选择。\n11 掷学校表或树林/公园表，由你选择。\n12 掷树林/公园表。\n每次进入未探索区域时都掷此表，再按结果掷相应子表。尽可能不要提前阅读表格内容，只在结果适用时阅读。只有处理完该区域的遭遇、危险或情况后，才能搜索该区域。若从遭遇中逃跑，则不能搜索该区域。"
+    }
+  ],
+  "notes": []
+}

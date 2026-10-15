@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "145"
+  ],
+  "text": [
+    "营地空地上一块奇特的直立岩石吸引了你的目光。光线昏暗，你无法判断它是人工雕凿的，还是天然形成的怪石，但它看起来像个巨人。岩石底部刻着的符号，让你想起曾在密斯卡托尼克大学阿米蒂奇教授办公室里见过的一幅浮雕拓图。你努力把注意力拉回眼前的问题：这些人打算如何处置你们幸存的队员？",
+    "掷1D10：结果为偶数则前往210；结果为奇数则前往211。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 145",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 145",
+      "text": [
+        "A strange upright rock in the camp clearing draws your eyes. In the bad light, you cannot tell if it has been chiseled by hand or if it is a natural hoodoo, but it resembles a giant. Symbols cut into its foot remind you of a tracing of a frieze you once saw in Professor Armitage’s office at Miskatonic. With an effort, you focus on the immediate question: what do these people intend to do with your surviving party members?",
+        "Roll 1D10: if the result is even, go to 210; if the result is odd, go to 211."
+      ]
+    }
+  }
+}

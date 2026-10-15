@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "482",
+    "frost-auto-482"
+  ],
+  "text": [
+    "诺曼被高草遮住的一截枯木绊倒。史前野兽组成的杂乱兽群正从他身后轰然追来。西尔维娅犹豫片刻，还是转身去救朋友。",
+    "你隔着惊恐动物的哀鸣与咩叫声大声警告他们。你惊恐地看着一头乳齿象撞倒并踩踏这对不幸的同伴。只看一眼便知道他们没有生还希望。你满怀悔恨，逃进树林。安全后，你艰难地走向山谷出口。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 482",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 482",
+      "text": [
+        "Norman stumbles over some deadwood masked by the tall grass. The motley herd of prehistoric beasts thunders directly behind him. Sylvia hesitates and then turns back to help her friend.",
+        "You bellow a warning over the bawling and bleating of the terrified animals. Before your horrified eyes, a mastodon knocks down and tramples the hapless pair. One glance is enough to tell you there is no hope for them. Wracked with remorse, you run into the woods. When it is safe, you trudge to the valley exit."
+      ]
+    }
+  }
+}

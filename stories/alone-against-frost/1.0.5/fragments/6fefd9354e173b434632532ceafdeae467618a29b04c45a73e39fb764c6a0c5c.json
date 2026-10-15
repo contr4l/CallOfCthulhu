@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "47"
+  ],
+  "text": [
+    "如果任由伯纳德跑开，你可能会在黑暗的树林和沼泽迷宫中永远失去他。你一边喊他的名字，一边飞奔追上去。前方传来奔跑声，枯脆的灌木和结霜的草丛被踩得噼啪作响。你无法解释这场不合时节的寒潮，但已没有时间去想。",
+    "这时，你听见第二名奔跑者追上前一个。脚步声震动地面，绝非任何比驼鹿小的生物所能发出。奔跑声突然停止。在微弱的月光下，你跑进一片空旷的林间隙地。",
+    "一声凄厉的哀号从头顶的天空传来：“啊！好高！我的脚！我的脚好烫！”",
+    "若要抬头看向呼喊声传来的方向，前往 72。若要捂住耳朵、闭上眼睛，等哀求声消失，则尝试进行一次意志检定；若成功，前往 49；若失败，前往 48。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 47",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 47",
+      "text": [
+        "If you let Bernard run, you may lose him forever in the dark maze of trees and sloughs. You dash after him, yelling his name. Ahead you hear running steps, snapping brittle brush and frosted grass. You cannot explain this unseasonable cold snap, but you can spare no time to think on it.",
+        "Now, you hear a second runner join the first. The ground shudders with footfalls that could come from no creature smaller than a moose. Abruptly, the sounds of running cease. Under faint moonlight, you break into an empty clearing.",
+        "A piteous cry rings forth from the sky overhead: “Oh! The height! My feet! My burning feet!”",
+        "To look up toward the shout, go to 72. To cover your ears, shut your eyes, and wait until the plaintive appeal is gone, attempt a POW roll; if you succeed, go to 49; if you fail, go to 48."
+      ]
+    }
+  }
+}

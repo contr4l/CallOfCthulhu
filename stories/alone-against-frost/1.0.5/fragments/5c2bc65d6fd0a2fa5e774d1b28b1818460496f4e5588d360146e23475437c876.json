@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "629",
+    "frost-auto-629"
+  ],
+  "text": [
+    "无论你做什么，都激怒了大脚怪。它们抓住你、西尔维娅和诺曼，把你们拖进山里。",
+    "不久，你们抵达它们的营地。它们似乎不懂任何艺术或手艺，连火也不会生。这里有兽皮、羽毛和以前留下的食物残骸；除此之外，这地方简直像大猩猩家族的休息点。",
+    "俘虏者把你们推到岩棚下，并派两名高大的雄性在外看守。你观察四周，开始后悔没跟着伯纳德拔腿就跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 629",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 629",
+      "text": [
+        "Whatever you do, it incites the sasquatches. They seize you, Sylvia, and Norman, and drag you all away into the hills.",
+        "Before long, you reach their encampment. They seem ignorant of any art or craft, including fire. There are traces of skins and feathers, the remains of former meals, but otherwise, it could be a rest stop for a family of gorillas.",
+        "Your captors shove you under a rock overhang and post a couple of large males outside as guards. As you assess the situation, you begin to wish you had taken to your heels with Bernard."
+      ]
+    }
+  }
+}

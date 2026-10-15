@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "565"
+  ],
+  "text": [
+    "你们花了很长时间才挣脱束缚。终于脱身时，森林已入深夜，狼群发出威胁般的长嚎。诺曼在岩石中找到一处天然庇护所，你痛苦地决定等到天亮。",
+    "天亮后，你们可以沿来路回到丢下西尔维娅的地方。",
+    "生皮绳索已经断裂，像是被远超她本人的力量扯断。离开树边的足迹远比你们的大。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 565",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 565",
+      "text": [
+        "It takes a long time to get free of your bindings. When you finally do, full night is upon the forest and the wolves are baying a threatening chorus. Norman finds a natural shelter in a rock formation and you make the agonized decision to wait for first light.",
+        "With the dawn, you can follow your trail back to the place where you left Sylvia.",
+        "The rawhide cords are broken, snapped by a strength far greater than hers. The tracks that lead away from the tree are considerably larger than yours."
+      ]
+    }
+  }
+}

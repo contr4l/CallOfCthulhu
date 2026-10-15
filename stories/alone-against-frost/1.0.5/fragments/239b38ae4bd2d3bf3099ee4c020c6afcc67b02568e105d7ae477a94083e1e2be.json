@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "32"
+  ],
+  "text": [
+    "查理操纵马达，其余人则用桨帮忙。返航的第一天平静地过去了。第二天，一场暴雨让河水变得凶猛：你们被卷过一道峭壁环绕的河湾，又冲下一段长达一英里的急流。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 32",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 32",
+      "text": [
+        "Charlie works the motor and the rest of your group pitch in with paddles. You spend a peaceful first day returning downriver. The next day out, a downpour turns the water savage, whisking you around a cliff-bound bend and down a mile-long sequence of rapids."
+      ]
+    }
+  }
+}

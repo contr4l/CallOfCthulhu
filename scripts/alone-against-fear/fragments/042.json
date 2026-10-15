@@ -1,0 +1,18 @@
+{
+  "id": "42",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "42:p0",
+      "kind": "heading",
+      "text": "#42- Snowy Samuel\n",
+      "sourceLocation": "pdf:spans:[[96,22,40]]"
+    },
+    {
+      "id": "42:p1",
+      "kind": "body",
+      "text": "A white ram with fiery red eyes and\nhuge horns appears before you. It\nis surrounded by an aura of\nwickedness that terrifies you. Save\nvs. L6 Fear, adding +1 if you have\nthe Will Skill at Expert level (add no\nbonus for the Will Skill at basic\nlevel). If you fail, you lose 2 Sanity\nAND you must run from this\nencounter. As you move to a\nneighboring area, roll on the Witch\nChildren table to determine who\nwill attack you.\nIf you succeed, you have to fight\nSnowy Samuel. Treat it as a L6\nDemon with 8 Life. He inflicts 2\nDamage with his horns, and is\nvulnerable to holy water (a\nsplashed vial will inflict 2 damage).\nYou may not escape from this\nencounter. In addition, if you have\na firearm, you will be able to use it\nonly on your first attack (or two\nattacks if you have an assault rifle\nand choose to shoot twice at the\ncharging goat, using 3 bullets to do\nso). After the first attack, Snowy\nSamuel will automatically disarm\nyou and you will have to spend 1\naction to draw a melee weapon like\na knife, or fight unarmed at -2.\nIf you defeat Snowy Samuel, you\ngain 2 XP and all creatures from the\nWitch Children table that you will\nencounter in the rest of the\ncampaign will have -1 to their L.\nThis is a permanent effect. In\naddition, at the end of the battle\nyou will find an item from the\nRandom Magic Items table.\nEach of these events may happen only once. As it happens cross it off the table.\nRoll on the Special Events table if you roll an event that already happened. If\nall Random events have occurred, treat any result of 7 on the exploration table\nas “House”.\n",
+      "sourceLocation": "pdf:spans:[[96,40,76],[96,76,110],[96,110,138],[96,138,174],[96,174,209],[96,209,248],[96,248,282],[96,282,321],[96,321,348],[96,348,376],[96,376,412],[96,412,444],[96,444,461],[96,461,495],[96,495,526],[96,526,559],[96,559,589],[96,589,617],[96,617,655],[96,655,684],[96,684,720],[96,720,758],[96,758,792],[96,792,829],[96,829,862],[96,862,899],[96,899,934],[96,934,967],[96,967,1000],[96,1000,1035],[96,1035,1068],[96,1068,1100],[96,1100,1137],[96,1137,1172],[96,1172,1201],[96,1201,1235],[96,1235,1266],[96,1266,1301],[96,1301,1332],[96,1332,1358],[97,22,103],[97,103,183],[97,183,263],[97,263,275]]"
+    }
+  ]
+}

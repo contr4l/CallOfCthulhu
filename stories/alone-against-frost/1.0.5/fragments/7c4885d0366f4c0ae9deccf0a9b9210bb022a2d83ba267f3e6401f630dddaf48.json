@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "288",
+    "frost-auto-288"
+  ],
+  "text": [
+    "嚎叫声听起来像是有一大群捕食者逼近，而你们此刻正暴露在草甸上。你们三人冲向草甸中央一棵孤零零的大树。",
+    "身后，一群巨狼冲出树林。它们步伐不停，整齐地转向追逐你们。你们领先了一段距离，应该来得及抵达大树，但能否及时爬上去？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 288",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 288",
+      "text": [
+        "The baying does sound like there are rather a lot of predators, and you are vulnerable in the meadow. The three of you sprint for a large tree standing alone in its center.",
+        "Behind you, a pack of oversized wolves bursts into view. Without missing a step, the pack shifts as one to pursue your fleeing party. Your head start should allow you to reach the tree. But will you be able to ascend into the branches in time?"
+      ]
+    }
+  }
+}

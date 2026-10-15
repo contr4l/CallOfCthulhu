@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "342"
+  ],
+  "text": [
+    "你的伤口肿胀变色，全身发起高烧。你陷入越来越长的谵妄时段。临终时，你已完全失去知觉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 342",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 342",
+      "text": [
+        "Your wounds swell and discolor. Your entire body flames with fever. You lapse into longer and longer periods of delirium. When the end comes, you are completely unaware of it."
+      ]
+    }
+  }
+}

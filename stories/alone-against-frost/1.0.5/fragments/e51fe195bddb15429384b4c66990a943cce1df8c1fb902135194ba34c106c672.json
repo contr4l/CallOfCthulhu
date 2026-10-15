@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "426",
+    "frost-auto-426"
+  ],
+  "text": [
+    "黑暗中有几张猿状巨脸盯着你。发烧的脑海飞快转动：雪怪！传说中出没于加拿大荒野的生物！如果能够和它们交流……但你不需要高深的人类学知识，也能看出它们突然对闯入巢穴的你充满敌意。",
+    "你猛地转身逃跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 426",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 426",
+      "text": [
+        "Oversized, ape-like faces stare at you from the darkness. Your fevered mind races. Sasquatches! The legendary haunters of the Canadian wild! If you could communicate—but you do not need advanced anthropological training to read their sudden hostility to this intruder in their den.",
+        "You spin and run."
+      ]
+    }
+  }
+}

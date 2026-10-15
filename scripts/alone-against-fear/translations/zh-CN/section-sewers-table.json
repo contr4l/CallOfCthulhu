@@ -1,0 +1,33 @@
+{
+  "id": "section-sewers-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "aefdbdf168abdd0eb376db0fec8c2b86763b060cb300bdad18f56e360acbdb91",
+  "paragraphs": [
+    {
+      "id": "section-sewers-table:p0",
+      "text": "下水道表（D6）"
+    },
+    {
+      "id": "section-sewers-table:p1",
+      "text": "1 找到下水道入口。可以无视或进入；若进入，游玩事件#11。"
+    },
+    {
+      "id": "section-sewers-table:p2",
+      "text": "2\n走近下水道时，一只巨型鼠怪袭击你。它怕火：若有点燃的火把、打火机，或使用燃烧瓶，则无视此遭遇。\n巨型鼠怪：L3动物，生命4，伤害1。若有一剂灭鼠药和1点食物，可自动对它造成2点伤害。防御检定掷出1时，必须进行L5感染防御检定；坚韧技能+1，专家级坚韧+2。失败则感染。感染期间，每经过一格损失1点生命，直到抵达安全屋，或使用急救包中的一剂药处理感染伤口。\n3 找到一些东西。从随机物品表或有用物品表中任选一张表掷骰。"
+    },
+    {
+      "id": "section-sewers-table:p3",
+      "text": "4\n看见有人影在下水道中移动。获得1点线索。若想跟踪并调查，游玩事件#12。"
+    },
+    {
+      "id": "section-sewers-table:p4",
+      "text": "5\n发现一段可以改造成安全屋的下水道，但必须先清除占据此处的2D6只僵尸（L3、行动迟缓的不死生物，每只生命1、伤害1）。"
+    },
+    {
+      "id": "section-sewers-table:p5",
+      "text": "6\n发现一道地狱之门！若拥有仪式所需的法术组件和描述该仪式的书籍，可以尝试关闭它。无论如何，此门都有3/6概率由恶魔恐怖表中的随机怪物看守。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "119"
+  ],
+  "text": [
+    "某种沉重而压迫的力量向你袭来，让你喘不过气。它把你压倒在布满卵石的沙地上。究竟是真实发生，还是你的想象？",
+    "这次攻击的意志为80。与你自己的意志进行对抗检定：若你获胜，前往120；若你落败，前往162。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 119",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 119",
+      "text": [
+        "Something presses down upon you, something oppressive and stifling. It forces you to your knees in the pebbly sand. Is this real or some creation of your imagination?",
+        "This attack has a POW of 80. Make an opposed roll with your own POW. If you win, go to 120. If you lose, go to 162."
+      ]
+    }
+  }
+}

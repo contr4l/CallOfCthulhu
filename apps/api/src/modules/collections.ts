@@ -21,6 +21,7 @@ export function chapterKey(node: StoryNode) {
 }
 const isEnding = (n: StoryNode) =>
   n.type === "ending" ||
+  (n.type === "fear" && !!n.ending) ||
   n.program?.some((s) => s.kind === "end" && s.collect !== false);
 export function readCollections(
   db: DatabaseSync,

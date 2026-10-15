@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "558"
+  ],
+  "text": [
+    "你注意到林间有些浅淡的足迹。仔细查看后，你认为它们是穿着莫卡辛鞋的人留下的。你猜那些旅行者是原住民，可能很少与贸易商接触。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 558",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 558",
+      "text": [
+        "You notice light tracks through the woods. On closer examination, you think they were left by moccasin-clad humans. You guess that the travelers are Indigenous people— probably one that has had little contact with traders."
+      ]
+    }
+  }
+}

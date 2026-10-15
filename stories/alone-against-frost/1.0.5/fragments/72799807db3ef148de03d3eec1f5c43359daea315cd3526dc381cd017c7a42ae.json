@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "521"
+  ],
+  "text": [
+    "查理发烧似的目光紧盯着你。伯纳德失踪让她心中升起强烈恐惧。你怎样才能说服这位迷信的向导？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 521",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 521",
+      "text": [
+        "Charlie’s fevered eyes bore into yours. Bernard’s disappearance has awakened a powerful terror within her. How can you get through to your superstitious guide?"
+      ]
+    }
+  }
+}

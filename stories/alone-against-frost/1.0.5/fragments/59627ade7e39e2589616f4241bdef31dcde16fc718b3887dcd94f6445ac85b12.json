@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "317",
+    "frost-auto-317"
+  ],
+  "text": [
+    "你小心地沿原路返回，感觉已接近失落之地的岩壁出口。穿过一片大草甸时，高高的草丛中传来不祥的嚎叫。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 317",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 317",
+      "text": [
+        "You carefully retrace the route you took to enter the lost land and sense you are getting close to the rock wall exit. As you cross a large meadow, an ominous howling arises from the tall grass."
+      ]
+    }
+  }
+}

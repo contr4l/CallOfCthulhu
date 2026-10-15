@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "196"
+  ],
+  "text": [
+    "你坚持让学生们留在原地，自己则追着逃跑的原始人冲了出去。你尽可能用当地语言朝他喊话，表示自己没有恶意。你的腿比他长，但他熟悉地形和这里的种种特点。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 196",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 196",
+      "text": [
+        "Insisting that your students remain where they are, you dash off on the track of the fleeing primitive. You cry after him as best you can in the regional tongue, insisting you mean no harm. His legs are shorter than yours, but he knows the terrain and its quirks."
+      ]
+    }
+  }
+}

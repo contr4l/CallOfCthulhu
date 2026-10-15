@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "497"
+  ],
+  "text": [
+    "那可怜虫转过脸看向你，你不禁打了个寒战。他的眼睛疯狂转动。“石轮……伊塔夸尼神庙……山脊那边……别去……”",
+    "一阵痉挛使他全身抽搐，话语也变得支离破碎。“风中有‘祂们’的声音。大地低语着‘祂们’的意识……你们会以污秽之物的形态认识祂们……”又一次抽搐过后，他的喘息声停止了。他的心脏衰竭而死。",
+    "他说山脊那边有一座石轮——不管那是什么——还有一座神庙。也许只是胡言乱语。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 497",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 497",
+      "text": [
+        "You shudder as the wretch turns his face toward you. His eyes roll wildly. “The stone wheel... The temple of Ithakwanni... over the ridge... Don’t go...”",
+        "A spasm wracks his body and his speech deteriorates. “The wind gibbers with Their voices. The earth mutters with Their consciousness... As a foulness ye shall know them...” A further convulsion stills his rasping. His heart has failed.",
+        "He said that a stone wheel, whatever that is, and a temple lay just over the ridge. Delirium, perhaps."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "10"
+  ],
+  "text": [
+    "黎明时分，你们再次出发。白天气温灼热，溪中的石头摸起来都烫手。然而，在炫目的热浪之下仍有美景：水边潮湿的沙地上，铺满了振翅的蓝色——成群的小蓝蝴蝶正在暖意中晒太阳。",
+    "你暂时停下划船，扫视河岸，寻找生命迹象。你瞥见河边有人影一闪，半藏在一丛高大的杜松后面。你还没来得及调整望远镜，陌生人就消失了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 10",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 10",
+      "text": [
+        "At dawn, you set off again. The day turns into a scorcher; rocks in the stream are hot to the touch. There is beauty under the shimmering heat, too. The wet sands by the water’s edge are hidden under a vibrating carpet of blue—a host of small azure butterflies basking in the warmth.",
+        "Pausing a moment from your canoeing, you scan the shores for any sign of life. You catch a flash of someone standing by the river shore, half-hidden by a bushy juniper. Before you can adjust your binoculars, the stranger is out of sight."
+      ]
+    }
+  }
+}

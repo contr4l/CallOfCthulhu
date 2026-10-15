@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "552",
+    "frost-auto-552"
+  ],
+  "text": [
+    "你停下来辨认方向。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 552",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 552",
+      "text": [
+        "You pause to get your bearings."
+      ]
+    }
+  }
+}

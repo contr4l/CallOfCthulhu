@@ -1,0 +1,45 @@
+{
+  "id": "section-random-events-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-random-events-table:p0",
+      "kind": "heading",
+      "text": "Random events table (d6)\n",
+      "sourceLocation": "pdf:spans:[[97,275,300]]"
+    },
+    {
+      "id": "section-random-events-table:p1",
+      "kind": "body",
+      "text": "1\nYou meet a kid who wants to follow you. If you refuse, he will\ngo away. If you let him join your exploration, roll d6. On a 1-3,\ngo to event #26, on a 4-6 go to event #37.\n",
+      "sourceLocation": "pdf:spans:[[97,300,302],[97,302,365],[97,365,431],[97,431,474]]"
+    },
+    {
+      "id": "section-random-events-table:p2",
+      "kind": "body",
+      "text": "2\nYou find something (roll on the Random Objects or the Useful\nStuff table, your choice) spattered in blood. You may decide\nto ignore the object or pick it up (go to event #31).\n",
+      "sourceLocation": "pdf:spans:[[97,474,476],[97,476,537],[97,537,598],[97,598,652]]"
+    },
+    {
+      "id": "section-random-events-table:p3",
+      "kind": "body",
+      "text": "3\nYou spot a random object on a dangerous place. Roll on the\nRandom Object or on the Useful Stuff table (your choice) to\ndetermine what it is. Climbing the obstacle will require a L4\nclimbing roll, at +1 if you have the Agile Skill, +2 if you have it\nat Expert level. On a failure, you fall and lose 1 Life. On a\nsuccess, you gain the object. You may try to climb the obstacle\nas many times as you want.\n",
+      "sourceLocation": "pdf:spans:[[97,652,654],[97,654,713],[97,713,773],[97,773,835],[97,835,903],[97,903,965],[97,965,1029],[97,1029,1056]]"
+    },
+    {
+      "id": "section-random-events-table:p4",
+      "kind": "body",
+      "text": "4\nA ghastly face appears at a window. Save vs. L3 Fear (+1 if you\nhave Will, +2 if you have Will at Expert level) or lose 1 Sanity.\nIf you want to enter the building and investigate, go to event\n#34. You may ignore this apparition, carrying on with your\ninvestigation.\n5 A chilly wind blows. If you have a torch or candle, the wind will\nblow it out until the end of your next encounter.\n",
+      "sourceLocation": "pdf:spans:[[97,1056,1058],[97,1058,1122],[97,1122,1188],[97,1188,1251],[97,1251,1310],[97,1310,1325],[97,1325,1393],[97,1393,1443]]"
+    },
+    {
+      "id": "section-random-events-table:p5",
+      "kind": "body",
+      "text": "6\nYou stumble upon a pool of yellow goo in the middle of the\nroad. If you have a jar or bottle, you may pick up some, in case\nit may be useful later.",
+      "sourceLocation": "pdf:spans:[[97,1443,1445],[97,1445,1504],[97,1504,1569],[97,1569,1592]]"
+    }
+  ],
+  "sourcePages": [
+    97
+  ]
+}

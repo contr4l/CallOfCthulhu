@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "158"
+  ],
+  "text": [
+    "若队伍中有人需要治疗，可以为每人恢复1点生命值。沿河前进，前往60。尽可能登高，前往552。以群山为地标，前往56。沿着林线前进，前往233。深入森林探索，前往461。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 158",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 158",
+      "text": [
+        "If any of your party require healing, you may restore 1 hit point each. To follow the river, go to 60. To gain elevation where you can, go to 552. To use the mountains as a landmark, go to 56. To hug the tree line, go to 233. To explore the deep woods, go to 461."
+      ]
+    }
+  }
+}

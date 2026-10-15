@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "22"
+  ],
+  "text": [
+    "You throw an old, heavy vase at\nthe mirror, shattering it. The\nghosts of Seth and Tabitha Rosen\nappear in front of you.\n“Thank you. You are a good soul”,\nsays Tabitha, and hands you a\nfolded piece of parchment. You\nshiver at the touch of the ghost’s\ncold, semi-immaterial fingers.\nYou unfold the parchment. There\nis some sort of magical symbol\ndrawn in dark brown ink. If you\nwere cursed, the curse is lifted,\nand the protection offered by this\namulet lets you recover 3 Sanity\npoints.\nSeth explains to you that there was\nan occult war between their coven\nof good witches and a dark coven\nof children who worshippedSnowy Samuel, a white goat with\nred eyes. The only way to stop the\nSnowy Samuel cult was to kill the\nchildren in a ritual.\n“Our souls will scream for all\neternity for what we have done…\nbut there was no other way”. Seth\nexplains that the seven children\nwere hanged from the tree and\nburied next to its roots.\n“Do not dig their graves, because\nthey are powerful even in death\nand may return to haunt the\nworld.”\nBefore you can ask any additional\nquestions, the ghosts of Seth and\nTabitha disappear in a black mist.\nReturn to your exploration."
+  ],
+  "reading": {
+    "en": {
+      "title": "22 -  Shattering The Dark Mirror",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "22 - 打碎暗镜",
+      "text": [
+        "你拿起一只沉重的旧花瓶砸向镜子，将它击碎。塞斯和塔比莎·罗森的鬼魂出现在你面前。\n“谢谢你。你是个善良的人。”塔比莎说着，递给你一张折叠的羊皮纸。鬼魂半透明、冰冷的手指碰到你时，你不禁打了个寒颤。\n你展开羊皮纸，上面用深褐色墨水画着某种魔法符号。如果你受到了诅咒，诅咒便会解除；护符的庇佑还会使你恢复3点理智。\n塞斯向你解释，他们善良女巫的集会曾与一个邪恶教团交战；那群孩子崇拜一只红眼白山羊雪诺·塞缪尔。阻止雪诺·塞缪尔教团的唯一办法，就是在仪式中杀死这些孩子。\n“为了我们所做的一切，我们的灵魂会永远哀号……但那是唯一的办法。”塞斯解释说，7个孩子被吊死在树上，埋在树根旁。\n“不要挖他们的坟。他们死后依然强大，可能会回来祸害世间。”\n你还没来得及追问，塞斯和塔比莎的鬼魂就化作黑雾消失了。回到小镇继续探索。"
+      ]
+    }
+  }
+}

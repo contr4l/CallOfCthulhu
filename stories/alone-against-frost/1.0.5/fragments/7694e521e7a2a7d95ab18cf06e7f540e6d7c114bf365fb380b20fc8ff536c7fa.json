@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "524",
+    "frost-auto-524"
+  ],
+  "text": [
+    "你试图追踪伯纳德直到黄昏，却毫无收获。你怀疑查理把你带离了那孩子的足迹，以至于你再也找不到了。你回到营地，准备把对向导的不满说个明白。",
+    "查理和独木舟都不见了。四分之一的补给也被带走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 524",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 524",
+      "text": [
+        "You attempt to pick up Bernard’s trail until twilight, but your efforts are fruitless. You suspect that Charlie led you so far from the boy’s tracks that you will never find them again. You return to camp ready to let your guide know exactly what you think of her.",
+        "Charlie is gone, and so is the canoe. One quarter of the supplies are missing."
+      ]
+    }
+  }
+}

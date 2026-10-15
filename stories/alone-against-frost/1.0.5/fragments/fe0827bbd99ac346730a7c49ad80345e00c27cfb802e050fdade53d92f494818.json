@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "227"
+  ],
+  "text": [
+    "救回研究生是你的责任。你纵身跳入湍急的水流。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 227",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 227",
+      "text": [
+        "It is your duty to attempt to rescue your graduate students. You throw yourself into the rushing water."
+      ]
+    }
+  }
+}

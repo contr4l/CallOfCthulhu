@@ -1,0 +1,32 @@
+{
+  "id": "285",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "203708515706730e6a73eff4d1802dddb6b40d8903613d344675b4d41d74d4a7",
+  "paragraphs": [
+    {
+      "id": "285:p0",
+      "text": "285"
+    },
+    {
+      "id": "285:p1",
+      "text": "你的无声挑衅至少让部分猎人颇为震动。一群人按住你，另一人从火堆旁端来一桶滚烫的油脂。如果被迫喝下，你冰冷的心脏必定会融化，你也将痛苦地死去。"
+    },
+    {
+      "id": "285:p2",
+      "text": "黑暗的求生本能再次涌现。你奋力挣扎，想摆脱擒拿。"
+    },
+    {
+      "id": "285:p3",
+      "text": "三名猎人按住你，每人的 STR 为60。分别与每人进行 STR 对抗检定：你因异界力量获得一个奖励骰，猎人则因恐惧承受一个惩罚骰。若三次对抗检定全部获胜，前往268。否则，纳德尔曼远征结束。故事终。"
+    },
+    {
+      "id": "285:p4",
+      "text": "（266）"
+    }
+  ],
+  "notes": [],
+  "reviewNotes": [
+    "2026-10-14 source semantic repair: impressed in 285:p1 denotes an impression made, not anger; corrected the previous opposite-sense translation against the unchanged source."
+  ]
+}

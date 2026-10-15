@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "429",
+    "frost-auto-429"
+  ],
+  "text": [
+    "你的地图与该地区的官方地图并不吻合。当局承认自己对这片区域知之甚少，但如此大的出入仍令人不安。",
+    "你不难筹集探险资金并找到热心的合伙人。然而时节已晚，你们花数周寻找那处“失落的金矿露头”，却一无所获。一个淘金者失踪，另一个被发现身首异处后，合伙人决定终止搜寻。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 429",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 429",
+      "text": [
+        "Your map does not really coincide with official cartography of the area. The authorities admit many gaps in their knowledge of the region, but the discrepancy is unsettling.",
+        "You have no trouble assembling a grubstake and a party of eager partners. The season is getting late, however, and the weeks you spend seeking your “lost ledge of gold” prove fruitless. When one prospector vanishes and another is found beheaded, your partners call off the hunt."
+      ]
+    }
+  }
+}

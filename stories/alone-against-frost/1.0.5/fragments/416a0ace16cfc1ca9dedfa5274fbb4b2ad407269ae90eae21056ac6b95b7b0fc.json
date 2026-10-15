@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "20"
+  ],
+  "text": [
+    "划船已成为熟悉的节奏，于是你们不时使用舷外马达休息。坚定的队伍一英里接一英里地前进，朝着首要目标——刽子手峡谷——进发。",
+    "山谷四周挤满陡峭的山丘、小山脉，以及粗壮的杰克松、黑云杉和香脂冷杉林。听从查理的建议，你们建立了一处半永久营地，方便捕鱼打猎；如果当地居民表现出敌意，这里也能作为避难处。此后几天，队伍不时外出，寻找有人居住的迹象。看起来你们可能要失望了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 20",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 20",
+      "text": [
+        "Paddling is a familiar rhythm now, and you permit periods of rest using the outboard motor. Your determined group proceeds mile after mile toward your primary goal—Headsman’s Glen.",
+        "The valley is crowded in by steep hills, small mountains, and rough stands of jack pines, black spruces, and balsam firs. Following Charlie’s advice, your party sets up a semi- permanent camp, giving access to fish and game as well as some refuge should the local peoples prove hostile. In the days that follow, your party makes periodic excursions, seeking evidence of human inhabitants. It begins to look like you will be disappointed."
+      ]
+    }
+  }
+}

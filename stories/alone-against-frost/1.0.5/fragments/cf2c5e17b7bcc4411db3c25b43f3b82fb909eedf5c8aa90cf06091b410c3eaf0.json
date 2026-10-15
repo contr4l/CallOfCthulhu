@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "464"
+  ],
+  "text": [
+    "你听见一声短促的惊叫，随即戛然而止。声音太短，几乎让你以为只是动物叫声。但直觉催促你赶紧回营地。",
+    "二十分钟前，伯纳德还近乎昏迷；现在他直挺挺地站在营地中央，双手掐住西尔维娅的脖子。",
+    "你击打他的肾部，他却连头都不转，似乎完全没有痛觉。诺曼冲上来帮忙。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 464",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 464",
+      "text": [
+        "You hear a tiny yelp of alarm, quickly cut off. It is so brief that you can almost convince yourself that it is an animal call. But instinct speeds you back to camp.",
+        "Twenty minutes ago, Bernard lay almost comatose. Now he stands erect in the middle of the camp, hands locked around Sylvia’s neck.",
+        "You strike him in the kidneys. He doesn’t even turn his head. He seems to have no feeling at all. Norman rushes to your aid."
+      ]
+    }
+  }
+}

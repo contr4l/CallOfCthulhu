@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "185",
+    "frost-auto-185"
+  ],
+  "text": [
+    "灼热的子弹贯穿风行者的心脏。它弓起身子，踉跄着逃开，沿途撞开树木。你想起当地传说：风行者冰冷的心脏若被融化，它就会死去。你这幸运的一枪想必让它害怕失去这不自然的生命。",
+    "诺曼和西尔维娅走近，睡眼惺忪。你立刻命令他们收拾营地，尽快撤离此地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 185",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 185",
+      "text": [
+        "The hot bullet pierces the wind-walker’s heart. It doubles over and staggers away, brushing trees from its path. You remember from the area’s myths that the wind-walker will die if its icy heart is melted. Your lucky shot must have placed the creature in fear of its unnatural life.",
+        "Norman and Sylvia approach, blinking back sleep. You snap an order to strike the camp. You must evacuate the area as quickly as possible."
+      ]
+    }
+  }
+}

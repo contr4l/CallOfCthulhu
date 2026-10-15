@@ -1,0 +1,18 @@
+{
+  "id": "26",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "26:p0",
+      "kind": "heading",
+      "text": "#26 - The kid disappears\n",
+      "sourceLocation": "pdf:spans:[[87,105,130]]"
+    },
+    {
+      "id": "26:p1",
+      "kind": "body",
+      "text": "The kid disappears out of thin air\nafter emitting a blood curdling\nscream. Save vs. L5 Fear or lose 1\nSanity.\n",
+      "sourceLocation": "pdf:spans:[[87,130,165],[87,165,197],[87,197,232],[87,232,240]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "223"
+  ],
+  "text": [
+    "诺曼抓不住了，开始滑落。西尔维娅伸手抓住他，自己也被拖进水里。你看见湍流把他们抛来抛去，撞向岩石。若无人相救，两人必死无疑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 223",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 223",
+      "text": [
+        "Norman can’t hold on and begins to slip. Sylvia grabs him, and she too is pulled into the water. You see them tossed by the turbulence and thrown against rocks. Without your help, both will surely die."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "425",
+    "frost-auto-425"
+  ],
+  "text": [
+    "每次野外考察都是难得的机会，必须努力争取。密斯卡托尼克大学是所优秀的学府，但改变已知世界的发现发生在此地——在文明边缘，在艰苦而危险的探索中。你现在还不能放弃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 425",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 425",
+      "text": [
+        "Every field trip is a rare opportunity that must be fought for. Miskatonic is a wonderful institution, but the discoveries that change the known world are made here, on its fringes, through painstaking and dangerous exploration. You cannot give up yet."
+      ]
+    }
+  }
+}

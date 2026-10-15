@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "541",
+    "frost-auto-541"
+  ],
+  "text": [
+    "西尔维娅已经失去意识，随水漂流。你抓住她的头发，将她拖到岩岸上；诺曼帮你把她拉上岸。你们在峡谷里扎营，直到西尔维娅恢复到可以旅行。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 541",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 541",
+      "text": [
+        "Sylvia is unconscious and drifting. You seize her by the hair and drag her to the rocky bank, where Norman helps you get her ashore. You camp in the ravine until Sylvia is fit to travel."
+      ]
+    }
+  }
+}

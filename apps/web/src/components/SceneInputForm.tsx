@@ -1,12 +1,32 @@
 import React, { useState, useEffect } from "react";
 import type { SceneInput } from "../../../../packages/contracts/program";
-export function SceneInputForm({
+import { DistributionInputForm } from "./DistributionInputForm";
+export function SceneInputForm(props: {
+  input: SceneInput; draftKey?: string; busy: boolean;
+  onSubmit: (action: string, input: Record<string, number | string>) => void;
+}) {
+  return props.input.kind === "distribution" ? <DistributionInputForm {...props} input={props.input} /> : props.input.kind === "text" ? <TextInputForm {...props} input={props.input} /> : <StandardInputForm {...props} input={props.input} />;
+}
+function TextInputForm({ input, draftKey, busy, onSubmit }: {
+  input: Extract<SceneInput, { kind: "text" }>; draftKey?: string; busy: boolean;
+  onSubmit: (action: string, input: Record<string, number | string>) => void;
+}) {
+  const [text, setText] = useState(() => {
+    try { return sessionStorage.getItem(draftKey ?? "") ?? input.value; } catch { return input.value; }
+  });
+  useEffect(() => { if (draftKey) sessionStorage.setItem(draftKey, text); }, [draftKey, text]);
+  return <form onSubmit={event => { event.preventDefault(); onSubmit("confirm", { text }); }}>
+    <label>{input.label}<textarea value={text} minLength={input.minLength} maxLength={input.maxLength} required={input.minLength > 0} disabled={busy} onChange={event => setText(event.target.value)} /></label>
+    <button type="submit" disabled={busy || text.trim().length < input.minLength}>记录并继续</button>
+  </form>;
+}
+function StandardInputForm({
   input,
   draftKey,
   busy,
   onSubmit,
 }: {
-  input: SceneInput;
+  input: Exclude<SceneInput, { kind: "distribution" | "text" }>;
   draftKey?: string;
   busy: boolean;
   onSubmit: (action: string, input: Record<string, number | string>) => void;
@@ -163,6 +183,13 @@ export function SceneInputForm({
                   ? `待分配点值：${points}`
                   : "点值已分配。"}
           </p>
+          {a!.kind === "bonus" && Object.keys(a!.minimums ?? {}).length > 0 && (
+            <p className="setup-note">
+              {Object.entries(a!.minimums!).map(([key, minimum]) =>
+                `${allowed.find(s => s.key === key)?.label ?? key}至少 ${minimum}`,
+              ).join("；")}。
+            </p>
+          )}
           {a!.kind === "attributes" && (
             <p className="setup-note">
               普通值用于一般检定；困难值为一半，极难值为五分之一。

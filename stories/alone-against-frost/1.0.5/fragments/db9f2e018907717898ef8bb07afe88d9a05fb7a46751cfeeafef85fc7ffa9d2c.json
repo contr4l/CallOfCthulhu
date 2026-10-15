@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "285"
+  ],
+  "text": [
+    "你的无声挑衅至少让部分猎人颇为震动。一群人按住你，另一人从火堆旁端来一桶滚烫的油脂。如果被迫喝下，你冰冷的心脏必定会融化，你也将痛苦地死去。",
+    "黑暗的求生本能再次涌现。你奋力挣扎，想摆脱擒拿。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 285",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 285",
+      "text": [
+        "Your silent taunt impressed at least some of the hunters. A group holds you, while one brings a vat of boiling fat from the cookfire. If forced to drink that, your icy heart will surely melt and you will die. It will be agonizing.",
+        "Your dark survival instinct resurges. You struggle against your captors."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "501"
+  ],
+  "text": [
+    "你独自跋涉。疲惫、饥饿、脚痛让你无心欣赏经过的偏远孤寂森林那荒凉而壮丽的景色。面对无情纠结的荒野，你感到自己微不足道。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 501",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 501",
+      "text": [
+        "You trudge on alone. Weary, hungry, footsore, you are blind to the bleak splendors of the lonely, remote forests through which you pass. You sense your insignificance against the merciless, tangled wilderness."
+      ]
+    }
+  }
+}

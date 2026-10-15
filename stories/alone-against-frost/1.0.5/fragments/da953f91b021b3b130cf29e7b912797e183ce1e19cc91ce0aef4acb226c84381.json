@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "465"
+  ],
+  "text": [
+    "你掰开伯纳德的手，把他摔在地上，诺曼则照料西尔维娅。你准备迎接再次袭击，他却突然跳起来，以惊人的速度冲向河边。",
+    "你犹豫不决，不知该向他开枪、追上去，还是先查看西尔维娅。伯纳德到了水边便一头扎进河里，再也没有浮上来。",
+    "你走到西尔维娅和诺曼身边。她的嘴唇已经发青。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 465",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 465",
+      "text": [
+        "You break Bernard’s grip and throw him to the ground while Norman sees to Sylvia. You brace for a renewed attack, but instead, the mutilated student leaps to his feet and, with startling haste, dashes for the river.",
+        "You hesitate, torn between firing at him, following him, or checking on Sylvia. At the water’s edge, Bernard jumps in headfirst and does not emerge.",
+        "You go to Sylvia and Norman. Her lips are blue."
+      ]
+    }
+  }
+}

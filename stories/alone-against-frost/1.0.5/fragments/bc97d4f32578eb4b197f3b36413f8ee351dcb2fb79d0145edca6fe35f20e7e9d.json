@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "2"
+  ],
+  "text": [
+    "探险队花了一整天，才在令人困惑的水道迷宫中艰难前行。有时，你们不得不在无法通行的河道里倒退，寻找更容易通过的路线；有时，你们误闯到强劲急流的源头，被水势裹挟着冲走。在某些地方，全队只能涉入齐腰深的水中，靠人力一点点拖着船和装备前进。",
+    "你们穿过木岛、急流和漂木交错的迷宫。最后，你们挑了一处平静的回水湾停船，在那里扎营过夜。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 2",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 2",
+      "text": [
+        "The expedition spends the day working through a baffling network of waterways. Sometimes you are forced to back down impassable channels to find an easier way; sometimes you blunder across the heads of powerful chutes and are swept along with them. At certain points, your party has to wade in waist-deep water, inching the craft along by hand.",
+        "You pass labyrinths of wooded islands, fast water, and drift. Finally, you select a peaceful backwater in which to moor and make camp for the night."
+      ]
+    }
+  }
+}

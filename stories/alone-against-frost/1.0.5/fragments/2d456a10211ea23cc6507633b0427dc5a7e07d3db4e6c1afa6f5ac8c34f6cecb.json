@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "640",
+    "frost-auto-640"
+  ],
+  "text": [
+    "袭击者在最后一刻改变主意，拉升飞过树梢。你们看着它飞远，随后赶紧跑去救伯纳德。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 640",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 640",
+      "text": [
+        "The attacker changes its mind at the last minute and pulls up. You watch it sail over the treetops, and then your group rushes to Bernard’s aid."
+      ]
+    }
+  }
+}

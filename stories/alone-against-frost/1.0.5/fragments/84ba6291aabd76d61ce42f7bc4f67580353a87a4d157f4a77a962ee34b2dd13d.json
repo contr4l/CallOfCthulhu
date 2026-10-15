@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "290"
+  ],
+  "text": [
+    "你悄悄引导诺曼穿过史前景观。突然，灌木发出沙沙声，你把他拉低蹲下。有什么东西——体型很大的东西——正在灌木丛中移动。它现身了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 290",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 290",
+      "text": [
+        "You silently guide Norman through the prehistoric landscape. Suddenly you hear the bushes crackle, and pull him down into a crouch. Something—something big—is moving through the undergrowth. It comes into view."
+      ]
+    }
+  }
+}

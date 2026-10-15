@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "308"
+  ],
+  "text": [
+    "你帮学生们爬上树枝。等他们安全后，你也跟着爬上去，双臂抱住一根结实的树枝，却感到有什么东西在拖拽你。领头的狼跳起来，咬住你的靴子！西尔维娅和诺曼抓住你的肩膀，把你往上拉。但那头狼可能把你们三人一起拖下树。",
+    "你必须决定是从狼的血盆大口中挣脱双脚，还是把它的头撞向树干。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 308",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 308",
+      "text": [
+        "You help your students up into the tree limbs. Once they are clear, you scramble after them. You wrap your arms around a solid branch, but something drags at you. The lead wolf has leapt and sunk its teeth into your boot! Sylvia and Norman grab under your shoulders, hauling you up. But the wolf could drag all three of you from the tree.",
+        "You must decide whether to whip your foot free from the wolf’s slavering mouth or to dash its head against the tree trunk."
+      ]
+    }
+  }
+}

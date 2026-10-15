@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "574"
+  ],
+  "text": [
+    "你转身就跑，暗骂自己粗心。几码外等候的诺曼和西尔维娅不需要你招呼便跟了上来。那些人更熟悉当地地形，但已经走了很长一段路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 574",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 574",
+      "text": [
+        "You spin and run, cursing yourself for your carelessness. Norman and Sylvia, waiting a few yards away, do not need to be told to follow the leader. The men are more familiar with the local terrain, but they have walked far already."
+      ]
+    }
+  }
+}

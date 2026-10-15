@@ -1,0 +1,17 @@
+{
+  "id": "section-surprise",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "6ce0e45e9b2365ee4b17c56338c9131622ad550960acba48dc4dcc792a16433c",
+  "paragraphs": [
+    {
+      "id": "section-surprise:p0",
+      "text": "突袭"
+    },
+    {
+      "id": "section-surprise:p1",
+      "text": "战斗时总是由你先行动，除非怪物有机会突袭你。其概率会写成六分之一、六分之二等。例：遇到突袭概率为2/6的恶魔时掷D6；掷出1或2，怪物突袭并先行动；掷出3+则由你先行动。拥有危险感知技能时，怪物的突袭概率（若有）降低1/6。因此，原本突袭概率为1/6的怪物无法突袭你；原本为2/6的怪物则只有1/6概率突袭你。"
+    }
+  ],
+  "notes": []
+}

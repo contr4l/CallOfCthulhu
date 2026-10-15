@@ -1,0 +1,1188 @@
+{
+  "format": "coc-frost-rule-review@1",
+  "storyId": "alone-against-frost",
+  "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+  "sourceGraphSha256": "35d7ca4342efdf742edcc40e0a3a9fc6164c71ab150a514501f78cfee32c8f71",
+  "status": "mechanics-reviewed-runtime-incomplete",
+  "runtimePlayable": false,
+  "mechanisms": [
+    {
+      "id": "nadelmann-creation",
+      "source": {
+        "pdfPage": 7,
+        "printedPage": 6,
+        "text": "Getting Started / Dr. Nadelmann"
+      },
+      "type": "allocation",
+      "fields": {
+        "occupation": "人类学教授（纸面职业 Anthropologist, M.U.）",
+        "professionalPool": 360,
+        "professionalSkills": [
+          "anthropology",
+          "history",
+          "libraryUse",
+          "naturalWorld",
+          "otherLanguage",
+          "ownLanguage",
+          "psychology",
+          "persuade"
+        ],
+        "personalInterestPool": 180,
+        "personalInterestOverlapWithProfessionalSkills": true,
+        "fixedLuck": 85,
+        "printedCreditRating": 64,
+        "printedOwnLanguageEnglish": 90,
+        "finalMinimumsAfterBothAllocations": {
+          "anthropology": 75
+        }
+      },
+      "review": "The 360 professional points are allocated only among the eight named skills. The text says Anthropology must have at least 75% overall but does not say this must be achieved during the professional phase; enforce the final minimum only after the separate 180 personal-interest allocation, which may overlap professional skills. Credit Rating is not in the eight-skill list and is printed as 64. English Own Language is in the named list and starts at the printed 90; an allocation UI must preserve the printed starting score and normal 99 cap, not treat 90 as a fixed final score. The male/female Nadelmann presentations are alternate character sheets, not separate rulesets."
+    },
+    {
+      "id": "injury-and-insanity-interrupts",
+      "source": {
+        "pdfPage": 7,
+        "printedPage": 6,
+        "text": "Getting Started / physical or mental trauma"
+      },
+      "type": "interrupt-routing",
+      "fields": {
+        "majorWoundAndUnconscious": {
+          "saveCurrentEntry": true,
+          "target": "191"
+        },
+        "temporaryInsanity": "39",
+        "indefiniteInsanity": "364",
+        "permanentInsanity": "550"
+      },
+      "review": "PDF p.7 (printed p.66) says a major wound with unconsciousness redirects to 191; PDF p.8 (printed p.67) summarizes this as major wound and/or unconsciousness, while its listed procedure says 'Unconscious with a major wound: go to 191.' The source wording conflicts. Preserve the specific listed procedure as the general rule, and keep chapter-specific authorized HP-zero adaptations separate. Entry-directed insanity text takes precedence; otherwise threshold routing applies."
+    },
+    {
+      "id": "companion-skill-substitution",
+      "source": {
+        "pdfPage": 8,
+        "printedPage": 7,
+        "text": "Player Companions"
+      },
+      "type": "actor-selection",
+      "fields": {
+        "partySizeIncludingPlayer": 5,
+        "companions": [
+          "Charlie Foxtail",
+          "Bernard Ebstein",
+          "Sylvia Davidson",
+          "Norman Falkner"
+        ],
+        "requiresPresent": true,
+        "requiresAwake": true,
+        "maxAttempts": 1
+      },
+      "review": "For a requested skill roll, the player may select a present, awake companion who has the relevant skill. The single-attempt limit applies to the roll overall; switching actors cannot grant another attempt. Each companion needs a separate skill sheet and present/awake/dead state."
+    },
+    {
+      "id": "companion-combat-damage",
+      "source": {
+        "pdfPage": 8,
+        "printedPage": 7,
+        "text": "Player Companions / combat"
+      },
+      "type": "damage-allocation-and-health",
+      "fields": {
+        "shareDamageAsEvenlyAsPossible": true,
+        "playerMayTakeExtraToProtectStudents": true,
+        "companionCombatHpFloor": 0,
+        "zeroHpState": "unconscious",
+        "reviveIfPlayerSurvivesFight": true,
+        "textMayAllowCompanionDeath": true
+      },
+      "review": "Damage assignment order and per-character HP are persistent. Never reduce a companion below zero in combat unless the current source text explicitly allows death. A companion at zero is unconscious and revives if Nadelmann survives the fight. The engine must resolve actual rolls, damage, major wounds, unconsciousness and health."
+    },
+    {
+      "id": "optional-spending-luck",
+      "source": {
+        "pdfPage": 8,
+        "printedPage": 7,
+        "text": "Using Luck Points"
+      },
+      "type": "roll-adjustment",
+      "fields": {
+        "rate": "1 Luck per 1 point",
+        "deductSpentLuck": true,
+        "allowedRolls": [
+          "skill",
+          "characteristic"
+        ],
+        "excludedRolls": [
+          "Luck",
+          "Sanity",
+          "damage",
+          "Sanity-loss-amount"
+        ],
+        "personalLuckOwner": "Nadelmann"
+      },
+      "review": "This is optional. Luck is finite campaign state and must not be spent on any listed excluded roll type. Failed skill checks can use Nadelmann's Luck; companions' separate printed Luck values are not the player Luck pool."
+    },
+    {
+      "id": "companion-and-inventory-state",
+      "source": {
+        "pdfPage": 7,
+        "printedPage": 6,
+        "text": "Getting Started / keywords and repeated play"
+      },
+      "type": "persistent-mutations",
+      "fields": {
+        "keywordsAreRunScoped": true,
+        "resetKeywordsBetweenPlaythroughs": true,
+        "companionsNeedPresenceAndState": true,
+        "inventoryNeedsQuantitiesAndLoss": true,
+        "healthNeedsPerCharacterCounters": true
+      },
+      "review": "The book explicitly says keywords do not carry over between playthroughs. Keys, missing companions, deaths, temporary incapacity, equipment, weapon counts, supplies and individual HP are state predicates/mutations, not merely prose."
+    },
+    {
+      "id": "combat-contest-example-043",
+      "source": {
+        "section": "43",
+        "paragraphId": "43:p4",
+        "pdfPage": 17,
+        "printedPage": 16
+      },
+      "type": "group-contest",
+      "fields": {
+        "actors": [
+          "Charlie",
+          "Sylvia",
+          "Nadelmann"
+        ],
+        "check": "DEX",
+        "successEffect": "sum STR of successful actors",
+        "opponent": "Bernard",
+        "opponentValue": 93,
+        "successTarget": "44",
+        "failureTarget": "45"
+      },
+      "review": "Three independent DEX rolls are requested. Sum STR only for successful actors, then make the specified opposed skill roll against Bernard's 93. Do not expose the conditional results as a free route choice."
+    },
+    {
+      "id": "conditional-choice-example-067",
+      "source": {
+        "section": "67",
+        "paragraphId": "67:p3-p4",
+        "pdfPage": 22,
+        "printedPage": 21
+      },
+      "type": "conditional-then-choice",
+      "fields": {
+        "check": "Survival (Woodland)",
+        "successTarget": "513",
+        "failureChoices": [
+          {
+            "label": "扎营思考",
+            "target": "496"
+          },
+          {
+            "label": "深入森林",
+            "target": "501"
+          },
+          {
+            "label": "沿树线前行",
+            "target": "494"
+          },
+          {
+            "label": "探索岩地",
+            "target": "427"
+          },
+          {
+            "label": "沿河前行后掷Luck",
+            "check": "Luck",
+            "successTarget": "126",
+            "failureTarget": "119"
+          }
+        ]
+      },
+      "review": "The five alternatives are available only after the Survival failure. The river route has a second conditional Luck roll; it must not be simplified into an unconditional choice between 126 and 119."
+    },
+    {
+      "id": "keyword-example-022",
+      "source": {
+        "section": "22",
+        "paragraphId": "22:p4",
+        "pdfPage": 14,
+        "printedPage": 13
+      },
+      "type": "keyword-mutation",
+      "fields": {
+        "keyword": "BAREFOOT",
+        "scope": "run",
+        "targetConditionExamples": [
+          "52",
+          "53",
+          "45",
+          "604"
+        ]
+      },
+      "review": "Record the exact keyword when the instruction is reached. Do not infer it from nearby narrative or make it permanent across attempts."
+    },
+    {
+      "id": "damage-and-first-aid-examples",
+      "source": {
+        "section": "13,20,31,43-45,60,67,72",
+        "paragraphIds": [
+          "13:p3",
+          "20:p3",
+          "31:p2",
+          "43:p4",
+          "45:p3",
+          "60:p3",
+          "67:p3",
+          "72:p2"
+        ]
+      },
+      "type": "typed-mutations",
+      "fields": {
+        "individualHp": "per-character",
+        "firstAid": "skill-check followed by stated healing die/value",
+        "damage": "apply stated roll to named target(s)",
+        "sanity": "track Nadelmann only; companions do not track Sanity",
+        "cthulhuMythos": "explicit gains in entries such as 70 and 73",
+        "inventory": "per-item quantity and loss",
+        "trace": "provenance-only; never a decision"
+      },
+      "review": "All dice, recipients, conditions and ordering must be read from the individual source paragraph. Healing and damage are not automatic constant values unless the text says so."
+    },
+    {
+      "id": "user-authorized-roster-adaptation-513",
+      "source": {
+        "sections": [
+          "513",
+          "425"
+        ],
+        "paragraphIds": [
+          "513:p1",
+          "425:p1"
+        ]
+      },
+      "type": "source-gap-adaptation",
+      "fields": {
+        "roster": "investigator + Charlie + exactly one of Bernard/Sylvia/Norman",
+        "change": "hide the wild-return choice at §513; retain the printed §593 and §594 choices"
+      },
+      "review": "The user explicitly authorized this adaptation. It prevents the witnessed one-student roster from entering §425, whose printed outcomes do not cover it. This is not a source-printed rule or destination."
+    },
+    {
+      "id": "user-authorized-376-zero-hp-adaptation",
+      "source": {
+        "section": "376",
+        "paragraphIds": [
+          "376:p3"
+        ]
+      },
+      "type": "source-gap-adaptation",
+      "fields": {
+        "condition": "investigator HP reaches 0 while Norman is alive",
+        "destination": "191",
+        "state": "investigator remains at 0 HP and is unconscious"
+      },
+      "review": "The user explicitly authorized routing this otherwise unspecified outcome to §191. This is not the printed §376 route."
+    },
+    {
+      "id": "user-authorized-hp-zero-no-major-adaptation-355-391-616",
+      "source": {
+        "sections": [
+          "355",
+          "391",
+          "616"
+        ],
+        "paragraphIds": [
+          "355:p2",
+          "391:p2",
+          "391:p3",
+          "616:p2"
+        ],
+        "pdfPages": [
+          66,
+          71,
+          104
+        ]
+      },
+      "type": "user-authorized-adaptation",
+      "fields": {
+        "condition": "investigator HP reaches 0 in the source-specific assault/fight and no printed destination otherwise applies",
+        "destination": "191",
+        "state": "investigator remains at 0 HP and unconscious; original source text and die rolls are preserved"
+      },
+      "review": "Explicitly authorized by the user on 2026-10-14 as the minimal web-play fallback for otherwise unspecified HP-0 outcomes. The printed source does not assign §191 to these particular outcomes; this adaptation is not a printed rule or an official ending. §§355 and 616 still go to §347 when the investigator survives. §391 uses the source fight loss only when the investigator is incapacitated; surrender and victory routes remain unchanged.",
+      "authorizationDate": "2026-10-14"
+    },
+    {
+      "id": "user-authorized-unavailable-actor-failure-fallback-438",
+      "source": {
+        "section": "438",
+        "paragraphIds": [
+          "438:p2"
+        ],
+        "pdfPages": [
+          78
+        ]
+      },
+      "type": "user-authorized-adaptation",
+      "authorizationDate": "2026-10-14",
+      "fields": {
+        "condition": "Sylvia is absent or unconscious when §438 is reached",
+        "destination": "439",
+        "interpretation": "treat the unavailable actor as unable to succeed at the printed Hard POW check; do not roll, revive, or substitute another character"
+      },
+      "review": "The original §438 asks Sylvia for a Hard POW roll and gives §439 on failure, but a legal entry-1 route can reach §438 after her source-recorded unconsciousness at §186. The user authorized future minimal web-play adaptations. Preserve the printed paragraph and use its failure destination when Sylvia cannot act; a present, conscious Sylvia still makes the printed check."
+    },
+    {
+      "id": "capture-fight-228",
+      "source": {
+        "section": "228",
+        "paragraphIds": [
+          "228:p2",
+          "228:p3"
+        ]
+      },
+      "type": "combat-maneuver",
+      "fields": {
+        "maneuver": "Repeat Brawl maneuver attempts until captured or the printed knockout route; preserve player Dodge/fight-back choices.",
+        "opposed": "Brawl 50",
+        "buildModifier": "No opponent Build value is printed; do not invent a Build modifier.",
+        "ties": "initiator wins equal maneuver/fight-back levels; Dodge wins equal levels."
+      },
+      "externalRulesReference": "https://www.chaosium.com/rules/combat.html",
+      "review": "Candidate uses the source printed Brawl 50 as the opposed target; the paragraph does not provide the opponent STR/SIZ/build needed for a separate attribute-based maneuver modifier."
+    },
+    {
+      "id": "roster-routing-context-425-442",
+      "source": {
+        "sections": [
+          "425",
+          "442",
+          "598",
+          "599",
+          "600",
+          "601",
+          "602",
+          "603",
+          "604",
+          "437",
+          "438",
+          "439",
+          "440",
+          "446",
+          "447"
+        ],
+        "paragraphIds": [
+          "425:p2",
+          "442:p2",
+          "598:p3",
+          "599:p2",
+          "600:p2",
+          "601:p2",
+          "602:p3",
+          "603:p2",
+          "604:p2",
+          "437:p2",
+          "438:p2",
+          "439:p2",
+          "440:p2",
+          "446:p4",
+          "447:p3"
+        ]
+      },
+      "type": "source-context-inference",
+      "fields": {
+        "section425": {
+          "allPersonnel": "Nadelmann, Charlie, Bernard, Sylvia, Norman present -> 602",
+          "twoStudentsRemain": "Exactly two of Bernard/Sylvia/Norman present (plus Nadelmann); Charlie presence does not change this printed condition -> 600",
+          "charlieAloneLost": "Charlie absent and all three students present -> 604",
+          "bernardAloneLost": "Charlie, Sylvia, Norman present and Bernard absent -> 598",
+          "adaptedWitness": "Seed 105 entry-1 witness: investigator+Charlie+only Norman reaches §425. The user authorized a §513 menu gate for this exact roster, retaining printed §593/§594.",
+          "entryCondition": "The printed §513 wild-return choice enters §425; source contexts and this legal entry route must both be considered."
+        },
+        "section442": {
+          "students": [
+            "Bernard",
+            "Sylvia",
+            "Norman"
+          ],
+          "lostCount": "Count each student whose present state is false, including earlier missing, absent, or dead outcomes; Charlie is not a student.",
+          "routesByLostCount": {
+            "0": "158",
+            "1": "324",
+            "2": "279",
+            "3": "67"
+          }
+        }
+      },
+      "review": "The §425 interpretation follows its linked entry conditions: two of the three students remain regardless of Charlie presence, and the explicitly enumerated follow-up cases retain their printed routes. §442 counts only the three students and carries forward prior missing, absent, or dead state. Do not count Charlie among the students."
+    },
+    {
+      "id": "companion-conditional-route-example-594",
+      "source": {
+        "section": "594",
+        "paragraphIds": [
+          "594:p2",
+          "594:p3"
+        ],
+        "pdfPage": 110,
+        "printedPage": 109
+      },
+      "type": "conditional-roster-routing",
+      "fields": {
+        "allCompanions": "602",
+        "allThreeStudentsWithoutCharlie": "158",
+        "NormanSylviaCharlie": "598",
+        "twoCompanions": "324",
+        "oneCompanion": "279",
+        "alone": "597"
+      },
+      "review": "These are ordered conditional tests on companion presence, not a menu of six options. Evaluate the printed predicates in source order."
+    },
+    {
+      "id": "multi-actor-checks-and-targeted-combat-271-406-446",
+      "source": {
+        "section": "271,406,446",
+        "paragraphIds": [
+          "271:p2-p4",
+          "406:p2",
+          "446:p2-p4"
+        ]
+      },
+      "type": "party-checks-and-combat",
+      "fields": {
+        "271": {
+          "wolfHp": 12,
+          "wolfBaseHp": 15,
+          "wolfAttack": "30% (15/6)",
+          "wolfDamage": "1D8+1D4",
+          "firearmPenaltyDie": true,
+          "fumbleMayHitNorman": true,
+          "meleeBonusDieWhenHelpingNorman": true,
+          "conditionalOutcome": "wolf dies before Norman / Norman dies"
+        },
+        "406": {
+          "individualDodgeForEachPartyMember": true,
+          "fail": "2D6 HP then 347",
+          "bothNormanAndSylviaFail": "491",
+          "onlySylviaFails": "278",
+          "onlyNormanFails": "490",
+          "allSucceed": "293"
+        },
+        "446": {
+          "individualPsychologyForEachPartyMember": true,
+          "successMayPointBlankShootWithBonusDie": true,
+          "charlieAttack": "35% (17/7)",
+          "charlieDamage": "2D6+1",
+          "targetOrder": [
+            "Bernard",
+            "Nadelmann"
+          ],
+          "charlieHp": 28
+        }
+      },
+      "review": "The engine must resolve each named actor's check, modifiers, target order, damage and HP. Conditional results cannot be exposed as unqualified choices."
+    },
+    {
+      "id": "companions-do-not-track-sanity-and-heal-as-a-group-544",
+      "source": {
+        "section": "544",
+        "paragraphIds": [
+          "544:p1-p2"
+        ],
+        "pdfPage": 98,
+        "printedPage": 97
+      },
+      "type": "party-healing",
+      "fields": {
+        "firstAidCheck": "First Aid",
+        "onSuccess": "healer and companions each regain 1D3 HP",
+        "target": "all current companions"
+      },
+      "review": "Preserve each companion's own HP counter. Nadelmann's Sanity is tracked; companion Sanity is not."
+    },
+    {
+      "id": "companion-conditional-route-example-594",
+      "source": {
+        "section": "594",
+        "paragraphIds": [
+          "594:p2",
+          "594:p3"
+        ],
+        "pdfPage": 110,
+        "printedPage": 109
+      },
+      "type": "conditional-roster-routing",
+      "fields": {
+        "allCompanions": "602",
+        "allThreeStudentsWithoutCharlie": "158",
+        "NormanSylviaCharlie": "598",
+        "twoCompanions": "324",
+        "oneCompanion": "279",
+        "alone": "597"
+      },
+      "review": "These are ordered conditional tests on companion presence, not a menu of six options. Evaluate the printed predicates in source order."
+    },
+    {
+      "id": "multi-actor-checks-and-combat-271-406-446",
+      "source": {
+        "section": "271,406,446",
+        "paragraphIds": [
+          "271:p2-p4",
+          "406:p2",
+          "446:p2-p4"
+        ]
+      },
+      "type": "party-checks-and-combat",
+      "fields": {
+        "271": {
+          "wolfHp": 12,
+          "wolfBaseHp": 15,
+          "wolfAttack": "30% (15/6)",
+          "wolfDamage": "1D8+1D4",
+          "firearmPenaltyDie": true,
+          "fumbleMayHitNorman": true,
+          "meleeBonusDieWhenHelpingNorman": true,
+          "conditionalOutcome": "wolf dies before Norman / Norman dies"
+        },
+        "406": {
+          "individualDodgeForEachPartyMember": true,
+          "fail": "2D6 HP then 347",
+          "bothNormanAndSylviaFail": "491",
+          "onlySylviaFails": "278",
+          "onlyNormanFails": "490",
+          "allSucceed": "293",
+          "compiled": "Five ordered Dodge checks for the investigator and present, awake companions; each failure applies 2D6 damage to that member, then source-order destination predicates."
+        },
+        "446": {
+          "individualPsychologyForEachPartyMember": true,
+          "successMayPointBlankShootWithBonusDie": true,
+          "charlieAttack": "35% (17/7)",
+          "charlieDamage": "2D6+1",
+          "targetOrder": [
+            "Bernard",
+            "Nadelmann"
+          ],
+          "charlieHp": 28,
+          "compiled": "Psychology and optional point-blank attacks followed by Charlie combat; prior shot damage is carried into the party fight."
+        }
+      },
+      "review": "The engine must resolve each named actor check, modifiers, target order, damage and HP. Conditional results cannot be exposed as unqualified choices."
+    },
+    {
+      "id": "companions-heal-as-group-544",
+      "source": {
+        "section": "544",
+        "paragraphIds": [
+          "544:p1-p2"
+        ],
+        "pdfPage": 98,
+        "printedPage": 97
+      },
+      "type": "party-healing",
+      "fields": {
+        "firstAidCheck": "First Aid",
+        "onSuccess": "healer and companions each regain 1D3 HP",
+        "target": "all current companions"
+      },
+      "review": "Preserve each companion HP counter. Nadelmann Sanity is tracked; companion Sanity is not."
+    },
+    {
+      "id": "source-unknown-starting-weapon-counts",
+      "source": {
+        "characterSheetPdfPage": 111,
+        "characterSheetPrintedPage": 110,
+        "sections": [
+          "13",
+          "25",
+          "45",
+          "156"
+        ],
+        "evidence": "Nadelmann weapon table prints hatchet, medium knife and .30-06 bolt-action rifle profiles but no carried quantity; later numbered rules provide loss/remaining rolls."
+      },
+      "type": "source-gap-adaptation",
+      "fields": {
+        "startup": "Player registers group totals with minimum 0 and technical maximum 30, then distributes each item; no initial amount is inferred from the weapon profiles.",
+        "startingMinimums": {
+          "hatchet": 0,
+          "knife": 0,
+          "rifle": 0
+        },
+        "technicalInputMaximum": 30,
+        "section25": "restore each member item count to registered baseline",
+        "sections45and156": "Apply the source roll to current team total; if the printed remaining count exceeds registered inventory, preserve the roll and let the player correct the unverified starting inventory rather than rerolling or inventing stock.",
+        "conflict": "If a stored loss roll exceeds registered stock, preserve the original roll and allow correction of the source-unknown starting quantity, then redistribute; never invent stock or reroll."
+      },
+      "review": "The source contains no starting weapon quantities; do not infer one weapon per person or five copies from the five character sheets. Opening registration is a player-supplied compatibility value, not official equipment. All three quantities may be zero; 30 is only a technical input ceiling. If a stored source roll conflicts with current inventory, preserve the roll and allow correction of the unverified registration; never add stock or reroll."
+    },
+    {
+      "id": "two-sasquatch-encounter-391-392",
+      "sourceSections": [
+        "391",
+        "392"
+      ],
+      "sourceParagraphs": [
+        "391:p2",
+        "391:p3",
+        "392:p2"
+      ],
+      "status": "compiled-candidate",
+      "review": "§391 uses two separately tracked 18 HP opponents, one point-blank player rifle shot with a bonus die, source melee weapon inventory, source surrender destinations conditioned on Sylvia being present, and escape only when each opponent has lost at least 9 HP. §392 uses the fight-local investigator damage counter: positive damage triggers CON success→343/failure→342; zero damage routes to 365. Global injury routing is source-overridden at §391 so the printed expedition-over outcome governs; global wound/unconscious flags remain recorded."
+    },
+    {
+      "id": "wind-walker-combat-186",
+      "sourceSections": [
+        "186"
+      ],
+      "sourceParagraphs": [
+        "186:p2",
+        "186:p3",
+        "186:p4"
+      ],
+      "status": "compiled-candidate",
+      "review": "Enemy-first party combat tracks the wind-walker at 17 HP and treats HP below 3 as flight. After two rounds Norman and Sylvia receive separate SAN checks; failures persist unconsciousness, successes permit the student to join. The investigator gain 1D6 SAN on victory and the printed loss ends the expedition. The fallen-branch club damage is not specified in §186; the candidate applies the CoC 7e Quick-Start small-club profile (1D6+DB) as an explicit general-rule adaptation, not as an original printed §186 value.",
+      "externalRulesReference": "https://www.chaosium.com/content/FreePDFs/CoC/CHA23131%20Call%20of%20Cthulhu%207th%20Edition%20Quick-Start%20Rules.pdf"
+    },
+    {
+      "id": "dire-wolf-group-fight-307",
+      "source": {
+        "section": "307",
+        "paragraphIds": [
+          "307:p1",
+          "307:p2",
+          "307:p3"
+        ]
+      },
+      "type": "party-combat",
+      "fields": {
+        "wolfCount": "reuse §286 remaining count when present; otherwise roll 2D6 once",
+        "allocation": "one-third targets each expedition member; first leftover to Sylvia, second to Norman",
+        "playerFight": "player fights only floor(total/3) wolves targeted at them",
+        "wolf": "HP 15, Brawl 30, damage 1D8+1D4",
+        "smallPack": "fewer than 3 -> help student at 271 or flee to 340",
+        "outcome": "win without injury -> 340; survive with injury -> 347; investigator incapacitated/dead -> source THE END"
+      },
+      "review": "The source defines the investigator’s opponent group as one-third of the pack. Enemy count is a saved integer division; unused participant wolves are not imported into the investigator’s combat."
+    },
+    {
+      "id": "companion-availability-guards-333-469",
+      "source": {
+        "sections": [
+          "333",
+          "469"
+        ],
+        "paragraphIds": [
+          "333:p1",
+          "333:p2",
+          "469:p5",
+          "469:p6"
+        ]
+      },
+      "type": "source-roster-guard",
+      "fields": {
+        "333": "Norman must be present and awake for the paired stealth check; otherwise stop with collect:false because the source gives no destination.",
+        "469": "Sylvia and Norman must both be awake for the printed Sylvia STR vs Norman SIZ opposed check; otherwise stop with collect:false."
+      },
+      "review": "These guards remove the runtime error caused by trying to resolve a check for an absent or unconscious named actor. They do not offer players a substitute actor."
+    },
+    {
+      "id": "companion-name-display",
+      "source": {
+        "characterSheets": [
+          "Sylvia p112",
+          "Norman p114",
+          "Charlie p116",
+          "Bernard p118"
+        ],
+        "pdfPages": [
+          113,
+          115,
+          117,
+          119
+        ]
+      },
+      "type": "character-display",
+      "fields": {
+        "sylvia": "西尔维娅·戴维森，23岁",
+        "norman": "诺曼·福克纳，41岁",
+        "charlie": "查理·狐尾，35岁",
+        "bernard": "伯纳德·埃布斯坦，22岁"
+      },
+      "review": "Companion IDs remain stable machine keys; player-facing Character.name and profile.age use verified sheet values."
+    },
+    {
+      "id": "early-companion-state-transitions",
+      "source": {
+        "sections": [
+          "23",
+          "30",
+          "38",
+          "41",
+          "42",
+          "50",
+          "52",
+          "61",
+          "66",
+          "71",
+          "82",
+          "137",
+          "148",
+          "149",
+          "150",
+          "190",
+          "198",
+          "233",
+          "234",
+          "295",
+          "312",
+          "319",
+          "368",
+          "401",
+          "455",
+          "525",
+          "563",
+          "564",
+          "565",
+          "651"
+        ],
+        "paragraphIds": [
+          "23:p1",
+          "30:p1",
+          "38:p1",
+          "41:p1",
+          "42:p1",
+          "50:p1",
+          "52:p1",
+          "61:p1",
+          "66:p1",
+          "71:p1",
+          "82:p1",
+          "137:p1",
+          "148:p1",
+          "149:p1",
+          "150:p1",
+          "190:p1",
+          "198:p1",
+          "233:p1",
+          "234:p1",
+          "295:p1",
+          "312:p1",
+          "319:p1",
+          "368:p1",
+          "401:p1",
+          "455:p1",
+          "525:p1",
+          "563:p1",
+          "564:p1",
+          "565:p1",
+          "651:p1"
+        ]
+      },
+      "type": "source-state-tracking",
+      "fields": {
+        "death": "Set dead only where the source explicitly confirms death (for example Bernard in §§23,42,50,233; Sylvia in §§66,198; Charlie in §651; students drowning in §319).",
+        "departure-or-loss": "Set missing for departed, abducted, lost, or left-behind companions (§§30,38,41 choice,50,52,61,66,71,82,137,148-150 continued flight,190,233,234,295,312,368,455,525,563,565).",
+        "rejoining": "§401 explicitly says Sylvia runs to rejoin the party, and §564 explicitly frees and recovers her; set present at those entries.",
+        "no-hp-inference": "State transitions do not infer damage or modify HP; the §319 drown choice is a distinct explicit death outcome.",
+        "unconscious": "§§235/237 mark named companions unconscious without changing HP; §283 explicitly says Sylvia is no longer comatose, so restore before her Hard POW check."
+      },
+      "review": "These status changes are bound to the cited English body text, and only choice-specific consequences are attached to their corresponding choice. This is a targeted correction pass; it does not assert every companion reference in the book changes persistent status."
+    },
+    {
+      "id": "user-authorized-594-roster-guard",
+      "source": {
+        "sections": [
+          "513",
+          "594"
+        ],
+        "paragraphIds": [
+          "513:p2",
+          "594:p2"
+        ]
+      },
+      "type": "roster-routing-adaptation",
+      "authorization": {
+        "date": "2026-10-14",
+        "summary": "User approved offering the §594 short trip only when its printed destination and downstream companion text can accept the current roster; all other rosters retain §593. No characters are replaced and no destination is invented."
+      },
+      "fields": {
+        "allowedRosters": [
+          {
+            "companions": [
+              "charlie",
+              "bernard",
+              "sylvia",
+              "norman"
+            ],
+            "destination": "602"
+          },
+          {
+            "companions": [
+              "bernard",
+              "sylvia",
+              "norman"
+            ],
+            "destination": "158"
+          },
+          {
+            "companions": [
+              "charlie",
+              "norman",
+              "sylvia"
+            ],
+            "destination": "598"
+          },
+          {
+            "companions": [
+              "norman",
+              "sylvia"
+            ],
+            "destination": "324"
+          },
+          {
+            "companions": [
+              "norman"
+            ],
+            "destination": "279"
+          },
+          {
+            "companions": [],
+            "destination": "597"
+          }
+        ],
+        "otherRosters": "Hide §594 at §513 and preserve §593. A legacy/direct §594 entry with unsupported roster falls back to the same printed §593 option."
+      },
+      "review": "The two-companion route is limited to Norman and Sylvia because §324 is printed for Nadelmann plus the two graduate students. The one-companion route is limited to Norman because §279 explicitly names Norman. The guard is an authorized web adaptation on 2026-10-14; the printed reference directions remain unchanged.",
+      "authorizationDate": "2026-10-14"
+    },
+    {
+      "id": "source-lethal-injury-routing",
+      "source": {
+        "sections": [
+          "189",
+          "385",
+          "407",
+          "412",
+          "512",
+          "514",
+          "536"
+        ],
+        "paragraphIds": [
+          "189:p2",
+          "385:p2",
+          "407:p2",
+          "412:p2",
+          "512:p2",
+          "514:p2",
+          "536:p2"
+        ]
+      },
+      "type": "source-health-routing",
+      "fields": {
+        "policy": "injury=source on each numbered source procedure and all frost-<section>-* helpers",
+        "effect": "Do not globally divert source-directed lethal damage at 0 HP to §191; each numbered source procedure resolves its own death or printed escape destination (including §407 smoke inhalation).",
+        "candidates": [
+          "1.0.56-candidate",
+          "1.0.57-candidate",
+          "1.0.58-candidate",
+          "1.0.59-candidate",
+          "1.0.60-candidate",
+          "1.0.61-candidate",
+          "1.0.62-candidate",
+          "1.0.63-candidate"
+        ]
+      },
+      "review": "Applied separately to the relevant numbered procedure and its helper nodes. This preserves source-specific deaths and routes; it does not classify every event as drowning."
+    },
+    {
+      "id": "source-specific-lethal-ending-identities",
+      "source": {
+        "sections": [
+          "12",
+          "189",
+          "385",
+          "407",
+          "412",
+          "512",
+          "514",
+          "536"
+        ],
+        "paragraphIds": [
+          "12:p2",
+          "189:p2",
+          "385:p2",
+          "407:p2",
+          "412:p2",
+          "512:p2",
+          "514:p2",
+          "536:p2"
+        ]
+      },
+      "type": "canonical-ending-identity",
+      "fields": {
+        "canonicalIds": {
+          "12": "frost-12-drowning-ending",
+          "189": "frost-189-drowning-ending",
+          "385": "frost-385-drowning-ending",
+          "407": "frost-407-smoke-ending",
+          "412": "frost-412-drowning-ending",
+          "512": "frost-512-drowning-ending",
+          "514": "frost-514-drowning-ending",
+          "536": "frost-536-drowning-ending"
+        },
+        "withinSection": "All loop/helper exits for a given numbered section share that section ID. Different numbered source sections remain distinct.",
+        "deathCause": {
+          "407": "Smoke inhalation after failed Hard CON rolls, not drowning; the English prints only “The Nadelmann Expedition is over. THE END.”"
+        }
+      },
+      "review": "Loop/helper attempts within each source section share one collection ID. Different source sections remain distinct. §407 is a smoke-inhalation death, with its own collection ID; endpoint labels remain neutral rather than invented official titles."
+    },
+    {
+      "id": "companion-awake-and-death-transitions",
+      "sourceParagraphs": [
+        "135:p2",
+        "282:p1",
+        "328:p1",
+        "469:p5",
+        "469:p6",
+        "543:p1",
+        "145:p1",
+        "211:p2"
+      ],
+      "type": "source-state-transition",
+      "fields": {
+        "section135": "Only present, awake companions are eligible for the per-member firearms and DEX actions; the player investigator remains eligible independently.",
+        "section282": "Sylvia is described as lifeless and drenched in blood; set her status to dead.",
+        "section328": "Norman suddenly sits up after the preceding unconscious/death scene; restore consciousness only, with no HP restoration.",
+        "section469": "The §469 narrative explicitly places Sylvia and Norman in the ravine scene. Set either missing living student present and awake for that printed scene; if either is explicitly dead, preserve death and stop at a noncollectible source-conflict node. No HP is restored.",
+        "section543": "Norman rallies, climbs to his feet, and speaks; clear his unconscious state without changing HP.",
+        "section145": "§145 explicitly depicts the investigator, Norman, and Sylvia carried to camp. The 1,200-target probe reached §145 71 times: 70 with both present and one with Sylvia missing; none of those observed arrivals had either student dead. The source-state does not revive dead companions.",
+        "section211": "§211 explicitly narrates Norman and Sylvia being beheaded; set both status=dead before the printed 1D10 roll, preserving its outcomes to §§263/265. Do not clear or revive these deaths in later sections."
+      },
+      "review": "These are source-grounded state changes, not inferred healing or resurrection. §366 rifle loops stop once registered rifle count is exhausted so empty inventory does not execute false checks."
+    },
+    {
+      "id": "male-dead-sylvia-210-to-255-adaptation",
+      "source": {
+        "section": "210",
+        "paragraphIds": [
+          "210:p5"
+        ]
+      },
+      "type": "user-authorized-adaptation",
+      "fields": {
+        "printedRule": "Female Dr. Nadelmann -> §255; male Dr. Nadelmann -> §260.",
+        "authorizedCondition": "Male Dr. Nadelmann and Sylvia already recorded dead -> §255, using the investigator own POW vs 90 and the printed outcomes to §§256/259.",
+        "textTreatment": "§255 Chinese uses gender-neutral “这具躯壳” for the possessed body, preserving the source English text unchanged."
+      },
+      "authorizationDate": "2026-10-14",
+      "review": "Dated web-play adaptation, not a printed original branch. The male/Sylvia-alive route remains §260; the female route remains §255. Direct/legacy §260 with Sylvia recorded dead preserves death and reuses existing §255, avoiding a noncollectible stop. The only printed entry to §260 is §210; its female and male-with-dead-Sylvia cases use existing §255. For a legacy/direct §260 entry with Sylvia recorded dead, preserve death and reuse §255 rather than stop or revive her."
+    },
+    {
+      "id": "dead-sylvia-ridge-options-guard",
+      "sourceSections": [
+        "324",
+        "600",
+        "601"
+      ],
+      "sourceParagraphs": [
+        "324:p2",
+        "600:p2",
+        "601:p2"
+      ],
+      "type": "user-authorized-adaptation",
+      "fields": {
+        "condition": "party.sylvia.dead == 1",
+        "effect": "Hide only the printed ridge choice to §469; keep the other printed travel choices."
+      },
+      "authorizationDate": "2026-10-14",
+      "review": "Preserves the printed choices that do not require Sylvia; prevents reaching the explicit §469 Sylvia/Norman scene with Sylvia dead. No new destination is added."
+    },
+    {
+      "id": "section-202-bernard-rescued",
+      "source": {
+        "section": "202",
+        "paragraphIds": [
+          "202:p1",
+          "202:p2"
+        ]
+      },
+      "type": "source-state-transition",
+      "fields": {
+        "condition": "Bernard is missing but not dead when entering §202.",
+        "effect": "The prose says the others cut Bernard free. Set a missing Bernard present, but do not clear unconsciousness or change HP. Continue to the only printed destination, §131, whether Bernard is alive or already dead.",
+        "deadHandling": "Preserve an explicitly recorded death; cutting him free does not resurrect him."
+      },
+      "review": "Source-grounded state handling. §§23 and 85/86/133/202 contain a continuity contradiction; preserve both printed text and route, record the contradiction, and do not stop or revive."
+    },
+    {
+      "id": "section-90-91-bernard-eligibility",
+      "source": {
+        "section": "90-91",
+        "paragraphIds": [
+          "90:p1",
+          "91:p2"
+        ]
+      },
+      "type": "source-actor-eligibility",
+      "fields": {
+        "condition": "§91 requires Bernard to make the DEX check.",
+        "effect": "At §90 expose the §91 option only when Bernard is present and awake. Keep the printed §158 return option available. At §91 use Bernard as the check actor; do not substitute another character or invent a result."
+      },
+      "review": "Eligibility follows the printed named actor and the runtime’s awake/present requirement; no destination is added."
+    },
+    {
+      "id": "section-407-three-hard-con-successes",
+      "source": {
+        "section": "407",
+        "paragraphIds": [
+          "407:p2",
+          "407:p3"
+        ]
+      },
+      "type": "source-repeat-and-fatal-damage",
+      "fields": {
+        "successRequirement": 3,
+        "check": "Hard CON, repeated until three successes or death",
+        "failure": "Each failed attempt causes 1D3 smoke-inhalation damage; the first failure and every later failure cause damage.",
+        "successDestination": "408",
+        "deathEnding": "frost-407-smoke-ending",
+        "implementation": "The repeat procedure remains open after one or two successes; only three recorded successes return to §408."
+      },
+      "review": "The three-success counter is source-mandated; one success does not exit the sequence. The distinct endpoint is smoke inhalation, not drowning. Terminal helper titles are the neutral player-facing “探险结束”."
+    },
+    {
+      "id": "bernard-death-vs-rescue-contradiction",
+      "source": {
+        "sections": [
+          "23",
+          "85",
+          "86",
+          "133",
+          "202"
+        ],
+        "paragraphIds": [
+          "23:p1",
+          "23:p2",
+          "85:p1",
+          "86:p1",
+          "133:p1",
+          "202:p1"
+        ]
+      },
+      "type": "source-continuity-conflict",
+      "fields": {
+        "explicitDeath": "§23 says Bernard’s head is missing and his body is cleaved off at the shoulders; §23 then offers pursuit of his killers. Preserve status=dead.",
+        "contradictoryLaterText": "The subsequent pursuit branch §§85/86/133 depicts Bernard captured alive, and §202 says the others cut him free.",
+        "legalWitness": "routes-074.json seed 104 supplies the source-valid prefix 23→137→87→58→59→86→133→135→202. Replayed on the .75 candidate in section-202-dead-route-075.json; §202 reaches printed §131 with Bernard still dead.",
+        "handling": "Preserve the explicit death, rescue prose, and printed §202→131 route. Do not revive Bernard or add a stop. Record the mismatch as source continuity, not a runtime blocker."
+      },
+      "review": "The source is internally inconsistent across branches. Runtime preserves status and printed route without fabricating a resurrection or alternate destination; the legal .75 replay reaches §131."
+    },
+    {
+      "id": "remaining-party-sanity-checks-201",
+      "source": {
+        "section": "201",
+        "paragraphIds": [
+          "201:p2"
+        ],
+        "pdfPages": [
+          35
+        ]
+      },
+      "type": "conditional-sanity-checks",
+      "fields": {
+        "checks": "investigator, then each remaining conscious student",
+        "unavailableStudent": "skip the check; their success counter remains false for the printed outcome matrix"
+      },
+      "review": "The source explicitly limits checks to each remaining party member. A source-dead, missing, or unconscious student is not asked to roll; their initialized success flag remains false and the printed combination routing determines the next section."
+    },
+    {
+      "id": "456-multiple-companion-loss-web-adaptation",
+      "source": {
+        "section": "456",
+        "paragraphIds": [
+          "456:p4"
+        ]
+      },
+      "type": "user-authorized-adaptation",
+      "authorizationDate": "2026-10-14",
+      "fields": {
+        "printed": "five members -> §547; one lost -> §437",
+        "adaptation": "two or more companions lost -> §437, after preserving the printed 1D6 damage and §456 body."
+      },
+      "review": "User authorized the minimum web-play adaptation. The existing printed §437 continuation is reused; no new destination or ending is created. Unavailable named actors follow their printed failed-check destinations."
+    },
+    {
+      "id": "user-authorized-adaptation-476-fourth-outcome",
+      "source": {
+        "section": "476",
+        "paragraphIds": [
+          "476:p1"
+        ]
+      },
+      "type": "user-authorized-adaptation",
+      "fields": {
+        "printedOutcomes": {
+          "investigator succeeds, Norman succeeds": "513",
+          "investigator succeeds, Norman fails": "336",
+          "investigator fails, Norman fails": "332"
+        },
+        "adaptedUnprintedOutcome": {
+          "investigator fails, Norman succeeds": "332"
+        },
+        "authorization": "The user explicitly authorized mapping the unprinted fourth combination to 332 for web play. This does not claim the source prints that outcome."
+      },
+      "authorizationDate": "2026-10-13",
+      "review": "Preserve all three printed combinations and record the fourth as a dated web-play adaptation authorized by the user; do not silently present it as original text."
+    },
+    {
+      "id": "source-card-and-hatchet-specialization-correction",
+      "source": {
+        "pdfPage": 111,
+        "printedPage": 110
+      },
+      "version": "1.0.5",
+      "review": "mechanics-reviewed-runtime-incomplete; Printed Credit Rating 64 is restored. Separate Hatchet/Axe weapon skill no longer uses Brawl. Blank Hatchet base 15 is an authorized web adaptation (user 2026-10-14), explicitly distinguished from the printed card; Charlie Axe 50 maps to Hatchet. Full actual routes must be re-executed before acceptance."
+    }
+  ],
+  "blockers": [
+    "Candidate content 1.0.0 is complete but remains in work/; root must finish its authorized 78-role-ending API replay and desktop/mobile acceptance before any formal publication."
+  ],
+  "candidateVersion": "1.0.0",
+  "ledgerRecovery": {
+    "incidentDate": "2026-10-14",
+    "destructiveCommand": "python3 tools/story/build_frost.py review --output scripts/alone-against-frost/review/rules.json",
+    "effect": "The generated program-review output overwrote the curated coc-frost-rule-review@1 ledger. The command was unauthorized by the intended output contract; the mistake was disclosed to the parent agent.",
+    "recoveryInputs": [
+      "/private/tmp/frost-ledger-original.json (captured original 10-mechanism ledger)",
+      "/private/tmp/frost-ledger-mutation-blocks.json (38 chronological Python mutation blocks)",
+      "/private/tmp/frost-ledger-mutation-patches.json (22 extracted apply_patch records)",
+      "/private/tmp/frost-ledger-commands.json (253 captured commands)",
+      "/Users/ftan/.codex/sessions/2026/10/13/rollout-2026-10-13T14-00-28-01a133d9-1b05-7af1-9786-97986591edee.jsonl"
+    ],
+    "recoveryMethod": "Reconstructed from the captured baseline and authoring records, then corrected the §425/442 row from patch 10811 and restored the §476 adaptation from patch 10139. This is a source-reviewed reconstruction, not a claim of byte-identical restoration.",
+    "preservation": "The accidental command and recovery provenance are documented here; runtime-program-001-654.json is maintained as the generated review output and is not the curated ledger."
+  },
+  "locatorVisualCorrections": {
+    "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+    "pages": [
+      {
+        "pdfPage": 7,
+        "printedPage": 6,
+        "render": "work/alone-against-frost/visual-review-front/coc-frost-front-007.png",
+        "renderSha256": "ed05c4c0bc238b77d344f419eeeeaa3280cf8c2e7f7dc0cdfa8cb8d01cb2db90",
+        "review": "Root visually checked the actual footer and the health/creation instructions. Printed footer is single digit, not the duplicated native extraction locator."
+      },
+      {
+        "pdfPage": 8,
+        "printedPage": 7,
+        "render": "work/alone-against-frost/visual-review-front/coc-frost-front-008.png",
+        "renderSha256": "0ae091d5d94ec04ac230db32f189dfd826146506b467c723c8d40f09a680ae9f",
+        "review": "Root visually checked the actual footer and the health/creation instructions. Printed footer is single digit, not the duplicated native extraction locator."
+      }
+    ],
+    "scope": "Review citation metadata only. Raw extracted source and existing candidate manifests remain intact."
+  }
+}

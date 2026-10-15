@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "356",
+    "frost-auto-356"
+  ],
+  "text": [
+    "你听见诺曼发出可怕的恐惧哀嚎，顿时感到羞愧：一个如此热衷于求学的人，竟在你的野外考察中遭此下场。",
+    "你浑身剧痛、无力反抗，只能继续奔逃。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 356",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 356",
+      "text": [
+        "You hear a ghastly wail of fear from Norman and feel a wave of shame that a man so dedicated to his own education should come to this on your field trip.",
+        "Wracked and helpless, you race on."
+      ]
+    }
+  }
+}

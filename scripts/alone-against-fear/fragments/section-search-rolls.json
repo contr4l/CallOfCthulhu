@@ -1,173 +1,30 @@
 {
   "id": "section-search-rolls",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-search-rolls:p0000",
-      "kind": "body",
+      "id": "section-search-rolls:p0",
+      "kind": "heading",
       "text": "Search Rolls\n",
       "sourceLocation": "pdf:spans:[[38,491,504]]"
     },
     {
-      "id": "section-search-rolls:p0001",
+      "id": "section-search-rolls:p1",
       "kind": "body",
-      "text": "You will often look for creatures or\n",
-      "sourceLocation": "pdf:spans:[[38,504,541]]"
+      "text": "You will often look for creatures or\nitems, or general information\nabout the mysteries around you.\nWhenever you enter a box and you\nplay an encounter, or there is\nnothing in the box, you may\nperform a Search roll. Write an S in\nthe box as a reminder that you\nsearched it. You have only one\nchance of searching each box.\nExceptions: you may NOT Search a\nSafe House. You may Search a\nlibrary multiple times, but the only\nthing you can find is a book or 1\nClue. To perform a Search, roll d6\non the Search table below. Add +1\nif you have the Investigator Skill, or\n+2 if you have Investigator (Expert).\nA roll of 1 remains a 1: do not add\nmodifiers if you roll a 1.\n",
+      "sourceLocation": "pdf:spans:[[38,504,541],[38,541,571],[38,571,603],[38,603,636],[38,636,667],[38,667,695],[38,695,732],[38,732,763],[38,763,794],[38,794,824],[38,824,857],[38,857,886],[38,886,923],[38,923,957],[38,957,992],[38,992,1026],[38,1026,1065],[38,1065,1103],[38,1103,1139],[38,1139,1166]]"
     },
     {
-      "id": "section-search-rolls:p0002",
-      "kind": "body",
-      "text": "items, or general information\n",
-      "sourceLocation": "pdf:spans:[[38,541,571]]"
-    },
-    {
-      "id": "section-search-rolls:p0003",
-      "kind": "body",
-      "text": "about the mysteries around you.\n",
-      "sourceLocation": "pdf:spans:[[38,571,603]]"
-    },
-    {
-      "id": "section-search-rolls:p0004",
-      "kind": "body",
-      "text": "Whenever you enter a box and you\n",
-      "sourceLocation": "pdf:spans:[[38,603,636]]"
-    },
-    {
-      "id": "section-search-rolls:p0005",
-      "kind": "body",
-      "text": "play an encounter, or there is\n",
-      "sourceLocation": "pdf:spans:[[38,636,667]]"
-    },
-    {
-      "id": "section-search-rolls:p0006",
-      "kind": "body",
-      "text": "nothing in the box, you may\n",
-      "sourceLocation": "pdf:spans:[[38,667,695]]"
-    },
-    {
-      "id": "section-search-rolls:p0007",
-      "kind": "body",
-      "text": "perform a Search roll. Write an S in\n",
-      "sourceLocation": "pdf:spans:[[38,695,732]]"
-    },
-    {
-      "id": "section-search-rolls:p0008",
-      "kind": "body",
-      "text": "the box as a reminder that you\n",
-      "sourceLocation": "pdf:spans:[[38,732,763]]"
-    },
-    {
-      "id": "section-search-rolls:p0009",
-      "kind": "body",
-      "text": "searched it. You have only one\n",
-      "sourceLocation": "pdf:spans:[[38,763,794]]"
-    },
-    {
-      "id": "section-search-rolls:p0010",
-      "kind": "body",
-      "text": "chance of searching each box.\n",
-      "sourceLocation": "pdf:spans:[[38,794,824]]"
-    },
-    {
-      "id": "section-search-rolls:p0011",
-      "kind": "body",
-      "text": "Exceptions: you may NOT Search a\n",
-      "sourceLocation": "pdf:spans:[[38,824,857]]"
-    },
-    {
-      "id": "section-search-rolls:p0012",
-      "kind": "body",
-      "text": "Safe House. You may Search a\n",
-      "sourceLocation": "pdf:spans:[[38,857,886]]"
-    },
-    {
-      "id": "section-search-rolls:p0013",
-      "kind": "body",
-      "text": "library multiple times, but the only\n",
-      "sourceLocation": "pdf:spans:[[38,886,923]]"
-    },
-    {
-      "id": "section-search-rolls:p0014",
-      "kind": "body",
-      "text": "thing you can find is a book or 1\n",
-      "sourceLocation": "pdf:spans:[[38,923,957]]"
-    },
-    {
-      "id": "section-search-rolls:p0015",
-      "kind": "body",
-      "text": "Clue. To perform a Search, roll d6\n",
-      "sourceLocation": "pdf:spans:[[38,957,992]]"
-    },
-    {
-      "id": "section-search-rolls:p0016",
-      "kind": "body",
-      "text": "on the Search table below. Add +1\n",
-      "sourceLocation": "pdf:spans:[[38,992,1026]]"
-    },
-    {
-      "id": "section-search-rolls:p0017",
-      "kind": "body",
-      "text": "if you have the Investigator Skill, or\n",
-      "sourceLocation": "pdf:spans:[[38,1026,1065]]"
-    },
-    {
-      "id": "section-search-rolls:p0018",
-      "kind": "body",
-      "text": "+2 if you have Investigator (Expert).\n",
-      "sourceLocation": "pdf:spans:[[38,1065,1103]]"
-    },
-    {
-      "id": "section-search-rolls:p0019",
-      "kind": "body",
-      "text": "A roll of 1 remains a 1: do not add\n",
-      "sourceLocation": "pdf:spans:[[38,1103,1139]]"
-    },
-    {
-      "id": "section-search-rolls:p0020",
-      "kind": "body",
-      "text": "modifiers if you roll a 1.\n",
-      "sourceLocation": "pdf:spans:[[38,1139,1166]]"
-    },
-    {
-      "id": "section-search-rolls:p0021",
-      "kind": "body",
+      "id": "section-search-rolls:p2",
+      "kind": "heading",
       "text": "search rolls table (d6)\n",
       "sourceLocation": "pdf:spans:[[38,1491,1515]]"
     },
     {
-      "id": "section-search-rolls:p0022",
+      "id": "section-search-rolls:p3",
       "kind": "body",
-      "text": "1 Roll on the random encounter table, p.39.\n",
-      "sourceLocation": "pdf:spans:[[38,1515,1559]]"
-    },
-    {
-      "id": "section-search-rolls:p0023",
-      "kind": "body",
-      "text": "2-5 Nothing found.\n",
-      "sourceLocation": "pdf:spans:[[38,1559,1578]]"
-    },
-    {
-      "id": "section-search-rolls:p0024",
-      "kind": "body",
-      "text": "6 Success! Roll 4 times on the Useful Items table or on the\n",
-      "sourceLocation": "pdf:spans:[[38,1578,1638]]"
-    },
-    {
-      "id": "section-search-rolls:p0025",
-      "kind": "body",
-      "text": "Random Object table, and pick a single result; OR  gain 1 Clue.\n",
-      "sourceLocation": "pdf:spans:[[38,1638,1702]]"
-    },
-    {
-      "id": "section-search-rolls:p0026",
-      "kind": "body",
-      "text": "Roll at +1 if you have the Investigator Skill, +2 if you have\n",
-      "sourceLocation": "pdf:spans:[[38,1702,1764]]"
-    },
-    {
-      "id": "section-search-rolls:p0027",
-      "kind": "body",
-      "text": "Investigator (Expert). A roll of 1 remains a 1.",
-      "sourceLocation": "pdf:spans:[[38,1764,1811]]"
+      "text": "1 Roll on the random encounter table, p.39.\n2-5 Nothing found.\n6 Success! Roll 4 times on the Useful Items table or on the\nRandom Object table, and pick a single result; OR  gain 1 Clue.\nRoll at +1 if you have the Investigator Skill, +2 if you have\nInvestigator (Expert). A roll of 1 remains a 1.",
+      "sourceLocation": "pdf:spans:[[38,1515,1559],[38,1559,1578],[38,1578,1638],[38,1638,1702],[38,1702,1764],[38,1764,1811]]"
     }
   ],
   "sourcePages": [

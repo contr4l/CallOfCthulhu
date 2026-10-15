@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "239"
+  ],
+  "text": [
+    "你麻木地沉默着，看着伯纳德无头的躯干流血，染红大地。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 239",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 239",
+      "text": [
+        "In numb silence you watch Bernard’s headless trunk bleed into the earth."
+      ]
+    }
+  }
+}

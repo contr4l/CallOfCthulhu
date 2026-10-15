@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "384",
+    "frost-auto-384"
+  ],
+  "text": [
+    "你像奥运选手一样扎入水中，双手触到了湖底。湖水冰凉。你心跳如擂鼓，浮出水面后奋力划向岸边。上方的雪怪愤怒地呼喊、尖叫，但它们要追着你下悬崖，至少得花一个小时。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 384",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 384",
+      "text": [
+        "You knife into the water like an Olympic star and feel your hands touch bottom. The water is cool. Heart hammering, you surface and make mighty strokes to the bank. The sasquatches above hoot and scream in frustration. But it would take them an hour to pursue you down the cliff."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-special-events"
+  ],
+  "text": [
+    "Each of these events may happen only once in the game. As you play it, cross\nit off the table. If you get an event that has already occurred, reroll until you\nselect a new one. Once all special events have happened, treat any additional\nroll of 7 on the Exploration Table as a “House” result.",
+    "1\nThe Kid. You meet Mark, a scrawny, wide-eyed kid who wants\nto join you for protection. If you refuse, he will go away. If you\nallow him to be with you, roll d6. On a 1-3, play event #26. On\na 4-6, play event #37 instead.",
+    "2\nYou find a blood spattered random object from either the\nRandom Objects table or the Useful Stuff table. You may\nignore it or pick it up and play event #31.",
+    "3\nYou spot a random object that is precariously balanced on\nsome dangerous place. Feel free to invent the details, based\non your location and the object type. Reaching the object\nrequires a L4 climbing roll. Add +1 if you have the Agile skill,\nand +2 if you have it at Expert level. On a failure, you fall down\nand lose 1 Life. On a success, you gain the object and climb\ndown to safety. You may try as many times as you want.",
+    "4\nAs you walk in front of a house, a ghastly face appears at a\nwindow. Save vs. L3 Fear or lose 1 Sanity. If you choose to\nenter the building and investigate, play event #34 from the\nevent list at the end of this book. If you ignore the apparition,\njust carry on with your exploration.",
+    "5\nA chilly wind starts to blow . Until your next encounter is\nover, you may not use a torch, a candle, light any fire, or use\na Molotov cocktail.\n6 You stumble upon a pool of yellow goo in the middle of the\nroad. If you have a jar, you may pick up some."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special events table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件表（D6）",
+      "text": [
+        "每个事件在一局游戏中最多发生一次。游玩后将其从表中划掉。若掷出已经发生过的事件，重掷直到选出新事件。所有特殊事件都发生后，探索表再掷出7时一律视为“房屋”结果。",
+        "1\n孩子：遇到一个瘦弱、睁大眼睛的孩子马克，他想跟着你以寻求保护。若拒绝，他会离开；若同意，掷D6：1–3游玩事件#26，4–6改为游玩事件#37。",
+        "2\n发现一件沾有血迹的随机物品，可从随机物品表或有用物品表中选择来源。你可以无视它，或捡起并游玩事件#31。",
+        "3\n发现一件随机物品，危险地放在某处。可根据所在地点和物品类型自行想象细节。要拿到物品，需进行L4攀爬检定；敏捷技能+1，专家级敏捷+2。失败则跌落并损失1点生命。成功则获得物品并安全爬下。可以反复尝试。",
+        "4\n你走过一栋房屋时，一张可怕的脸出现在窗户里。进行L3恐惧防御检定，失败则损失1点理智。若选择进入建筑调查，游玩本书末尾事件列表中的事件#34；若无视幻影，继续探索。",
+        "5\n寒风吹起。下次遭遇结束前，不能使用火把、蜡烛，不能点火，也不能使用燃烧瓶。\n6 发现路中间有一滩黄色黏液。若有罐子，可以装取一些。"
+      ]
+    }
+  }
+}

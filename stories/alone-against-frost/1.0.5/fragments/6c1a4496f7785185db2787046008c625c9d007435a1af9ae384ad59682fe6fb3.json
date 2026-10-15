@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "207"
+  ],
+  "text": [
+    "你没有贸然行动是明智的。那人影正是失踪的向导查理·福克斯泰尔。但某种感觉让你无法庆幸。她空洞的目光令你血液发冷，可你感受到的似乎是困惑，而非恶意。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 207",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 207",
+      "text": [
+        "Your hesitation is wise. The figure is Charlie Foxtail, your missing guide. But something holds you back from celebration. She returns your stare with an emptiness that chills your blood. Yet you sense confusion, not malice, in the woman."
+      ]
+    }
+  }
+}

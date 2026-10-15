@@ -1,0 +1,18 @@
+{
+  "id": "3",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "3:p0",
+      "kind": "heading",
+      "text": "# 3 - Possessed car\n",
+      "sourceLocation": "pdf:spans:[[77,2014,2034]]"
+    },
+    {
+      "id": "3:p1",
+      "kind": "body",
+      "text": "As you walk down the street, an\nominous-looking black car revs up\nand charges at you. Make a L4 Save,at +1 if you are Agile, +2 if  Agile at\nExpert level. If you fail, lose 2 Life.\nIf you pass the first save, you may\nmove out of the street and avoid\nfurther attacks. If the car hits you,\nyou are knocked down and the car\nwill try to run over you (make\nanother Save as above, with the\nsame consequences).\nIf you have a grenade, you may use\nit to destroy the car and recover 1\nSanity as you do so. If you destroy\nthe car, that is a 1 in 6 chance of a\ndemon appearing and attacking\nyou.\nDemon, L6, 8 Life, flying (you may\nnot escape from this fight).\nSusceptible to holy water and\nexorcism. When the demon first\nappears, save vs. L4 Fear or lose 1\nSanity.\nIf you destroy the car, you find 1\nrandom enchanted item in the\nwrecked vehicle (roll on the\nEnchanted Item table).\n",
+      "sourceLocation": "pdf:spans:[[77,2034,2066],[77,2066,2100],[77,2100,2135],[78,22,62],[78,62,102],[78,102,138],[78,138,171],[78,171,209],[78,209,242],[78,242,273],[78,273,305],[78,305,325],[78,325,360],[78,360,396],[78,396,432],[78,432,470],[78,470,500],[78,500,505],[78,505,540],[78,540,569],[78,569,599],[78,599,630],[78,630,666],[78,666,674],[78,674,709],[78,709,738],[78,738,767],[78,767,790]]"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "345"
+  ],
+  "text": [
+    "狼把你和靴子一起拖回地面。你的腿别扭地扭了一下，整个人摔倒在地。狼群咆哮着围上来，满是嗜血的欲望，彼此争抢着要多撕下一块你的血肉。",
+    "枪声划破空气，树上的学生们徒劳地想救你。但狼群已陷入疯狂。几秒钟后，你的身体已被撕得不成人形，你抬头望向树枝，看见满脸泪水的西尔维娅正用步枪瞄准你的头。“对不起，教授。”她说着扣下扳机。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 345",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 345",
+      "text": [
+        "The wolf drags you and your boot back to earth. Your leg twists awkwardly and you go down. The pack converges on you, snarling with bloodlust, jostling each other for a bigger share of your flesh.",
+        "Gunfire splits the air, as the students above try vainly to save you. But the wolves are lost in their frenzy. After a few seconds, your body already torn beyond repair, you get a glimpse up into the tree branches. A tearful Sylvia points her rifle directly at your head. “Sorry, Professor,” she says and squeezes the trigger."
+      ]
+    }
+  }
+}

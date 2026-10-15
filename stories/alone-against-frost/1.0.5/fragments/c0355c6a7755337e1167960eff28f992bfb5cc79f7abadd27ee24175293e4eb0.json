@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "618"
+  ],
+  "text": [
+    "恐惧让纽约人跑得飞快。你们爬上低垂的橡树枝时，诺曼俯身伸手，抓住伯纳德的胳膊把他拉上树枝。兽群绕过粗壮的树干奔过，众人竟都安然无恙。",
+    "经历这一切后，再斥责伯纳德鲁莽似乎多此一举。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 618",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 618",
+      "text": [
+        "Terror lends the New Yorker fleetness of foot. As you scramble into the low-hanging boughs of an oak, Norman leans down. He grabs Bernard’s arm and swings him up into the branches. The stampede rushes around the sturdy bole, leaving the group of you somehow unharmed.",
+        "After all that, it seems unnecessary to admonish Bernard for his recklessness."
+      ]
+    }
+  }
+}

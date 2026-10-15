@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "15"
+  ],
+  "text": [
+    "You put on the mask. It fits snugly\non your face. You feel an evil\npresence trying to take control of\nyou. Save vs. L5 Magic (roll at +1 if\nyou have the Will Skill, at +2 if you\nhave it at Expert level). If you make\nit, you lose 1 Sanity and will have\n-2 on all Charisma rolls until you\nfind a way to break the curse. If\nyour Sanity reaches 0 or lower, you\nwill haunt this area until someone\nkills you and takes the mask for\nthemselves."
+  ],
+  "reading": {
+    "en": {
+      "title": "15 - Wearing the mask",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "15 - 戴上面具",
+      "text": [
+        "你把面具戴上，它紧紧贴合在脸上。你感到一股邪恶存在正试图控制你。进行一次L5魔法防御检定（拥有意志技能时+1，专家级时+2）。成功则失去1点理智；在找到破解诅咒的方法之前，所有魅力检定-2。若理智降至0或更低，你会在此处徘徊为鬼魂，直到有人杀死你并取走面具。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "311"
+  ],
+  "text": [
+    "不知为何，你和诺曼看到巨大的猿状身影从灌木中走出时都没有出声。你听说过这种生物——大脚怪，此前一直怀疑它是否真的存在。",
+    "它身高超过七英尺，全身覆盖着深褐色短毛，上面夹杂白色斑点——也可能只是泥屑。它身躯壮硕，尤其双腿粗壮；四肢的比例更长更厚，远超人类。它有矢状嵴，像雄性大猩猩。你从人类学知识中知道，这一特征几乎足以排除它是人类近亲的可能。你此刻认为它是雄性，走路时步伐古怪，任由粗大的手臂垂在身侧，嘴边挂着涎液。",
+    "它走远后，你提议跟踪它。诺曼咽了口唾沫，最终点头同意。",
+    "地势适合继续观察。大脚怪径直走向一处原始营地，那里还有更多大脚怪，雌雄老幼都有。营地污秽不堪，没有火堆、棚屋或工具。",
+    "突然，你看见一个身穿卡其服的小身影，正紧张地在高大的大脚怪之间行走。是西尔维娅！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 311",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 311",
+      "text": [
+        "Somehow both you and Norman remain silent at the sight of the huge, ape-like figure that lumbers out of the bushes. You have heard of this creature, the sasquatch, and you had doubted its existence before this trip.",
+        "It stands over seven feet tall and is completely covered by a short coat of dark brown hair, flecked with white—or maybe flakes of mud. Heavily built, particularly in the legs, the sasquatch’s limbs are both proportionally longer and thicker than a human’s. It displays a sagittal crest, like a male gorilla. Such a feature, you know from your anthropological studies, virtually disqualifies it as a close relative of Man. The male, as you now think of it, moves with a peculiar shuffle, letting his great arms dangle. Threads of drool hang from his lips.",
+        "When it passes on, you suggest to Norman that you follow the sasquatch. He swallows but finally nods in agreement.",
+        "The lay of the land suits continued surveillance. The sasquatch travels directly to a primitive camp where more sasquatches, of both sexes and all ages, mill about. Their campsite is filthy. You see no fire, no huts, no sign of tools.",
+        "Suddenly you pick out a small figure in khaki, a girl walking with nervous steps between towering sasquatches. Sylvia!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "266"
+  ],
+  "text": [
+    "不可思议的意志力暂时压制住你体内的恶魔。你知道自己必须做什么，于是走进营地，不再试图遮掩畸形的双脚。营地中的猎人伸手去拿步枪；你骇人的面容和脚下畸形的残肢令他们惊恐地僵住。你只能发出几声苦涩的笑。你必须坚持足够久，给猎人们时间回过神来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 266",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 266",
+      "text": [
+        "An exercise of incredible willpower has leashed the demon in you for a few precious moments. You know what you must do. You stride into the camp, making no attempt to hide your monstrous feet. The men in the camp—the hunters—reach for their rifles. The abhorrent cast of your features and the deformed stumps beneath you freeze them in superstitious awe. All you can manage are a few peals of bitter laughter. You must restrain yourself long enough to allow the hunters to gather their wits."
+      ]
+    }
+  }
+}

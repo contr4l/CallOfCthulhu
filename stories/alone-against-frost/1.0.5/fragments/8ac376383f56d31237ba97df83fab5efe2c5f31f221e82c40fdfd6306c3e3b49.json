@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "244"
+  ],
+  "text": [
+    "西尔维娅盲目地冲过野生覆盆子丛，被藤蔓缠住。你趁机追上并制服了她。诺曼随后赶到。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 244",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 244",
+      "text": [
+        "Running blindly through the wild raspberry whips, Sylvia becomes snared. You are able to catch and subdue her. Norman comes up behind you."
+      ]
+    }
+  }
+}

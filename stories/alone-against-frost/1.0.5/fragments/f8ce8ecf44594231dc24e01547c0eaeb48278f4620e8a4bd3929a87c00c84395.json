@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "580",
+    "frost-auto-580"
+  ],
+  "text": [
+    "女子仍然阴郁愤怒。诺曼建议为了她的安全把她绑起来。西尔维娅瞪他一眼让他闭嘴，并拿出你们的一些食物给女子。",
+    "夜深时，诺曼守夜，你被人摇醒。“对不起，教授。那女孩不见了。我不到五分钟前才去看过她。她肯定一点声音都没发出来。”",
+    "你们不可能在夜里截住一个熟悉当地地形的人，也不大可能再次找到那片空地。你耸耸肩，回去睡觉。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 580",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 580",
+      "text": [
+        "The woman remains sullen and angry. Norman suggests tying her up for her own safety. Sylvia silences him with a glare and offers the woman some of your food.",
+        "You are shaken awake in the small hours during Norman’s watch. “I’m sorry, Professor. The girl’s gone. I checked on her not five minutes ago. She must have been absolutely silent.”",
+        "You are not going to intercept a stealthy local in the woods at night. And it’s unlikely you could find that clearing again. You shrug and go back to sleep."
+      ]
+    }
+  }
+}

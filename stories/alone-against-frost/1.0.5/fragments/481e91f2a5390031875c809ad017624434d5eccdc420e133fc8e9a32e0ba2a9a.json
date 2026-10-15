@@ -1,0 +1,39 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "frost-105-temporary",
+    "frost-105-permanent",
+    "frost-186-loss",
+    "frost-191-end",
+    "frost-221-injury",
+    "frost-271-expedition-end",
+    "frost-285-fail",
+    "frost-307-expedition-end",
+    "frost-321-damage",
+    "frost-333-roster-gap",
+    "frost-337-loss",
+    "frost-340-end",
+    "frost-363-stampede",
+    "frost-368-end",
+    "frost-376-missing-norman",
+    "frost-376-unmapped-loss",
+    "frost-391-party-lost",
+    "frost-394-roster-gap",
+    "frost-469-roster-gap"
+  ],
+  "text": [
+    ""
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "探险结束",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Adventure End",
+      "textRef": "default"
+    }
+  }
+}

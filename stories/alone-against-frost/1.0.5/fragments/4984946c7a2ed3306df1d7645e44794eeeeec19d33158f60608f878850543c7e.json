@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "161",
+    "frost-auto-161"
+  ],
+  "text": [
+    "你恢复意识时，发现自己裹在厚重的兽皮中，四周黑影幢幢，自己似乎被人控制住了。你大声呼救，一双有力的手却稳住了你。一个低沉的声音说：“我们发现你在林中游荡。休息吧。很快就能到堡垒了。那里很安全。”",
+    "救你的人是Tsuut’ina猎人。你躺在独木舟底部，他们划船顺流而下。你虚弱得无力提问，只能安静休息。",
+    "正如他们所说，你们最终抵达麦克唐纳堡。皇家骑警给你暖和的衣服和热腾腾的饭菜，随后询问你的同伴遭遇了什么。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 161",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 161",
+      "text": [
+        "When your senses clear, you find yourself wrapped in heavy pelts, confined, surrounded by dark presences. You cry out, but strong hands steady you. A deep voice speaks: “We found you wandering in the woods. Rest. Soon we shall reach the fort. You’ll be safe there.”",
+        "Your rescuers are Tsuut’ina hunters. You lie in the bottom of a canoe while they paddle downstream. You rest quietly, too weak to ask questions.",
+        "As they promise, you eventually reach Fort McDonald. The Mounties give you warm clothes and a hot meal before asking what happened to your companions."
+      ]
+    }
+  }
+}

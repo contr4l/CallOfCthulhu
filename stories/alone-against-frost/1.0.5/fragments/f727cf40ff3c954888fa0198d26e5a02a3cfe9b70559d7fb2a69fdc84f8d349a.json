@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "578"
+  ],
+  "text": [
+    "你割断绳索，强迫年轻女子跟你们一起走。西尔维娅把她带到一旁，低声与她交谈。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 578",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 578",
+      "text": [
+        "You slice away her bonds and compel the young woman to go with your party. Sylvia takes her aside and speaks to her in low tones."
+      ]
+    }
+  }
+}

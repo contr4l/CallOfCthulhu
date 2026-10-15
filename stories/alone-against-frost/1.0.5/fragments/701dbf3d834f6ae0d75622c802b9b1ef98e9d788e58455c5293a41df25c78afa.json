@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "610"
+  ],
+  "text": [
+    "你们的声音和气味让潜近猎物的计划无法奏效，但你们在黏土中发现足迹，像是大型猫科掠食者留下的。你把诺曼和西尔维娅留在岩丘脚下，带伯纳德去狩猎。你看得出他正压抑着孩子般的兴奋。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 610",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 610",
+      "text": [
+        "The sounds and smells of your group defeat any attempt to stalk game, but you find prints in the clay that suggest a large feline predator. You leave Norman and Sylvia at the foot of a rocky hill and take Bernard on the hunt. You can tell he is suppressing a boyish excitement."
+      ]
+    }
+  }
+}

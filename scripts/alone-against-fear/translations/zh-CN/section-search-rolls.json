@@ -1,0 +1,25 @@
+{
+  "id": "section-search-rolls",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "ecaa99541dbf20dc71ea1f95e4ac4cbde22ff53c534420d4dca46cfdf37e0852",
+  "paragraphs": [
+    {
+      "id": "section-search-rolls:p0",
+      "text": "搜索检定"
+    },
+    {
+      "id": "section-search-rolls:p1",
+      "text": "你经常需要寻找生物、物品，或有关谜团的信息。进入一个格子并完成遭遇，或该格没有任何内容时，可以进行一次搜索检定。在格子里写下S作为已搜索标记；每格只有一次搜索机会。例外：不能搜索安全屋。图书馆可搜索多次，但每次只能找到一本书或1点线索。搜索时掷搜索表所示D6。拥有调查员技能+1，专家级调查员+2。掷出1仍为1，不加修正。"
+    },
+    {
+      "id": "section-search-rolls:p2",
+      "text": "搜索表（D6）"
+    },
+    {
+      "id": "section-search-rolls:p3",
+      "text": "1 掷随机遭遇表（第39页）。\n2–5 一无所获。\n6 成功！在有用物品表或随机物品表上掷4次，并从结果中选1项；或者获得1点线索。拥有调查员技能时检定+1，专家级调查员+2。掷出1仍为1。"
+    }
+  ],
+  "notes": []
+}

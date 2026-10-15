@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "489",
+    "frost-auto-489"
+  ],
+  "text": [
+    "大脚怪终于开始躁动，不再理会你。你一动不动地待着，看着这一群生物慢慢离开。你孤身一人——真正的孤身一人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 489",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 489",
+      "text": [
+        "At last, the sasquatches become restless and cease to pay attention to you. You remain motionless as the band shuffles off. You are alone—truly alone."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "151"
+  ],
+  "text": [
+    "折返回去，试着弄清失踪同伴的遭遇，前往152。尽可能远离那些生物，前往147。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 151",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 151",
+      "text": [
+        "To circle back and try to find out what happened to your missing comrades, go to 152. To put as much distance between you and the creatures as possible, go to 147."
+      ]
+    }
+  }
+}

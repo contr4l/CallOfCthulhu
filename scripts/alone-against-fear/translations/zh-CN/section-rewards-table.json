@@ -1,0 +1,25 @@
+{
+  "id": "section-rewards-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "bf8bc58520a96f663b86b49648b338b462b722b8689adc2bdf85fd84a98d2dc4",
+  "paragraphs": [
+    {
+      "id": "section-rewards-table:p0",
+      "text": "奖励表（D6）"
+    },
+    {
+      "id": "section-rewards-table:p1",
+      "text": "1 恢复1点生命和1点理智，获得1点经验。\n2 恢复2点生命，或获得2点经验，由你选择。\n3 恢复2点生命和1点理智，或获得1点经验，由你选择。"
+    },
+    {
+      "id": "section-rewards-table:p2",
+      "text": "4\n获得2点食物，此外恢复1点理智或获得2点经验（二选一）；或者从随机物品表和/或有用物品表中获得2件随机物品，由你选择。"
+    },
+    {
+      "id": "section-rewards-table:p3",
+      "text": "5\n获得D6点食物，恢复1点理智和1点生命。若携带食物已达上限，且理智与生命均已满值，则可改为获得2点经验。\n6 将生命和理智恢复至初始值，或获得1点经验，由你选择。"
+    }
+  ],
+  "notes": []
+}

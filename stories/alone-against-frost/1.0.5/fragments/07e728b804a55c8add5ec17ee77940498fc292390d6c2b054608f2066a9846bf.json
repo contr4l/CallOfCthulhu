@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "273"
+  ],
+  "text": [
+    "与植物相比，动物标本更能令人信服地证明史前山谷的存在。你决定设法捕获一只动物。",
+    "你和学生们沿着大草甸长满灌木的边缘潜行，树林中回荡着猎兽绵长的嚎叫。嚎声唤起你心底原始的寒意。但你们带着武器，名声也可能在这样的时刻铸就。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 273",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 273",
+      "text": [
+        "An animal specimen would be a more convincing piece of evidence for the existence of the prehistoric valley than plants. You decide to try to trap something.",
+        "While you and your students stalk the bushy fringes of a large meadow, the woods reverberate with the wavering call of hunting beasts. The howls chill something primitive in you. But you are armed, and at such moments, reputations may be made."
+      ]
+    }
+  }
+}

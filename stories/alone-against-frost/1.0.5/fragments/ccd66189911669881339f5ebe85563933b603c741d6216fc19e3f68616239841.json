@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "589"
+  ],
+  "text": [
+    "一名看起来像猎队首领的男子回应了你的招呼，目光仍带戒心。简单交谈几句后，你得知这群人正如你所猜，是一支狩猎队。他们说话时以英语词汇点缀本族方言，方便你理解。他们避开白人当局，从不去堡垒。不过，他们很欣赏你的步枪。",
+    "如果你想离开荒野，这群人愿意带你到能望见麦克唐纳堡的地方，条件是你把枪交给他们。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 589",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 589",
+      "text": [
+        "One man, who seems to be the hunt leader, returns your greeting, his eyes wary. A brief exchange of questions gains you the information that this group is part of a hunting party, as you guessed. Their speech is a mixture of their native dialect peppered with English words for your benefit. They shun contact with the white authorities and never go to the fort. They do, however, admire your rifle.",
+        "If you wish to leave the wilderness, the group will guide you to within sight of Fort McDonald in exchange for your firearm."
+      ]
+    }
+  }
+}

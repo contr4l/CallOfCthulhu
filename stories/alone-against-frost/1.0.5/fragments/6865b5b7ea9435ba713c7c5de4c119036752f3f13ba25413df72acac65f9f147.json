@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "33"
+  ],
+  "text": [
+    "虽然探险没能带回任何确凿证据，但你的声望让米斯卡托尼克大学没有因此责怪你。可是，随着大萧条来临，为新项目筹措经费变得愈发困难。你把在北汉尼纳河的奇异见闻讲给别人听，耸人听闻的小报热情报道，同僚们却对此嗤之以鼻。尽管如此，你的学术生涯还是挺过了这次汉尼纳之行。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 33",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 33",
+      "text": [
+        "Although your expedition has failed to produce any hard evidence, your reputation is such that Miskatonic University does not hold it against you. However, as the Great Depression sets in, you find it more difficult to fund new projects. The bizarre stories you have to tell of the North Hanninah are greeted with enthusiasm by the sensationalist press, but skepticism by your colleagues. As things go, your career manages to survive your Hanninah experience."
+      ]
+    }
+  }
+}

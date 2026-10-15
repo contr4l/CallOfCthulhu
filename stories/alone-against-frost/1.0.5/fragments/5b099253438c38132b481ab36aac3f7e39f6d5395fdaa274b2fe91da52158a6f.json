@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "566"
+  ],
+  "text": [
+    "猎人找来足够的绳子，把你们三人都捆起来，分别绑在树干上。他们做完神秘仪式后，便收拾简陋行装，离开这处地点。等了一会儿，你们开始挣扎着想要脱身。",
+    "你心里有一部分觉得这在专业上十分有趣。但若想发表研究成果，就必须挣脱束缚。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 566",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 566",
+      "text": [
+        "The hunters produce enough cords to bind all three of you and then place you each against a tree and lash you to the trunk. Their mysterious work done, the outcasts pack up their simple gear and abandon the spot. You wait for a few minutes before beginning to struggle against your bonds.",
+        "A part of you finds this professionally fascinating. But you will have to get free if you wish to publish your findings."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "102",
+    "frost-auto-102"
+  ],
+  "text": [
+    "可你是个理性的学者，不该产生这种念头。竟会这么想，想必是你精神失常了。",
+    "前往177。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 102",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 102",
+      "text": [
+        "But you, a rational academic, cannot think such thoughts. Surely you are unhinged even to consider them.",
+        "Go to 177."
+      ]
+    }
+  }
+}

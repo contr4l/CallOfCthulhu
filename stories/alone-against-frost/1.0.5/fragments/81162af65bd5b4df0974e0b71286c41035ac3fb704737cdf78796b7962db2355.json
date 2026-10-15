@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "354",
+    "frost-auto-354"
+  ],
+  "text": [
+    "听到枪声后，那些生物转身逃跑——但它们径直朝你冲来，并从两翼包抄。它们像加速的卡车一样冲势惊人。你不可能用步枪全部击倒。你和诺曼同时转身逃跑。",
+    "若雪怪的移动率等于或超过你的，前往355。若其移动率等于或超过诺曼的，而你逃脱了，前往356。若你们两人都甩开了猿人，前往358。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 354",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 354",
+      "text": [
+        "On hearing the gunfire, the creatures run—but they run directly at you and around your flanks. They gain momentum like speeding trucks. You cannot hope to drop them all with rifle fire. As one, you and Norman turn and flee.",
+        "If the sasquatches equal or exceed your movement rate, go to 355. If they equal or exceed Norman’s, but you get away, go to 356. Otherwise, if you both outstrip the ape-men, go to 358."
+      ]
+    }
+  }
+}

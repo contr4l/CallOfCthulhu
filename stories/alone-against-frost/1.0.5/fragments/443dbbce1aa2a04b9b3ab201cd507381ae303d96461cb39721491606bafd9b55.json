@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "395"
+  ],
+  "text": [
+    "你、诺曼和西尔维娅终于松了口气。直到黎明时第一道明亮阳光越过雷姆山脉，你们才有余暇欣赏这片失落山谷的奇景。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 395",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 395",
+      "text": [
+        "You, Norman, and Sylvia can finally breathe sighs of relief. Only now, when the first brilliant rays of the dawning sun break over the Ram Mountains, are you able to appreciate the wonders of the lost valley."
+      ]
+    }
+  }
+}

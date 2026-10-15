@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "35"
+  ],
+  "text": [
+    "The sketchbook contains\ndisturbing drawings. Save vs. L4\nFear or lose 1 Sanity. The drawings\nportray a clown named Walrus,\nblood dripping from his clawed\nhands. Another sketch depicts a\nman with a pig’s head and a\ncarnage cleaver in his hands. “This\nis Pighead who likes to feed\nchildren to his pigs. He was\ntouched by the demon of hunger,”\nsays a note scribbled in brown\ncrayon.\n Another sketch is the picture of a\nfat clown with green hair and\ngrotesque facial features. A note\nsays “Walrus the Clown, likes\ntrains and to eat children. He is\nnot a real clown, he wears a\nrubber mask.”\nOn another page, kids with a\nmagic book are pictured as they\ncast a spell on Pighead."
+  ],
+  "reading": {
+    "en": {
+      "title": "35- The sketchbook",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "35 - 素描本",
+      "text": [
+        "素描本里画着令人不安的图画。进行一次L4恐惧防御检定，失败则失去1点理智。图画中有个名叫海象的小丑，他长满利爪的手上滴着血。另一幅图画描绘一个手持屠刀、戴着猪头的男人。“这是猪头人，他喜欢把孩子喂给猪吃。他受到了饥饿恶魔的影响。”棕色蜡笔写下的纸条如是说。\n另一幅图是个肥胖的小丑，长着绿头发，五官怪异。纸条写着：“小丑海象，喜欢火车，也喜欢吃孩子。他不是真正的小丑，戴的是橡胶面具。”\n又一页画着几个孩子拿着魔法书对猪头人施咒。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "353"
+  ],
+  "text": [
+    "你朝雪怪头顶连开数枪，尖锐刺耳的尖叫声在岩石间回荡。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 353",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 353",
+      "text": [
+        "The shrill, piercing screams of the sasquatches bounce off the rocks as you rapidly fire several rounds above their heads."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "358",
+    "frost-auto-358"
+  ],
+  "text": [
+    "你和诺曼听见身后的猿人一路穿过岩地和树林，撞断灌木，追了很远。终于，身后安静下来。",
+    "你和诺曼交换眼神。你们因羞愧而不敢面对彼此，最终承认自己无力救出西尔维娅。背负着这样的愧疚，也无心继续探索山谷，你们决定尽快离开。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 358",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 358",
+      "text": [
+        "For a great distance, the two of you hear the ape-men in the rocks and woods behind you, smashing through the undergrowth. At last, all is quiet to the rear.",
+        "You and Norman exchange glances. Ashamed, the two of you agree that rescuing Sylvia is beyond your power. With no heart to explore the valley under such a burden of guilt, you decide to leave as soon as possible."
+      ]
+    }
+  }
+}

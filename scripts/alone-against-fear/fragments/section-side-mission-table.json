@@ -1,197 +1,36 @@
 {
   "id": "section-side-mission-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-side-mission-table:p0000",
-      "kind": "body",
+      "id": "section-side-mission-table:p0",
+      "kind": "heading",
       "text": "Side Mission table (d6)\n",
       "sourceLocation": "pdf:spans:[[74,22,46]]"
     },
     {
-      "id": "section-side-mission-table:p0001",
+      "id": "section-side-mission-table:p1",
       "kind": "body",
-      "text": "1 Bring in this box the head of a vampire or demon to claim the\n",
-      "sourceLocation": "pdf:spans:[[74,46,110]]"
+      "text": "1 Bring in this box the head of a vampire or demon to claim the\nreward.\n",
+      "sourceLocation": "pdf:spans:[[74,46,110],[74,110,118]]"
     },
     {
-      "id": "section-side-mission-table:p0002",
+      "id": "section-side-mission-table:p2",
       "kind": "body",
-      "text": "reward.\n",
-      "sourceLocation": "pdf:spans:[[74,110,118]]"
+      "text": "2\nTake a person from this box to a Safe House that has already\nbeen revealed. If no safe houses are in play, you must take\nthis person to the most distant unrevealed box on the map\n(there is no guarantee that it will be a Safe House. And you will\nhave to deal with any encounter in that box).\n3 Give 4 Food points to the next House encounter with helpful\npeople to claim the reward.\n4 Defeat a random enemy from the Beast table to claim the\nreward. The combat happens in your current location.\n",
+      "sourceLocation": "pdf:spans:[[74,118,120],[74,120,181],[74,181,241],[74,241,299],[74,299,365],[74,365,411],[74,411,473],[74,473,501],[74,501,559],[74,559,612]]"
     },
     {
-      "id": "section-side-mission-table:p0003",
+      "id": "section-side-mission-table:p3",
       "kind": "body",
-      "text": "2\n",
-      "sourceLocation": "pdf:spans:[[74,118,120]]"
+      "text": "5\nPerform a ritual to re-consecrate a church. The next church\nyou discover in town will be a deconsecrated church, unless\nyou ALREADY have a deconsecrated church on the map.  You\nmust have the Faith Skill and the Holy book, and use 3 candles\nin the ritual. As soon as this is accomplished, come back to\nthis location to claim your reward.\n",
+      "sourceLocation": "pdf:spans:[[74,612,614],[74,614,674],[74,674,734],[74,734,791],[74,791,854],[74,854,915],[74,915,951]]"
     },
     {
-      "id": "section-side-mission-table:p0004",
+      "id": "section-side-mission-table:p4",
       "kind": "body",
-      "text": "Take a person from this box to a Safe House that has already\n",
-      "sourceLocation": "pdf:spans:[[74,120,181]]"
-    },
-    {
-      "id": "section-side-mission-table:p0005",
-      "kind": "body",
-      "text": "been revealed. If no safe houses are in play, you must take\n",
-      "sourceLocation": "pdf:spans:[[74,181,241]]"
-    },
-    {
-      "id": "section-side-mission-table:p0006",
-      "kind": "body",
-      "text": "this person to the most distant unrevealed box on the map\n",
-      "sourceLocation": "pdf:spans:[[74,241,299]]"
-    },
-    {
-      "id": "section-side-mission-table:p0007",
-      "kind": "body",
-      "text": "(there is no guarantee that it will be a Safe House. And you will\n",
-      "sourceLocation": "pdf:spans:[[74,299,365]]"
-    },
-    {
-      "id": "section-side-mission-table:p0008",
-      "kind": "body",
-      "text": "have to deal with any encounter in that box).\n",
-      "sourceLocation": "pdf:spans:[[74,365,411]]"
-    },
-    {
-      "id": "section-side-mission-table:p0009",
-      "kind": "body",
-      "text": "3 Give 4 Food points to the next House encounter with helpful\n",
-      "sourceLocation": "pdf:spans:[[74,411,473]]"
-    },
-    {
-      "id": "section-side-mission-table:p0010",
-      "kind": "body",
-      "text": "people to claim the reward.\n",
-      "sourceLocation": "pdf:spans:[[74,473,501]]"
-    },
-    {
-      "id": "section-side-mission-table:p0011",
-      "kind": "body",
-      "text": "4 Defeat a random enemy from the Beast table to claim the\n",
-      "sourceLocation": "pdf:spans:[[74,501,559]]"
-    },
-    {
-      "id": "section-side-mission-table:p0012",
-      "kind": "body",
-      "text": "reward. The combat happens in your current location.\n",
-      "sourceLocation": "pdf:spans:[[74,559,612]]"
-    },
-    {
-      "id": "section-side-mission-table:p0013",
-      "kind": "body",
-      "text": "5\n",
-      "sourceLocation": "pdf:spans:[[74,612,614]]"
-    },
-    {
-      "id": "section-side-mission-table:p0014",
-      "kind": "body",
-      "text": "Perform a ritual to re-consecrate a church. The next church\n",
-      "sourceLocation": "pdf:spans:[[74,614,674]]"
-    },
-    {
-      "id": "section-side-mission-table:p0015",
-      "kind": "body",
-      "text": "you discover in town will be a deconsecrated church, unless\n",
-      "sourceLocation": "pdf:spans:[[74,674,734]]"
-    },
-    {
-      "id": "section-side-mission-table:p0016",
-      "kind": "body",
-      "text": "you ALREADY have a deconsecrated church on the map.  You\n",
-      "sourceLocation": "pdf:spans:[[74,734,791]]"
-    },
-    {
-      "id": "section-side-mission-table:p0017",
-      "kind": "body",
-      "text": "must have the Faith Skill and the Holy book, and use 3 candles\n",
-      "sourceLocation": "pdf:spans:[[74,791,854]]"
-    },
-    {
-      "id": "section-side-mission-table:p0018",
-      "kind": "body",
-      "text": "in the ritual. As soon as this is accomplished, come back to\n",
-      "sourceLocation": "pdf:spans:[[74,854,915]]"
-    },
-    {
-      "id": "section-side-mission-table:p0019",
-      "kind": "body",
-      "text": "this location to claim your reward.\n",
-      "sourceLocation": "pdf:spans:[[74,915,951]]"
-    },
-    {
-      "id": "section-side-mission-table:p0020",
-      "kind": "body",
-      "text": "6\n",
-      "sourceLocation": "pdf:spans:[[74,951,953]]"
-    },
-    {
-      "id": "section-side-mission-table:p0021",
-      "kind": "body",
-      "text": "Bring here the mask of Walrus the Clown to claim the reward.\n",
-      "sourceLocation": "pdf:spans:[[74,953,1014]]"
-    },
-    {
-      "id": "section-side-mission-table:p0022",
-      "kind": "body",
-      "text": "This side mission may happen only once in the campaign.\n",
-      "sourceLocation": "pdf:spans:[[74,1014,1070]]"
-    },
-    {
-      "id": "section-side-mission-table:p0023",
-      "kind": "body",
-      "text": "Once it has happened, reroll this result until you select a\n",
-      "sourceLocation": "pdf:spans:[[74,1070,1130]]"
-    },
-    {
-      "id": "section-side-mission-table:p0024",
-      "kind": "body",
-      "text": "different side mission.\n",
-      "sourceLocation": "pdf:spans:[[74,1130,1154]]"
-    },
-    {
-      "id": "section-side-mission-table:p0025",
-      "kind": "body",
-      "text": "When you accept a side mission, you may alter your roll on the Town\n",
-      "sourceLocation": "pdf:spans:[[74,1154,1222]]"
-    },
-    {
-      "id": "section-side-mission-table:p0026",
-      "kind": "body",
-      "text": "Exploration table by +1 or -1 IF this lets you reach a location that is required\n",
-      "sourceLocation": "pdf:spans:[[74,1222,1303]]"
-    },
-    {
-      "id": "section-side-mission-table:p0027",
-      "kind": "body",
-      "text": "to complete your mission. Likewise, you may alter an encounter table by +1\n",
-      "sourceLocation": "pdf:spans:[[74,1303,1378]]"
-    },
-    {
-      "id": "section-side-mission-table:p0028",
-      "kind": "body",
-      "text": "or -1 if this lets you encounter a specific creature that you have to kill. For\n",
-      "sourceLocation": "pdf:spans:[[74,1378,1458]]"
-    },
-    {
-      "id": "section-side-mission-table:p0029",
-      "kind": "body",
-      "text": "example, if you are trying to complete Side Mission 1 and you roll on the\n",
-      "sourceLocation": "pdf:spans:[[74,1458,1532]]"
-    },
-    {
-      "id": "section-side-mission-table:p0030",
-      "kind": "body",
-      "text": "Undead table, you may count a roll of 5 as a 6 so that you can encounter a\n",
-      "sourceLocation": "pdf:spans:[[74,1532,1607]]"
-    },
-    {
-      "id": "section-side-mission-table:p0031",
-      "kind": "body",
-      "text": "vampire and kill it.",
-      "sourceLocation": "pdf:spans:[[74,1607,1627]]"
+      "text": "6\nBring here the mask of Walrus the Clown to claim the reward.\nThis side mission may happen only once in the campaign.\nOnce it has happened, reroll this result until you select a\ndifferent side mission.\nWhen you accept a side mission, you may alter your roll on the Town\nExploration table by +1 or -1 IF this lets you reach a location that is required\nto complete your mission. Likewise, you may alter an encounter table by +1\nor -1 if this lets you encounter a specific creature that you have to kill. For\nexample, if you are trying to complete Side Mission 1 and you roll on the\nUndead table, you may count a roll of 5 as a 6 so that you can encounter a\nvampire and kill it.",
+      "sourceLocation": "pdf:spans:[[74,951,953],[74,953,1014],[74,1014,1070],[74,1070,1130],[74,1130,1154],[74,1154,1222],[74,1222,1303],[74,1303,1378],[74,1378,1458],[74,1458,1532],[74,1532,1607],[74,1607,1627]]"
     }
   ],
   "sourcePages": [

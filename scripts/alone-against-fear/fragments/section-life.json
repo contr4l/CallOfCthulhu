@@ -1,155 +1,18 @@
 {
   "id": "section-life",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-life:p0000",
-      "kind": "body",
+      "id": "section-life:p0",
+      "kind": "heading",
       "text": "Life\n",
       "sourceLocation": "pdf:spans:[[10,958,963]]"
     },
     {
-      "id": "section-life:p0001",
+      "id": "section-life:p1",
       "kind": "body",
-      "text": "Life is a measure of the physical\n",
-      "sourceLocation": "pdf:spans:[[10,963,997]]"
-    },
-    {
-      "id": "section-life:p0002",
-      "kind": "body",
-      "text": "punishment you can take. You take\n",
-      "sourceLocation": "pdf:spans:[[10,997,1031]]"
-    },
-    {
-      "id": "section-life:p0003",
-      "kind": "body",
-      "text": "wounds when you are hit in combat\n",
-      "sourceLocation": "pdf:spans:[[10,1031,1065]]"
-    },
-    {
-      "id": "section-life:p0004",
-      "kind": "body",
-      "text": "or when you are hurt by falls,\n",
-      "sourceLocation": "pdf:spans:[[10,1065,1096]]"
-    },
-    {
-      "id": "section-life:p0005",
-      "kind": "body",
-      "text": "disease, or any other natural and\n",
-      "sourceLocation": "pdf:spans:[[10,1096,1130]]"
-    },
-    {
-      "id": "section-life:p0006",
-      "kind": "body",
-      "text": "supernatural sources of damage. If\n",
-      "sourceLocation": "pdf:spans:[[10,1130,1165]]"
-    },
-    {
-      "id": "section-life:p0007",
-      "kind": "body",
-      "text": "your Life total reaches zero, you\n",
-      "sourceLocation": "pdf:spans:[[10,1165,1199]]"
-    },
-    {
-      "id": "section-life:p0008",
-      "kind": "body",
-      "text": "die and your game ends.\n",
-      "sourceLocation": "pdf:spans:[[10,1199,1223]]"
-    },
-    {
-      "id": "section-life:p0009",
-      "kind": "body",
-      "text": "During the game, you may prevent\n",
-      "sourceLocation": "pdf:spans:[[10,1223,1256]]"
-    },
-    {
-      "id": "section-life:p0010",
-      "kind": "body",
-      "text": "the loss of 1 or 2 Life points by\n",
-      "sourceLocation": "pdf:spans:[[10,1256,1290]]"
-    },
-    {
-      "id": "section-life:p0011",
-      "kind": "body",
-      "text": "rolling on the Injury table. This will\n",
-      "sourceLocation": "pdf:spans:[[10,1290,1329]]"
-    },
-    {
-      "id": "section-life:p0012",
-      "kind": "body",
-      "text": "inflict some sort of lasting Injury\n",
-      "sourceLocation": "pdf:spans:[[10,1329,1365]]"
-    },
-    {
-      "id": "section-life:p0013",
-      "kind": "body",
-      "text": "on your character. Once you have\n",
-      "sourceLocation": "pdf:spans:[[10,1365,1398]]"
-    },
-    {
-      "id": "section-life:p0014",
-      "kind": "body",
-      "text": "received three lasting Injuries in the\n",
-      "sourceLocation": "pdf:spans:[[10,1398,1437]]"
-    },
-    {
-      "id": "section-life:p0015",
-      "kind": "body",
-      "text": "lifetime of a character, you may no\n",
-      "sourceLocation": "pdf:spans:[[10,1437,1473]]"
-    },
-    {
-      "id": "section-life:p0016",
-      "kind": "body",
-      "text": "longer prevent the loss of Life by\n",
-      "sourceLocation": "pdf:spans:[[10,1473,1508]]"
-    },
-    {
-      "id": "section-life:p0017",
-      "kind": "body",
-      "text": "rolling on the Injury table.\n",
-      "sourceLocation": "pdf:spans:[[10,1508,1537]]"
-    },
-    {
-      "id": "section-life:p0018",
-      "kind": "body",
-      "text": "Between games, all your wounds\n",
-      "sourceLocation": "pdf:spans:[[10,1537,1568]]"
-    },
-    {
-      "id": "section-life:p0019",
-      "kind": "body",
-      "text": "heal and your Life total goes back\n",
-      "sourceLocation": "pdf:spans:[[10,1568,1603]]"
-    },
-    {
-      "id": "section-life:p0020",
-      "kind": "body",
-      "text": "to its starting maximum value, but\n",
-      "sourceLocation": "pdf:spans:[[10,1603,1638]]"
-    },
-    {
-      "id": "section-life:p0021",
-      "kind": "body",
-      "text": "Injuries remain. In a few cases,\n",
-      "sourceLocation": "pdf:spans:[[10,1638,1671]]"
-    },
-    {
-      "id": "section-life:p0022",
-      "kind": "body",
-      "text": "miracles or healing powers may\n",
-      "sourceLocation": "pdf:spans:[[10,1671,1702]]"
-    },
-    {
-      "id": "section-life:p0023",
-      "kind": "body",
-      "text": "remove your Injuries, but that’s a\n",
-      "sourceLocation": "pdf:spans:[[10,1702,1737]]"
-    },
-    {
-      "id": "section-life:p0024",
-      "kind": "body",
-      "text": "rare event -- don’t count on it.\n",
-      "sourceLocation": "pdf:spans:[[10,1737,1770]]"
+      "text": "Life is a measure of the physical\npunishment you can take. You take\nwounds when you are hit in combat\nor when you are hurt by falls,\ndisease, or any other natural and\nsupernatural sources of damage. If\nyour Life total reaches zero, you\ndie and your game ends.\nDuring the game, you may prevent\nthe loss of 1 or 2 Life points by\nrolling on the Injury table. This will\ninflict some sort of lasting Injury\non your character. Once you have\nreceived three lasting Injuries in the\nlifetime of a character, you may no\nlonger prevent the loss of Life by\nrolling on the Injury table.\nBetween games, all your wounds\nheal and your Life total goes back\nto its starting maximum value, but\nInjuries remain. In a few cases,\nmiracles or healing powers may\nremove your Injuries, but that’s a\nrare event -- don’t count on it.\n",
+      "sourceLocation": "pdf:spans:[[10,963,997],[10,997,1031],[10,1031,1065],[10,1065,1096],[10,1096,1130],[10,1130,1165],[10,1165,1199],[10,1199,1223],[10,1223,1256],[10,1256,1290],[10,1290,1329],[10,1329,1365],[10,1365,1398],[10,1398,1437],[10,1437,1473],[10,1473,1508],[10,1508,1537],[10,1537,1568],[10,1568,1603],[10,1603,1638],[10,1638,1671],[10,1671,1702],[10,1702,1737],[10,1737,1770]]"
     }
   ],
   "sourcePages": [

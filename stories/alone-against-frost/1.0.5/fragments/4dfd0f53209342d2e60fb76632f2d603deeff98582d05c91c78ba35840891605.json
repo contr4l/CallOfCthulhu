@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "542",
+    "frost-auto-542"
+  ],
+  "text": [
+    "你跟着西尔维娅被急流冲走。她漂过峡谷出口，在一片沙洲上冲上岸。她的头发贴在毫无生气的双眼上。你把她埋在附近。",
+    "诺曼说了几句安慰的话，却显得苍白无力。西尔维娅的死是你的责任。你能带剩下的学生回到文明世界吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 542",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 542",
+      "text": [
+        "You follow Sylvia as she is swept down the raging stream. Beyond the mouth of the ravine, she washes up on a sandbar. Her hair is plastered over sightless eyes. You bury her nearby.",
+        "Norman offers a few words of comfort, but they ring hollow. You are responsible for Sylvia’s death. Can you manage to get your remaining student back to civilization?"
+      ]
+    }
+  }
+}

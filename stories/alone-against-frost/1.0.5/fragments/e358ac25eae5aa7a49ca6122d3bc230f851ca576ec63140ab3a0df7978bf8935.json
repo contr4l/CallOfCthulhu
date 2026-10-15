@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "562"
+  ],
+  "text": [
+    "抵达后，你发现这群猎人并非只有你们几名俘虏。一个女孩也许属于同一社群，被五花大绑，躺在树干后面。",
+    "猎人首领粗声向手下下达命令。他说得太快，你对方言所知有限，听不懂内容，但随后发生的事一目了然。",
+    "女孩很快被松绑。她揉着手腕恢复血液循环，族人默默接纳她回到队伍中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 562",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 562",
+      "text": [
+        "When you arrive there, you find you are not the only prisoners of this particular band. A girl, perhaps of the same community, rests behind a tree trunk, bound hand and foot.",
+        "The leader of the hunters fires gruff instructions to his men. His words are too rapid for your slim knowledge of the dialect, but the subsequent actions are clear.",
+        "The girl is quickly freed from her bonds. Rubbing her wrists to restore the circulation, she is wordlessly accepted back into the clan’s ranks."
+      ]
+    }
+  }
+}

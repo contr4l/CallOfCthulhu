@@ -1,0 +1,35 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "215"
+  ],
+  "text": [
+    "你抬头望去，看见一个令人敬畏的身影。那就是“祂”，你知道祂是你的主人。祂的名字在你脑海中回响：伟大的风行者，伊萨夸！祂庞大无比，充塞天际，是你的神。",
+    "你在灵魂深处听见祂幽暗的召唤，朝祂奔去。伊萨夸在雪地上疾驰向前。你痛苦地担心会失去祂，但祂的气场赐予你力量，让你的双腿越跑越快。祂一次次跃起，越跳越高，你也跟着腾跃。终于，伊萨夸一跃冲天，再也没有落下。你跃入空中追上祂，在祂身后留下的以太流中自由疾驰。",
+    "你在天空中飞行时，摩擦力巨大。旧日的双脚开始灼烧、剥落，胸口凝结起冰冷的重物，你忍不住喊出声。",
+    "突然，伟大风行者的身影消失了。你从天空坠落，穿过一层层以太，撞断云杉、冷杉和落叶松的枝条。你重重摔在地上，却毫发无伤地站了起来。",
+    "你低头看脚，发现它们已经变了模样。人类的部分被烧尽，只剩腐蚀发黑、如残桩般的蹄子。伊萨夸赐予你更适合在树梢上方追随祂的双足。你知道，这只是开始；每次与伟大风行者一同飞行，你的人形都会进一步变异，最终不再剩下任何旧日的你。",
+    "你不知时间与距离为何物，只是在如今属于你的森林中游荡。这片森林以古老的灵性充满你的每一处。饥饿感再次袭来，像牵着一头挨饿野兽的绳索般引领着你。",
+    "你看见前方营火燃烧。直到此刻，你才完全意识到自己渴望怎样可怕的宴席。你心中仍存的一小部分人性，抗拒着这种新的饥饿。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 215",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 215",
+      "text": [
+        "You look up and behold an awesome shape. It is “He” whom you know is your master. You hear his name in your mind the Great Wind-Walker, Ithaqua! He is immense. He fills the heavens, your god.",
+        "You hear his dark call in your soul and run toward him. Ithaqua races ahead, across the snowy ground. For an anguished moment you fear you will lose him, but his aura fills you with strength and quickens your legs. As he bounds in ever-greater arcs, so do you. Finally, Ithaqua takes a bound so great that he does not come down. You spring into the air and join him, racing free on the stream of ether left behind.",
+        "The friction of your journey through the sky is tremendous. Your old feet begin to burn and peel away. An icy weight forms in your breast and you cry out.",
+        "Suddenly, Great Wind-Walker’s presence is gone. You plummet out of the sky, through the layers of ether, breaking through branches of spruce, fir, and tamarack. You strike the earth hard, but rise unhurt.",
+        "You peer at your feet. They have been transformed. What was human about them has been burned away, leaving only corroded, black, stump-like hooves. Ithaqua has blessed you with feet better suited to follow him above the treetops. You know this is only the beginning and that, each time you fly with the Great Wind-Walker, more of your human form will mutate. Finally, no portion of the old you will remain.",
+        "Oblivious to time and distance, you wander through the forest that is now your home, the forest that fills every particle of you with its ancient spirit. Your craving returns, a hunger that leads you along like a famished beast on a leash.",
+        "You see a campfire burning ahead. Only now do you fully realize the hideous repast you crave. Some small part of you, which is still human, revolts against your new hunger."
+      ]
+    }
+  }
+}

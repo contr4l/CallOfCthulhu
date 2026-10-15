@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "34"
+  ],
+  "text": [
+    "你们原本进展顺利，却又遭遇麻烦：船底刮过一块尖锐的水下物体，裂口处开始往里灌水。队伍设法把补给和破船拖到岸上。",
+    "你趁机吃了些松鼠炖肉。突然，铁制餐具发出一阵颤响。你和其他人盯着那些器皿，看它们在平坦的巨石上抖动、旋转，随后倾斜着弹落到地上。",
+    "“地震？”诺曼试探着问。你摇摇头。溪流平静，树木纹丝不动。你凭直觉从口袋里掏出指南针。指针疯狂摆动，仿佛马上就要折断。",
+    "“是磁场异常吗？”西尔维娅猜测。",
+    "“伊萨夸尼！”查理的手指紧扣地面。“伟大的风行者就在附近！”她看起来随时可能抛下你们逃走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 34",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 34",
+      "text": [
+        "Your party makes good progress, but then more trouble strikes as the craft rakes a sharp, submerged object. The river spurts through a gash in the bottom. Your party manages to get the supplies and the wreck to shore.",
+        "You take the opportunity to chow down on squirrel stew. Suddenly, you hear a rattle among the iron utensils. You and the others stare at the vessels shuddering, spinning around on the flat boulder on which they sit, tipping and bouncing to the ground.",
+        "“An earthquake?” Norman ventures. You shake your head. The water is untroubled in the stream and the trees are still. On a hunch, you take the compass out of your pocket. The needle is gyrating so wildly you fear it will break.",
+        "“A magnetic disturbance?” Sylvia suggests.",
+        "“Ithakwanni!” Charlie’s fingers grip the earth. “The Great Wind-Walker is near!” She looks ready to desert you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "301"
+  ],
+  "text": [
+    "你抓起步枪，近距离朝那个曾是你研究助理的怪物胸口开火。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 301",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 301",
+      "text": [
+        "You grab your rifle and fire point-blank into the chest of the monster that was once your research assistant."
+      ]
+    }
+  }
+}

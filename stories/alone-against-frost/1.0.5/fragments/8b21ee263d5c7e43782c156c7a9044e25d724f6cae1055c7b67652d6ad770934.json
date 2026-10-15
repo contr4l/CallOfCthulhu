@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "628"
+  ],
+  "text": [
+    "“呀啊！”伯纳德尖叫起来。野兽把他拖回去，摔在地上，用粗糙的棍棒和大石头殴打他。他显然没救了。",
+    "西尔维娅似乎想回去救他。你和诺曼拉住她。趁猿人分神，你们逃到下方的草甸。",
+    "想到伯纳德惨烈的死，你心情沉重。现在必须作出决定。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 628",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 628",
+      "text": [
+        "“Yaaah!” cries Bernard. The beasts drag him backward and throw him to the ground. They pummel him with rough clubs and large stones. He is clearly doomed.",
+        "Sylvia seems about to go back to help. You and Norman pull her away. While the ape-men are occupied, you flee to safety in the meadowland below.",
+        "Heavyhearted over Bernard’s gruesome demise, you have a decision to make."
+      ]
+    }
+  }
+}

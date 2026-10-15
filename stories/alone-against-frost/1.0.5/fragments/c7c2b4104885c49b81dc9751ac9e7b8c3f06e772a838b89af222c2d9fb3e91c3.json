@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "173"
+  ],
+  "text": [
+    "下方那场可憎的仪式有种奇异的魅力，令你着迷。但你觉得自己并不能完全控制自己。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 173",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 173",
+      "text": [
+        "The abominable ritual below holds a strange fascination. But you do not feel entirely in control of yourself."
+      ]
+    }
+  }
+}

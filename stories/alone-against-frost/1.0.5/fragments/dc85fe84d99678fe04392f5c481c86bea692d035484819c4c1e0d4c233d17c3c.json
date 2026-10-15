@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "437",
+    "frost-auto-437"
+  ],
+  "text": [
+    "你惊恐的队伍迅速逃离这场血腥袭击现场。拉开距离能让你们摆脱那看不见的折磨者吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 437",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 437",
+      "text": [
+        "Your terrified party races away from the scene of the grisly attack. Can distance save you from the invisible tormentor?"
+      ]
+    }
+  }
+}

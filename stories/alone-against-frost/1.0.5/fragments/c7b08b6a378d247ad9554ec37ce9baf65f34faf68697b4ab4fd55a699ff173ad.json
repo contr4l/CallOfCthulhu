@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "475"
+  ],
+  "text": [
+    "巨大的真菌状龙虾生物像采矿者一样在河床劳作。看到这一幕，队伍惊恐地失声尖叫。生物放下采矿工具，转而抓起扭曲的银色物件——那很可能是武器。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 475",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 475",
+      "text": [
+        "The sight of hideous, gigantic, fungoid, lobster-things laboring like rockhounds along the streambed wrenches an exclamation of terror from your party. The creatures drop their mineral gathering tools and reach for twisted silvery objects, which just might be weapons."
+      ]
+    }
+  }
+}

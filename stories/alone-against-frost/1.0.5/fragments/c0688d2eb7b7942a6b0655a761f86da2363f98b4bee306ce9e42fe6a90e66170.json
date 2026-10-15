@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "225"
+  ],
+  "text": [
+    "你很快确认了自己的发现：这里是前所未见的史前生物遗存地。沙地和黏稠泥浆里到处都是不属于北方现代动物的足迹。然而，你的专长是人类学，古生物学研究有限。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 225",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 225",
+      "text": [
+        "You quickly confirm your discovery of a redoubt of unprecedented prehistoric survival. Animal tracks attributable to no modern beast of the North abound in the sand and bubbly mud; however, your specialty is anthropology—your paleontological studies have been limited."
+      ]
+    }
+  }
+}

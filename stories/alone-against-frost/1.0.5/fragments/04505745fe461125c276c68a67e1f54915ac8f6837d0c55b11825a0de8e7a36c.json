@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "121"
+  ],
+  "text": [
+    "进行理智检定：若失败，损失1D6点理智。然后前往166。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 121",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 121",
+      "text": [
+        "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 166."
+      ]
+    }
+  }
+}

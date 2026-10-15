@@ -23,12 +23,12 @@
     {
       "id": "75:p3",
       "kind": "body",
-      "text": "22\nIf any of your party require healing, you may restore 1 hit point each. \nTo pitch camp and rest before retracing your course, go to 124. To try \nto wade into the hidden valley, go to 125.",
-      "sourceLocation": "pdf:visual:[[23,52],[23,54],[23,55],[23,56]]"
+      "text": "If any of your party require healing, you may restore 1 hit point each. \nTo pitch camp and rest before retracing your course, go to 124. To try \nto wade into the hidden valley, go to 125.",
+      "sourceLocation": "pdf:visual:[[23,54],[23,55],[23,56]]"
     },
     {
       "id": "75:p4",
-      "kind": "trace",
+      "kind": "body",
       "text": "(50, 58, 94, 181, 425, 600)",
       "sourceLocation": "pdf:visual:[[23,57]]"
     }

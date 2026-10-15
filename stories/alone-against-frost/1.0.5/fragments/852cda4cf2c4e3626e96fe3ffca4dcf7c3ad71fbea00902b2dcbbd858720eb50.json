@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "452"
+  ],
+  "text": [
+    "远古事件的知识涌入你脆弱的心灵。",
+    "欢欣！基瓦内梅亚的欢欣！只有基瓦内梅亚屹立不倒！它们的敌人都被毁灭。虽然基瓦内梅亚为此耗尽了国力，虽然基瓦内玛自身也因咒术而变得衰弱，但敌人已失去生命，埋葬在无情的海底。魔法永不停息！每个基瓦内玛人都是巫师！腐化的魔法！使人变黑、枯萎的魔法！寒冷，冰霜，永不止息。病弱矮小的族群无法抵挡冰川蔓延，也无法抵挡冰川带来的人们……伊努特人。无法生育。冰川。城市被磨成尘埃！无尽的衰弱。寒冷。死亡。如今，南方又来了新人。杀戮！伊塔库亚要求如此！伊塔库亚发出召唤！风行者！冰之心！乘风奔跑者！Y’kaa haa bho-ii！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 452",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 452",
+      "text": [
+        "Knowledge of ancient events floods your fragile mind.",
+        "Glee! Glee in Keywanemeia! Keywanemeia alone stands! Their enemies are destroyed. Though Keywanemeia is impoverished by the efforts, though the Keywanema themselves are stunted by the spells, their foes are lifeless, buried beneath the heartless sea. Magic ceaseless! Every Keywanema a sorcerer! Magic that corrupts! Magic that blackens, withers! The cold. The ice. Unrelenting. A sick, stunted people cannot withstand the spread of the glaciers nor the people the ice brings... the Inutos. Sterility. Glaciers. Cities ground to dust! Weakness without end. Cold. Death. Now, new people come from the south. Slaughter! Ithaqua demands! Ithaqua makes his summons! Wind-Walker! Hearts of ice! Runners on the wind! Y’kaa haa bho-ii!"
+      ]
+    }
+  }
+}

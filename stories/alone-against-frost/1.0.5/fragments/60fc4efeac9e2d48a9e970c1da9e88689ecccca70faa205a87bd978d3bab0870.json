@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "625"
+  ],
+  "text": [
+    "你发现一条绕过岩石突出部的狭窄岩架。在你们帮助下，伯纳德得以通过；猿人身材过于魁梧，无法跟上。它们愤怒地咕哝着退开。你们沿路返回山脚下的草甸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 625",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 625",
+      "text": [
+        "You spy a narrow ledge that rounds a rocky outcrop. With help, Bernard is able to navigate it. The ape-men, however, are a little too bulky. Grunting in frustration, they fall back. Your party traces a route back to the meadowland at the foot of the hill."
+      ]
+    }
+  }
+}

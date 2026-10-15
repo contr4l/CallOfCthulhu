@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "174"
+  ],
+  "text": [
+    "你们三人安全穿过裂隙。初次呼吸到峡谷内部的空气时，你们惊奇地停下脚步。只有热带地区才有过如此相似的气味。空气湿润，弥漫着迅速腐烂的气息。走不了几码，你们便看出周围植物茂盛繁密，和针叶林的植被截然不同。",
+    "你听说过一些理论——你曾以为那是疯子胡说——据称这里有一座与外界隔绝的山谷，能够留住温暖的钦诺克风；火山热泉又滋养、加热着山谷。在这样的特殊条件下，气候或许数千年都能保持稳定。这可以解释这里奇特的史前植物。那么，冰河时代以前的哺乳动物也可能在这里存活吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 174",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 174",
+      "text": [
+        "The three of you make it through the fissure safely. At your first breath of the interior air, you pause in wonder. Only in the tropics have you smelled air like this. The air is humid, thick with the odor of rapid decay. It takes no more than a few yards’ walk to see that the foliage around you is lush and utterly different from the growth of the taiga.",
+        "You have heard theories—crank, you thought—that there existed a boxed-in valley that trapped the warm Chinook winds, a valley irrigated and heated by volcanic waters. Under such special conditions, the climate might be held stable for millennia. That would account for the strange prehistoric flora. Could mammals from before the Ice Age also survive here?"
+      ]
+    }
+  }
+}

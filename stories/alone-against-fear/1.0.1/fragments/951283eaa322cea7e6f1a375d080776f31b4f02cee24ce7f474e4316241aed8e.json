@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "39"
+  ],
+  "text": [
+    "The kid explains that there are\ntwo gangs of children and teens\nat war in the city: the Witch\nChildren, who use black magic,\nand the Halloween Gang who\nused to bully the witch children\nuntil they were scared off by\ntheir magic. Then he leaves."
+  ],
+  "reading": {
+    "en": {
+      "title": "39 - The Kid tells a story",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "39 - 孩子讲述故事",
+      "text": [
+        "孩子解释说，城里有两群交战中的孩子帮派：使用黑魔法的女巫孩子帮，以及过去霸凌女巫孩子、后来被他们的魔法吓跑的万圣节帮派。说完，他便离开。"
+      ]
+    }
+  }
+}

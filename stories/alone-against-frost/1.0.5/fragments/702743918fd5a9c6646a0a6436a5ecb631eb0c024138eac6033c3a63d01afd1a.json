@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "259"
+  ],
+  "text": [
+    "突然之间，抗争消失了，只剩下合一。你尽力转过头，老妇人毫无生气地躺在你身后的地上。你露出冷笑。她软弱、丑陋；而你年轻，充满活力与力量。",
+    "“Ipsdrib-tpofmaut！”你嘶声念道。力量之语将你的束缚化作灰烬，你站起身来。空地上的基瓦内玛人恭敬地低头，把额头贴在尘土里。你回头望向仍被捆着的诺曼和西尔维娅；他们惊恐地盯着你。",
+    "你的思绪短暂地混乱起来：学术声望与新英格兰社交场合的画面，和异教狂欢、古神漫步于无尽森林的景象交织在一起。你挺直肩膀。必须履行约定。基瓦内玛人欠下的义务，所指向的是比你——他们不朽的女王兼祭司——更加古老、更加强大的存在。",
+    "你缓慢而坚定地脱下衣服，披上前任女王死后留下的鹿皮。你指向被俘的学生，却对基瓦内玛人下令：“Cugla mulo zungi。”意思是：“砍下他们的头。”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 259",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 259",
+      "text": [
+        "Abruptly, there is no more struggle, only unity. You turn your head as far as you can. The crone lies lifeless on the ground behind you. You sneer. She was weak, ugly. But you are young, vibrant, full of power.",
+        "“Ipsdrib-tpofmaut!” you hiss. The words of power turn your thongs to ash and you stand up. The Keywanema in the glen stand attentively. They bow in reverence, putting their foreheads in the dust. You glance back at the bound Norman and Sylvia, who gape at you with waxing horror.",
+        "Your thoughts are confused for a moment. Images of academic glory and New England social engagements mix with scenes of pagan frenzy and gods walking the endless forests. You straighten your shoulders. The bargain must be kept. The Keywanema owe obligations to others greater and much older than even you, their immortal queen-priestess.",
+        "Slowly and deliberately, you remove your clothing, then wrap yourself up in the deerskin formerly worn by your now-deceased predecessor. You point to the student-captives but address the Keywanema. “Cugla mulo zungi,” you order. It means, “Cut off their heads.”"
+      ]
+    }
+  }
+}

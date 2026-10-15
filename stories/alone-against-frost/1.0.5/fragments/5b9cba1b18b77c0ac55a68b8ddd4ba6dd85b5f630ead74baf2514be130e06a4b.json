@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "400"
+  ],
+  "text": [
+    "石块砸落在你们周围，嵌进地面。猿人——也就是雪怪——高高站在上方，它们投下的石块带着骇人的速度落下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 400",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 400",
+      "text": [
+        "Rocks strike around you, embedding themselves in the earth. The ape-men—sasquatches—are so high above you that their missiles impact with fearsome velocity."
+      ]
+    }
+  }
+}

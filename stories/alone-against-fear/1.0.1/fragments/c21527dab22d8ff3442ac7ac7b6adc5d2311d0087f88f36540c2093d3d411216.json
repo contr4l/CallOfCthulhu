@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-house"
+  ],
+  "text": [
+    "1 Roll on the Haunted House table.\n2  You meet helpful people living in the area. Heal 1 Life and\ngain 1 Food point.",
+    "3\nThe house is attacked by 2d6 L2 Zombies (Slow Undead). You\nmay ignore them or fight them. If you defeat them, roll on the\nrewards table.",
+    "4\nSafe House. You find an area that is easy to defend. You may\nheal up to 2 Sanity and 4 Life every time you visit this place.\nYou do not have to roll for random encounters every time you\nvisit this Safe House. If there are already 3 Safe Houses in play\nwhen you roll this result, you create a new Safe House but the\nSafe House closest to your current location is no longer a Safe\nHouse. To determine which is closest, just count the number\nof boxes on the town map that you should cross to reach that\nlocation. If there are two Safe Houses at the same distance,\nchoose randomly. When you visit the location that is no longer\na Safe House, you must roll a 1 in 6 chance of a random\nencounter, just like for any already visited area.",
+    "5\nDilapidated house. You may explore it or move along. If you\nexplore it, roll 4+ (+1 if you have the Agile Skill, +2 if you have\nit at Expert level) to avoid being hit by falling debris and losing\n1 Life. You may perform a Search roll at +1 to find (choose) 1\nClue or 1 random item from the Random Item or Useful Stuff\ntables (your choice).",
+    "6\nPlay event #1 from the list of events at the end of this book.\nIf you have already played it, roll a die: on a 1-2, treat as no\nencounter; on a 3-4, roll on the Living Dolls table; on a 5-6,\nroll on the Haunted House table instead."
+  ],
+  "reading": {
+    "en": {
+      "title": "House table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "房屋表（D6）",
+      "text": [
+        "1 掷闹鬼房屋表。\n2 遇到住在附近、乐于助人的人。恢复1点生命并获得1点食物。",
+        "3\n房屋遭到2D6只L2僵尸袭击（行动迟缓的不死生物）。你可以无视它们或与之战斗。若击败它们，掷奖励表。",
+        "4\n安全屋：找到一处易于防守的地方。每次到访都可恢复至多2点理智和4点生命。到访安全屋时无需掷随机遭遇。若掷出此结果时场上已有3个安全屋，则建立一个新安全屋，但距离当前位置最近的安全屋不再算安全屋。确定最近者时，计算城镇地图上到达该处需经过的格数。若两个安全屋距离相同，随机选择。再次进入已不再是安全屋的地点时，照已探索区域规则掷1/6概率的随机遭遇。",
+        "5\n破败房屋：你可以探索或继续前进。若选择探索，进行4+检定（敏捷技能+1，专家级敏捷+2），以免被坠落碎片击中并损失1点生命。你可以进行搜索检定+1，成功时任选获得1点线索，或从随机物品表/有用物品表中任选1件随机物品。",
+        "6\n游玩本书末尾事件列表中的事件#1。若已经游玩过，则掷骰：1–2视为没有遭遇；3–4掷活人偶表；5–6改掷闹鬼房屋表。"
+      ]
+    }
+  }
+}

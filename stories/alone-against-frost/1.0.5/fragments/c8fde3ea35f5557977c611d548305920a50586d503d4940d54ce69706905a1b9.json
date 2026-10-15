@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "235",
+    "frost-auto-235"
+  ],
+  "text": [
+    "诺曼浑身抽搐！他大喊着，双手在空中挥舞，仿佛要赶走看不见的袭击者。你和西尔维娅合力安抚他。在你们的力量压制下，年轻人瘫软下来，失去了意识。",
+    "你们想尽办法也没能唤醒他。西尔维娅虽然虚弱，仍帮你给他铺好干燥的床铺，又把火堆添旺。你看出她已濒临崩溃，便称赞她在野外的表现。她眨眨眼，忍住泪水。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 235",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 235",
+      "text": [
+        "Norman convulses! He cries out, his hands beating at the air, as if trying to drive away an invisible attacker. You and Sylvia battle to calm him. Under your combined strength, the young man goes limp and slips into unconsciousness.",
+        "All your efforts fail to awaken him. Weak as she is, Sylvia helps you make a dry bed for him and builds up the fire. You see that she is close to desperation and offer a few words of commendation on her performance in the field. She blinks back tears."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "320",
+    "frost-auto-320"
+  ],
+  "text": [
+    "你看见那只真菌状的可憎生物在头顶滑翔，顿时血液发冷。周围的野兽陷入恐慌，开始四处逃窜。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 320",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 320",
+      "text": [
+        "Your blood runs cold as you spot the fungoid abomination gliding through the air overhead. Around you, the beasts panic and begin to move."
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "466",
+    "frost-auto-466"
+  ],
+  "text": [
+    "你掰开伯纳德的手，把他摔在地上，诺曼则照料西尔维娅。你准备迎接再次袭击，但伯纳德突然跳起来，以惊人的速度冲向河边。",
+    "“教授！”诺曼喊道，“西尔维娅——我想她死了！”",
+    "你检查她是否还有脉搏或呼吸。确实如此，她已经死了。你凝视着被杀害的研究生，听见袭击者跳进河里，再也没有浮出水面。",
+    "你把西尔维娅埋在沙丘间。你和诺曼在墓前说了几句话，随后沿北汉尼纳河匆忙离去。直到傍晚，你们都没有再说话。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 466",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 466",
+      "text": [
+        "You break Bernard’s grip and throw him to the ground while Norman sees to Sylvia. You brace for a renewed attack, but instead, Bernard leaps to his feet and, with startling haste, dashes for the river.",
+        "“Professor!” yells Norman. “Sylvia—I think she’s dead!”",
+        "You check for any signs of a pulse or breathing. It’s true. As you stare at one murdered graduate student, you hear her attacker throw himself into the river. He does not emerge.",
+        "You bury Sylvia among the sand dunes. After you and Norman say a few words over her grave, you hurry away along the North Hanninah River. Neither of you speaks again until evening."
+      ]
+    }
+  }
+}

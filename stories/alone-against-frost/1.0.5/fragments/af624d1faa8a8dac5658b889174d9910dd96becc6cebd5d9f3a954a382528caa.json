@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "4"
+  ],
+  "text": [
+    "那天夜里由你守第一班岗，其他人则在经历了疲惫的一天后沉沉睡去。短暂的黑夜里，溪流中海狸溅起的水花、昆虫的鸣叫，以及一只大灰鸮的啼声不绝于耳。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 4",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 4",
+      "text": [
+        "You take first watch that night, while the others sleep after an exhausting day. The brief darkness is disturbed by the splash of beavers in the stream, the trilling of insects, and the hoot of a great gray owl."
+      ]
+    }
+  }
+}

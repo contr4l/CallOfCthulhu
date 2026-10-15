@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "561",
+    "frost-auto-561"
+  ],
+  "text": [
+    "你示意诺曼和西尔维娅不要做出任何攻击举动。猎人们围住你，拿走你手中的步枪和腰间的刀。学生们也遭到同样对待。",
+    "你告诉猎人自己没有恶意，语气保持平静。",
+    "其中一名猎人用部族语言说话。你略懂几句，听出大意是“安静！”或类似的话。俘虏你们的人把三人带到你们最初发现他们的地方。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 561",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 561",
+      "text": [
+        "You urge Norman and Sylvia to make no aggressive moves. The hunters press in around you and take the rifle from your hand and the knife from your belt. The students get the same treatment.",
+        "You tell the hunters you mean no harm, keeping your voice even.",
+        "One of the hunters speaks in his tribal tongue. You have enough of his language to interpret it as “Silence!” or some variation. Your captors take the three of you down to the spot where you first sighted them."
+      ]
+    }
+  }
+}

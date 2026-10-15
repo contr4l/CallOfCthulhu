@@ -1,0 +1,17 @@
+{
+  "id": "7",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "f0bf7c3a8c24adb2c2392f94542e04fd4334fa046cbfb07785855a51056bc882",
+  "paragraphs": [
+    {
+      "id": "7:p0",
+      "text": "#7 - 不祥之星"
+    },
+    {
+      "id": "7:p1",
+      "text": "一颗流星划亮天空。你试着许愿，心中却尽是不祥的念头。进行一次L2恐惧防御检定。失败则失去1点理智，并在接下来一场战斗中攻击和防御检定均-1。成功则照常继续。"
+    }
+  ],
+  "notes": []
+}

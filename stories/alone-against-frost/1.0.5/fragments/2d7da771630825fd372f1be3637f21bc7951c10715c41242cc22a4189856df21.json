@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "42",
+    "frost-auto-42"
+  ],
+  "text": [
+    "这一次，你意识到查理说得有道理。你和诺曼走到伯纳德的帐篷，准备把这个可怜人搬上独木舟。你掀开帐篷门，却发现伯纳德不见了。他的脚印通向汉尼纳河，在岸边消失。你们匆忙搜寻，却一无所获。看来他是在神志不清时漫无目的地走开，最后淹死了。",
+    "队伍急忙收拾好独木舟。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 42",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 42",
+      "text": [
+        "This time you realize Charlie is talking sense. You go with Norman to Bernard’s tent to move the wretch to the canoe. When you throw open the flap, you discover Bernard is gone. His tracks lead down to the Hanninah and vanish at the riverbank. Your hasty search turns up nothing. It seems he wandered away in his delirium and drowned.",
+        "Your group hurriedly packs the canoe."
+      ]
+    }
+  }
+}

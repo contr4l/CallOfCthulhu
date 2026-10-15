@@ -35,30 +35,24 @@
     {
       "id": "62:p5",
       "kind": "body",
-      "text": "20",
-      "sourceLocation": "pdf:visual:[[21,57]]"
-    },
-    {
-      "id": "62:p6",
-      "kind": "body",
       "text": "A  cold  flake  melts  on  your  nose.  You  touch  it.  Snow  in \nsummer? Impossible, even in the Northwest Territories.",
       "sourceLocation": "pdf:visual:[[21,59],[21,60]]"
     },
     {
-      "id": "62:p7",
+      "id": "62:p6",
       "kind": "body",
       "text": "A  dark  shape  bolts  past  you  at  a  crouch.  Charlie!  She  is \nbarefoot, running at an amazing clip. In an instant, she will be \nswallowed up by the trees.",
       "sourceLocation": "pdf:visual:[[21,61],[21,62],[21,63]]"
     },
     {
-      "id": "62:p8",
+      "id": "62:p7",
       "kind": "body",
       "text": "To pursue her, go to 107. To first wake up your students, go to 109.",
       "sourceLocation": "pdf:visual:[[21,64]]"
     },
     {
-      "id": "62:p9",
-      "kind": "trace",
+      "id": "62:p8",
+      "kind": "body",
       "text": "(34, 527)",
       "sourceLocation": "pdf:visual:[[21,65]]"
     }

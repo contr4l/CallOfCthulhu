@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "350"
+  ],
+  "text": [
+    "猿人像卷起地毯一样把你和诺曼夹在身下，带往不远处的营地。“教授！”诺曼指着前方。你顺着他指的方向看去——西尔维娅！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 350",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 350",
+      "text": [
+        "The ape-men carry you and Norman like rolled-up carpets. It is not far to their encampment. “Professor!” Norman points. You follow his gesture. Sylvia!"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "section-character-sheet",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "f047876c4b93af9c4533809e1660e9c3b6096cb178c48134eb3b3ad8a734b2de",
+  "paragraphs": [
+    {
+      "id": "section-character-sheet:p0",
+      "text": "角色卡"
+    },
+    {
+      "id": "section-character-sheet:p1",
+      "text": "伤残\n精神创伤\n技能\n武器\n弹药\n蜡烛\n关键词"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "623"
+  ],
+  "text": [
+    "你努力稳住心神，伯纳德却做不到。他吓坏了，一瘸一拐地逃走。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 623",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 623",
+      "text": [
+        "With an effort of will, you hold yourself together. Bernard does not. Terrorized, he hobbles away on his injured ankle."
+      ]
+    }
+  }
+}

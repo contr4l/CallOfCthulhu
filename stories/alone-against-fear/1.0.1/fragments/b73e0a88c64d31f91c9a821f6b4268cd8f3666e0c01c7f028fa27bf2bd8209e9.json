@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-special-event-1"
+  ],
+  "text": [
+    "1\nThe Kid. You meet Mark, a scrawny, wide-eyed kid who wants\nto join you for protection. If you refuse, he will go away. If you\nallow him to be with you, roll d6. On a 1-3, play event #26. On\na 4-6, play event #37 instead."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special event 1",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件 1",
+      "text": [
+        "1\n孩子：遇到一个瘦弱、睁大眼睛的孩子马克，他想跟着你以寻求保护。若拒绝，他会离开；若同意，掷D6：1–3游玩事件#26，4–6改为游玩事件#37。"
+      ]
+    }
+  }
+}

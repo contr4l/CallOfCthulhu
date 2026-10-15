@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "619",
+    "frost-auto-619"
+  ],
+  "text": [
+    "伯纳德的尖叫在你身后响起，不到一秒就戛然而止。你回头看去，已看不见他。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 619",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 619",
+      "text": [
+        "Bernard’s scream rips out behind you for less than a second before it is cut off. You glance to the rear and see him no longer."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "402",
+    "frost-auto-402"
+  ],
+  "text": [
+    "火势很快熄灭。短暂的夜晚过去后，只剩山顶渐渐消散的烟雾。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 402",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 402",
+      "text": [
+        "The fire is short-lived. When the brief night is over, nothing remains of it except a fading haze of smoke on the hilltop."
+      ]
+    }
+  }
+}

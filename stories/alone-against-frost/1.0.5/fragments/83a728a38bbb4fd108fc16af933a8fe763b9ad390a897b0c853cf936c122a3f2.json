@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "271"
+  ],
+  "text": [
+    "西尔维娅倒在地上，脖子被撕开，已经无力回天。诺曼正与一头凶猛的狼搏斗，双手和胸口全是鲜血。如果你有步枪，可以射击正在攻击诺曼的狼；也可以加入诺曼，与狼展开近身搏斗。",
+    "诺曼已经损失6点生命值。狼的攻击为30%（15/6），造成1D8+1D4点伤害，目前剩余12点生命值（初始15点）。",
+    "若使用枪械，攻击检定承受一个惩罚骰；若大失败，则击中诺曼。若加入搏斗与攻击诺曼的狼交战，由于你和诺曼联手人数占优，对狼的攻击获得一个奖励骰。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 271",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 271",
+      "text": [
+        "Sylvia is on the ground, her neck torn open. She is beyond help. Norman struggles with a brute of a wolf. His hands and chest are covered in blood. If you have a rifle, you may fire at the wolf attacking Norman, or you may join Norman and fight hand- to-hand combat.",
+        "Norman has already lost 6 hit points. The wolf has an attack of 30% (15/6), deals 1D8+1D4 damage, and has 12 hit points left out of 15.",
+        "If using a firearm, apply a penalty die to your attack roll; if you fumble the roll, you hit Norman. If joining the brawl against the wolf attacking Norman, you gain a bonus die to your attacks against the wolf, as together with Norman you outnumber the beast."
+      ]
+    }
+  }
+}

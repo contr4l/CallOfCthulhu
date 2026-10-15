@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "513"
+  ],
+  "text": [
+    "现在该决定探险队接下来的路线了。麦克唐纳堡已在你们可及范围内，你们可以前往那里，结束在北汉尼纳的经历。如果仍想继续探索，可以进行一次短途支线探险，甚至再次深入山谷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 513",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 513",
+      "text": [
+        "It is time to decide the course of your expedition. Fort McDonald lies within your reach, and you may go there to end your experience in the North Hanninah. If you still have an appetite for exploration, you may take a short side trip or even strike back out into the depths of the valley."
+      ]
+    }
+  }
+}

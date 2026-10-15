@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "51",
+    "frost-auto-51"
+  ],
+  "text": [
+    "经过两天辛苦劳作，你们用临时工具和方法造出一只木筏，足以冒险通过汉尼纳河下游的险恶水域。队伍装上所剩无几的财物，用撑杆驶入危险的河道。",
+    "接下来的几天，你们挣扎着穿过峡谷和急流，但木筏始终没有散架。也许你们因此过于自信了；在一段格外凶险的白水急流中，木筏被浪头抛起，随即船头朝下猛然栽入水中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 51",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 51",
+      "text": [
+        "Two days of work, using improvised tools and methods, produces a raft fit to dare the rough waters of the lower Hanninah. Your party loads its meager possessions and poles out into the hazardous channel.",
+        "In the days that follow, you struggle down canyons and rapids, but the raft holds. Perhaps you become overconfident, for in a particularly formidable patch of whitewater, the raft bounces on a surge and then plunges bow-first."
+      ]
+    }
+  }
+}

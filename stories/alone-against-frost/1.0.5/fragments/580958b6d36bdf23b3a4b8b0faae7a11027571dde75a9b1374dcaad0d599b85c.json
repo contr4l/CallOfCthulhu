@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "129",
+    "frost-auto-129"
+  ],
+  "text": [
+    "队伍中的每个人都进行潜行检定：若至少一人失败，前往416；否则前往195。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 129",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 129",
+      "text": [
+        "Make a Stealth roll for each party member: if at least one fails, go to 416; otherwise, go to 195."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "89"
+  ],
+  "text": [
+    "如果队伍中有人需要治疗，可以让每人恢复 1 点生命值。进行一次幸运检定：若成功，前往 90；若失败，前往 85。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 89",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 89",
+      "text": [
+        "If any of your party require healing, you may restore 1 hit point each. Make a Luck roll: if you succeed, go to 90; if you fail, go to 85."
+      ]
+    }
+  }
+}

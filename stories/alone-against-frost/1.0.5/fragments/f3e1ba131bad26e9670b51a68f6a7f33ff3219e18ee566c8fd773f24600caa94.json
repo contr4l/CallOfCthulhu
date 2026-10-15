@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "frost-189-drowning-ending",
+    "frost-385-drowning-ending",
+    "frost-412-drowning-ending",
+    "frost-512-drowning-ending",
+    "frost-514-drowning-ending",
+    "frost-536-drowning-ending"
+  ],
+  "text": [
+    "你溺水身亡。纳德尔曼远征就此结束。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "探险结束",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Adventure End",
+      "text": [
+        "You have drowned. The Nadelmann Expedition is over."
+      ]
+    }
+  }
+}

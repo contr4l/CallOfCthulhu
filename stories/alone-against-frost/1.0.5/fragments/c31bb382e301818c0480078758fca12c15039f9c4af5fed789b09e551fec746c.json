@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "587"
+  ],
+  "text": [
+    "走了几英里后，猎人们停下来扎营。有几人拿步枪进树林，可能是去打猎做晚饭；其他人围着篝火休息。",
+    "你们已成功追踪到他们，但下一步该做什么并不清楚。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 587",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 587",
+      "text": [
+        "After walking several miles, the hunters make camp. Some of them go off into the woods with their rifles, probably to shoot something for supper. The others rest around the fire.",
+        "You have successfully tracked them, but your next step is unclear."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "369",
+    "frost-auto-369"
+  ],
+  "text": [
+    "你的胫骨在沼泽泥浆中拖行。鸟也被拖慢，但追逐让你精疲力竭。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 369",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 369",
+      "text": [
+        "Your shins drag through the mud of the slough. The bird is also slowed, but the chase wears you down."
+      ]
+    }
+  }
+}

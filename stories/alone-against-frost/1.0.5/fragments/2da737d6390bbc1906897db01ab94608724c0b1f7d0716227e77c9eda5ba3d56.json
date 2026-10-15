@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "605"
+  ],
+  "text": [
+    "伯纳德刚才险些遇险，却毫不气馁，催促你继续深入隐秘峡谷。",
+    "队伍最后一人踏上坚实地面时，你如释重负。学生们散开，凝望风景。你追上他们，也惊讶地发现这座新发现的山谷远比想象中辽阔。兴奋之下，大家开始初步勘察。",
+    "不久，你们便确认这里保存着前所未有的史前生物。沙地和泥地里到处都有不属于北方任何现代动物的足迹。你现在真希望自己多学过一些古生物学。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 605",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 605",
+      "text": [
+        "Undaunted by his hairsbreadth escape, Bernard urges you to press on into the hidden canyon.",
+        "You sigh in relief as the last of your party steps onto solid ground. The students spread out, staring at the scenery. As you catch up with them, you are equally staggered to realize just how immense this newly discovered valley actually is. Excited, your group commences a preliminary survey.",
+        "It does not take long to confirm that you have discovered a redoubt of unprecedented prehistoric survival. Animal tracks that fit no modern beast of the North abound in the sand and mud. You wish now that you had studied more paleontology."
+      ]
+    }
+  }
+}

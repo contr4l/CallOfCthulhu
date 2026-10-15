@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "377"
+  ],
+  "text": [
+    "你独自寻找返回文明世界的路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 377",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 377",
+      "text": [
+        "Alone, you seek to return to civilization."
+      ]
+    }
+  }
+}

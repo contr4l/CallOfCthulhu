@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "116"
+  ],
+  "text": [
+    "进行潜行检定：成功则前往111；失败则前往117。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 116",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 116",
+      "text": [
+        "Make a Stealth roll; if you succeed, go to 111; if you fail, go to 117."
+      ]
+    }
+  }
+}

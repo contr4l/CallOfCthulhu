@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "351",
+    "frost-auto-351"
+  ],
+  "text": [
+    "从她空洞凝视的双眼和曾经赤褐色、如今夹杂白发的头发，你意识到西尔维娅已被折磨得彻底疯狂。雪怪把她像真人大小的玩偶一样挪来挪去，放在岩棚下你身旁。她对你的沟通尝试毫无反应。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 351",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 351",
+      "text": [
+        "By the vacant look in her staring eyes, by the white streaks in her once-auburn hair, you realize that Sylvia has gone quite mad from her ordeal. The sasquatches move her around camp like a life-sized doll, placing her beside you under a rock overhang. She ignores your attempts at communication."
+      ]
+    }
+  }
+}

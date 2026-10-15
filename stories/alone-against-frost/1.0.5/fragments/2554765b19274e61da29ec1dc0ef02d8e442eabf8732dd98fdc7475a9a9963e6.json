@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "331"
+  ],
+  "text": [
+    "你和诺曼逐渐饿得撑不住了。诺曼先失去力气。你用破毯子裹住他，沮丧地再次出门寻找食物。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 331",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 331",
+      "text": [
+        "As the pair of you starve, Norman’s strength gives out first. You wrap him in a ragged blanket and, discouraged, make one more attempt to find food."
+      ]
+    }
+  }
+}

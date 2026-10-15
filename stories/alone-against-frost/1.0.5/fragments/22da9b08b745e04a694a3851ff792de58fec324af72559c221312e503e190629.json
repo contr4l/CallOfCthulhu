@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "64"
+  ],
+  "text": [
+    "“走吧。”你催促同伴们继续前进。前方溪流旁的矿物沉积已不再原封不动。岩石似乎被剥去了硫磺层，连精巧的纹路也被刮掉了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 64",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 64",
+      "text": [
+        "“Come on.” You usher your companions forward. Up ahead, the mineral deposits along the stream are no longer unspoiled. The rocks appear to be stripped of their brimstone and artful vermiculations."
+      ]
+    }
+  }
+}

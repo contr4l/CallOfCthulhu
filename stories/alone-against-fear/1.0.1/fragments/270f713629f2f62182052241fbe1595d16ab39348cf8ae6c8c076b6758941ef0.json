@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-search"
+  ],
+  "text": [
+    "You will often look for creatures or\nitems, or general information\nabout the mysteries around you.\nWhenever you enter a box and you\nplay an encounter, or there is\nnothing in the box, you may\nperform a Search roll. Write an S in\nthe box as a reminder that you\nsearched it. You have only one\nchance of searching each box.\nExceptions: you may NOT Search a\nSafe House. You may Search a\nlibrary multiple times, but the only\nthing you can find is a book or 1\nClue. To perform a Search, roll d6\non the Search table below. Add +1\nif you have the Investigator Skill, or\n+2 if you have Investigator (Expert).\nA roll of 1 remains a 1: do not add\nmodifiers if you roll a 1.",
+    "search rolls table (d6)",
+    "1 Roll on the random encounter table, p.39.\n2-5 Nothing found.\n6 Success! Roll 4 times on the Useful Items table or on the\nRandom Object table, and pick a single result; OR  gain 1 Clue.\nRoll at +1 if you have the Investigator Skill, +2 if you have\nInvestigator (Expert). A roll of 1 remains a 1."
+  ],
+  "reading": {
+    "en": {
+      "title": "Search Rolls",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "搜索检定",
+      "text": [
+        "你经常需要寻找生物、物品，或有关谜团的信息。进入一个格子并完成遭遇，或该格没有任何内容时，可以进行一次搜索检定。在格子里写下S作为已搜索标记；每格只有一次搜索机会。例外：不能搜索安全屋。图书馆可搜索多次，但每次只能找到一本书或1点线索。搜索时掷搜索表所示D6。拥有调查员技能+1，专家级调查员+2。掷出1仍为1，不加修正。",
+        "搜索表（D6）",
+        "1 掷随机遭遇表（第39页）。\n2–5 一无所获。\n6 成功！在有用物品表或随机物品表上掷4次，并从结果中选1项；或者获得1点线索。拥有调查员技能时检定+1，专家级调查员+2。掷出1仍为1。"
+      ]
+    }
+  }
+}

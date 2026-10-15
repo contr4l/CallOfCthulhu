@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "24"
+  ],
+  "text": [
+    "要么伯纳德的绑架者藏起了踪迹，要么查理故意没有追踪他们。你觉得应该继续搜索，但大森林广阔得令人不安，仿佛要把人吞没。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 24",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 24",
+      "text": [
+        "Either Bernard’s abductors have concealed their trail, or Charlie is deliberately failing to track them. You ought to continue, but the Big Woods feel vast and overwhelming."
+      ]
+    }
+  }
+}

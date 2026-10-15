@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "572"
+  ],
+  "text": [
+    "查理似乎不太愿意见到那些被放逐者。你从灌木丛里退出来，试图沿原路折返。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 572",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 572",
+      "text": [
+        "Charlie seemed unenthusiastic about meeting the outcasts. You withdraw from the bushes and attempt to retrace your steps."
+      ]
+    }
+  }
+}

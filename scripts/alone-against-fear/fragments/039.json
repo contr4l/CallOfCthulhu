@@ -1,0 +1,18 @@
+{
+  "id": "39",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "39:p0",
+      "kind": "heading",
+      "text": "#39 - The Kid tells a story\n",
+      "sourceLocation": "pdf:spans:[[93,1742,1770]]"
+    },
+    {
+      "id": "39:p1",
+      "kind": "body",
+      "text": "The kid explains that there are\ntwo gangs of children and teens\nat war in the city: the Witch\nChildren, who use black magic,\nand the Halloween Gang who\nused to bully the witch children\nuntil they were scared off by\ntheir magic. Then he leaves.",
+      "sourceLocation": "pdf:spans:[[93,1770,1802],[93,1802,1834],[93,1834,1864],[93,1864,1895],[93,1895,1922],[93,1922,1955],[93,1955,1985],[93,1985,2013]]"
+    }
+  ]
+}

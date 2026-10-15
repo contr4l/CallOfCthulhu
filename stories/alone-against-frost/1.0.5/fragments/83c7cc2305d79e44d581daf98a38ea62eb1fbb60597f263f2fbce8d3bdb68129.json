@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "543",
+    "frost-auto-543"
+  ],
+  "text": [
+    "食物改善后，诺曼振作起来。几小时后，他站起身眯眼看着你。“选人类学是个错误，教授。你本该去开餐馆。”",
+    "你们一起笑了好几分钟，远超这个拙劣笑话应得的时间。你们在树林里待得太久了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 543",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 543",
+      "text": [
+        "With the improved food, Norman rallies. A few hours later, he climbs to his feet and squints at you. “It was a mistake to choose anthropology, Professor. You should have been in the restaurant business.”",
+        "You laugh together for several minutes more than his weak joke deserved. You have been out here in the woods for a long time."
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "263",
+    "frost-auto-263"
+  ],
+  "text": [
+    "矮小的人把你从空地带到一处僻静地点。那里有块犬牙状岩石立在盘根错节的常青树下，岩石上刻着纹饰，涂有颜料符号。他们把你绑在岩石上，随后开始围着你转圈，骨饰发出令人不安的节奏声。几个人围着一处旧火坑呼喊，发光的蒸气从坑中盘旋升起，汇聚成一团炫目的光。",
+    "猎人们狂欢般地向天空发出欢呼。你抬头望去，雾气散开，金牛座头部的毕宿星团清晰得异乎寻常。寒风拂过你的脸。你打着寒战，感到刚才还令人恐惧的虚空天空，此刻正朝你疾速压来。",
+    "令人费解的是，他们割断你的绳索后便逃走了。你跪倒在巨石下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 263",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 263",
+      "text": [
+        "The diminutive people carry you out of the glen to a lonely spot. Here a hound-tooth rock stands under the gnarled evergreens, marked with carvings and painted symbols. They tie you to the rock and begin to circle around you, their bone adornments clicking an unwelcome rhythm. Several yell over what seems to be an old firepit. A glowing vapor curls from it, swirling into a tight, dazzling mass.",
+        "As the hunters cavort, they launch ecstatic shouts to heaven. You glance up. The mists have parted, and with an odd clarity, you see the Hyades in the head of Taurus. Cold wind massages your face. As you shiver, you get the impression that the sky—a terrifying void just a moment ago—is now rushing down upon you.",
+        "Inexplicably, they cut your bonds and flee. You fall to your knees beneath the stone."
+      ]
+    }
+  }
+}

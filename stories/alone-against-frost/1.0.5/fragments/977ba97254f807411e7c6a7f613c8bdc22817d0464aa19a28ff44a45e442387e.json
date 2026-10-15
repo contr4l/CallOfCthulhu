@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "167"
+  ],
+  "text": [
+    "你觉得自己像复仇的亚哈船长，终于找到了那头白鲸，于是举起步枪瞄准，朝冰寒杀手的中央眼睛开火。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 167",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 167",
+      "text": [
+        "Feeling like an avenging Ahab who has found his white whale, you lift your rifle to your shoulder and fire into the central eye of the cold-killer."
+      ]
+    }
+  }
+}

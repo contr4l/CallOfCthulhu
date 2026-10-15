@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "265",
+    "frost-auto-265"
+  ],
+  "text": [
+    "灰色小战士抓住你，把你拖走。他们逼你跪在两棵年轻桦树之间，将你的两只手腕分别绑在树上。一个小人提着月牙形长柄刀走近，恐惧在你胃里翻涌。吟唱声响起，你环顾四周。眼角瞥见长柄刀闪过，喉咙随即被冰冷的剧痛灼穿。之后，一片黑暗。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 265",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 265",
+      "text": [
+        "The diminutive gray warriors seize you and drag you away. They force you to kneel between a pair of young birches and tie one wrist to each. Dread builds in your stomach as one approaches, carrying a moon-shaped blade on a pole. The start of a chant causes you to look around. Out of the corner of your eye, you see the pole-blade flash. An icy pain sears your throat. Then, blackness comes."
+      ]
+    }
+  }
+}

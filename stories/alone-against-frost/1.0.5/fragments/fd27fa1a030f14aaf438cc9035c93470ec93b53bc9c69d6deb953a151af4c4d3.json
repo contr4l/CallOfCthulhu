@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "277"
+  ],
+  "text": [
+    "不知是偶然还是狡猾，那生物的踪迹通向溪流。你无论如何也找不到足迹。诺曼沮丧地踢了一脚河岸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 277",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 277",
+      "text": [
+        "By accident or cunning, the creature’s trail leads into a stream. Try as you might, you cannot pick up the spoor. Frustrated, Norman kicks the bank."
+      ]
+    }
+  }
+}

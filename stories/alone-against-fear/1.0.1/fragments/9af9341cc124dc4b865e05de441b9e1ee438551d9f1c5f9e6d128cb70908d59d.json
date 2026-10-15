@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "20"
+  ],
+  "text": [
+    "The house is filled with religious\nparaphernalia. Pages from holy\nbooks are posted over the doors.\nQuite unusual for a family of\nalleged devil-worshippers! You\nstep into a bedroom and see a\nmiddle-aged couple, Seth and\nTabitha Rosen, looking at you from\na large dark mirror. Roll a Save vs.\nL3 Fear or lose 1 Sanity.If you didn’t go insane, you stagger\ntowards the mirror.\n”Free us. A great evil is coming. We\ncan help you against the  the witch\nchildren. But we can do so only if\nyou break the mirror.”\nIf you want to take the mirror with\nyou, just add it to your belongings.\nIt is large and will count as 2\ncarried objects.\nIf you want to break the mirror, go\nto #22.\nIf you are cursed and you think you\ncan break the curse by bringing\nthe mirror to a certain location you\nhave visited, go to #23."
+  ],
+  "reading": {
+    "en": {
+      "title": "20 - exploring the Rosen House",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "20 - 探查罗森宅邸",
+      "text": [
+        "房子里摆满了宗教用品，门上贴着圣书的书页。对一个据说崇拜恶魔的家庭来说，这非常奇怪！你走进卧室，看见一对中年夫妇塞斯·罗森和塔比莎·罗森，正从一面巨大的暗色镜子里望着你。进行一次L3恐惧防御检定，失败则失去1点理智。\n若你没有陷入疯狂，便踉跄着走向镜子。\n“放我们出去。有大邪恶正在逼近。我们可以帮你对付那些儿童女巫。但你必须打碎镜子。”\n若要把镜子带走，把它加入物品栏。镜子很大，占用2件携带物品的容量。\n若要打碎镜子，前往#22。\n若你受到诅咒，并认为把镜子带到曾去过的某处便能解除诅咒，前往#23。"
+      ]
+    }
+  }
+}

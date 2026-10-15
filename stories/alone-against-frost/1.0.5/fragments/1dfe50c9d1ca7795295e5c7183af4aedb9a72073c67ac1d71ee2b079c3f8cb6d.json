@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "519",
+    "frost-auto-519"
+  ],
+  "text": [
+    "猿人没有被吓住，反而发出愤怒的哨叫，并掀起一阵投石。你被打昏过去，石块仍不断落下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 519",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 519",
+      "text": [
+        "Far from being intimidated, the ape-men respond with angry whistles and an avalanche of thrown stones. You pass out from the blows, and the rocks keep coming down."
+      ]
+    }
+  }
+}

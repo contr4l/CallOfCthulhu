@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "332",
+    "frost-auto-332"
+  ],
+  "text": [
+    "你迎面撞上一股宇宙般冰冷的气流，倒在地上，身体僵硬到无法颤抖。躺在地上，你看见许多足肢的生物从灌木中爬出，像巨型蜘蛛般挥舞着奇怪的武器。随后一切陷入黑暗。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 332",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 332",
+      "text": [
+        "You run right into a blast of cosmic cold. You collapse to the ground, too stiff to shiver. From the position where you lie, you see the many legged creatures with their weird weapons scuttling like giant spiders from the bush. Then darkness."
+      ]
+    }
+  }
+}

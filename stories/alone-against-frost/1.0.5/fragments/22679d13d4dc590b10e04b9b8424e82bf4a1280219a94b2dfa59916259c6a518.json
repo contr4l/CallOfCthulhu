@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "214"
+  ],
+  "text": [
+    "学校开始审查你的学术地位。有人散布传言，称你伪造经验和资历记录，才得到密斯卡托尼克大学的职位。你已经让学校颜面尽失，因此校方没有正式调查，只是礼貌地要求你递交辞呈，你别无选择，只能照办。",
+    "这场丑闻自然终结了你的科学事业。你一度试着在书籍和杂志上阐述理论，但顶尖期刊对你不屑一顾。面向大众的耸人听闻市场又助长了粗疏和夸大之风，你越来越难以提笔。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 214",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 214",
+      "text": [
+        "Your academic standing is weighed. A rumor circulates, suggesting that you gained your position at Miskatonic by falsifying records of your experience and qualifications. Since you have already embarrassed the institution enough, no formal investigation is made. You are politely asked to tender your resignation and are left with no choice but to comply.",
+        "Needless to say, the scandal ends your serious scientific career. For a while, you try to develop your theory in books and magazines, but the best journals ignore you. Writing for a popular, sensationalist market encourages sloppy work and exaggeration. It becomes harder and harder to take up your pen."
+      ]
+    }
+  }
+}

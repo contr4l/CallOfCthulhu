@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "122"
+  ],
+  "text": [
+    "进行幸运检定：成功则前往171；失败则前往172。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 122",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 122",
+      "text": [
+        "Make a Luck roll: if you succeed, go to 171; if failed, go to 172."
+      ]
+    }
+  }
+}

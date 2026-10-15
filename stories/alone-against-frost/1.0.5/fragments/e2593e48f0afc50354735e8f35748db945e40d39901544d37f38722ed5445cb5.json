@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "78"
+  ],
+  "text": [
+    "你还得考虑学生们的安全。你近距离朝那人胸口开了一枪。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 78",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 78",
+      "text": [
+        "You have the students to think of. You fire point-blank into the man’s chest."
+      ]
+    }
+  }
+}

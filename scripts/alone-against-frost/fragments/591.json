@@ -17,18 +17,12 @@
     {
       "id": "591:p2",
       "kind": "body",
-      "text": "A total of 1D6+2 riflemen attack you. They each have 20% (10/4) \nskill  with  their  obsolete  rifles,  which  deal  2D6  damage  and  can \nimpale on an Extreme success. Your group may exchange shots with \nthem until at least half the hunters have been successfully hit, or \nuntil wounds or good sense force your party to surrender. If half or ",
-      "sourceLocation": "pdf:visual:[[100,32],[100,33],[100,34],[100,35],[100,36]]"
+      "text": "A total of 1D6+2 riflemen attack you. They each have 20% (10/4) \nskill  with  their  obsolete  rifles,  which  deal  2D6  damage  and  can \nimpale on an Extreme success. Your group may exchange shots with \nthem until at least half the hunters have been successfully hit, or \nuntil wounds or good sense force your party to surrender. If half or \nmore of the hunters are hit, they flee. Your party may attempt to heal \nby using First Aid to gain 1D3 hit points; then, go to 513. If you \nsurrender (at any point), go to 561.",
+      "sourceLocation": "pdf:visual:[[100,32],[100,33],[100,34],[100,35],[100,36],[100,39],[100,40],[100,41]]"
     },
     {
       "id": "591:p3",
       "kind": "body",
-      "text": "99\nmore of the hunters are hit, they flee. Your party may attempt to heal \nby using First Aid to gain 1D3 hit points; then, go to 513. If you \nsurrender (at any point), go to 561.",
-      "sourceLocation": "pdf:visual:[[100,37],[100,39],[100,40],[100,41]]"
-    },
-    {
-      "id": "591:p4",
-      "kind": "trace",
       "text": "(590)",
       "sourceLocation": "pdf:visual:[[100,42]]"
     }

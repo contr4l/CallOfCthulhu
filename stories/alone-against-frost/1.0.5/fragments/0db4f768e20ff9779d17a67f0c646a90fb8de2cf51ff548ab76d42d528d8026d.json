@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "143"
+  ],
+  "text": [
+    "进行闪避检定：若失败，前往332；若成功，则替查理和伯纳德各进行一次闪避检定。若两人都失败，前往150；只有查理失败，前往148；只有伯纳德失败，前往149；若所有人都成功，就重复这个过程。肯定会有人中招，问题只是会是谁。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 143",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 143",
+      "text": [
+        "Make a Dodge roll: if you fail, go to 332; if you succeed, make a Dodge roll for Charlie and Bernard. If both fail, go to 150. If only Charlie fails, go to 148. If only Bernard fails, go to 149. If everybody succeeds, repeat the process. Someone is certain to get hit. The only question is who."
+      ]
+    }
+  }
+}

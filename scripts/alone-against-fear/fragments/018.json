@@ -1,0 +1,18 @@
+{
+  "id": "18",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "18:p0",
+      "kind": "heading",
+      "text": "#18 - A strange blade\n",
+      "sourceLocation": "pdf:spans:[[84,387,409]]"
+    },
+    {
+      "id": "18:p1",
+      "kind": "body",
+      "text": "You find a large dagger with an\nornate hilt and elaborate etchings\non its blade. You may use it in\ncombat if you wish. Write down\n”event #25 “ but do not read it\nnow. As soon as your blade hits in\ncombat, read #25.\n",
+      "sourceLocation": "pdf:spans:[[84,409,441],[84,441,476],[84,476,508],[84,508,539],[84,539,571],[84,571,606],[84,606,624]]"
+    }
+  ]
+}

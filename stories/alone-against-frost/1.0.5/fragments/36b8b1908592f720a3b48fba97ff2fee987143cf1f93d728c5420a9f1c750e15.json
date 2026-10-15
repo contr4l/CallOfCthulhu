@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "644"
+  ],
+  "text": [
+    "你注意到大脚怪对待西尔维娅和你与诺曼的方式不同。它们让她离开岩棚，在营地里自由走动。你鼓励她去看看。大脚怪幼崽害羞或顽皮地靠近她。",
+    "西尔维娅回到你和诺曼身边时，你开始思考能否利用这种局面。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 644",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 644",
+      "text": [
+        "You notice that the sasquatches regard Sylvia differently from you and Norman. They let her out of the overhang and allow her to wander around the camp. You encourage her to go. The sasquatch cubs approach her, shy or playful.",
+        "When Sylvia returns to you and Norman, you wonder if this state of affairs can be turned to your advantage."
+      ]
+    }
+  }
+}

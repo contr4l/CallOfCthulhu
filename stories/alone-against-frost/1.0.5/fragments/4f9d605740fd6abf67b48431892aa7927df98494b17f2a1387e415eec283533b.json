@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "570",
+    "frost-auto-570"
+  ],
+  "text": [
+    "一个粗哑的声音厉声喝道：“放下枪！”你听见步枪枪机咔哒作响，抬头看见几名猎人从两侧用武器瞄准你们。抵抗极其愚蠢。你让学生放下武器，然后打量俘虏你们的人。",
+    "你辨认出图苏蒂纳族的特征。他们似乎相当与世隔绝：古旧的皮衬衫、绑腿和林地风格的莫卡辛鞋都表明他们很少接触外界。他们的步枪来自十九世纪，有些是单发式。查理提过被放逐者——这些人会不会就是她说的那群人？",
+    "你保持语气平静，向刚才说话的人开口：“我们没有恶意。”",
+    "“闭嘴！”首领粗声说道，用步枪枪管推了你一下。你会意地跟着俘虏者前往一处偏僻地点。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 570",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 570",
+      "text": [
+        "A gruff voice snaps, “Drop guns!” You hear the click of rifle levers and look up to see several hunters on either side of you, with weapons leveled. Resistance would be exceptionally foolish. You instruct the students to disarm and take a look at your captors.",
+        "You recognize indicators of the Tsuut’ina, apparently a very isolated group, since their old-fashioned skin shirts, leggings, and woodland-style moccasins indicate minimal contact with the outside. Their rifles are from the 19th century; some are single-shot. Charlie said something about outcasts—could this be the group she mentioned?",
+        "You keep your voice even and address the man who spoke. “We mean no harm.”",
+        "“Be silent!” the leader grunts and nudges you with a rifle barrel. Taking the hint, you follow your captors to a secluded spot."
+      ]
+    }
+  }
+}

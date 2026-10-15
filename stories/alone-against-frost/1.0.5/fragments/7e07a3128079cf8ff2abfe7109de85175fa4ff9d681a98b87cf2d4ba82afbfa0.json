@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "567"
+  ],
+  "text": [
+    "你们中有人把手腕从绳索里抽出来，得以解开其他人。继续逗留似乎不明智。三人商量接下来的行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 567",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 567",
+      "text": [
+        "One of you works a wrist out of the bindings and is able to free the others. It seems inadvisable to linger. The three of you decide your next course of action."
+      ]
+    }
+  }
+}

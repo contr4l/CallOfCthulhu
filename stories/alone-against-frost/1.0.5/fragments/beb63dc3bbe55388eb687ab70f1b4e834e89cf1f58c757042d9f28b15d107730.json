@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "252",
+    "frost-auto-252"
+  ],
+  "text": [
+    "你站起身，举起双臂，摆出多数文化都会视为无敌意的姿势。矿工关掉矿物扫描器，将其放下，举起奇形怪状的Y形装置。",
+    "“你们听得懂我说话吗？”你问道。",
+    "一束冰冷的光从其中一件Y形工具中迸发出来，擦着你的头飞过。一股荒唐的冲动迫使你站在原地，摸了摸右耳。耳朵已经完全麻木。其他矿工向你逼近，举起工具。",
+    "终于，那股力量消散了。你绕过弯道，跑回同伴身边，大喊：“怪物！”"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 252",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 252",
+      "text": [
+        "You stand up and lift your arms in a posture most cultures find non-aggressive. The miners switch off their mineral sweepers, drop them, and lift curious twisted Y-shaped devices.",
+        "“Do you understand me?” you ask.",
+        "A sheet of cold flares forth from one of the Y-shaped tools. The bolt passes close to your head. Some ridiculous impulse compels you to stand in place and touch your right ear. It is completely numb. The other miners move toward you, raising their tools.",
+        "Finally, the spell is broken. You duck around the bend and rush back to your companions, yelling, “Monsters!”"
+      ]
+    }
+  }
+}

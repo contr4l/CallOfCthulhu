@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "197"
+  ],
+  "text": [
+    "饥荒降临。日复一日，两名学生像幽灵般饥肠辘辘、步履蹒跚地跟在你身后。饥饿且无所事事的夜晚最难熬。你们三人痛苦地躺在砍下的树枝铺成的床上，开始相信营地里有某种存在——一种看不见也摸不着的灵体。",
+    "气温骤降，你们周围落叶松的针叶上结起白霜。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 197",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 197",
+      "text": [
+        "Starvation sets in. Day after day, the two students stagger after you like wan ghosts. The hungry, inactive nights are the worst of all. As the three of you lie in misery on beds of cut boughs, you begin to believe there is a presence in camp—a thing of spirit that cannot be seen or touched.",
+        "The temperature drops precipitously, frosting the needles of the tamaracks around you."
+      ]
+    }
+  }
+}

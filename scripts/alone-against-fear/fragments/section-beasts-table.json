@@ -1,0 +1,51 @@
+{
+  "id": "section-beasts-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-beasts-table:p0",
+      "kind": "heading",
+      "text": " Beasts table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[59,22,46]]"
+    },
+    {
+      "id": "section-beasts-table:p1",
+      "kind": "body",
+      "text": "1\nGiant Albino Alligator, L4 Animal, Life 6, damage 2, 1 in 6\nchance of surprise (3 in 6 if encountered in the sewers). Every\nattack hitting the alligator has a 2 in 6 chance of bouncing off\nits hard skin.\n",
+      "sourceLocation": "pdf:spans:[[59,46,48],[59,48,108],[59,108,172],[59,172,237],[59,237,252]]"
+    },
+    {
+      "id": "section-beasts-table:p2",
+      "kind": "body",
+      "text": "2\nZombie Dog, L3 Undead, Life 3, damage 2. Escape rolls from\nthe zombie dog are at -1. If you have dog food or a dog toy,\nyou may sacrifice it to distract the zombie dog and gain a +1\nto your Escape roll.\n",
+      "sourceLocation": "pdf:spans:[[59,252,254],[59,254,313],[59,313,374],[59,374,436],[59,436,457]]"
+    },
+    {
+      "id": "section-beasts-table:p3",
+      "kind": "body",
+      "text": "3\nLarge Rabid Dog, L5 Animal, Life 4, damage 1, 2 in 6 chance\nof surprise. You may sacrifice 2 Food, 1 can of dog food or 1\ndog toy to distract it, gaining +2 to your Escape roll. A bite from\nthe dog has a 1 in 6 chance of infection. If you have an\ninfection, you must use 1 point from a first aid kit within 3\nboxes or lose 2 additional Life.\n",
+      "sourceLocation": "pdf:spans:[[59,457,459],[59,459,519],[59,519,581],[59,581,649],[59,649,706],[59,706,768],[59,768,801]]"
+    },
+    {
+      "id": "section-beasts-table:p4",
+      "kind": "body",
+      "text": "4\nSwarm of Large Vampire Bats, L5 Animal, Life 2, damage 1,\nFlying (you may not Escape from this encounter). If you take\nany damage from the bats, roll a 1 in 6 chance of infection at\nthe end of the encounter. If you have an infection, you must\nuse 1 point from a first aid kit within 3 boxes or lose 1\nadditional Life.\n",
+      "sourceLocation": "pdf:spans:[[59,801,803],[59,803,861],[59,861,922],[59,922,985],[59,985,1046],[59,1046,1104],[59,1104,1121]]"
+    },
+    {
+      "id": "section-beasts-table:p5",
+      "kind": "body",
+      "text": "5\nBone Monster, L4 Undead, Life 5, damage 1. Baseball bats\nand hammers hit at +1. Bullets and projectiles of all types,\nincluding arrows and crossbow bolts, strike it at -1. If you\ndefeat the Bone Monster and have read the Occult Guide (see\nRandom Books table) you may collect d3 doses of bone\npowder.\n",
+      "sourceLocation": "pdf:spans:[[59,1121,1123],[59,1123,1180],[59,1180,1241],[59,1241,1302],[59,1302,1362],[59,1362,1415],[59,1415,1423]]"
+    },
+    {
+      "id": "section-beasts-table:p6",
+      "kind": "body",
+      "text": "6\nGiant Wolf, L6 Animal, Life 4, damage 2. 1 in 6 chance of\nsurprise if encountered in a park or a forest. Silver weapons\nhit it at +2. Escape rolls from this monster are at -1.",
+      "sourceLocation": "pdf:spans:[[59,1423,1425],[59,1425,1483],[59,1483,1545],[59,1545,1600]]"
+    }
+  ],
+  "sourcePages": [
+    59
+  ]
+}

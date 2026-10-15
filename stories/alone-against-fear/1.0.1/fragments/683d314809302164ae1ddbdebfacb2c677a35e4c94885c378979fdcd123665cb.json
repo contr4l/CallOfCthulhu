@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "26"
+  ],
+  "text": [
+    "The kid disappears out of thin air\nafter emitting a blood curdling\nscream. Save vs. L5 Fear or lose 1\nSanity."
+  ],
+  "reading": {
+    "en": {
+      "title": "26 - The kid disappears",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "26 - 孩子消失",
+      "text": [
+        "孩子发出一声令人毛骨悚然的尖叫，随即凭空消失。进行一次L5恐惧防御检定，失败则失去1点理智。"
+      ]
+    }
+  }
+}

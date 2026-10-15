@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "95"
+  ],
+  "text": [
+    "查理已经离开。但只要伯纳德还可能活着，你当然不能丢下他。就在这时，一声清晰的呼喊从上方传来。你抬头望向天空。",
+    "“我的脚！我燃烧的脚！我的心！”那哀号突然中断。你听见有什么沉重物体从树冠间坠下，撞断枝干，一路砸向地面。",
+    "你让其他人拿好枪。你站在火边，手指紧张地搭在扳机上。几个小时过去，终于传来一声树枝断裂声，接着又是一声。不紧不慢地，有什么东西从灌木丛中走了出来。",
+    "若一看见身影就开枪，前往 138。若要让它走近一些，前往 101。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 95",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 95",
+      "text": [
+        "Charlie is gone. But of course, you cannot abandon Bernard whilst there is a chance of finding him alive. At that moment, a clear cry rings from above. You look to the sky.",
+        "“My feet! My flaming feet! My heart!” The plaintive call cuts off abruptly and you hear something heavy crashing down through the treetops, breaking branches as it plummets.",
+        "You tell the others to get their guns. You stand over the fire, a nervous finger on your trigger. Hours pass. Finally, a twig snaps. Then another. Unhurried, something steps from the bush.",
+        "To shoot at the first sight of the figure, go to 138. To let it come closer, go to 101."
+      ]
+    }
+  }
+}

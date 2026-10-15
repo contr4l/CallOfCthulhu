@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "73"
+  ],
+  "text": [
+    "“那个男孩被伟大的风行者带走了。”查理抬起颤抖的手。“伊萨夸尼高兴时，或萨满召唤它的力量时，这灵体就会把人偷走，迫使他们跟着它在空中奔跑，速度快到脚都被烧掉！然后，伟大的风行者会赐给你一双和它一样的脚。你会变成吃人的怪物。",
+    "“如果那个男孩回来，他会……变得不同。他的心会像冰一样冷。除非那颗心先融化，否则他不会死。”",
+    "查理的故事让你想起很久以前听过的一件事。这个故事荒诞无比；然而，从她热切的眼神中，你看得出她深信不疑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 73",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 73",
+      "text": [
+        "“The boy was taken by the Great Wind-Walker.” Charlie raises a trembling hand. “When it pleases Ithakwanni, or when a shaman summons its power, the spirit steals you away; forces you to run with it across the sky so fast that your feet burn off! Then, the Great Wind-Walker gives you feet like its own. You become a creature who eats human flesh.",
+        "“If the boy comes back, he will be… different. Changed. His heart will be ice. He will not die unless that heart is first melted.”",
+        "Charlie’s tale echoes something you heard long ago. The story is fantastic—yet from her fervid eyes, it is plain she utterly believes it."
+      ]
+    }
+  }
+}

@@ -17,24 +17,18 @@
     {
       "id": "68:p2",
       "kind": "body",
-      "text": "21",
-      "sourceLocation": "pdf:visual:[[22,43]]"
-    },
-    {
-      "id": "68:p3",
-      "kind": "body",
       "text": "Images of your departed companions’ faces flash through your \nfeverish mind. For a few moments, you linger on the academic \ntriumph that might have been, the acclaim of your colleagues \nafter you return to Miskatonic University. The thought fades as \nyour eyes darken with death.",
       "sourceLocation": "pdf:visual:[[22,45],[22,46],[22,47],[22,48],[22,49]]"
     },
     {
-      "id": "68:p4",
+      "id": "68:p3",
       "kind": "body",
       "text": "The Nadelmann Expedition is over. THE END.",
       "sourceLocation": "pdf:visual:[[22,50]]"
     },
     {
-      "id": "68:p5",
-      "kind": "trace",
+      "id": "68:p4",
+      "kind": "body",
       "text": "(120)",
       "sourceLocation": "pdf:visual:[[22,51]]"
     }

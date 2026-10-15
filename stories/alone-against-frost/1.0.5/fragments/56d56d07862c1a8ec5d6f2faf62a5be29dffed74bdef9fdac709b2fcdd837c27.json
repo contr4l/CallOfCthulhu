@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "504"
+  ],
+  "text": [
+    "你浑身发抖，爬离这个通往地狱的观察点。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 504",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 504",
+      "text": [
+        "Trembling, you crawl away from this vantage point to Hell."
+      ]
+    }
+  }
+}

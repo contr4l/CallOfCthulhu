@@ -1,221 +1,42 @@
 {
   "id": "section-woods-park-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-woods-park-table:p0000",
-      "kind": "body",
+      "id": "section-woods-park-table:p0",
+      "kind": "heading",
       "text": "Woods/park table (d6)\n",
       "sourceLocation": "pdf:spans:[[57,22,44]]"
     },
     {
-      "id": "section-woods-park-table:p0001",
+      "id": "section-woods-park-table:p1",
       "kind": "body",
-      "text": "1\n",
-      "sourceLocation": "pdf:spans:[[57,44,46]]"
+      "text": "1\nWerewolf attack! Werewolf, L4 Were, 8 Life, Damage 2. Silver\nweapons hit the were at +2. It has a 2 in 6 chance of surprise. At the\nbeginning of the encounter, you must save vs. L3 Fear or (choose):\nlose 1 Sanity, or be at -1 on Defense rolls for the duration of the\nencounter. Any Escape roll against the werewolf is at -1. After you\nhave played this encounter twice in a game, ignore it and roll on the\nBeasts table instead.\n2 Safe area. As soon as you step into this area, you heal either 1 Life\nor 1 Sanity (your choice). This zone counts as a Safe House.\n",
+      "sourceLocation": "pdf:spans:[[57,44,46],[57,46,107],[57,107,178],[57,178,245],[57,245,313],[57,313,381],[57,381,451],[57,451,473],[57,473,545],[57,545,606]]"
     },
     {
-      "id": "section-woods-park-table:p0002",
+      "id": "section-woods-park-table:p2",
       "kind": "body",
-      "text": "Werewolf attack! Werewolf, L4 Were, 8 Life, Damage 2. Silver\n",
-      "sourceLocation": "pdf:spans:[[57,46,107]]"
+      "text": "3\nSlasher! Roll on the Slashers table. The encounter happens in the\nwoods: the slasher gets a +1 to his/her chance of surprise but you\nget +1 to your Escape rolls.\n",
+      "sourceLocation": "pdf:spans:[[57,606,608],[57,608,674],[57,674,741],[57,741,770]]"
     },
     {
-      "id": "section-woods-park-table:p0003",
+      "id": "section-woods-park-table:p3",
       "kind": "body",
-      "text": "weapons hit the were at +2. It has a 2 in 6 chance of surprise. At the\n",
-      "sourceLocation": "pdf:spans:[[57,107,178]]"
+      "text": "4\nEerie area. There is a 2 in 6 chance that this place is a hell gate. If\nso, you must also roll a 2 in 6 chance of a random encounter with a\nfoe from the Demonic Horrors table. You may attempt to close the\nhell gate if you know the ritual and you have all the required\nequipment.\n",
+      "sourceLocation": "pdf:spans:[[57,770,772],[57,772,844],[57,844,912],[57,912,977],[57,977,1040],[57,1040,1051]]"
     },
     {
-      "id": "section-woods-park-table:p0004",
+      "id": "section-woods-park-table:p4",
       "kind": "body",
-      "text": "beginning of the encounter, you must save vs. L3 Fear or (choose):\n",
-      "sourceLocation": "pdf:spans:[[57,178,245]]"
+      "text": "5\nWerewolf Pack! You are chased by d3+1 werewolves. They have a\n2 in 6 chance of surprising you. They are L3 Weres, 1 Life point each,\nDamage 1. At the beginning of the encounter, save vs. L3 Fear or\n(choose) lose 1 Sanity or be at -1 on Defense rolls until the end of\nthis encounter.\n",
+      "sourceLocation": "pdf:spans:[[57,1051,1053],[57,1053,1115],[57,1115,1186],[57,1186,1251],[57,1251,1320],[57,1320,1336]]"
     },
     {
-      "id": "section-woods-park-table:p0005",
+      "id": "section-woods-park-table:p5",
       "kind": "body",
-      "text": "lose 1 Sanity, or be at -1 on Defense rolls for the duration of the\n",
-      "sourceLocation": "pdf:spans:[[57,245,313]]"
-    },
-    {
-      "id": "section-woods-park-table:p0006",
-      "kind": "body",
-      "text": "encounter. Any Escape roll against the werewolf is at -1. After you\n",
-      "sourceLocation": "pdf:spans:[[57,313,381]]"
-    },
-    {
-      "id": "section-woods-park-table:p0007",
-      "kind": "body",
-      "text": "have played this encounter twice in a game, ignore it and roll on the\n",
-      "sourceLocation": "pdf:spans:[[57,381,451]]"
-    },
-    {
-      "id": "section-woods-park-table:p0008",
-      "kind": "body",
-      "text": "Beasts table instead.\n",
-      "sourceLocation": "pdf:spans:[[57,451,473]]"
-    },
-    {
-      "id": "section-woods-park-table:p0009",
-      "kind": "body",
-      "text": "2 Safe area. As soon as you step into this area, you heal either 1 Life\n",
-      "sourceLocation": "pdf:spans:[[57,473,545]]"
-    },
-    {
-      "id": "section-woods-park-table:p0010",
-      "kind": "body",
-      "text": "or 1 Sanity (your choice). This zone counts as a Safe House.\n",
-      "sourceLocation": "pdf:spans:[[57,545,606]]"
-    },
-    {
-      "id": "section-woods-park-table:p0011",
-      "kind": "body",
-      "text": "3\n",
-      "sourceLocation": "pdf:spans:[[57,606,608]]"
-    },
-    {
-      "id": "section-woods-park-table:p0012",
-      "kind": "body",
-      "text": "Slasher! Roll on the Slashers table. The encounter happens in the\n",
-      "sourceLocation": "pdf:spans:[[57,608,674]]"
-    },
-    {
-      "id": "section-woods-park-table:p0013",
-      "kind": "body",
-      "text": "woods: the slasher gets a +1 to his/her chance of surprise but you\n",
-      "sourceLocation": "pdf:spans:[[57,674,741]]"
-    },
-    {
-      "id": "section-woods-park-table:p0014",
-      "kind": "body",
-      "text": "get +1 to your Escape rolls.\n",
-      "sourceLocation": "pdf:spans:[[57,741,770]]"
-    },
-    {
-      "id": "section-woods-park-table:p0015",
-      "kind": "body",
-      "text": "4\n",
-      "sourceLocation": "pdf:spans:[[57,770,772]]"
-    },
-    {
-      "id": "section-woods-park-table:p0016",
-      "kind": "body",
-      "text": "Eerie area. There is a 2 in 6 chance that this place is a hell gate. If\n",
-      "sourceLocation": "pdf:spans:[[57,772,844]]"
-    },
-    {
-      "id": "section-woods-park-table:p0017",
-      "kind": "body",
-      "text": "so, you must also roll a 2 in 6 chance of a random encounter with a\n",
-      "sourceLocation": "pdf:spans:[[57,844,912]]"
-    },
-    {
-      "id": "section-woods-park-table:p0018",
-      "kind": "body",
-      "text": "foe from the Demonic Horrors table. You may attempt to close the\n",
-      "sourceLocation": "pdf:spans:[[57,912,977]]"
-    },
-    {
-      "id": "section-woods-park-table:p0019",
-      "kind": "body",
-      "text": "hell gate if you know the ritual and you have all the required\n",
-      "sourceLocation": "pdf:spans:[[57,977,1040]]"
-    },
-    {
-      "id": "section-woods-park-table:p0020",
-      "kind": "body",
-      "text": "equipment.\n",
-      "sourceLocation": "pdf:spans:[[57,1040,1051]]"
-    },
-    {
-      "id": "section-woods-park-table:p0021",
-      "kind": "body",
-      "text": "5\n",
-      "sourceLocation": "pdf:spans:[[57,1051,1053]]"
-    },
-    {
-      "id": "section-woods-park-table:p0022",
-      "kind": "body",
-      "text": "Werewolf Pack! You are chased by d3+1 werewolves. They have a\n",
-      "sourceLocation": "pdf:spans:[[57,1053,1115]]"
-    },
-    {
-      "id": "section-woods-park-table:p0023",
-      "kind": "body",
-      "text": "2 in 6 chance of surprising you. They are L3 Weres, 1 Life point each,\n",
-      "sourceLocation": "pdf:spans:[[57,1115,1186]]"
-    },
-    {
-      "id": "section-woods-park-table:p0024",
-      "kind": "body",
-      "text": "Damage 1. At the beginning of the encounter, save vs. L3 Fear or\n",
-      "sourceLocation": "pdf:spans:[[57,1186,1251]]"
-    },
-    {
-      "id": "section-woods-park-table:p0025",
-      "kind": "body",
-      "text": "(choose) lose 1 Sanity or be at -1 on Defense rolls until the end of\n",
-      "sourceLocation": "pdf:spans:[[57,1251,1320]]"
-    },
-    {
-      "id": "section-woods-park-table:p0026",
-      "kind": "body",
-      "text": "this encounter.\n",
-      "sourceLocation": "pdf:spans:[[57,1320,1336]]"
-    },
-    {
-      "id": "section-woods-park-table:p0027",
-      "kind": "body",
-      "text": "6\n",
-      "sourceLocation": "pdf:spans:[[57,1336,1338]]"
-    },
-    {
-      "id": "section-woods-park-table:p0028",
-      "kind": "body",
-      "text": "Hangman’s Tree. You find d6 corpses hanging from a tree. There\n",
-      "sourceLocation": "pdf:spans:[[57,1338,1401]]"
-    },
-    {
-      "id": "section-woods-park-table:p0029",
-      "kind": "body",
-      "text": "is nothing you can do for them: they are dead. There is a 1 in 6\n",
-      "sourceLocation": "pdf:spans:[[57,1401,1466]]"
-    },
-    {
-      "id": "section-woods-park-table:p0030",
-      "kind": "body",
-      "text": "chance of finding a random object (roll on the Random Object or\n",
-      "sourceLocation": "pdf:spans:[[57,1466,1530]]"
-    },
-    {
-      "id": "section-woods-park-table:p0031",
-      "kind": "body",
-      "text": "Useful Stuff table, your choice) for each corpse you take down from\n",
-      "sourceLocation": "pdf:spans:[[57,1530,1598]]"
-    },
-    {
-      "id": "section-woods-park-table:p0032",
-      "kind": "body",
-      "text": "the tree. Every time you do so, you must save vs. L4 Fear (add +1\n",
-      "sourceLocation": "pdf:spans:[[57,1598,1664]]"
-    },
-    {
-      "id": "section-woods-park-table:p0033",
-      "kind": "body",
-      "text": "for Will, +2 for Will Expert) or lose 1 Sanity. After you have played\n",
-      "sourceLocation": "pdf:spans:[[57,1664,1734]]"
-    },
-    {
-      "id": "section-woods-park-table:p0034",
-      "kind": "body",
-      "text": "this encounter twice in a game, ignore it and roll on the Beasts table\n",
-      "sourceLocation": "pdf:spans:[[57,1734,1805]]"
-    },
-    {
-      "id": "section-woods-park-table:p0035",
-      "kind": "body",
-      "text": "instead.",
-      "sourceLocation": "pdf:spans:[[57,1805,1813]]"
+      "text": "6\nHangman’s Tree. You find d6 corpses hanging from a tree. There\nis nothing you can do for them: they are dead. There is a 1 in 6\nchance of finding a random object (roll on the Random Object or\nUseful Stuff table, your choice) for each corpse you take down from\nthe tree. Every time you do so, you must save vs. L4 Fear (add +1\nfor Will, +2 for Will Expert) or lose 1 Sanity. After you have played\nthis encounter twice in a game, ignore it and roll on the Beasts table\ninstead.",
+      "sourceLocation": "pdf:spans:[[57,1336,1338],[57,1338,1401],[57,1401,1466],[57,1466,1530],[57,1530,1598],[57,1598,1664],[57,1664,1734],[57,1734,1805],[57,1805,1813]]"
     }
   ],
   "sourcePages": [

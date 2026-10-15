@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "468",
+    "frost-auto-468"
+  ],
+  "text": [
+    "五英尺长的甲壳类生物！它们用钳子和爪子抓着机械装置。受惊的生物关掉机器、停下活动，转而伸手去拿附近的其他器具。",
+    "队伍成员惊恐的尖叫声在你身后连成一片。他们不需要你指挥也知道该做什么——纷纷拔腿逃离这群异星生物，尽可能跑得更快。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 468",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 468",
+      "text": [
+        "Five-foot-long crustacean things! With pincers and claws, they clutch mechanical devices. Their activities stop as the startled creatures turn off their machines—and reach for other devices near at hand.",
+        "The screams of terror from your party form a chorus behind you. They don’t need your leadership to know what to do— they flee from the alien conclave as swiftly as their legs will carry them."
+      ]
+    }
+  }
+}

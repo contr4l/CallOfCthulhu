@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "592",
+    "frost-auto-592"
+  ],
+  "text": [
+    "那些人彼此交换眼色。其中一人把老式步枪的枪口朝下，指向脚下的苔藓。你谨慎地站起来，举手向狩猎队示意。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 592",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 592",
+      "text": [
+        "The men exchange glances. One of them lowers the muzzle of his old-time rifle to the moss underfoot. Wary, you stand up and hail the hunting party with an upraised hand."
+      ]
+    }
+  }
+}

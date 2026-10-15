@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "410"
+  ],
+  "text": [
+    "观察查理·狐尾的举止后，你确信她打算趁夜逃走。你试着劝她冷静下来，理性看待眼前的情况。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 410",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 410",
+      "text": [
+        "Your observation of Charlie Foxtail’s behavior convinces you that she plans to desert in the night. You try to argue her into a more rational state."
+      ]
+    }
+  }
+}

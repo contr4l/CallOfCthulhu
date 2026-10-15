@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "434"
+  ],
+  "text": [
+    "你们五人翻过山脊，进入另一侧的山谷。宽阔的山谷上，附近温泉升起的淡蓝色蒸气缓缓飘散。薄雾中，远处山脉显得梦幻而不真实。温泉周围水鸟繁多，主要是绿头鸭和白枕鹊鸭，偶尔也有金眼鸭。未来几天，你们不愁没有丰盛晚餐。",
+    "突然，一只黑鸭摇摇晃晃地飞起，随即像石头一样坠落。片刻后，同一地点又有一只绿头鸭坠下。你没听见枪声。距离如此之远，弓箭也不可能命中。下面究竟发生了什么？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 434",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 434",
+      "text": [
+        "The five of you climb up a ridge and into the valley on the other side. Across its wide expanse, thin blue vapor clouds drift from the nearby hot springs. Through the haze, the mountains beyond appear dreamlike and unreal. The springs bustle with waterfowl— mallard and butterball mostly, with the odd goldeneye. You can be assured of a hearty supper for the next few days.",
+        "Suddenly a butterball wobbles in the air and then drops like a stone. A moment later, the same thing happens to a mallard in the same spot. You heard no shot. The range makes an arrow kill unlikely. What is happening down there?"
+      ]
+    }
+  }
+}

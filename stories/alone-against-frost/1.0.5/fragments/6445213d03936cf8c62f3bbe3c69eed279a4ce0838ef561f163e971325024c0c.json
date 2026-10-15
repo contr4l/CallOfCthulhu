@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "264"
+  ],
+  "text": [
+    "“纳-德尔-曼！纳-德尔-曼！”凛冽的风在你耳边低语。随着这声音而来的，是奔向源头的冲动，仿佛只要触碰冬日的天空便能得到满足。你迫切地想抵达那里，与天上的某物融为一体。这召唤向你许诺一种超越生命的存在、一种战胜死亡的死亡，以及一种凌驾于不朽之上的变化。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 264",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 264",
+      "text": [
+        "Na-del-mann! Na-del-mann! The raw wind whispers in your ears. With the sound comes a compulsion to run toward its source, to somehow touch the wintry sky. You desperately want to reach—to merge—with whatever is up there. In the summons is an offer: existence wilder than life, death that conquers death, change that transcends immortality."
+      ]
+    }
+  }
+}

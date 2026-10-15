@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "383"
+  ],
+  "text": [
+    "你来不及细想自己身处多高，便纵身跃入空中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 383",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 383",
+      "text": [
+        "Before you can think too hard about your elevation, you throw yourself out into empty air."
+      ]
+    }
+  }
+}

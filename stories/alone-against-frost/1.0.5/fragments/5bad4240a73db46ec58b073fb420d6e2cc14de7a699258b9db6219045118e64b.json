@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "169"
+  ],
+  "text": [
+    "怪物以惊人的速度径直朝你滚来，双腿在地面刮出冰痕。你挣扎着爬起来想逃，可没跑几步便被一阵强烈寒潮吞没。你踉跄着又走了几步，四肢逐渐僵硬，最终倒地，再也无法动弹。",
+    "冰寒杀手在你身旁停下。它唯一的中央眼睛闪烁着，凝视你几秒。你感到额头周围受到巨大的压迫，随后一切陷入黑暗。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 169",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 169",
+      "text": [
+        "The creature rolls directly toward you with startling velocity, its legs scarring the ground with ice. You scramble up and try to run, but within a few steps, you are bathed in an intense wave of cold. You stagger a little farther, limbs stiffening, and then collapse to the ground, unable to move.",
+        "The cold-killer comes to a halt beside you. Its single central eye glints, studying you for a few frozen seconds. You experience an intense pressure around your forehead. Then, all goes dark."
+      ]
+    }
+  }
+}

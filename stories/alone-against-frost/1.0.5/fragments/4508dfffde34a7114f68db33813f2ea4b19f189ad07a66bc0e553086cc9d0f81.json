@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "548"
+  ],
+  "text": [
+    "你疯狂地尖叫着冲进深林。你如同一个狂暴的疯癫生物，独自在山谷里游荡数日——也许数周、数年。你靠腐肉为生，用指甲挖掘树根；任何人见到你如今的模样都会惊骇。",
+    "只要看见大型动物，可怕的恐惧便会再度袭来。某一天，你因逃避而冲下峡谷边缘，坠入急流。你悲惨的一生以溺亡告终。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 548",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 548",
+      "text": [
+        "You scream maniacally and rush for the deep woods. As a crazed, berserk creature, you roam the valley alone for days— or perhaps for weeks or years. Feeding on carrion, digging roots with your fingernails, your physical aspect would horrify anyone who saw you.",
+        "The sight of any large animal brings back hideous fears. One day such a flight causes you to run over the edge of a canyon, into the rapids below. Your wretched existence ends in drowning."
+      ]
+    }
+  }
+}

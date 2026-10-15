@@ -1,0 +1,18 @@
+{
+  "id": "4",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "4:p0",
+      "kind": "heading",
+      "text": "#4 - The Fluid\n",
+      "sourceLocation": "pdf:spans:[[78,790,805]]"
+    },
+    {
+      "id": "4:p1",
+      "kind": "body",
+      "text": "You inject the mysterious fluid and\nfeel its power coursing through\nyour veins. Roll d6 on the Fluid\ntable.\n",
+      "sourceLocation": "pdf:spans:[[78,805,841],[78,841,873],[78,873,906],[78,906,913]]"
+    }
+  ]
+}

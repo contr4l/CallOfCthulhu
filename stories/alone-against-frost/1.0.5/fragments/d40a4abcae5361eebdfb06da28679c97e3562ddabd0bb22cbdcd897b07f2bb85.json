@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "599"
+  ],
+  "text": [
+    "你的威胁让查理动摇了。她不愿白干一场，于是当晚趁守夜时偷偷离开，带走独木舟和一份补给作为报酬。几小时内，诺曼和西尔维娅都不敢直视你的眼睛。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 599",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 599",
+      "text": [
+        "Your threat impressed Charlie. Rather than end up with nothing for her efforts, she sneaks off that night during her watch, taking the canoe and a share of the supplies as payment. Norman and Sylvia cannot meet your eyes for a few hours."
+      ]
+    }
+  }
+}

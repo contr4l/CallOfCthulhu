@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "347"
+  ],
+  "text": [
+    "你在疼痛中醒来，连转动头部都痛苦不堪。诺曼的尸体在你身旁腐烂，你浑身覆盖着干涸的血。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 347",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 347",
+      "text": [
+        "You awaken in pain. It hurts even to turn your head. Norman’s body decomposes beside you. You are covered in dried blood."
+      ]
+    }
+  }
+}

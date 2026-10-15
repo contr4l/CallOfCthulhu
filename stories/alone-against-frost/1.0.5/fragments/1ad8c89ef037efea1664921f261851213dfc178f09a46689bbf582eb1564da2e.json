@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "520",
+    "frost-auto-520"
+  ],
+  "text": [
+    "蹄声震天，你们根本无暇协作。你听见西尔维娅痛苦地喊道：“教授！”回头一看，她远远落在后面。你什么也做不了。转眼间，一头披毛犀把她撞倒；她被抛向空中，随后被兽群淹没。你和诺曼惊魂未定，但仍凭本能冲到树林边低垂的树枝下，攀了上去。",
+    "哀鸣的兽群从你们下方无害地奔过。等你们爬下来时，两人已悲痛得什么也做不了，只能踏上回家之路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 520",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 520",
+      "text": [
+        "The pounding hooves give you no option for teamwork. You hear an anguished cry of “Professor!” and throw a glance back at Sylvia. She has fallen way behind. There is nothing you can do. In an instant, she is bowled over by a woolly rhinoceros. Her body is tossed in the air and goes under. Stunned, but operating on instinct, you and Norman reach the low-hanging limbs of the wood’s edge and clamber up.",
+        "The bleating horde rushes harmlessly below you. By the time you climb down, the two of you are too heartsick to do anything but set your feet for home."
+      ]
+    }
+  }
+}

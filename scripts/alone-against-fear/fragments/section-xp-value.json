@@ -1,89 +1,18 @@
 {
   "id": "section-xp-value",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-xp-value:p0000",
-      "kind": "body",
+      "id": "section-xp-value:p0",
+      "kind": "heading",
       "text": "Xp value\n",
       "sourceLocation": "pdf:spans:[[36,787,796]]"
     },
     {
-      "id": "section-xp-value:p0001",
+      "id": "section-xp-value:p1",
       "kind": "body",
-      "text": "Normally all violent\n",
-      "sourceLocation": "pdf:spans:[[36,796,817]]"
-    },
-    {
-      "id": "section-xp-value:p0002",
-      "kind": "body",
-      "text": "encounters are worth 1\n",
-      "sourceLocation": "pdf:spans:[[36,817,840]]"
-    },
-    {
-      "id": "section-xp-value:p0003",
-      "kind": "body",
-      "text": "XP, but some monsters may be\n",
-      "sourceLocation": "pdf:spans:[[36,840,869]]"
-    },
-    {
-      "id": "section-xp-value:p0004",
-      "kind": "body",
-      "text": "worth more. Remember that you\n",
-      "sourceLocation": "pdf:spans:[[36,869,899]]"
-    },
-    {
-      "id": "section-xp-value:p0005",
-      "kind": "body",
-      "text": "claim a monster’s XP value you\n",
-      "sourceLocation": "pdf:spans:[[36,899,930]]"
-    },
-    {
-      "id": "section-xp-value:p0006",
-      "kind": "body",
-      "text": "must defeat it. If you run away,\n",
-      "sourceLocation": "pdf:spans:[[36,930,963]]"
-    },
-    {
-      "id": "section-xp-value:p0007",
-      "kind": "body",
-      "text": "you gain no XP. Defeating some\n",
-      "sourceLocation": "pdf:spans:[[36,963,994]]"
-    },
-    {
-      "id": "section-xp-value:p0008",
-      "kind": "body",
-      "text": "monsters may give you rewards\n",
-      "sourceLocation": "pdf:spans:[[36,994,1024]]"
-    },
-    {
-      "id": "section-xp-value:p0009",
-      "kind": "body",
-      "text": "other than XP to choose from, for\n",
-      "sourceLocation": "pdf:spans:[[36,1024,1058]]"
-    },
-    {
-      "id": "section-xp-value:p0010",
-      "kind": "body",
-      "text": "example a monster may give you\n",
-      "sourceLocation": "pdf:spans:[[36,1058,1089]]"
-    },
-    {
-      "id": "section-xp-value:p0011",
-      "kind": "body",
-      "text": "the option to choose between\n",
-      "sourceLocation": "pdf:spans:[[36,1089,1118]]"
-    },
-    {
-      "id": "section-xp-value:p0012",
-      "kind": "body",
-      "text": "gaining 2 XP or gaining 1 Clue when\n",
-      "sourceLocation": "pdf:spans:[[36,1118,1154]]"
-    },
-    {
-      "id": "section-xp-value:p0013",
-      "kind": "body",
-      "text": "you defeat it.\n",
-      "sourceLocation": "pdf:spans:[[36,1154,1169]]"
+      "text": "Normally all violent\nencounters are worth 1\nXP, but some monsters may be\nworth more. Remember that you\nclaim a monster’s XP value you\nmust defeat it. If you run away,\nyou gain no XP. Defeating some\nmonsters may give you rewards\nother than XP to choose from, for\nexample a monster may give you\nthe option to choose between\ngaining 2 XP or gaining 1 Clue when\nyou defeat it.\n",
+      "sourceLocation": "pdf:spans:[[36,796,817],[36,817,840],[36,840,869],[36,869,899],[36,899,930],[36,930,963],[36,963,994],[36,994,1024],[36,1024,1058],[36,1058,1089],[36,1089,1118],[36,1118,1154],[36,1154,1169]]"
     }
   ],
   "sourcePages": [

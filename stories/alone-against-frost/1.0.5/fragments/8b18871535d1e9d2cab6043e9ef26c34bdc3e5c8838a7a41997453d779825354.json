@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "387"
+  ],
+  "text": [
+    "西尔维娅指出，雪怪营地周围的灌木非常干燥。你们拟定计划：她会从你外套口袋里拿走火柴，穿过营地躲进灌木，点燃一场引开注意的火灾。这个办法应该有效，因为雪怪似乎不知道火是什么。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 387",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 387",
+      "text": [
+        "Sylvia points out that the brush around the sasquatch camp is very dry. You form a plan. She will take the matches from your coat pocket, cross the camp and duck into the thickets, where she will start a diversionary blaze. It ought to be a good trick since it seems the sasquatches have no knowledge of fire."
+      ]
+    }
+  }
+}

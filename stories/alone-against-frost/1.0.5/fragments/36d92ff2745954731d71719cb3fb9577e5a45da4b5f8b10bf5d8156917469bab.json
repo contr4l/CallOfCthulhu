@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "581"
+  ],
+  "text": [
+    "你们听从警告，躲到一棵大倒木后。几名男子从西边树林中出现。你认出是原住民猎人，很可能属于图苏蒂纳族；不过，他们的步枪是古董，装备也不如你之前见过的图苏蒂纳人精良。查理提到过一个被放逐的群体——这些猎人会不会就是她说的那些人？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 581",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 581",
+      "text": [
+        "Your party heeds the warning and ducks behind a large fallen tree. Several men emerge from the trees to the west. You recognize Native hunters—probably of the Tsuut’ina; however, their rifles are antique and their gear less sophisticated than the Tsuut’ina you have met before. Charlie said something about an outcast group—could these be the hunters she mentioned?"
+      ]
+    }
+  }
+}

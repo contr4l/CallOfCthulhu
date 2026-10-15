@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "198",
+    "frost-auto-198"
+  ],
+  "text": [
+    "压迫感消散了，但饥饿仍在。第二天，西尔维娅虚弱得无法继续前进，你只能尽力让她舒服些。她手指微微颤动，示意你靠近，低声说了几句话，让你若能回家就转告她母亲。一小时后，她死了。",
+    "你和诺曼别无选择，只能独自继续疲惫的旅程。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 198",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 198",
+      "text": [
+        "The oppressive feeling lifts, but your hunger remains. The next day, Sylvia becomes too weak to proceed; you can only try to keep her comfortable. With fluttering fingers, she beckons you close and whispers a few words to be relayed to her mother if you ever make it home. An hour later, she is gone.",
+        "You and Norman have no choice but to go on your weary way alone."
+      ]
+    }
+  }
+}

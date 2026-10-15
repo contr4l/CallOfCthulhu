@@ -1,71 +1,18 @@
 {
   "id": "section-hunting",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-hunting:p0000",
-      "kind": "body",
+      "id": "section-hunting:p0",
+      "kind": "heading",
       "text": "Hunting\n",
       "sourceLocation": "pdf:spans:[[38,1166,1174]]"
     },
     {
-      "id": "section-hunting:p0001",
+      "id": "section-hunting:p1",
       "kind": "body",
-      "text": "If you are looking for a specific\n",
-      "sourceLocation": "pdf:spans:[[38,1174,1208]]"
-    },
-    {
-      "id": "section-hunting:p0002",
-      "kind": "body",
-      "text": "creature (for example, a serial\n",
-      "sourceLocation": "pdf:spans:[[38,1208,1240]]"
-    },
-    {
-      "id": "section-hunting:p0003",
-      "kind": "body",
-      "text": "killer), you may encounter that\n",
-      "sourceLocation": "pdf:spans:[[38,1240,1272]]"
-    },
-    {
-      "id": "section-hunting:p0004",
-      "kind": "body",
-      "text": "creature in your next box if you\n",
-      "sourceLocation": "pdf:spans:[[38,1272,1305]]"
-    },
-    {
-      "id": "section-hunting:p0005",
-      "kind": "body",
-      "text": "spend a number of Clues equal to\n",
-      "sourceLocation": "pdf:spans:[[38,1305,1338]]"
-    },
-    {
-      "id": "section-hunting:p0006",
-      "kind": "body",
-      "text": "the creature’s L. Possessing the\n",
-      "sourceLocation": "pdf:spans:[[38,1338,1371]]"
-    },
-    {
-      "id": "section-hunting:p0007",
-      "kind": "body",
-      "text": "Investigator Skill will reduce by 1\n",
-      "sourceLocation": "pdf:spans:[[38,1371,1407]]"
-    },
-    {
-      "id": "section-hunting:p0008",
-      "kind": "body",
-      "text": "the number of Clues needed\n",
-      "sourceLocation": "pdf:spans:[[38,1407,1434]]"
-    },
-    {
-      "id": "section-hunting:p0009",
-      "kind": "body",
-      "text": "(reduce the number by 2 if you\n",
-      "sourceLocation": "pdf:spans:[[38,1434,1465]]"
-    },
-    {
-      "id": "section-hunting:p0010",
-      "kind": "body",
-      "text": "have it at Expert level).\n",
-      "sourceLocation": "pdf:spans:[[38,1465,1491]]"
+      "text": "If you are looking for a specific\ncreature (for example, a serial\nkiller), you may encounter that\ncreature in your next box if you\nspend a number of Clues equal to\nthe creature’s L. Possessing the\nInvestigator Skill will reduce by 1\nthe number of Clues needed\n(reduce the number by 2 if you\nhave it at Expert level).\n",
+      "sourceLocation": "pdf:spans:[[38,1174,1208],[38,1208,1240],[38,1240,1272],[38,1272,1305],[38,1305,1338],[38,1338,1371],[38,1371,1407],[38,1407,1434],[38,1434,1465],[38,1465,1491]]"
     }
   ],
   "sourcePages": [

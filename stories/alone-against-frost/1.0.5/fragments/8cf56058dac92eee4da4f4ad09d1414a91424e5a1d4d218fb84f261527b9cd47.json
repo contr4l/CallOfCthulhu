@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "57",
+    "frost-auto-57"
+  ],
+  "text": [
+    "枪声令大脚怪陷入恐慌。它们发出刺耳尖叫，随即躲藏起来。你们趁机冲过它们身边，离开这片史前生物残存至今的山谷。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 57",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 57",
+      "text": [
+        "The shots throw the sasquatches into a panic. They respond with piercing shrieks and then duck out of sight. Your party scrambles past and leaves the valley of prehistoric survivals."
+      ]
+    }
+  }
+}

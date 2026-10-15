@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "573",
+    "frost-auto-573"
+  ],
+  "text": [
+    "你忍不住咳嗽，暴露了藏身处。你站起来逃跑，但纠缠的灌木拖住了你，猎人很快便从四面八方围住你，步枪都已举起。这不是你希望发生的第一次接触。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 573",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 573",
+      "text": [
+        "Acting on an uncontrollable urge to cough gives away your hiding place. You get up and run, but the snarled bushes delay you until the hunters are all around, rifles held steady on you. This is not the first contact you would have chosen."
+      ]
+    }
+  }
+}

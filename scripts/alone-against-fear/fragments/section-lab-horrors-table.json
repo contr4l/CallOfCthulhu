@@ -1,0 +1,51 @@
+{
+  "id": "section-lab-horrors-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-lab-horrors-table:p0",
+      "kind": "heading",
+      "text": "Lab horrors table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[65,22,50]]"
+    },
+    {
+      "id": "section-lab-horrors-table:p1",
+      "kind": "body",
+      "text": "1\nBlob. L4, 8 Life, attacks by pseudopod trying to eat you on contact\n(damage 1). If you found a book called The Blob Experiment, you will\nknow that the creature takes 2 damage from salt. The blob is Slow and\nArtificial. You may run away from the encounter and ignore it. If you\nreturn to the area later, the blob will still be there. However, its L will\nhave increased to 5 and its Life to 10, and it is no longer Slow.\n",
+      "sourceLocation": "pdf:spans:[[65,50,52],[65,52,120],[65,120,189],[65,189,259],[65,259,329],[65,329,405],[65,405,471]]"
+    },
+    {
+      "id": "section-lab-horrors-table:p2",
+      "kind": "body",
+      "text": "2\nMurdering Robot. L3 Artificial creature, 5 Life, damage 1. The robot\nis immune to poison and magic (you may not even use curses against\nit). Any attack inflicted must roll d6. On a 1 to 3, the attack bounces off\ninflicting no damage. Damage from grenades will not bounce off. You\nmay attempt a L4 save (+1 if you are Agile, +2 if you are Agile at Expert\nlevel) to turn off the robot by disabling some cables but if you fail, the\nrobot’s next attack will hit you automatically.\n",
+      "sourceLocation": "pdf:spans:[[65,471,473],[65,473,542],[65,542,609],[65,609,685],[65,685,753],[65,753,827],[65,827,902],[65,902,950]]"
+    },
+    {
+      "id": "section-lab-horrors-table:p3",
+      "kind": "body",
+      "text": "3\nMutant. L4 humanoid, 6 Life, damage 1. The mutant has a 1 in 6\nchance of surprising you. He has a 2 in 6 chance of possessing psionic\npowers. If it is so, at the beginning of every turn save vs. L4 psionics\n(add +1 if you have Will, +2 if you have it at Expert level) or lose 1 Sanity\neach turn until it is killed or you Escape. If you have the Mutant Hunter\nSkill, you have +1 to your Attack and Defense rolls against this foe.\n",
+      "sourceLocation": "pdf:spans:[[65,950,952],[65,952,1015],[65,1015,1086],[65,1086,1159],[65,1159,1237],[65,1237,1311],[65,1311,1381]]"
+    },
+    {
+      "id": "section-lab-horrors-table:p4",
+      "kind": "body",
+      "text": "4\nDoppelganger. A L3 humanoid that appears exactly like you, but has\nno equipment, and attacks with its stone-hard fingers. It has a number\nof Life points equal to your maximum. Damage 1.\n",
+      "sourceLocation": "pdf:spans:[[65,1381,1383],[65,1383,1450],[65,1450,1521],[65,1521,1569]]"
+    },
+    {
+      "id": "section-lab-horrors-table:p5",
+      "kind": "body",
+      "text": "5\nTentacled horror. L3, 5 Life, 2 attacks, damage 1. If it hits you with\nboth attacks, you may not Escape from this encounter until the horror\nis reduced to 1 Life. The first time you see the tentacled horror in the\ncampaign, save vs. L3 Fear (+1 if you have Will, +2 if you have Will\nExpert level) or lose 1 Sanity.\n",
+      "sourceLocation": "pdf:spans:[[65,1569,1571],[65,1571,1642],[65,1642,1712],[65,1712,1785],[65,1785,1854],[65,1854,1886]]"
+    },
+    {
+      "id": "section-lab-horrors-table:p6",
+      "kind": "body",
+      "text": "6\nGiant bug. L4 Animal, 6 Life, damage 1. Any attack inflicted must roll\nd6; on a 1, it bounces off the bug’s exoskeleton and inflicts no damage.\nThe bug has a 2 in 6 chance of belonging to a flying species. In that\ncase, you may not Escape from this encounter. Sacrifice a can of\nInsecticide to automatically inflict 2 damage upon the giant bug.\nDamage from insecticide has no chance of bouncing off.",
+      "sourceLocation": "pdf:spans:[[65,1886,1888],[65,1888,1959],[65,1959,2032],[65,2032,2102],[65,2102,2167],[65,2167,2233],[65,2233,2287]]"
+    }
+  ],
+  "sourcePages": [
+    65
+  ]
+}

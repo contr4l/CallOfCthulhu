@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "436"
+  ],
+  "text": [
+    "查理突然尖叫着跪倒在地，试图抵抗看不见的袭击者。她的双臂莫名裂开伤口，转眼间鲜血淋漓。你惊恐地站在原地，想不出办法阻止这场无形攻击。",
+    "“Ten`a-ranide！Ten`a-ranide！”受折磨的向导哭喊着。你认出这是当地语言中的一个词，指巫师召唤的隐形复仇恶魔。纳瓦霍人也有类似观念，称他们的恶魔为 chindi。“快跑！”查理喊道。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 436",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 436",
+      "text": [
+        "Charlie screams suddenly and falls to her knees, attempting to fight off an invisible attacker. Her arms tear open with inexplicable wounds. Immediately, she is streaming with blood. You stand there in terror; you can think of nothing to stop this unseen assault.",
+        "“Ten`a-ranide! Ten`a-ranide!” your tormented guide cries. You recognize the word as local dialect for an invisible, vengeful demon summoned by sorcerers. The Navajo had the same idea and called their demon the chindi. “Run!” Charlie cries."
+      ]
+    }
+  }
+}

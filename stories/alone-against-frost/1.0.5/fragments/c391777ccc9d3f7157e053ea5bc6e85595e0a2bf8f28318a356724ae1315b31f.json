@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "343",
+    "frost-auto-343"
+  ],
+  "text": [
+    "你看见病榻附近的树上有颗发霉的果子，便用尽力气爬过去，把它从枝头扯下。果子难吃得要命，但你还是强咽下去，随即昏了过去。",
+    "果子似乎有些益处：你醒来时头脑清醒了些，也恢复了一些力气。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 343",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 343",
+      "text": [
+        "You spy a moldy fruit on a tree near your sickbed. With a great effort, you crawl over and drag it from the branch. It tastes appalling, but you choke it down and then pass out.",
+        "There must have been something beneficial in the fruit, for when you wake, your head is clearer and you have new energy."
+      ]
+    }
+  }
+}

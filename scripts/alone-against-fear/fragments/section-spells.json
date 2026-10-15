@@ -1,77 +1,18 @@
 {
   "id": "section-spells",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
   "paragraphs": [
     {
-      "id": "section-spells:p0000",
-      "kind": "body",
+      "id": "section-spells:p0",
+      "kind": "heading",
       "text": " Spells\n",
       "sourceLocation": "pdf:spans:[[29,22,30]]"
     },
     {
-      "id": "section-spells:p0001",
+      "id": "section-spells:p1",
       "kind": "body",
-      "text": "In general, spells are Arcane Skills\n",
-      "sourceLocation": "pdf:spans:[[29,30,67]]"
-    },
-    {
-      "id": "section-spells:p0002",
-      "kind": "body",
-      "text": "and may be found in books or\n",
-      "sourceLocation": "pdf:spans:[[29,67,96]]"
-    },
-    {
-      "id": "section-spells:p0003",
-      "kind": "body",
-      "text": "libraries, or be taught by friendly\n",
-      "sourceLocation": "pdf:spans:[[29,96,132]]"
-    },
-    {
-      "id": "section-spells:p0004",
-      "kind": "body",
-      "text": "witches. Some spells require a\n",
-      "sourceLocation": "pdf:spans:[[29,132,163]]"
-    },
-    {
-      "id": "section-spells:p0005",
-      "kind": "body",
-      "text": "Magic roll. For example, a spell may\n",
-      "sourceLocation": "pdf:spans:[[29,163,200]]"
-    },
-    {
-      "id": "section-spells:p0006",
-      "kind": "body",
-      "text": "require a L3 Magic roll, meaning\n",
-      "sourceLocation": "pdf:spans:[[29,200,233]]"
-    },
-    {
-      "id": "section-spells:p0007",
-      "kind": "body",
-      "text": "you must roll 3+ on d6 to\n",
-      "sourceLocation": "pdf:spans:[[29,233,259]]"
-    },
-    {
-      "id": "section-spells:p0008",
-      "kind": "body",
-      "text": "successfully perform the ritual. If\n",
-      "sourceLocation": "pdf:spans:[[29,259,295]]"
-    },
-    {
-      "id": "section-spells:p0009",
-      "kind": "body",
-      "text": "you have the Occultist Skill, you\n",
-      "sourceLocation": "pdf:spans:[[29,295,329]]"
-    },
-    {
-      "id": "section-spells:p0010",
-      "kind": "body",
-      "text": "have +1 to Magic rolls. If you have\n",
-      "sourceLocation": "pdf:spans:[[29,329,365]]"
-    },
-    {
-      "id": "section-spells:p0011",
-      "kind": "body",
-      "text": "the Occultist Skill (Expert), roll at +2.\n",
-      "sourceLocation": "pdf:spans:[[29,365,407]]"
+      "text": "In general, spells are Arcane Skills\nand may be found in books or\nlibraries, or be taught by friendly\nwitches. Some spells require a\nMagic roll. For example, a spell may\nrequire a L3 Magic roll, meaning\nyou must roll 3+ on d6 to\nsuccessfully perform the ritual. If\nyou have the Occultist Skill, you\nhave +1 to Magic rolls. If you have\nthe Occultist Skill (Expert), roll at +2.\n",
+      "sourceLocation": "pdf:spans:[[29,30,67],[29,67,96],[29,96,132],[29,132,163],[29,163,200],[29,200,233],[29,233,259],[29,259,295],[29,295,329],[29,329,365],[29,365,407]]"
     }
   ],
   "sourcePages": [

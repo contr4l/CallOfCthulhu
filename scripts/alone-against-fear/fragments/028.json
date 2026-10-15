@@ -1,0 +1,18 @@
+{
+  "id": "28",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "28:p0",
+      "kind": "heading",
+      "text": "#28 - Black mirror ritual\n",
+      "sourceLocation": "pdf:spans:[[87,446,472]]"
+    },
+    {
+      "id": "28:p1",
+      "kind": "body",
+      "text": "You wait until midnight then you\nstare into your black mirror and\nrepeat the demon’s name three\ntimes. Lose 2 Sanity if you fail a L6\nMagic roll (add +1 if you have the\nOccultist Skill and +2 if you have it\nat Expert level). Depending on the\ndemon whose name you have\nspoken, your fate will differ.\nWalrus the Clown.\nThe Clown’s mask appears before\nyou. You may decide to leave it\nhere, carry it with you, or wear it\n(go to event #15). If you already\nhave the mask, ignore this event.\nPigface.\nYou fall into the black mirror,\ncarrying all your equipment with\nyou. You are now in front of a\nfarm. Go to #5.\nShax.\nA demon with a crane’s head\nappears in the mirror and agrees\nto fulfill one wish. You may find\nany one object of your choice from\nthe Random Object table, Useful\nStuff table or from the Random\nMagic Item table. After this, Shax\ndisappears. You may not summon\nhim again.\nFlauros.\nA leopard-faced man appears in\nthe mirror and proposes a deal. If\nyou reveal the location of two Safe\nHouses and at least one church\n(you must have visited them),\nFlauros will teach you the Good\nShot and Fighter Skills for free (you\ndo not have to pay any XP) and\nheal up to 6 Life. Delete the Safe\nHouses and church from yourmap. Roll on the Haunted Houses\ntable if you visit those areas.\nThe demon of Hunger.\nIf you sacrifice at least 6 Food\npoints to him, he will heal all Sanity\nand wounds losses you suffered.\nHe will give you a book of your\nchoice from the Random Book\ntable.\nIf you do not have enough Food,\nthe demon will attack you. If you\ndefeat him, you will gain 1 XP and\na +1 to all saves vs. Fear until the\nend of the campaign.\nDemon of Hunger, L5 Demon,  8\nLife, damage 2. Vulnerable to\nExorcism and holy water.\nIf you are severely wounded (you\nhave lost more than 5 Life) when\nyou meet this demon, he will also\nstrike first in the ensuing combat.\nOther names\nThe ritual has no effect.\nEvery ritual may be repeated only\nonce in the campaign.\n",
+      "sourceLocation": "pdf:spans:[[87,472,505],[87,505,538],[87,538,568],[87,568,606],[87,606,641],[87,641,679],[87,679,714],[87,714,740],[87,740,771],[87,771,789],[87,789,821],[87,821,853],[87,853,889],[87,889,923],[87,923,957],[87,957,966],[87,966,998],[87,998,1031],[87,1031,1062],[87,1062,1078],[87,1078,1084],[87,1084,1112],[87,1112,1145],[87,1145,1179],[87,1179,1214],[87,1214,1246],[87,1246,1277],[87,1277,1312],[87,1312,1343],[87,1343,1354],[87,1354,1363],[87,1363,1394],[87,1394,1429],[87,1429,1465],[87,1465,1496],[87,1496,1526],[87,1526,1558],[87,1558,1596],[87,1596,1627],[87,1627,1662],[87,1662,1689],[88,22,54],[88,54,86],[88,86,107],[88,107,140],[88,140,179],[88,179,211],[88,211,243],[88,243,271],[88,271,278],[88,278,310],[88,310,344],[88,344,379],[88,379,416],[88,416,437],[88,437,467],[88,467,497],[88,497,522],[88,522,555],[88,555,588],[88,588,622],[88,622,658],[88,658,670],[88,670,696],[88,696,730],[88,730,752]]"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "frost-12-drowning-ending"
+  ],
+  "text": [
+    "你被北汉尼纳河的湍流卷走，命丧翻涌的河水。纳德尔曼远征就此结束。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "探险结束",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Adventure End",
+      "text": [
+        "You are swept to your death in the churning waters of the North Hanninah. The Nadelmann Expedition is over."
+      ]
+    }
+  }
+}

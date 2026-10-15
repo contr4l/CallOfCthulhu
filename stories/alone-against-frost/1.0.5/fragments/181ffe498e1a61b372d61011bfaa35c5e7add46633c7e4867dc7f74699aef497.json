@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "555",
+    "frost-auto-555"
+  ],
+  "text": [
+    "沿着斜坡才走几步，伯纳德便呻吟着倒在地上。你赶紧上前帮忙。 —— “有什么东西打中我了，”那年轻人迷迷糊糊地说。“它，呀！”",
+    "他抬手摸脸，鲜血从指缝间涌出。“快走，离开这里！”你喊道，扶他站起来。这样做谈不上科学，但在这里似乎是对的。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 555",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 555",
+      "text": [
+        "Only a few steps along the slope, Bernard moans and falls to the earth. You hurry to help. — “Something hit me,” the youth begins, dazed. “It yiih!”",
+        "He touches a hand to his cheek. Hot blood flows out between his fingers. “Quick, let’s get out of here!” you exclaim, helping Bernard to his feet. It is hardly scientific, but in this place, it feels like the right thing to do."
+      ]
+    }
+  }
+}

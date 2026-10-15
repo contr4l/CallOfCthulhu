@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "192"
+  ],
+  "text": [
+    "你和诺曼沿着猿人留下的原始踪迹前进。踪迹带你们来到山间灌木丛中的一片洼地。弥漫不散的气味、足迹和散落物品都表明，猿人——大脚怪——大约一小时前还在此扎营。",
+    "“看！”诺曼指着洼地对面喊道，“是西尔维娅！”你们朝她跑去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 192",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 192",
+      "text": [
+        "You and Norman follow the original trail left by the ape-man. It leads you to a hollow in the mountain thickets. The pervasive odor, the tracks, and litter indicate to you that the ape-men— the sasquatches—had camped here but an hour ago.",
+        "“Look!” Norman cries, pointing to a figure across the hollow. “It’s Sylvia!” You run to her."
+      ]
+    }
+  }
+}

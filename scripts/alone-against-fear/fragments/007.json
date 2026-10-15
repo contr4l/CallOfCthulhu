@@ -1,0 +1,18 @@
+{
+  "id": "7",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "7:p0",
+      "kind": "heading",
+      "text": "#7 - Star of Ill Omen\n",
+      "sourceLocation": "pdf:spans:[[79,1579,1601]]"
+    },
+    {
+      "id": "7:p1",
+      "kind": "body",
+      "text": "A shooting star flares up in the sky.\nYou try to make a wish but your\nthoughts are ominous. Save vs. L2\nFear. If you fail, lose 1 Sanity and\nhave -1 to Attack and Defense rolls\nfor your next combat. If you\nsucceed, carry on as normal.",
+      "sourceLocation": "pdf:spans:[[79,1601,1639],[79,1639,1671],[79,1671,1705],[79,1705,1742],[79,1742,1778],[79,1778,1807],[79,1807,1835]]"
+    }
+  ]
+}

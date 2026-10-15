@@ -1,0 +1,17 @@
+{
+  "id": "section-random-item-in-the-hut",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "73c56dcab4df3ff73f1c9e90262bd621fe685d53ff74fa25afc6eecceb63b61d",
+  "paragraphs": [
+    {
+      "id": "section-random-item-in-the-hut:p0",
+      "text": "小屋随机物品"
+    },
+    {
+      "id": "section-random-item-in-the-hut:p1",
+      "text": "1 电锯。\n2–3 锤子、钉子、杀虫剂。\n4 刀、D6点食物。\n5 绳子、D6点食物。\n6 霰弹枪和2D6发霰弹。"
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "416"
+  ],
+  "text": [
+    "队伍中有人打了个喷嚏，那名受惊的小人立刻飞奔而去，尖锐的叫声足以惊动整片森林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 416",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 416",
+      "text": [
+        "One of your party sneezes and the startled man immediately streaks off, his shrill cries loud enough to arouse the whole forest."
+      ]
+    }
+  }
+}

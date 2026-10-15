@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "294"
+  ],
+  "text": [
+    "乌云逐渐遮蔽天空。雷声轰鸣，预示着一场暴雨。你看见闪光，紧接着传来惊天巨响，震得耳膜生疼。“哇！”西尔维娅说，“刚才一定劈中了附近什么东西！”",
+    "确实如此。山坡上的干灌木丛冒起了烟。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 294",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 294",
+      "text": [
+        "The sky darkens with building thunderheads. A roar splits the heavens, promising a heavy storm. You see a flash, and almost immediately, an almighty crack that jolts the eardrums. “Wow!” says Sylvia. “That must have hit somewhere nearby!”",
+        "It did. Smoke rises from the dry brush up the hill."
+      ]
+    }
+  }
+}

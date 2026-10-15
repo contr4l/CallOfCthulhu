@@ -40,15 +40,9 @@
     },
     {
       "id": "570:p6",
-      "kind": "trace",
+      "kind": "body",
       "text": "(569, 586)",
       "sourceLocation": "pdf:visual:[[97,52]]"
-    },
-    {
-      "id": "570:p7",
-      "kind": "body",
-      "text": "96",
-      "sourceLocation": "pdf:visual:[[97,53]]"
     }
   ]
 }

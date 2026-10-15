@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "260",
+    "frost-auto-260"
+  ],
+  "text": [
+    "继续当前行动。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 260",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 260",
+      "text": [
+        "Continue with the current action."
+      ]
+    }
+  }
+}

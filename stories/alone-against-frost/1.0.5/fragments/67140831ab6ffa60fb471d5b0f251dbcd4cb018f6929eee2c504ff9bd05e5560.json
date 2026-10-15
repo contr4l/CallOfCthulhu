@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "492"
+  ],
+  "text": [
+    "你看见查理脸上的挣扎。“教授，您学识渊博。也许我不该相信长辈讲的小矮人传说。”她攥紧拳头。“我和您一样理性。”",
+    "查理继续履行职责，你们一行人继续前进。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 492",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 492",
+      "text": [
+        "You see the conflict in Charlie’s face. “You speak with great learning, Professor. Perhaps I was foolish to believe the stories the elders tell of the Little Ones.” She clenches her fists. “I am rational, like you.”",
+        "Charlie resumes her duties and your party moves on."
+      ]
+    }
+  }
+}

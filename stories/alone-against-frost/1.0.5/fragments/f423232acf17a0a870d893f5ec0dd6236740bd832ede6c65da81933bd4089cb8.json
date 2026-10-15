@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "276"
+  ],
+  "text": [
+    "你沿浅溪涉水而行，那生物差点借此甩掉你，但你经验丰富，没有被这种伎俩骗过。你和诺曼一路追踪到高地。",
+    "越往高处走，脚印越新。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 276",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 276",
+      "text": [
+        "By wading along a shallow stream, the creature nearly shakes you off its trail, but you are too experienced to be foiled by such a trick. The pursuit takes you and Norman up into the high ground.",
+        "The prints become fresher as you climb."
+      ]
+    }
+  }
+}

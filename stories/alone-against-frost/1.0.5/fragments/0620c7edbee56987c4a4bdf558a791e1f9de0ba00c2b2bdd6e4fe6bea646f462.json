@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "535",
+    "frost-auto-535"
+  ],
+  "text": [
+    "你和诺曼再次冒险穿过那条阻挡你们进入隐秘山谷的急流。刚过河，你们便闻到空气里有股奇异的热带气味。外界的针叶林消失了，眼前景色仿佛来自新生代早期。",
+    "你想起听过的荒诞传闻：加拿大有一座失落山谷，受奇努克焚风与温泉影响而温暖，至今仍有史前动物生存。这里会是那座山谷吗？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 535",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 535",
+      "text": [
+        "You and Norman again dare the swift stream that obstructs entry into the hidden valley. You are no sooner through when you become aware of a strange tropical scent to the air. The conifer forest of the outer world is gone. This landscape resembles something from the early Cenozoic.",
+        "You remember wild tales you have heard—of a lost Canadian valley warmed by Chinook winds and hot springs, a valley where prehistoric animals still exist. Could this be it?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "1"
+  ],
+  "text": [
+    "在麦肯齐河西支流上漂流了几天之后，米斯卡托尼克大学那令人窒闷的走廊仿佛已远在天边。阳光在水面上闪烁，从正午刺眼的强光，一直延续到日落时柔和的余晖。驯鹿在岸边凝望着你；前方，一只苍鹭从浅滩叼起一条倒霉的小刺鱼。若不是划桨这件事没完没了，这趟行程倒真像一次假期。",
+    "每过一天，学生们就更能跟上你和查理的节奏。汽油供应有限，因此你们尽量少开舷外马达。阳光和风让伯纳德如愿晒出了户外活动者的肤色。",
+    "一天傍晚，天色刚暗下来，你们终于找到了那条支流。第二天，你们驶入北汉尼纳河。隔着热雾，拉姆山脉在远处耸立。这里的夏夜短得惊人，黑暗根本来不及让水道冷却。诺曼擦去后颈的汗水。",
+    "水流让它们全都指向下游，像一支支箭头，警告你们回头。",
+    "西尔维娅转向向导。“查理？你们族人住在这一带吗？”",
+    "查理哼了一声，望着水面。有那么一瞬间，她似乎不打算回答。随后她看向西尔维娅。“以前住过。如今只剩被族群排斥的人。我们会避开他们。”",
+    "西尔维娅皱起眉头。“他们为什么会……”",
+    "但查理抬手制止了她。前方传来轰鸣，水流奔腾的声音逐渐逼近。“这里是分水之地，”她说，“这条河是活的。它每天都会重塑自己。”",
+    "（开场）"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 1",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 1",
+      "text": [
+        "After a few days on the West Branch of the Mackenzie, the stuffy corridors of Miskatonic University seem very far away. Sun stipples the water, from the glare of midday to the gentle burn of sunset. Caribou gaze at you from the shore; ahead, a heron drags an unfortunate stickleback from the shallows. It would feel like a vacation, were it not for the relentless demand of the paddle.",
+        "Each day makes the students more adept at keeping time with you and Charlie. Your supply of gasoline is limited, so you run the outboard motor as seldom as possible. Sun and wind grant Bernard the outdoor complexion he desires.",
+        "You locate the tributary one evening, just as the light begins to fail. Next day, you launch into the North Hanninah. The Ram Mountains loom in the distance, through a heat haze. At this latitude, the summer nights are so short that darkness gives the waterways no time to cool. Norman wipes sweat from the back of his head.",
+        "The North Hanninah is a rougher river than the West Branch. Its floodplain is obstructed by sandbars, hills of driftwood, shingle islands, and forests of dead trees rooted in the mud. The current points all of them downstream, like arrows warning you to turn back.",
+        "Sylvia turns to your guide. “Charlie? Does your people live in this area?”",
+        "Charlie grunts and watches the water. For a moment it seems she will not answer. Then, she looks at Sylvia. “At one time. Now, only outcasts. We will avoid them.”",
+        "Sylvia frowns. “Why are they…?”",
+        "But Charlie raises a hand. From ahead, slowly building, you hear the roar of rushing water. “This is the place of the splitting water,” she says. “Here, the river is alive. Each day it makes itself new.”",
+        "(Beginning)"
+      ]
+    }
+  }
+}

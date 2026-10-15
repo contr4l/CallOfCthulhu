@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "631"
+  ],
+  "text": [
+    "你头顶的生物是一只真菌状甲壳动物，身长如成人！它的腹面长着数十条蠕动的肢体。",
+    "它似乎注意到了你们，转过身来，抓着一个奇怪装置。一片寒意刺向你脚边，草地结霜变白。你们遭到攻击！"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 631",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 631",
+      "text": [
+        "The creature above you is a fungoid crustacean as long as a man! Dozens of writhing limbs perturb its undersurface.",
+        "It appears to notice you, and wheels, grasping a strange device. A sheet of cold stabs the ground close to your feet. The grass turns white from frost. You are under attack!"
+      ]
+    }
+  }
+}

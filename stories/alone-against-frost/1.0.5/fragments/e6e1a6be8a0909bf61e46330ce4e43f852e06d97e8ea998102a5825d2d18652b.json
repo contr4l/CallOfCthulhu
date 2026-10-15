@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "341"
+  ],
+  "text": [
+    "你埋葬了诺曼，心里清楚是自己说服他参加这次远征的。",
+    "你暂且压下这个念头，回到洞穴里的猿人尸体旁。它是极其珍贵的标本。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 341",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 341",
+      "text": [
+        "You bury Norman’s body, all too aware that you persuaded him to follow you on this expedition.",
+        "Putting aside that thought, you return to the dead ape-man in the cave. It is an incredible specimen."
+      ]
+    }
+  }
+}

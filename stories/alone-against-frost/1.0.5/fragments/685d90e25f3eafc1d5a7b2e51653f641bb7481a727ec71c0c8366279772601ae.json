@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "518",
+    "frost-auto-518"
+  ],
+  "text": [
+    "你躲在洞穴里，整晚没有受到打扰。接近黎明时，你打了个盹。早晨，你继续赶路。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 518",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 518",
+      "text": [
+        "Undisturbed, you hide in the cave all night. Toward dawn, you doze a little. In the morning you continue your journey."
+      ]
+    }
+  }
+}

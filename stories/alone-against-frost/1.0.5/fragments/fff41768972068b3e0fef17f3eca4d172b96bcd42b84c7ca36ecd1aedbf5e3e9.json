@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "500"
+  ],
+  "text": [
+    "大脚怪四散躲进岩石和灌木丛，你和诺曼冲下坡，闯进营地救西尔维娅。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 500",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 500",
+      "text": [
+        "As the sasquatches scatter into the rocks and brush, you and Norman dash down into the encampment to rescue Sylvia."
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "326"
+  ],
+  "text": [
+    "你稳住扣在扳机上的手指，让洞穴深处那团散发恶臭的巨大身影缓缓走进营火光照范围。那是一个巨大的双足生物，长着猿猴的脸。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 326",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 326",
+      "text": [
+        "Holding your trigger finger steady, you allow the reeking hulk in the rear of the cave to shuffle out into the light of your night fire. It is a gigantic biped with the face of an ape."
+      ]
+    }
+  }
+}

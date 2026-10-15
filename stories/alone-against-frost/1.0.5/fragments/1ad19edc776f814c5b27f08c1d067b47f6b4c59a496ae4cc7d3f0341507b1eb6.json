@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "236"
+  ],
+  "text": [
+    "你守夜期间，诺曼安静得像个小木偶。最后你叫醒西尔维娅，自己去睡觉。黎明前，一声尖叫惊醒了你。你睡眼惺忪地抬头，望向营地另一边。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 236",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 236",
+      "text": [
+        "Through your watch, Norman lies quiet as a mannikin. You finally wake Sylvia and turn in. Sometime before dawn, a cry breaks your sleep. You raise your bleary head and peer across the campsite."
+      ]
+    }
+  }
+}

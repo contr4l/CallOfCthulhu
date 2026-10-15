@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "457",
+    "frost-auto-457"
+  ],
+  "text": [
+    "原始的恐惧占据上风，你转身逃离轮形石阵，催促队伍跟上。大家本来就心神不安，此时没有多问，立刻跟着你奔跑。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 457",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 457",
+      "text": [
+        "Giving in to a primitive fear, you turn and dash from the rock wheel, exhorting your party to follow. Already edgy, they ask no questions as they run along beside you."
+      ]
+    }
+  }
+}

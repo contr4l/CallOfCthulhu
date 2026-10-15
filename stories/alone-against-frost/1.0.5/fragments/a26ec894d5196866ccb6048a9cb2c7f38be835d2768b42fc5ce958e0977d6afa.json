@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "96"
+  ],
+  "text": [
+    "火柴从你指间掉落。你射中的竟然是伯纳德·埃布斯坦。",
+    "无数画面闪过你的脑海：伯纳德第一天来到系里，与你握手、对每个人露出笑容；毕业那天，他把父母介绍给你；还有他的恋人凯瑟琳，她挑选着婚纱，等待未婚夫结束荒野探险后归来。",
+    "进行一次理智检定：若失败，失去 1D6 点理智值。前往 97。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 96",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 96",
+      "text": [
+        "The match falls from your fingers. You have shot down Bernard Ebstein.",
+        "Images flash through your mind: Bernard’s first day in the department, shaking hands, grinning at everybody; him introducing his parents to you on graduation day; and his sweetheart Catherine, choosing her wedding dress, waiting for her fiancé to return from his adventure in the wilds.",
+        "Make a Sanity roll: if you fail, lose 1D6 Sanity. Go to 97."
+      ]
+    }
+  }
+}

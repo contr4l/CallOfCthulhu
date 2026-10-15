@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-cemetery"
+  ],
+  "text": [
+    "1 Roll on the Undead table.\n2 You meet helpful people. Heal 1 Life.\n3 Roll on the Unique Zombie table.",
+    "4\nSafe House. You find an area that is easy to defend. You may\nheal up to 2 Sanity and 4 Life every time you visit this place.\nYou do not have to roll for random encounters every time you\nvisit this Safe House. If there are already 3 Safe Houses in play\nwhen you roll this result, you create a new Safe House but the\nSafe House closest to your current location is no longer a Safe\nHouse. To determine which is closest, count the number of\nboxes on the town map that you should cross to reach that\nlocation. If there are two Safe Houses at the same distance,\nchoose randomly.\n5 Roll on the Unique Vampire table.\n6 Roll on the Ghost table."
+  ],
+  "reading": {
+    "en": {
+      "title": "cemetery table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "墓地表（D6）",
+      "text": [
+        "1 掷不死生物表。\n2 遇到乐于助人的人。恢复1点生命。\n3 掷独特僵尸表。",
+        "4\n安全屋：找到一处易于防守的地方。每次到访都可恢复至多2点理智和4点生命。到访安全屋时无需掷随机遭遇。若掷出此结果时场上已有3个安全屋，则建立一个新安全屋，但距离当前位置最近的安全屋不再算安全屋。确定最近者时，计算城镇地图上到达该处需经过的格数。若两个安全屋距离相同，随机选择。\n5 掷独特吸血鬼表。\n6 掷鬼魂表。"
+      ]
+    }
+  }
+}

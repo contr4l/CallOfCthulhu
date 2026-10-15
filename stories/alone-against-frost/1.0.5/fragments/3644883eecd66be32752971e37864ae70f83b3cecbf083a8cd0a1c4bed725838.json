@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "641"
+  ],
+  "text": [
+    "西尔维娅被那生物的冻结光线击中，无声倒下。你和诺曼冲进树木掩护，逃向树冠最浓密的一片区域。",
+    "飞行者似乎离开后，你们悄悄回到林边。西尔维娅和伯纳德的尸体都不见了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 641",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 641",
+      "text": [
+        "Without a sound, Sylvia goes down under the freezing energy of the creature’s ray. You and Norman reach the cover of the trees and head for a clump where the canopy is thickest.",
+        "Once the flyer seems to be gone, you creep back to the wood’s edge. The bodies of Sylvia and Bernard have vanished."
+      ]
+    }
+  }
+}

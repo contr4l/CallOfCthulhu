@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "187"
+  ],
+  "text": [
+    "你催促惊呆的学生们逃跑，但他们已经来不及了。你奔逃时，身后传来的惨叫令你战栗。你回头一瞥，只见雪地染血，风行者正撕扯他们的身体。",
+    "你唯一的希望，是怪物已经吃饱，不会继续追你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 187",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 187",
+      "text": [
+        "You urge your thunderstruck students to flee. But it is too late for them. As you run, you shiver at their cries. Throwing a glance over your shoulder, you see bloodied snow and the wind-walker ripping at their bodies.",
+        "Your only hope is that the creature will be sated and not pursue you."
+      ]
+    }
+  }
+}

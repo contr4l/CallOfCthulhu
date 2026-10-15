@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "11"
+  ],
+  "text": [
+    "离岸稍远处，一股淡淡的硫磺臭味从狭窄峡谷的入口飘出。你读到过汉尼纳地区可能有温泉。正式发现它们的诱惑实在难以抗拒。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 11",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 11",
+      "text": [
+        "A little back from the shore, the faint stench of sulfur wafts out of the mouth of a narrow canyon. You have read about possible hot springs in the Hanninah region. It is very tempting to formally discover them."
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "61",
+    "frost-auto-61"
+  ],
+  "text": [
+    "“不！”查理尖叫道，“伟大的风行者来了！”她抓起步枪，指着你和几名研究生，眼神狂乱地向河边退去。",
+    "“白人永远不懂。”她啐了一口，“那你们就去吧。跟风行者走！”她跑向破损的独木舟，拿起自己的背包，冲进树林。",
+    "你在她身后大喊，试图以专业态度劝她留下，但她没有回来。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 61",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 61",
+      "text": [
+        "“No!” Charlie screams. “The Great Wind-Walker comes!” She grabs her rifle and levels it at you and the graduate students. Eyes wild, she backs toward the river.",
+        "“White men never understand,” she spits. “Go, then. Go with the Wind-Walker!” She runs to the ruined canoe, takes her personal pack, and dashes into the forest.",
+        "You shout after her, appealing to her professionalism. But she does not return."
+      ]
+    }
+  }
+}

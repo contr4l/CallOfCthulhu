@@ -14,6 +14,7 @@ import type {
   StoryNode,
 } from "../contracts/index.js";
 import { resolveCheck, targetFor, type DiceSource } from "../rules/index.js";
+import { initializeFearRun, projectFearRun, advanceFearRun } from "./fear-adapter.js";
 export class GameError extends Error {
   constructor(
     public statusCode: number,
@@ -63,7 +64,9 @@ export function initialState(
     inventory: [],
     status: "active",
   };
-  if (story.rulesVersion === "coc7-solo@2") initialProgram(story, state, dice);
+  if (story.rulesVersion === "aaf-solo@1") state.character.rulesVersion = story.rulesVersion;
+  if (story.fear) initializeFearRun(story, state, dice);
+  else if (["coc7-solo@2", "aaf-solo@1"].includes(story.rulesVersion)) initialProgram(story, state, dice);
   else enter(story, state, story.entry);
   return state;
 }
@@ -125,6 +128,8 @@ export function project(
     music: node.music,
     actions,
     character: structuredClone(state.character),
+    ...(state.party ? { party: { members: structuredClone(state.party.members.filter(member => member.revealed)) } } : {}),
+    ...(state.calendar ? { calendar: structuredClone(state.calendar) } : {}),
     inventory: state.inventory.map((item) => ({
       ...item,
       ...(story.nodes.find((n) => n.illustration?.key === item.key)
@@ -138,6 +143,7 @@ export function project(
     })),
     ending: node.ending,
     ...(state.program ? projectProgram(story, state) : {}),
+    ...(state.fear ? projectFearRun(story, state) : {}),
     ...(node.check
       ? {
           check: {
@@ -157,6 +163,10 @@ export function advance(
   input?: Record<string, number | string>,
   targetBonus = 0,
 ) {
+  if (current.fear) {
+    if (targetBonus) throw new GameError(400, "本模组不使用百分骰检定加值");
+    return advanceFearRun(story, current, actionId, dice);
+  }
   if (current.program)
     return advanceProgram(story, current, actionId, dice, input, targetBonus);
   if (current.status === "ended")

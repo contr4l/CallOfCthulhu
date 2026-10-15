@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "368"
+  ],
+  "text": [
+    "诺曼消失在树林里。鸟正追着你。在沼泽地上，你无法全速奔跑，但它也一样。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 368",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 368",
+      "text": [
+        "Norman disappears into the woods. The bird is after you. In the swampy ground you can’t achieve full speed, but neither can it."
+      ]
+    }
+  }
+}

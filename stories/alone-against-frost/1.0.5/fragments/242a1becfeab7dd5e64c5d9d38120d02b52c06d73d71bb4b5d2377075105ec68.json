@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "502"
+  ],
+  "text": [
+    "你听见脚下河岸的空洞里传出嗡鸣。你满怀希望，以为找到了其他人，却也警惕这奇怪的声音；你悄悄走到岸边，从稀疏的杜松枝叶间向下窥视。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 502",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 502",
+      "text": [
+        "You hear a buzz from a hollow beneath the bank where you stand. Hopeful that you have found others, but wary of the strange sound, you creep to the edge of the bank and peer through a fringe of scraggly junipers."
+      ]
+    }
+  }
+}

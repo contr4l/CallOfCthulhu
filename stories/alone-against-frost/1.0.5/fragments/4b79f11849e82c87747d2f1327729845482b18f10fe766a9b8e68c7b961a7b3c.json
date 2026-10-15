@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "298"
+  ],
+  "text": [
+    "夜幕降临时，狼嚎声越来越密。你迎上诺曼的目光，看出他的神经已绷紧到极限。你们发现一处洞穴，决定在那里过夜。",
+    "运气似乎好转，你们猎到一只雪鞋兔当晚餐。你们咀嚼着干柴般的兔肉时，树林忽然静了下来。猫头鹰、蟋蟀，甚至狼都停止了叫声。某种看不见的威胁笼罩黄昏，也许诺曼的情绪影响了你。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 298",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 298",
+      "text": [
+        "As night draws in, the baying of wolves becomes incessant. You catch Norman’s eye and see his nerves are worn to the snapping point. When you chance upon a cave, it seems wise to stop there for the night.",
+        "Your luck seems to turn, as you are able to kill a snowshoe hare for supper. As the two of you chew its stringy meat, the woods fall silent. The owls, the crickets, even the wolves cease their calling. Some unseen menace pervades the twilight. Perhaps Norman’s mood is rubbing off on you."
+      ]
+    }
+  }
+}

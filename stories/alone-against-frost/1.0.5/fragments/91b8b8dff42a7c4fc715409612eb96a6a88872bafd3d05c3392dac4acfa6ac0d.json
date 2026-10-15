@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "583",
+    "frost-auto-583"
+  ],
+  "text": [
+    "沿着那群人留下的新鲜足迹追踪很容易。足迹把你们带回附近一片洼地。你俯身望去，看见令人难过的一幕：一名女子被绑在树上，仿佛被钉在原地任狼宰割。",
+    "这似乎完全不像图苏蒂纳人的作风。她究竟做了什么？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 583",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 583",
+      "text": [
+        "It is straightforward to follow the fresh tracks left by the group. They lead you back to a nearby hollow. Looking down into it, you see a pathetic sight—a woman tied to a tree, as if staked out for the wolves.",
+        "This seems wildly out of character for the Tsuut’ina. What can she have done?"
+      ]
+    }
+  }
+}

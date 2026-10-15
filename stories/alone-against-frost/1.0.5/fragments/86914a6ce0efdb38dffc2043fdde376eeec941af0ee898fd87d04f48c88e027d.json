@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "417"
+  ],
+  "text": [
+    "微弱的光透过紧闭的眼皮。你听见模糊不清的声音，全身似乎都被针扎般难受。",
+    "你费力睁开眼睛。一瞬间，眼前景象毫无意义：病态的真菌状生物，粉红色身躯，触须和爪子从胸腔伸出。几只生物在你的视野里窜动。",
+    "恐惧催生出一声尖叫，却没有声音。你甚至感觉不到空气进出肺部。突然你意识到，自己没有肺——甚至没有身体，只有幻觉般的疼痛。你看得见自己的身体被丢在附近地上，却没有头。你就是那颗头。",
+    "你被夹在一个盒子里，管子插进脖子。那些外星怪物想保存你活着的大脑！",
+    "你陷入疯狂，再次试图尖叫。一只生物盖上装着你的盒子，隔绝了所有光线。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 417",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 417",
+      "text": [
+        "A faint light bathes your closed eyelids. You hear garbled sounds. Your whole body seems prickled with discomfort.",
+        "It takes an effort to open your eyes. For an instant, what you see makes no sense: diseased-looking fungoid-things, pinkish creatures with tentacles and claws extending from their thoraxes. Several of them scuttle around the field of your vision.",
+        "Terror shapes a scream in your mouth, but it makes no sound. You cannot even feel air moving in and out of your lungs. Abruptly, you realize that you don’t have any lungs—nor any body, just phantom pains. You can see your body, discarded on the ground nearby. It has no head. You are its head.",
+        "You are clamped in a box, with tubes running into your neck. The alien monsters want to preserve your living brain!",
+        "Plunging into madness, you try to scream again. One of the creatures shuts the lid of the box that contains you, blocking out all light."
+      ]
+    }
+  }
+}

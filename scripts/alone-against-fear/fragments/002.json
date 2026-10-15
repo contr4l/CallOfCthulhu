@@ -1,0 +1,24 @@
+{
+  "id": "2",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "2:p0",
+      "kind": "heading",
+      "text": "  #2 - Desecrated church\n",
+      "sourceLocation": "pdf:spans:[[77,860,885]]"
+    },
+    {
+      "id": "2:p1",
+      "kind": "body",
+      "text": "This place of worship has been\nturned into its opposite. Roll d6 to\ndetermine what is going on:\n1-3) Human sacrifice! There are 2d6\nL2 cultists. You may choose to\nEscape but if you do, you lose 2\nSanity and there is a 2 in 6 chance\nof a cultist chasing you to fight.\nEvery time you come back to the\nchurch, roll a 2 in 6 chance that they\nare still there.\n4-5) There is no one in the church\nright now. If you know an exorcism,\nyou may re-consecrate the church\nwith a L5 Magic roll. Add +1 if you\nhave the Occultism and +2 if you\nhave Occultism at Expert level. If\nthe Save fails, a random monster\nfrom the Demonic Horrors Table\nwill attack you. If you re-consecrate\nthe church, increase permanently\nyour Sanity by 1 (this is a\npermanent increase), gain 1 XP and\nfind 2 vials of holy water.\n",
+      "sourceLocation": "pdf:spans:[[77,885,916],[77,916,953],[77,953,981],[77,981,1017],[77,1017,1048],[77,1048,1081],[77,1081,1117],[77,1117,1152],[77,1152,1184],[77,1184,1223],[77,1223,1240],[77,1240,1275],[77,1275,1311],[77,1311,1344],[77,1344,1380],[77,1380,1413],[77,1413,1448],[77,1448,1481],[77,1481,1512],[77,1512,1550],[77,1550,1583],[77,1583,1611],[77,1611,1646],[77,1646,1674]]"
+    },
+    {
+      "id": "2:p2",
+      "kind": "body",
+      "text": "6) Save vs. L4 curse (add +1 if you\nhave the Will Skill, +2 if you have it\nat Expert level). If you fail, you are\nCursed. You will be at -1 on all saves\nuntil you perform any action that\nincreases your Sanity (like 4-5\nabove). When that happens, the\ncurse will be broken. You may also\nfind rituals or magic item letting\nyou remove a curse.\n",
+      "sourceLocation": "pdf:spans:[[77,1674,1710],[77,1710,1749],[77,1749,1788],[77,1788,1827],[77,1827,1861],[77,1861,1893],[77,1893,1924],[77,1924,1959],[77,1959,1994],[77,1994,2014]]"
+    }
+  ]
+}

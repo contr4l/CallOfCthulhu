@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "fear-table-random-weapon"
+  ],
+  "text": [
+    "1 Baseball bat or hammer.\n2 Chainsaw or authentic samurai sword (choose)\n3 1 Grenade or bow with 2d6+3 arrows (choose).\n4 Shotgun with 2d6 shells.\n5 Pistol with 2d6 bullets.\n6 Rifle with 2d6 bullets."
+  ],
+  "reading": {
+    "en": {
+      "title": "Random weapon table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "随机武器表（1D6）",
+      "text": [
+        "1：棒球棒或锤子。\n2：链锯或正宗武士刀（任选其一）。\n3：1枚手榴弹，或一把弓和2D6+3支箭（任选其一）。\n4：霰弹枪和2D6发霰弹。\n5：手枪和2D6发子弹。\n6：步枪和2D6发子弹。"
+      ]
+    }
+  }
+}

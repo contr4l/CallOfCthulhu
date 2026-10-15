@@ -1,0 +1,51 @@
+{
+  "id": "section-unique-zombies-table",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "section-unique-zombies-table:p0",
+      "kind": "heading",
+      "text": "Unique Zombies table (d6) 1 XP\n",
+      "sourceLocation": "pdf:spans:[[71,22,53]]"
+    },
+    {
+      "id": "section-unique-zombies-table:p1",
+      "kind": "body",
+      "text": "1\nZombie Tiger. L5 Undead, 6 Life, Damage 2. If you roll a 1 on a\nDefense roll, the zombie tiger savages your body and you MUST\nroll on the Injury table. If you already have 3 Injuries, lose 3 Life\ninstead.\n",
+      "sourceLocation": "pdf:spans:[[71,53,55],[71,55,119],[71,119,181],[71,181,251],[71,251,260]]"
+    },
+    {
+      "id": "section-unique-zombies-table:p2",
+      "kind": "body",
+      "text": "2\nHorde of Zombie Squirrels. L4 Undead, 8 Life, Damage 1. The\nwhole horde is treated as a single creature. Every turn, roll a 2 in\n6 chance of losing one carried item of your choice or 2 Food points\n(choose) until the horde is defeated.\n",
+      "sourceLocation": "pdf:spans:[[71,260,262],[71,262,322],[71,322,391],[71,391,459],[71,459,497]]"
+    },
+    {
+      "id": "section-unique-zombies-table:p3",
+      "kind": "body",
+      "text": "3\nYour Zombie Pet. L3 Undead, 3 Life, Damage 1. Every turn, you\nmust pass a L3 Will roll (add bonuses from the Will Skill) or you will\nbe unable to attack your pet that has returned from the Pet\nCemetery.\n",
+      "sourceLocation": "pdf:spans:[[71,497,499],[71,499,561],[71,561,632],[71,632,692],[71,692,702]]"
+    },
+    {
+      "id": "section-unique-zombies-table:p4",
+      "kind": "body",
+      "text": "4\nYour Zombie Friend. L5 Undead, 4 Life, Damage 1, Slow. Every\nturn, you must pass a L3 Will roll. Add +1 if you have the Will Skill,\nand +2 if you have Will (Expert). If you fail, you will be unable to\nattack your recently deceased friend (spouse, relative, etc: you can\nembellish as desired) who returned from the grave to eat you.\n",
+      "sourceLocation": "pdf:spans:[[71,702,704],[71,704,765],[71,765,836],[71,836,905],[71,905,974],[71,974,1036]]"
+    },
+    {
+      "id": "section-unique-zombies-table:p5",
+      "kind": "body",
+      "text": "5\nd6 Brain Eaters. L5 Undead, 1 Life, Damage 1. If you roll a 1 on a\nDefense roll when you are in combat with 3 or more brain eaters,\nyou will be grabbed and will be unable to Escape until you reduce\ntheir number to 2 or below.\n",
+      "sourceLocation": "pdf:spans:[[71,1036,1038],[71,1038,1105],[71,1105,1170],[71,1170,1236],[71,1236,1264]]"
+    },
+    {
+      "id": "section-unique-zombies-table:p6",
+      "kind": "body",
+      "text": "6\nZombie Abominion. L7 Undead, 12 Life, Damage 2, Slow. If you\nEscape, the abominion will pursue you. Roll a 2 in 6 chance of\nencountering it again with ALL wounds healed in the next three\nboxes you cross. If you have an encounter in that box, you will\nhave to resolve that encounter first and then meet the zombie\nabominion. If you manage to Escape three times in a row, the\nZombie Abominion will not pursue you anymore.\nThese encounters will happen only once per game. If you roll an encounter\nthat you already had, reroll until you select a different encounter.",
+      "sourceLocation": "pdf:spans:[[71,1264,1266],[71,1266,1327],[71,1327,1390],[71,1390,1453],[71,1453,1517],[71,1517,1579],[71,1579,1640],[71,1640,1686],[71,1686,1760],[71,1760,1828]]"
+    }
+  ],
+  "sourcePages": [
+    71
+  ]
+}

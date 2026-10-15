@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "162",
+    "frost-auto-162"
+  ],
+  "text": [
+    "你似乎没有受伤，但思绪难以集中。脑海中浮现的景象既怪异又惊人，仿佛连自己的心智都成了陌生之物。你出现了新的渴望、本能和冲动，暂时还理不清头绪。但你知道自己饿了——一种吞噬一切的饥饿，逼你大快朵颐，吃下……某种东西。",
+    "你看见脚下铺满厚厚的苔藓。你跪下来，扯下一大团塞进嘴里。它稍稍缓解了折磨，可你还渴望别的食物。你悄然走进凉爽而诱人的森林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 162",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 162",
+      "text": [
+        "You seem physically unhurt, but your thoughts are hard to focus. The images that do come are bizarre and startling, as though your own mind has become a stranger to you. There are new cravings, instincts, and drives you cannot yet sort out. But you know a hunger, an all-consuming need to gorge yourself on… something.",
+        "Beneath your feet, you see a thick carpet of moss. You kneel, tear up a huge clout, and stuff it into your mouth. It takes the edge off your torment, but you crave different food. You stalk off into the cool, beckoning woods."
+      ]
+    }
+  }
+}

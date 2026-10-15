@@ -17,30 +17,24 @@
     {
       "id": "396:p2",
       "kind": "body",
-      "text": "70",
-      "sourceLocation": "pdf:visual:[[71,47]]"
-    },
-    {
-      "id": "396:p3",
-      "kind": "body",
       "text": "Sylvia’s eyes are open, but they do not focus. She gives no \nsign of recognizing you. When you pull on her arm, she gets up \nwithout resisting and stands there, slack. You exchange glances \nwith Norman. He looks conflicted.",
       "sourceLocation": "pdf:visual:[[71,49],[71,50],[71,51],[71,52]]"
     },
     {
-      "id": "396:p4",
+      "id": "396:p3",
       "kind": "body",
       "text": "“Can we make it back out of camp with her in this state?” he \nasks. “Can we make it all the way back home?” If Sylvia’s sanity is \ngone, perhaps it would be kindest to leave her here.",
       "sourceLocation": "pdf:visual:[[71,53],[71,54],[71,55]]"
     },
     {
-      "id": "396:p5",
+      "id": "396:p4",
       "kind": "body",
       "text": "To take Sylvia along with you, go to 398. To leave her behind, make \na Stealth roll for Norman and yourself: if you both succeed, go to \n291; if either of you fails, go to 390. ",
       "sourceLocation": "pdf:visual:[[71,56],[71,57],[71,58]]"
     },
     {
-      "id": "396:p6",
-      "kind": "trace",
+      "id": "396:p5",
+      "kind": "body",
       "text": "(422)",
       "sourceLocation": "pdf:visual:[[71,59]]"
     }

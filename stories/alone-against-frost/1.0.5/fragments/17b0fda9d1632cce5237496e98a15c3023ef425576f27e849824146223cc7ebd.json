@@ -1,0 +1,33 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "62"
+  ],
+  "text": [
+    "“教、教授，对不起……”查理低声说道，垂下深色的眼睛。“也许我是个傻瓜。但要比我们族里最聪明的人更有智慧，并不容易。”",
+    "这场艰难的谈话终于结束，你接下第一班岗，把帐篷后方一处小高地选作哨位。夜晚异常寒冷，让你牙齿打颤，却也赶走了当地那些巨大的蚊子。风势渐强。突然，黑暗中飘来一种你从未听过的声音。那像一声呻吟，像动物哀鸣，又像大森林里所有遥远的动物一同呼唤。你烦躁地摸着步枪光滑的枪托。",
+    "查理的小棚屋里也传来回声般的声响。她先是惊恐地吸了口气，接着低声啜泣。你起身走下坡，来到向导的帐篷旁倾听。",
+    "她似乎做了噩梦。你犹豫要不要摇醒她。就在这时，一阵微风送来新的气味，让你想到苔藓——沉重、压抑，仿佛一整层苔藓盖在身上。随后传来一声拖长的呼唤：“查——理……查——理……”",
+    "一片冰冷的雪花落在你的鼻子上，随即融化。你伸手碰了碰。夏天下雪？简直不可能，即使是在西北地区也一样。",
+    "一个黑影弓着身子从你身旁飞奔而过。是查理！她赤着脚，速度快得惊人。转瞬之间，她就会消失在树丛里。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 62",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 62",
+      "text": [
+        "“I… I am sorry, Professor,” Charlie mutters, her dark eyes downcast. “Perhaps I am a fool. But it is hard to be wiser than the wisest of my people.”",
+        "With that difficulty resolved, you take the first watch, choosing a small rise behind the tents as your sentry post. The night turns unusually cool, causing your teeth to chatter but ending the attacks of the large local mosquitoes. The wind picks up. Suddenly, a sound like you’ve never heard before drifts out of the darkness. It is like a moan, an animal cry—like all the distant animals of the Big Woods calling out at once. You fidget with the polished stock of your rifle.",
+        "The sound is echoed by one from Charlie’s little lean-to. Her gasp of fear is followed by a low sobbing. You get up, descend to the guide’s tent, and listen.",
+        "She seems to be having a nightmare. You wonder whether you should shake her out of it. Just then, you catch a new scent on the wafting breeze. It makes you think of moss—a heavy, oppressive blanket of moss. The odor is followed by a whining call: “Char-lie… Char-lie…”",
+        "A cold flake melts on your nose. You touch it. Snow in summer? Impossible, even in the Northwest Territories.",
+        "A dark shape bolts past you at a crouch. Charlie! She is barefoot, running at an amazing clip. In an instant, she will be swallowed up by the trees."
+      ]
+    }
+  }
+}

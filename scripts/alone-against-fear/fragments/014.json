@@ -1,0 +1,18 @@
+{
+  "id": "14",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "14:p0",
+      "kind": "heading",
+      "text": "#14 - speeding train\n",
+      "sourceLocation": "pdf:spans:[[83,686,707]]"
+    },
+    {
+      "id": "14:p1",
+      "kind": "body",
+      "text": "You rush to the door and force it\nopen. The train is already picking\nup speed. Save vs. L5 (add +1 if you\nhave the Agile Skill, or +2 if you\nhave it at the Expert level) to land\nsafely. If you fail, you lose 1 Life\nand 1 item of your choice (but not\na cursed item or a Clown mask). If\nyou pass the roll, you land with\nnothing more than a few bruises.\nThe train zooms away, engulfed in\na cloud of blackness. Probably,\njumping off was a good choice.\n",
+      "sourceLocation": "pdf:spans:[[83,707,741],[83,741,776],[83,776,813],[83,813,848],[83,848,885],[83,885,922],[83,922,957],[83,957,992],[83,992,1025],[83,1025,1058],[83,1058,1092],[83,1092,1124],[83,1124,1155]]"
+    }
+  ]
+}

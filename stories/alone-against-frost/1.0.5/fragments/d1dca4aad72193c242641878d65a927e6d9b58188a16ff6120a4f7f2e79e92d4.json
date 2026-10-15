@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "27"
+  ],
+  "text": [
+    "你对查理·福克斯泰尔行为的解读，让你确信她打算在夜里逃走。也许你能劝她冷静下来，理智行事。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 27",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 27",
+      "text": [
+        "Your interpretation of Charlie Foxtail’s behavior convinces you she intends to desert during the night. Perhaps you can argue her into a more rational state."
+      ]
+    }
+  }
+}

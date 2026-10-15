@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "441"
+  ],
+  "text": [
+    "你拼命奔逃，希望能甩开那个看不见的杀手，一道如电般的剧痛从肩膀撕裂到腰部。滚烫的血从背后喷涌而出。",
+    "你的双腿终于支撑不住，整个人摔倒在地。刺骨寒意包围你，肉体接连被无情地撕开。你最后一次试图触碰那个隐形灵体，试图理解它；双手在空中乱抓，直到失血与休克耗尽你最后的力量。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 441",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 441",
+      "text": [
+        "As you race away, hoping against hope to outdistance the invisible murderer, an electric streak of agony tears from your shoulder to your waist. A hot well of blood fountains down your back.",
+        "Your legs finally give out and you crash to the earth. As bitter cold surrounds you, your flesh parts in a merciless series of wounds. You make a last attempt to touch the invisible spirit, to somehow understand; clawing your hands through empty air until blood loss and shock saps your final reserves of strength."
+      ]
+    }
+  }
+}

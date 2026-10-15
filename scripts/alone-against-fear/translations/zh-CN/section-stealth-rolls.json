@@ -1,0 +1,17 @@
+{
+  "id": "section-stealth-rolls",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "1c81c6188895c1c22ae7c82a1b3c70ed5d999ee2425c14b7467257e9b814bd5c",
+  "paragraphs": [
+    {
+      "id": "section-stealth-rolls:p0",
+      "text": "潜行检定"
+    },
+    {
+      "id": "section-stealth-rolls:p1",
+      "text": "有时你可以悄悄行动而不被敌人发现，或从守卫身边溜过。此时进行潜行防御检定，对抗目标的L。拥有潜行技能+1，专家级潜行+2。成功时，可选择对该敌人进行第一次攻击（因突袭而+2），或不被发现地从其身边溜过（可像敌人不存在一样穿过该格）。失败时，敌人会攻击并取得先攻，在你之前行动；战斗期间其L+1。"
+    }
+  ],
+  "notes": []
+}

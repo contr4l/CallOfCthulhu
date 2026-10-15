@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "510"
+  ],
+  "text": [
+    "你的每种本能都告诉你，树林里充满了外星感官，它们正在向你逼近。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 510",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 510",
+      "text": [
+        "Your every instinct tells you that the woods are alive with alien senses, that they are closing in on you."
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "section-random-events-table",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "f7a82a77aa2e3869ac16e29399afdb0db7c14339a1f73e9666d370a093c7f94f",
+  "paragraphs": [
+    {
+      "id": "section-random-events-table:p0",
+      "text": "随机事件表（D6）"
+    },
+    {
+      "id": "section-random-events-table:p1",
+      "text": "1\n遇到一个想跟着你的孩子。若拒绝，他会离开；若允许他加入探索，掷D6：1–3前往事件#26，4–6前往事件#37。"
+    },
+    {
+      "id": "section-random-events-table:p2",
+      "text": "2\n发现一件沾满血迹的物品（从随机物品表或有用物品表中选择来源）。你可以无视它或捡起来（前往事件#31）。"
+    },
+    {
+      "id": "section-random-events-table:p3",
+      "text": "3\n发现一件随机物品放在危险之处。掷随机物品表或有用物品表决定是什么物品（二选一）。攀爬障碍物需要进行L4攀爬检定；敏捷技能+1，专家级敏捷+2。失败则跌落并损失1点生命；成功则获得物品。可以反复尝试攀爬。"
+    },
+    {
+      "id": "section-random-events-table:p4",
+      "text": "4\n一张可怕的脸出现在窗户里。进行L3恐惧防御检定；意志技能+1，专家级意志+2。失败则损失1点理智。若想进入建筑调查，前往事件#34。你可以无视幻影并继续调查。\n5 寒风吹起。若有火把或蜡烛，风会将其吹灭，直到下次遭遇结束。"
+    },
+    {
+      "id": "section-random-events-table:p5",
+      "text": "6\n发现路中间有一滩黄色黏液。若有罐子或瓶子，可以装取一些，以备之后使用。"
+    }
+  ],
+  "notes": []
+}

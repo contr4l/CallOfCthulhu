@@ -1,0 +1,30 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "467",
+    "frost-auto-467"
+  ],
+  "text": [
+    "大约二十分钟后，你和诺曼带着做好的担架杆回到营地。火坑附近有个奇怪的身影躺在那里。走近一看，竟是西尔维娅。",
+    "你跑到她身边跪下，把她翻过来。她双眼圆睁，脸色发青，脖子上环绕着紫色勒痕。",
+    "伯纳德不在铺位上。沙地里有足迹。西尔维娅尸体周围有挣扎的痕迹；赤脚印一路通向河岸，最后的脚印深深陷进湿软的河岸。他跳进河里，没有再出来。",
+    "你把西尔维娅埋在沙丘间。你和诺曼在墓前说了几句话，随后沿北汉尼纳河匆忙离去。直到傍晚，你们都没有再说话。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 467",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 467",
+      "text": [
+        "About 20 minutes later, you and Norman return to camp with the completed poles for the stretcher. An odd shape lies stretched out near the firepit. As you draw close, you see it is Sylvia.",
+        "You run to her side, kneel down, and turn her over. Her eyes bulge wide-open, and her face is discolored. Purple marks ring her throat.",
+        "Bernard is not on his bedding. You see tracks in the sand. From the scuffle marks around Sylvia’s body, bare feet lead down to the riverside. The last tracks sink deep into the wet bank. He went into the river and did not come out.",
+        "You bury Sylvia among the sand dunes. After you and Norman say a few words over her grave, you hurry away along the North Hanninah River. Neither of you speaks again until evening."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "307",
+    "frost-auto-307"
+  ],
+  "text": [
+    "狼群扑向你们，将队伍冲散。它们离得太近，来不及使用步枪；你只能拿起近战武器背水一战。狼群分散开来，准备围攻你们。",
+    "除非你之前已经减少狼的数量，否则共有2D6头恐狼。它们平均分配攻击你们每个人。若数量不能整除，第一头余狼攻击西尔维娅，第二头余狼攻击诺曼。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 307",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 307",
+      "text": [
+        "The wolf pack hits your group and scatters it. They are too close for your rifle; you must make a desperate stand with melee weapons. The pack splits to overwhelm you.",
+        "Unless you have already reduced their number, there are 2D6 dire wolves. One-third of them attack each of you. If the number does not divide cleanly, the first leftover wolf targets Sylvia, and the second targets Norman."
+      ]
+    }
+  }
+}

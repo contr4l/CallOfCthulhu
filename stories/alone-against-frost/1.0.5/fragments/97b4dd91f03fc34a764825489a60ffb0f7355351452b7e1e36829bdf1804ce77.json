@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "272"
+  ],
+  "text": [
+    "密斯卡托尼克大学相信你的观察，于是派出由伊凡·库尔托夫率领的新远征队。由于你有公开活动必须参加，只能在麦克唐纳堡与队伍会合，而无法从阿卡姆一同出发。",
+    "你抵达时已准备好重返北汉尼纳，却发现野心勃勃、过于自信的库尔托夫早已独自出发。",
+    "库尔托夫远征队就此杳无音讯。你独自回家，并主张再组织一次远征；但大萧条时期根本不可能筹得这样的经费。",
+    "你关于失落之地的书籍与文章吸引了一批狂热追随者，但你有生之年始终未能证实“纳德尔曼失落之地”的存在。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 272",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 272",
+      "text": [
+        "Satisfied that they can depend upon your observations, Miskatonic University sends out a new expedition under Ivan Kurtov. Public engagements make it necessary for you to rendezvous with the expedition at Fort McDonald, instead of accompanying it from Arkham.",
+        "When you arrive, braced for a return to the North Hanninah, you find that the ambitious, overzealous Kurtov has started without you.",
+        "The Kurtov Expedition vanishes without a trace. You return home alone and argue for a second effort; however, the Great Depression makes such a project out of the question.",
+        "Your books and articles about the lost land attract a cult following, but the existence of “Nadelmann’s Lost Land” is not proven in your lifetime."
+      ]
+    }
+  }
+}

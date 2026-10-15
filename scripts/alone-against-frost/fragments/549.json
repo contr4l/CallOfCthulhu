@@ -23,24 +23,18 @@
     {
       "id": "549:p3",
       "kind": "body",
-      "text": "93",
-      "sourceLocation": "pdf:visual:[[94,36]]"
-    },
-    {
-      "id": "549:p4",
-      "kind": "body",
       "text": "With time, the night fears diminish, but you can secure only \nsecond-rate teaching jobs and your lectures become notorious \nfor  occasional  interruptions  where  you  tail  off,  staring  into \nspace. You publish your account of the North Hanninah trip \nbut,  without  documentation  or  physical  evidence,  and  with \nyour history of insanity, you convince no one except an eccentric \noccult fringe group.",
       "sourceLocation": "pdf:visual:[[94,38],[94,39],[94,40],[94,41],[94,42],[94,43],[94,44]]"
     },
     {
-      "id": "549:p5",
+      "id": "549:p4",
       "kind": "body",
       "text": "The Nadelmann Expedition is over. THE END.",
       "sourceLocation": "pdf:visual:[[94,45]]"
     },
     {
-      "id": "549:p6",
-      "kind": "trace",
+      "id": "549:p5",
+      "kind": "body",
       "text": "(364)",
       "sourceLocation": "pdf:visual:[[94,46]]"
     }

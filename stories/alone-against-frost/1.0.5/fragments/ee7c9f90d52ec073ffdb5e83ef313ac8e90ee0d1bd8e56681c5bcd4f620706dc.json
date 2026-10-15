@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "336",
+    "frost-auto-336"
+  ],
+  "text": [
+    "你一直跑到精疲力竭，终于倒下。回头望去，既听不见也看不见任何动静。暂时安全了。但现在，你必须独自面对大森林。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 336",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 336",
+      "text": [
+        "You run until you fall, utterly spent. When you look back, you hear and see nothing. You are safe for the moment. But, now, you must face the Big Woods alone."
+      ]
+    }
+  }
+}

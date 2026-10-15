@@ -6,5 +6,6 @@
   "renderScaleMaxPixels": 1800,
   "text": "",
   "words": [],
-  "visualReview": "pending; OCR is not a faithful reconstruction"
+  "visualReview": "Full-page illustration only; visually confirmed no body text or table is omitted.",
+  "visualReviewRenderSha256": "dd315a04bcc7c7f227646fce6c02c11803edb70a6780aab3f7e822735cd4e168"
 }

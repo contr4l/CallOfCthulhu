@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "136"
+  ],
+  "text": [
+    "你们一行人端着步枪，匍匐向前，终于看见光源所在。",
+    "进行理智检定：若失败，损失1D6点理智。然后前往203。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 136",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 136",
+      "text": [
+        "Your party crawls forward, rifles carried in the crooks of your arms, until you overlook the source of the glow.",
+        "Make a Sanity roll: if you fail, lose 1D6 Sanity. Then, go to 203."
+      ]
+    }
+  }
+}

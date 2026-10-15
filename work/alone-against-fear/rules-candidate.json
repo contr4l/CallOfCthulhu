@@ -6,42 +6,645 @@
   "runtimePlayable": false,
   "purpose": "A source-cited proposal for executable rule data; not a runtime graph and not Call of Cthulhu rules.",
   "dataModel": {
-    "campaign": ["character", "missionsCompleted", "hellGatesClosed", "persistentInjuries", "persistentMentalScars", "defeatedUniqueEnemies", "knownBooks", "townSheets"],
-    "mission": ["missionId", "startBox", "visitedBoxes", "searchedBoxes", "encounters", "missionFlags", "temporaryEffects", "inventory", "food", "clues"],
-    "character": ["life", "lifeMaximum", "sanity", "sanityMaximum", "xp", "skills", "arcaneSkills", "inventory", "ammoByWeapon", "injuries", "mentalScars", "keywords"]
+    "campaign": [
+      "character",
+      "missionsCompleted",
+      "hellGatesClosed",
+      "persistentInjuries",
+      "persistentMentalScars",
+      "defeatedUniqueEnemies",
+      "knownBooks",
+      "townSheets"
+    ],
+    "mission": [
+      "missionId",
+      "startBox",
+      "visitedBoxes",
+      "searchedBoxes",
+      "encounters",
+      "missionFlags",
+      "temporaryEffects",
+      "inventory",
+      "food",
+      "clues"
+    ],
+    "character": [
+      "life",
+      "lifeMaximum",
+      "sanity",
+      "sanityMaximum",
+      "xp",
+      "skills",
+      "arcaneSkills",
+      "inventory",
+      "ammoByWeapon",
+      "injuries",
+      "mentalScars",
+      "keywords"
+    ]
   },
   "ruleLanguage": {
-    "trigger": ["mission.start", "box.enter", "box.revisit", "encounter.start", "combat.turn", "combat.attack", "combat.defend", "action.search", "mission.returnHome", "campaign.advance"],
-    "conditions": ["all", "any", "not", "compare", "hasSkill", "hasItem", "hasFlag", "remainingUses"],
-    "effects": ["rollD6", "rollTable", "modifyRoll", "applyDamage", "changeResource", "setFlag", "incrementCounter", "grantItem", "consumeItem", "moveToAdjacentVisitedBox", "startEncounter", "awardXP", "endMission", "endCampaign", "showCurrentTextThenRoute"],
-    "randomness": "Every roll records raw die faces, modifier, target, success, and any explosion chain. Table rolls do not use attack damage division."
+    "trigger": [
+      "mission.start",
+      "box.enter",
+      "box.revisit",
+      "encounter.start",
+      "combat.turn",
+      "combat.attack",
+      "combat.defend",
+      "action.search",
+      "mission.returnHome",
+      "campaign.advance"
+    ],
+    "conditions": [
+      "all",
+      "any",
+      "not",
+      "compare",
+      "hasSkill",
+      "hasItem",
+      "hasFlag",
+      "remainingUses"
+    ],
+    "effects": [
+      "rollD6",
+      "rollTable",
+      "modifyRoll",
+      "applyDamage",
+      "changeResource",
+      "setFlag",
+      "incrementCounter",
+      "grantItem",
+      "consumeItem",
+      "moveToAdjacentVisitedBox",
+      "startEncounter",
+      "awardXP",
+      "endMission",
+      "endCampaign",
+      "showCurrentTextThenRoute"
+    ],
+    "randomness": "Each D6 result persists its raw face in a counter; table outcomes are explicit indexed choices. Attack dice explosion is represented only after its source-scope conflict is resolved."
   },
   "rules": [
-    {"id":"dice.natural-1-6","trigger":"any.d6.check","procedure":["roll d6 plus only the modifiers stated by the applicable rule","natural 1 is failure","natural 6 is success"],"source":[{"nodeId":"section-saves","page":7},{"nodeId":"section-game-overview","page":102}],"review":"The book summary states natural 1/6 always fail/succeed; some specialized rules preserve an unmodified 1."},
-    {"id":"dice.explosion.scope","trigger":"d6.check","procedure":["on natural 6 roll and add another d6; continue while each new natural die is 6"],"source":[{"nodeId":"section-rolling-sixes-explosions","page":31},{"nodeId":"section-game-overview","page":102}],"review":"Scope conflict: detailed rule p.31 specifically describes Attack dice; overview p.102 says any d6 roll except table rolls. Preserve as unresolved until rule review."},
-    {"id":"character.creation","trigger":"mission.first","procedure":["set Life=8 and Sanity=8","allocate 3 additional points between Life and Sanity","choose 2 non-arcane Skills","roll/select starting weapon and starting items per source tables","start with 1 knife; reroll duplicate item results"],"source":[{"nodeId":"section-your-character","page":8},{"nodeId":"section-your-character","page":10},{"nodeId":"section-game-overview","page":102}],"review":"The overview summary differs in its wording for item selection; reconcile with pages 8-10 before runtime."},
-    {"id":"campaign.between-missions","trigger":"mission.returnHome","procedure":["complete current mission and grant listed mission reward","restore Life and Sanity to current maxima","retain XP, equipment, skills, injuries, mental scars, and campaign progress","if 7 Hell Gates are closed, end campaign in victory; otherwise continue the same surviving character"],"source":[{"nodeId":"section-how-the-game-works","page":37},{"nodeId":"section-character-death-or-insanity","page":6},{"nodeId":"section-life","page":10},{"nodeId":"section-sanity","page":10}],"review":"A mission ends after completing its goal and returning Home; the campaign spans multiple missions."},
-    {"id":"map.new-box","trigger":"box.enter where box.visited=false","procedure":["increment mission box counter and record the box on the town map","do not roll content for the first box","otherwise roll 2d6 on Town Exploration Table, then resolve the referenced location table","resolve any encounter before Search is offered"],"source":[{"nodeId":"section-movement-and-mapping","page":37},{"nodeId":"section-game-overview","page":102},{"nodeId":"section-town-exploration-table","page":42}],"review":"The town map has 30 boxes per sheet; attach another sheet when needed. Box adjacency constrains movement."},
-    {"id":"map.revisit-box","trigger":"box.enter where box.visited=true","procedure":["do not roll Town Exploration again","roll 1-in-6 for Random Encounter unless this is a Safe House","if a fled creature occupies the box, require the applicable Stealth roll"],"source":[{"nodeId":"section-moving-through-visited-areas","page":38},{"nodeId":"section-game-overview","page":102}]},
-    {"id":"time.food","trigger":"after each 5 boxes crossed","procedure":["consume 1 Food","if Food is unavailable, lose 1 Life","apply Resistant to Hunger adjustment: every 6 boxes basic, every 7 boxes Expert"],"source":[{"nodeId":"section-food","page":10},{"nodeId":"section-game-overview","page":102},{"nodeId":"section-skills","page":14}],"review":"Track crossings, not just unique locations. Character death may interrupt the campaign."},
-    {"id":"exploration.search","trigger":"after encounter resolved or empty new box","procedure":["offer at most one Search per box per mission","do not offer Search in a Safe House or after fleeing","roll d6 on Search Table, apply Investigator bonus except a natural 1 remains 1","resolve result and persist searchedBoxes"],"source":[{"nodeId":"section-search-rolls","page":38},{"nodeId":"section-search-table","page":38},{"nodeId":"section-game-overview","page":102}]},
-    {"id":"exploration.random-encounter","trigger":"revisit or explicit encounter check","procedure":["roll the relevant d6 chance","on encounter roll twice on Random Encounter Table and resolve the matching monster table","reroll unique enemies already defeated; if all entries in that unique category are defeated treat as no encounter"],"source":[{"nodeId":"section-moving-through-visited-areas","page":38},{"nodeId":"section-random-encounter","page":39}],"review":"Several event rules modify or replace this flow; preserve their scoped precedence."},
-    {"id":"combat.initiative","trigger":"encounter.start","procedure":["roll the creature's stated chance of surprise if present","unless surprised, player takes first combat turn","apply Danger Sense by reducing the surprise chance"],"source":[{"nodeId":"section-combat","page":29},{"nodeId":"section-surprise","page":32},{"nodeId":"section-skills","page":13}]},
-    {"id":"combat.attack","trigger":"combat.attack","procedure":["roll d6 and add applicable weapon and Skill modifiers","natural 1 always fails","damageUnits=floor(modifiedTotal/targetLevel)","damage=damageUnits*weaponDamagePerHit","apply damage to target Life; for one-Life groups each damage point removes one creature","only survivors get an attack opportunity"],"source":[{"nodeId":"section-combat","page":29},{"nodeId":"section-game-overview","page":102}],"review":"The detailed text defines division by target L; overview summarizes repeated damage for each L surpassed. Confirm special weapons and group allocation against p.20 and p.99."},
-    {"id":"combat.defense","trigger":"combat.defend","procedure":["roll d6 plus applicable defense Skill modifiers","success when total is equal to or greater than attacker L","on failure apply attacker damage and listed secondary effects","on a natural 1 resolve the additional Defense-roll rule"],"source":[{"nodeId":"section-attack-and-defense-rolls","page":8},{"nodeId":"section-rolling-ones","page":32}],"review":"Explicitly equal-or-greater, per the book's note distinguishing it from Four Against Darkness."},
-    {"id":"combat.defense-natural-one","trigger":"combat.defend where rawDie=1","procedure":["roll a second d6","if the second result is 1, choose one: take 1 additional damage, skip next attack, or destroy main weapon if armed"],"source":[{"nodeId":"section-rolling-ones","page":32}]},
-    {"id":"combat.escape","trigger":"player.chooseEscape","procedure":["roll d6 + Slippery modifier versus opponent L","on failure take opponent damage and effects; may try again next turn","on success move to a neighboring previously visited box","unless destination is Safe House, roll 1-in-6 Random Encounter","leave opponents in original box; a later failed Stealth encounter raises their L by 1"],"source":[{"nodeId":"section-running-away-escape-rolls","page":32},{"nodeId":"section-running-away-escape-rolls","page":33}],"review":"Slow enemies permit automatic escape unless a specific encounter forbids it; some encounters forbid escape altogether."},
-    {"id":"character.life-and-injury","trigger":"lifeLoss","procedure":["allow player to prevent one attack/event's Life loss by rolling once on Injury Table","each lasting injury use counts toward lifetime cap of 3","at 3 injuries, no further injury roll; Life reaching 0 ends character/game","between missions restore Life to maximum; keep injuries"],"source":[{"nodeId":"section-life","page":10},{"nodeId":"section-insanity-table","page":34}],"review":"P.33 says negate all damage from a single attack; p.10 summarizes preventing 1 or 2 Life. Review exact scope before execution."},
-    {"id":"character.sanity-and-scar","trigger":"sanityLoss","procedure":["allow player to prevent 1 or 2 Sanity loss by rolling once on Insanity Table","each result is permanent and counts toward lifetime cap of 3","at 3 scars, accept Sanity loss; Sanity reaching 0 ends character/game","between missions restore Sanity to maximum; keep scars"],"source":[{"nodeId":"section-sanity","page":10},{"nodeId":"section-insanity-table","page":34}],"review":"Loss prevention amount depends on the triggering rule; do not force a roll or apply it to all losses."},
-    {"id":"inventory.capacity","trigger":"inventory.change","procedure":["base carry limit 10 items plus items held in hands","backpack adds 5 item capacity and 5 Food capacity","Strong adds 3 capacity; Strong Expert adds 5; negligible-weight items excluded","if backpack is lost, discard all carried objects except those in hands"],"source":[{"nodeId":"section-equipment","page":11},{"nodeId":"section-equipment","page":12},{"nodeId":"section-character-sheet","page":100}]},
-    {"id":"magic.rituals","trigger":"arcaneSkill.use","procedure":["require learned Arcane Skill and its prerequisites/components","spend listed sacrifices at the end of use even if roll fails","perform only the stated Magic/Will check and apply skill modifiers","persist duration, uses, and mission scope from each ritual"],"source":[{"nodeId":"section-arcane-skills","page":15},{"nodeId":"section-spells","page":29}],"review":"Arcane Skills are learned during play, not chosen as starting Skills; each ritual has specific requirements and duration."},
-    {"id":"mission.complete","trigger":"mission.goalComplete and returnHome","procedure":["grant the mission's explicit listed reward","end mission","retain surviving character for next mission"],"source":[{"nodeId":"section-mission","page":40},{"nodeId":"section-mission-table","page":40},{"nodeId":"section-game-overview","page":102}],"review":"Mission rewards and the 7-gate campaign objective are separate progress layers."}
+    {
+      "id": "dice.natural-1-6",
+      "trigger": "any.d6.check",
+      "procedure": [
+        "roll d6 plus only the modifiers stated by the applicable rule",
+        "natural 1 is failure",
+        "natural 6 is success"
+      ],
+      "source": [
+        {
+          "page": 7,
+          "sectionId": "section-dice-codes",
+          "pdfPage": 7
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ],
+      "review": "The book summary states natural 1/6 always fail/succeed; some specialized rules preserve an unmodified 1."
+    },
+    {
+      "id": "dice.explosion.scope",
+      "trigger": "d6.check",
+      "procedure": [
+        "on natural 6 roll and add another d6; continue while each new natural die is 6"
+      ],
+      "source": [
+        {
+          "page": 31,
+          "sectionId": "section-combat",
+          "pdfPage": 31
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ],
+      "review": "Scope conflict: detailed rule p.31 specifically describes Attack dice; overview p.102 says any d6 roll except table rolls. Preserve as unresolved until rule review."
+    },
+    {
+      "id": "character.creation",
+      "trigger": "mission.first",
+      "procedure": [
+        "set Life=8 and Sanity=8",
+        "allocate 3 additional points between Life and Sanity",
+        "choose 2 non-arcane Skills",
+        "roll/select starting weapon and starting items per source tables",
+        "start with 1 knife; reroll duplicate item results"
+      ],
+      "source": [
+        {
+          "page": 8,
+          "sectionId": "section-other-rolls",
+          "pdfPage": 8
+        },
+        {
+          "page": 10,
+          "sectionId": "section-your-character",
+          "pdfPage": 10
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ],
+      "review": "The overview summary differs in its wording for item selection; reconcile with pages 8-10 before runtime."
+    },
+    {
+      "id": "campaign.between-missions",
+      "trigger": "mission.returnHome",
+      "procedure": [
+        "complete current mission and grant listed mission reward",
+        "restore Life and Sanity to current maxima",
+        "retain XP, equipment, skills, injuries, mental scars, and campaign progress",
+        "if 7 Hell Gates are closed, end campaign in victory; otherwise continue the same surviving character"
+      ],
+      "source": [
+        {
+          "page": 37,
+          "sectionId": "section-how-the-game-works",
+          "pdfPage": 37
+        },
+        {
+          "page": 6,
+          "sectionId": "section-events",
+          "pdfPage": 6
+        },
+        {
+          "page": 10,
+          "sectionId": "section-your-character",
+          "pdfPage": 10
+        },
+        {
+          "page": 10,
+          "sectionId": "section-your-character",
+          "pdfPage": 10
+        }
+      ],
+      "review": "A mission ends after completing its goal and returning Home; the campaign spans multiple missions."
+    },
+    {
+      "id": "map.new-box",
+      "trigger": "box.enter where box.visited=false",
+      "procedure": [
+        "increment mission box counter and record the box on the town map",
+        "do not roll content for the first box",
+        "otherwise roll 2d6 on Town Exploration Table, then resolve the referenced location table",
+        "resolve any encounter before Search is offered"
+      ],
+      "source": [
+        {
+          "page": 37,
+          "sectionId": "section-how-the-game-works",
+          "pdfPage": 37
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        },
+        {
+          "page": 42,
+          "sectionId": "section-town-exploration-table",
+          "pdfPage": 42
+        }
+      ],
+      "review": "The town map has 30 boxes per sheet; attach another sheet when needed. Box adjacency constrains movement."
+    },
+    {
+      "id": "map.revisit-box",
+      "trigger": "box.enter where box.visited=true",
+      "procedure": [
+        "do not roll Town Exploration again",
+        "roll 1-in-6 for Random Encounter unless this is a Safe House",
+        "if a fled creature occupies the box, require the applicable Stealth roll"
+      ],
+      "source": [
+        {
+          "page": 38,
+          "sectionId": "section-moving-through-visited-areas",
+          "pdfPage": 38
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ]
+    },
+    {
+      "id": "time.food",
+      "trigger": "after each 5 boxes crossed",
+      "procedure": [
+        "consume 1 Food",
+        "if Food is unavailable, lose 1 Life",
+        "apply Resistant to Hunger adjustment: every 6 boxes basic, every 7 boxes Expert"
+      ],
+      "source": [
+        {
+          "page": 10,
+          "sectionId": "section-your-character",
+          "pdfPage": 10
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        },
+        {
+          "page": 14,
+          "sectionId": "section-skills",
+          "pdfPage": 14
+        }
+      ],
+      "review": "Track crossings, not just unique locations. Character death may interrupt the campaign."
+    },
+    {
+      "id": "exploration.search",
+      "trigger": "after encounter resolved or empty new box",
+      "procedure": [
+        "offer at most one Search per box per mission",
+        "do not offer Search in a Safe House or after fleeing",
+        "roll d6 on Search Table, apply Investigator bonus except a natural 1 remains 1",
+        "resolve result and persist searchedBoxes"
+      ],
+      "source": [
+        {
+          "page": 38,
+          "sectionId": "section-moving-through-visited-areas",
+          "pdfPage": 38
+        },
+        {
+          "page": 38,
+          "sectionId": "section-moving-through-visited-areas",
+          "pdfPage": 38
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ]
+    },
+    {
+      "id": "exploration.random-encounter",
+      "trigger": "revisit or explicit encounter check",
+      "procedure": [
+        "roll the relevant d6 chance",
+        "on encounter roll twice on Random Encounter Table and resolve the matching monster table",
+        "reroll unique enemies already defeated; if all entries in that unique category are defeated treat as no encounter"
+      ],
+      "source": [
+        {
+          "page": 38,
+          "sectionId": "section-moving-through-visited-areas",
+          "pdfPage": 38
+        },
+        {
+          "page": 39,
+          "sectionId": "section-random-encounter",
+          "pdfPage": 39
+        }
+      ],
+      "review": "Several event rules modify or replace this flow; preserve their scoped precedence."
+    },
+    {
+      "id": "combat.initiative",
+      "trigger": "encounter.start",
+      "procedure": [
+        "roll the creature's stated chance of surprise if present",
+        "unless surprised, player takes first combat turn",
+        "apply Danger Sense by reducing the surprise chance"
+      ],
+      "source": [
+        {
+          "page": 29,
+          "sectionId": "section-spells",
+          "pdfPage": 29
+        },
+        {
+          "page": 32,
+          "sectionId": "section-rolling-ones",
+          "pdfPage": 32
+        },
+        {
+          "page": 13,
+          "sectionId": "section-skills",
+          "pdfPage": 13
+        }
+      ]
+    },
+    {
+      "id": "combat.attack",
+      "trigger": "combat.attack",
+      "procedure": [
+        "roll d6 and add applicable weapon and Skill modifiers",
+        "natural 1 always fails",
+        "damageUnits=floor(modifiedTotal/targetLevel)",
+        "damage=damageUnits*weaponDamagePerHit",
+        "apply damage to target Life; for one-Life groups each damage point removes one creature",
+        "only survivors get an attack opportunity"
+      ],
+      "source": [
+        {
+          "page": 29,
+          "sectionId": "section-spells",
+          "pdfPage": 29
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ],
+      "review": "The detailed text defines division by target L; overview summarizes repeated damage for each L surpassed. Confirm special weapons and group allocation against p.20 and p.99."
+    },
+    {
+      "id": "combat.defense",
+      "trigger": "combat.defend",
+      "procedure": [
+        "roll d6 plus applicable defense Skill modifiers",
+        "success when total is equal to or greater than attacker L",
+        "on failure apply attacker damage and listed secondary effects",
+        "on a natural 1 resolve the additional Defense-roll rule"
+      ],
+      "source": [
+        {
+          "page": 8,
+          "sectionId": "section-other-rolls",
+          "pdfPage": 8
+        },
+        {
+          "page": 32,
+          "sectionId": "section-rolling-ones",
+          "pdfPage": 32
+        }
+      ],
+      "review": "Explicitly equal-or-greater, per the book's note distinguishing it from Four Against Darkness."
+    },
+    {
+      "id": "combat.defense-natural-one",
+      "trigger": "combat.defend where rawDie=1",
+      "procedure": [
+        "roll a second d6",
+        "if the second result is 1, choose one: take 1 additional damage, skip next attack, or destroy main weapon if armed"
+      ],
+      "source": [
+        {
+          "page": 32,
+          "sectionId": "section-rolling-ones",
+          "pdfPage": 32
+        }
+      ]
+    },
+    {
+      "id": "combat.escape",
+      "trigger": "player.chooseEscape",
+      "procedure": [
+        "roll d6 + Slippery modifier versus opponent L",
+        "on failure take opponent damage and effects; may try again next turn",
+        "on success move to a neighboring previously visited box",
+        "unless destination is Safe House, roll 1-in-6 Random Encounter",
+        "leave opponents in original box; a later failed Stealth encounter raises their L by 1"
+      ],
+      "source": [
+        {
+          "page": 32,
+          "sectionId": "section-rolling-ones",
+          "pdfPage": 32
+        },
+        {
+          "page": 33,
+          "sectionId": "section-charisma-rolls",
+          "pdfPage": 33
+        }
+      ],
+      "review": "Slow enemies permit automatic escape unless a specific encounter forbids it; some encounters forbid escape altogether."
+    },
+    {
+      "id": "character.life-and-injury",
+      "trigger": "lifeLoss",
+      "procedure": [
+        "allow player to prevent one attack/event's Life loss by rolling once on Injury Table",
+        "each lasting injury use counts toward lifetime cap of 3",
+        "at 3 injuries, no further injury roll; Life reaching 0 ends character/game",
+        "between missions restore Life to maximum; keep injuries"
+      ],
+      "source": [
+        {
+          "page": 10,
+          "sectionId": "section-your-character",
+          "pdfPage": 10
+        },
+        {
+          "page": 34,
+          "sectionId": "section-insanity-table",
+          "pdfPage": 34
+        }
+      ],
+      "review": "P.33 says negate all damage from a single attack; p.10 summarizes preventing 1 or 2 Life. Review exact scope before execution."
+    },
+    {
+      "id": "character.sanity-and-scar",
+      "trigger": "sanityLoss",
+      "procedure": [
+        "allow player to prevent 1 or 2 Sanity loss by rolling once on Insanity Table",
+        "each result is permanent and counts toward lifetime cap of 3",
+        "at 3 scars, accept Sanity loss; Sanity reaching 0 ends character/game",
+        "between missions restore Sanity to maximum; keep scars"
+      ],
+      "source": [
+        {
+          "page": 10,
+          "sectionId": "section-your-character",
+          "pdfPage": 10
+        },
+        {
+          "page": 34,
+          "sectionId": "section-insanity-table",
+          "pdfPage": 34
+        }
+      ],
+      "review": "Loss prevention amount depends on the triggering rule; do not force a roll or apply it to all losses."
+    },
+    {
+      "id": "inventory.capacity",
+      "trigger": "inventory.change",
+      "procedure": [
+        "base carry limit 10 items plus items held in hands",
+        "backpack adds 5 item capacity and 5 Food capacity",
+        "Strong adds 3 capacity; Strong Expert adds 5; negligible-weight items excluded",
+        "if backpack is lost, discard all carried objects except those in hands"
+      ],
+      "source": [
+        {
+          "page": 11,
+          "sectionId": "section-food",
+          "pdfPage": 11
+        },
+        {
+          "page": 12,
+          "sectionId": "section-equipment",
+          "pdfPage": 12
+        },
+        {
+          "page": 100,
+          "sectionId": "section-food",
+          "pdfPage": 100
+        }
+      ]
+    },
+    {
+      "id": "magic.rituals",
+      "trigger": "arcaneSkill.use",
+      "procedure": [
+        "require learned Arcane Skill and its prerequisites/components",
+        "spend listed sacrifices at the end of use even if roll fails",
+        "perform only the stated Magic/Will check and apply skill modifiers",
+        "persist duration, uses, and mission scope from each ritual"
+      ],
+      "source": [
+        {
+          "page": 15,
+          "sectionId": "section-skills",
+          "pdfPage": 15
+        },
+        {
+          "page": 29,
+          "sectionId": "section-spells",
+          "pdfPage": 29
+        }
+      ],
+      "review": "Arcane Skills are learned during play, not chosen as starting Skills; each ritual has specific requirements and duration."
+    },
+    {
+      "id": "mission.complete",
+      "trigger": "mission.goalComplete and returnHome",
+      "procedure": [
+        "grant the mission's explicit listed reward",
+        "end mission",
+        "retain surviving character for next mission"
+      ],
+      "source": [
+        {
+          "page": 40,
+          "sectionId": "section-mission",
+          "pdfPage": 40
+        },
+        {
+          "page": 40,
+          "sectionId": "section-mission",
+          "pdfPage": 40
+        },
+        {
+          "page": 102,
+          "sectionId": "section-game-overview",
+          "pdfPage": 102
+        }
+      ],
+      "review": "Mission rewards and the 7-gate campaign objective are separate progress layers."
+    }
   ],
   "unresolvedSourceQuestions": [
-    {"id":"explosion-scope","pages":[31,102],"question":"Is explosion limited to Attack rolls, or every non-table d6 as the overview states?"},
-    {"id":"injury-prevention-amount","pages":[10,33],"question":"Does the injury roll prevent 1-2 points by player choice or all Life loss from a single attack?"},
-    {"id":"unique-event-numbering","pages":[77,96],"question":"The visual event headings run #1-#42 including #37 (printed with a period after the number); verify extraction preserves all 42 original IDs."},
-    {"id":"metadata-title","pages":[],"question":"PDF metadata says Escape from Demon City; cover/title and contents say Alone Against Fear."}
+    {
+      "id": "explosion-scope",
+      "pages": [
+        31,
+        102
+      ],
+      "question": "Is explosion limited to Attack rolls, or every non-table d6 as the overview states?"
+    },
+    {
+      "id": "injury-prevention-amount",
+      "pages": [
+        10,
+        33
+      ],
+      "question": "Does the injury roll prevent 1-2 points by player choice or all Life loss from a single attack?"
+    },
+    {
+      "id": "metadata-title",
+      "pages": [],
+      "question": "PDF metadata says Escape from Demon City; cover/title and contents say Alone Against Fear."
+    }
   ],
-  "translation": {"locale":"zh-CN", "status":"not-started", "paragraphBinding":"source fragment sha256 + paragraph id", "ruleValueReview":"required before executable candidate"}
+  "translation": {
+    "locale": "zh-CN",
+    "status": "partial-review-required",
+    "completedFragments": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "untranslatedSourceFragments": 73,
+    "paragraphBinding": "manifest binds source fragment SHA-256, source paragraph id/text SHA-256 and Chinese paragraph id/text SHA-256",
+    "ruleValueReview": "required before executable candidate"
+  },
+  "runtimeCandidateProposal": {
+    "engine": "aaf-solo@1",
+    "characterSetup": "guided creation; source character sheet values assigned by initialization program, never CoC 3D6/check rules",
+    "map": "typed town-map state with 30 boxes per sheet, adjacency, visited/searched flags, and explicit exploration-table outcome records; do not encode map as arbitrary story links",
+    "combat": "typed encounter/turn/action states; D6 attacks/defenses and source-specific L/damage calculations via safe rollEffects/calc/choices; no D100 checks",
+    "mission": "explicit mission objective, location table refs, rewards, home-return transition and persistent campaign state; random-table results are data tables, not prose-node roulette",
+    "resourceState": [
+      "Life",
+      "Sanity",
+      "XP",
+      "Food",
+      "inventory",
+      "weapon ammunition",
+      "injuries",
+      "mental scars",
+      "skills",
+      "gates closed",
+      "mission progress"
+    ],
+    "translationGate": "do not compile or mark playable until all source paragraphs have reviewed Chinese translations bound to source hashes and special rules/table mappings pass source review"
+  }
 }

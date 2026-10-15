@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "211"
+  ],
+  "text": [
+    "那些人强迫诺曼和西尔维娅轮流跪在两棵小树之间，分别把他们的一只手腕绑在树上。随后他们兴奋地跳起怪异的舞。仪式中心的光不断变换颜色。舞蹈继续着，直到你注意到一名矮人手持带柄的新月形刀刃。舞蹈结束，众人开始跳跃尖叫，持刀者朝诺曼走去。",
+    "你尖叫起来，刀刃挥下，砍掉了诺曼的头。西尔维娅脸色煞白，昏了过去。她仍在昏迷时，头颅也被砍下。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 211",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 211",
+      "text": [
+        "The men force Norman and Sylvia, in turn, to kneel between two small trees, and affix one wrist per tree. Then they dance in grotesque glee. The light at the focus of their ritual shifts between colors. The movements continue until you notice a dwarf who holds a crescent blade on a handle. When the dance ends and the participants begin to leap and shriek, the blade wielder approaches Norman.",
+        "You shriek as the blade is swung and Norman’s head is struck off. Sylvia turns white and faints. Her head is severed while she is still unconscious."
+      ]
+    }
+  }
+}

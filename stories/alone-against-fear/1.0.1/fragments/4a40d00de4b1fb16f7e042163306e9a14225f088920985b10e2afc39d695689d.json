@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.1",
+  "nodeIds": [
+    "3"
+  ],
+  "text": [
+    "As you walk down the street, an\nominous-looking black car revs up\nand charges at you. Make a L4 Save,at +1 if you are Agile, +2 if  Agile at\nExpert level. If you fail, lose 2 Life.\nIf you pass the first save, you may\nmove out of the street and avoid\nfurther attacks. If the car hits you,\nyou are knocked down and the car\nwill try to run over you (make\nanother Save as above, with the\nsame consequences).\nIf you have a grenade, you may use\nit to destroy the car and recover 1\nSanity as you do so. If you destroy\nthe car, that is a 1 in 6 chance of a\ndemon appearing and attacking\nyou.\nDemon, L6, 8 Life, flying (you may\nnot escape from this fight).\nSusceptible to holy water and\nexorcism. When the demon first\nappears, save vs. L4 Fear or lose 1\nSanity.\nIf you destroy the car, you find 1\nrandom enchanted item in the\nwrecked vehicle (roll on the\nEnchanted Item table)."
+  ],
+  "reading": {
+    "en": {
+      "title": "3 - Possessed car",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "3 - 附身汽车",
+      "text": [
+        "你走在街上，一辆阴森的黑色汽车突然发动，朝你猛冲过来。进行一次L4防御检定；敏捷技能加+1，敏捷达到专家级加+2。失败则失去2点生命。第一次检定成功后，你可以躲到街边，避开后续撞击。如果汽车撞到你，你会被撞倒，汽车接着试图碾过你；按同样方式再进行一次防御检定，失败后果也相同。\n如果你有手榴弹，可以用它摧毁汽车，并因此恢复1点理智。摧毁汽车时，有1/6的概率出现一只恶魔并攻击你。\n恶魔：L6，8点生命，会飞（这场战斗中不能逃跑）。易受圣水和驱魔术影响。恶魔首次出现时，进行一次L4恐惧防御检定，失败则失去1点理智。\n摧毁汽车后，你可以在残骸中找到1件随机附魔物品（掷附魔物品表）。"
+      ]
+    }
+  }
+}

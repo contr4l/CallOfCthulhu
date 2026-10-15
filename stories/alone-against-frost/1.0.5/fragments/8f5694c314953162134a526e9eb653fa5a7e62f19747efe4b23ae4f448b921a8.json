@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "509",
+    "frost-auto-509"
+  ],
+  "text": [
+    "你不敢触碰那令人作呕的尸体，便用枯枝把它撬进沟里。你砍些灌木盖住它，然后回到洞穴。到了早晨，继续赶路似乎安全了。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 509",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 509",
+      "text": [
+        "Fearing to touch the repulsive carcass, you use a dead branch to lever it into a ditch. You cut some shrubs to cover it and then return to the cave. By morning it appears safe to continue on your way."
+      ]
+    }
+  }
+}

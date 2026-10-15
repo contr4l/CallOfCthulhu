@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "135",
+    "frost-auto-135"
+  ],
+  "text": [
+    "夜色被枪声撕裂。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 135",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 135",
+      "text": [
+        "The night erupts with gunfire."
+      ]
+    }
+  }
+}

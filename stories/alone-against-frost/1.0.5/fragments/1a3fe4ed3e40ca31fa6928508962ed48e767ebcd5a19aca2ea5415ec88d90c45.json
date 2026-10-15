@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "226"
+  ],
+  "text": [
+    "你和诺曼下定决心救回西尔维娅，鼓起额外的力量穿过急流。历经艰险后，你们精疲力尽地爬出溪流，在周围的黑沙上休息。",
+    "喘过气来后，你注意到这里的环境更像佛罗里达，而非加拿大。植物完全陌生，越橘、冷杉和亚北极灌木都不见了。你想起那些传闻：有一处被温泉和钦诺克风温暖的隐秘山谷。传说是真的吗？不过此刻，救回西尔维娅才是最要紧的事。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 226",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 226",
+      "text": [
+        "Determined to rescue Sylvia from her abductor, you and Norman draw on reserves of additional strength to force your way through the torrent. Afterward, weary from the ordeal, you crawl from the stream and rest upon the black sand around it.",
+        "When you catch your breath, you notice that the atmosphere is more like Florida than Canada. The flora is completely strange. Gone are the bearberries, the firs, the subarctic shrubs. Tales come back to you, yarns of an enclave warmed by hot springs and the Chinook winds. Could the legend be true? But for now, Sylvia’s rescue is paramount."
+      ]
+    }
+  }
+}

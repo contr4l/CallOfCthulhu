@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "82"
+  ],
+  "text": [
+    "诺曼摇醒了你，目光投向树林。“有声音！”他嘶声说道，“西尔维娅不见了！”",
+    "你立刻跳起来，披上外套，从地上拿起步枪。尽管天还没亮多久，亚寒带的黎明已经到来。",
+    "你搜查周围地面，发现了绑走西尔维娅者的足迹。它们和你预想的不同——是大得惊人的赤脚印。",
+    "若要循着足迹追踪，前往 128。若要认定西尔维娅已失踪，并设法保护诺曼，前往 279。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 82",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 82",
+      "text": [
+        "Norman shakes you awake, staring out to the trees. “There was a noise!” he hisses. “Sylvia’s gone!”",
+        "You spring to your feet, throw on your jacket, and pick up your rifle from the ground. Despite the small hours of the morning, the subarctic dawn is breaking.",
+        "A search of the surrounding ground turns up the tracks of Sylvia’s abductors. They are not quite what you expect— oversized, bare feet.",
+        "To follow the tracks, go to 128. To give Sylvia up for lost and try to save Norman, go to 279."
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "295",
+    "frost-auto-295"
+  ],
+  "text": [
+    "你和诺曼饥肠辘辘地走了许多天。一天早晨醒来，你发现诺曼不见了。你搜索了一整天，仍没发现他的任何踪迹。最终，你不得不承认自己孤身一人。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 295",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 295",
+      "text": [
+        "The two of you walk, hungry, for many days. One morning you wake to find Norman gone. You search for the entire day but fail to turn up a single trace of him. In the end, you have to admit you are alone."
+      ]
+    }
+  }
+}

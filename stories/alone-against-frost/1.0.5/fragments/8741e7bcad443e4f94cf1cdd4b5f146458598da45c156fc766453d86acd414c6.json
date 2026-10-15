@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "420"
+  ],
+  "text": [
+    "西尔维娅没有回答。她在这里吗？她睡着了吗？你感到自己暴露在危险之中。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 420",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 420",
+      "text": [
+        "Sylvia does not answer. Is she here? Is she asleep? You feel very exposed."
+      ]
+    }
+  }
+}

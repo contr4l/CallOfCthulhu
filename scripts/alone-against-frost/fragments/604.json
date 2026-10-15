@@ -22,7 +22,7 @@
     },
     {
       "id": "604:p3",
-      "kind": "trace",
+      "kind": "body",
       "text": "(30, 88, 195, 409, 425, 603)",
       "sourceLocation": "pdf:visual:[[102,7]]"
     }

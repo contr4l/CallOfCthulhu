@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "371"
+  ],
+  "text": [
+    "终于，你们接近进入失落山谷时经过的裂隙。你正出神时，一块巨石从天而降，砸在离你几码远的巨石上。你抬头望去，惊见许多可怖的猿人站在上方岩架上，向你投掷粗制的花岗岩石块。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 371",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 371",
+      "text": [
+        "At last, you approach the fissure by which you entered the lost valley. Your reverie is interrupted by a large rock that plummets from the sky and crashes on a boulder a few yards from your feet. You look up and are stunned to see a host of hideous ape- men on the ledges overhead, tossing crude granite missiles down at you."
+      ]
+    }
+  }
+}

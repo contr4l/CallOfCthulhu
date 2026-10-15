@@ -1,0 +1,17 @@
+{
+  "id": "section-mission",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "bcfaf7eda2bbb1e27559a5554032cfd9c37cd663fda095d5e3ba3ed71d10d767",
+  "paragraphs": [
+    {
+      "id": "section-mission:p0",
+      "text": "任务"
+    },
+    {
+      "id": "section-mission:p1",
+      "text": "每次游戏开始时，在下方任务表掷骰，决定本局必须完成的目标。若掷出的任务与上次相同，可重掷，直到选出不同任务。无论进行多少局游戏，战役获胜目标都是关闭7道地狱之门。"
+    }
+  ],
+  "notes": []
+}

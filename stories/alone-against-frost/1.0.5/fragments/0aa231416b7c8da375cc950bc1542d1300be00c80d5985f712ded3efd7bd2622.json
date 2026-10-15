@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "485"
+  ],
+  "text": [
+    "你突然加速，杀死人的大脚怪猝不及防。你跑得比它们快，但短腿会比它们先累。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 485",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 485",
+      "text": [
+        "Your sudden burst of speed catches the sasquatches by surprise. You are faster than them, but your short legs will tire before theirs."
+      ]
+    }
+  }
+}

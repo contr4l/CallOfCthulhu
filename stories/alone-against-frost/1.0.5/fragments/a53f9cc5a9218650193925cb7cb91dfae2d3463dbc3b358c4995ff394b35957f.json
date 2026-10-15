@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "6",
+    "frost-auto-6"
+  ],
+  "text": [
+    "凭借你的技术和同伴们的全力协助，这趟行程总算没有在一开始就酿成灾难。你们设法操纵独木舟脱离回旋急流，驶入另一条水道，后面的航程也因此轻松许多。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 6",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 6",
+      "text": [
+        "Your skill and your party’s earnest support saves the trip from an early disaster. Your group manages to maneuver the canoe out of the boil and cross over into another channel, where the passage proves much easier."
+      ]
+    }
+  }
+}

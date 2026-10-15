@@ -1,0 +1,26 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "399",
+    "frost-auto-399"
+  ],
+  "text": [
+    "“Rawwkh！”鸟怪发出一声叫喊，倒进沼泽，抽搐着踢蹬双腿，终于死去。这种曾被认为早已灭绝的食肉动物，其头颅可能成为你发现的证据——前提是你能活着回到文明世界。诺曼体贴地提出帮你割下头颅。",
+    "你已用有限的资源在失落山谷做了所能做的一切，于是动身返程。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 399",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 399",
+      "text": [
+        "“Rawwkh!” The bird-monster squawks and topples into the mire, spasmodically kicking as it dies. The head of this long- thought-extinct carnivore could provide evidence of your discovery, if you are lucky enough to return to civilization. Norman graciously offers to sever it.",
+        "You have done everything you can in the lost valley with your limited resources, so you start back."
+      ]
+    }
+  }
+}

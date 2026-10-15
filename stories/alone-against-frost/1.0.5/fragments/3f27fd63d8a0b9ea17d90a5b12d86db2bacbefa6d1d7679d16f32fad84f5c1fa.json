@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "563"
+  ],
+  "text": [
+    "你和诺曼挣扎着想解开生皮绳索。你们能否及时回到西尔维娅身边，赶在黑暗中发生未知可怕之事以前救她？"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 563",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 563",
+      "text": [
+        "You and Norman struggle with your rawhide bindings. Can you get back to Sylvia before who-knows-what befalls her in the darkness?"
+      ]
+    }
+  }
+}

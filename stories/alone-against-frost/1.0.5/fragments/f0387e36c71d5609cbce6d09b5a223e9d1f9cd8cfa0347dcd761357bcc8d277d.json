@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "19"
+  ],
+  "text": [
+    "你把独木舟系在岸边，带着队伍走进峡谷。一道温暖的溪流沿着谷底流淌，边缘岩石上厚厚地附着着白色、灰色和黄色的沉积矿物。",
+    "你越往狭窄的谷岸深处走，景象就越荒凉。植物才刚长出便艰难挣扎，很快枯死。灰尘覆盖着被扼死的脆弱树苗枝条。你蹲在一块覆满黄白色晶体的石头旁，用猎刀刮下一些沉积物，装进一只小玻璃瓶。你猜它们没什么特别之处，不过这并非你的专业领域。最后，你用方盒相机拍下了这片景象。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 19",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 19",
+      "text": [
+        "You tie the canoe to the bank and lead your party up the canyon. A warm stream runs along its floor, and the rocks along the edges are heavily caked with precipitated minerals of white, gray, and yellow hues.",
+        "The farther you advance between its narrow banks, the more desolate the scene. The vegetation struggles in youth and goes to an early death. Gray dust coats the brittle sticks of strangled saplings. You kneel over a stone furred with yellow-and-white crystals and scrape a sample of the deposits into a small glass vial with your hunting knife. You suppose that they are nothing remarkable, though this is not your area of expertise. Finally, you snap a few photos of the scene with your box camera."
+      ]
+    }
+  }
+}

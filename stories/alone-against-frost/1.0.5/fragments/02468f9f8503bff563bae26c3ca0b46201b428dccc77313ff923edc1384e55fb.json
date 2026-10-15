@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "378"
+  ],
+  "text": [
+    "诺曼一如既往地让你安心，你们一起克服了战斗造成的最严重影响。你拿出急救包，然后查看死去的生物。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 378",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 378",
+      "text": [
+        "Norman exerts his usual steadying influence, and together you shake off the worst effects of the fight. You fetch out the first aid kit and then turn your attention to the dead creature."
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "49"
+  ],
+  "text": [
+    "尽管追得匆忙，你还是顺利找回了营地。气温已经恢复正常，焦急的同伴们围着你连连发问。你讲述伯纳德的遭遇时，他们都深受震撼。尤其是查理，受到的冲击很大。",
+    "“我们族人把这称为伟大的风行者，伊萨夸尼——一种强大的灵体。它有时会抓走男人，改变他们……”向导不愿再说下去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 49",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 49",
+      "text": [
+        "Despite the hasty pursuit, you readily find your way back to camp. The temperature has returned to normal, and your anxious comrades bombard you with questions. What you tell them about Bernard shocks them deeply. Charlie, in particular, is affected.",
+        "“My people know this as the Great Wind-Walker, Ithakwanni—a mighty spirit. Sometimes it takes a man, changes him...” The guide is unwilling to say more."
+      ]
+    }
+  }
+}

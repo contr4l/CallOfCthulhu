@@ -1,0 +1,18 @@
+{
+  "id": "9",
+  "document": "Alone Against Fear (Andrea Sfiligoi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "paragraphs": [
+    {
+      "id": "9:p0",
+      "kind": "heading",
+      "text": "#9 - old man\n",
+      "sourceLocation": "pdf:spans:[[81,976,989]]"
+    },
+    {
+      "id": "9:p1",
+      "kind": "body",
+      "text": "You find an old man threatened by\na single zombie. You easily\ndispatch the undead and save the\nman. He explains that all hell broke\nloose “after the kids found that\nwitchery book. Books of the devil,\nI tell you.” He tells you that a bunch\nof children started to mess with\nblack magic almost one year ago.\n“I warned their parents. Warned\ntheir teachers. They did not listen.\nFirst, cats started to disappear, and\nthen other children too. There was\none blonde child, Eliza, she was the\nleader of that gang of little witches.\nShe had a big, creepy doll that\nlooked a bit like her. It was like she\nwas nodding to the doll all the\ntime, as if the doll talked to her and\ngive her directions. There was\nanother girl, a black girl, named\nJosephine. I think she wanted out\nand they killed her. “\nAfter his story, the man walks\naway. Gain 1 Clue.\n",
+      "sourceLocation": "pdf:spans:[[81,989,1023],[81,1023,1051],[81,1051,1084],[81,1084,1121],[81,1121,1154],[81,1154,1189],[81,1189,1228],[81,1228,1261],[81,1261,1294],[81,1294,1326],[81,1326,1363],[81,1363,1401],[81,1401,1436],[81,1436,1473],[81,1473,1512],[81,1512,1544],[81,1544,1583],[81,1583,1615],[81,1615,1654],[81,1654,1685],[81,1685,1719],[81,1719,1753],[81,1753,1776],[81,1776,1807],[81,1807,1826]]"
+    }
+  ]
+}

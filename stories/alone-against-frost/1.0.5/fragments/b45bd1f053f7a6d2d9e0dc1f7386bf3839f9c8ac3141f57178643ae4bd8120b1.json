@@ -1,0 +1,27 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "435"
+  ],
+  "text": [
+    "你们翻过山坡、穿过峡谷，朝着异象前进。一种诡异的气氛逐渐增强，树林的寂静已不足以解释这种感觉。一片宽阔山谷展现在眼前，远离急流的喧嚣，被古老幽暗的树木环抱，枝头垂下灰绿色长苔。微风吹动苔丝。",
+    "同伴也感受到了诡异，你从他们脸上看得出来。和你一样，他们一言不发。你开始感到方向感紊乱，轻微眩晕。鸟儿从天上坠落，是否也与这种感觉有关？如果有关，又是什么造成的？",
+    "等你爬上一处小坡，俯瞰下方的石阵时，头晕已经十分明显。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 435",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 435",
+      "text": [
+        "As you cross hill and ravine toward the phenomenon, an eerie atmosphere builds that cannot wholly be accounted for by the silence of the woods. A broad vale opens, removed from all the rush and turmoil of fast water, sheltered by dark, old trees with long, gray- green streamers of moss. The moss sways in a faint breeze.",
+        "Your companions sense the uncanniness, too—you can see it in their faces. Like you, they do not speak. You begin to feel a weird disorientation, a touch of vertigo. Was it something like this that took the birds out of the air? If so, what causes it?",
+        "Your dizziness is pronounced by the time you master a small rise and look down upon the arrangement of stones below."
+      ]
+    }
+  }
+}

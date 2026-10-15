@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "93"
+  ],
+  "text": [
+    "若要跳入水中尝试救她，进行力量与游泳联合检定。两项技能检定都成功，前往 533；任意一项失败，前往 536。若要留在岩台上，前往 534。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 93",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 93",
+      "text": [
+        "To plunge in and attempt rescue, make a combined STR and Swim roll. If you succeed at both skills, go to 533. If you fail at either, go to 536. To remain on the ledge instead, go to 534."
+      ]
+    }
+  }
+}

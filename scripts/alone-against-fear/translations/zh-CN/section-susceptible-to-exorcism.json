@@ -1,0 +1,17 @@
+{
+  "id": "section-susceptible-to-exorcism",
+  "language": "zh-CN",
+  "translator": "GPT-6 Luna",
+  "sourceFragmentSha256": "6a8379261ad93077c998404e932b42a13c353d0f6cb6b4eb715a9e67905e76d3",
+  "paragraphs": [
+    {
+      "id": "section-susceptible-to-exorcism:p0",
+      "text": "可被驱魔"
+    },
+    {
+      "id": "section-susceptible-to-exorcism:p1",
+      "text": "若生物注明可被驱魔，你可以对它使用驱魔奥术技能。若成功以该生物的L为目标数进行驱魔检定，它会立即被迫离开该格。若该生物看守着物品，它逃走后你即可取得该物品。"
+    }
+  ],
+  "notes": []
+}

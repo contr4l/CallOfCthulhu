@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "208"
+  ],
+  "text": [
+    "查理垂下目光，就像你质疑她的迷信时常有的表现。她说话时带着一种气声，仿佛绝非人类喉咙能发出。“教授，你总是那么相信自己的科学。可我见过伟大的风行者。看吧。”她指向自己的脚。",
+    "你低头一看，差点把步枪掉在地上。她的小腿已经变成腐蚀发黑、布满发光裂纹的残桩，脚上长着令人作呕的蹄子。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 208",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 208",
+      "text": [
+        "Charlie drops her eyes, as she sometimes did when you challenged her superstitions. She speaks with a breathy overtone, something no human throat could produce. “You are always so certain of your science, Professor. But I have been with the Great Wind-Walker. Look.” She points to her feet.",
+        "You glance down and nearly drop your rifle. Her lower legs are blackened, corroded stumps with glowing cracks, and repulsive hooves instead of feet."
+      ]
+    }
+  }
+}

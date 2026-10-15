@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "165",
+    "frost-auto-165"
+  ],
+  "text": [
+    "这条河险恶无比，你们经不起太多失误，必须通力合作。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 165",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 165",
+      "text": [
+        "On so treacherous a river, your party cannot afford many mistakes. You must work together."
+      ]
+    }
+  }
+}

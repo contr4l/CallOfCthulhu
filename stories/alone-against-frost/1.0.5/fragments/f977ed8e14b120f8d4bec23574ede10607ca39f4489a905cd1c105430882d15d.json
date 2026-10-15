@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "315"
+  ],
+  "text": [
+    "与哺乳动物和植物不同，这里的鸟类颇为常见：燕鸥、杓鹬和鹅。你们穿过一片莎草、灯心草和芦苇丛生的沼泽时，你想到“纳德尔曼失落之地”或许不会为鸟类学增添多少新物种。",
+    "然而你错了。一声有力而刺耳的啼叫惊动了你们。一颗脑袋从沼泽植物间猛地探出。这像是一种鸟，高如鸵鸟，颈部与胸肌却更为粗壮。它的利爪又长又弯，喙像鹰一样。这是一只巨型食肉鸟！看起来足以杀死并吞食一头野牛。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 315",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 315",
+      "text": [
+        "Unlike the mammal and plant life, the bird population contains species quite familiar to you—terns, curlews, and geese. As you cross a slough heavily grown with sedge, rushes, and reeds, you reflect that “Nadelmann’s Lost Land” may not add many new species to the science of ornithology.",
+        "But, you are mistaken. A powerful, harsh caw startles the two of you. A head stabs out from the swamp growth. It is some form of bird, as tall as an ostrich, but with a heavier neck and breast muscles. Its talons are long and curved, its beak similar to an eagle’s. A giant carnivorous bird! It looks like it could kill and eat a buffalo."
+      ]
+    }
+  }
+}

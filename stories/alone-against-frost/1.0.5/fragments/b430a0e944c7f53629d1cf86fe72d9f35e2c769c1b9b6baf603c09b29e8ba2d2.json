@@ -1,0 +1,24 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "361",
+    "frost-auto-361"
+  ],
+  "text": [
+    "失落山谷仿佛被施了咒。你和诺曼安然返回水下裂隙。水流让你们有些提心吊胆，但你们安全渡了过去。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 361",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 361",
+      "text": [
+        "The lost valley seems under a spell. You and Norman make it back to the watery fissure unmolested. The current gives you some nervous moments, but you cross in safety."
+      ]
+    }
+  }
+}

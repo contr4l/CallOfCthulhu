@@ -1,0 +1,1061 @@
+{
+  "format": "coc-story-supplement-translation@1",
+  "id": "alone-against-frost",
+  "language": "zh-CN",
+  "sourcePdfSha256": "6a35eba46eb8878fa3c0edcd265854ab539d3910bcd6ba91e03158f4aa121a9b",
+  "sourceGraphFilename": "冰霜独行.dag.json",
+  "sourceGraphSha256": "35d7ca4342efdf742edcc40e0a3a9fc6164c71ab150a514501f78cfee32c8f71",
+  "copyrightAndLegalText": "Preserved in original English in source supplements; intentionally not translated.",
+  "paragraphs": [
+    {
+      "id": "pdf-page-5-lines-1-7",
+      "sourceLocation": "pdf:visual:[[4,1],[4,2],[4,3],[4,4],[4,5],[4,6],[4,7]]",
+      "sourceText": "  lone Against the Frost is a Call of Cthulhu adventure \nAdesigned to be played by a single person, where you \nare both the Keeper and player. In it, you assume \nthe identity of L. C. Nadelmann, PhD, an anthropologist \ntenured  at  Miskatonic  University  in  the  1920s.  You  have \ntraveled to survey the North Hanninah, an unknown region \nin Canada’s Northwest Territories.",
+      "text": "《冰霜独行》是一部《克苏鲁的呼唤》冒险，供一人同时担任守秘人与玩家游玩。你将扮演20世纪20年代任教于密斯卡托尼克大学的人类学博士 L. C. 纳德尔曼，前往加拿大西北地区一片未知地域北汉尼纳进行勘察。",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-5-lines-8-11",
+      "sourceLocation": "pdf:visual:[[4,8],[4,9],[4,10],[4,11]]",
+      "sourceText": "PREPARING TO START\n1. \nMake sure you have a copy of the Call of Cthulhu: Keeper\nRulebook or Starter Set (7th Edition) at hand.",
+      "text": "开始前准备：\n1. 准备好《克苏鲁的呼唤》第七版守秘人规则书或入门套装。",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-5-lines-12-17",
+      "sourceLocation": "pdf:visual:[[4,12],[4,13],[4,14],[4,15],[4,16],[4,17]]",
+      "sourceText": "2. \nCopy or print out Dr� Nadelmann’s investigator sheet\n(page  110).  You  may  also  wish  to  copy  or  print  out\nthe  investigator  sheets  for  Dr.  Nadelmann’s  traveling\ncompanions:  Bernard  Ebstein,  Sylvia  Davidson, \nNorman Falkner, and Charlie Foxtail (pages 112–120).",
+      "text": "2. 复印或打印纳德尔曼博士的调查员卡（第110页）。你也可以复印或打印同行的调查员卡：伯纳德·埃布斯坦、西尔维娅·戴维森、诺曼·福克纳和查理·福克斯泰尔（第112–120页）。",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-5-lines-18-21",
+      "sourceLocation": "pdf:visual:[[4,18],[4,19],[4,20],[4,21]]",
+      "sourceText": "3. \nRead the Getting Started section on page 6, and then\nfill  in  the  additional  material  on  Dr.  Nadelmann’s\ninvestigator sheet.",
+      "text": "3. 阅读第6页“开始游戏”部分，然后在纳德尔曼博士的调查员卡上填写补充信息。",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-5-lines-22-25",
+      "sourceLocation": "pdf:visual:[[4,22],[4,23],[4,24],[4,25]]",
+      "sourceText": "4. \nOnce that’s done, you are ready to take on the challenges\nof  Alone  Against  the  Frost  (starting  on  page  8).  Don’t\nforget to wrap up nice and warm!",
+      "text": "4. 完成以上步骤后，就可以开始《冰霜独行》的挑战（从第8页开始）。别忘了穿暖和些！",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-5-lines-28-36",
+      "sourceLocation": "pdf:visual:[[4,28],[4,29],[4,30],[4,31],[4,32],[4,33],[4,34],[4,35],[4,36]]",
+      "sourceText": "The  North  Hanninah  holds  many  dangers,  and  your \nfirst expedition may not end in scientific or academic glory. \nThankfully,  you  can  try  this  adventure  as  many  times  as \nyou like. The Big Woods are unpredictable, and they hold \nmany different adventures and possible outcomes. Each time \nyou begin anew, you may reallocate Dr. Nadelmann’s skill \npoints. Your knowledge of the hazards ahead will improve \nyour chances, but mere knowledge and skills are not always \nenough against the forces of darkness!",
+      "text": "北汉尼纳危机四伏，第一次探险未必能带来科学或学术上的荣耀。幸运的是，你可以反复尝试。大树林难以预测，其中有许多不同的冒险和可能结局。每次重新开始时，你都可以重新分配纳德尔曼博士的技能点。你对危险的了解会提高成功机会，但仅凭知识和技能并不总能战胜黑暗力量！",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-5-lines-37-47",
+      "sourceLocation": "pdf:visual:[[4,37],[4,38],[4,39],[4,40],[4,41],[4,42],[4,43],[4,44],[4,45],[4,46],[4,47]]",
+      "sourceText": "A CHANGE OF NAME\nWhen  Alone  Against  the  Wendigo  was  published  in  the \n1980s, writers and game companies were not as sensitive \nto  the  wholesale  adoption  of  creatures  from  indigenous \nmythologies  as  they  are  today.  With  this  in  mind,  with \nits  rerelease,  Chaosium  decided  to  update  and  rename \nthe book (Alone Against the Frost) to avoid the misuse of a \nculturally significant term. The creature at its core has also \nbeen reworked and renamed to better underline its Mythos \nties  to  the  Great  Old  One,  Ithaqua,  the  Great  Wind-\nWalker itself.",
+      "text": "更名说明：20世纪80年代出版《孤身对抗温迪戈》时，作家和游戏公司还不像今天这样重视避免直接借用原住民神话生物。再版时，Chaosium 决定更新并更名为《冰霜独行》，以免误用具有文化意义的词汇。故事核心生物也经过重塑并重新命名，以强调它与克苏鲁神话旧日支配者伊塔夸（伟大风行者）的联系。",
+      "sourcePageCanonicalTextSha256": "c47b26cc71b2624e0995b94e9038c901d5aca06686b93235415dcfaf9f049232"
+    },
+    {
+      "id": "pdf-page-7-lines-2-3",
+      "sourceLocation": "pdf:visual:[[6,2],[6,3]]",
+      "sourceText": "ou’ll need a pencil, scratch paper, dice, and the Call of \nCthulhu Rulebook or Starter Set (7th Edition).",
+      "text": "你需要铅笔、草稿纸、骰子，以及《克苏鲁的呼唤》第七版规则书或入门套装。",
+      "sourcePageCanonicalTextSha256": "9417056e48d3dd8a397fe6807028d42195b6cb07cf79c545b06d8d01b70a8d56"
+    },
+    {
+      "id": "pdf-page-7-lines-5-11",
+      "sourceLocation": "pdf:visual:[[6,5],[6,6],[6,7],[6,8],[6,9],[6,10],[6,11]]",
+      "sourceText": "Don’t read this book through from beginning to \nend! Each entry is numbered, and at its end can be found \ninstructions for where to go and what to read next. You may \nhave to make a choice or attempt a skill roll to see what \nhappens. Occasionally, you may be asked to record a keyword \nto  mark  a  significant  incident  in  your  adventure.  Do  not \ncarry these keywords over to subsequent playthroughs.",
+      "text": "不要从头到尾顺序阅读本书。每一节都有编号，结尾会指示你接下来该去哪里、阅读什么内容。你可能需要作出选择，或尝试技能检定来决定结果。有时会要求你记录关键词，标记冒险中的重要事件。关键词不可带入之后重新开始的游戏。",
+      "sourcePageCanonicalTextSha256": "9417056e48d3dd8a397fe6807028d42195b6cb07cf79c545b06d8d01b70a8d56"
+    },
+    {
+      "id": "pdf-page-7-lines-12-19",
+      "sourceLocation": "pdf:visual:[[6,12],[6,13],[6,14],[6,15],[6,16],[6,17],[6,18],[6,19]]",
+      "sourceText": "Your character may have to deal with physical or mental \ntrauma. Although these need not end your adventure, they \nwill  interrupt  what  you  are  doing.  If  you  sustain  a  major \nwound and fall unconscious, make a note of your current \nentry number, ignore the current text and immediately go \nto  191.  In  the  event  of  temporary  insanity,  go  to  39;  for \nindefinite insanity, go to 364; for permanent insanity, go to \n550. These references are included on your character sheet.",
+      "text": "角色可能遭受身体或精神创伤。这些状况不一定会让冒险结束，但会打断当前行动。若你遭受重伤并失去意识，记下当前条目编号，忽略该条目剩余文字，立即前往191。暂时疯狂时前往39；不定期疯狂时前往364；永久疯狂时前往550。这些引用也印在调查员卡上。",
+      "sourcePageCanonicalTextSha256": "9417056e48d3dd8a397fe6807028d42195b6cb07cf79c545b06d8d01b70a8d56"
+    },
+    {
+      "id": "pdf-page-7-lines-21-22",
+      "sourceLocation": "pdf:visual:[[6,21],[6,22]]",
+      "sourceText": "You may play Dr. Nadelmann as a man or a woman. Decide \nthis before you begin your expedition.",
+      "text": "你可以把纳德尔曼博士扮演为男性或女性；请在探险开始前决定。",
+      "sourcePageCanonicalTextSha256": "9417056e48d3dd8a397fe6807028d42195b6cb07cf79c545b06d8d01b70a8d56"
+    },
+    {
+      "id": "pdf-page-7-lines-23-34",
+      "sourceLocation": "pdf:visual:[[6,23],[6,24],[6,25],[6,26],[6,27],[6,28],[6,29],[6,30],[6,31],[6,32],[6,33],[6,34]]",
+      "sourceText": "You are the youngest PhD to be tenured at Miskatonic \nUniversity, in Arkham, Massachusetts. You are a rising star in \nthe new field of cultural anthropology; even your European \ncounterparts  are  impressed  by  your  cascade  of  learned \narticles. Your theories are exciting, your classes are always \nfull, and your students idolize you. Previous expeditions on \nyour résumé have been just sensational enough to draw the \nfavorable attention of the press to the university in general, \nand to the department of anthropology in particular. Rumors \nabound about large private endowments for your specialty. \nYour department head and collegiate administrators often \ninvite you to dinner.",
+      "text": "你是密斯卡托尼克大学最年轻的终身教职博士，任职于马萨诸塞州阿卡姆。你是新兴文化人类学领域的后起之秀，连欧洲同行也对你接连发表的学术文章印象深刻。你的理论令人兴奋，课程总是满座，学生们崇拜你。你以往的探险经历足够轰动，让媒体关注大学，尤其是人类学系。关于私人基金会大笔资助你研究方向的传闻不绝于耳，系主任和校方管理人员常邀请你共进晚餐。",
+      "sourcePageCanonicalTextSha256": "9417056e48d3dd8a397fe6807028d42195b6cb07cf79c545b06d8d01b70a8d56"
+    },
+    {
+      "id": "pdf-page-7-lines-38-47",
+      "sourceLocation": "pdf:visual:[[6,38],[6,39],[6,40],[6,41],[6,42],[6,43],[6,44],[6,45],[6,46],[6,47]]",
+      "sourceText": "Dr.  Nadelmann’s  investigator  sheet  can  be  found  on \npage 110. You may allocate 360 points among Nadelmann’s \nprofessional skills—these are: Anthropology, History, Library \nUse,  Natural  World,  Other  Language,  Own  Language \n(English),  Psychology,  and  Persuade.  Your  character  must \nhave at least 75% in Anthropology.\nNadelmann also has 180 points of personal interest skill \npoints to spend. Allocate these as you like, but for fieldwork, \nyou  might  want  to  consider  Firearms  (Rifle/Shotgun), \nNavigate, Pilot (Boat), and Survival (Woodland).",
+      "text": "纳德尔曼调查员卡见第110页。你可以把360点分配给纳德尔曼的职业技能：人类学、历史、图书馆使用、自然界、其他语言、母语（英语）、心理学和说服。人类学最终必须达到至少75%。\n纳德尔曼另有180点兴趣技能点，可以自行分配。用于野外工作时，可以考虑枪械（步枪／霰弹枪）、导航、驾驶（船只）和生存（林地）。",
+      "sourcePageCanonicalTextSha256": "9417056e48d3dd8a397fe6807028d42195b6cb07cf79c545b06d8d01b70a8d56"
+    }
+  ],
+  "quickReference": {
+    "sourcePages": [
+      112,
+      114,
+      116,
+      118,
+      120
+    ],
+    "visualSources": [
+      {
+        "pdfPage": 112,
+        "printedPage": 111,
+        "ocrJsonPath": "alone-against-frost/ocr/page-112.json",
+        "ocrJsonSha256": "e52ed36392ab122a85ae4bdae7b7b3ca2723add76e3b6744da81df22551e92df",
+        "renderPath": "alone-against-frost/ocr/page-112.png",
+        "renderSha256": "69db4a05ce2bd62e4838fd1fb7485e54f7dfe85c94e9d56d5639302b7ab8a6f1"
+      },
+      {
+        "pdfPage": 114,
+        "printedPage": 113,
+        "ocrJsonPath": "alone-against-frost/ocr/page-114.json",
+        "ocrJsonSha256": "c9d405ee4cf689f7187a1b28dd01bda6a2d103a699c6d65656fb7a09777f7904",
+        "renderPath": "alone-against-frost/ocr/page-114.png",
+        "renderSha256": "0a7f6407d0c330562393992097f5b5ad9c2489c7e8992106541045cd8e408c75"
+      },
+      {
+        "pdfPage": 116,
+        "printedPage": 115,
+        "ocrJsonPath": "alone-against-frost/ocr/page-116.json",
+        "ocrJsonSha256": "d75691f108ae6deed463d6a3fb0956923b80e648de6c1582ba54b7203c41a2a7",
+        "renderPath": "alone-against-frost/ocr/page-116.png",
+        "renderSha256": "2986d83a375f3cbdf0e5310c11c18b368ded89221693fe6469359e26120e1d77"
+      },
+      {
+        "pdfPage": 118,
+        "printedPage": 117,
+        "ocrJsonPath": "alone-against-frost/ocr/page-118.json",
+        "ocrJsonSha256": "36edb33f46386203e2deb0393eac3436702b46f0a3a0969bad114947eab17c2c",
+        "renderPath": "alone-against-frost/ocr/page-118.png",
+        "renderSha256": "e32121e40a9cbc4bd0ef4c1a779540bf99b57b564b8834a62c9e7dcc35621359"
+      },
+      {
+        "pdfPage": 120,
+        "printedPage": 119,
+        "ocrJsonPath": "alone-against-frost/ocr/page-120.json",
+        "ocrJsonSha256": "4d534c00b9e1940f628f1393e761c8ab017ffa6622dee5ee6a29facdc22ecff4",
+        "renderPath": "alone-against-frost/ocr/page-120.png",
+        "renderSha256": "0ed3f4de5abfbc19f3c42bda739072c83dc50f5e608aba67d61bb2c8b388d618"
+      }
+    ],
+    "reviewBasis": "逐页对照原始渲染图；角色卡OCR仅作定位，规则和数值按渲染图及character-audit核对。",
+    "sections": [
+      {
+        "labelZh": "技能与属性检定难度",
+        "textZh": "大失败：100（或96以上）；失败：高于技能值；常规：不高于技能值；困难：不高于技能值一半；极难：不高于技能值五分之一；大成功：01。"
+      },
+      {
+        "labelZh": "孤注一掷",
+        "textZh": "必须说明重掷的合理理由；战斗检定和理智检定不可孤注一掷。"
+      },
+      {
+        "labelZh": "治疗与伤势",
+        "textZh": "急救恢复1点生命值；医学恢复1D3点生命值。单次攻击造成至少最大生命值一半的伤害即为重伤。生命值降至0且未受重伤：失去意识；生命值降至0且受重伤：濒死。濒死时，急救只能暂时稳定伤势，之后仍需要医学。未受重伤时自然恢复速度为每日1 HP；受重伤时每周进行一次治疗检定。"
+      }
+    ]
+  },
+  "characterSheets": [
+    {
+      "id": "nadelmann",
+      "nameZh": "L. C. 纳德尔曼博士",
+      "source": {
+        "pdfPage": 111,
+        "printedPage": 110,
+        "ocrJsonPath": "alone-against-frost/ocr/page-111.json",
+        "ocrJsonSha256": "bf20aee4661ae0f8ee939133ca4c9f5f528b9ce2e39c70dc13a337d0094eac4b",
+        "renderPath": "alone-against-frost/ocr/page-111.png",
+        "renderSha256": "ccd61f75e2f25f8ae8e8429a0ca6fe9c5e894601f994640ee3d7e3c249de736f",
+        "characterAuditSha256": "41b35e7fa7e1d87ce289565c673274de8e8658b356cf7dfb1b35a2533d010be0",
+        "visuallyReviewed": true
+      },
+      "role": "玩家角色",
+      "occupationZh": "人类学教授（密斯卡托尼克大学）",
+      "age": 29,
+      "sex": null,
+      "attributes": [
+        {
+          "key": "str",
+          "labelZh": "力量 STR",
+          "value": 65
+        },
+        {
+          "key": "con",
+          "labelZh": "体质 CON",
+          "value": 85
+        },
+        {
+          "key": "siz",
+          "labelZh": "体型 SIZ",
+          "value": 70
+        },
+        {
+          "key": "dex",
+          "labelZh": "敏捷 DEX",
+          "value": 70
+        },
+        {
+          "key": "app",
+          "labelZh": "外貌 APP",
+          "value": 70
+        },
+        {
+          "key": "pow",
+          "labelZh": "意志 POW",
+          "value": 80
+        },
+        {
+          "key": "int",
+          "labelZh": "智力 INT",
+          "value": 90
+        },
+        {
+          "key": "edu",
+          "labelZh": "教育 EDU",
+          "value": 90
+        }
+      ],
+      "derived": [
+        {
+          "key": "hp",
+          "labelZh": "生命值 HP",
+          "value": 15
+        },
+        {
+          "key": "sanity",
+          "labelZh": "理智 SAN",
+          "value": 80
+        },
+        {
+          "key": "luck",
+          "labelZh": "幸运 Luck",
+          "value": 85
+        },
+        {
+          "key": "mp",
+          "labelZh": "魔法值 MP",
+          "value": 16
+        },
+        {
+          "key": "movement",
+          "labelZh": "移动 MOV",
+          "value": 8
+        },
+        {
+          "key": "damageBonus",
+          "labelZh": "伤害加值 DB",
+          "value": "+1D4"
+        },
+        {
+          "key": "build",
+          "labelZh": "体格 Build",
+          "value": 1
+        }
+      ],
+      "skills": [],
+      "creationModeZh": "依第6页规则分配360职业技能点与180兴趣技能点；详见双点数池说明。",
+      "personalDescriptionZh": "纳德尔曼博士有非裔美国人与德裔美国人的多族裔背景，三十岁出头，黑发、高颧骨、脸部轮廓分明，戴眼镜。"
+    },
+    {
+      "id": "sylvia-davidson",
+      "nameZh": "西尔维娅·戴维森",
+      "source": {
+        "pdfPage": 113,
+        "printedPage": 112,
+        "ocrJsonPath": "alone-against-frost/ocr/page-113.json",
+        "ocrJsonSha256": "3fd1029d79934cdcef3b5c6b1264688988aad1dc734dcb8d74e7fef29ba3ba55",
+        "renderPath": "alone-against-frost/ocr/page-113.png",
+        "renderSha256": "307022fa31729baf0bba03ad050adef67415f05917e9a3ea7b2e6598312d6ba6",
+        "characterAuditSha256": "41b35e7fa7e1d87ce289565c673274de8e8658b356cf7dfb1b35a2533d010be0",
+        "visuallyReviewed": true
+      },
+      "role": "同行",
+      "occupationZh": "研究生",
+      "age": 23,
+      "sex": "F",
+      "attributes": [
+        {
+          "key": "str",
+          "labelZh": "力量 STR",
+          "value": 50
+        },
+        {
+          "key": "con",
+          "labelZh": "体质 CON",
+          "value": 60
+        },
+        {
+          "key": "siz",
+          "labelZh": "体型 SIZ",
+          "value": 50
+        },
+        {
+          "key": "dex",
+          "labelZh": "敏捷 DEX",
+          "value": 65
+        },
+        {
+          "key": "app",
+          "labelZh": "外貌 APP",
+          "value": 55
+        },
+        {
+          "key": "pow",
+          "labelZh": "意志 POW",
+          "value": 70
+        },
+        {
+          "key": "int",
+          "labelZh": "智力 INT",
+          "value": 60
+        },
+        {
+          "key": "edu",
+          "labelZh": "教育 EDU",
+          "value": 84
+        }
+      ],
+      "derived": [
+        {
+          "key": "hp",
+          "labelZh": "生命值 HP",
+          "value": 11
+        },
+        {
+          "key": "sanity",
+          "labelZh": "理智 SAN",
+          "value": 70
+        },
+        {
+          "key": "luck",
+          "labelZh": "幸运 Luck",
+          "value": 65
+        },
+        {
+          "key": "mp",
+          "labelZh": "魔法值 MP",
+          "value": 14
+        },
+        {
+          "key": "movement",
+          "labelZh": "移动 MOV",
+          "value": 8
+        },
+        {
+          "key": "damageBonus",
+          "labelZh": "伤害加值 DB",
+          "value": "none"
+        },
+        {
+          "key": "build",
+          "labelZh": "体格 Build",
+          "value": 0
+        }
+      ],
+      "skills": [
+        {
+          "key": "Anthropology",
+          "labelZh": "人类学",
+          "value": 40
+        },
+        {
+          "key": "Climb",
+          "labelZh": "攀爬",
+          "value": 40
+        },
+        {
+          "key": "Dodge",
+          "labelZh": "闪避",
+          "value": 32
+        },
+        {
+          "key": "Fighting (Brawl)",
+          "labelZh": "格斗（斗殴）",
+          "value": 25
+        },
+        {
+          "key": "Hatchet",
+          "labelZh": "短柄斧",
+          "value": 25
+        },
+        {
+          "key": "Firearms (Rifle/Shotgun)",
+          "labelZh": "枪械（步枪／霰弹枪）",
+          "value": 40
+        },
+        {
+          "key": "First Aid",
+          "labelZh": "急救",
+          "value": 35
+        },
+        {
+          "key": "Language (Own) English",
+          "labelZh": "语言（母语：英语）",
+          "value": 84
+        },
+        {
+          "key": "Listen",
+          "labelZh": "聆听",
+          "value": 50
+        },
+        {
+          "key": "Navigate",
+          "labelZh": "导航",
+          "value": 10
+        },
+        {
+          "key": "Pilot (Boat)",
+          "labelZh": "驾驶（船只）",
+          "value": 30
+        },
+        {
+          "key": "Psychology",
+          "labelZh": "心理学",
+          "value": 10
+        },
+        {
+          "key": "Psychoanalysis",
+          "labelZh": "精神分析",
+          "value": 1
+        },
+        {
+          "key": "Science (Geology)",
+          "labelZh": "科学（地质学）",
+          "value": 15
+        },
+        {
+          "key": "Sleight of Hand",
+          "labelZh": "妙手",
+          "value": 25
+        },
+        {
+          "key": "Stealth",
+          "labelZh": "潜行",
+          "value": 40
+        },
+        {
+          "key": "Survival (Woodland)",
+          "labelZh": "生存（林地）",
+          "value": 10
+        },
+        {
+          "key": "Swim",
+          "labelZh": "游泳",
+          "value": 40
+        },
+        {
+          "key": "Throw",
+          "labelZh": "投掷",
+          "value": 10
+        }
+      ],
+      "creationModeZh": "原书同行卡预设值；技能和派生属性已按卡面核对。",
+      "personalDescriptionZh": "西尔维娅是一位白人女性，深红褐色头发盘成发髻，神情认真，甚至略显严肃和傲慢，戴眼镜。她做事坚定，只是有时过于严肃。"
+    },
+    {
+      "id": "norman-falkner",
+      "nameZh": "诺曼·福克纳",
+      "source": {
+        "pdfPage": 115,
+        "printedPage": 114,
+        "ocrJsonPath": "alone-against-frost/ocr/page-115.json",
+        "ocrJsonSha256": "394702905b72f0eb3660b1001c1dbda17d2221c2b902e383c463f4e6306a5316",
+        "renderPath": "alone-against-frost/ocr/page-115.png",
+        "renderSha256": "758e99f9e611ed0c8dafda87206b04fc381ac7b380c6034d19d80155bedb84a3",
+        "characterAuditSha256": "41b35e7fa7e1d87ce289565c673274de8e8658b356cf7dfb1b35a2533d010be0",
+        "visuallyReviewed": true
+      },
+      "role": "同行",
+      "occupationZh": "研究生",
+      "age": 41,
+      "sex": "M",
+      "attributes": [
+        {
+          "key": "str",
+          "labelZh": "力量 STR",
+          "value": 60
+        },
+        {
+          "key": "con",
+          "labelZh": "体质 CON",
+          "value": 80
+        },
+        {
+          "key": "siz",
+          "labelZh": "体型 SIZ",
+          "value": 60
+        },
+        {
+          "key": "dex",
+          "labelZh": "敏捷 DEX",
+          "value": 70
+        },
+        {
+          "key": "app",
+          "labelZh": "外貌 APP",
+          "value": 45
+        },
+        {
+          "key": "pow",
+          "labelZh": "意志 POW",
+          "value": 75
+        },
+        {
+          "key": "int",
+          "labelZh": "智力 INT",
+          "value": 65
+        },
+        {
+          "key": "edu",
+          "labelZh": "教育 EDU",
+          "value": 74
+        }
+      ],
+      "derived": [
+        {
+          "key": "hp",
+          "labelZh": "生命值 HP",
+          "value": 14
+        },
+        {
+          "key": "sanity",
+          "labelZh": "理智 SAN",
+          "value": 75
+        },
+        {
+          "key": "luck",
+          "labelZh": "幸运 Luck",
+          "value": 55
+        },
+        {
+          "key": "mp",
+          "labelZh": "魔法值 MP",
+          "value": 15
+        },
+        {
+          "key": "movement",
+          "labelZh": "移动 MOV",
+          "value": 7
+        },
+        {
+          "key": "damageBonus",
+          "labelZh": "伤害加值 DB",
+          "value": "none"
+        },
+        {
+          "key": "build",
+          "labelZh": "体格 Build",
+          "value": 0
+        }
+      ],
+      "skills": [
+        {
+          "key": "Anthropology",
+          "labelZh": "人类学",
+          "value": 30
+        },
+        {
+          "key": "Climb",
+          "labelZh": "攀爬",
+          "value": 45
+        },
+        {
+          "key": "Dodge",
+          "labelZh": "闪避",
+          "value": 35
+        },
+        {
+          "key": "Fighting (Brawl)",
+          "labelZh": "格斗（斗殴）",
+          "value": 55
+        },
+        {
+          "key": "Hatchet",
+          "labelZh": "短柄斧",
+          "value": 55
+        },
+        {
+          "key": "Firearms (Rifle/Shotgun)",
+          "labelZh": "枪械（步枪／霰弹枪）",
+          "value": 50
+        },
+        {
+          "key": "First Aid",
+          "labelZh": "急救",
+          "value": 35
+        },
+        {
+          "key": "Language (Own) English",
+          "labelZh": "语言（母语：英语）",
+          "value": 74
+        },
+        {
+          "key": "Listen",
+          "labelZh": "聆听",
+          "value": 30
+        },
+        {
+          "key": "Navigate",
+          "labelZh": "导航",
+          "value": 10
+        },
+        {
+          "key": "Pilot (Boat)",
+          "labelZh": "驾驶（船只）",
+          "value": 40
+        },
+        {
+          "key": "Psychology",
+          "labelZh": "心理学",
+          "value": 25
+        },
+        {
+          "key": "Psychoanalysis",
+          "labelZh": "精神分析",
+          "value": 1
+        },
+        {
+          "key": "Science (Geology)",
+          "labelZh": "科学（地质学）",
+          "value": 20
+        },
+        {
+          "key": "Sleight of Hand",
+          "labelZh": "妙手",
+          "value": 10
+        },
+        {
+          "key": "Stealth",
+          "labelZh": "潜行",
+          "value": 40
+        },
+        {
+          "key": "Survival (Woodland)",
+          "labelZh": "生存（林地）",
+          "value": 20
+        },
+        {
+          "key": "Swim",
+          "labelZh": "游泳",
+          "value": 40
+        },
+        {
+          "key": "Track",
+          "labelZh": "追踪",
+          "value": 15
+        }
+      ],
+      "creationModeZh": "原书同行卡预设值；技能和派生属性已按卡面核对。",
+      "personalDescriptionZh": "诺曼是一位亚裔男性，黑色短发、方下巴、神情严肃。他不总能迅速领会微妙之处，但会以执着弥补；你很看重他在野外的这份品质。"
+    },
+    {
+      "id": "charlie-foxtail",
+      "nameZh": "查理·福克斯泰尔",
+      "source": {
+        "pdfPage": 117,
+        "printedPage": 116,
+        "ocrJsonPath": "alone-against-frost/ocr/page-117.json",
+        "ocrJsonSha256": "02b7965a3a769d92a72c1b8f8e64d21b3296775b286c69d0e3298b6e60000b37",
+        "renderPath": "alone-against-frost/ocr/page-117.png",
+        "renderSha256": "400754cc4ec857ed59c9ed9561ba0cf18373399d890975ad29284b6bc0214e64",
+        "characterAuditSha256": "41b35e7fa7e1d87ce289565c673274de8e8658b356cf7dfb1b35a2533d010be0",
+        "visuallyReviewed": true
+      },
+      "role": "同行",
+      "occupationZh": "荒野向导",
+      "age": 35,
+      "sex": "F",
+      "attributes": [
+        {
+          "key": "str",
+          "labelZh": "力量 STR",
+          "value": 65
+        },
+        {
+          "key": "con",
+          "labelZh": "体质 CON",
+          "value": 85
+        },
+        {
+          "key": "siz",
+          "labelZh": "体型 SIZ",
+          "value": 55
+        },
+        {
+          "key": "dex",
+          "labelZh": "敏捷 DEX",
+          "value": 55
+        },
+        {
+          "key": "app",
+          "labelZh": "外貌 APP",
+          "value": 60
+        },
+        {
+          "key": "pow",
+          "labelZh": "意志 POW",
+          "value": 55
+        },
+        {
+          "key": "int",
+          "labelZh": "智力 INT",
+          "value": 50
+        },
+        {
+          "key": "edu",
+          "labelZh": "教育 EDU",
+          "value": 43
+        }
+      ],
+      "derived": [
+        {
+          "key": "hp",
+          "labelZh": "生命值 HP",
+          "value": 14
+        },
+        {
+          "key": "sanity",
+          "labelZh": "理智 SAN",
+          "value": 55
+        },
+        {
+          "key": "luck",
+          "labelZh": "幸运 Luck",
+          "value": 45
+        },
+        {
+          "key": "mp",
+          "labelZh": "魔法值 MP",
+          "value": 11
+        },
+        {
+          "key": "movement",
+          "labelZh": "移动 MOV",
+          "value": 8
+        },
+        {
+          "key": "damageBonus",
+          "labelZh": "伤害加值 DB",
+          "value": "none"
+        },
+        {
+          "key": "build",
+          "labelZh": "体格 Build",
+          "value": 0
+        }
+      ],
+      "skills": [
+        {
+          "key": "Anthropology",
+          "labelZh": "人类学",
+          "value": 1
+        },
+        {
+          "key": "Climb",
+          "labelZh": "攀爬",
+          "value": 80
+        },
+        {
+          "key": "Dodge",
+          "labelZh": "闪避",
+          "value": 27
+        },
+        {
+          "key": "Fighting (Brawl)",
+          "labelZh": "格斗（斗殴）",
+          "value": 50
+        },
+        {
+          "key": "Axe",
+          "labelZh": "斧",
+          "value": 50
+        },
+        {
+          "key": "Firearms (Rifle/Shotgun)",
+          "labelZh": "枪械（步枪／霰弹枪）",
+          "value": 70
+        },
+        {
+          "key": "First Aid",
+          "labelZh": "急救",
+          "value": 50
+        },
+        {
+          "key": "Language (Other) English",
+          "labelZh": "语言（其他：英语）",
+          "value": 43
+        },
+        {
+          "key": "Language (Own) Tsuut’ina",
+          "labelZh": "语言（母语：图苏蒂纳语）",
+          "value": 65
+        },
+        {
+          "key": "Listen",
+          "labelZh": "聆听",
+          "value": 70
+        },
+        {
+          "key": "Navigate",
+          "labelZh": "导航",
+          "value": 70
+        },
+        {
+          "key": "Pilot (Boat)",
+          "labelZh": "驾驶（船只）",
+          "value": 60
+        },
+        {
+          "key": "Psychology",
+          "labelZh": "心理学",
+          "value": 25
+        },
+        {
+          "key": "Psychoanalysis",
+          "labelZh": "精神分析",
+          "value": 1
+        },
+        {
+          "key": "Science (Geology)",
+          "labelZh": "科学（地质学）",
+          "value": 1
+        },
+        {
+          "key": "Sleight of Hand",
+          "labelZh": "妙手",
+          "value": 10
+        },
+        {
+          "key": "Stealth",
+          "labelZh": "潜行",
+          "value": 85
+        },
+        {
+          "key": "Survival (Woodland)",
+          "labelZh": "生存（林地）",
+          "value": 85
+        },
+        {
+          "key": "Swim",
+          "labelZh": "游泳",
+          "value": 50
+        },
+        {
+          "key": "Track",
+          "labelZh": "追踪",
+          "value": 80
+        }
+      ],
+      "creationModeZh": "原书同行卡预设值；技能和派生属性已按卡面核对。",
+      "personalDescriptionZh": "查理是一位原住民女性，黑发、高颧骨、面部轮廓分明。她谨慎，对你的探险意图抱有怀疑，但你很快发现她是可靠的合作伙伴。"
+    },
+    {
+      "id": "bernard-ebstein",
+      "nameZh": "伯纳德·埃布斯坦",
+      "source": {
+        "pdfPage": 119,
+        "printedPage": 118,
+        "ocrJsonPath": "alone-against-frost/ocr/page-119.json",
+        "ocrJsonSha256": "864b05ced9466828560e300eebf328e8f48eacdbdd76deed16de694948bbdb42",
+        "renderPath": "alone-against-frost/ocr/page-119.png",
+        "renderSha256": "30a47d8a4c904b5ef6f6eddc55bdd0bdf68d2f1f7faef9bf4f9992c83359307a",
+        "characterAuditSha256": "41b35e7fa7e1d87ce289565c673274de8e8658b356cf7dfb1b35a2533d010be0",
+        "visuallyReviewed": true
+      },
+      "role": "同行",
+      "occupationZh": "研究生",
+      "age": 22,
+      "sex": "M",
+      "attributes": [
+        {
+          "key": "str",
+          "labelZh": "力量 STR",
+          "value": 55
+        },
+        {
+          "key": "con",
+          "labelZh": "体质 CON",
+          "value": 70
+        },
+        {
+          "key": "siz",
+          "labelZh": "体型 SIZ",
+          "value": 65
+        },
+        {
+          "key": "dex",
+          "labelZh": "敏捷 DEX",
+          "value": 60
+        },
+        {
+          "key": "app",
+          "labelZh": "外貌 APP",
+          "value": 75
+        },
+        {
+          "key": "pow",
+          "labelZh": "意志 POW",
+          "value": 70
+        },
+        {
+          "key": "int",
+          "labelZh": "智力 INT",
+          "value": 55
+        },
+        {
+          "key": "edu",
+          "labelZh": "教育 EDU",
+          "value": 82
+        }
+      ],
+      "derived": [
+        {
+          "key": "hp",
+          "labelZh": "生命值 HP",
+          "value": 13
+        },
+        {
+          "key": "sanity",
+          "labelZh": "理智 SAN",
+          "value": 70
+        },
+        {
+          "key": "luck",
+          "labelZh": "幸运 Luck",
+          "value": 25
+        },
+        {
+          "key": "mp",
+          "labelZh": "魔法值 MP",
+          "value": 14
+        },
+        {
+          "key": "movement",
+          "labelZh": "移动 MOV",
+          "value": 7
+        },
+        {
+          "key": "damageBonus",
+          "labelZh": "伤害加值 DB",
+          "value": "none"
+        },
+        {
+          "key": "build",
+          "labelZh": "体格 Build",
+          "value": 0
+        }
+      ],
+      "skills": [
+        {
+          "key": "Anthropology",
+          "labelZh": "人类学",
+          "value": 40
+        },
+        {
+          "key": "Climb",
+          "labelZh": "攀爬",
+          "value": 60
+        },
+        {
+          "key": "Dodge",
+          "labelZh": "闪避",
+          "value": 30
+        },
+        {
+          "key": "Fighting (Brawl)",
+          "labelZh": "格斗（斗殴）",
+          "value": 25
+        },
+        {
+          "key": "Hatchet",
+          "labelZh": "短柄斧",
+          "value": 25
+        },
+        {
+          "key": "Firearms (Rifle/Shotgun)",
+          "labelZh": "枪械（步枪／霰弹枪）",
+          "value": 25
+        },
+        {
+          "key": "First Aid",
+          "labelZh": "急救",
+          "value": 30
+        },
+        {
+          "key": "Language (Own) English",
+          "labelZh": "语言（母语：英语）",
+          "value": 82
+        },
+        {
+          "key": "Listen",
+          "labelZh": "聆听",
+          "value": 35
+        },
+        {
+          "key": "Navigate",
+          "labelZh": "导航",
+          "value": 65
+        },
+        {
+          "key": "Pilot (Boat)",
+          "labelZh": "驾驶（船只）",
+          "value": 30
+        },
+        {
+          "key": "Psychology",
+          "labelZh": "心理学",
+          "value": 10
+        },
+        {
+          "key": "Psychoanalysis",
+          "labelZh": "精神分析",
+          "value": 1
+        },
+        {
+          "key": "Science (Geology)",
+          "labelZh": "科学（地质学）",
+          "value": 15
+        },
+        {
+          "key": "Sleight of Hand",
+          "labelZh": "妙手",
+          "value": 10
+        },
+        {
+          "key": "Stealth",
+          "labelZh": "潜行",
+          "value": 35
+        },
+        {
+          "key": "Survival (Woodland)",
+          "labelZh": "生存（林地）",
+          "value": 10
+        },
+        {
+          "key": "Swim",
+          "labelZh": "游泳",
+          "value": 40
+        },
+        {
+          "key": "Track",
+          "labelZh": "追踪",
+          "value": 10
+        }
+      ],
+      "creationModeZh": "原书同行卡预设值；技能和派生属性已按卡面核对。",
+      "personalDescriptionZh": "伯纳德是一位白人男性，浅棕色卷发、圆脸和丰满面颊，带着腼腆的笑容。他始终积极乐观，也乐于付出时间帮助别人。"
+    }
+  ],
+  "status": "translated-source-linked-review-required",
+  "runtimePlayable": false
+}

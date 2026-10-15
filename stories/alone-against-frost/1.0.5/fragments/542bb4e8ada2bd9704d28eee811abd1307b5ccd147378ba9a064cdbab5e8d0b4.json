@@ -1,0 +1,25 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "nodeIds": [
+    "609"
+  ],
+  "text": [
+    "山谷的热浪让西尔维娅疲惫不堪。你让她休息，安排伯纳德陪着她；你和诺曼继续侦察。",
+    "约两小时后，你们回来时看见一幅骇人的景象：伯纳德死在你们留下他的树林里，头部被钝器砸碎。尸体旁有一截染血木头。你们惊慌地寻找西尔维娅，却不见她踪影。你只找到一些脚印——巨人留下的足迹。"
+  ],
+  "reading": {
+    "zh-CN": {
+      "title": "冰霜独行 · 609",
+      "textRef": "default"
+    },
+    "en": {
+      "title": "Alone Against the Frost · 609",
+      "text": [
+        "The heat of the valley tires Sylvia. You let her rest and ask Bernard to keep her company while you and Norman continue scouting.",
+        "About two hours later, the pair of you return to an appalling sight. Bernard lies dead in the grove where you left him, his head broken by a blunt object. A bloodied piece of wood lies beside the body. Frantically you search for Sylvia, but she is not to be found. Instead, you find some footprints—those of a giant."
+      ]
+    }
+  }
+}
