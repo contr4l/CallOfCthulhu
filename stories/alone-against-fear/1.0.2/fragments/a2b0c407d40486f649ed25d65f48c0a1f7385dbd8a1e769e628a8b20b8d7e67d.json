@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-special-event-2"
+  ],
+  "text": [
+    "2\nYou find a blood spattered random object from either the\nRandom Objects table or the Useful Stuff table. You may\nignore it or pick it up and play event #31."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special event 2",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件 2",
+      "text": [
+        "2\n发现一件沾有血迹的随机物品，可从随机物品表或有用物品表中选择来源。你可以无视它，或捡起并游玩事件#31。"
+      ]
+    }
+  }
+}

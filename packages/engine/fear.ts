@@ -90,6 +90,63 @@ function findBox(state: FearState, id: string) {
 }
 function currentBox(state: FearState) { return findBox(state, state.currentBoxId); }
 function appendLog(state: FearState, line: string) { state.log.push(line); if (state.log.length > 100) state.log.shift(); }
+function finishDefeatedFearCombat(story: FearStory, state: FearState, combat: FearCombat, dice: FearDice) {
+  if (state.combat !== combat || combat.count > 0) return;
+  const def = story.fear;
+  const enemy = def.enemies[combat.enemyId];
+  if (enemy?.infectionTrigger === "combat-end-after-damage" && enemy.infectionChance && combat.damageTakenThisEncounter) {
+    const [numerator, denominator] = enemy.infectionChance, infectionRoll = rollSourceChance(dice, state, `${enemy.label}遭遇结束感染检定`, numerator, denominator).face;
+    appendLog(state, `${enemy.label}遭遇结束感染检定: ${infectionRoll}/${denominator}`);
+    if (infectionRoll <= numerator) { installInfection(state, combat.enemyId, enemy.infectionDamage ?? 2); appendLog(state, `感染：须在3格内使用急救包中的1点急救值，否则额外损失${enemy.infectionDamage ?? 2}点生命。`); }
+  }
+  if (enemy?.tags?.includes("vampire")) state.missionProgress[`vampire-return:${combat.enemyId}`] = true;
+  if (enemy?.tags?.some(tag => tag === "unique" || tag === "killer" || tag === "unique-boss")) state.defeated.push(combat.enemyId);
+  if (state.missionProgress.targetId === combat.enemyId) state.missionProgress.targetDefeated = true;
+  if (state.missionRules?.missionId === "2" && state.missionRules.hunt.targetId === combat.enemyId)
+    state.missionRules = transitionFearMission(state.missionRules, { type: "hunt-target-defeated", enemyId: combat.enemyId }).state;
+  if (combat.enemyId === "coven-witch" && state.missionRules?.missionId === "5") {
+    const witchId = String(state.missionProgress["witch-active-box"] ?? "");
+    if (!witchId) throw new Error("Mission witch combat lost its map-box identity");
+      resolveMissionWitch(story, state, witchId, combat.capturedWitch === true, dice);
+  }
+  const groupsRemain = combat.groups?.some(group => group.enemyLives.length) ?? false;
+  if (groupsRemain) appendLog(state, `${def.enemies[combat.enemyId]?.label ?? combat.enemyId}已被击败；其他敌群仍在战斗。`);
+  else {
+    const resultEnemyId = combat.groups?.[0]?.enemyId ?? combat.enemyId;
+    const outcome = combat.specialRule === "pied-piper" ? "fled" : combat.capturedWitch ? "captured" : "defeated";
+    if (outcome === "defeated" || outcome === "fled") runFamilyEvent(story, state, {
+      type: "combat-end", enemyId: combat.enemyId, outcome, defeatedCount: combat.defeatedCount,
+      remainingLife: combat.enemyLives[0] ?? 0,
+    }, dice);
+    if (combat.groups?.length) for (const group of combat.groups) {
+      if (group.enemyId === combat.enemyId || group.enemyLives.length) continue;
+      runFamilyEvent(story, state, { type: "combat-end", enemyId: group.enemyId, outcome: "defeated",
+        defeatedCount: group.defeatedCount, remainingLife: 0 }, dice);
+    }
+    if (outcome === "defeated") awardCombatVictoryXp(def, state, combat, combat.enemyId);
+    if (outcome === "defeated" && enemy?.specialRule === "vampire-vetala" && def.rules.randomItemTable)
+      state.deferredTables.push(def.rules.randomItemTable, def.rules.randomItemTable);
+    if (outcome === "defeated" && ["unique-vampires-1", "unique-vampires-2"].includes(combat.enemyId) && def.rules.randomItemTable)
+      state.deferredTables.push(def.rules.randomItemTable);
+    if (outcome === "defeated" && combat.enemyId === "unique-vampires-3") {
+      state.deferredOperations ??= [];
+      state.deferredOperations.push({ op: "item", itemId: "rope", amount: 1 });
+    }
+    state.combat = undefined; state.combatResult = { enemyId: resultEnemyId, outcome, xpAwarded: outcome === "defeated" ? combat.xpAwarded : undefined,
+      groupDefeated: combat.groups?.length ? Object.fromEntries(combat.groups.map(group => [group.enemyId, group.defeatedCount])) : undefined };
+    delete state.missionProgress["flag:fire-ban"];
+    delete state.missionProgress["flag:torch-extinguished"];
+    consumeNextCombatModifiers(state);
+    if (outcome === "defeated" && enemy?.tags?.includes("vampire")
+      && !state.destroyedVampires?.includes(combat.enemyId)) {
+      const options = ["leave-body"];
+      if ((state.inventory.stakes ?? 0) > 0 && state.weaponIds.includes("hammer")) options.push("stake-body");
+      if ((state.inventory["molotov-cocktail"] ?? 0) > 0 && ((state.inventory.matches ?? 0) > 0 || (state.inventory.lighter ?? 0) > 0)) options.push("burn-body");
+      if (options.length > 1) state.pending = { kind: "vampire-body", options,
+        data: { enemyId: combat.enemyId, prompt: "可按原书钉住尸体；网页适配允许用已有燃烧瓶和点火工具代替来源未提供的燃料罐。" } };
+    }
+  }
+}
 function applyFearItemEffects(story: FearStory, state: FearState, effects: ReturnType<typeof applyFearItemSourceAction>["effects"]) {
   for (const effect of effects) {
     if (effect.type === "log") appendLog(state, effect.text);
@@ -103,9 +160,21 @@ function applyFearItemEffects(story: FearStory, state: FearState, effects: Retur
       const group = combat.groups?.find(value => value.enemyId === effect.enemyId && value.enemyLives.length);
       const lives = group?.enemyLives ?? (combat.enemyId === effect.enemyId ? combat.enemyLives : undefined);
       if (!lives?.length) continue;
+      if (group) {
+        activateCombatGroup(story.fear, combat, group);
+        combat.enemyId = group.enemyId;
+        combat.enemyLives = group.enemyLives;
+        combat.defeatedCount = group.defeatedCount;
+        combat.count = group.enemyLives.length;
+        combat.enemyLife = group.enemyLives[0] ?? 0;
+      }
+      if (story.fear.enemies[effect.enemyId]?.immuneWeaponTags?.includes(effect.damageType)) {
+        appendLog(state, `${story.fear.enemies[effect.enemyId].label}免疫火焰伤害。`);
+        continue;
+      }
       const damage = Math.min(effect.amount, lives[0]);
       lives[0] -= damage;
-      if (lives[0] <= 0) { lives.shift(); if (group) group.defeatedCount++; else combat.defeatedCount++; }
+      if (lives[0] <= 0) { discardSleepingFront(combat); lives.shift(); combat.defeatedCount++; }
       if (group) syncCombatGroup(combat, group);
       if (combat.enemyId === effect.enemyId || !combat.groups?.length) {
         combat.enemyLives = lives; combat.count = lives.length; combat.enemyLife = lives[0] ?? 0;
@@ -3505,61 +3574,7 @@ export function advanceFear(story: FearStory, current: FearState, action: FearAc
         appendLog(state, `${enemySpec.label}逃跑检定: ${fleeRoll}/${denominator}`);
         if (fleeRoll <= numerator) { runFamilyEvent(story, state, { type: "combat-end", enemyId: combat.enemyId, outcome: "fled", defeatedCount: combat.defeatedCount, remainingLife: combat.enemyLives[0] ?? 0 }, dice); state.combat = undefined; state.combatResult = { enemyId: combat.enemyId, outcome: "fled" }; delete state.missionProgress["flag:fire-ban"]; delete state.missionProgress["flag:torch-extinguished"]; appendLog(state, `${enemySpec.label}逃走。`); }
       }
-      if (combat.count <= 0) {
-        const enemy = def.enemies[combat.enemyId];
-        if (enemy?.infectionTrigger === "combat-end-after-damage" && enemy.infectionChance && combat.damageTakenThisEncounter) {
-          const [numerator, denominator] = enemy.infectionChance, infectionRoll = rollSourceChance(dice, state, `${enemy.label}遭遇结束感染检定`, numerator, denominator).face;
-          appendLog(state, `${enemy.label}遭遇结束感染检定: ${infectionRoll}/${denominator}`);
-          if (infectionRoll <= numerator) { installInfection(state, combat.enemyId, enemy.infectionDamage ?? 2); appendLog(state, `感染：须在3格内使用急救包中的1点急救值，否则额外损失${enemy.infectionDamage ?? 2}点生命。`); }
-        }
-        if (enemy?.tags?.includes("vampire")) state.missionProgress[`vampire-return:${combat.enemyId}`] = true;
-        if (enemy?.tags?.some(tag => tag === "unique" || tag === "killer" || tag === "unique-boss")) state.defeated.push(combat.enemyId);
-        if (state.missionProgress.targetId === combat.enemyId) state.missionProgress.targetDefeated = true;
-        if (state.missionRules?.missionId === "2" && state.missionRules.hunt.targetId === combat.enemyId)
-          state.missionRules = transitionFearMission(state.missionRules, { type: "hunt-target-defeated", enemyId: combat.enemyId }).state;
-        if (combat.enemyId === "coven-witch" && state.missionRules?.missionId === "5") {
-          const witchId = String(state.missionProgress["witch-active-box"] ?? "");
-          if (!witchId) throw new Error("Mission witch combat lost its map-box identity");
-            resolveMissionWitch(story, state, witchId, combat.capturedWitch === true, dice);
-        }
-        const groupsRemain = combat.groups?.some(group => group.enemyLives.length) ?? false;
-        if (groupsRemain) appendLog(state, `${def.enemies[combat.enemyId]?.label ?? combat.enemyId}已被击败；其他敌群仍在战斗。`);
-        else {
-          const resultEnemyId = combat.groups?.[0]?.enemyId ?? combat.enemyId;
-          const outcome = combat.specialRule === "pied-piper" ? "fled" : combat.capturedWitch ? "captured" : "defeated";
-          if (outcome === "defeated" || outcome === "fled") runFamilyEvent(story, state, {
-            type: "combat-end", enemyId: combat.enemyId, outcome, defeatedCount: combat.defeatedCount,
-            remainingLife: combat.enemyLives[0] ?? 0,
-          }, dice);
-          if (combat.groups?.length) for (const group of combat.groups) {
-            if (group.enemyId === combat.enemyId || group.enemyLives.length) continue;
-            runFamilyEvent(story, state, { type: "combat-end", enemyId: group.enemyId, outcome: "defeated",
-              defeatedCount: group.defeatedCount, remainingLife: 0 }, dice);
-          }
-          if (outcome === "defeated") awardCombatVictoryXp(def, state, combat, combat.enemyId);
-          if (outcome === "defeated" && enemy?.specialRule === "vampire-vetala" && def.rules.randomItemTable)
-            state.deferredTables.push(def.rules.randomItemTable, def.rules.randomItemTable);
-          if (outcome === "defeated" && ["unique-vampires-1", "unique-vampires-2"].includes(combat.enemyId) && def.rules.randomItemTable)
-            state.deferredTables.push(def.rules.randomItemTable);
-          if (outcome === "defeated" && combat.enemyId === "unique-vampires-3") {
-            state.deferredOperations ??= [];
-            state.deferredOperations.push({ op: "item", itemId: "rope", amount: 1 });
-          }
-          state.combat = undefined; state.combatResult = { enemyId: resultEnemyId, outcome, xpAwarded: outcome === "defeated" ? combat.xpAwarded : undefined,
-            groupDefeated: combat.groups?.length ? Object.fromEntries(combat.groups.map(group => [group.enemyId, group.defeatedCount])) : undefined };
-          delete state.missionProgress["flag:fire-ban"];
-          delete state.missionProgress["flag:torch-extinguished"];
-          consumeNextCombatModifiers(state);
-          if (outcome === "defeated" && enemy?.tags?.includes("vampire")
-            && !state.destroyedVampires?.includes(combat.enemyId)) {
-            const options = ["leave-body"];
-            if ((state.inventory.stakes ?? 0) > 0 && state.weaponIds.includes("hammer")) options.push("stake-body");
-            if ((state.inventory["molotov-cocktail"] ?? 0) > 0 && ((state.inventory.matches ?? 0) > 0 || (state.inventory.lighter ?? 0) > 0)) options.push("burn-body");
-            if (options.length > 1) state.pending = { kind: "vampire-body", options,
-              data: { enemyId: combat.enemyId, prompt: "可按原书钉住尸体；网页适配允许用已有燃烧瓶和点火工具代替来源未提供的燃料罐。" } };
-          }
-        }
-      }
+      finishDefeatedFearCombat(story, state, combat, dice);
       if (state.combat) combat.playerFirst = false;
       if (state.combat && combat.groups?.length) restorePrimaryCombatGroup(def, combat);
       if (!state.combat && !state.pending) drainDeferredTables(story, state, dice);
@@ -5027,6 +5042,14 @@ export function advanceFear(story: FearStory, current: FearState, action: FearAc
         const result = applyFearItemSourceAction(def, state, action, dice, moment);
         if (!result.handled) throw new Error("The selected source item is no longer available");
         applyFearItemEffects(story, state, result.effects);
+        if (id === "source-spray-can" && state.combat) {
+          const combat = state.combat;
+          finishDefeatedFearCombat(story, state, combat, dice);
+          if (state.combat) {
+            combat.playerFirst = false;
+            if (combat.groups?.length) restorePrimaryCombatGroup(def, combat);
+          } else if (!state.pending) drainDeferredTables(story, state, dice);
+        }
         break;
       }
       if (id === "first-aid") {

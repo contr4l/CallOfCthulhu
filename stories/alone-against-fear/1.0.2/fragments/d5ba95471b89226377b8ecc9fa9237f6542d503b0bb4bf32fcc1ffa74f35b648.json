@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "23"
+  ],
+  "text": [
+    "You bring the mirror to the the\nwalnut tree and shatter it.\nImmediately, the ghosts of the\nRosens materialize from  the\nshattered mirror. Seven ghosts of\nchildren emerge from the ground\nand assault them. As the nine\nfigures engage each other in a\nghostly melee, you feel the curse\nbeing lifted from you, and you run\naway. You turn your head one last\ntime as Seth Rosen screams: “You\ndo not understand what you have\ndone! Snowy Samuel! Snowy\nSamuel will come and the witch\nchildren will take your soul!”\nThe cries fade in the distance as\nyou return to your exploration.\nWrite the keyword SNOWY on your\nplay sheet."
+  ],
+  "reading": {
+    "en": {
+      "title": "23 - The fate of the Rosens",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "23 - 罗森一家的命运",
+      "text": [
+        "你把镜子带到胡桃树下，然后将它打碎。罗森夫妇的鬼魂立刻从碎镜中显现。7个孩子的鬼魂从地里冒出，扑向他们。9个身影在幽灵般的厮杀中缠斗时，你感到诅咒解除，便拔腿逃走。最后回头时，你听见塞斯·罗森大喊：“你根本不明白自己做了什么！雪诺·塞缪尔！雪诺·塞缪尔会来，女巫孩子们会夺走你的灵魂！”\n呼喊声渐渐远去，你回到小镇继续探索。在游戏记录表上写下关键词SNOWY。"
+      ]
+    }
+  }
+}

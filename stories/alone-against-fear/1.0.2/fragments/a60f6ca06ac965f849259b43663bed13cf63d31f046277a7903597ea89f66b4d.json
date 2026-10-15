@@ -1,0 +1,37 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-table-random-encounter"
+  ],
+  "text": [
+    "1\n1,2) Roll on the Slashers table. Reroll any slasher that you\nhave already defeated in the campaign. If all slashers have\nbeen defeated, treat as no encounter.\n3-6) Roll on the Witch Children table.",
+    "2\n1-3) Roll on the Demonic Horror table.\n4-6) Roll on the Beasts table.",
+    "3\n1,2) Roll on the Lab Horror table.\n3-5) Roll on the Undead table.",
+    "6) Roll on the Unique Vampire table.",
+    "4\n1-4) Roll on the Possessed table.\n5,6) Roll on the Living Dolls table.",
+    "5\n1-5) Roll on the Ghosts table.",
+    "6) Roll on the Aliens table.",
+    "6\n1-3) Roll on the Unique Vampire table.\n4-6) Roll on the Unique Zombie table. When rolling on\ntables of Unique creatures, reroll any monster that was\nalready killed. If all unique monsters have been killed,\ntreat as no encounter."
+  ],
+  "reading": {
+    "en": {
+      "title": "Random encounter table (roll d6, then another d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "随机遭遇表（掷D6，再掷一次D6）",
+      "text": [
+        "1\n1、2）掷杀手表。若掷出本战役中已经击败的杀手则重掷。若所有杀手都已击败，则视为没有遭遇。\n3–6）掷女巫之子表。",
+        "2\n1–3）掷恶魔恐怖表。\n4–6）掷野兽表。",
+        "3\n1、2）掷实验室恐怖表。\n3–5）掷不死生物表。",
+        "6）掷独特吸血鬼表。",
+        "4\n1–4）掷附身者表。\n5、6）掷活人偶表。",
+        "5\n1–5）掷鬼魂表。",
+        "6）掷外星人表。",
+        "6\n1–3）掷独特吸血鬼表。\n4–6）掷独特僵尸表。掷独特生物表时，若结果是已经杀死的怪物则重掷。若所有独特怪物都已杀死，则视为没有遭遇。"
+      ]
+    }
+  }
+}

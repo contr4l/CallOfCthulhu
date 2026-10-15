@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-ending-insane"
+  ],
+  "text": [
+    "If your character is killed (goes to 0\nLife) or becomes insane (goes to 0\nSanity), you lose the game and\nmust start over with a new\ncharacter. Do not feel bad if this\nhappens — it takes a combination\nof luck and sound decisions to win."
+  ],
+  "reading": {
+    "en": {
+      "title": "Character Death or Insanity",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "角色陷入疯狂",
+      "text": [
+        "若角色死亡（生命降至0）或陷入疯狂（理智降至0），你就输掉游戏，必须创建新角色重新开始。不要因此气馁——获胜需要运气和审慎决策兼备。"
+      ]
+    }
+  }
+}

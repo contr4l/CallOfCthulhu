@@ -180,7 +180,7 @@ export function applyFearItemSourceDamage(state: FearState, damage: number, dice
       if (remainingLife === 0) {
         // Source: when the body armor loses its last Life it is rendered useless — the piece is
         // consumed, unworn, and the durability key cleared so a later piece lazy-initializes at 4.
-        delete state.inventory["bulletproof-vest"];
+        consume(state, "bulletproof-vest");
         state.missionProgress["fear:item:worn:bulletproof-vest"] = false;
         delete state.missionProgress["fear:item:vest:life"];
         effects.push({ type: "log", text: "护甲失去最后一点耐久，报废。" });
@@ -190,7 +190,7 @@ export function applyFearItemSourceDamage(state: FearState, damage: number, dice
       const remainingLife = Math.max(0, number(state, "fear:item:helmet:life") - damage);
       state.missionProgress["fear:item:helmet:life"] = remainingLife;
       if (remainingLife === 0) {
-        delete state.inventory.helmet;
+        consume(state, "helmet");
         state.missionProgress["fear:item:worn:helmet"] = false;
         delete state.missionProgress["fear:item:helmet:life"];
         effects.push({ type: "log", text: "头盔失去最后一点耐久，报废。" });

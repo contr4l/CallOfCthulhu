@@ -11,7 +11,7 @@ import type { SceneView } from "../packages/contracts/index.js";
 import { runtimeFingerprint } from "../tools/story/runtime-fingerprint.js";
 
 test("M4 public Armory routes count identical firearms only when the shared pool supports each copy", () => {
-  const manifestPath = resolve("work/alone-against-fear/preview-final/alone-against-fear/1.0.1/story.json");
+  const manifestPath = resolve("stories/alone-against-fear/1.0.2/story.json");
   const manifest = readFileSync(manifestPath);
   const story = loadFragmentStory(manifestPath, input => runtimeGraphSchema.parse(input), validateStory);
   validateStory(story);

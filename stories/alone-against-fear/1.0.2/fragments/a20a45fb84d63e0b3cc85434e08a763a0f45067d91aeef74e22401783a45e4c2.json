@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "34"
+  ],
+  "text": [
+    "As you enter the building, a young\nwoman stands before you. She is\ntranslucent, her hair buffeted by\nan eerie wind that you cannot feel.\nThe woman speaks. Her voice\nsends shivers down your spine.\nShe has a visible wound on neck.\n“He killed me with that axe and i\ncannot rest until the same\nhappens to him.”  She points at a\nlarge blood spattered axe in a dark\ncorner of the room.\nYou may pick up the axe. The axe\nwill give you a +1 to attacks against\nthe Polka-Dot-Dress Maniac if you\nmeet him."
+  ],
+  "reading": {
+    "en": {
+      "title": "34 - the Axe",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "34 - 斧头",
+      "text": [
+        "你走进大楼，一个年轻女人站在你面前。她的身体半透明，头发被一阵你感觉不到的诡异风吹动。她开口说话，声音令你脊背发凉。她的脖子上有一道明显的伤口。\n“他用那把斧头杀了我。除非他也遭到同样的下场，否则我无法安息。”她指向房间黑暗角落里一把沾满血迹的大斧头。\n你可以拿起斧头。若遇到圆点裙疯子，用它攻击时攻击加值+1。"
+      ]
+    }
+  }
+}

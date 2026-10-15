@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-ending-won"
+  ],
+  "text": [
+    "You create a character and then\nexplore an urban area, represented\nby a series of “boxes”. You move\nfrom one location to the next with\na combination of choices and dice\nrolls. Depending on your mission,\nyou may be looking for a way to\nstop the forces of evil from taking\nover the world, or just keep\nyourself or some loved ones safe.\nEvery game you play is a mission.\nMultiple connected missions\nplayed by the same character form\na campaign.  You can imagine that\nevery mission is like an episode of\na TV series, and the campaign is a\nwhole season."
+  ],
+  "reading": {
+    "en": {
+      "title": "Overview of play",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "七道地狱之门已关闭",
+      "text": [
+        "你要创建一名角色，然后探索一片由一系列“区域格”表示的城区。你通过选择和掷骰，从一个地点移动到另一个地点。根据任务目标，你可能要寻找阻止邪恶势力统治世界的方法，也可能只是要保护自己或亲友。每次游戏都是一项任务。由同一角色连续完成的多项任务构成一场战役。你可以把每项任务想成电视剧的一集，而整场战役则是一季。"
+      ]
+    }
+  }
+}

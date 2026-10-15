@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-exploration"
+  ],
+  "text": [
+    "2 Roll on the Random Event table.\n3 Roll on the Military Installation table or on the\nClinic table, your choice.\n4 Roll on Farm table or on the Cemetery table,\nyour choice.\n5 Roll on the Place of Worship table.\n6 Roll on Street table.\n7 Roll d6. On a 1-5, roll on the House table. On a 6,\nroll on the Special Event table.\n8 Roll on the Store or the Street table, your choice.\n9 Roll on the Sewers table.\n10 Roll on the Railways or Woods/Park table, your\nchoice.\n11 Roll on the School table or the Woods/Park\ntable, your choice.\n12 Roll on the Woods/Park table.\nRoll on this table every time you move into an unexplored area. Then roll on\nthe sub-table indicated by the result. Whenever possible, do NOT read the\ncontent of the tables in advance. Read them only when they apply to you.\nYou may Search an area ONLY after dealing with whatever encounter, danger\nor situation you encounter in that area. If you flee from an encounter, you\nmay NOT Search that area."
+  ],
+  "reading": {
+    "en": {
+      "title": "Town exploration table (2d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "城镇探索",
+      "text": [
+        "2 掷随机事件表。\n3 掷军事设施表或诊所表，由你选择。\n4 掷农场表或墓地表，由你选择。\n5 掷礼拜场所表。\n6 掷街道表。\n7 掷D6：1–5掷房屋表；掷出6则掷特殊事件表。\n8 掷商店表或街道表，由你选择。\n9 掷下水道表。\n10 掷铁路表或树林/公园表，由你选择。\n11 掷学校表或树林/公园表，由你选择。\n12 掷树林/公园表。\n每次进入未探索区域时都掷此表，再按结果掷相应子表。尽可能不要提前阅读表格内容，只在结果适用时阅读。只有处理完该区域的遭遇、危险或情况后，才能搜索该区域。若从遭遇中逃跑，则不能搜索该区域。"
+      ]
+    }
+  }
+}

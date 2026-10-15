@@ -1,0 +1,80 @@
+{
+  "format": "coc-story-acceptance@1",
+  "date": "2026-10-15",
+  "storyId": "alone-against-frost",
+  "version": "1.0.5",
+  "runtimeSha256": "62857f30b9151159cbcc5ad586a00b61d4305a048f7f642d68063df4f66af039",
+  "manifestSha256": "af35568729b93e1e69029bc5a974110276b364efa53a8e3d5f583e721096874f",
+  "runtimeReady": true,
+  "apiReports": [
+    {
+      "path": "work/alone-against-frost/final-api-1.0.5-closeout.json",
+      "sha256": "a4e4a9821588a28e92f54b158937520d6d120b215c2fe652c317be57cc0e4bb1",
+      "routes": 78
+    }
+  ],
+  "browser": {
+    "passed": 12,
+    "screenshots": [
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-33390-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "0e36bdfef6211328aed4ea130872a66eb18058e1cbfa4477ab608bf17f0b3865"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-33390-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "ae0ff58c5881110dd6a71e49a7ae03cf2cbc90d45c82a4b1a7ba6145336b8438"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-578dd-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "217c4f40419ffeaa1ed686d9e5a96686bc2a5f199a65e745ca86659761f4cdba"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-578dd-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "bbefd7dc7e1bb5ca6ab9bea83a1462d1b07bd0cafe357220d779a1a7fb0ab350"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-66e5a-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "0e36bdfef6211328aed4ea130872a66eb18058e1cbfa4477ab608bf17f0b3865"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-66e5a-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "ae0ff58c5881110dd6a71e49a7ae03cf2cbc90d45c82a4b1a7ba6145336b8438"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-708c2-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "51bf4732f4e36bef9bca3eb5e3b0fec0876d8ddc7a98dded8ba7a106a1568abe"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-708c2-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "aa330b2e846180582deef4d39461ff16e26ffeb4d5b567bb77b729d16c825713"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-ca7fa-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "53e4a03ff69a1cae522a6d86846ab4ff51f96ebc26690371bdbe79df548fe7d5"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-ca7fa-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "da816265510e3d9823840e9d8f0ec96bbac05b8fc31bddbc7a939d3066fb4950"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-ea05a-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "00286c8b6a161b886b5400ad79898d01b423cc5a38d7a6a9358b8c535171e58e"
+      },
+      {
+        "path": "work/alone-against-frost/final-browser-1.0.5-closeout-screenshots/story.routes-Story-termina-ea05a-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "e273238bade72746125f2fc934c54d868fa4ecb3838030899a2b11a92a632d12"
+      }
+    ],
+    "manualReview": "Representative desktop and mobile final scenes; automated controls, reload and viewport checks cover all routes."
+  },
+  "regression": {
+    "tests": 772,
+    "passed": 772,
+    "cleanCheckoutTests": 772,
+    "typecheck": true,
+    "build": true
+  },
+  "fixtureManifest": "tests/fixtures/story-review/manifest.json",
+  "retainedOlderVersions": true,
+  "externalDeployment": false
+}

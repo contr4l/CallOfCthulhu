@@ -60,6 +60,23 @@ const die = (...faces: number[]) => {
   };
 };
 
+test("destroyed worn gear consumes one copy and the spare can be worn at full durability", () => {
+  for (const [item, key, life, face] of [
+    ["bulletproof-vest", "fear:item:vest:life", 4, 4],
+    ["helmet", "fear:item:helmet:life", 3, 6],
+  ] as const) {
+    const current = state({ [item]: 2 }, { missionProgress: { [`fear:item:worn:${item}`]: true, [key]: 1 } });
+    applyFearItemSourceDamage(current, 1, die(face));
+    assert.equal(current.inventory[item], 1);
+    assert.equal(current.missionProgress[key], undefined);
+    assert.equal(current.missionProgress[`fear:item:worn:${item}`], false);
+    const action = fearItemSourceActions(definition, current, { kind: "menu" }).find(value => value.action.choice === item);
+    assert.ok(action);
+    applyFearItemSourceAction(definition, current, action.action, die(), { kind: "menu" });
+    assert.equal(current.missionProgress[key], life);
+  }
+});
+
 test("source item clauses are pinned to the original rule paragraphs", () => {
   assert.match(normalizedSource("section-random-objects-table", "section-random-objects-table:p5"), /When you find Food points, you may decide that 1 such Food point is 1 dose of salt/);
   assert.match(normalizedSource("section-useful-stuff-table", "section-useful-stuff-table:p10"), /Protein bars\. This count as 1 Food point/);

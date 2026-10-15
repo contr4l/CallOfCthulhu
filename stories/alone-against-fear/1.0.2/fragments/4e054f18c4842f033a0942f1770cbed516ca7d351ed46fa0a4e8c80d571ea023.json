@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "28"
+  ],
+  "text": [
+    "You wait until midnight then you\nstare into your black mirror and\nrepeat the demon’s name three\ntimes. Lose 2 Sanity if you fail a L6\nMagic roll (add +1 if you have the\nOccultist Skill and +2 if you have it\nat Expert level). Depending on the\ndemon whose name you have\nspoken, your fate will differ.\nWalrus the Clown.\nThe Clown’s mask appears before\nyou. You may decide to leave it\nhere, carry it with you, or wear it\n(go to event #15). If you already\nhave the mask, ignore this event.\nPigface.\nYou fall into the black mirror,\ncarrying all your equipment with\nyou. You are now in front of a\nfarm. Go to #5.\nShax.\nA demon with a crane’s head\nappears in the mirror and agrees\nto fulfill one wish. You may find\nany one object of your choice from\nthe Random Object table, Useful\nStuff table or from the Random\nMagic Item table. After this, Shax\ndisappears. You may not summon\nhim again.\nFlauros.\nA leopard-faced man appears in\nthe mirror and proposes a deal. If\nyou reveal the location of two Safe\nHouses and at least one church\n(you must have visited them),\nFlauros will teach you the Good\nShot and Fighter Skills for free (you\ndo not have to pay any XP) and\nheal up to 6 Life. Delete the Safe\nHouses and church from yourmap. Roll on the Haunted Houses\ntable if you visit those areas.\nThe demon of Hunger.\nIf you sacrifice at least 6 Food\npoints to him, he will heal all Sanity\nand wounds losses you suffered.\nHe will give you a book of your\nchoice from the Random Book\ntable.\nIf you do not have enough Food,\nthe demon will attack you. If you\ndefeat him, you will gain 1 XP and\na +1 to all saves vs. Fear until the\nend of the campaign.\nDemon of Hunger, L5 Demon,  8\nLife, damage 2. Vulnerable to\nExorcism and holy water.\nIf you are severely wounded (you\nhave lost more than 5 Life) when\nyou meet this demon, he will also\nstrike first in the ensuing combat.\nOther names\nThe ritual has no effect.\nEvery ritual may be repeated only\nonce in the campaign."
+  ],
+  "reading": {
+    "en": {
+      "title": "28 - Black mirror ritual",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "28 - 黑镜仪式",
+      "text": [
+        "你等到午夜，凝视黑镜，连续三次说出恶魔的名字。若L6魔法检定失败，你会失去2点理智（拥有神秘学者技能时+1，专家级时+2）。根据你说出的恶魔名字，你的命运各不相同。\n小丑海象：\n小丑面具出现在你面前。你可以把它留在这里、带走或戴上（前往事件#15）。若你已经有面具，则忽略本事件。\n猪脸人：\n你连同所有装备一起坠入黑镜。你现在来到一座农场前。前往#5。\n夏克斯：\n一个长着鹤头的恶魔出现在镜中，同意满足你一个愿望。你可以从随机物品表、实用物品表或随机魔法物品表中任选一件物品。之后夏克斯便消失；你不能再次召唤他。\n弗劳罗斯：\n一个长着豹脸的人出现在镜中，提出一项交易。若你透露两处安全屋和至少一座教堂的位置（这些地点都必须是你去过的），弗劳罗斯会免费教你神射手和战士技能（无需支付经验），并为你治疗最多6点生命。把这些安全屋和教堂从地图上删掉。之后访问这些区域时，改掷闹鬼宅邸表。\n饥饿恶魔：\n若你献祭至少6点食物，它会治愈你损失的全部理智和生命，并给你一本从随机书籍表中任选的书。\n若食物不足，恶魔会攻击你。击败它可获得1点经验；在本战役余下时间中，你所有恐惧防御检定+1。\n饥饿恶魔：L5恶魔，8点生命，伤害2。容易受到驱魔术和圣水影响。若你遇到它时身负重伤（已损失超过5点生命），它在接下来的战斗中先攻击。\n其他名字：\n仪式没有效果。\n每种仪式在本战役中最多只能再重复一次。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "9"
+  ],
+  "text": [
+    "You find an old man threatened by\na single zombie. You easily\ndispatch the undead and save the\nman. He explains that all hell broke\nloose “after the kids found that\nwitchery book. Books of the devil,\nI tell you.” He tells you that a bunch\nof children started to mess with\nblack magic almost one year ago.\n“I warned their parents. Warned\ntheir teachers. They did not listen.\nFirst, cats started to disappear, and\nthen other children too. There was\none blonde child, Eliza, she was the\nleader of that gang of little witches.\nShe had a big, creepy doll that\nlooked a bit like her. It was like she\nwas nodding to the doll all the\ntime, as if the doll talked to her and\ngive her directions. There was\nanother girl, a black girl, named\nJosephine. I think she wanted out\nand they killed her. “\nAfter his story, the man walks\naway. Gain 1 Clue."
+  ],
+  "reading": {
+    "en": {
+      "title": "9 - old man",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "9 - 老人",
+      "text": [
+        "你发现一位老人正遭一只僵尸威胁。你轻易地消灭亡灵，救下老人。他解释说，一切灾祸都是“那些孩子找到那本巫术书之后”开始的。“我跟你说，那就是恶魔的书。”他说，一群孩子差不多一年前开始摆弄黑魔法。“我警告过他们的父母，也警告过老师。他们没人听。起初是猫开始失踪，后来连别的孩子也不见了。有个金发孩子叫伊莱莎，是那群小女巫的头头。她有个又大又吓人的娃娃，长得和她有几分相像。她总像是在对着娃娃点头，仿佛娃娃会说话、给她指示。还有个黑人女孩，叫约瑟芬。我想她想退出，结果他们把她杀了。”\n老人讲完后便离开。获得1条线索。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-special-event-4"
+  ],
+  "text": [
+    "4\nAs you walk in front of a house, a ghastly face appears at a\nwindow. Save vs. L3 Fear or lose 1 Sanity. If you choose to\nenter the building and investigate, play event #34 from the\nevent list at the end of this book. If you ignore the apparition,\njust carry on with your exploration."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special event 4",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件 4",
+      "text": [
+        "4\n你走过一栋房屋时，一张可怕的脸出现在窗户里。进行L3恐惧防御检定，失败则损失1点理智。若选择进入建筑调查，游玩本书末尾事件列表中的事件#34；若无视幻影，继续探索。"
+      ]
+    }
+  }
+}

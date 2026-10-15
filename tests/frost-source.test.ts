@@ -814,7 +814,7 @@ test("Frost rule locators bind translated passages and distinguish source review
 });
 
 test("Frost full-book candidate programs cite source paragraphs and preserve fixed rule outcomes", () => {
-  const candidateStory = read(resolve("work/alone-against-frost/preview/alone-against-frost/1.0.5", "story.json"));
+  const candidateStory = read(resolve("stories/alone-against-frost/1.0.5", "story.json"));
   const review = read(resolve("scripts/alone-against-frost/review/runtime-program-001-654.json"));
   const reviewed = read(resolve("scripts/alone-against-frost/review/rules.json"));
   const candidateAudit = read(resolve("work/alone-against-frost/review/runtime-audit-001-654.json"));
@@ -1112,7 +1112,7 @@ test("Frost full-book candidate programs cite source paragraphs and preserve fix
   assert.equal(hunters285.program[0].check.bonus, 1);
   assert.equal(hunters285.program[0].check.opposedPenalty, 1);
   assert.equal(hunters285.program[0].check.success, "frost-285-second");
-  const pack = resolve("work/alone-against-frost/preview/alone-against-frost/1.0.5");
+  const pack = resolve("stories/alone-against-frost/1.0.5");
   const story = read(resolve(pack, "story.json"));
   assert.equal(story.version, "1.0.5");
   const reunion394 = review.programs.find((row: { id: string }) => row.id === "394");

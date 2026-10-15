@@ -1,0 +1,31 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-table-fluid"
+  ],
+  "text": [
+    "1\nThe fluidgives you a strong allergic\nreaction. Lose 1 Life. Save vs. L3\npoison or lose 1 additional Life every\ntime you move to a new area. As\nsoon as you successfully save, the\nallergic reaction ends and you stop\ntaking damage.\n2 The fluid has no effect on you.",
+    "3\nThe fluid gives you supernatural\nreflexes. Add +1 to all Defense rolls\nand ignore surprise attacks from\nmonsters for the next 3 encounters,\nafter which the effect ends.",
+    "4\nThe fluid gives you superhuman\nstrength. Your melee attacks all\ninflict+1 damage. The effect wears\noff after your next 3 combat\nencounters.",
+    "5\nThe fluid heals all damage  you\nhave taken, bringing you back to\nyour maximum Life point total.",
+    "6\nThe fluid gives you superior aim.\nGain +1 to hit with ranged\nweapons for your next 3 combat\nencounters."
+  ],
+  "reading": {
+    "en": {
+      "title": "Fluid Table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "液体表（D6）",
+      "text": [
+        "1\n液体引发强烈过敏反应。损失1点生命。进行L3毒素防御检定；失败则每次移动到新区域时额外损失1点生命。成功通过检定后，过敏反应立即结束，不再受到伤害。\n2 液体对你没有影响。",
+        "3\n液体赋予你超自然反射。接下来3次遭遇中，所有防御检定+1，并无视怪物突袭；效果随后结束。",
+        "4\n液体赋予你超人力量。所有近战攻击额外造成1点伤害。经过接下来3场战斗后，效果消退。",
+        "5\n液体治愈你受到的所有伤害，使生命恢复至上限。",
+        "6\n液体赋予你精准瞄准能力。接下来3场战斗中，远程武器命中检定+1。"
+      ]
+    }
+  }
+}

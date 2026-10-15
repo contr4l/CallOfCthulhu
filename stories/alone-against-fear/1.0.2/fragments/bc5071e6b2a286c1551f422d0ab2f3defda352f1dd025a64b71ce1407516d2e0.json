@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "5"
+  ],
+  "text": [
+    "As you step into the farm, you are\nsurrounded by lean, evil looking\npigs and a farmer wearing the\nbloodied skin of a pig’s head as a\ngrisly mask. The man is a giant and\nhe is armed with a dirty pitchfork.\nHe asks if you have brought food\nfor his pigs. You may sacrifice 3\nFood points, or 1 dose of Bone\npowder and avoid this encounter.\nOtherwise, you must fight the man\nand his pigs.\nPighead, Level 5 slasher, 3 Life,\ndamage 2.\n6 Pigs, Level 3, 2 Life each,\ndamage 1.\nThe pigs surround you. You may\ntry to Escape only after you have\nkilled at least 3 pigs. If you slay\nPighead and all the pigs, you may\nfurther investigate the farm by\ngoing to unique event #6.\nOnce you have killed Pighead,\nignore this event if it happens\nagain.\nIf you survive this encounter, you\nmay butcher each pig into d6 Food\npoints. All required ingredients\nand tools are easily found in the\narea."
+  ],
+  "reading": {
+    "en": {
+      "title": "5 - Pighead",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "5 - 猪头人",
+      "text": [
+        "你走进农场，四周是一群瘦削、凶恶的猪；一个农夫戴着血淋淋的猪头皮面具，手持一把肮脏的干草叉。他身材巨大，问你有没有给他的猪带食物。你可以献出3点食物，或1剂骨粉，以避开这场遭遇。否则，你必须与他和猪群战斗。\n猪头人：5级屠杀者，3点生命，伤害2。\n6头猪：3级，每头2点生命，伤害1。\n猪群会包围你。至少杀死3头猪后，你才能尝试逃跑。若你杀死猪头人和全部猪，可以继续调查农场，前往独特事件#6。\n如果之后再次触发本事件，而猪头人已被杀死，则忽略本事件。\n若你在遭遇中幸存，可以把每头猪都宰成1D6点食物。所需原料和工具在附近都能轻易找到。"
+      ]
+    }
+  }
+}

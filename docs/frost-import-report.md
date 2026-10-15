@@ -1,5 +1,7 @@
 # 《冰霜独行》导入与可游玩验收报告
 
+> 2026-10-15已在最新运行时下再次完成1.0.5的78条严格／API路线及12条桌面／手机流程。当前机器记录为 `scripts/alone-against-frost/review/runtime-1.0.5.json`，详见[收尾验收报告](solo-closeout-2026-10-15.md)。下文保留先前验收历史。
+
 > 工作记录按 `docs/templates/story-import-report.md` 编写。PDF 固定流程见 `docs/pdf-story-workflow.md`。
 
 

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "33"
+  ],
+  "text": [
+    "Using a severed hand that holds a\ncandle, you assemble a magic item\ncalled a Hand of Glory. If you light\nthe candle, you may use this to\nautomatically avoid any one\nencounter (except encounters\nwith undead, zombies, unique\nzombies, demons or a monster\nfrom the Lab Horrors table - these\nare all immune), as the Hand of\nGlory gives you the power to\nparalyze any one mortal staring at\nthe flickering candle. After one\nuse, the hand will wither and the\ncandle will be used up. You may\ncreate another Hand of Glory if\nyou happen on this event again.\nEach use of the candle forces you\nto pass a L5 Will roll or lose 1 Sanity."
+  ],
+  "reading": {
+    "en": {
+      "title": "33 - the hand of glory",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "33 - 荣耀之手",
+      "text": [
+        "你用一只握着蜡烛的断手制作出名为“荣耀之手”的魔法物品。点燃蜡烛后，你可以用它自动避开一次遭遇；亡灵、僵尸、独特僵尸、恶魔以及实验室恐怖生物表中的怪物除外——它们都不受影响。荣耀之手能让任何盯着烛火的凡人僵住。使用一次后，手会枯萎，蜡烛也会烧尽。若再次触发本事件，你可以再制作一只荣耀之手。每次使用蜡烛，你都必须通过L5意志检定，否则失去1点理智。"
+      ]
+    }
+  }
+}

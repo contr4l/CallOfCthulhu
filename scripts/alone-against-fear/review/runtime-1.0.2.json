@@ -1,0 +1,109 @@
+{
+  "format": "coc-story-acceptance@1",
+  "date": "2026-10-15",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "runtimeSha256": "62857f30b9151159cbcc5ad586a00b61d4305a048f7f642d68063df4f66af039",
+  "manifestSha256": "4aac2911db231cfd2c0eda44ec347324a6a2753686a1e0ca360776610dab46df",
+  "runtimeReady": true,
+  "apiReports": [
+    {
+      "path": "work/alone-against-fear/final-terminal-api-report-1.0.2.json",
+      "sha256": "0b34c7fa307ce237561492f59653c332afd57d2265abb34410b100f0097d58f0",
+      "routes": 3
+    },
+    {
+      "path": "work/alone-against-fear/final-mission-api-report-1.0.2.json",
+      "sha256": "b2bc5588b3abb52ef43e9fc1550b96b93c2f9ae4d1b689ba2d0b3a4c9b61dc69",
+      "routes": 6
+    }
+  ],
+  "browser": {
+    "passed": 18,
+    "screenshots": [
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-035d7-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "7ae20b0069c6594759401067ff8b66e178f7040f057fc6ad18b5d042d854708c"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-035d7-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "56feed4a5b1a1bb65b635926c4fbf54e4110efd1d7a1584a8c7ab97becb4ab9d"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-095b4-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "86145a2b5548cc13bd5c0feea06f36c197fbb34aa9937886d2d032db7ec86895"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-095b4-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "6ed49d7ceb0b11a1a3a86a56fb870e09163f2df13e449b261d8937ee7bff0135"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-b2f76-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "d4b8126a1d29c3be7111baaa6c7a3a2fc89ea66b05ca94b257d0a62518690cf5"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-b2f76-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "381d6366c6a934b1e27a5da27b998abbab8cd6a9af3c672bc4f78c4f24024516"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-ba184-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "a27ff92a757304c0a8c192d682de2cbfb5ccfb64494e244cee78f28dad4f5d64"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-ba184-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "6ea0f4106308544208828103d656476246884d9bbb16ce7e22d29aa3fbd985d3"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-e7d3e-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "c532c0ff091e7f0efb4ea174796a7d5dec243a6fa7afeb38fc22ae4ded604134"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-e7d3e-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "14fc4950874928a2749b5726f2549a9d07f530eb5f6aba77dd18c849f4991c0e"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-ebbb1-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "9b063aae4bae9a36ae8255a8a5e1f259da479601b9eaba1126779ae70965d7e1"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-mission-ebbb1-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "b1e4f53abbec0c424108762ab3065363974c9f92c17db22454edbfef679ed225"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-termina-56e75-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "5ed9849fec942e06af856d0632bad02b74e317d739fde887a08528b1f2195c16"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-termina-56e75-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "aac6090185cd2c9756ecc80590a2cf3a5fd66cec295bdc37aeadf1ab235de09a"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-termina-f5255-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "59409906fda78cd72009543a25b100972c506d55bb13c9181d9e28d0619e5706"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-termina-f5255-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "8ceb1f3ced0636400636e46d3e11277df15f652c3745bd0117bb6169b9020c90"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-termina-fe81d-and-retains-state-on-reload-desktop/story-terminal.png",
+        "sha256": "6be60c190a04d1bfe8a6f58a1d22350905d23671760c96e50b75cf2e24d15cf7"
+      },
+      {
+        "path": "work/alone-against-fear/final-browser-1.0.2-screenshots/story.routes-Story-termina-fe81d-and-retains-state-on-reload-mobile/story-terminal.png",
+        "sha256": "cf766399a099e16fb083ad9cd14a25ad3ccc4ac89311cded3e82a6941ab4f5da"
+      }
+    ],
+    "manualReview": "Representative desktop and mobile final scenes; automated controls, reload and viewport checks cover all routes."
+  },
+  "regression": {
+    "tests": 772,
+    "passed": 772,
+    "cleanCheckoutTests": 772,
+    "typecheck": true,
+    "build": true
+  },
+  "fixtureManifest": "tests/fixtures/story-review/manifest.json",
+  "retainedOlderVersions": true,
+  "externalDeployment": false
+}

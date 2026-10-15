@@ -19,6 +19,56 @@ function active(seed: Partial<FearState> = {}): FearState {
   return state;
 }
 
+test("spray fire ends a defeated encounter immediately and runs its source loot and XP once", () => {
+  const local = structuredClone(story);
+  local.fear.eventPrograms["audit-spray"] = [{ op: "start-combat", enemyId: "aliens-1", count: 1 }];
+  let state = active({ inventory: { "spray-can": 1, lighter: 1 } });
+  state.pendingEvent = { eventId: "audit-spray", alreadyPlayed: false, started: false, visitCount: state.visitCount };
+  state = advanceFear(local, state, { type: "resolve-event", target: "audit-spray" }, roller(6));
+  const action = availableFearActions(local, state).find(value => value.action.type === "use-item" && value.action.target === "source-spray-can");
+  assert.ok(action);
+  state = advanceFear(local, state, action.action, roller());
+  assert.equal(state.combat, undefined);
+  assert.equal(state.combatResult?.outcome, "defeated");
+  assert.equal(state.xp, 1);
+  assert.equal(state.rayguns?.owned, 1, "the alien's source loot uses the normal combat-end hook");
+  assert.equal(state.inventory["spray-can"], undefined);
+  assert.equal(availableFearActions(local, state).some(value => value.action.type === "attack"), false);
+});
+
+test("nonlethal spray fire consumes the turn and does not award a premature victory", () => {
+  const local = structuredClone(story);
+  local.fear.eventPrograms["audit-spray"] = [{ op: "start-combat", enemyId: "possessed-doll", count: 1 }];
+  let state = active({ inventory: { "spray-can": 1, lighter: 1 } });
+  state.pendingEvent = { eventId: "audit-spray", alreadyPlayed: false, started: false, visitCount: state.visitCount };
+  state = advanceFear(local, state, { type: "resolve-event", target: "audit-spray" }, roller(6));
+  const action = availableFearActions(local, state).find(value => value.action.type === "use-item" && value.action.target === "source-spray-can");
+  assert.ok(action);
+  state = advanceFear(local, state, action.action, roller());
+  assert.equal(state.combat?.enemyLives[0], 2);
+  assert.equal(state.combat?.playerFirst, false);
+  assert.equal(state.xp, 0);
+});
+
+test("spray fire preserves the other group in a mixed encounter", () => {
+  const local = structuredClone(story);
+  local.fear.eventPrograms["audit-mixed-spray"] = [{ op: "start-combat-groups", groups: [
+    { enemyId: "zombie", count: 1 }, { enemyId: "aliens-1", count: 1 },
+  ] }];
+  let state = active({ inventory: { "spray-can": 1, lighter: 1 } });
+  state.pendingEvent = { eventId: "audit-mixed-spray", alreadyPlayed: false, started: false, visitCount: state.visitCount };
+  state = advanceFear(local, state, { type: "resolve-event", target: "audit-mixed-spray" }, roller(6));
+  const action = availableFearActions(local, state).find(value => value.action.type === "use-item"
+    && value.action.target === "source-spray-can" && value.action.choice === "aliens-1");
+  assert.ok(action);
+  state = advanceFear(local, state, action.action, roller());
+  assert.equal(state.combat?.groups?.find(group => group.enemyId === "aliens-1")?.enemyLives.length, 0);
+  assert.equal(state.combat?.groups?.find(group => group.enemyId === "zombie")?.enemyLives.length, 1);
+  assert.equal(state.combat?.playerFirst, false);
+  assert.equal(state.combatResult, undefined);
+  assert.equal(state.xp, 0);
+});
+
 test("canonical taxonomy follows source classifications for vampire bats, human cultists, mummy, and Night Shadow", () => {
   const bat = story.fear.enemies["beasts-4"]!, cultists = story.fear.enemies["possessed-1"]!;
   const mummy = Object.values(story.fear.enemies).find(value => value.label.includes("木乃伊"))!;

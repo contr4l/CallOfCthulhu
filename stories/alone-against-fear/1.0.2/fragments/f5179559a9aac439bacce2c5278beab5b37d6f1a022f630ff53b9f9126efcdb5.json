@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "40"
+  ],
+  "text": [
+    "As you light the candle, the Jack o’\nLantern spews a mass of black\ntendrils from its mouth. These\nform limbs and a body as the\npumpkin rolls out of your hands.\nIn a few seconds, a pumpkinhead\ndemon stands before you, an evil\ngrin on its face.\n“Serve me and I will give you great\npower” he tells you.\nIf you want to humor the creature,\nperform an L5 Charisma roll. Add\n+1 for the Charisma Skill, +2 if you\nhave it at Expert level, and +1 if\nyou have a cursed knife.\nIf the roll is successful, the\npumpkin demon will sign a\ncontract with you. You will lose 1\npermanent point of Sanity, but\nyou will gain 2 permanent Life\npoints (this also increases your\ncurrent Life point total if you are\nwounded) and you may learn a\nsingle Arcane Skill of your choice.\nIf you do not have enough XP to\npay for it right now, you will learn\nthe Skill later, as soon as you\nspend the XP.\nIf the roll is unsuccessful or you do\nnot want to roll, you will have to\nfight the pumpkin demon.\nPumpkin Head Demon , L6\ndemon, 6 Life, damage 2.\nVulnerable to holy water.\nYou may not escape from this\ncombat.\nIf you defeat the demon, you will\nfind an item from the Random\nMagic Items table."
+  ],
+  "reading": {
+    "en": {
+      "title": "40 - The Carved Pumpkin",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "40 - 雕刻南瓜",
+      "text": [
+        "你点燃蜡烛时，杰克灯的嘴里喷出一团漆黑触须。触须长出四肢和躯干，南瓜从你手中滚落。几秒钟后，一个南瓜头恶魔站在你面前，脸上挂着邪恶的笑容。\n“服侍我，我就赐予你强大的力量。”它对你说。\n若你想敷衍这个生物，可以进行一次L5魅力检定。拥有魅力技能时+1，专家级时+2；若你有受诅咒的小刀，再+1。\n检定成功，南瓜恶魔会与你签订契约。你的理智上限永久降低1点，但生命上限永久提高2点（受伤时当前生命也相应增加），并且可以学习一项自选奥术技能。若你现在没有足够经验支付费用，之后攒够经验时再学习。\n若检定失败，或者你不想检定，就必须与南瓜恶魔战斗。\n南瓜头恶魔：L6恶魔，6点生命，伤害2。易受圣水影响。这场战斗中不能逃跑。\n击败恶魔后，可从随机魔法物品表获得一件物品。"
+      ]
+    }
+  }
+}

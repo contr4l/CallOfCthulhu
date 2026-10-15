@@ -13,6 +13,7 @@
     "dev": "node tools/dev.mjs",
     "build": "npm run typecheck && npm run build -w apps/web && npm run build -w apps/api",
     "typecheck": "tsc --noEmit",
+    "pretest": "python3 tools/story/review_fixtures.py restore",
     "test": "tsx --test tests/*.test.ts",
     "test:e2e": "playwright test --project=desktop && playwright test --project=mobile",
     "story:validate": "tsx tools/story/validate.ts",

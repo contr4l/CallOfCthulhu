@@ -12,7 +12,7 @@ import { runtimeFingerprint } from "./runtime-fingerprint.js";
 
 type Draw = { min: number; max: number; value: number };
 type Step = { node: string; action: string; label: string; draws: Draw[]; resultNode: string };
-const packagePath = resolve(process.env.FEAR_M4_INSTANCE_PACKAGE ?? "work/alone-against-fear/preview-molotov-runtime/alone-against-fear/1.0.0/story.json");
+const packagePath = resolve(process.env.FEAR_M4_INSTANCE_PACKAGE ?? "stories/alone-against-fear/1.0.2/story.json");
 const manifestBytes = readFileSync(packagePath);
 const story = loadFragmentStory(packagePath, input => runtimeGraphSchema.parse(input), validateStory);
 validateStory(story);

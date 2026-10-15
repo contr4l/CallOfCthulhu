@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "25"
+  ],
+  "text": [
+    "The blade is cursed. You may not\nget rid of it until you find a ritual or\nan artifact that lets you remove a\ncurse. The blade lets you attack at\n+1 but you may not discard it in\nfavor of other weapons. You maynot perform ranged attacks (not\neven throwing the knife) until you\nhold the knife."
+  ],
+  "reading": {
+    "en": {
+      "title": "25 - The bloodthirsty blade.",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "25 - 嗜血之刃",
+      "text": [
+        "这把刀受到了诅咒。在找到解除诅咒的仪式或神器之前，你不能摆脱它。持刀攻击时加值+1，但不能换用其他武器。除非你手里拿着这把刀，否则不能进行远程攻击（连投掷小刀也不行）。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "11"
+  ],
+  "text": [
+    "This section of the sewers is used\nby survivors as a shelter. There is\nrudimentary comfort and\ndefenses. If you want to convince\nthe survivors to let you in, you\nmust give them one of your items\nor 2 Food points and succeed a L4\nCharisma roll. Roll at +1 if you have\nCharisma, at +2 if you Charisma\n(Expert). If you fail, they will not let\nyou in and there is a 2 in 6 chance\nthat you will be attacked by a\nhorde of sewer rats.\nSewer rat horde, L2 animal, 5\nLife, damage 1. Treat as a single\ncreature. Once the horde is\nreduced to 2 Life or lower, you get\n+1 to your Defense rolls until the\nend of the combat. If you have a\ndose of rat poison, you may\ndiscard 1 Food and the rat poison\nto automatically inflict 2 damage\nto the horde.\nYou get a -1 on Attack rolls if you\nattack the horde with ranged\nweapons, except for a shotgun\nwhich hits them at an additional\n+1 instead.\nIf the survivor lets you in, you may\nconsider this area a Safe House as\nlong as you “pay” at least 1 Food\npoint every time you enter it. If you\ndo not pay, roll again a 2 in 6\nchance of an encounter with  the\nrats, and the area will no longer\ncount as a Safe House."
+  ],
+  "reading": {
+    "en": {
+      "title": "11 - into the sewers",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "11 - 下水道深处",
+      "text": [
+        "这段下水道被幸存者用作避难所，里面有简陋的舒适设施和防御工事。若要说服幸存者让你进去，你必须交给他们一件物品或2点食物，并通过L4魅力检定。拥有魅力技能时+1，专家级时+2。失败则他们不会让你进；此外有2/6的概率遭到鼠群攻击。\n下水道鼠群：L2动物，5点生命，伤害1，视为单个生物。鼠群生命降至2点或更低后，直到战斗结束，你的防御检定+1。若你有一剂灭鼠毒药，可以丢弃1点食物和该毒药，直接对鼠群造成2点伤害。\n用远程武器攻击鼠群时，攻击检定-1；霰弹枪例外，攻击加值额外+1。\n若幸存者让你进入，只要你每次进入时至少“支付”1点食物，这里就可视为安全屋。若不支付，则重新掷骰检查是否遭遇鼠群，概率为2/6；此后此处不再算安全屋。"
+      ]
+    }
+  }
+}

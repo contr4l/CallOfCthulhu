@@ -10,7 +10,7 @@ import { createCharacter } from "../packages/rules/index.js";
 test("Frost preserves printed Credit Rating and applies the separate Hatchet specialization", () => {
   const story = loadFragmentStory(
     resolve(
-      "work/alone-against-frost/preview/alone-against-frost/1.0.5/story.json",
+      "stories/alone-against-frost/1.0.5/story.json",
     ),
     (data) => runtimeGraphSchema.parse(data),
     validateStory,

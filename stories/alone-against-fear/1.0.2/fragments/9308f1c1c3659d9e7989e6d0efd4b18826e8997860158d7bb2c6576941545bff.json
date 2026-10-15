@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "38"
+  ],
+  "text": [
+    "If at any point in the campaign you\nhave read the Necronomicon, you\nrecognize unholy signs from an\nalien culture. You lose 1 Sanity but\ngain 3 Clues. If you did not read\nthe Necronomicon, the stone\nturns to dust in your hands."
+  ],
+  "reading": {
+    "en": {
+      "title": "38- Mysterious Alien Stone",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "38 - 神秘异星石",
+      "text": [
+        "若你在本战役任何时候读过《死灵之书》，就能辨认出石头上属于异星文化的亵渎符号。你失去1点理智，但获得3条线索。若你没有读过《死灵之书》，石头会在你手中化为尘土。"
+      ]
+    }
+  }
+}

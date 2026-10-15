@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-table-street"
+  ],
+  "text": [
+    "1\nYou spot a nice place to hide. You may create a Safe House\nand heal 1 Life and 1 Sanity. If you create a Safe House and it\nis the third Safe House in play, the Safe House closest to you\nis no longer a Safe House. To determine which is closest, just\ncount the number of boxes on the town map that you should\ncross to reach that location. If there are 2 Safe Houses at the\nsame distance, choose randomly.\n2 All clear. No encounter.\n3 Random encounter: roll on the Undead table.\n4 Random encounter: roll on the Demonic Horror table.\n5 Random encounter: roll on the Slashers table.\n6 Play unique event #3. If you already played that, roll on the\nrandom encounter table."
+  ],
+  "reading": {
+    "en": {
+      "title": "street table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "街道表（D6）",
+      "text": [
+        "1 发现一处适合藏身的地方。你可以建立安全屋，并恢复1点生命和1点理智。若建立后场上已有3个安全屋，则距离你最近的那个不再算安全屋。确定最近者时，计算在城镇地图上到达该地点需经过的格数；若有两个安全屋距离相同，随机选择一个。\n2 一切平静。没有遭遇。\n3 随机遭遇：掷不死生物表。\n4 随机遭遇：掷恶魔恐怖表。\n5 随机遭遇：掷杀手表。\n6 游玩独特事件#3。若已经游玩过，则掷随机遭遇表。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-special-event-5"
+  ],
+  "text": [
+    "5\nA chilly wind starts to blow . Until your next encounter is\nover, you may not use a torch, a candle, light any fire, or use\na Molotov cocktail."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special event 5",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件 5",
+      "text": [
+        "5\n寒风吹起。下次遭遇结束前，不能使用火把、蜡烛，不能点火，也不能使用燃烧瓶。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "13"
+  ],
+  "text": [
+    "The clown is wearing a rubber\nmask. He is not anyone you know.\nAs you unmask him, you realize\nthat the mask is alive. Its mind is in\nyour head, and is trying to force\nyou to wear the mask. You may\nthrow away the mask and return\nto your activities, or put it on by\ngoing to #15."
+  ],
+  "reading": {
+    "en": {
+      "title": "13 - The Clown’s Mask",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "13 - 小丑面具",
+      "text": [
+        "小丑戴着一副橡胶面具。他不是你认识的人。你摘下面具时，发现它竟然活着。它的意识已经进入你的脑海，正试图逼你戴上它。你可以把面具扔掉并继续行动，也可以前往#15把它戴上。"
+      ]
+    }
+  }
+}

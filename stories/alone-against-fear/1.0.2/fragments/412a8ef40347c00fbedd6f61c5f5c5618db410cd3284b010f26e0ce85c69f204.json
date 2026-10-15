@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "32"
+  ],
+  "text": [
+    "Make a L4 Charisma roll. Add +1 if\nyou have Charisma Skill and +2 if\nyou have Charisma (Expert). If you\nsucceed, the youth will let the kid\ngo. If you fail, the teenagers try to\nkill you. You’ll have to use deadly\nforce.\nThe Halloween gang, 6 L3\ncriminals, 1 Life each, damage 1\n(knives and sticks).\nIf you defeat them, the kid will\nexplain what happened.\nHe was once part of that gang. He\nused to wear a rubber clown\nmask, like the clown, Walrus, who\nused to set up clown shows next\nto the railway station. “They said\nthe mask talked to them and\nmade them stronger, but that\nnever happened to me,“ he\nexplains.\n “They were afraid of the other kids\n– the witches... A group of younger\nchildren who used magic books to\ncast spells. I think it’s been them\nwho caused all this mess with the\nzombies and the monsters. They\nmessed up with magic, they called\ndemons by saying their names\nseven times at midnight, in front\nof a black mirror. I thought these\nwere only scary stories, but now I\nknow they are real.”\nFrom now, if at any point in the\ngame you want to look for Walrus\nThe Clown, you can automatically\nget result 1 on the Railways table.If at any point you have a black\nmirror, know the true name of a\ndemon, and want to perform the\nblack mirror ritual, go to event #28."
+  ],
+  "reading": {
+    "en": {
+      "title": "32 - the halloween gang",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "32 - 万圣节帮派",
+      "text": [
+        "进行一次L4魅力检定。拥有魅力技能时+1，专家级时+2。成功则青少年放走孩子。失败则他们试图杀死你，你必须以致命武力反击。\n万圣节帮派：6名L3罪犯，每人1点生命，伤害1（持刀和棍棒）。\n若你击败他们，孩子会告诉你发生了什么。\n他以前也是帮派成员，曾戴着橡胶小丑面具，就像在火车站附近办小丑表演的小丑海象一样。他解释说：“他们说那面具会跟他们说话，让他们变强，但我从没遇到过。”\n“他们害怕其他孩子——那些女巫……一群年纪更小的孩子，他们用魔法书施法。我觉得这些僵尸和怪物全是他们惹出来的。他们乱用魔法，在午夜面对黑镜，把恶魔的名字念七遍就召来了恶魔。我以前以为这只是吓人的故事，现在知道都是真的。”\n从现在起，如果你在游戏任何时候想寻找小丑海象，可以直接在铁路表上得到结果1。若你持有黑镜、知道某个恶魔的真名，并想进行黑镜仪式，前往事件#28。"
+      ]
+    }
+  }
+}

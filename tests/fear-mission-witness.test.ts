@@ -10,9 +10,9 @@ import { createCharacter } from "../packages/rules/index.js";
 import type { SceneView } from "../packages/contracts/index.js";
 import { runtimeFingerprint } from "../tools/story/runtime-fingerprint.js";
 
-const packageDir = resolve("work/alone-against-fear/preview-final/alone-against-fear/1.0.1");
+const packageDir = resolve("stories/alone-against-fear/1.0.2");
 const manifestPath = resolve(packageDir, "story.json");
-const reportPath = resolve("work/alone-against-fear/final-mission-witnesses-1.0.1.json");
+const reportPath = resolve("work/alone-against-fear/final-mission-witnesses-1.0.2.json");
 
 test("saved Fear mission witnesses replay using only legal public actions and their recorded dice", () => {
   const report = JSON.parse(readFileSync(reportPath, "utf8"));

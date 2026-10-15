@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-special-event-6"
+  ],
+  "text": [
+    "You stumble upon a pool of yellow goo in the middle of the\nroad. If you have a jar, you may pick up some."
+  ],
+  "reading": {
+    "en": {
+      "title": "Special event 6",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "特殊事件 6",
+      "text": [
+        "发现路中间有一滩黄色黏液。若有罐子，可以装取一些。"
+      ]
+    }
+  }
+}

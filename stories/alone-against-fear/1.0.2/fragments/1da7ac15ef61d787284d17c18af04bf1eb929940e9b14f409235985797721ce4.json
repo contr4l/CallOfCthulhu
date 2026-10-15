@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "18"
+  ],
+  "text": [
+    "You find a large dagger with an\nornate hilt and elaborate etchings\non its blade. You may use it in\ncombat if you wish. Write down\n”event #25 “ but do not read it\nnow. As soon as your blade hits in\ncombat, read #25."
+  ],
+  "reading": {
+    "en": {
+      "title": "18 - A strange blade",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "18 - 奇异刀刃",
+      "text": [
+        "你发现一把大匕首，刀柄装饰华丽，刀刃上刻着精致的纹样。你愿意的话，可以在战斗中使用它。记下“事件#25”，但现在不要阅读。刀刃在战斗中第一次命中时，再阅读#25。"
+      ]
+    }
+  }
+}

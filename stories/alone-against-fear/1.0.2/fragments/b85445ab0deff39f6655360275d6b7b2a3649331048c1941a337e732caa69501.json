@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "14"
+  ],
+  "text": [
+    "You rush to the door and force it\nopen. The train is already picking\nup speed. Save vs. L5 (add +1 if you\nhave the Agile Skill, or +2 if you\nhave it at the Expert level) to land\nsafely. If you fail, you lose 1 Life\nand 1 item of your choice (but not\na cursed item or a Clown mask). If\nyou pass the roll, you land with\nnothing more than a few bruises.\nThe train zooms away, engulfed in\na cloud of blackness. Probably,\njumping off was a good choice."
+  ],
+  "reading": {
+    "en": {
+      "title": "14 - speeding train",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "14 - 飞驰的火车",
+      "text": [
+        "你冲到车门前，强行把门打开。火车已经开始加速。进行一次L5防御检定（敏捷技能+1，专家级+2），以安全落地。失败则失去1点生命，并失去你选择的1件物品（诅咒物品和小丑面具除外）。成功则只擦伤几处，平安落地。火车卷入一团黑暗，呼啸而去。跳车看来是个不错的选择。"
+      ]
+    }
+  }
+}

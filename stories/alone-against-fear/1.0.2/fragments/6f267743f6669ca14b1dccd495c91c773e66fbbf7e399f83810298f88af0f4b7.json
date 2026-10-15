@@ -1,0 +1,29 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "fear-table-clinic"
+  ],
+  "text": [
+    "1 Roll on the Haunted House table.\n2  You meet helpful paramedic. Heal 2 Life and gain 1 first aid\nkit from the random object table.",
+    "3\nA small medical studio is attacked by 3d6 L3 Zombies (Slow\nUndead). You may ignore them or fight them. If you defeat\nthem, you may collect 1 first aid kit from the random object\ntable and d6 doses of painkillers from the Useful Stuff table.",
+    "4\nSafe House. You find an area that is easy to defend. You may\nheal up to 2 Sanity and 4 Life every time you visit this place.\nYou do not have to roll for random encounters every time you\nvisit this Safe House. If there are already 3 Safe Houses in play\nwhen you roll this result, you create a new Safe House but the\nSafe House closest to your current location is no longer a Safe\nHouse. To determine which is closest, just count the number\nof boxes on the town map that you should cross to reach that\nlocation. If there are two Safe Houses at the same distance,\nchoose randomly. When you visit the location that is no longer\na Safe House, you must roll a 1 in 6 chance of a random\nencounter, just like for any already visited area.",
+    "5\nPsychiatric Ward. You may explore it or move along. If you\nexplore it, you may perform TWO Search rolls. However, as\nsoon as you apply the result of your second Search roll, you\nmust also pass a L6 Stealth roll. If you fail, roll on the Slasher\ntable. If the Search rolls triggers an encounter, also roll on the\nSlasher table. If you collect any Clues in the psychiatric ward,\nyou must perform a Save vs. L3 Fear for each Clue gained or\nlose 1 Sanity.\n6 Play event #29 from the list of events at the end of this\nbook."
+  ],
+  "reading": {
+    "en": {
+      "title": "clinic table (d6)",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "诊所表（D6）",
+      "text": [
+        "1 掷闹鬼房屋表。\n2 遇到乐于助人的急救员。恢复2点生命，并从随机物品表获得1个急救包。",
+        "3\n一间小型医疗诊所遭到3D6只L3僵尸袭击（行动迟缓的不死生物）。你可以无视它们或与之战斗。若击败它们，可从随机物品表取得1个急救包，并从有用物品表取得D6剂止痛药。",
+        "4\n安全屋：找到一处易于防守的地方。每次到访都可恢复至多2点理智和4点生命。到访安全屋时无需掷随机遭遇。若掷出此结果时场上已有3个安全屋，则建立一个新安全屋，但距离当前位置最近的安全屋不再算安全屋。确定最近者时，计算城镇地图上到达该处需经过的格数。若两个安全屋距离相同，随机选择。再次进入已不再是安全屋的地点时，照已探索区域规则掷1/6概率的随机遭遇。",
+        "5\n精神病房：你可以探索或继续前进。若选择探索，可以进行两次搜索检定。但应用第二次搜索检定结果后，必须进行L6潜行检定；失败则掷杀手表。若搜索检定触发遭遇，也要掷杀手表。在精神病房获得任何线索时，每获得1点线索都要进行一次对抗L3恐惧的防御检定；失败则损失1点理智。\n6 游玩本书末尾事件列表中的事件#29。"
+      ]
+    }
+  }
+}

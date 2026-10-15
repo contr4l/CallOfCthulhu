@@ -1,0 +1,23 @@
+{
+  "format": "coc-scene-fragment@1",
+  "storyId": "alone-against-fear",
+  "version": "1.0.2",
+  "nodeIds": [
+    "16"
+  ],
+  "text": [
+    "You sit down as the train reaches\nfull speed. Soon the rhythmic\nmotion of the train lulls you to\nsleep.\nYou wake up after a couple of\nstops. You feel refreshed. Heal 2\nLife.\nYou get off the train and continue\nyour exploration of the town, but\nyou now have traveled 1 or 2\nboxes from your previous location\n(you choose where)."
+  ],
+  "reading": {
+    "en": {
+      "title": "16 - train to nowhere",
+      "textRef": "default"
+    },
+    "zh-CN": {
+      "title": "16 - 驶向未知的列车",
+      "text": [
+        "你坐下时，火车已达到全速。车厢有节奏的摇晃很快让你昏昏入睡。\n几站之后你醒来，感觉精神振作。恢复2点生命。\n你下车继续探索小镇，但现在你的位置已经离先前地点相隔1或2格（由你选择具体位置）。"
+      ]
+    }
+  }
+}
