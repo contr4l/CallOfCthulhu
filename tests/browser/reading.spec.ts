@@ -5,13 +5,14 @@ test("reader themes persist, the story hides outer chrome and both page-scroll m
   test.setTimeout(90_000);
   await page.goto("/");
   await page.getByRole("button", { name: "选择配色" }).click();
-  await expect(page.locator(".theme-option")).toHaveCount(4);
+  await expect(page.locator(".theme-option")).toHaveCount(5);
   await expect(page.getByLabel("新剧情回到正文开头")).toBeChecked();
   for (const [id, name] of [
     ["bloodmoon", "血月"],
     ["abyss", "深渊"],
     ["nightmare", "梦魇"],
     ["sepia", "旧日手稿"],
+    ["daylight", "白昼公文"],
   ]) {
     await page
       .locator(".theme-option")
@@ -57,6 +58,7 @@ test("reader themes persist, the story hides outer chrome and both page-scroll m
     ["abyss", "深渊"],
     ["nightmare", "梦魇"],
     ["sepia", "旧日手稿"],
+    ["daylight", "白昼公文"],
   ]) {
     const position = await page.evaluate(() => scrollY);
     await page.getByRole("button", { name: "阅读偏好", exact: true }).click();

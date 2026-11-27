@@ -60,6 +60,31 @@
   --accent-glow: #956d3930;
   --image-filter: grayscale(0.7) sepia(0.4) saturate(0.6);
 }
+/* Daylight document theme: white paper, ink text and quiet steel-blue links. */
+html[data-theme="daylight"] {
+  color-scheme: light;
+  --bg: #f6f5f1;
+  --surface: #ffffff;
+  --surface-raised: #e9e6df;
+  --border: #d7d3ca;
+  --text: #2f2d29;
+  --muted: #77736b;
+  --muted-bright: #57534c;
+  --accent: #43607e;
+  --accent-glow: #43607e18;
+  --image-filter: grayscale(0.3) contrast(0.95) saturate(0.8);
+  --check-success: #2f7d4f;
+  --check-failure: #b34a52;
+}
+html[data-theme="daylight"] .custom-skills strong.invalid {
+  color: #a3542e;
+}
+html[data-theme="daylight"] .modal {
+  box-shadow: 0 24px 70px #0002;
+}
+html[data-theme="daylight"] .sidebar.mobile-open {
+  box-shadow: 30px 0 80px #0004;
+}
 * {
   box-sizing: border-box;
 }

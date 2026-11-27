@@ -35,6 +35,12 @@ export const readingThemes = [
     description: "焦褐与旧纸骨白，尘封档案中的低语。",
     colors: ["#14100d", "#2c231b", "#ccb28c"],
   },
+  {
+    id: "daylight",
+    name: "白昼公文",
+    description: "白纸墨字与钢青链接，办公时间的一页普通文档。",
+    colors: ["#f6f5f1", "#ffffff", "#43607e"],
+  },
 ] as const;
 export type ReadingTheme = (typeof readingThemes)[number]["id"];
 export type PageScroll = "top" | "preserve";
