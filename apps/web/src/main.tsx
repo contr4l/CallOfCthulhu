@@ -190,6 +190,9 @@ function App() {
   const [selectedAssistance, setSelectedAssistance] = useState(false);
   const [canReroll, setCanReroll] = useState(false);
   const [resumeCheckRun, setResumeCheckRun] = useState<string | null>(null);
+  const [docPanelOpen, setDocPanelOpen] = useState(false);
+  const [docFigureOpen, setDocFigureOpen] = useState(false);
+  const isDocTheme = theme === "daylight";
   const rolling = dicePhase === "rolling";
   const diceStarted = useRef(false);
   // The server saves the result immediately; reveal its scene only after the player sees the dice.
@@ -209,7 +212,14 @@ function App() {
       document
         .querySelector('meta[name="theme-color"]')
         ?.setAttribute("content", swatch);
+    document.title =
+      theme === "daylight"
+        ? "内部知识库 · 章节参考文档"
+        : "余烬档案 · 独行调查";
   }, [theme]);
+  useEffect(() => {
+    setDocFigureOpen(false);
+  }, [scene?.visitId]);
   useEffect(() => {
     localStorage.setItem("reading-scroll", pageScroll);
   }, [pageScroll]);
@@ -1046,7 +1056,42 @@ function App() {
               className="play-page"
               data-revision={scene.revision}
               data-visit={scene.visitId}
+              data-doc-panel={docPanelOpen ? "open" : "closed"}
+              data-doc-figure={docFigureOpen ? "open" : "closed"}
             >
+              {isDocTheme && (
+                <div className="doc-subheader" aria-label="文档信息栏">
+                  <span className="doc-crumbs">
+                    知识库 / 参考章节 /{" "}
+                    <strong>{scene.storyTitle}</strong>
+                  </span>
+                  <div className="doc-meta-actions">
+                    <span className="doc-meta-summary">
+                      § {scene.character.name} · 索引 {scene.character.hp}/
+                      {scene.character.maxHp} · 权重 {scene.character.sanity}
+                      {scene.character.luck !== undefined
+                        ? ` · 系数 ${scene.character.luck}`
+                        : ""}
+                    </span>
+                    <button
+                      type="button"
+                      className="doc-inline-toggle"
+                      aria-expanded={docFigureOpen}
+                      onClick={() => setDocFigureOpen((v) => !v)}
+                    >
+                      [{docFigureOpen ? "收起附图" : "展开附图"}]
+                    </button>
+                    <button
+                      type="button"
+                      className="doc-inline-toggle"
+                      aria-expanded={docPanelOpen}
+                      onClick={() => setDocPanelOpen((v) => !v)}
+                    >
+                      [{docPanelOpen ? "收起附录参数表" : "展开附录参数表"}]
+                    </button>
+                  </div>
+                </div>
+              )}
               <div className="play-layout">
                 <div className="story-panel">
                   <div className="scene-image">
@@ -1225,6 +1270,18 @@ function App() {
                   </article>
                 </div>
                 <aside className="character-panel">
+                  {isDocTheme && (
+                    <div className="doc-drawer-header">
+                      <strong>附录 A · 详细参数与字段索引</strong>
+                      <button
+                        type="button"
+                        className="doc-inline-toggle"
+                        onClick={() => setDocPanelOpen(false)}
+                      >
+                        [关闭 ×]
+                      </button>
+                    </div>
+                  )}
                   <CharacterCard character={scene.character} compact />
                   <CampaignState
                     calendar={scene.calendar}

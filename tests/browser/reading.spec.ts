@@ -214,6 +214,17 @@ test("reader themes persist, the story hides outer chrome and both page-scroll m
     .evaluate((n) => n.getBoundingClientRect().top);
   expect(top).toBeGreaterThanOrEqual(55);
   expect(top).toBeLessThanOrEqual(125);
+  // In the daylight wiki theme, the character panel is collapsed by default
+  // and expands on demand via [展开附录参数表].
+  await expect(page.locator(".play-page")).toHaveAttribute(
+    "data-doc-panel",
+    "closed",
+  );
+  await page.getByRole("button", { name: "[展开附录参数表]" }).click();
+  await expect(page.locator(".play-page")).toHaveAttribute(
+    "data-doc-panel",
+    "open",
+  );
   await page
     .getByRole("button", { name: "查看全部 50 项技能", exact: true })
     .click();
@@ -222,6 +233,11 @@ test("reader themes persist, the story hides outer chrome and both page-scroll m
     "技能",
     "当前",
   ]);
+  await page.getByRole("button", { name: "[关闭 ×]" }).click();
+  await expect(page.locator(".play-page")).toHaveAttribute(
+    "data-doc-panel",
+    "closed",
+  );
   await page.getByRole("button", { name: "回忆这一局", exact: true }).click();
   await expect(page.getByRole("dialog")).not.toContainText(
     /原书条目|第\s*\d+\s*段经历|向火独行\s*·\s*\d+/,

@@ -38,8 +38,8 @@ export const readingThemes = [
   {
     id: "daylight",
     name: "白昼公文",
-    description: "白纸墨字与钢青链接，办公时间的一页普通文档。",
-    colors: ["#f6f5f1", "#ffffff", "#43607e"],
+    description: "Wiki 知识库排版与可折叠参数栏，第一眼像在查技术文档。",
+    colors: ["#f6f8fa", "#ffffff", "#0969da"],
   },
 ] as const;
 export type ReadingTheme = (typeof readingThemes)[number]["id"];

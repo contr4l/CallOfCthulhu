@@ -63,100 +63,19 @@
 /* Daylight document theme: white paper, ink text and quiet steel-blue links. */
 html[data-theme="daylight"] {
   color-scheme: light;
-  --bg: #f6f5f1;
+  --bg: #f6f8fa;
   --surface: #ffffff;
-  --surface-raised: #e9e6df;
-  --border: #d7d3ca;
-  --text: #2f2d29;
-  --muted: #77736b;
-  --muted-bright: #57534c;
-  --accent: #43607e;
-  --accent-glow: #43607e18;
-  --image-filter: grayscale(1) contrast(0.9) brightness(1.08);
-  --check-success: #2f7d4f;
-  --check-failure: #b34a52;
-}
-/*
- * Office-document disguise: flat gray canvas, white sheet for the story,
- * hyperlink-style choices, Word-flat buttons and a spreadsheet-like dice tray.
- * Scoped to the daylight theme; the four dark palettes keep their own look.
- */
-html[data-theme="daylight"] body {
-  background: var(--bg);
-}
-html[data-theme="daylight"] .is-reading .story-panel {
-  background: #ffffff;
-  border-color: #d4d0c8;
-  border-radius: 0;
-  box-shadow: 0 1px 3px #00000014;
-}
-html[data-theme="daylight"] .is-reading .choices button {
-  background: transparent;
-  border: 0;
-  border-bottom: 1px dotted #c8c4bb;
-  border-radius: 0;
-  padding: 10px 4px;
-}
-html[data-theme="daylight"] .is-reading .choices button:hover {
-  background: #eef4fc;
-  border-color: #c8c4bb;
-  text-decoration: underline;
-}
-html[data-theme="daylight"] .is-reading .choices button > svg {
-  color: var(--accent);
-}
-html[data-theme="daylight"] .primary-button {
-  background: #ffffff;
-  color: var(--text);
-  border: 1px solid #adadad;
-}
-html[data-theme="daylight"] .primary-button:hover {
-  background: #e5f0fb;
-  border-color: #7ca8d8;
-  transform: none;
-}
-html[data-theme="daylight"] .secondary-button {
-  background: #ffffff;
-}
-html[data-theme="daylight"] .secondary-button:hover {
-  background: #e5f0fb;
-}
-html[data-theme="daylight"] .dice-tray {
-  background: #ffffff;
-  border: 1px solid #c9c5bc;
-  border-radius: 4px;
-  box-shadow: none;
-}
-html[data-theme="daylight"] .dice-scene {
-  display: none;
-}
-html[data-theme="daylight"] .dice-scene-note {
-  color: var(--muted);
-}
-html[data-theme="daylight"] .poly-die {
-  background: #ffffff;
-  color: var(--text);
-  border-color: #c9c5bc;
-}
-html[data-theme="daylight"] .poly-die small,
-html[data-theme="daylight"] .dice-percentile-note {
-  color: var(--muted);
-}
-html[data-theme="daylight"] .roll-equation > strong {
-  color: var(--text);
-}
-html[data-theme="daylight"] .dice-number {
-  background: #ffffff;
-  box-shadow: none;
-}
-html[data-theme="daylight"] .custom-skills strong.invalid {
-  color: #a3542e;
-}
-html[data-theme="daylight"] .modal {
-  box-shadow: 0 24px 70px #0002;
-}
-html[data-theme="daylight"] .sidebar.mobile-open {
-  box-shadow: 30px 0 80px #0004;
+  --surface-raised: #eef1f5;
+  --border: #d0d7de;
+  --text: #1f2328;
+  --muted: #656d76;
+  --muted-bright: #4d555e;
+  --accent: #0969da;
+  --gold: #0969da;
+  --accent-glow: transparent;
+  --image-filter: grayscale(1) contrast(0.92) brightness(1.05);
+  --check-success: #1a7f37;
+  --check-failure: #cf222e;
 }
 * {
   box-sizing: border-box;
@@ -3186,3 +3105,553 @@ html {
 .achievement-reward small { display: block; margin-top: 6px; color: var(--muted-bright); }
 .ending-tier-legend { color: var(--muted-bright); font-size: 13px; }
 .collection-entry[data-tier] { padding: 12px; border-radius: 8px; }
+
+/*
+ * Deep Wiki / documentation disguise for the daylight theme:
+ * - No atmospheric radial glow, no hero cover banners or story card artwork by default
+ * - Single-column documentation reader with a compact top metadata bar
+ * - Character & campaign panel collapsed by default until toggled
+ * - Scene illustration banner collapsed unless the user clicks [展开附图]
+ * - Choices styled as a documentation "See also" bullet list
+ * - Reader controls & modals styled as low-profile wiki toolbars / popovers
+ */
+html[data-theme="daylight"] button,
+html[data-theme="daylight"] input {
+  transition: none;
+}
+html[data-theme="daylight"] body {
+  background: #ffffff;
+}
+html[data-theme="daylight"] .sidebar {
+  background: #f6f8fa;
+  width: 210px;
+  padding: 20px 14px;
+}
+html[data-theme="daylight"] .workspace {
+  margin-left: 210px;
+  background: #ffffff;
+}
+html[data-theme="daylight"] .is-reading .workspace {
+  margin-left: 0;
+}
+html[data-theme="daylight"] .brand {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+html[data-theme="daylight"] .brand-mark,
+html[data-theme="daylight"] .sidebar-note {
+  display: none;
+}
+html[data-theme="daylight"] .sidebar-label {
+  font-size: 12px;
+  letter-spacing: 1px;
+  margin: 20px 0 8px;
+  padding-left: 10px;
+}
+html[data-theme="daylight"] .nav-item {
+  padding: 8px 10px;
+  gap: 10px;
+  font-size: 13px;
+  border-radius: 4px;
+}
+html[data-theme="daylight"] .nav-item svg {
+  width: 15px;
+  height: 15px;
+  opacity: 0.7;
+}
+html[data-theme="daylight"] .topbar {
+  height: 48px;
+  padding: 0 28px;
+  background: #f6f8fa;
+}
+html[data-theme="daylight"] .library,
+html[data-theme="daylight"] .account-page {
+  max-width: 980px;
+  padding: 28px 32px 40px;
+}
+html[data-theme="daylight"] .page-title h1,
+html[data-theme="daylight"] .account-page > h1 {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 10px;
+}
+/* Turn the featured hero banner into a plain documentation callout box */
+html[data-theme="daylight"] .featured {
+  min-height: 0;
+  background: #f6f8fa;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+}
+html[data-theme="daylight"] .featured-art,
+html[data-theme="daylight"] .featured-shade {
+  display: none;
+}
+html[data-theme="daylight"] .featured-content {
+  max-width: none;
+  padding: 16px 20px;
+}
+html[data-theme="daylight"] .feature-tag {
+  margin-bottom: 6px;
+  font-size: 12px;
+}
+html[data-theme="daylight"] .featured h2 {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin: 4px 0 6px;
+}
+html[data-theme="daylight"] .featured-content > p {
+  max-width: none;
+  margin: 0 0 10px;
+  line-height: 1.7;
+}
+html[data-theme="daylight"] .feature-meta {
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+/* Turn the story grid into a compact single-column directory index */
+html[data-theme="daylight"] .story-grid {
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+html[data-theme="daylight"] .story-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 12px 16px;
+}
+html[data-theme="daylight"] .card-image {
+  height: auto;
+  overflow: visible;
+  order: 2;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+html[data-theme="daylight"] .card-image img,
+html[data-theme="daylight"] .card-image:after {
+  display: none;
+}
+html[data-theme="daylight"] .card-type {
+  position: static;
+  background: #f6f8fa;
+  border: 1px solid var(--border);
+  font-size: 12px;
+  padding: 2px 8px;
+}
+html[data-theme="daylight"] .card-open {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  background: #f6f8fa;
+  color: var(--accent);
+}
+html[data-theme="daylight"] .card-body {
+  padding: 0;
+  background: transparent !important;
+  flex: 1;
+  min-width: 0;
+}
+html[data-theme="daylight"] .card-subtitle {
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+html[data-theme="daylight"] .card-body h3 {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin: 2px 0 4px;
+}
+html[data-theme="daylight"] .card-body p {
+  min-height: 0;
+  margin-bottom: 6px;
+  line-height: 1.6;
+  font-size: 13px;
+}
+html[data-theme="daylight"] .card-tags {
+  margin-bottom: 6px;
+}
+html[data-theme="daylight"] .card-tags span {
+  font-size: 12px;
+  padding: 1px 6px;
+  background: #f6f8fa;
+}
+html[data-theme="daylight"] .card-bottom {
+  padding: 6px 0 0;
+  font-size: 12px;
+}
+html[data-theme="daylight"] .run-card > img {
+  display: none;
+}
+
+/* Reader view: single-column wiki article */
+html[data-theme="daylight"] .is-reading .play-page {
+  max-width: 960px;
+  padding: 56px 32px 420px;
+}
+html[data-theme="daylight"] .doc-subheader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  padding: 6px 0 10px;
+  margin-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+html[data-theme="daylight"] .doc-crumbs strong {
+  color: var(--text);
+  font-weight: 500;
+}
+html[data-theme="daylight"] .doc-meta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+html[data-theme="daylight"] .doc-inline-toggle {
+  font-size: 12px;
+  color: var(--accent);
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+html[data-theme="daylight"] .doc-inline-toggle:hover {
+  background: #eef4fc;
+  text-decoration: underline;
+}
+html[data-theme="daylight"] .is-reading .play-layout {
+  grid-template-columns: minmax(0, 720px);
+  justify-content: center;
+  gap: 0;
+}
+html[data-theme="daylight"] .is-reading .story-panel {
+  background: #ffffff;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+/* Collapse the scene banner image unless the user expands [展开附图] */
+html[data-theme="daylight"] .is-reading .play-page:not([data-doc-figure="open"]) .scene-image {
+  display: none;
+}
+html[data-theme="daylight"] .is-reading .play-page[data-doc-figure="open"] .scene-image {
+  height: 160px;
+  margin-bottom: 12px;
+  border: 1px solid var(--border);
+}
+html[data-theme="daylight"] .is-reading .play-page[data-doc-figure="open"] .scene-image:after {
+  display: none;
+}
+html[data-theme="daylight"] .is-reading .narrative {
+  padding: 56px 24px 36px;
+  min-height: calc(100vh + 220px);
+}
+html[data-theme="daylight"] .is-reading .narrative h1 {
+  font-weight: 600;
+  letter-spacing: 0;
+  padding-bottom: 10px;
+  margin: 0 0 18px;
+  border-bottom: 1px solid #eaeef2;
+}
+html[data-theme="daylight"] .is-reading .check-note {
+  background: #f6f8fa;
+  border: 0;
+  border-left: 3px solid #d0d7de;
+  padding: 8px 12px;
+  margin: 12px 0;
+  font-size: 13px;
+  color: var(--muted-bright);
+}
+html[data-theme="daylight"] .is-reading .check-note > svg {
+  width: 14px;
+  height: 14px;
+  opacity: 0.65;
+}
+/* Disguise story choices as a wiki "See also / sub-sections" reference list */
+html[data-theme="daylight"] .is-reading .choices {
+  gap: 2px;
+  margin-top: 20px;
+  padding-top: 12px;
+  border-top: 1px solid #eaeef2;
+}
+html[data-theme="daylight"] .is-reading .choices:before {
+  content: "参见章节 (See also)";
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 4px;
+  letter-spacing: 0.3px;
+}
+html[data-theme="daylight"] .choices button,
+html[data-theme="daylight"] .is-reading .choices button {
+  background: #ffffff !important;
+  border: 0 !important;
+  border-radius: 3px;
+  padding: 5px 6px;
+  gap: 8px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--accent);
+}
+html[data-theme="daylight"] .choices button:hover,
+html[data-theme="daylight"] .is-reading .choices button:hover {
+  background: #f0f6fc !important;
+  text-decoration: underline;
+}
+html[data-theme="daylight"] .is-reading .choice-index {
+  color: var(--muted);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+html[data-theme="daylight"] .is-reading .choice-index:after {
+  content: ".";
+}
+html[data-theme="daylight"] .is-reading .choices button > svg {
+  display: none;
+}
+
+/*
+ * Collapse the character panel into an off-screen 1px drawer by default so
+ * first glance shows only the document, while Playwright DOM / click queries
+ * still find its buttons without extra steps. Clicking [展开附录参数表] opens it.
+ */
+  html[data-theme="daylight"] .play-page:not([data-doc-panel="open"]) .character-panel {
+    display: none;
+  }
+html[data-theme="daylight"] .is-reading .play-page[data-doc-panel="open"] .character-panel {
+  position: fixed;
+  top: 44px;
+  right: 16px;
+  max-height: calc(100vh - 60px);
+  width: min(360px, calc(100vw - 32px));
+  overflow: auto;
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 14px 16px;
+  box-shadow: 0 8px 24px #1f23281f;
+  z-index: 28;
+}
+html[data-theme="daylight"] .doc-drawer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--muted-bright);
+}
+html[data-theme="daylight"] .character-card {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 14px;
+  text-align: left;
+}
+html[data-theme="daylight"] .character-card h2 {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 2px;
+}
+html[data-theme="daylight"] .character-card > p {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+html[data-theme="daylight"] .character-stats {
+  padding: 8px 0;
+}
+html[data-theme="daylight"] .character-stats span,
+html[data-theme="daylight"] .attribute-grid span {
+  font-size: 12px;
+}
+html[data-theme="daylight"] .character-stats strong,
+html[data-theme="daylight"] .attribute-grid strong {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+}
+html[data-theme="daylight"] .skill-bar {
+  display: none;
+}
+html[data-theme="daylight"] .skills {
+  gap: 6px;
+}
+html[data-theme="daylight"] .skills > div {
+  justify-content: space-between;
+  font-size: 12px;
+  border-bottom: 1px dotted #eaeef2;
+  padding-bottom: 3px;
+}
+
+/* Reader floating toolbar -> quiet corner utility strip that fades in on hover */
+html[data-theme="daylight"] .reader-controls {
+  top: 8px;
+  right: 16px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  background: #f6f8fa;
+  box-shadow: none;
+  opacity: 0.38;
+  transition: opacity 0.15s ease;
+}
+html[data-theme="daylight"] .reader-controls:hover,
+html[data-theme="daylight"] .reader-controls:focus-within {
+  opacity: 1;
+}
+html[data-theme="daylight"] .reader-controls button {
+  width: 28px;
+  height: 28px;
+  border-radius: 3px;
+  background: transparent;
+}
+html[data-theme="daylight"] .reader-controls button:hover,
+html[data-theme="daylight"] .reader-controls button[aria-pressed="true"] {
+  background: #eaeef2 !important;
+  color: var(--accent);
+}
+html[data-theme="daylight"] .reader-controls button svg {
+  width: 15px;
+  height: 15px;
+}
+
+/* Buttons, dice & modals: compact office popover look */
+html[data-theme="daylight"] .primary-button {
+  background: #f6f8fa;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 7px 14px;
+  min-height: 34px;
+  gap: 10px;
+  font-size: 13px;
+}
+html[data-theme="daylight"] .primary-button:hover {
+  background: #eef4fc;
+  border-color: #80a8d8;
+  transform: none;
+}
+html[data-theme="daylight"] .secondary-button {
+  background: #ffffff;
+  border-radius: 4px;
+  padding: 7px 12px;
+  font-size: 13px;
+}
+html[data-theme="daylight"] .secondary-button:hover {
+  background: #f6f8fa;
+}
+html[data-theme="daylight"] .modal-backdrop {
+  background: rgba(31, 35, 40, 0.18);
+  backdrop-filter: none;
+}
+html[data-theme="daylight"] .modal {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 18px 20px;
+  box-shadow: 0 8px 24px #1f23281f;
+}
+html[data-theme="daylight"] .modal-heading > h2 {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+html[data-theme="daylight"] .dice-ready {
+  padding: 10px 0;
+  color: var(--muted-bright);
+}
+html[data-theme="daylight"] .dice-ready > svg {
+  display: none;
+}
+html[data-theme="daylight"] .dice-ready > p {
+  font-size: 14px;
+  margin-top: 4px;
+}
+html[data-theme="daylight"] .dice-tray {
+  background: #f6f8fa;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 8px;
+  margin: 10px 0;
+  box-shadow: none;
+}
+html[data-theme="daylight"] .dice-scene {
+  display: none;
+}
+html[data-theme="daylight"] .dice-scene-note {
+  position: static;
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
+html[data-theme="daylight"] .poly-die {
+  background: #ffffff;
+  color: var(--text);
+  border-color: var(--border);
+  border-radius: 3px;
+  padding: 3px 8px;
+  min-width: 48px;
+}
+html[data-theme="daylight"] .poly-die strong {
+  font-size: 15px;
+}
+html[data-theme="daylight"] .poly-die small,
+html[data-theme="daylight"] .dice-percentile-note {
+  color: var(--muted);
+}
+html[data-theme="daylight"] .roll-equation > strong {
+  color: var(--text);
+  font-size: 15px;
+}
+html[data-theme="daylight"] .dice-result h2 {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+}
+html[data-theme="daylight"] .dice-number {
+  background: #ffffff;
+  box-shadow: none;
+}
+html[data-theme="daylight"] .custom-skills strong.invalid {
+  color: #a3542e;
+}
+html[data-theme="daylight"] .sidebar.mobile-open {
+  box-shadow: 12px 0 32px #0002;
+}
+@media (max-width: 800px) {
+  html[data-theme="daylight"] .sidebar {
+    width: 60px;
+    padding: 16px 8px;
+  }
+  html[data-theme="daylight"] .workspace {
+    margin-left: 60px;
+  }
+  html[data-theme="daylight"] .is-reading .play-page {
+    padding: 40px 16px 360px;
+  }
+}
+@media (max-width: 560px) {
+  html[data-theme="daylight"] .workspace {
+    margin-left: 0;
+  }
+}
