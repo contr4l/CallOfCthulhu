@@ -72,9 +72,82 @@ html[data-theme="daylight"] {
   --muted-bright: #57534c;
   --accent: #43607e;
   --accent-glow: #43607e18;
-  --image-filter: grayscale(0.3) contrast(0.95) saturate(0.8);
+  --image-filter: grayscale(1) contrast(0.9) brightness(1.08);
   --check-success: #2f7d4f;
   --check-failure: #b34a52;
+}
+/*
+ * Office-document disguise: flat gray canvas, white sheet for the story,
+ * hyperlink-style choices, Word-flat buttons and a spreadsheet-like dice tray.
+ * Scoped to the daylight theme; the four dark palettes keep their own look.
+ */
+html[data-theme="daylight"] body {
+  background: var(--bg);
+}
+html[data-theme="daylight"] .is-reading .story-panel {
+  background: #ffffff;
+  border-color: #d4d0c8;
+  border-radius: 0;
+  box-shadow: 0 1px 3px #00000014;
+}
+html[data-theme="daylight"] .is-reading .choices button {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px dotted #c8c4bb;
+  border-radius: 0;
+  padding: 10px 4px;
+}
+html[data-theme="daylight"] .is-reading .choices button:hover {
+  background: #eef4fc;
+  border-color: #c8c4bb;
+  text-decoration: underline;
+}
+html[data-theme="daylight"] .is-reading .choices button > svg {
+  color: var(--accent);
+}
+html[data-theme="daylight"] .primary-button {
+  background: #ffffff;
+  color: var(--text);
+  border: 1px solid #adadad;
+}
+html[data-theme="daylight"] .primary-button:hover {
+  background: #e5f0fb;
+  border-color: #7ca8d8;
+  transform: none;
+}
+html[data-theme="daylight"] .secondary-button {
+  background: #ffffff;
+}
+html[data-theme="daylight"] .secondary-button:hover {
+  background: #e5f0fb;
+}
+html[data-theme="daylight"] .dice-tray {
+  background: #ffffff;
+  border: 1px solid #c9c5bc;
+  border-radius: 4px;
+  box-shadow: none;
+}
+html[data-theme="daylight"] .dice-scene {
+  display: none;
+}
+html[data-theme="daylight"] .dice-scene-note {
+  color: var(--muted);
+}
+html[data-theme="daylight"] .poly-die {
+  background: #ffffff;
+  color: var(--text);
+  border-color: #c9c5bc;
+}
+html[data-theme="daylight"] .poly-die small,
+html[data-theme="daylight"] .dice-percentile-note {
+  color: var(--muted);
+}
+html[data-theme="daylight"] .roll-equation > strong {
+  color: var(--text);
+}
+html[data-theme="daylight"] .dice-number {
+  background: #ffffff;
+  box-shadow: none;
 }
 html[data-theme="daylight"] .custom-skills strong.invalid {
   color: #a3542e;

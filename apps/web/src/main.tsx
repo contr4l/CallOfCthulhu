@@ -19,6 +19,7 @@ import {
 import {
   ReadingSettings,
   initialTheme,
+  readingThemes,
   type ReadingTheme,
   type PageScroll,
 } from "./components/ReadingSettings";
@@ -202,6 +203,12 @@ function App() {
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
     localStorage.setItem("reading-theme", theme);
+    // Match the browser chrome (mobile address bar) to the active palette.
+    const swatch = readingThemes.find((t) => t.id === theme)?.colors[0];
+    if (swatch)
+      document
+        .querySelector('meta[name="theme-color"]')
+        ?.setAttribute("content", swatch);
   }, [theme]);
   useEffect(() => {
     localStorage.setItem("reading-scroll", pageScroll);
