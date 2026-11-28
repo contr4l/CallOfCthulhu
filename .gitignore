@@ -10,3 +10,7 @@ test-results/
 # Python runtime caches
 __pycache__/
 *.py[cod]
+
+# Local SSH keys and extracted story review fixtures (restored by `npm run pretest`)
+pems/
+work/
